@@ -1,0 +1,313 @@
+Warszawa, 9 lutego 2022
+PRAWOMOCNA
+
+Decyzja
+ZSPR.440.911.2019
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r. poz. 735 ze zm.) w zw. z art. 7 ust. 1 i 2 ustawy z
+dnia 10 maja 2018 r. o ochronie danych osobowych (t. j. Dz. U. z 2019 r. poz. 1781) oraz
+na podstawie art. 6 ust. 1 i art. 58 ust. 2 lit. c rozporządzenia Parlamentu Europejskiego i
+Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)
+(Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz.
+UE L 74 z 4.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pani AF, zamiesz‐
+kałej w O. przy ul. (…) na nieprawidłowości w procesie przetwarzania jej danych osobo‐
+wych przez (…) S.A. z siedzibą w I. przy ul. (…) polegające na przetwarzaniu danych oso‐
+bowych Skarżącej bez podstawy prawnej i niespełnieniu jej żądania usunięcia danych
+osobowych, Prezes Urzędu Ochrony Danych Osobowych
+nakazuje (…) Spółce Akcyjnej z siedzibą w I. przy ul. (…) usunięcie danych osobowych
+Pani AF zam. w O. przy ul. (…).
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pani AF zamieszkałej w O. przy
+ul. (…), zwaną dalej Skarżącą, na nieprawidłowości w procesie przetwarzania jej danych
+osobowych przez (…) S.A. z siedzibą w I. przy ul. (…), zwaną dalej Bankiem, polegające
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_911/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.911.2019
+
+Strona 2 z 7
+
+na przetwarzaniu jej danych osobowych bez podstawy prawnej oraz niespełnieniu jej
+żądania usunięcia danych osobowych.
+W toku postępowania przeprowadzonego w niniejszej sprawie Prezes Urzędu Ochrony
+Danych Osobowych ustalił następujący stan faktyczny.
+1. W treści skargi Skarżąca wskazała, że pod koniec 2018 r. otrzymała od Banku kore‐
+spondencję w przedmiocie kont oszczędnościowych, których nie jest właścicielką. W
+dniu 28 grudnia 2018 r. Skarżąca zgłosiła reklamację do Banku, zaś w dniu 30 grud‐
+nia 2018 r. za pośrednictwem wiadomości e-mail wycofała zgodę na przetwarzanie
+jej danych osobowych przez Bank. Skarżąca wskazała cyt.: „(…) W międzyczasie wy‐
+słałam do (…) 2 e-maile z żądaniem najpierw zaprzestania przetwarzania danych
+osobowych, a później usunięcia moich danych osobowych z systemu. To tej pory nie
+dostałam odpowiedzi na te e-maile. (…)”. Skarżąca przedłożyła otrzymaną od Banku
+wiadomość mailową z dnia 18 stycznia 2019 r., w której Bank stwierdził, że zesta‐
+wienie opłat przekazano do Skarżącej błędnie. W związku z powyższym Skarżąca
+wskazała, że chciałaby wiedzieć, czy Bank usunął jej dane (dowód: pismo Skarżącej
+z dnia 3 stycznia 2019 r., 18 marca 2019 r. oraz z dnia 24 czerwca 2019 r. wraz z za‐
+łącznikiem).
+2. Zgodnie z wyjaśnieniami Banku, dane Skarżącej zostały pozyskane w dniu 26 paź‐
+dziernika 2006 r. w związku z zawarciem umowy numer (…) o prowadzenie banko‐
+wych rachunków oszczędnościowo-rozliczeniowych. Bank w wyniku zawarcia ww.
+umowy pozyskał dane osobowe Skarżącej w zakresie: imienia, nazwiska, imion ro‐
+dziców, nazwiska panieńskiego matki, numeru PESEL, serii i numeru dokumentu toż‐
+samości, adresu zameldowania, adresu korespondencyjnego, daty urodzenia, miej‐
+sca urodzenia, płci, numeru klienta, numeru kontraktu bankowego, numeru telefonu
+komórkowego, obrotów na rachunku bankowym. (dowód: wyjaśnienia Banku z dnia
+25 czerwca 2019 r.).
+3. Bank wskazał, że w dniu 25 maja 2014 r. na podstawie złożonego wniosku Skarżąca
+została odpisana od rachunku wspólnego o numerze (…), który przekształcono w ra‐
+chunek indywidualny na rzecz osoby trzeciej, która oświadczyła o przejęciu na sie‐
+bie praw i obowiązków wynikających z faktu prowadzenia przez Bank przedmiotowe‐
+go rachunku. Na koniec 2018 r. pracownik Banku błędnie wysłał zestawienia opłat
+do byłych klientów Banku. W dniu 28 grudnia 2018 r. Skarżąca zgłosiła do Banku re‐
+klamację w związku z przesłaną korespondencją. Dla celów reklamacyjnych Bank
+pozyskał od Skarżącej adres poczty elektronicznej (dowód: wyjaśnienia Banku z dnia
+25 czerwca wraz z załącznikami).
+4. W styczniu 2019 r. Skarżąca otrzymała drogą pocztową korespondencję zawierającą
+zestawienie opłat dla rachunku bankowego o numerze (…). Zgodnie z wyjaśnieniami
+Banku, Skarżąca nie zgłaszała reklamacji oraz nie żądała usunięcia danych osobo‐
+wych w zakresie rachunku bankowego o numerze (…). W dniu 18 stycznia 2019 r.
+Bank za pośrednictwem poczty elektronicznej skierował do Skarżącej odpowiedź na
+reklamację potwierdzając, że doszło do nieprawidłowości po stronie Banku, potwier‐
+dzając brak współposiadania rachunku bankowego, którego dotyczyło zestawienie
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_911/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.911.2019
+
+5.
+
+6.
+
+Strona 3 z 7
+
+opłat doręczone Skarżącej w grudniu 2018 r. (dowód: pismo Skarżącej z dnia 3
+stycznia 2019 r. wraz z załącznikami, pismo Skarżącej z dnia 18 marca 2019 r., pi‐
+smo Skarżącej z dnia 24 czerwca 2019 r. wraz z załącznikami, wyjaśnienia Banku z
+dnia 25 czerwca 2019 r. wraz z załącznikami, wyjaśnienia Banku z dnia 23 czerwca
+wraz z załącznikami).
+Jak wynika z wyjaśnień Banku, przetwarzanie danych osobowych trwało do maja
+2020 r. na podstawie art. 6 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego i
+Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu
+takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o
+ochronie danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z
+23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35), dalej jako RODO, w zw.
+z art. 49 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz
+finansowaniu terroryzmu (Dz. U. z 2021 r., poz. 1132 oraz z 2019 r., poz. 1655).
+Obecnie Bank przetwarza dane osobowe Skarżącej w oparciu o art. 6 ust. 1 lit. f
+RODO w zw. z art. 442 § 1 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz.
+U. z 2020, poz. 1740 oraz Dz. U. z 2019, poz. 1495), dalej jako KC. Zgodnie z wyja‐
+śnieniami Bank zamierza przetwarzać dane osobowe Skarżącego przez 10 lat od
+cyt. „(…) zakończenia współpracy ze Skarżącą we wszystkich obszarach działalności
+bankowej (…)”. Ponadto Bank wskazuje, że przetwarza dane osobowe Skarżącej w
+związku z przedmiotową skargą, na wypadek sporu sądowego, ustalenia i obrony
+przed roszczeniami, następnie wskazując termin dziesięcioletni dla przetwarzania
+danych osobowych Skarżącej jako zapewniający Bankowi ochronę prawną w okresie
+przedawnienia, co ma istotne znaczenie wobec sporów sądowych dotyczących
+umów kredytów zawieranych z konsumentami. Dziesięcioletni termin przetwarzania
+danych osobowych Skarżącej pozwala Bankowi na posiadanie dokumentów i dowo‐
+dów na wypadek postępowania administracyjnego prowadzonego przez Prezesa
+UODO. Po upływie ww. terminu Bank wskazał, że usuwa lub anonimizuje dane (do‐
+wód: wyjaśnienia Banku z dnia 3 lutego 2021 r. oraz wyjaśnienia Banku z dnia 31
+marca 2021 r.)
+Bank wskazał, że nie występował z roszczeniami wobec Skarżącej i nie pozostaje z
+nią w sporze sądowym, z wyjątkiem toczącego się postępowania administracyjnego
+przed Prezesem Urzędu Ochrony Danych Osobowych (dowód: wyjaśnienia Banku z
+dnia 3 lutego 2021 r.).
+
+Po zapoznaniu się ze zgromadzonym materiałem dowodowym, Prezes Urzędu Ochrony
+Danych Osobowych, zwany dalej także Prezesem UODO, zważył, co następuje.
+W pierwszej kolejności konieczne jest podkreślenie, że Prezes Urzędu Ochrony Danych
+Osobowych wydając decyzję administracyjną, zobowiązany jest do rozstrzygania sprawy
+w oparciu o stan faktyczny istniejący w chwili wydania tej decyzji. Jak podnosi się w dok‐
+trynie „organ administracji publicznej ocenia stan faktyczny sprawy według chwili wyda‐
+nia decyzji administracyjnej. Reguła ta odnosi się także do oceny stanu prawnego spra‐
+wy, co oznacza, że organ administracji publicznej wydaje decyzję administracyjną na
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_911/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.911.2019
+
+Strona 4 z 7
+
+podstawie przepisów prawa obowiązujących w chwili jej wydania (…). Rozstrzyganie w
+postępowaniu administracyjnym polega na zastosowaniu obowiązującego prawa do
+ustalonego stanu faktycznego sprawy administracyjnej. W ten sposób organ administra‐
+cji publicznej realizuje cel postępowania administracyjnego, jakim jest urzeczywistnienie
+obowiązującej normy prawnej w zakresie stosunków administracyjno-prawnych, gdy
+stosunki te tego wymagają” (Komentarz do ustawy z dnia 14 czerwca 1960 r. Kodeks po‐
+stępowania administracyjnego M. Jaśkowska, A. Wróbel, Lex., el/2012). Jednocześnie ni‐
+niejszy organ podziela stanowisko wyrażone przez Naczelny Sąd Administracyjny w
+wyroku z dnia 25 listopada 2013 r., wydanym w sprawie o sygn. akt I OPS 6/1, w którym
+ww. Sąd wskazał cyt.: „W postępowaniu administracyjnym, regulowanym przepisami Ko‐
+deksu postępowania administracyjnego, zasadą jest, że organ administracji publicznej
+załatwia sprawę przez wydanie decyzji, która rozstrzyga sprawę co do jej istoty, według
+stanu prawnego i faktycznego na dzień wydania decyzji”.
+Następnie należy wskazać, że przepisem uprawniającym administratorów danych do
+przetwarzania zwykłych danych osób fizycznych jest art. 6 ust. 1 RODO, zgodnie z któ‐
+rym, przetwarzanie danych jest dopuszczalne tylko wtedy, gdy spełniona jest jedna z
+przesłanek wskazanych w tym przepisie. Katalog przesłanek wymienionych w art. 6 ust.
+1 RODO jest zamknięty. Każda z przesłanek legalizujących proces przetwarzania danych
+osobowych ma charakter autonomiczny i niezależny. Oznacza to, że przesłanki te co do
+zasady są równoprawne, a wobec tego spełnienie co najmniej jednej z nich stanowi o
+zgodnym z prawem przetwarzaniu danych osobowych. W konsekwencji zgoda osoby,
+której dane dotyczą nie jest jedyną podstawą przetwarzania danych osobowych, ponie‐
+waż proces przetwarzania danych będzie zgodny z rozporządzeniem również wówczas,
+gdy administrator danych wykaże spełnienie innej z wyżej wymienionych przesłanek.
+Niezależnie od zgody osoby, której dane dotyczą (art. 6 ust. 1 lit. a RODO) przetwarzanie
+danych osobowych jest dopuszczalne między innymi wtedy, gdy jest to niezbędne do
+wypełnienia obowiązku prawnego ciążącego na administratorze (art. 6 ust. 1 lit. c
+RODO), jak również gdy jest to niezbędne do celów wynikających z prawnie uzasadnio‐
+nych interesów realizowanych przez administratora (art. 6 ust. 1 lit. f RODO).
+Przytaczając motyw 47 RODO należy wskazać, że podstawą prawną przetwarzania mogą
+być prawnie uzasadnione interesy administratora, w tym administratora, któremu mogą
+zostać ujawnione dane osobowe, lub strony trzeciej, o ile w świetle rozsądnych oczeki‐
+wań osób, których dane dotyczą, opartych na ich powiązaniach z administratorem nad‐
+rzędne nie są interesy lub podstawowe prawa i wolności osoby, której dane dotyczą. Taki
+prawnie uzasadniony interes może istnieć na przykład, gdy zachodzi istotny i odpowiedni
+rodzaj powiązania między osobą, której dane dotyczą, a administratorem, na przykład
+gdy osoba, której dane dotyczą, jest klientem administratora lub działa na jego rzecz.
+Bank wskazał, iż pozyskał dane osobowe Skarżącej w związku z zawarciem umowy nu‐
+mer (…) o prowadzenie bankowych rachunków oszczędnościowo-rozliczeniowych. Skar‐
+żąca utraciła status klienta Banku w dniu 25 maja 2014 r. poprzez złożenie dyspozycji
+przekształcenia rachunku wspólnego o numerze (…) w rachunek indywidualny na rzecz
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_911/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.911.2019
+
+Strona 5 z 7
+
+osoby trzeciej, która oświadczyła o przejęciu na siebie praw i obowiązków wynikających
+z faktu prowadzenia przez Bank przedmiotowego rachunku. Obecnie Banku i Skarżąca
+nie są zatem związani umową, zaś Skarżąca nie jest klientem Banku. Bank wskazał, że
+przetwarzał dane osobowe Skarżącej w oparciu o art. 6 ust. 1 lit. c RODO w celu wypeł‐
+nienia obowiązków prawnych na nim ciążących, tj. realizacji przepisów dotyczących
+przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu. Jak przyznał Bank, ter‐
+min przetwarzania danych osobowych w wyżej wymienionym celu jednak upłynął w
+maju 2020 r. Bank wskazał, że przetwarza więc dane osobowe Skarżącej wyłącznie na
+podstawie art. 6 ust. 1 lit. f RODO uznając, że przetwarzanie danych osobowych Skarżą‐
+cej jest niezbędne do celów wynikających z prawnie uzasadnionych interesów przez nie‐
+go realizowanych. Jako swój prawnie uzasadniony interes Bank wskazał ewentualny spór
+sądowy oraz obronę przed ewentualnymi roszczeniami.
+Z materiału dowodowego zebranego w aktach sprawy nie wynika, aby Skarżąca wystę‐
+powała dotychczas z jakimkolwiek roszczeniem wobec Banku, jak również aby takie rosz‐
+czenia wobec Skarżącej zgłosił Bank. W ocenie Prezesa UODO, brak jest zatem spełnie‐
+nia wskazywanej przez Bank przesłanki niezbędności przetwarzania danych osobowych
+Skarżącej do celów wynikających z prawnie usprawiedliwionych interesów realizowanych
+przez Bank. Wskazać bowiem należy, że przesłanka z art. 6 ust. 1 lit. f RODO dotyczy sy‐
+tuacji już istniejącej, w której celem wynikającym z prawnie uzasadnionych interesów re‐
+alizowanych przez administratora jest konieczność udowodnienia, potrzeba dochodzenia
+lub obrony przed roszczeniem istniejącym, nie zaś sytuacji, gdy dane są przetwarzane w
+celu zabezpieczenia się przed ewentualnym roszczeniem. W związku z tym, że przepro‐
+wadzone przez Prezesa UODO postępowanie administracyjne nie wykazało, aby pomię‐
+dzy Skarżącą a Bankiem toczyły się jakiekolwiek postępowania w przedmiocie wzajem‐
+nie zgłoszonych roszczeń należy stwierdzić, iż Bank przetwarza dane osobowe Skarżącej
+w ww. celu wyłącznie „na zapas”, aby zabezpieczyć się przed ewentualnym przyszłymi i
+niepewnymi roszczeniami Skarżącej.
+Prezes Urzędu Ochrony Danych Osobowych podziela tym samym stanowisko Naczelnego
+Sądu Administracyjnego odnoszące się do analogicznej do art. 6 ust. 1 lit. f RODO prze‐
+słanki wynikającej z art. 23 ust. 1 pkt 5 ustawy z dnia 29 sierpnia 1997 r. o ochronie
+danych osobowych (Dz. U. 2016 r. poz. 922 ze zm.), dotyczącej dopuszczalności prze‐
+twarzania danych osobowych dla wypełnienia prawnie usprawiedliwionych celów realizo‐
+wanych przez administratorów danych albo odbiorców danych, gdy przetwarzanie nie
+narusza praw i wolności osoby, której dane dotyczą. Sąd ten w wyroku z dnia 6 marca
+2019 r. w sprawie sygn. I OSK 994/17 (LEX nr 2670498) orzekł, cyt.: „Przepis u.o.d.o. ze‐
+zwala na przetwarzanie danych gdy jest to niezbędne dla wypełnienia prawnie usprawie‐
+dliwionych celów realizowanych przez administratorów danych albo odbiorców danych, a
+przetwarzanie nie narusza praw i wolności osoby, której dane dotyczą. Dokonując wy‐
+kładni tego przepisu należy zatem zwrócić uwagę, że stosowanie ww. przepisu wymaga
+wykazania, że chodzi o realizowanie prawnie usprawiedliwionego celu, ale także dokona‐
+nie oceny czy dla realizacji tego celu niezbędne jest przekazanie danych, pomimo braku
+zgody osoby której dane te dotyczą. Ocena ta sprowadza się do wyważania racji i intere‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_911/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.911.2019
+
+Strona 6 z 7
+
+sów osoby, której danych sprawa dotyczy, a która jest objęta ochroną prawną, a z dru‐
+giej administratora danych, również chronionego przez prawo w zakresie w jakim może
+realizować prawnie usprawiedliwione cele i uprawnienia. Naczelny Sąd Administracyjny
+w wyroku z dnia 23 września 2005 r. (sygn. akt I OSK 712/05, CBOSA) już wskazywał, że
+rozstrzygając o legalności przetwarzania danych trzeba każdorazowo, ważąc interesy
+stron, znaleźć równowagę między prawami i wolnościami jednostki z jednej strony a
+prawnie usprawiedliwionym interesem osoby trzeciej z drugiej strony. Oznacza to obo‐
+wiązek zapewnienia właściwej równowagi praw i interesów stron w tym praw podstawo‐
+wych. (…) niedopuszczalne jest przetwarzanie danych osobowych niejako "na zapas" z
+założeniem, że mogą być one ewentualnie przydatne w przyszłości”.
+Podkreślenia wymaga, że przy przyjęciu odmiennej interpretacji ww. przepisów, Skarżąca
+pozbawiona byłaby ochrony na gruncie RODO oraz ustawy z dnia 10 maja 2018 r. o
+ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781). Zaznaczyć bowiem należy, że
+przyjęcie za prawidłowe stanowiska, iż przetwarzanie danych osobowych w celu uchyle‐
+nia się od negatywnych skutków w przypadku zgłoszenia w przyszłości ewentualnego i
+nieokreślonego roszczenia, stanowi prawnie usprawiedliwiony cel w rozumieniu art. 6
+ust. 1 lit. f RODO oznaczałoby, że dane osobowe Skarżącej mogą być przetwarzane
+przez Bank permanentnie, bez konieczności ich usunięcia. Teoretycznie możliwym jest
+przecież by Skarżąca zwróciła się do Banku z roszczeniem po upływie terminu przedaw‐
+nienia roszczenia. Prowadziłoby to tym samym do uznania, że przetwarzanie danych
+osobowych Skarżącej przez Bank ma uzasadnienie w przesłance określonej art. 6 ust. 1
+lit. f RODO w celu realizacji prawa do obrony przed ewentualnym roszczeniem Skarżącej
+również po upływie ww. terminu.
+W tym miejscu wskazać należy, że brak jest uzasadnienia dla przyjęcia, iż terminy doty‐
+czące przedawnienia roszczeń wynikających ze stosunków zobowiązaniowych określają
+jednocześnie ramy czasowe, w których dane osobowe mogą być przetwarzane przez
+Bank. Koniecznym jest by podnieść, że przedawnienie roszczenia nie wywołuje skutków
+na gruncie ochrony danych osobowych, nie wpływa bowiem na fakt istnienia roszczenia,
+a powoduje jedynie zmianę w sferze zarzutów procesowych w postaci możliwości pod‐
+niesienia okoliczności przedawnienia w sporze sądowym. Podkreślenia wymaga, że oko‐
+licznością usprawiedliwiającą przetwarzanie danych osobowych w celu dochodzenia
+roszczeń jest sam fakt istnienia roszczenia oraz zamiar jego dochodzenia, nie jest nią
+natomiast zmiana w uprawnieniach procesowych podmiotu pozwanego.
+Z uwagi na to, że brak jest obecnie sporu toczącego się między Skarżącą, a Bankiem do‐
+tyczącego stosunku zobowiązaniowego, w ocenie Prezesa Urzędu Ochrony Danych Oso‐
+bowych brak jest celu uzasadniającego przetwarzanie danych osobowych Skarżącej w
+zakresie: imienia, nazwiska, imion rodziców, nazwiska panieńskiego matki, numeru PE‐
+SEL, serii i numeru dokumentu tożsamości, adresu zameldowania, adresu koresponden‐
+cyjnego, daty urodzenia, miejsca urodzenia, płci, numeru klienta, numeru kontraktu ban‐
+kowego, numeru telefonu komórkowego i obrotów na rachunku bankowym w rozumieniu
+art. 6 ust. 1 lit. f RODO. Wobec powyższego, kontynuowanie do chwili obecnej przetwa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_911/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.911.2019
+
+Strona 7 z 7
+
+rzania danych osobowych Skarżącej w celu zabezpieczenia i dochodzenia lub obrony
+przed ewentualnymi, przyszłymi i niepewnymi roszczeniami, należy uznać za zbędne i
+niezgodne z obowiązującymi przepisami o ochronie danych osobowych. Ocena dokony‐
+wana przez Prezesa Urzędu Ochrony Danych Osobowych w każdym przypadku służy zba‐
+daniu zasadności skierowania pod adresem określonego podmiotu nakazu odpowiadają‐
+cego dyspozycji art. 58 ust. 2 RODO służącego przywróceniu stanu zgodnego z prawem
+w procesie przetwarzania danych - jest więc ona uzasadniona i potrzebna tylko o tyle, o
+ile nieprawidłowości w procesie przetwarzania danych osobowych istnieją. Mając na
+uwadze powyższej wskazane okoliczności Prezes Urzędu korzystając z uprawnienia, o
+którym mowa w art. 58 ust. 2 lit. c RODO nakazał Bankowi usunięcie danych osobowych
+Skarżącej uznając, że Bank nie legitymuje się żadną z przesłanek legalizujących proces
+przetwarzania danych osobowych Skarżącej, o których mowa w art. 6 ust. 1 RODO.
+W tym stanie faktycznym i prawnym, Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_911/content
+
+2025-09-03 13:41
+

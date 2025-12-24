@@ -1,0 +1,574 @@
+Warszawa, 24 sierpnia 2021
+PRAWOMOCNA
+
+Decyzja
+DKE.523.18.2021
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r. poz. 2096 ze zm.), art. 160 ust. 1 i 2 ustawy z 10
+maja 2018 r. o ochronie danych osobowych (Dz. U. z 2018 r. poz. 1000 ze zm.) w zw. z
+art. 18 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. 2016 r.
+poz. 922 ze zm.) oraz art. 14 Rozporządzenia Parlamentu Europejskiego i Rady UE
+2016/679 z 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwa‐
+rzaniem danych osobowych i w sprawie swobodnego przepływu takich danych (Dz. Urz.
+UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 1 z późn. zm.),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi G. B., zam. w Ł.
+przy ul. (…) reprezentowanej przez r. pr. A. F. prowadzącą kancelarię radcy prawnego z
+siedzibą w Ł przy ul. (…), na nieprawidłowości w przetwarzaniu jej danych osobowych
+przez N. S.A. z siedzibą w W. przy ul. (…), Prezes Urzędu Ochrony Danych Osobowych
+1. Nakazuje N. S.A. z siedzibą w W. przy ul. (…) dopełnienie obowiązku informacyjnego
+wobec G. B., poprzez podanie jej na piśmie informacji, zgodnie z art. 14 Rozporzą‐
+dzenia Parlamentu Europejskiego i Rady UE 2016/679 z 27 kwietnia 2016 r. w spra‐
+wie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w
+sprawie swobodnego przepływu takich danych (Dz. Urz. UE L 119 z 04.05.2016, str.
+1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 1 z późn. zm.), dotyczących przetwarza‐
+nia jej danych osobowych, w następującym zakresie:
+–
+cele przetwarzania
+–
+planowany okres przechowywania danych, a gdy nie jest to możliwe, kryteria
+ustalania tego okresu
+–
+informacje o źródle pozyskania imienia, nazwiska i numeru telefonu Skarżącej
+2. W pozostałym zakresie odmawia uwzględnienia wniosku
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+Strona 2 z 12
+
+Uzasadnienie
+
+Stan faktyczny
+Do Generalnego Inspektora Ochrony Danych Osobowych (obecnie: Prezesa Urzędu
+Ochrony Danych Osobowych), wpłynęła skarga G.B., zam. w Ł przy ul. (…), zwana dalej
+także „Skarżącą”, reprezentowanej przez r. pr. A. F. prowadzącą kancelarię radcy praw‐
+nego z siedzibą w Ł. przy ul. (…), na nieprawidłowości w przetwarzaniu danych osobo‐
+wych Skarżącej przez N. S.A. z siedzibą w W. przy Al. (…), zwanej dalej także „Spółką”. Z
+treści skargi wynikało, że nieprawidłowości w przetwarzaniu danych osobowych Skarżą‐
+cej pojawiły się w kontekście działań Spółki, prowadzących do zawarcia ze Skarżącą
+umowy świadczenia usług telekomunikacyjnych przez Spółkę.
+Skarżąca podniosła, że nie udzielała Spółce uprzedniej zgody na kontakt telefoniczny w
+celu przedstawienia oferty handlowej jak również jakiejkolwiek zgody na przetwarzanie
+jej danych osobowych. Skarżąca wskazała, że skontaktował się z nią przedstawiciel Spół‐
+ki, podszywając się pod ówczesnego operatora telekomunikacyjnego Skarżącej, a w re‐
+zultacie tego kontaktu Skarżąca zawarła niekorzystną dla siebie umowę ze Spółką,
+działając pod wpływem błędu co do tożsamości Spółki.
+Skarżąca wskazała na konieczność wyjaśnienia, na jakiej podstawie Spółka weszła w po‐
+siadanie jej danych osobowych w postaci imienia, nazwiska i numeru telefonu, na jakiej
+podstawie Spółka, bez uprzedniej zgody Skarżącej, stosowała wobec niej marketing bez‐
+pośredni oraz na jakiej podstawie Spółka weszła w posiadanie pozostałych danych oso‐
+bowych Skarżącej, zawartych w treści umowy, w sytuacji gdy dane te nie były przez
+Skarżącą przekazywane Spółce.
+W odniesieniu do treści pisemnej umowy, zawartej między Skarżącą a Spółką, Skarżąca
+podniosła, że została pozbawiona możliwości swobodnego wyrażenia zgody na przetwa‐
+rzanie jej danych osobowych przez Spółkę, a także inne, bliżej nieokreślone w umowie
+przedsiębiorstwa telekomunikacyjne, gdyż pola do wyrażenia tych zgód były już zazna‐
+czone na egzemplarzach umowy doręczonych Skarżącej. Do skargi załączona była mię‐
+dzy innymi umowa świadczenia usług telekomunikacyjnych przez N. S.A., z oznaczoną
+datą wydruku 24 października 2016 roku, podpisana przez Skarżącą 2 listopada 2016
+roku (zwana dalej także „Umową”). W treści Umowy zaznaczone drukiem były następują‐
+ce zgody Skarżącej na przetwarzanie jej danych osobowych:
+–
+zgoda na przetwarzanie danych na podstawie art. 161 ust. 3 Ustawy Prawo
+Telekomunikacyjne (pkt III. 9. Umowy)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+–
+
+Strona 3 z 12
+
+zgoda na przetwarzanie danych w celu ich umieszczenia w publicznie dostępnym
+spisie abonentów oraz na przekazanie tych danych innym przedsiębiorcom w celu
+publikacji spisu abonentów lub świadczenia informacji o numerach telefonicznych.
+Brak wyrażenia zgody jest równoznaczny z zastrzeżeniem numeru (pkt I. 12. Umo‐
+wy)
+
+W treści Umowy zaznaczone drukiem były następujące odmowy zgody Skarżącej na
+przetwarzanie jej danych osobowych:
+–
+brak zgody na przetwarzanie danych oraz przesyłanie przez N. S.A. oraz podmioty
+współpracujące z N. S.A., na wskazany adres korespondencyjny, adres poczty elek‐
+tronicznej oraz numer telefonu, informacji handlowych i marketingowych, dotyczą‐
+cych oferty N. S.A. oraz podmiotów współpracujących z N. S.A. (pkt I. 10. Umowy)
+–
+brak zgody na przetwarzanie danych teletransmisyjnych dla celów marketingu usług
+telekomunikacyjnych przez okres obowiązywania Umowy (pkt I. 11. Umowy)
+–
+brak zgody na używanie przez N. S.A. telekomunikacyjnych urządzeń końcowych i
+automatycznych systemów wywołujących dla celów marketingu bezpośredniego
+(pkt I. 13. Umowy)
+–
+brak zgody na sprawdzenie danych Skarżącej w biurze informacji gospodarczych
+oraz innych publicznie dostępnych baz wiarygodności dłużników (pkt I. 14. Umowy)
+–
+brak zgody na przesyłanie informacji handlowych na adres poczty elektronicznej
+(pkt I. 16. Umowy)
+Skarżąca wskazała ponadto, że Spółka nie wypełniła wobec niej obowiązku informacyjne‐
+go w zakresie przetwarzania jej danych osobowych a zapisy zawarte w umowie ze Spół‐
+ką uważa za niejasne, niepełne a zakres przekazania danych zbyt szeroki.
+Skarżąca zaznaczyła, że złożyła Spółce oświadczenie o uchyleniu się od skutków praw‐
+nych oświadczenia i traktuje przedmiotową umowę ze Spółką jako niezawartą. Skarżąca
+podniosła, że niezależnie od tej czynności Spółka dalej przetwarzała jej dane osobowe
+oraz udostępniła je podmiotowi U. sp. z o.o. w rezultacie umowy cesji wierzytelności.
+Do skargi załączone było także wezwanie do zapłaty, datowane na 11 kwietnia 2017
+roku, skierowane do Skarżącej przez U. sp. z o.o., w treści którego wskazano, że podmiot
+ten nabył od Spółki wierzytelność wobec Skarżącej. Załącznikiem do skargi było również
+zawiadomienie o cesji wierzytelności, datowane na 11 kwietnia 2017 roku, skierowane
+do Skarżącej przez Spółkę, w którego treści jako nabywcę wierzytelności wskazano
+podmiot U. sp. z o.o.
+Skarżąca zażądała podjęcia działań zmierzających do przywrócenia stanu zgodnego z
+prawem poprzez nakazanie:
+–
+usunięcia przez Spółkę jej danych osobowych a tym samym zaprzestania ich prze‐
+twarzania
+–
+wszczęcia i prowadzenia postępowania w przedmiocie nałożenia kary finansowej za
+praktyki stosowane przez Spółkę naruszające przepisy prawa z zakresu ochrony
+danych osobowych
+–
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+Strona 4 z 12
+
+zobowiązania Spółki do udzielenia wyjaśnień dotyczących przetwarzania jej danych
+osobowych, w tym, (wobec zarzutu braku wypełnienia przez Spółkę obowiązku infor‐
+macyjnego wobec Skarżącej) przywrócenie stanu zgodnego z prawem poprzez
+nakaz realizacji obowiązku informacyjnego
+W rezultacie wniesienia przedmiotowej skargi, organ zwrócił się do Spółki o złożenie pi‐
+semnych wyjaśnień co do okoliczności przedstawionych w skardze. W odpowiedzi na we‐
+zwanie (data wpływu do Urzędu 25 sierpnia 2017 roku) Spółka wyjaśniła, że 2 listopada
+2016 roku zawarła ze Skarżącą umowę o świadczenie usług telekomunikacyjnych a Skar‐
+żąca podpisała egzemplarz umowy, w której wyraziła zgodę na przetwarzanie przez da‐
+nych osobowych zawartych w umowie, w tym zgodę na przekazanie jej danych podmio‐
+towi U. sp. z o.o. Dalej Spółka wskazała, że o wypełnieniu obowiązku informacyjnego
+świadczy treść pkt. V Umowy zawartej ze Skarżącą. Spółka podkreśliła, że nie pozyskuje
+danych osobowych abonenta, ponieważ zleca te obowiązki podmiotowi zewnętrznemu,
+który imiona, nazwiska i numery telefonów pozyskuje z ogólnodostępnej bazy teleadre‐
+sowej. Spółka wskazała dalej, że numer PESEL i adres zamieszkania przekazywane są
+przez samego abonenta podczas rozmowy telefonicznej poprzedzającej zawarcie umo‐
+wy, które to dane są niezbędne do przygotowania umowy na usługi telekomunikacyjne.
+Spółka wyjaśniła, że dane osobowe Skarżącej przetwarza w celu dochodzenia roszczeń
+związanych z zawartą umową. Spółka podniosła również, że nie ma w swoim systemie
+reklamacji wysłanej przez Skarżącą, dotyczącej przetwarzania jej danych osobowych. W
+wyjaśnieniach (data wpływu 15 czerwca 2020 roku) Spółka wskazała, że przetwarzanie
+danych osobowych Skarżącej zakończyła w 2017 roku.
+W załączeniu do tych wyjaśnień (data wpływu (…) czerwca 2020 roku) Spółka zawarła
+kopię umowy zawartej ze Skarżącą w 2016 roku oraz płytę CD z nagraniem rozmowy te‐
+lefonicznej między osobą działającą na rzecz Spółki a Skarżącą. Poniżej zamieszczona
+została transkrypcja tej rozmowy:
+„
+Konsultant: Witam
+Mężczyzna: yyy witam, przekazuję Panią G. B.
+Konsultant: B., tak?
+Kobieta: Tak?
+Konsultant: yyy dzień dobry, z tej strony K. A. (…) es aaa (…)
+Kobieta: Dzień dobry
+Konsultant: tutaj dodam że rozmowa jest rejestrowana. W celu weryfikacji
+poprosiłbym o Pani imię i nazwisko?
+Kobieta: B. G.
+Konsultant: Dobrze, eee proszę mi powiedzieć czy podpisała Pani eee dokumenty na
+promocyjny abonament?
+Kobieta: Tak
+Konsultant: Dobrze, proszę mi powiedzieć czy kurier zostawił Pani egzemplarz umo‐
+wy?
+Kobieta: Tak
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+Strona 5 z 12
+
+Konsultant: Dobrze, nadmienię, że ma Pani 14 dni na ewentualne odstąpienie od
+umowy zawartej poza siedzibą, eee i proszę mi powiedzieć jak Pani ocenia pracę
+kuriera, dobrze źle?
+Kobieta: Bardzo dobrze, grzeczny
+Konsultant: Dobrze, to w takim razie z mojej strony wszystko, życzę miłego,
+spokojnego dnia, do usłyszenia
+Kobieta: Dziękuję”
+
+Uzasadnienie prawne
+W tym stanie faktycznym, Prezes Urzędu Ochrony Danych Osobowych (zwany dalej tak‐
+że: „Prezesem UODOO”) zważył, co następuje.
+Z dniem 25 maja 2018 r. w życie weszły przepisy ustawy z dnia 10 maja 2018 r. o
+ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781), zwanej dalej także „u.o.d.o.
+2018”. W myśl art. 160 ust. 1-3 tej Ustawy, postępowania prowadzone przez Generalne‐
+go Inspektora Ochrony Danych Osobowych, wszczęte i niezakończone przed dniem wej‐
+ścia w życie niniejszej ustawy, prowadzone są przez Prezesa Urzędu Ochrony Danych
+Osobowych na podstawie ustawy z dnia 29 sierpnia 1997 r. o ochronie danych
+osobowych (Dz. U. z 2016 r. poz. 922 ze zm.) zwanej dalej także „u.o.d.o. 1997”, zgodnie
+z zasadami określonymi w ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (t.j. Dz. U. z 2021 r. poz. 735), zwanej dalej także „k.p.a”. Jednocze‐
+śnie, czynności dokonane w postępowaniach, wszczętych i niezakończonych przed
+dniem wejścia w życie przepisów Ustawy z dnia 10 maja 2018 r. o ochronie danych
+osobowych (Dz. U. z 2019 r., poz. 1781), pozostają skuteczne.
+Zgodnie z art. 18. ust. 1 u.o.d.o. 1997, w przypadku naruszenia przepisów o ochronie da‐
+nych osobowych Generalny Inspektor z urzędu lub na wniosek osoby zainteresowanej, w
+drodze decyzji administracyjnej, nakazuje przywrócenie stanu zgodnego z prawem, a w
+szczególności:
+1) usunięcie uchybień;
+2) uzupełnienie, uaktualnienie, sprostowanie, udostępnienie lub nieudostępnienie
+danych osobowych;
+3) zastosowanie dodatkowych środków zabezpieczających zgromadzone dane osobo‐
+we;
+4) wstrzymanie przekazywania danych osobowych do państwa trzeciego;
+5) zabezpieczenie danych lub przekazanie ich innym podmiotom;
+6) usunięcie danych osobowych.
+Zgodnie z art. 23. ust. 1 u.o.d.o. 1997 przetwarzanie danych jest dopuszczalne tylko
+wtedy, gdy:
+1)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+2)
+3)
+
+4)
+5)
+
+Strona 6 z 12
+
+osoba, której dane dotyczą, wyrazi na to zgodę, chyba że chodzi o usunięcie
+dotyczących jej danych;
+jest to niezbędne dla zrealizowania uprawnienia lub spełnienia obowiązku
+wynikającego z przepisu prawa;
+jest to konieczne do realizacji umowy, gdy osoba, której dane dotyczą, jest jej stroną
+lub gdy jest to niezbędne do podjęcia działań przed zawarciem umowy na żądanie
+osoby, której dane dotyczą;
+jest niezbędne do wykonania określonych prawem zadań realizowanych dla dobra
+publicznego;
+jest to niezbędne dla wypełnienia prawnie usprawiedliwionych celów realizowanych
+przez administratorów danych albo odbiorców danych, a przetwarzanie nie narusza
+praw i wolności osoby, której dane dotyczą.
+
+Zgodnie z art. 23 ust. 4 u.o.d.o. 1997 za prawnie usprawiedliwiony cel, o którym mowa w
+ust. 1 pkt 5, uważa się w szczególności:
+1) marketing bezpośredni własnych produktów lub usług administratora danych;
+2) dochodzenie roszczeń z tytułu prowadzonej działalności gospodarczej.
+Zgodnie z art. 6 ust 1. Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem
+danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 4 maja 2016 r. oraz Dz. Urz. UE L 127 z 23
+maja 2018 r.) (dalej zwane także „Rozporządzeniem 2016/679”) przetwarzanie danych
+osobowych jest zgodne z prawem wyłącznie w przypadkach, gdy - i w takim zakresie, w
+jakim - spełniony jest co najmniej jeden z poniższych warunków:
+a) osoba, której dane dotyczą wyraziła zgodę na przetwarzanie swoich danych
+osobowych w jednym lub większej liczbie określonych celów;
+b) przetwarzanie jest niezbędne do wykonania umowy, której stroną jest osoba, której
+dane dotyczą, lub do podjęcia działań na żądanie osoby, której dane dotyczą, przed
+zawarciem umowy;
+c) przetwarzanie jest niezbędne do wypełnienia obowiązku prawnego ciążącego na ad‐
+ministratorze;
+d) przetwarzanie jest niezbędne do ochrony żywotnych interesów osoby, której dane
+dotyczą, lub innej osoby fizycznej;
+e) przetwarzanie jest niezbędne do wykonania zadania realizowanego w interesie pu‐
+blicznym lub w ramach sprawowania władzy publicznej powierzonej administratoro‐
+wi;
+f) przetwarzanie jest niezbędne do celów wynikających z prawnie uzasadnionych inte‐
+resów realizowanych przez administratora lub przez stronę trzecią, z wyjątkiem sy‐
+tuacji, w których nadrzędny charakter wobec tych interesów mają interesy lub pod‐
+stawowe prawa i wolności osoby, której dane dotyczą, wymagające ochrony danych
+osobowych, w szczególności gdy osoba, której dane dotyczą, jest dzieckiem.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+Strona 7 z 12
+
+Ocena prawna
+W ocenie Prezesa UODO oświadczenie Spółki, dotyczące zakończenia przetwarzania da‐
+nych osobowych Skarżącej w 2017 roku, jest sprzeczne z dowodami przedstawionymi
+przez Spółkę w niniejszym postępowaniu. Ukazanie tej sprzeczności wymaga sięgnięcia
+do definicji przetwarzania danych osobowych.
+Zgodnie z definicją zawartą w art. 7 pkt 2) u.o.d.o. 1997 przetwarzanie danych to jakie‐
+kolwiek operacje wykonywane na danych osobowych, takie jak zbieranie, utrwalanie,
+przechowywanie, opracowywanie, zmienianie, udostępnianie i usuwanie, a zwłaszcza te,
+które wykonuje się w systemach informatycznych. Zgodnie natomiast z obowiązującym
+obecnie art. 4 pkt 2) Rozporządzenia 2016/679, "przetwarzanie" oznacza operację lub
+zestaw operacji wykonywanych na danych osobowych lub zestawach danych osobowych
+w sposób zautomatyzowany lub niezautomatyzowany, taką jak zbieranie, utrwalanie, or‐
+ganizowanie, porządkowanie, przechowywanie, adaptowanie lub modyfikowanie, pobie‐
+ranie, przeglądanie, wykorzystywanie, ujawnianie poprzez przesłanie, rozpowszechnianie
+lub innego rodzaju udostępnianie, dopasowywanie lub łączenie, ograniczanie, usuwanie
+lub niszczenie.
+Wracając na grunt niniejszej sprawy należy przypomnieć, że według twierdzeń Spółki za‐
+kończyła ona przetwarzanie danych osobowych Skarżącej w 2017 roku. Jednocześnie ja‐
+sne jest, że Spółka przetwarza dane osobowe Skarżącej, które to dane są zawarte w tre‐
+ści umowy między Spółką a Skarżącą oraz na nagraniu rozmowy telefonicznej między
+konsultantem Spółki a Skarżącą, które to dowody Spółka przedłożyła przecież w niniej‐
+szym postępowaniu. Z zacytowanych powyżej przepisów wynika, że przez przetwarzanie
+danych rozumie się m.in. ich przechowywanie. Stwierdzić należy zatem, że Spółka prze‐
+twarza dane osobowe Skarżącej i jest administratorem tych danych, zarówno w rozumie‐
+niu przepisów obowiązujących w dacie wniesienia skargi jak i obecnie obowiązujących
+przepisów z zakresu ochrony danych osobowych.
+Prezes UODO ma na uwadze, że oświadczenie Spółki o nieprzetwarzaniu danych osobo‐
+wych Skarżącej, odnosi się do zaprzestania przetwarzania tych danych w pierwotnym
+celu, w jakim te dane osobowe zostały przez Spółkę pozyskane, tj. w celu realizacji umo‐
+wy usług telekomunikacyjnych i dochodzenia należności z tytułu tej umowy. Na podsta‐
+wie ustalonego w sprawie stanu faktycznego należy uznać, że posiadana przez Spółkę
+dokumentów zawierających dane osobowe Skarżącej – tj. umowy usług telekomunikacyj‐
+nych, podpisana przez Skarżącą oraz nagrania rozmowy telefonicznej ze Skarżącą - jest
+prawnie uzasadnione w celu obrony przed roszczeniami Skarżącej z tytułu umowy. Pod‐
+stawa prawna do przetwarzania danych osobowych w takim zakresie wynika z art. 23
+ust. 1 pkt 5) u.o.d.o. 1997 oraz aktualnie obowiązującego art. 6 ust. 1 lit. f) Rozporządze‐
+nia 2016/679. Nadto na Spółce może spoczywać obowiązek przetwarzania danych oso‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+Strona 8 z 12
+
+bowych Skarżącej, wynikających z Umowy, na podstawie art. 74 w zw. z art. 71 ustawy z
+dnia 29 września 1994 r. o rachunkowości (t.j. Dz. U. z 2021 r. poz. 217 z późn. zm.).
+Wobec powyższego, odnosząc się do żądania Skarżącej, dotyczącego nakazania usunię‐
+cia przez Spółkę jej danych osobowych a tym samym zaprzestania ich przetwarzania,
+Prezes UODO odmawia uwzględnienia wniosku w tym zakresie.
+Należy zaznaczyć, że Generalny Inspektor Ochrony Danych Osobowych a obecnie Prezes
+Urzędu Ochrony Danych Osobowych, nie jest organem właściwym do dokonywania oce‐
+ny prawidłowości umów cywilnoprawnych (umowa między Skarżącą a Spółką oraz umo‐
+wa cesji wierzytelności) i powstałych na tym gruncie sporów, gdyż właściwość rzeczową
+w tym zakresie posiadają jedynie sądy powszechne. Organ nie może badać, czy umowa
+jest ważna i prawnie skuteczna, albowiem w tym przypadku Prezes UODO jako organ ad‐
+ministracji publicznej wykraczałby poza swoje ustawowo określone kompetencje. Dla Ge‐
+neralnego Inspektora Ochrony Danych Osobowych zawarta umowa jest czynnością praw‐
+ną niepodlegającą jego ocenie, wywołującą skutki prawne do czasu, dopóki nie zostanie
+zakwestionowana w formie i trybie przewidzianym przez prawo (por. np. wyrok NSA z
+dnia 26 maja 2009 r., I OSK 808/08, Lex nr 513109, wyrok WSA w Warszawie z dnia 19
+lipca 2007 r., II SA/Wa 678/07, Lex nr 368229). Ustawa o ochronie danych osobowych nie
+ogranicza swobody prowadzenia działalności gospodarczej przez przedsiębiorców. Za‐
+warcie umowy o świadczenie usług telekomunikacyjnych czy umowy przelewu wierzytel‐
+ności wywołuje skutki prawne regulowane zarówno przepisami Kodeksu cywilnego, jak i
+przepisami ustawy o ochronie danych osobowych. Rozważenie dopuszczalności, skutecz‐
+ności, czy też ważności umowy przelewu należy do sądów powszechnych, ewentualnie w
+niektórych jej aspektach, może być również przedmiotem zainteresowania Prezesa Urzę‐
+du Ochrony Konkurencji i Konsumentów. Jest to aspekt cywilnoprawny tej sprawy, który
+nie może być przedmiotem zainteresowania organu administracji publicznej.
+W zakresie żądania Skarżącej odnoszącego się do wszczęcia i prowadzenia postępowa‐
+nia w przedmiocie nałożenia kary finansowej za praktyki stosowane przez Spółkę naru‐
+szające przepisy prawa z zakresu ochrony danych osobowych, Prezes UODO dokonał
+następującej oceny.
+W dacie wniesienia przedmiotowej skargi, przetwarzanie danych osobowych było zgodne
+z prawem wyłącznie wtedy, gdy administrator danych wykazał spełnienie co najmniej
+jednej z materialnych przesłanek dopuszczalności tego procesu, które, co do zasady rów‐
+noprawne, enumeratywnie wymienia art. 23 ust. 1 u.o.d.o. 1997. Na mocy tego przepisu
+przetwarzanie danych było dopuszczalne nie tylko za zgodą osoby, której dane dotyczą
+(art. 23 ust. 1 pkt 1 u.o.d.o. 1997), ale też wtedy, gdy jest to niezbędne dla wypełnienia
+prawnie usprawiedliwionych celów realizowanych przez administratorów danych albo od‐
+biorców danych, a przetwarzanie nie naruszało praw i wolności osoby, której dane
+dotyczą (art. 23 ust. 1 pkt 5 u.o.d.o. 1997).
+Na dokumencie umowy usług telekomunikacyjnych między Spółką a Skarżącą, widnieją
+dane osobowe Skarżącej, naniesione drukiem: imię, nazwisko, adres, numer telefonu,
+oraz wpisany odręcznie numer PESEL. Spółka podkreśliła, że pozyskiwanie danych oso‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+Strona 9 z 12
+
+bowych abonentów zlecała podmiotowi zewnętrznemu, który imiona, nazwiska i numery
+telefonów pozyskiwał z ogólnodostępnej bazy teleadresowej. Spółka wskazała dalej, że
+numer PESEL i adres zamieszkania przekazywane są przez samego abonenta podczas
+rozmowy telefonicznej poprzedzającej zawarcie umowy, które to dane są niezbędne do
+przygotowania umowy na usługi telekomunikacyjne. W ocenie Prezesa UODO z okolicz‐
+ności towarzyszących zawarciu umowy (rozmowy telefoniczne poprzedzające podpisanie
+umowy; nagranie telefoniczne potwierdzające wizytę kuriera, który dostarczył umowę;
+fakt naniesienia numeru PESEL odręcznie na umowie) należy wnioskować, zgodnie z
+twierdzeniami Spółki, że adres i numer PESEL, Spółka pozyskała od Skarżącej.
+Dodatkowo należy stwierdzić - wbrew zarzutom podniesionym przez Skarżącą, że została
+ona pozbawiona możliwości swobodnego wyrażenia zgody na przetwarzanie jej danych
+osobowych przez Spółkę, a także inne, bliżej nieokreślone w umowie przedsiębiorstwa
+telekomunikacyjne - że w treści Umowy pola oznaczające wyrażenie zgody przez Skarżą‐
+cą na przetwarzanie jej danych osobowych, obejmowały tylko minimalne zgody, istotne
+dla przedmiotu Umowy. Natomiast przy deklaracjach w rozszerzonym zakresie, dotyczą‐
+cych m. in. kierowania informacji handlowych i marketingowych do Skarżącej, drukiem
+oznaczone zostały pola oznaczające brak zgody Skarżącej na tę formę kontaktu.
+Wobec powyższego należy stwierdzić, że pozyskanie danych osobowych Skarżącej, wy‐
+łącznie w zakresie jej imienia, nazwiska oraz numeru telefonu, w celu nawiązania na ich
+podstawie kontaktu i przedstawienia oferty handlowej, stanowiło usprawiedliwiony cel
+administratora, co wynika bezpośrednio z treści art. 23 ust. 1 pkt 5) w zw. z art. 23 ust. 4
+pkt 1) u.o.d.o. 1997.
+Natomiast kolejny krok Spółki, tj. nawiązanie kontaktu ze Skarżącą i przedstawienie jej
+oferty handlowej na podstawie pozyskanych wcześniej danych osobowych, podlegało do‐
+datkowym rygorom. Zgodnie z art. 172 ust. 1 Ustawy z dnia 16 lipca 2004 r. Prawo
+telekomunikacyjne (t.j. Dz. U. z 2021 r. poz. 576), zakazane jest używanie telekomunika‐
+cyjnych urządzeń końcowych i automatycznych systemów wywołujących dla celów mar‐
+ketingu bezpośredniego, chyba że abonent lub użytkownik końcowy uprzednio wyraził na
+to zgodę. Zgodnie z art. 5 Ustawy, jeżeli przepisy odrębnych ustaw, które odnoszą się do
+przetwarzania danych, przewidują dalej idącą ich ochronę, niż wynika to z niniejszej
+ustawy, stosuje się przepisy tych ustaw.
+Z powyższej analizy wynika, że Spółka winna była dysponować uprzednią zgodą Skarżą‐
+cej na kontakt telefoniczny w celu przedstawienia jej oferty usług telekomunikacyjnych.
+Spółka nie wykazała posiadania takiej zgody co prowadzi do stwierdzenia naruszenia art.
+23 ust. 1 pkt 1) w zw. z art. art. 5 u.o.d.o. 1997 w zw. z art. 172 ust. 1 Ustawy z dnia 16
+lipca 2004 r. Prawo telekomunikacyjne (t.j. Dz. U. z 2021 r. poz. 576)
+Stwierdzając w niniejszej sprawie naruszenie przez Spółkę przepisów o ochronie danych
+osobowych, Prezes UODO zobligowany jest jednak, zważywszy na jej okoliczności, odmó‐
+wić uwzględnienia wniosku Skarżącej w zakresie nałożenia kary finansowej za praktyki
+stosowane przez Spółkę naruszające przepisy prawa z zakresu ochrony danych osobo‐
+wych. Zdarzenie stanowiące podstawę skargi uznać należy bowiem za jednorazowe. Na‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+Strona 10 z 12
+
+ruszenie miało miejsce w 2016 roku, nie było powtarzane w późniejszym okresie i – co
+najistotniejsze - nie jest kontynuowane w dacie wydania niniejszej decyzji. Wobec tego,
+że – jak zostało to wskazane na wstępie uzasadnienia niniejszej decyzji – Prezes UODO
+orzeka w niniejszej sprawie na podstawie u.o.d.o. 1997 (mając do dyspozycji jedynie
+środki wskazane w art. 18 ust 1 tej ustawy), jako organ ochrony danych osobowych nie
+ma podstaw do rozstrzygnięcia zgodnego z tym żądaniem Skarżącej. Jak wskazał
+Naczelny Sąd Administracyjny w wyroku z dnia 17 lipca 2015 r., I OSK 2464/13 (LEX nr
+2091094): „Zgodnie z tym przepisem [art. 18 ust. 1 u.o.d.o. 1997], w sytuacji, gdy do‐
+chodzi do naruszenia przepisów ustawy o ochronie danych osobowych Generalny Inspek‐
+tor, w razie stwierdzenia tego naruszenia, w drodze decyzji administracyjnej, nakazuje
+przywrócenie stanu zgodnego z prawem, poprzez wydanie określonych nakazów wymie‐
+nionych w tym przepisie. W literaturze przedmiotu podkreśla się, że decyzja Generalne‐
+go Inspektora wydawana na podstawie powyższego przepisu ma służyć przywróceniu
+stanu zgodnego z prawem. (…) Przesłanką wydania nakazu jest stwierdzenie naruszenia
+przepisów o ochronie danych osobowych, tj. z zebranego w postępowaniu materiału do‐
+wodowego musi wynikać, że swoim działaniem lub zaniechaniem administrator naruszył
+przepisy prawa. Co ważne, stwierdzony przez organ stan naruszenia przepisów o
+ochronie danych osobowych powinien istnieć w dacie wydania decyzji”.
+Jak wynika z powyższego, Prezes UODO w sprawach wszczętych przed 25 maja 2018 r.,
+to jest przed datą rozpoczęcia stosowania przepisów Rozporządzenia 2016/679, nie ma
+możliwości dokonania oceny naruszeń przeszłych, nie kontynuowanych w chwili orzeka‐
+nia, np. w celach represyjnych – mających na celu wyciągnięcie konsekwencji w związku
+z takimi naruszeniami. Taką możliwość (kompetencję do nałożenia administracyjnej kary
+pieniężnej) Prezes UODO otrzymał dopiero na podstawie przepisów Rozporządzenia
+2016/679, które w tym zakresie nie mają zastosowania do niniejszej sprawy.
+W odniesieniu do zarzutu niedopełnienia przez Spółkę wobec Skarżącej obowiązku infor‐
+macyjnego, dotyczącego przetwarzania danych osobowych Skarżącej, należy rozważyć
+przepisy art. 24 i art. 25 u.o.d.o. 1997.
+Zgodnie z art. 24 ust. 1. u.o.d.o. 1997, w przypadku zbierania danych osobowych od oso‐
+by, której one dotyczą, administrator danych jest obowiązany poinformować tę osobę o
+1) adresie swojej siedziby i pełnej nazwie, a w przypadku gdy administratorem danych
+jest osoba fizyczna - o miejscu swojego zamieszkania oraz imieniu i nazwisku,
+2) celu zbierania danych, a w szczególności o znanych mu w czasie udzielania informa‐
+cji lub przewidywanych odbiorcach lub kategoriach odbiorców danych,
+3) prawie dostępu do treści swoich danych oraz ich poprawiania,
+4) dobrowolności albo obowiązku podania danych, a jeżeli taki obowiązek istnieje, o
+jego podstawie prawnej.
+W myśl art. 24 ust. 2. u.o.d.o. 1997, przepisu ust. 1 nie stosuje się, jeżeli
+1) przepis innej ustawy zezwala na przetwarzanie danych bez ujawniania faktycznego
+celu ich zbierania,
+2) osoba, której dane dotyczą, posiada informacje, o których mowa w ust. 1.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+Strona 11 z 12
+
+Zgodnie z art. 25 ust. 1 u.o.d.o. 1997, w przypadku zbierania danych osobowych nie od
+osoby, której one dotyczą, administrator danych jest obowiązany poinformować tę
+osobę, bezpośrednio po utrwaleniu zebranych danych, o:
+1) adresie swojej siedziby i pełnej nazwie, a w przypadku gdy administratorem danych
+jest osoba fizyczna - o miejscu swojego zamieszkania oraz imieniu i nazwisku,
+2) celu i zakresie zbierania danych, a w szczególności o odbiorcach lub kategoriach
+odbiorców danych,
+3) źródle danych,
+4) prawie dostępu do treści swoich danych oraz ich poprawiania,
+5) o uprawnieniach wynikających z art. 32 ust. 1 pkt 7 i 8 u.o.d.o. 1997.
+W myśl art. 25 ust. 2 w/w ustawy przepisu ust. 1 nie stosuje się, jeżeli:
+1) przepis innej ustawy przewiduje lub dopuszcza zbieranie danych osobowych bez
+wiedzy osoby, której dane dotyczą,
+2) (uchylony),
+3) dane te są niezbędne do badań naukowych, dydaktycznych, historycznych, staty‐
+stycznych lub badania opinii publicznej, ich przetwarzanie nie narusza praw lub wol‐
+ności osoby, której dane dotyczą, a spełnienie wymagań określonych w ust. 1 wy‐
+magałoby nadmiernych nakładów lub zagrażałoby realizacji celu badania,
+4) (uchylony),
+5) dane są przetwarzane przez administratora, o którym mowa w art. 3 ust. 1 i ust. 2
+pkt 1, na podstawie przepisów prawa,
+6) osoba, której dane dotyczą, posiada informacje, o których mowa w ust. 1.
+Powyższe przepisy mają zastosowanie w niniejszej sprawie z uwagi na to, że Spółka po‐
+zyskała część danych osobowych Skarżącej bezpośrednio od niej (art. 24) natomiast
+dane w postaci imienia, nazwiska i numeru telefonu Spółka pozyskała nie od Skarżącej,
+lecz z innego źródła (art. 25).
+Obowiązek informacyjny przewidziany w art. 24 i art. 25 u.o.d.o. 1997 a obecnie w art.
+13 oraz art. 14 Rozporządzenia 2016/679, ma na celu zapewnienie osobom, których
+dane osobowe są przetwarzane, dostępu do informacji o okolicznościach ich przetwarza‐
+nia. Prawidłowe i rzetelne wypełnienie przez administratora danych tego obowiązku jest
+niezbędne do zapewnienia osobie, której dane osobowe dotyczą, kontroli prawidłowości
+procesu przetwarzania danych osobowych. W przedmiotowej sprawie obowiązek infor‐
+macyjny ciążył na Spółce do momentu pozyskania danych osobowych Skarżącej i powi‐
+nien być zrealizowany niezwłocznie po utrwaleniu tych danych przez Spółkę. W ustalo‐
+nym stanie faktycznym sprawy nie zachodziły bowiem żadne z okoliczności, które by go
+wyłączały. Podkreślenia wymaga, że udzielenie osobie, której dane dotyczą, informacji
+wymienionych w omawianym przepisie jest obowiązkiem administratora, powinno nastę‐
+pować z jego inicjatywy; nie jest tu potrzebna prośba, pytanie ani wniosek zainteresowa‐
+nego. Dodać należy, że obowiązek informacyjny z art. 25 ust. 1 u.o.d.o. 1997 obowiązy‐
+wał również administratorów zbierających dane ogólnie dostępne (a więc takie, z który‐
+mi w zasadzie każdy może się zapoznać bez większych trudności, obciążeń finansowych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.18.2021
+
+Strona 12 z 12
+
+- dotyczy to np. danych zamieszczonych w powszechnie dostępnych rejestrach, bazach
+danych) (tak J. Barta, P. Fajgielski, R. Markiewicz, „Ochrona danych osobowych. Komen‐
+tarz”, Wolters Kluwer Polska Sp. z o.o., Kraków 2007, s. 527).
+Informacja przekazana Skarżącej, zawarta w pkt. V umowy usług telekomunikacyjnych,
+spełniała ówcześnie większość wymogów ustanowionych w art. 24 i art. 25 u.o.d.o.
+1997. Nie zawierała jednak informacji o źródle, z którego Spółka pozyskała dane osobo‐
+we Skarżącej. W niniejszej sprawie Spółka nie spełniła zatem wobec Skarżącej ww.
+obowiązku informacyjnego w pełnym zakresie.
+W toku niniejszego postępowania ustalono, że Spółka w dalszym ciągu przetwarza dane
+osobowe Skarżącej (co potwierdzają dowody przedstawione przez Spółkę w niniejszym
+postępowaniu), jednak zmianie uległy zakres danych i cele, które pierwotnie uzasadniały
+pozyskanie i przetwarzanie tych danych (z uwagi na umowę cesji wierzytelności), nieob‐
+jęte informacją wskazaną w treści umowy między stronami. Zmianie uległy także przepi‐
+sy z zakresu ochrony danych osobowych, co jest wiążące dla Spółki i winno skutkować
+aktualizacją obowiązku informacyjnego po ich wejściu w życie, tj. od 25 maja 2018 roku.
+Biorąc pod uwagę powyższe, Prezes Urzędu Ochrony Danych Osobowych uznał za celo‐
+we nakazanie Spółce, na podstawie art. 18 ust. 1 pkt 1 u.o.d.o. 1997, usunięcia uchybień
+w procesie przetwarzania danych osobowych Skarżącej poprzez dopełnienie wobec niej
+obowiązku informacyjnego, zgodnie z aktualnym stanem przetwarzania przez Spółkę jej
+danych osobowych oraz zgodnie z treścią i zakresem aktualnie obowiązujących przepi‐
+sów o ochronie danych osobowych, tj. art. 14 Rozporządzenia 2016/679.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak na wstępie.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_18/content
+
+2025-09-03 13:43
+

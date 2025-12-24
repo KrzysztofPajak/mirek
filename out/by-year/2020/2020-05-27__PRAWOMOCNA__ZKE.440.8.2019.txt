@@ -1,0 +1,510 @@
+Warszawa, 27 maja 2020
+PRAWOMOCNA
+
+Decyzja
+ZKE.440.8.2019
+
+Na podstawie art. 138 § 1 pkt 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2020 r., poz. 256), art. 160 ust. 1 i 2 ustawy z dnia 10 maja
+2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781) w związku z art. 12
+pkt 2, art. 18 ust. 1 pkt 2, art. 22 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych
+osobowych (Dz. U. z 2016 r., poz. 922 ze zm.) oraz art. 6 ust. 1 lit. f) Rozporządzenia Par‐
+lamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochro‐
+ny osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobod‐
+nego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z
+04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2),
+po rozpoznaniu wniosku A.S.A. z siedzibą w W. przy ul. (…) o ponowne rozpatrzenie spra‐
+wy z wniosku Pani G. P., reprezentowanej przez adwokata, Panią M. M., prowadzącą Kan‐
+celarię Adwokacką z siedzibą w W. przy ul. (…), o nakazanie A. S.A. z siedzibą w W. przy
+ul. (…), udostępnienia Pani G. P. danych osobowych w zakresie imion, nazwisk oraz nu‐
+merów IP komputerów użytkowników: (…), (…), (…), (…), (…), (…), komentujących arty‐
+kuły opublikowane na stronach internetowych (…) oraz (…), rozstrzygniętej decyzją Ge‐
+neralnego Inspektora Ochrony Danych Osobowych z dnia 26 września 2014 r. (znak:
+DOLiS/DEC-941/14/75500,75502), Prezes Urzędu Ochrony Danych Osobowych
+utrzymuje w mocy zaskarżoną decyzję.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+
+Decyzja ZKE.440.8.2019
+
+Strona 2 z 11
+
+Uzasadnienie
+Do Biura Generalnego Inspektora Ochrony Danych Osobowych wpłynął wniosek Pani G.
+P., zwanej dalej: „Skarżącą”, reprezentowanej przez adwokata, Panią M. M., prowadzącą
+Kancelarię Adwokacką z siedzibą w W. przy ul. (…), o nakazanie A. S.A. z siedzibą w W.
+przy ul. (…), zwanej dalej: „Spółką”, udostępnienia Skarżącej danych osobowych w za‐
+kresie imion, nazwisk oraz numerów IP komputerów użytkowników: (…), (…), (…), (…),
+(…) oraz (…), komentujących artykuły opublikowane na stronach internetowych (…), a
+także (…).
+W uzasadnieniu wyżej wskazanego wniosku pełnomocnik Skarżącej podniosła, iż wpisy
+dokonane przez osoby, o udostępnienie danych których wnosi, naruszają dobra osobiste
+Skarżącej oraz osób jej najbliższych, w związku z czym zamierza ona dochodzić swoich
+praw przed sądem – zarówno w drodze postępowania karnego, jak i cywilnego.
+W toku postępowania przeprowadzonego w niniejszej sprawie Generalny Inspektor
+Ochrony Danych Osobowych ustalił następujący stan faktyczny.
+1. W serwisie internetowym (…) użytkownicy posługujący się nickami: (…), (…), (…)
+oraz (…), umieścili komentarze odnoszące się do publikacji zamieszczonej pod adre‐
+sem: (…), których treść, w ocenie Skarżącej, naruszyła jej prawa. Ponadto zniesła‐
+wiający, zdaniem Skarżącej, komentarz został zamieszczony w serwisie interneto‐
+wym (…), pod publikacją dostępną na stronie internetowej (…).Autorem spornego
+komentarza był w tym wypadku użytkownik portalu posługujący się nickiem: (…).
+2. Pismem z dnia 15 października 2013 r. pełnomocnik Skarżącej zwróciła się do Spółki,
+powołując się na treść art. 159 ust. 2 pkt 4 ustawy z dnia 16 lipca 2004 r. Prawo te‐
+lekomunikacyjne, z wnioskiem o udostępnienie danych osobowych ww. osób, a nad‐
+to o dane użytkownika portalu (…) posługującego się nickiem (…), który – jak wska‐
+zała pełnomocnik – umieścił zniesławiający Skarżącą komentarz odnoszący się do
+publikacji zamieszczonej pod adresem: (…). Zakres żądania obejmował imiona, na‐
+zwiska oraz numery IP komputerów wyżej wymienionych osób. Uzasadniając przed‐
+miotowy wniosek pełnomocnik Skarżącej podniosła, iż kwestionowane wpisy doko‐
+nane w sieci Internet naruszają dobra osobiste Skarżącej oraz osób jej najbliższych i
+w związku z tym zamierza ona dochodzić swoich praw przed sądem – zarówno w
+drodze postępowania karnego, jak i cywilnego.
+3. W odpowiedzi na przedmiotowy wniosek, Spółka pismem z dnia 23 października
+2013 r. zawiadomiła Skarżącą o odmowie udzielenia żądanych informacji. Jednocze‐
+śnie Spółka oświadczyła, iż usunęła kwestionowane wypowiedzi użytkowników por‐
+tali (…) oraz (…), przy czym uniemożliwienie dostępu do spornych komentarzy nie
+spowodowało usunięcia danych osób je publikujących z serwerów Spółki.
+4. Spółka w wyjaśnieniach złożonych przed Generalnym Inspektorem Ochrony Danych
+Osobowych wskazała, iż cyt.: „umożliwianie użytkownikom Internetu zamieszczania
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+
+Decyzja ZKE.440.8.2019
+
+5.
+
+Strona 3 z 11
+
+wypowiedzi na stronach serwisów (…) oraz (…) stanowi usługę świadczoną drogą
+elektroniczną w rozumieniu ustawy z dnia 18 lipca 2002 roku o świadczeniu usług
+drogą elektroniczną. Wszelkie dane użytkowników zamieszczających wypowiedzi na
+stronach powyższych serwisów przetwarzane są – w oparciu o przepisy przywołanej
+ustawy (…) – w zbiorze danych osobowych o nazwie: U”. Uzasadniając odmowę udo‐
+stępnienia Skarżącej żądanych przez nią danych Spółka wskazała, iż stanowiący
+podstawę żądań wnioskodawczyni art. 159 ust. 2 pkt 4 Prawa telekomunikacyjnego
+nie znajduje zastosowania w niniejszej sprawie, ponieważ nie jest ona ani operato‐
+rem publicznej sieci telekomunikacyjnej, ani dostawcą publicznie dostępnych usług
+telekomunikacyjnych w rozumieniu ww. ustawy. W ocenie Spółki, z uwagi na brzmie‐
+nie art. 18 ust. 6 ustawy o świadczeniu usług drogą elektroniczną, może ona udo‐
+stępnić dane jedynie organom państwa na potrzeby prowadzonych przez nie
+postępowań. Jak podkreśliła Spółka, cyt.: „przyjmuje się iż skarga pokrzywdzonego
+wniesiona do właściwych organów ścigania może być skierowana także przeciwko
+anonimowemu sprawcy – w takiej sytuacji, zabezpieczenie dowodów może być połą‐
+czone z poszukiwaniem dowodów oraz podejmowaniem przez policję czynności
+zmierzających do wykrycia sprawców przestępstwa. Z powyższego wynika, że za‐
+równo policja, jak sąd po wszczęciu postępowania sądowego dysponują instrumen‐
+tami prawnymi pozwalającymi na przeprowadzenie określonych czynności dowodo‐
+wych, mających na celu ustalenie danych osobowych oskarżonego. A. S.A. wielo‐
+krotnie otrzymywała i realizowała żądania wydania danych pochodzących z sądów i
+prokuratur z terenu całego kraju”. W związku z powyższym, w ocenie Spółki, wobec
+opisanej wyżej możliwości uzyskania dostępu do danych za pośrednictwem odpo‐
+wiednich organów, pozyskanie ich bezpośrednio od niej nie jest niezbędne dla wy‐
+pełnienia prawnie usprawiedliwionych celów realizowanych przez odbiorcę danych,
+o czym stanowi art. 23 ust. 1 pkt 5 ustawy z dnia 29 sierpnia 1997 r. o ochronie
+danych osobowych. Ponadto Spółka podkreśliła, iż cyt.: „(…) wnioskodawczyni nie
+wykazała w żaden wiarygodny sposób, iż pozyskanie danych użytkowników jest nie‐
+zbędne dla wypełnienia prawnie usprawiedliwionych celów przez nią realizowanych.
+Lakoniczne stwierdzenie, iż «uzyskanie powyższych danych umożliwi skierowanie
+sprawy na drogę postępowania sądowego – karnego, jak i cywilnego» nie może być
+bowiem uznane za wystarczające”. Spółka wyraziła także wątpliwość czy pozyskane
+przez Skarżącą dane nie zostałyby w efekcie wykorzystane przez nią w innym niż
+zadeklarowany przez nią cel, co mogłoby naruszyć prawa i wolności osób, których
+one dotyczą. Ponadto Spółka wskazała, iż ważąc w niniejszej sprawie interesy Skar‐
+żącej – jako osoby, która z uwagi na sprawowane funkcje pozostaje w sferze zainte‐
+resowania społecznego i musi liczyć się z krytycznymi ocenami swoich działań –
+oraz interesy użytkowników portalu, którzy oceny takie wyrażają, należy przyjąć, iż
+to interesy osób, których dane mają zostać udostępnione zasługują na ochronę.
+Spółka, jako administrator serwisów (…) oraz (…) przetwarza dane osobowe użyt‐
+kowników posługujących się nickami: (…), (…), (…), (…), w zakresie numerów IP ich
+komputerów, a nadto dane osobowe użytkownika o nicku (…), w zakresie numeru IP
+komputera oraz imienia i nazwiska, podanych przez użytkownika podczas procesu
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+
+Decyzja ZKE.440.8.2019
+
+Strona 4 z 11
+
+rejestracji konta. Spółka nie przetwarza natomiast żadnych danych osobowych doty‐
+czących użytkownika posługującego się nickiem (…). Jak wyjaśniła Spółka, cyt.: „(…)
+nie odnaleziono żadnych informacji dotyczących komentarza pod artykułem publiko‐
+wanym na stronach serwisu (…) zamieszczonego przez użytkownika o nicku (…).
+Być może zatem w zapisie danych identyfikujących komentarz nastąpił błąd”.
+Po przeprowadzeniu w sprawie postępowania wyjaśniającego, Generalny Inspektor
+Ochrony Danych Osobowych decyzją administracyjną z dnia 26 września 2014 r. (znak:
+DOLiS/DEC-941/14/75500,75502) nakazał A. S.A. udostępnienie na rzecz Skarżącej da‐
+nych osobowych użytkowników portalu (…), którzy umieścili komentarze odnoszące się
+do publikacji zamieszczonej pod adresem: (…), pod nickami (…), (…), (…) oraz (…) w za‐
+kresie numerów IP ich komputerów (pkt 1 sentencji), a nadto udostępnienie danych oso‐
+bowych użytkownika portalu internetowego (…), który umieścił komentarz odnoszący się
+do publikacji zamieszczonej pod adresem (…), działając pod nickiem (…), w zakresie nu‐
+meru IP jego komputera oraz jego imienia i nazwiska (pkt 2 sentencji). W pozostałym za‐
+kresie Generalny Inspektor umorzył postępowanie z wniosku Skarżącej. Decyzja została
+doręczona Spółce w dniu 29 września 2014 r.
+Dnia 14 października 2014 r. do Biura Generalnego Inspektora wpłynął (nadany w pla‐
+cówce polskiego operatora pocztowego w dniu 10 października 2014 r. – a zatem złożony
+w terminie) wniosek Spółki o ponowne rozpatrzenie sprawy rozstrzygniętej ww. decyzją i
+uchylenie zaskarżonej decyzji w zakresie pkt 1 i 2 jej sentencji. Spółka podniosła w
+uzasadnieniu wniosku, że organ „bezzasadnie pominął regulację ustawy o świadczeniu
+usług drogą elektroniczną. Należy bowiem przyjąć, iż przywołana ustawa, przewidująca
+dalej idącą ochronę danych osobowych użytkowników serwisów internetowych, tj. osób
+fizycznych korzystających z usług świadczonych drogą elektroniczną, stanowi lex specia‐
+lis w stosunku do przepisów ustawy o ochronie danych osobowych i powinna znaleźć w
+niniejszej sprawie zastosowanie”. Spółka powołała również art. 16 i art. 18 ust. 6 i ust. 5
+pkt 2 ustawy o świadczeniu usług drogą elektroniczną. Według Spółki ustawa ta „wpro‐
+wadza w stosunku do udostępniania danych eksploatacyjnych [a za takie należy uznać
+numer IP] odrębną regulację, a odpowiednie stosowanie ustawy o ochronie danych oso‐
+bowych przewiduje wyłącznie w stosunku do przetwarzania danych osobowych, którą to
+instytucję (art. 18 ust. 1) ustawa o świadczeniu usług drogą elektroniczną wyraźnie od‐
+różnia od danych eksploatacyjnych (art. 18 ust. 5). Ustawa o świadczeniu usług drogą
+elektroniczną (…) nie przewiduje zatem udzielania informacji o danych eksploatacyjnych
+podmiotom innym niż organy państwa”. Wskazując na wyrok Wojewódzkiego Sądu Admi‐
+nistracyjnego w Warszawie z dnia 25 października 2013 r. (sygn. akt II SA/Wa 605/13)
+Spółka podniosła, że według art. 18 ust. 6 ww. ustawy „jedynym uprawnionym do uzy‐
+skania danych eksploatacyjnych gromadzonych przez usługodawcę w rozumieniu ustawy
+o świadczeniu usług drogą elektroniczną są organy państwa (…) gdyby wolą ustawodaw‐
+cy było uprawnienie do pozyskania danych eksploatacyjnych innych podmiotów niż orga‐
+ny państwa, zawarłby w ustawie wyraźną normę przewidującą takie uprawnienie”. We‐
+dług Spółki ww. regulację uzupełniają art. 218, art. 236a i art. 488 k.p.k. Dodano, że sko‐
+ro istnieje wyżej opisana możliwość uzyskania dostępu do danych za pośrednictwem od‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+
+Decyzja ZKE.440.8.2019
+
+Strona 5 z 11
+
+powiednich organów, to nie jest spełniona przesłanka z art. 23 ust. 1 pkt 5 ustawy o
+ochronie danych osobowych, tj. pozyskanie ww. danych bezpośrednio od Spółki nie jest
+niezbędne dla wypełnienia prawnie usprawiedliwionych celów realizowanych przez Skar‐
+żącą. Według Spółki, Generalny Inspektor Danych Osobowych niezasadnie uznał, że
+„udostępnienie danych nie naruszy praw i wolności osób, których dane dotyczą (…) wo‐
+bec braku w obecnym stanie prawnym instrumentów prawnych pozwalających na kon‐
+trolę celu, w jakim osoba domagająca się wydawania danych w rzeczywistości dane te
+wykorzysta, wydanie danych użytkowników internetowych forów dyskusyjnych w oparciu
+o regulacje ustawy o ochronie danych osobowych stanowi szczególne zagrożenie dla
+dóbr osoby, której dane zostają udostępnione i prowadzić może do naruszenia jej praw i
+wolności. (…) Nie ma zatem gwarancji, że udostępnione dane osobowe zostaną wykorzy‐
+stane wyłącznie w procesie sądowym, a kontrolę nad ich wykorzystaniem będzie
+wykonywał sąd”. Nadto zdaniem Spółki, „Generalny Inspektor Ochrony Danych Osobo‐
+wych niesłusznie przyjął, iż sama deklaracja wnioskodawczyni, co do pozyskania danych
+użytkowników serwisu internetowego na potrzeby dochodzenia roszczeń na drodze sądo‐
+wej przesądza o dopuszczalności przetwarzania danych osobowych na podstawie art. 23
+ust. 1 pkt 5 ustawy o ochronie danych osobowych”.
+Po powtórnym rozpatrzeniu zgromadzonego w sprawie materiału dowodowego, należało
+zważyć, co następuje.
+Z dniem wejścia w życie ustawy z 10 maja 2018 r. o ochronie danych osobowych (Dz. U.
+2019 r., poz. 1781), zwanej dalej także: „u.o.d.o.”, tj. z dniem 25 maja 2018 r., Biuro Ge‐
+neralnego Inspektora Ochrony Danych Osobowych stało się Urzędem Ochrony Danych
+Osobowych. Postępowania prowadzone przez Generalnego Inspektora Ochrony Danych
+Osobowych, wszczęte i niezakończone przed 25 maja 2018 r. prowadzone są przez Pre‐
+zesa Urzędu Ochrony Danych Osobowych (zwanego dalej także: Prezesem UODO), na
+podstawie ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z
+2016 r., poz. 922 ze zm.), zwanej dalej także: „ustawą 1997”, zgodnie z zasadami okre‐
+ślonymi w ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego
+(Dz. U. z 2020 r., poz. 256) Wszelkie czynności podejmowane przez Generalnego Inspek‐
+tora Ochrony Danych Osobowych przed 25 maja 2018 r. pozostają skuteczne.
+W dniu 25 maja 2018 r. rozpoczęto także stosowanie w krajowym porządku prawnym
+przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27
+kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych
+osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy
+95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016,
+str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2), zwanego dalej: „Rozporządzeniem
+2016/679”, którego przepisy regulują kwestie związane z przetwarzaniem danych osobo‐
+wych osób fizycznych. Od tego dnia Prezes UODO zobowiązany jest stosować przepisy
+ww. Rozporządzenia 2016/679 do wszystkich postępowań administracyjnych, które pro‐
+wadzi. Prezes UODO wydając rozstrzygnięcie w danej sprawie uwzględnia bowiem stan
+prawny obowiązujący w chwili wydawania tego rozstrzygnięcia.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+
+Decyzja ZKE.440.8.2019
+
+Strona 6 z 11
+
+W czasie, gdy miało miejsce zdarzenie opisane przez Skarżącą, obowiązywała ustawa z
+dnia 29 sierpnia 1997 r. o ochronie danych osobowych. Ww. ustawa określała zasady po‐
+stępowania przy przetwarzaniu danych osobowych oraz prawa osób fizycznych, których
+dane są lub mogą być przetwarzane w zbiorach danych (art. 2 ust. 1 ustawy 1997). Prze‐
+pisem o zasadniczym znaczeniu dla oceny legalności procesu przetwarzania danych oso‐
+bowych był art. 23 tegoż aktu prawnego. Zgodnie z art. 23 ust. 1 pkt 5 ustawy 1997,
+przetwarzanie danych było dopuszczalne, gdy było to niezbędne dla wypełnienia praw‐
+nie usprawiedliwionych celów realizowanych przez administratorów danych albo odbior‐
+ców danych, a przetwarzanie nie naruszało praw i wolności osoby, której dane dotyczą.
+Wyżej wskazaną przesłankę legitymizującą przetwarzanie danych osobowych (stanowią‐
+cą odpowiednik uchylonego art. 23 ust. 1 pkt 5 ustawy 1997) stanowi obecnie art. 6 ust.
+1 lit. f) Rozporządzenia 2016/679. Zgodnie z tym przepisem, przetwarzanie jest zgodne z
+prawem wyłącznie w przypadkach, gdy jest ono niezbędne do celów wynikających z
+prawnie uzasadnionych interesów realizowanych przez administratora lub przez stronę
+trzecią, z wyjątkiem sytuacji, w których nadrzędny charakter wobec tych interesów mają
+interesy lub podstawowe prawa i wolności osoby, której dane dotyczą, wymagające
+ochrony danych osobowych, w szczególności gdy osoba, której dane dotyczą, jest dziec‐
+kiem.
+Jak wykazało przeprowadzone postępowanie administracyjne, Skarżąca ma podstawy do
+uzyskania danych osobowych użytkowników portalu (…) o nickach: (…), (…), (…) oraz
+(…) w zakresie numerów IP ich komputerów, a nadto użytkownika portalu (…) o nicku
+(…) w zakresie numeru IP jego komputera oraz imienia i nazwiska – którzy to zamieścili
+w ww. serwisach internetowych wpisy będące przedmiotem skargi inicjującej niniejsze
+postepowanie. Odnosząc się do meritum sprawy należy wskazać bowiem, że rozstrzy‐
+gnięcie zawarte w zaskarżonej decyzji z dnia 26 września 2014 r. (znak: DOLiS/
+DEC-941/14/75500,75502) jest prawidłowe, zaś argumenty podniesione przez Spółkę we
+wniosku o ponowne rozpatrzenie sprawy nie uzasadniają konieczności zmiany tej decyzji.
+We wniosku Spółki o ponowne rozpatrzenie sprawy podniesiono przede wszystkim zarzut
+pominięcia w zaskarżonej decyzji przepisów ustawy z dnia 18 lipca 2002 r. o świadczeniu
+usług drogą elektroniczną, która według Spółki stanowi lex specialis w stosunku do prze‐
+pisów ustawy o ochronie danych osobowych i powinna znaleźć w niniejszej sprawie za‐
+stosowanie. W ocenie Prezesa UODO nie sposób jest jednak zgodzić się z tak postawioną
+tezą.
+Jak wskazano w zaskarżonej decyzji – przy czym Prezes Urzędu Ochrony Danych Osobo‐
+wych stanowisko to w pełni podtrzymuje – organ nadzorczy nie podziela poglądu Spółki,
+jakoby kierowany do podmiotu świadczącego usługi drogą elektroniczną wniosek o udo‐
+stępnienie danych osobowych użytkownika tych usług (w niniejszej sprawie użytkowni‐
+ków portali internetowych (…) oraz (…)), pochodzący od podmiotów innych niż organy
+państwa i uzasadniony względami innymi niż potrzeby prowadzonych przez nie postępo‐
+wań (a zatem też wniosek Skarżącej), nie mógł zostać uwzględniony z uwagi na brzmie‐
+nie art. 18 ust. 6 ustawy o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r., poz.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+
+Decyzja ZKE.440.8.2019
+
+Strona 7 z 11
+
+344). O ile bowiem powyższy przepis istotnie kształtuje po stronie usługodawcy świad‐
+czącego usługi drogą elektroniczną obowiązek udostępnienia danych osobowych osób
+korzystających z tych usług (w tym danych eksploatacyjnych, do których zalicza się nu‐
+mer IP komputera) organom państwa, na potrzeby prowadzonych przez nie postępowań,
+o tyle stwierdzić należy, że regulacja ta ma charakter wyłącznie deklaratoryjny wobec
+uprawnień tych organów określonych szczegółowo w innych przepisach prawa. W ocenie
+Prezesa UODO, z brzmienia art. 18 ust. 6 ustawy o świadczeniu usług drogą elektronicz‐
+ną nie wynika niedopuszczalność udostępniania podmiotom innym niż organy państwa
+informacji, o których mowa w ust. 1-5 tego przepisu w szczególności, że nie zawiera on
+takiego zakazu, jak również nie wskazuje na wyłączną kompetencję organów państwa w
+powyższym zakresie. Zdaniem Prezesa UODO, przyjęcie przeciwnego założenia prowa‐
+dziłoby do nieuzasadnionej obrony osób naruszających w wirtualnej przestrzeni publicz‐
+nej prawa innych przed konsekwencjami ich działalności i uniemożliwiałoby skuteczną
+obronę podmiotów pokrzywdzonych publikowanymi w Internecie obraźliwymi treściami.
+Podobne stanowisko zajął Wojewódzki Sąd Administracyjny w Warszawie, który w wyroku
+z dnia 27 listopada 2015 r. (sygn. II SA/Wa 1036/15) stwierdził, że z art. 18 ust. 6 ustawy
+o świadczeniu usług drogą elektroniczną „nie wynika reguła wyłączenia osób fizycznych
+z grona potencjalnych odbiorców spornej informacji. Ze sformułowania »usługodawca
+udziela informacji organom państwa« nie sposób skutecznie wywieść, aby wolą ustawo‐
+dawcy było ograniczenie kręgu beneficjentów tego unormowania jedynie do organów
+państwa. Ustawodawca konstruując omawiany przepis nie użył bowiem słów »wyłącznie«
+czy »jedynie«. Ten zaś brak sprawia, że nie zachodzi podstawa do uznania, że przepis
+art. 18 ust. 6 ustawy o świadczeniu usług drogą elektroniczną zawiera zamknięty katalog
+osób uprawnionych do dostępu do spornej informacji”.
+Podkreślenia ponadto wymaga, że powołany we wniosku Spółki o ponowne rozpatrzenie
+sprawy wyrok Wojewódzkiego Sądu Administracyjnego w Warszawie z dnia 25
+października 2013 r. (sygn. II SA/Wa 605/13), mający potwierdzać słuszność argumenta‐
+cji Spółki, został uchylony przez Naczelny Sąd Administracyjny wyrokiem z dnia 10
+listopada 2015 r. (sygn. I OSK 685/14). NSA uznał, że: „należy przyznać rację skarżące‐
+mu kasacyjnie [GIODO] twierdzącemu, że wadliwe jest przyjęcie, jakoby jedynie organy
+państwa były uprawnione do uzyskania spornych w sprawie danych. Jakkolwiek słusznie
+powiada Sąd meriti, że dalej idąca ochrona niż przewidziana przepisami ustawy o ochro‐
+nie danych osobowych jest uregulowana w przepisach ustawy o świadczeniu usług drogą
+elektroniczną, to jednak ochrona przyznana przez przepisy ustawy o świadczeniu usług
+drogą elektroniczną, a więc tzw. tajemnica telekomunikacyjna, nie sięga takich działań w
+sieci, które naruszają obowiązujący porządek prawny. Umożliwienie zatem podejmowa‐
+nia czynności prawnych zmierzających do naprawy tej sytuacji, w tym też ścigania, i to
+nie tylko z urzędu, ale i w drodze prywatnego aktu oskarżenia, czy domaganie się ochro‐
+ny dóbr osobistych na drodze cywilnej, jest działaniem w granicach prawa, pozwalają‐
+cym na zwolnienie z tej ochrony. Przepis art. 18 ust. 6 ustawy z dnia 18 lipca 2002 r. o
+świadczeniu usług drogą elektroniczną, stanowiący literalnie o obowiązku usługodawcy
+udzielania informacji o danych tamże określonych organom państwa na potrzeby prowa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+
+Decyzja ZKE.440.8.2019
+
+Strona 8 z 11
+
+dzonych przez nie postępowań, należy interpretować jako dopuszczający przetwarzanie
+danych osobowych przez wszystkie podmioty, gdy jest to niezbędne dla zrealizowania
+ich uprawnienia lub spełnienia obowiązku wynikającego z przepisu prawa. Nie został on
+zawężony do organów państwa, skoro nie posłużono się zwrotem "wyłącznie", a istnieje
+potrzeba poszerzenia zakresu podmiotowego tego przepisu. Uprawnienia te czy obo‐
+wiązki mogą wynikać z przepisów z zakresu prawa karnego czy cywilnego oraz procedu‐
+ry obowiązującej w tym zakresie (p. art. 2 § 1 pkt 1 k.p.k. lub art. 126 § 1 pkt 1 k.p.c.).
+Zatem trzeba opowiedzieć się za tezą, wedle której nie tylko organy państwa, ale i inne
+podmioty, są w tej materii uprawnione”.
+Powyższe stanowisko judykatury jednoznacznie przesądza o tym, iż istnienie omawiane‐
+go art. 18 ust. 6 ustawy o świadczeniu usług drogą elektroniczną w żadnym razie nie wy‐
+klucza przetwarzania danych osobowych użytkowników usług świadczonych drogą elek‐
+troniczną przez osoby fizyczne w sytuacji, gdy spełnione zostaną określone przepisami o
+ochronie danych osobowych przesłanki legitymizujące przetwarzanie tych danych.
+Uwzględniając okoliczności niniejszej sprawy należy stwierdzić, iż przesłankę taką w da‐
+cie złożenia skargi, jak i wniosku o ponowne rozpatrzenie sprawy sankcjonował art. 23
+ust. 1 pkt 5 ustawy 1997, obecnie zaś – tj. po wejściu w życie przepisów Rozporządzenia
+2016/679 – stanowi o niej art. 6 ust. 1 lit. f) tegoż aktu prawnego. Należy uznać bowiem,
+że przetwarzanie przez Skarżącą danych osobowych wskazanych przez nią enumeratyw‐
+nie użytkowników portali internetowych (…) oraz (…) jest zgodne z prawem, gdyż jest
+ono niezbędne do celów wynikających z prawnie uzasadnionych interesów Skarżącej (w
+analizowanym przypadku za prawnie uzasadniony interes należy uznać dochodzenie
+przez Skarżącą roszczeń przeciwko osobom podejrzanym o naruszenie jej dobrego imie‐
+nia i czci w sieci Internet). Jednocześnie, dokonana przez Prezesa UODO ocena proporcjo‐
+nalności środków i celów oraz równowagi pomiędzy ochroną różnych dóbr: wolności wy‐
+powiedzi i prawa do ochrony dóbr osobistych prowadzi do wniosku, że interesy lub pod‐
+stawowe prawa i wolności osób, których dane dotyczą – a do których odnosi się żądanie
+Skarżącej – nie mają charakteru nadrzędnego nad jej interesami i prawami. O ile bowiem
+każdej osobie fizycznej przysługuje ochrona prawna jej danych osobowych oraz ochrona
+prawa do prywatności, to jednak osoby publikujące treści obraźliwe w ogólnodostępnej
+przestrzeni publicznej, jaką jest Internet, muszą mieć świadomość tego, iż nie mogą nad‐
+używać swoich praw kosztem prawa innych. Udostępnienia na rzecz Skarżącej danych
+osób ingerujących w sferę jej prywatności nie należy utożsamiać jednak z ograniczeniem
+zasady wolności słowa. Przeciwnie, pamiętać należy, że wolność wyrażania swoich po‐
+glądów związana jest z ponoszeniem za poglądy te odpowiedzialności. Każda osoba wy‐
+powiadająca się publicznie, musi mieć świadomość co do ewentualnych konsekwencji
+swoich wypowiedzi, które naruszają podstawowe i ustawowo chronione prawa bądź wol‐
+ności innych podmiotów. Nieuzasadnione niczym jest natomiast twierdzenie, że wypo‐
+wiadający się anonimowo w sieci użytkownicy portali internetowych, posługujący się
+pseudonimami wyłączającymi możliwość łatwej ich identyfikacji, mają podlegać szcze‐
+gólnej ochronie i to ich dane osobowe są dobrem, które ustawodawca miał zamiar chro‐
+nić w pierwszej kolejności, w sytuacji gdy publikowane przez nich treści godzą w prawa
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+
+Decyzja ZKE.440.8.2019
+
+Strona 9 z 11
+
+innych. Bez znaczenia w tym kontekście jest okoliczność, że Skarżąca piastowała wysoko
+eksponowane stanowisko, przez co – zdaniem Spółki – powinna ona była liczyć się z kry‐
+tyką jej działań ze strony opinii publicznej. Zważyć bowiem należy na istnienie dopusz‐
+czalnych granic tejże krytyki, których przekroczenie może skutkować wytoczeniem po‐
+wództwa cywilnego, a nawet wniesieniem prywatnego aktu oskarżenia przeciwko oso‐
+bom zniesławiającym. Właściwym do dokonania oceny tego czy w sprawie niniejszej fak‐
+tycznie doszło do przekroczenia granic wolności słowa jest jednak właściwy rzeczowo
+sąd, nie zaś Prezes UODO.
+Zdaniem Prezesa UODO niezasadne są – wyrażone we wniosku o ponowne rozpatrzenie
+sprawy – obawy Spółki odnośnie zagrożenia dla dóbr osób, których danych dotyczy żą‐
+danie Skarżącej, wynikającego według Spółki z braku instrumentów prawnych pozwalają‐
+cych na kontrolę celu, w jakim domagający się udostępnienia danych w rzeczywistości je
+wykorzysta. Wskazać należy, że w chwilą pozyskania żądanych danych osobowych, Skar‐
+żąca stanie się ich administratorem, w związku z czym przetwarzanie przez nią tych da‐
+nych będzie podlegało regułom wyznaczonym przez przepisy prawa, w szczególności zaś
+art. 5 ust. 1 lit. b) Rozporządzenia 2016/679, traktujący o zasadzie celowości, zgodnie z
+którą na administratorze spoczywa obowiązek niepoddawania zebranych danych dalsze‐
+mu przetwarzaniu niezgodnemu z celami zebrania (uprzednio kwestię tę regulował art.
+26 ust. 1 pkt 2 ustawy 1997). Kontrola zgodności przetwarzania tych danych z przepisa‐
+mi o ochronie danych osobowych będzie przy tym należała do kompetencji Prezesa
+UODO.
+Należy pamiętać, że dobra osobiste podlegają ochronie cywilnej (art. 23 i art. 24 § 1 Ko‐
+deksu cywilnego) i karnej (art. 212 § 1 Kodeksu karnego). W celu dochodzenia odpowied‐
+nich roszczeń konieczne jest dysponowanie danymi osobowymi osób, które są potencjal‐
+nymi sprawcami naruszeń. Zdaniem Prezesa UODO, w sprawie niniejszej brak jest pod‐
+staw do przyjęcia, że Skarżąca wykorzysta żądane dane osobowe w celach innych niż
+wystąpienie z prywatnym aktem oskarżenia bądź powództwem o ochronę dóbr osobi‐
+stych. Z materiału dowodowego sprawy bezspornie wynika, że Skarżąca pisemnie zwró‐
+ciła się do Spółki o udostępnienie danych osobowych użytkowników administrowanych
+przez nią portali internetowych o nickach: (…), (…), (…), (…) oraz (…) i dopiero bezsku‐
+teczność tych działań – wobec odmownej odpowiedzi Spółki – legła u podstaw skierowa‐
+nia wniosku do organu nadzorczego o nakazanie Spółce udostępnienia danych osobo‐
+wych osób, które umieściły w Internecie kwestionowane przez Skarżącą wpisy. Konse‐
+kwencja, ale też rozwaga w działaniu Skarżącej prowadzi do wniosku, iż uzyskane od
+Spółki dane osobowe wykorzysta ona wyłącznie w celach deklarowanych w niniejszym
+postępowaniu. Wobec powyższego stwierdzić należy, że okoliczności faktyczne i prawne
+sprawy wyłączają możliwość powołania się w analizowanym przypadku na przeszkodę
+udostępnienia danych wymienioną w art. 23 ust. 1 pkt 5 in fine ustawy 1997 (obecnie –
+art. 6 ust. 1 lit c) Rozporządzenia 216/679), tj. jeżeli miałoby to spowodować naruszenie
+praw i wolności osób, których dane dotyczą. Podkreślenia wymaga raz jeszcze, że prawo
+do prywatności nie ma charakteru absolutnego, a jego ochrona nie może odbywać się
+kosztem braku poszanowania praw innych osób.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+
+Decyzja ZKE.440.8.2019
+
+Strona 10 z 11
+
+Nie sposób się również zgodzić z twierdzeniami Spółki, jakoby niewystarczającą dla
+uznania zasadności żądań Skarżącej była jej deklaracja, co do zamiaru pozyskania da‐
+nych użytkowników portali internetowych na potrzeby dochodzenia roszczeń na drodze
+postępowania sądowego. Jakkolwiek bowiem w dacie złożenia skargi inicjującej niniejsze
+postępowanie Skarżąca nie wystąpiła do sądu z pozwem cywilnym, ani też prywatnym
+aktem oskarżenia (nie wskazuje na to przynajmniej zgromadzony w toku postępowania
+materiał dowodowy), stwierdzić należy, iż działanie takowe było znacznie utrudnione z
+uwagi na brak dysponowania przez Skarżącą jakimikolwiek bliższymi danymi, które ze‐
+zwoliłyby na jednoznaczną identyfikację osób, przeciwko którym chciałaby ona kierować
+swoje roszczenia. Tymczasem przepisy regulujące procedurę cywilną oraz procedurę kar‐
+ną stawiają przed Skarżącą, jako osobą, która chciałaby skorzystać z przysługujących jej
+środków ochrony prawnej przed sądem, obowiązek zindywidualizowania autorów kwe‐
+stionowanych wpisów – a to wobec wymogów formalnych, jakie krajowe ustawodawstwo
+stawia każdemu pismu procesowemu inicjującemu postępowanie w sprawie bądź to na‐
+ruszenia dóbr osobistych, bądź to pomówienia. Obszerne rozważania w tym zakresie Pre‐
+zes UODO poczynił w zaskarżonej przez Spółkę decyzji z dnia 26 września 2014 r. (znak:
+DOLiS/DEC-941/14/75500,75502), stąd – wobec aktualności podnoszonych tamże argu‐
+mentów – należy uznać, że brak jest potrzeby ich powtórnego przytaczania w niniejszym
+rozstrzygnięciu.
+Wskazać niemniej należy, na istotne w tym kontekście stanowisko, jakie w wyroku z dnia
+10 listopada 2015 r. (sygn. I OSK 1173/14) zajął Naczelny Sąd Administracyjny uznając
+„za zbyt daleko idący pogląd (…), że wykazanie przez jednostkę wnioskującą o dane
+usprawiedliwionego celu posiadania danych internautów może nastąpić dopiero po zaini‐
+cjowaniu przez nią postępowania sądowego. Jakkolwiek wszczęcie takiego procesu (zło‐
+żenie pozwu) istotnie może być jedną z ważniejszych okoliczności przemawiających za
+realnością inicjowania drogi sądowej, to nie w każdym stanie faktycznym jest elemen‐
+tem niezbędnym dla zastosowania art. 18 ust. 1 pkt 2 w związku z art. 23 ust. 1 pkt 5
+u.o.d.o. Ograniczenia takiego nie wprowadzają przepisy prawa. Organ może ocenić real‐
+ność żądania udostępnienia danych osobowych na potrzeby postępowania sądowego sa‐
+modzielnie także w oparciu o inne dowody (art. 75 § 1 k.p.a.); istotne jest, aby organ
+ustalił, że udostępnienie danych osobowych nie będzie stanowić celu samego w sobie
+dla jednostki o nie wnioskującej, lecz posłużą one dla realizacji przez tę jednostkę
+przysługującego jej prawa do sądu.”
+Zdaniem Prezesa UODO, z akt postępowania nie wynika żaden inny cel pozyskania wnio‐
+skowanych danych, aniżeli wykorzystanie ich przez Skarżącą do obrony jej czci, godno‐
+ści, wizerunku czy dobrego imienia, stąd żądanie Skarżącej należało uznać za uzasadnio‐
+ne.
+Po dokonaniu powtórnej analizy materiału dowodowego zebranego w sprawie Prezes
+Urzędu Ochrony Danych Osobowych podtrzymuje stanowisko wyrażone w zaskarżonej
+decyzji administracyjnej z dnia 26 września 2014 r. (znak: DOLiS/
+DEC-941/14/75500,75502), zgodnie z którym Spółka bezpodstawnie odmówiła Skarżącej
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+
+Decyzja ZKE.440.8.2019
+
+Strona 11 z 11
+
+udostępnienia wnioskowanych danych osobowych autorów kwestionowanych wpisów,
+określonych w skardze do organu, uniemożliwiając jej tym samym podjęcie dalszych
+działań służących takiej identyfikacji ww. autorów, która pozwoli na skuteczne zainicjo‐
+wanie przeciwko nim dopuszczalnych przepisami prawa postępowań sądowych. Mając na
+uwadze okoliczności przedmiotowej sprawy, a także treść art. 18 ust. 1 pkt 2 ustawy
+1997, w myśl którego w przypadku naruszenia przepisów o ochronie danych osobowych
+Prezes Urzędu Ochrony Danych Osobowych z urzędu lub na wniosek osoby zaintereso‐
+wanej, w drodze decyzji administracyjnej, nakazuje udostępnienie wnioskowanych da‐
+nych osobowych, organ nadzorczy upoważniony był do nakazania Spółce udostępnienia
+na rzecz Skarżącej danych osobowych autorów kwestionowanych wpisów w zakresie, w
+jakim Spółka tymi danymi dysponuje, tj. danych osobowych użytkowników portalu (…) o
+nickach: (…), (…), (…) oraz (…) w zakresie numerów IP ich komputerów, a nadto użyt‐
+kownika portalu internetowego (…) o nicku (…), w zakresie numeru IP jego komputera
+oraz imienia i nazwiska. Z tego tez względu zaskarżona decyzję należało utrzymać w
+mocy.
+Z uwagi na powyższe Prezes Urzędu Ochrony Danych Osobowych rozstrzygnął jak w sen‐
+tencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_8/content
+
+2025-09-03 13:50
+

@@ -1,0 +1,209 @@
+Warszawa, 4 stycznia 2021
+PRAWOMOCNA
+
+Decyzja
+ZKE.440.18.2019
+
+Na podstawie art. 105 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2020 r., poz. 256 ze zm.), art. 160 ust. 1 i 2 ustawy z dnia 10
+maja 2018 r. o ochronie danych osobowych (Dz.U. z 2019 r. poz. 1781) w zw. z art. 12
+pkt 2 i art. 22 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z
+2016 r. poz. 922 ze zm.) oraz z art. 57 ust. 1 lit. a i lit. f rozporządzenia Parlamentu Euro‐
+pejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fi‐
+zycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z
+04.05.2016 r. str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018 r. str. 2),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana J. P., zam. w
+W. przy ul. (…), na przetwarzanie bez podstawy prawnej jego danych osobowych przez I.
+Sp. z o.o. z siedzibą w W. przy ul. (…) oraz przez I. Fundusz Inwestycyjny Zamknięty Nie‐
+standaryzowany Fundusz Sekurytyzacyjny reprezentowany przez I. Towarzystwo Fundu‐
+szy Inwestycyjnych S.A. z siedzibą w W. przy ul. (…), Prezes Urzędu Ochrony Danych
+Osobowych
+umarza postępowanie.
+
+Uzasadnienie
+Do Biura Generalnego Inspektora Ochrony Danych Osobowych (obecnie: Urzędu Ochro‐
+ny Danych Osobowych) wpłynęła skarga Pana J. P., zam. ul. (…), (…) W., zwanego dalej
+„Skarżącym”, na niezgodne z prawem przetwarzanie jego danych osobowych przez I. Sp.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_18/content
+
+2025-09-03 13:47
+
+Decyzja ZKE.440.18.2019
+
+Strona 2 z 5
+
+z o.o. z siedzibą w W. przy ul. (…), zwaną dalej „Spółką”, w celu „windykacji nieistnieją‐
+cego długu (nr sprawy (…))”. Skarżący podniósł, że w latach 2006-2007 związany był
+umową o świadczenie usług telekomunikacyjnych z T. S.A. W trakcie trwania tej umowy
+cyt. „T. S.A. wystawiła faktury prawidłowe (mające oparcie w zawartej umowie) oraz fak‐
+tury nieprawidłowe (nie mające oparcia w zawartej umowie). Faktury nieprawidłowe
+(rzecz jasna niezapłacone) zostały sprzedane do windykacji firmie K. S.A., a następnie
+firmie I.” Razem z danymi dotyczącymi wierzytelności Spółka miała pozyskać dane oso‐
+bowe Skarżącego. Skarżący wskazał w treści skargi również, że wezwał Spółkę do za‐
+przestania przetwarzania jego danych osobowych. W związku z przedstawioną sytuacją
+Skarżący wniósł o „wydanie decyzji/postanowienia w sprawie dotyczącej przedmiotu
+skargi”.
+W toku postępowania przeprowadzonego w niniejszej sprawie Prezes Urzędu Ochrony
+Danych Osobowych ustalił następujący stan faktyczny:
+1. Umową przelewu wierzytelności z (…) września 2008 r. T. z siedzibą w W. przy ul.
+(…) dokonała cesji pakietu należących do niej wierzytelności na rzecz I. Funduszu In‐
+westycyjnego Zamkniętego Niestandaryzowanego Funduszu Sekurytyzacyjnego
+(numer rejestru Funduszy Inwestycyjnych RFI (…)), zwanego dalej „Funduszem”, re‐
+prezentowanego przez I. Towarzystwo Funduszy Inwestycyjnych S.A. z siedzibą w W.
+przy ul. (…), zwane dalej „Towarzystwem”. Wśród wierzytelności stanowiących
+przedmiot umowy przelewu wierzytelności znajdowała się wierzytelność wobec
+Skarżącego.
+2. Na mocy wskazanej wyżej umowy przelewu wierzytelności Fundusz pozyskał od ce‐
+denta dane osobowe Skarżącego w zakresie imienia, nazwiska, adresu zamieszka‐
+nia, adresu e-mail oraz danych dotyczących tytułu prawnego wierzytelności oraz jej
+wysokości.
+3. Fundusz jako administrator danych osobowych Skarżącego przetwarzał jego dane
+osobowe – w celu dochodzenia roszczeń z tytułu prowadzonej działalności gospodar‐
+czej – na podstawie art. 23 ust. 1 pkt 5 w związku z ust. 4 pkt 2 ustawy z dnia 29
+sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 ze zm.).
+4. W oparciu o umowę o zarządzanie sekurytyzowanymi wierzytelnościami z (…) sierp‐
+nia 2013 r. oraz umowę o przetwarzanie danych osobowych z (…) sierpnia 2013 r.
+Fundusz powierzył Spółce przetwarzanie danych osobowych Skarżącego w celu do‐
+chodzenia zapłaty wierzytelności nabytej od T. S.A. na mocy umowy przelewu
+wierzytelności z (…) września 2008 r.
+5. Zgodnie z wpisem w Rejestrze Przedsiębiorców KRS dokonanym przez Sąd Rejonowy
+(…), (…) Wydział Gospodarczy KRS, w dniu (…) lipca 2018 r. Spółka zmieniła swoją
+firmę z „I. Sp. z o.o.” na „In. Sp. z o.o.”.
+6. Zgodnie z wpisem w Rejestrze Przedsiębiorców KRS dokonanym przez Sąd Rejonowy
+(…), (…) Wydział Gospodarczy KRS, w dniu (…) marca 2020 r. Towarzystwo zmieniło
+swoją firmę z „I. Towarzystwo Funduszy Inwestycyjnych S.A.” na „In. Towarzystwo
+Funduszy Inwestycyjnych S.A.”.
+7.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_18/content
+
+2025-09-03 13:47
+
+Decyzja ZKE.440.18.2019
+
+Strona 3 z 5
+
+Zgodnie z wyjaśnieniami pełnomocnika Funduszu złożonymi w ramach niniejszego
+postępowania pismem z (…) października 2019 r. dane osobowe Skarżącego wraz z
+całą dokumentacją sprawy zostały trwale usunięte z baz danych Spółki i Funduszu.
+Po rozpatrzeniu całości zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+Z dniem 25 maja 2018 r. w krajach członkowskich Unii Europejskiej zaczęły być stosowa‐
+ne w przedmiocie ochrony danych osobowych przepisy Rozporządzenia Parlamentu Eu‐
+ropejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fi‐
+zycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego prze‐
+pływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o
+ochronie danych) (Dz. Urz. UE L 119 z dnia 04.05.2016, str. 1, ze zmianą ogłoszoną w
+Dz. Urz. UE L 127 z dnia 23.05.2018, str. 2), zwane dalej „Rozporządzeniem 2016/679”.
+Również z dniem 25 maja 2018 r. weszła w życie na terytorium Rzeczpospolitej Polskiej
+ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz.
+1781), zwana dalej „u.o.d.o. 2018”, wdrażająca na terytorium Rzeczpospolitej Polskiej
+Rozporządzenie 2016/679 i uzupełniająca regulacje w tym akcie prawnym przewidziane.
+Stosownie do art. 57 ust. 1 Rozporządzenia 2016/679, bez uszczerbku dla innych zadań
+określonych na mocy tego rozporządzenia, każdy organ nadzorczy na swoim terytorium
+monitoruje i egzekwuje stosowanie tego rozporządzenia (lit. a) oraz rozpatruje skargi
+wniesione przez osobę, której dane dotyczą, lub przez umocowany przez nią – zgodnie z
+art. 80 Rozporządzeniem 2016/679 – podmiot, organizację lub zrzeszenie, w odpowied‐
+nim zakresie prowadzi postępowania w przedmiocie tych skarg i w rozsądnym terminie
+informuje skarżącego o postępach i wynikach tych postępowań (lit. f).
+Natomiast w myśl art. 160 ust. 1 i 2 u.o.d.o. 2018, postępowania prowadzone przez Ge‐
+neralnego Inspektora Ochrony Danych Osobowych, wszczęte i niezakończone przed
+dniem wejścia w życie tej ustawy, prowadzone są przez Prezesa Urzędu Ochrony Danych
+Osobowych na podstawie ustawy z dnia 29 sierpnia 1997 r. o ochronie danych
+osobowych (Dz. U. z 2016 r., poz. 922 ze zm.), zwanej dalej „u.o.d.o. 1997”, zgodnie z
+zasadami określonymi w ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2020 r., poz. 256 ze zm.), zwanej dalej „k.p.a.”. Jednocze‐
+śnie, zgodnie z art. 160 ust. 3 u.o.d.o. 2018, czynności dokonane w postępowaniach wsz‐
+czętych i niezakończonych przed dniem wejścia w życie jej przepisów pozostają skutecz‐
+ne.
+Uwzględniając powyższe regulacje prawne stwierdzić zatem należy, iż niniejsze postępo‐
+wanie, wszczęte i niezakończone przed dniem 25 maja 2018 r., prowadzone jest – w za‐
+kresie obejmującym przepisy regulujące procedurę postępowania – w oparciu o przepisy
+u.o.d.o. 1997 oraz k.p.a. Natomiast materialnoprawna ocena legalności i zgodności z
+prawem procesu przetwarzania danych osobowych powinna być dokonana w oparciu o
+przepisy Rozporządzenia 2016/679. Powyższe stwierdzenie zgodne jest z ugruntowanym
+stanowiskiem doktryny, zgodnie z którym „organ administracji publicznej ocenia stan
+faktyczny sprawy według chwili wydania decyzji administracyjnej. Reguła ta odnosi się
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_18/content
+
+2025-09-03 13:47
+
+Decyzja ZKE.440.18.2019
+
+Strona 4 z 5
+
+także do oceny stanu prawnego sprawy, co oznacza, że organ administracji publicznej
+wydaje decyzję administracyjną na podstawie przepisów prawa obowiązujących w chwili
+jej wydania” (Komentarz do ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. 2000.98.1071) M. Jaśkowska, A. Wróbel, Lex., el/2012). Jak
+stwierdził zaś Naczelny Sąd Administracyjny w wyroku z dnia 7 maja 2008 r. (sygn. akt I
+OSK 761/07) „badając (…) legalność przetwarzania danych osobowych, GIODO ma obo‐
+wiązek ustalenia, czy na datę wydawania rozstrzygnięcia w sprawie dane konkretnego
+podmiotu są przetwarzane oraz czy czynione to jest w sposób zgodny z prawem”.
+Ustalenie, że dane osobowe osoby szukającej ochrony swoich praw w postępowaniu
+przed organem ochrony danych osobowych nie są w chwili wydawania decyzji przetwa‐
+rzane przez administratora, obliguje organ do zastosowania art. 105 § 1 k.p.a., który sta‐
+nowi: „Gdy postępowanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe w całości
+albo w części, organ administracji publicznej wydaje decyzję o umorzeniu postępowania
+odpowiednio w całości albo w części.” Jednocześnie w doktrynie i orzecznictwie sądów
+administracyjnych wskazuje się, że „bezprzedmiotowość postępowania administracyjne‐
+go, o której stanowi art. 105 § 1 kpa, oznacza, że brak jest któregoś z elementów mate‐
+rialnego stosunku prawnego, a wobec tego nie można wydać decyzji załatwiającej spra‐
+wę przez rozstrzygnięcie jej co do istoty. Przesłanka umorzenia postępowania może ist‐
+nieć jeszcze przed wszczęciem postępowania, co zostanie ujawnione dopiero w toczą‐
+cym się postępowaniu, a może ona powstać także w czasie trwania postępowania, a
+więc w sprawie już zawisłej przed organem administracyjnym” (B. Adamiak, J. Borkowski,
+„Kodeks postępowania administracyjnego. Komentarz”, 14. wydanie, Wydawnictwo C.H.
+Beck, Warszawa 2016, s. 491). Takie samo stanowisko zajął Wojewódzki Sąd Administra‐
+cyjny w Krakowie, który w wyroku z dnia 27 lutego 2008 r. (sygn. akt III SA/Kr 762/2007)
+stwierdził, że „postępowanie staje się bezprzedmiotowe, gdy brak któregoś z elementów
+stosunku materialnoprawnego, co powoduje, że nie można załatwić sprawy przez
+rozstrzygnięcie co do istoty”. Natomiast wprost na gruncie przepisów o ochronie danych
+osobowych Naczelny Sąd Administracyjny w wyroku z dnia 19 listopada 2001 r. (sygn.
+akt II SA 2702/00) stwierdził: „(…) skoro w toku prowadzonego (…) postępowania admi‐
+nistracyjnego zniesiony został stan naruszenia prawa, którego miało dotyczyć rozstrzy‐
+gnięcie, to postępowanie stało się bezprzedmiotowe. W świetle przepisu art. 18 ust. 1
+ustawy, wszczęte przez GIODO z urzędu lub na wniosek osoby zainteresowanej postępo‐
+wanie dotyczące naruszenia przepisów o ochronie danych osobowych może zakończyć
+się tylko wydaniem decyzji administracyjnej nakazującej administratorowi danych przy‐
+wrócenie stanu zgodnego z prawem, a w szczególności: usunięcie uchybień, uzupełnie‐
+nie, uaktualnienie, sprostowanie, udostępnienie lub nieudostępnianie danych osobo‐
+wych, zastosowanie dodatkowych środków zabezpieczających zgromadzone dane,
+wstrzymanie przekazywanie danych osobowych do państwa trzeciego, zabezpieczenie
+danych lub przekazanie ich innym podmiotom, usunięcie danych osobowych. W stanie
+faktycznym rozpatrywanej sprawy żadna taka decyzja wydana być nie mogła, gdyż stan
+naruszenia został wcześniej przywrócony do stanu zgodnego z prawem (…)”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_18/content
+
+2025-09-03 13:47
+
+Decyzja ZKE.440.18.2019
+
+Strona 5 z 5
+
+Odnosząc powyższe do ustalonego w niniejszej sprawie stanu faktycznego stwierdzić na‐
+leży, że w toku prowadzonego postępowania wyjaśniającego Prezes Urzędu Ochrony Da‐
+nych Osobowych ustalił, iż aktualnie dane osobowe Skarżącego nie są przetwarzane ani
+przez Fundusz jako administratora, ani przez Spółkę jako podmiot przetwarzający. Zosta‐
+ły one usunięte z baz danych Funduszu i Spółki (wraz z całą dokumentacją sprawy wie‐
+rzytelności wobec Skarżącego) nie później niż 23 października 2019 r., to jest przed
+dniem złożenia przez pełnomocnika Funduszu – w ramach niniejszego postępowania –
+oświadczenia o dokonaniu tej czynności. Fakt przetwarzania przez Fundusz i Spółkę da‐
+nych osobowych Skarżącego jest więc tym – wskazywanym w przytoczonym wyżej sta‐
+nowisku doktryny i sądów administracyjnych – elementem stosunku prawnego łączącego
+Skarżącego z obydwoma podmiotami, którego brak uniemożliwia rozstrzygnięcie sprawy
+co do jej istoty i czyni dalsze postepowanie bezprzedmiotowym. Bezprzedmiotowym by‐
+łoby bowiem badanie legalności przetwarzania danych osobowych Skarżącego, w kon‐
+tekście ewentualnego zaistnienia przesłanek dla sformułowania nakazu ich usunięcia, w
+sytuacji gdy dane te nie są aktualnie przetwarzane.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji decyzji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_18/content
+
+2025-09-03 13:47
+

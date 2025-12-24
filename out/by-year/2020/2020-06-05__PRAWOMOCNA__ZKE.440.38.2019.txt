@@ -1,0 +1,588 @@
+Warszawa, 5 czerwca 2020
+PRAWOMOCNA
+
+Decyzja
+ZKE.440.38.2019
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2020 r., poz. 256) w związku z art. 160 ust. 1 i 2 ustawy z
+dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781), art. 18
+ust. 1 ustawy z dnia 29 sierpnia 1997 o ochronie danych osobowych (Dz. U. z 2016 r.
+poz. 922 ze zm.) oraz art. 6 ust. 1 lit. f) Rozporządzenia Parlamentu Europejskiego i Rady
+(UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz.
+UE L 127 z 23.05.2018, str. 2),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana J. G., repre‐
+zentowanego przez pełnomocnika – adwokat H. U., o nakazanie B. S.A. udostępnienia mu
+danych osobowych pełnomocników oraz osób trzecich, które w okresie od (…) stycznia
+2012 r. do chwili obecnej dokonywały w imieniu Pani A. Z. transakcji, operacji i wypłat na
+jej rachunkach bankowych, produktach bankowych i finansowych wraz ze wskazaniem
+dat dokonanych czynności i kwoty rozporządzenia, Prezes Urzędu Ochrony Danych Oso‐
+bowych:
+1. nakazuje B. S.A. udostępnienie Skarżącemu danych osobowych w zakresie imienia i
+nazwiska, adresu zamieszkania oraz numeru PESEL pełnomocnika ustanowionego
+przez Panią A. Z. do dysponowania jej rachunkiem bankowym o numerze PL (…),
+2. odmawia uwzględnienia wniosku w pozostałym zakresie.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+Strona 2 z 12
+
+Uzasadnienie
+Do Biura Generalnego Inspektora Ochrony Danych Osobowych (obecnie: Urzędu
+Ochrony Danych Osobowych) wpłynęła skarga Pana J. G. (zwanego dalej „Skarżącym”),
+reprezentowanego przez adwokat H. U. prowadzącą kancelarię Adwokacką, na odmowę
+udostępnienia mu przez B. S.A. (zwany dalej „Bankiem”) dokumentów i informacji doty‐
+czących produktów bankowych należących do zmarłej Pani A. Z., której Skarżący jest je‐
+dynym spadkobiercą. Precyzując i ograniczając jednocześnie zakres żądań, pełnomocnik
+Skarżącego wniósł ostatecznie o udostępnienie Skarżącemu następujących danych oso‐
+bowych:
+1. imion i nazwisk, numerów PESEL, numerów dowodów osobistych oraz miejsca za‐
+mieszkania pełnomocników ustanowionych przez zmarłą Panią A. Z. do dokonywania
+czynności na rachunkach należących do zmarłej w ramach (…), w tym:
+a) na rachunkach: papierów wartościowych, bankowych prowadzonych dla obsługi
+rachunków papierów wartościowych, bankowych prowadzonych dla obsługi ra‐
+chunku zagranicznych instrumentów finansowych, technicznych prowadzonych
+w ramach Departamentu (…),
+b) na koncie internetowym nr (…),
+c) na koncie osobistym nr (…),
+d) na koncie walutowym w EURO nr (…),
+e) na koncie walutowym w USD nr (…),
+f) na koncie oszczędnościowym nr (…),
+g) na rejestrach zagranicznych instrumentów finansowych,
+h) na rachunkach kart płatniczych i kart kredytowych,
+2. imion i nazwisk, numerów PESEL, numerów dowodów osobistych oraz miejsca za‐
+mieszkania pełnomocników ustanowionych przez Panią A. Z. do dokonywania czyn‐
+ności:
+a) w ramach produktu Bankowych Papierów Wartościowych (…) oraz (…), ewentu‐
+alnie innych posiadanych przez Panią A. Z. produktów bankowych,
+b) w ramach produktu Wielowalutowego Programu Inwestycyjnego (…), (…), (…),
+ewentualnie innych posiadanych przez Panią A. Z. produktów bankowych,
+3. imion i nazwisk, numerów PESEL, numerów dowodów osobistych oraz miejsca za‐
+mieszkania osób trzecich, które w okresie od (…) stycznia 2012 roku do nadal doko‐
+nywały w imieniu Pani A. Z. transakcji, operacji i wypłat na wskazanych wyżej ra‐
+chunkach bankowych, produktach bankowych i finansowych oraz wskazania daty
+dokonanej czynności i kwoty rozporządzenia.
+W toku postępowania przeprowadzonego w niniejszej sprawie Prezes Urzędu Ochrony
+Danych Osobowych ustalił następujący stan faktyczny:
+1.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+2.
+
+3.
+
+4.
+5.
+
+6.
+
+7.
+
+8.
+
+Strona 3 z 12
+
+Skarżący jest jedynym spadkobiercą Pani A. Z., swojej siostry zmarłej (…) stycznia
+2015 r., co potwierdziła notariusz B. W. prowadząca Kancelarię Notarialną aktem
+poświadczenia dziedziczenia z (…) stycznia 2015 r.
+Pani A. Z. była klientką Banku w okresie od (…) lipca 2000 r. do chwili śmierci czyli
+do (…) stycznia 2015 r. Bank świadczył w tym okresie na rzecz Pani A. Z. szereg
+usług bankowych, w tym prowadził bieżący rachunek bankowy o numerze PL (…),
+bieżący rachunek internetowy o numerze PL (…) oraz inne rachunki oszczędnościo‐
+we i inwestycyjne. Do dysponowania środkami pieniężnymi zgromadzonymi na ra‐
+chunku bankowym o numerze PL (…) upoważniała wydana Pani A. Z. przez Bank
+karta płatnicza o numerze (…).
+Do dysponowania bieżącym rachunkiem internetowym o numerze PL (…) Pani A. Z.
+ustanowiła (…) sierpnia 2011 r. pełnomocnika z pełnym (takim samym jak posiadacz
+rachunku) zakresem uprawnień, zwanego dalej „Pełnomocnikiem”. Zgodnie z
+wyjaśnieniami Banku, Pełnomocnik był „osobą, która pomagała Pani A. Z. w codzien‐
+nych sprawach, między innymi przywożąc ją do placówki Banku”. W dniu (…) stycz‐
+nia 2015 Bank przyjął odwołanie pełnomocnictwa w oparciu o przedstawiony mu akt
+zgonu Pani A. Z.
+Pani A. Z. nie ustanawiała żadnych innych pełnomocników upoważnionych do
+dysponowania jej rachunkami prowadzonymi przez Bank.
+Dane osobowe Pani A. Z. oraz Pełnomocnika – zgodnie z oświadczeniem Banku
+złożonym w niniejszym postępowaniu – przetwarzana były „na podstawie art. 23
+ust. 1 ustawy z dnia 29.08.1997 r. o ochronie danych osobowych, w zakresie oraz w
+celu realizacji postanowień zawartych umów oraz dla wypełnienia prawnie usprawie‐
+dliwionych celów realizowanych przez administratorów danych”.
+Rachunek bankowy o numerze PL (…), do dysponowania którym upoważniony był
+Pełnomocnik, w momencie śmierci Pani A. Z. nie był używany. Ostatnie transakcje
+na nim (wpłata z rachunku bieżącego Pani A. Z. o numerze PL (…) i wypłata na ra‐
+chunek bankowy Pełnomocnika kwoty 4.000 zł) miały miejsce (…) lipca 2012 r.
+W okresie ostatnich trzech lat przed śmiercią Pani A. Z. (od (…) stycznia 2012 r. do
+(…) stycznia 2015 r.) w sposób ciągły używany był przez Panią A. Z. rachunek ban‐
+kowy o numerze PL (…). Poza transakcjami bezgotówkowymi odzwierciedlającymi
+bieżące zarządzanie finansami Pani A. Z. (np. wpływy z tytułu świadczeń ZUS, zapła‐
+ty bieżących zobowiązań) oraz zarządzaniem produktami bankowymi Pani A. Z. (lo‐
+katami bankowymi, produktami inwestycyjnymi), na rachunku tym odnotowano (od
+stycznia 2013 r.) regularne i częste wypłaty gotówki z rachunku za pośrednictwem
+bankomatów przy użyciu karty płatniczej o numerze (…). W okresie bezpośrednio
+poprzedzającym śmierć Pani A. Z., od (…) grudnia 2014 r. do (…) stycznia 2015 r.
+włącznie, były to 32 operacje wypłaty środków po 2.000 zł (łącznie: 64.000 zł). Po
+dacie śmierci Pani A. Z. (w dniach (…) i (…) stycznia 2015 r.) miały miejsce jeszcze
+trzy transakcje wypłaty z rachunku kwot w wysokości 2.000 zł.
+W związku z podejrzeniem bezprawnego pobrania i zadysponowania przez osoby
+trzecie środków pieniężnych zdeponowanych przez Panią A. Z. w Banku, pełnomoc‐
+nik Skarżącego – pismem z (…) marca 2015 r. – zwrócił się do Banku z wnioskiem o
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+Strona 4 z 12
+
+udostępnienie historii operacji na wszystkich rachunkach produktów bankowych
+Pani A. Z. za okres od (…) stycznia 2012 r. do daty udzielenia tych informacji, odpi‐
+sów umów łączących Panią A. Z. z Bankiem, odpisów udzielonych przez nią
+pełnomocnictw, danych osobowych „osób, które w okresie od (…) stycznia 2012
+roku do nadal dokonywały w imieniu A. Z. transakcji, operacji i wypłat (…)” oraz in‐
+formacji o ewentualnie posiadanych przez Panią A. Z. kartach kredytowych lub
+innych tego typu produktów bankowych.
+9. W odpowiedzi na wniosek pełnomocnika Skarżącego z (…) marca 2015 r., pismem
+doręczonym pełnomocnikowi Skarżącego (…) kwietnia 2015 r., Bank odmówił udzie‐
+lenia żądanych danych z okresu sprzed daty śmierci Pani A. Z., gdyż – jak wskazano
+– „zgodnie z opinią arbitra bankowego spadkobiercy nie mają prawa do informacji o
+tym, jak posiadacz konta dysponował swoimi środkami za życia”. Bank dopuścił je‐
+dynie możliwość wystawienia zaświadczenia o stanie środków na rachunkach zmar‐
+łej na dzień jej śmierci i zestawienia transakcji mających na nich miejsce od dnia jej
+śmierci.
+10. Na skutek skargi na nieudostępnienie przez Bank żądanych przez Skarżącego doku‐
+mentów i informacji, skierowanej przez pełnomocnika Skarżącego do Komisji Nadzo‐
+ru Finansowego, pismem z (…) czerwca 2015 r., Bank przedstawił pełnomocnikowi
+Skarżącego zestawienia zawierające historię transakcji na wszystkich rachunkach
+bankowych i rachunkach funduszy inwestycyjnych Pani A. Z. za okres od (…)
+stycznia 2012 r. do (…) czerwca 2015 r.
+11. Bank nie udostępnił Skarżącemu danych osobowych Pełnomocnika zmarłej A. Z. W
+wyjaśnieniach złożonych w niniejszym postępowaniu Bank wskazał, że nie znajduje
+podstaw prawnych do przekazania Skarżącemu danych Pełnomocnika, i że „stoi na
+stanowisku, że w ramach nabytych praw [Skarżący] nie nabył prawa do dysponowa‐
+nia danymi osobowymi pełnomocnika. Przekazanie do Skarżącego danych pełno‐
+mocnika nie jest również niezbędne do realizacji jego praw.”
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+Z dniem 25 maja 2018 r. w krajach członkowskich Unii Europejskiej zaczęły być stosowa‐
+ne w przedmiocie ochrony danych osobowych przepisy Rozporządzenia Parlamentu Eu‐
+ropejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fi‐
+zycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego prze‐
+pływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o
+ochronie danych) (Dz. Urz. UE L 119 z dnia 04.05.2016, str. 1, ze zmianą ogłoszoną w
+Dz. Urz. UE L 127 z dnia 23.05.2018, str. 2), zwane dalej „Rozporządzeniem 2016/679”.
+Również z dniem 25 maja 2018 r. weszła w życie na terytorium Rzeczpospolitej Polskiej
+ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz.
+1781), zwana dalej „u.o.d.o. 2018”, wdrażająca na terytorium Rzeczpospolitej Polskiej
+Rozporządzenie 2016/679 i uzupełniająca regulacje w tym akcie prawnym przewidziane.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+Strona 5 z 12
+
+W myśl art. 160 ust. 1 i 2 u.o.d.o. 2018, postępowania prowadzone przez Generalnego
+Inspektora Ochrony Danych Osobowych, wszczęte i niezakończone przed dniem wejścia
+w życie tej ustawy, prowadzone są przez Prezesa Urzędu Ochrony Danych Osobowych na
+podstawie ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z
+2016 r., poz. 922 ze zm.), zwanej dalej „u.o.d.o. 1997”, zgodnie z zasadami określonymi
+w ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z
+2020 r. poz. 256 ze zm.), zwanej dalej „k.p.a.”. Jednocześnie, zgodnie z art. 160 ust. 3
+u.o.d.o. 2018, czynności dokonane w postępowaniach wszczętych i niezakończonych
+przed dniem wejścia w życie jej przepisów, pozostają skuteczne.
+Uwzględniając powyższe regulacje prawne stwierdzić zatem należy, iż niniejsze postępo‐
+wanie, wszczęte i niezakończone przed dniem 25 maja 2018 r., prowadzone jest – w za‐
+kresie obejmującym przepisy regulujące procedurę postępowania – w oparciu o przepisy
+u.o.d.o. 1997 oraz K.p.a. W szczególności przepisy te określają środki mające na celu
+przywrócenie stanu zgodnego z prawem, które – w drodze decyzji administracyjnej – za‐
+stosować może Prezes Urzędu Ochrony Danych Osobowych w przypadku stwierdzenia
+naruszenia przepisów o ochronie danych osobowych. Zgodnie z art. 18 ust. 1 u.o.d.o.
+1997 Prezes Urzędu Ochrony Danych Osobowych może mianowicie nakazać:
+1) usunięcie uchybień,
+2) uzupełnienie, uaktualnienie, sprostowanie, udostępnienie lub nieudostępnienie
+danych osobowych,
+3) zastosowanie dodatkowych środków zabezpieczających zgromadzone dane osobo‐
+we,
+4) wstrzymanie przekazywania danych osobowych do państwa trzeciego,
+5) zabezpieczenie danych lub przekazanie ich innym podmiotom,
+6) usunięcie danych osobowych.
+Zgodnie z powyższymi regulacjami prawnymi, materialnoprawna ocena legalności i
+zgodności z prawem przetwarzania danych osobowych w niniejszej sprawie powinna na‐
+tomiast nastąpić w oparciu o przepisy Rozporządzenia 2016/679. Powyższe stwierdzenie
+zgodne jest z ugruntowanym stanowiskiem doktryny, zgodnie z którym „organ admini‐
+stracji publicznej ocenia stan faktyczny sprawy według chwili wydania decyzji admini‐
+stracyjnej. Reguła ta odnosi się także do oceny stanu prawnego sprawy, co oznacza, że
+organ administracji publicznej wydaje decyzję administracyjną na podstawie przepisów
+prawa obowiązujących w chwili jej wydania” (Komentarz do ustawy z dnia 14 czerwca
+1960 r. Kodeks postępowania administracyjnego (Dz. U. 00.98.1071) M. Jaśkowska, A.
+Wróbel, Lex., el/2012). Jak stwierdził zaś Naczelny Sąd Administracyjny w wyroku z dnia
+7 maja 2008 r. w sprawie o sygn. akt I OSK 761/07 cyt.: „badając (…) legalność przetwa‐
+rzania danych osobowych, GIODO ma obowiązek ustalenia, czy na datę wydawania roz‐
+strzygnięcia w sprawie dane konkretnego podmiotu są przetwarzane oraz czy czynione
+to jest w sposób zgodny z prawem”. Stwierdzenie w niniejszej sprawie niezgodności
+przetwarzania danych osobowych z przepisami Rozporządzenia 2016/679 spowoduje ko‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+Strona 6 z 12
+
+nieczność zastosowania przez Prezesa Urzędu Ochrony Danych Osobowych jednego lub
+kilku środków naprawczych wskazanych w art. 18 ust. 1 u.o.d.o. 1997.
+W niniejszej sprawie zasadniczym zagadnieniem wymagającym rozstrzygnięcia jest od‐
+powiedź na pytanie, czy przetwarzanie żądanych przez Skarżącego danych osobowych
+polegające na ich udostępnieniu przez administratora (Bank) osobie trzeciej (Skarżące‐
+mu) jest dopuszczalne – czy znajduje podstawę prawną w jednej z przesłanek wskaza‐
+nych w przepisach o ochronie danych osobowych. W tym miejscu podkreślić należy, że –
+w świetle definicji przetwarzania danych osobowych zawartej zarówno w u.o.d.o. 1997
+(art. 7 pkt 2) jak i w Rozporządzeniu 2016/679 (art. 4 pkt. 2) – udostępnianie danych
+osobowych (w tym ich udostępnianie osobom trzecim – nie będącym podmiotami tych
+danych) jest jedną z operacji wykonywanych na danych osobowych w ramach ich prze‐
+twarzania. Jak wskazuje się w doktrynie, w Rozporządzeniu 2016/679 „…nie została wy‐
+raźnie (odrębnie) uregulowana kwestia dopuszczalności udostępniania danych osobo‐
+wych – a więc jedno z kluczowych zagadnień w procesie przetwarzania danych. (…) Nie‐
+zamieszczenie w rozporządzeniu odrębnych reguł udostępniania danych nie oznacza nie‐
+dopuszczalności udostępniania danych, a skutkuje koniecznością stosowania do udostęp‐
+niania danych osobowych ogólnych podstaw dopuszczalności przetwarzania danych
+(uregulowanych w komentowanym artykule [art. 6]) albo szczególnych podstaw dopusz‐
+czalności przetwarzania danych, o których mowa w art. 9 i 10 rozporządzenia). Podstawą
+udostępnienia może więc być zgoda osoby, której dane dotyczą; konieczność wykonania
+umowy; konieczność wypełnienia obowiązku prawnego ciążącego na administratorze;
+konieczność ochrony żywotnych interesów osoby, której dane dotyczą, lub innej osoby;
+konieczność wykonania zadania realizowanego w interesie publicznym albo w ramach
+sprawowania władzy publicznej, a także realizacja prawnie uzasadnionego interesu
+administratora lub strony trzeciej (…)” (Fajgielski Paweł w: Komentarz do art. 6 rozporzą‐
+dzenia nr 2016/679 w sprawie ochrony osób fizycznych w związku z przetwarzaniem da‐
+nych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dy‐
+rektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), [w:] Ogólne rozporządze‐
+nie o ochronie danych. Ustawa o ochronie danych osobowych. Komentarz [online]. Wol‐
+ters Kluwer Polska, 2020-04-10 10:15. Dostępny w Internecie: https://sip.lex.pl/#/
+commentary/587773150/570590).
+Zgodnie z brzmieniem przepisu art. 23 ust. 1 u.o.d.o. 1997, obowiązującej w okresie, w
+którym Skarżący złożył wniosek o udostępnienie przez Bank danych osobowych, i w któ‐
+rym Skarżący wniósł do Generalnego Inspektora Ochrony Danych Osobowych skargę w
+niniejszej sprawie, przetwarzanie danych osobowych było dopuszczalne gdy: osoba, któ‐
+rej dane dotyczą, wyrazi na to zgodę, chyba że chodzi o usunięcie dotyczących jej da‐
+nych (pkt 1), jest to niezbędne dla zrealizowania uprawnienia lub spełnienia obowiązku
+wynikającego z przepisu prawa (pkt 2), jest to konieczne do realizacji umowy, gdy osoba,
+której dane dotyczą, jest jej stroną lub gdy jest to niezbędne do podjęcia działań przed
+zawarciem umowy na żądanie osoby, której dane dotyczą (pkt 3), jest niezbędne do wy‐
+konania określonych prawem zadań realizowanych dla dobra publicznego (pkt 4), jest to
+niezbędne dla wypełnienia prawnie usprawiedliwionych celów realizowanych przez admi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+Strona 7 z 12
+
+nistratorów danych albo odbiorców danych, a przetwarzanie nie narusza praw i wolności
+osoby, której dane dotyczą (pkt 5).
+Zgodnie z obecnie obowiązującą regulacją (art. 6 ust. 1 Rozporządzenia 2016/679), prze‐
+twarzanie danych (każda czynność mieszcząca się w tym pojęciu) jest zgodne z prawem
+wyłącznie w przypadkach, gdy - i w takim zakresie, w jakim - spełniony jest co najmniej
+jeden z poniższych warunków:
+a) osoba, której dane dotyczą wyraziła zgodę na przetwarzanie swoich danych
+osobowych w jednym lub większej liczbie określonych celów;
+b) przetwarzanie jest niezbędne do wykonania umowy, której stroną jest osoba, której
+dane dotyczą, lub do podjęcia działań na żądanie osoby, której dane dotyczą, przed
+zawarciem umowy;
+c) przetwarzanie jest niezbędne do wypełnienia obowiązku prawnego ciążącego na ad‐
+ministratorze;
+d) przetwarzanie jest niezbędne do ochrony żywotnych interesów osoby, której dane
+dotyczą, lub innej osoby fizycznej;
+e) przetwarzanie jest niezbędne do wykonania zadania realizowanego w interesie pu‐
+blicznym lub w ramach sprawowania władzy publicznej powierzonej administratoro‐
+wi;
+f) przetwarzanie jest niezbędne do celów wynikających z prawnie uzasadnionych inte‐
+resów realizowanych przez administratora lub przez stronę trzecią, z wyjątkiem sy‐
+tuacji, w których nadrzędny charakter wobec tych interesów mają interesy lub pod‐
+stawowe prawa i wolności osoby, której dane dotyczą, wymagające ochrony danych
+osobowych, w szczególności gdy osoba, której dane dotyczą, jest dzieckiem.
+Odnosząc wyżej przywołane przepisy do stanu faktycznego niniejszej sprawy stwierdzić
+należy, że zarówno w stanie prawnym obowiązującym do 24 maja 2018 r. (regulowanym
+przepisami u.o.d.o. 1997), jak i w stanie prawnym obowiązującym obecnie (od 25 maja
+2018 r., to jest od daty rozpoczęcia stosowania przepisów Rozporządzenia 2016/679),
+jedną z kilku samoistnych podstaw przetwarzania danych osobowych jest niezbędność
+tego przetwarzania dla realizacji prawnie usprawiedliwionych celów (interesów) admini‐
+stratora lub – co ma miejsce w niniejszej sprawie – odbiorcy danych (strony trzeciej).
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych wniosek Skarżącego o udostęp‐
+nienie mu danych osobowych w zakresie imion i nazwisk, numerów PESEL, numerów do‐
+wodów osobistych oraz miejsc zamieszkania pełnomocników i innych osób trzecich, któ‐
+re w okresie po (…) stycznia 2012 roku dokonywały w imieniu Pani A. Z. transakcji, ope‐
+racji i wypłat na jej rachunkach bankowych, produktach bankowych i finansowych, znaj‐
+dował uzasadnienie prawne w art. 23 ust. 1 pkt 5 u.o.d.o. 1997, a obecnie ma podstawę
+w art. 6 ust. 1 lit. f) Rozporządzenia 2016/679. Skarżący przekonująco uzasadnił bowiem
+swój wniosek zamiarem ochrony swoich – przynależnych spadkobiercy zmarłej A. Z. –
+prawnie uzasadnionych interesów majątkowych. Potrzeba ochrony tych interesów (rów‐
+nież na drodze cywilnoprawnej w postępowaniu sądowym) uzasadniona została okolicz‐
+nościami sprawy wskazującymi, że po śmierci A. Z., a przed objęciem spadku przez Skar‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+Strona 8 z 12
+
+żącego, z rachunku bankowego A. Z. o numerze PL (…) miały miejsce wypłaty środków
+pieniężnych, których dysponentem w sposób oczywisty nie była ani zmarła ani żadna
+inna osoba uprawniona do ich dysponowania. Transakcje te Skarżący miał prawo w spo‐
+sób uzasadniony uznać za godzące bezpośrednio w jego – spadkobiercy Pani A. Z. –
+interesy majątkowe.
+Również duża wartość i częstotliwość wypłat dokonywanych przed śmiercią A. Z. z jej ra‐
+chunku bankowego za pomocą karty płatniczej o numerze (…) (32 wypłaty na łączną
+kwotę 64.000 zł tylko w ostatnich 36 dniach życia Pani A. Z.), w połączeniu z okoliczno‐
+ścią, że ze względów zdrowotnych wypłat tych prawdopodobnie nie dokonywała osobi‐
+ście Pani A. Z., uzasadnia potrzebę sprawdzenia czy operacje te dokonywane były za
+wiedzą i wolą pani A. Z. oraz – jeśli dokonywane były przez jej pełnomocnika – w grani‐
+cach umocowania; czy ewentualnie nie były to czynności dokonane na jej szkodę. W
+przypadku stwierdzenia, że transakcje te dokonane były na szkodę Pani A. Z., po jej stro‐
+nie pojawiłyby się roszczenia majątkowe wobec osoby lub osób ich dokonujących. Nie
+przesądzając w niniejszej sprawie o konkretnej podstawie prawnej odpowiedzialności
+sprawcy lub sprawców szkody – deliktowej z art. 415 i nast. Ustawy z dnia 23 kwietnia
+1964 r. Kodeks cywilny (Dz. U. z 2019 r. poz. 1145 ze zm.), zwanej dalej „k.c.”, kontrak‐
+towej z art. 471 i nast. k.c. (związanej ewentualnie ze stosunkiem umownym leżącym u
+podstaw udzielonego przez Panią A. Z. pełnomocnictwa), z tytułu bezpodstawnego wzbo‐
+gacenia z art. 405 k.c. – nie ulega wątpliwości że roszczenia te jako prawa majątkowe
+przeszłyby, zgodnie z art. 922 § 1 k.c., na Skarżącego jako spadkobiercę Pani A. Z. Tak
+więc również w przypadku operacji wypłat dokonywanych przed śmiercią Pani A. Z.,
+Skarżący ma uzasadniony interes prawny (o charakterze majątkowym) w ustaleniu osób
+działających na szkodę Pani A. Z. (a pośrednio – na jego szkodę) i uzyskaniu ich danych
+osobowych niezbędnych w postępowaniu sądowym.
+Zindywidualizowanie sprawców szkody stanowi niezbędny warunek dochodzenia wobec
+nich roszczeń cywilnoprawnych. Przepisy normujące procedurę cywilną wymagają bo‐
+wiem, aby pierwsze pismo procesowe w sprawie cywilnej (w tym pozew) zawierało m.in.
+imiona i nazwiska oraz adresy zamieszkania stron postępowania będących osobami fi‐
+zycznymi, co wynika z art. 126 § 1 i 2 ustawy z dnia 17 listopada 1964 r. Kodeks
+postępowania cywilnego (Dz. U. z 2019 r. poz. 1460 ze zm.), zwanej dalej „K.p.c.”. Za
+niezbędne dla celów uzyskania ochrony interesów prawnych na drodze postępowania cy‐
+wilnego uznać należy również dysponowanie numerem Powszechnego Elektronicznego
+Systemu Ewidencji Ludności (PESEL) osoby, przeciwko której chce się skierować roszcze‐
+nia. Jest on wymagany do złożenia pozwu w elektronicznym postępowaniu upominaw‐
+czym (art. 505-505 K.p.c.), w którym można dochodzić roszczeń cywilnoprawnych. Iden‐
+tyfikator ten ponadto jednoznacznie identyfikuje osobę, przeciwko której chce się skiero‐
+wać roszczenia, co jest niezwykle istotne szczególnie w sytuacji gdy nie dysponuje się
+pewnym i aktualnym adresem zamieszkania tej osoby.
+Za nieuzasadnione w świetle zasady minimalizacji danych sformułowanej w art. 5 ust. 1
+pkt c) Rozporządzenia 2016/679, należy natomiast uznać żądanie Skarżącego udostęp‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+Strona 9 z 12
+
+nienia numerów dowodów osobistych pełnomocników i innych osób trzecich, które w
+okresie po (…) stycznia 2012 roku dokonywały w imieniu Pani A. Z. transakcji, operacji i
+wypłat na jej rachunkach bankowych, produktach bankowych i finansowych. Przepisy re‐
+gulujące postępowanie cywilne nie wymagają posiadania i przedstawiania w postępowa‐
+niu tego rodzaju danych. Natomiast dla jednoznacznej identyfikacji osoby fizycznej wy‐
+starczające jest dysponowanie jej numerem PESEL. Zasada minimalizacji danych, o któ‐
+rej mowa w art. 5 ust. 1 pkt c) Rozporządzenia 2016/679 nakazuje ograniczenie zakresu
+przetwarzanych (w tym przypadku udostępnianych) danych do danych „niezbędnych” do
+celów, w których są przetwarzane.
+Uznając co do zasady prawnie uzasadniony interes Skarżącego („strony trzeciej”, o któ‐
+rej mowa w art. 6 ust. 1 lit. f) Rozporządzenia 2016/679) w uzyskaniu danych osobowych
+pełnomocników i innych osób trzecich, które dokonywały w imieniu Pani A. Z. transakcji
+na jej rachunkach prowadzonych przez Bank, należy – jak w każdym przypadku przetwa‐
+rzania danych w oparciu o art. 6 ust. 1 lit. f) Rozporządzenia 2016/679 – dokonać w tej
+konkretnej sprawie „wyważenia interesów” Skarżącego i osób, których dotyczą dane sta‐
+nowiące przedmiot wniosku Skarżącego. Jak wynika bowiem z tego przepisu,
+niedopuszczalne jest przetwarzanie danych osobowych w „sytuacji, w których nadrzędny
+charakter wobec tych interesów [prawnie uzasadnionych interesów realizowanych przez
+stronę trzecią] mają interesy lub podstawowe prawa i wolności osoby, której dane doty‐
+czą.” Przesłanka „prawnie uzasadnionego interesu” nie ma więc charakteru bezwzględ‐
+nego - skonstruowana jest na zasadzie ważenia interesów. „Na jednej szali nakazuje
+umieścić prawnie uzasadniony interes administratora danych (lub osoby trzeciej), a na
+drugiej – wymagające ochrony podstawowe prawa i wolności osoby, której dane dotyczą.
+Jeżeli wynik tego ważenia interesów będzie wskazywał, że za przeważające należy uznać
+wymagające ochrony prawa podmiotu danych, to administrator nie powinien opierać
+przetwarzania danych na omawianej tu podstawie prawnej” (Fajgielski Paweł w: Komen‐
+tarz do art. 6 rozporządzenia nr 2016/679 w sprawie ochrony osób fizycznych w związku
+z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), [w:]
+Ogólne rozporządzenie o ochronie danych. Ustawa o ochronie danych osobowych. Ko‐
+mentarz [online]. Wolters Kluwer Polska, 2020-04-10 10:15. Dostępny w Internecie:
+https://sip.lex.pl/#/ commentary/ 587773150/570590).
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych nie można uznać w niniejszej
+sprawie interesów, praw i wolności osób, których danych osobowych żąda Skarżący, za
+przeważające nad interesem majątkowym Skarżącego. Rozsądne oczekiwania osób, któ‐
+re dokonywały wypłat z rachunków Pani A. Z. w Banku (na podstawie i w granicach for‐
+malnego, złożonego w Banku, pełnomocnictwa, albo z przekroczeniem umocowania
+określonego w tym pełnomocnictwie, albo bez jakiegokolwiek upoważnienia Pani A. Z.)
+powinny wskazywać na konieczność złożenia jakiegoś rodzaju sprawozdania z tych czyn‐
+ności i w konsekwencji przyjęcia za nie odpowiedzialności przed właścicielką rachunków
+bankowych lub też przed jej następcami prawnymi, którzy na podstawie przepisów o
+dziedziczeniu weszli w jej sytuację prawną w zakresie stosunków majątkowych. Należy
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+Strona 10 z 12
+
+wskazać, że pociągnięcie osób dysponujących w imieniu Pani A. Z. środkami z jej rachun‐
+ków bankowych do odpowiedzialności cywilnoprawnej (lub ewentualnie karnej), będące
+rezultatem sprawdzenia prawidłowości ich działań, należy do kompetencji niezależnych i
+bezstronnych organów wymiaru sprawiedliwości, i realizowane może być jedynie w ściśle
+określonych przepisami prawa postępowaniach, gwarantujących realizację ich podstawo‐
+wych praw oraz zapewniających obiektywne rozpatrzenie sprawy. Gwarancje, które daje
+wymiar sprawiedliwości, pozwalają stwierdzić, że nie można mówić o naruszeniu w jego
+ramach interesów, praw i wolności tych osób, jeśli działały one, kierując się należytą sta‐
+rannością, zgodnie z prawem oraz zgodnie z wolą, dyspozycjami i interesem Pani A. Z. i –
+w dalszej kolejności – jej następców prawnych. Jeśli natomiast miały w sprawie miejsce
+naruszenia o charakterze deliktowym lub kontraktowym, prawa i interesy osób ich do‐
+puszczających się nie zasługują na ochronę w zakresie, jaki zapewniałby im anonimo‐
+wość i w sposób nieuzasadniony zwalniał od odpowiedzialności za własne działania
+wyrządzające szkodę innym osobom.
+Podsumowując powyższe rozważania stwierdzić należy, że Bank bezpodstawnie odmówił
+Skarżącemu udostępnienia wnioskowanych danych. W tym miejscu stwierdzić należy, że
+Bank nie wskazał – ani w odpowiedzi na wniosek Skarżącego, ani w wyjaśnieniach złożo‐
+nych Prezesowi Urzędu Ochrony Danych Osobowych – podstawy prawnej odmowy
+udostępnienia żądanych przez Skarżącego danych.
+W swoim piśmie stanowiącym odpowiedź na wniosek Skarżącego z (…) marca 2015 r.
+Bank wskazał: „Odnośnie uzyskania danych sprzed daty śmierci zmarłego informujemy,
+że zgodnie z opinią arbitra bankowego spadkobiercy nie mają prawa do informacji o tym,
+jak posiadacz konta dysponował swoimi środkami za życia”. Domniemywać jedynie moż‐
+na, że Bank swoje stanowisko oparł na nałożonym na niego przepisami ustawy z dnia 29
+sierpnia 1997 r. Prawo bankowe (Dz. U. z 2019 r. poz. 2357 ze zm.), zwanej dalej „Pra‐
+wem bankowym”, obowiązku zachowania tzw. „tajemnicy bankowej”. Obowiązek ten
+określony został w art. 104 ust. 1 Prawa bankowego stanowiącym, że „bank, osoby w
+nim zatrudnione oraz osoby, za których pośrednictwem bank wykonuje czynności banko‐
+we, są obowiązane zachować tajemnicę bankową, która obejmuje wszystkie informacje
+dotyczące czynności bankowej, uzyskane w czasie negocjacji, w trakcie zawierania i
+realizacji umowy, na podstawie której bank tę czynność wykonuje.” Stanowisko Banku
+nie uwzględnia jednak odstępstwa od tej zasady, określonego w art. 104 ust 3 Prawa
+bankowego, który to przepis stanowi, że banku nie obowiązuje, z określonymi zastrzeże‐
+niami wskazanymi szczegółowo w tym artykule, zachowanie tajemnicy bankowej wobec
+osoby, której dotyczą informacje objęte tajemnicą. W ocenie Prezesa Urzędu Ochrony
+Danych Osobowych spadkobierca zmarłego posiadacza rachunku bankowego jest „oso‐
+bą, której dotyczą informacje objęte tajemnicą” w rozumieniu tego przepisu, z chwilą
+otwarcia spadku staje się bowiem stroną umowy rachunku bankowego w miejsce zmarłe‐
+go posiadacza rachunku. Takie stanowisko jest ugruntowane w orzecznictwie sądów po‐
+wszechnych. Warte przytoczenia są tytułem przykładu rozważania zawarte w uzasadnie‐
+niu wyroku Sądu Okręgowego w Nowym Sączu z 28 kwietnia 2016 r. w sprawie o sygn.
+akt III Ca 132/16. Sąd stwierdza w nim co następuje: „(…) stosunek prawny łączący bank
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+Strona 11 z 12
+
+z kontrahentem posiadającym rachunek bankowy w kategoriach prawnych jest zobowią‐
+zaniem mającym swoje źródło w umowie. (…) W czasie trwania umowy może dojść do
+zmian podmiotowych (…). Zmiana po stronie posiadacza rachunku może nastąpić w dro‐
+dze czynności prawnej dokonanej między żyjącymi, np. w razie cesji wierzytelności (art.
+509 i n. k.c.), ale również w przypadku następstwa prawnego na wypadek śmierci (…). W
+chwili otwarcia spadku następcy prawni posiadacza rachunku stają się stroną umowy ra‐
+chunku bankowego wstępując w prawa zmarłego posiadacza rachunku. (…) Spadkobier‐
+cy, wstępując w prawa i obowiązki strony umowy z bankiem nabywają zarówno upraw‐
+nienie w odniesieniu do wierzytelności z rachunków bankowych spadkodawcy, jakie ist‐
+niały w dniu śmierci spadkodawcy (postanowienie SN z dnia 15 kwietnia 1997 r., I CKU
+30/97, OSNC 1997, nr 10, poz. 149), jak i w ocenie Sądu Okręgowego, również do podej‐
+mowania wszelkich czynności i wydawania bankowi poleceń, do jakich uprawniony jest
+posiadacz rachunku. Jedną z takich dyspozycji jest także uprawnienie do przeglądania hi‐
+storii rachunku, za cały okres trwania umowy, czego domagała się powódka. Jest to bo‐
+wiem związane ściśle z możliwością kontroli prawidłowości wykonania przez bank pole‐
+ceń posiadacza rachunku. Kontroli takiej nie sposób powódce odmówić. Przepis art. 104
+Prawa bankowego stanowi zobowiązanie pracowników banku do przestrzegania tajemni‐
+cy bankowej polegającej na ograniczeniu możliwości przekazywania informacji uzyska‐
+nych w ramach udziału w czynnościach bankowych w stosunku do osób trzecich z wyłą‐
+czeniami wynikającymi z art. 105 w/w ustawy. Jednak już z treści przepisu art. 104 ust 3
+Prawa bankowego wynika, iż banku nie obowiązuje, z zastrzeżeniem ust. 4, zachowanie
+tajemnicy wobec osoby, której dotyczą informacje objęte tajemnicą. Prawo do takiej in‐
+formacji przysługuje spadkobiercy po posiadaczu rachunku bankowego, albowiem to
+jego, jako aktualnej strony umowy, dotyczą wszelkie informacje wynikające z prowadze‐
+nia rachunku przez bank. Próba ograniczenia dostępu do takich informacji przez bank
+stanowi, w ocenie Sądu Okręgowego, niedopuszczalne nadużycie uprawnień (…).” Pre‐
+zes Urzędu Ochrony Danych Osobowych w pełni akceptuje powyższe stanowisko. Wydaje
+się, że Bank również – po interwencji Komisji Nadzoru Finansowego podjętej na wniosek
+pełnomocnika Skarżącego – uznał powyższe stanowisko za prawidłowe, skoro przedsta‐
+wił Skarżącemu - pismem z (…) czerwca 2015 r. – żądane przez niego zestawienia zawie‐
+rające historię transakcji na wszystkich rachunkach bankowych i rachunkach funduszy
+inwestycyjnych Pani A. Z. za okres od (…) stycznia 2012 r. do (…) czerwca 2015 r. (nie
+przedstawił jedynie danych osobowych pełnomocników i innych osób trzecich dokonują‐
+cych w imieniu Pani A. Z. transakcji na jej rachunkach w Banku).
+W wyjaśnieniach złożonych w niniejszym postępowaniu pismem z (…) października 2016
+r. Bank – nie wskazując konkretnych przepisów prawnych, na których oparł się
+odmawiając udostępnienia danych tych osób – wskazał, że „stoi na stanowisku, że w ra‐
+mach nabytych praw [Skarżący] nie nabył prawa do dysponowania danymi osobowymi
+pełnomocnika. Przekazanie do Skarżącego danych pełnomocnika, nie jest również
+niezbędne do realizacji jego praw.” Stanowisko to, jak zostało to wyżej wykazane, jest
+nietrafne. Po pierwsze bowiem, Skarżący stając się w drodze dziedziczenia stroną
+wszystkich umów rachunku bankowych i inwestycyjnych zawartych z Bankiem przez Pa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+
+Decyzja ZKE.440.38.2019
+
+Strona 12 z 12
+
+nią A. Z., nabył wszystkie prawa majątkowe wynikające z tych umów oraz uprawnienia
+do żądania od Banku informacji tych praw dotyczących. Po drugie zaś, dane osobowe
+pełnomocników i innych osób trzecich dokonujących w imieniu Pani A. Z. transakcji na jej
+rachunkach w Banku, niezbędne są w celu zidentyfikowania osoby, która mogła dyspo‐
+nować środkami Pani A. Z. zarówno przed jak i tuż po jej śmierci, następnie sprawdzenia
+ich upoważnienia do dokonywania takich dyspozycji, i następnie ewentualnie do pocią‐
+gnięcia ich do odpowiedzialności za stwierdzone naruszenia. Bez podstawowych danych
+osobowych tych osób żaden z tych kroków nie byłby możliwy do zrealizowania. Ich usta‐
+lenie ze źródeł innych niż Bank byłoby niemożliwe lub co najmniej utrudnione w stopniu
+oznaczającym w praktyce konieczność zaniechania przez Skarżącego próby dochodzenia
+swoich praw.
+Podsumowując stwierdzić należy, że Bank bezpodstawnie odmówił udostępnienia żąda‐
+nych przez Skarżącego danych osobowych w zakresie imienia, nazwiska, adresu za‐
+mieszkania oraz numeru PESEL pełnomocnika ustanowionego przez Panią A. Z. do dys‐
+ponowania jej rachunkiem bankowym o numerze PL (…). Jak ustalono w niniejszym po‐
+stępowaniu, Pani A. Z. nie ustanowiła żadnych innych pełnomocników upoważnionych do
+dysponowania w jej imieniu posiadanymi przez nią w Banku rachunkami bankowymi i ra‐
+chunkami inwestycyjnymi. Bank nie dysponuje ponadto danymi osobowymi innych –
+poza wskazanym wyżej pełnomocnikiem – osób trzecich, które w jej imieniu dokonywały‐
+by transakcji na jej rachunkach w Banku. Z powyższego wynika zakres nakazu orzeczo‐
+nego – w oparciu o art. 18 ust. 1 pkt 2 u.o.d.o. 1997 – w punkcie 1 sentencji niniejszej
+decyzji.
+Oddalenie wniosku Skarżącego w pozostałym zakresie, orzeczone w punkcie 2 sentencji
+niniejszej decyzji, dotyczy wniosku Skarżącego o udostępnienie numeru dowodu osobi‐
+stego pełnomocnika ustanowionego przez Panią A. Z. do dysponowania jej rachunkiem
+bankowym o numerze PL (…) (jak wykazano wyżej dana ta nie jest niezbędna do realiza‐
+cji wskazanego przez Skarżącego prawnie uzasadnionego interesu) oraz wniosku o wska‐
+zanie dat i kwot transakcji dokonanych przez osoby trzecie w imieniu A. Z. na jej rachun‐
+kach w Banku (w toku postępowania Bank przedstawił pełnomocnikowi Skarżącego histo‐
+rię transakcji na wszystkich rachunkach bankowych i rachunkach funduszy inwestycyj‐
+nych Pani A. Z. za okres od (…) stycznia 2012 r. do (…) czerwca 2015 r.; zestawienie to
+wyczerpało żądanie Skarżącego w tym zakresie).
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_38/content
+
+2025-09-03 13:49
+

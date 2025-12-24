@@ -1,0 +1,843 @@
+Warszawa, 18 października 2019
+PRAWOMOCNA
+
+Decyzja
+ZSPU.421.3.2019
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r. poz. 2096 ze zm.), art. 7 ust. 1, art. 60, art. 102 ust.
+1 pkt 1 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r.
+poz. 1781) oraz art. 57 ust. 1 lit. a), art. 58 ust. 2 lit. d) oraz i) w zw. z art. 5 ust. 1 lit. a),
+e) i f) oraz ust. 2, art. 24 ust. 1 i 2, art. 28, art. 30 ust. 1 lit. d) i f) oraz art. 32, a także
+art. 83 ust. 1 – 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia
+27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem da‐
+nych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z
+4.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2),
+po przeprowadzeniu postępowania administracyjnego w sprawie przetwarzania danych
+osobowych przez Burmistrza G., Prezes Urzędu Ochrony Danych Osobowych
+I.
+stwierdzając naruszenie przez Burmistrza G. przepisów:
+a) art. 5 ust. 1 lit. a) oraz f) w zw. z art. 5 ust. 2 ogólnego rozporządzenia o ochro‐
+nie danych, tj. zasady zgodności z prawem i zasady poufności oraz art. 28 ust. 3
+ogólnego rozporządzenia o ochronie danych osobowych poprzez udostępnianie
+danych osobowych na rzecz T. Sp. z o.o. z siedzibą w T. oraz na rzecz konsor‐
+cjum podmiotów: W. S.A. z siedzibą w G. oraz C. S.A. z siedzibą w K. bez podsta‐
+wy prawnej, tj. bez uprzedniego zawarcia z ww. podmiotami umów powierzenia
+danych osobowych, o której mowa w art. 28 ust. 3 ogólnego rozporządzenia o
+ochronie danych, w związku z prowadzeniem strony internetowej Biuletynu
+Informacji Publicznej Urzędu Miejskiego w G.,
+b) art. 5 ust. 1 lit. e) w zw. z art. 5 ust. 2, tj. zasady ograniczenia przechowywania,
+oraz art. 24 ogólnego rozporządzenia o ochronie danych poprzez brak odpo‐
+wiednich polityk dotyczących przetwarzania danych osobowych w Biuletynie In‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+c)
+
+d)
+
+e)
+
+Strona 2 z 17
+
+formacji Publicznej Urzędu Miejskiego w G. pod kątem ich aktualności i celowo‐
+ści publikacji oraz określających terminy usunięcia danych osobowych,
+art. 5 ust. 1 lit. f) w zw. z art. 5 ust. 2 ogólnego rozporządzenia o ochronie da‐
+nych, tj. zasady integralności i poufności, zasady prawidłowości, oraz art. 24
+ogólnego rozporządzenia o ochronie danych poprzez nieprzeprowadzenie anali‐
+zy ryzyka związanego z korzystaniem przez Burmistrza G. z kanału YouTube w
+celu transmisji nagrań z obrad Rady Miasta G.,
+art. 5 ust. 1 lit. f) w zw. z art. 5 ust. 2 ogólnego rozporządzenia o ochronie da‐
+nych, tj. zasady integralności i poufności, oraz art. 32 ogólnego rozporządzenia
+o ochronie danych poprzez niewdrożenie odpowiednich środków technicznych i
+organizacyjnych mających na celu zabezpieczenie danych osób fizycznych w
+związku z przechowywaniem nagrań sesji Rady Miasta G. wyłącznie na serwe‐
+rach YouTube, bez wykonywania i przechowywania kopii zapasowych tych
+nagrań w zasobach własnych Urzędu Miejskiego w G.,
+art. 5 ust. 2 ogólnego rozporządzenia o ochronie danych, tj. zasady rozliczalno‐
+ści, oraz art. 30 ust. 1 lit. d) oraz f) ogólnego rozporządzenia o ochronie danych
+poprzez niewskazanie w rejestrze czynności przetwarzania danych osobowych,
+dla czynności związanych z publikacją informacji na stronie Biuletynu Informacji
+Publicznej Urzędu Miasta w G., wszystkich odbiorców danych oraz niewskazanie
+dla tych czynności przetwarzania planowanego terminu usunięcia danych w
+sposób zapewniający przetwarzanie danych zgodnie z zasadą ograniczonego
+przechowywania,
+nakazuje Burmistrzowi G. dostosowanie operacji przetwarzania danych osobo‐
+wych do przepisów ogólnego rozporządzenia o ochronie danych, w terminie 60
+dni od dnia, w którym niniejsza decyzja stanie się ostateczna, poprzez:
+1) zaprzestanie udostępniania danych osobowych na rzecz T. Sp. z o.o. z sie‐
+dzibą w T. oraz na rzecz konsorcjum podmiotów: W. S.A. z siedzibą w G. oraz
+C. S.A. z siedzibą w K., bez podstawy prawnej, tj. bez uprzedniego zawarcia
+umów powierzenia danych osobowych z ww. podmiotami, o której mowa w
+art. 28 ust. 3 ogólnego rozporządzenia o ochronie danych osobowych, w
+związku z prowadzeniem strony internetowej Biuletynu Informacji Publicznej
+Urzędu Miejskiego w G.,
+2) wdrożenie polityk:
+– określających okresy przetwarzania danych w Biuletynie Informacji Pu‐
+blicznej Urzędu Miejskiego w G. zgodne z przepisami prawa lub niezbęd‐
+ne do realizacji celów, dla których dane są przetwarzane,
+– zapewniających przestrzeganie terminów usuwania danych,
+3) przeprowadzenie analizy ryzyka w związku z publikacją nagrań sesji rady
+miejskiej i wdrożenie odpowiednich środków organizacyjnych i technicznych
+w związku z przetwarzaniem danych osobowych na kanale YouTube w związ‐
+ku z transmisją nagrań sesji rady miejskiej oraz przechowywaniem nagrań
+na serwerach YouTube,
+4)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+II.
+
+Strona 3 z 17
+
+wdrożenie odpowiednich środków organizacyjnych i technicznych mających
+na celu zabezpieczenie danych osób fizycznych pochodzących z nagrań se‐
+sji Rady Miasta G. poprzez zapewnienie dostępności kopii zapasowych w
+zasobach własnych Urzędu Miejskiego w G.,
+5) ujęcie w rejestrze czynności przetwarzania danych osobowych, dla czynno‐
+ści przetwarzania związanych z prowadzeniem Biuletynu Informacji
+Publicznej, informacji:
+a) o wszystkich odbiorcach danych, którym dane zostały lub zostaną ujaw‐
+nione, zgodnie z art. 30 ust. 1 lit. d) ogólnego rozporządzenia o ochronie
+danych,
+b) o planowanych terminach usunięcia danych, zgodnie z art. 30 ust. 1 lit.
+f) ogólnego rozporządzenia o ochronie danych.
+za naruszenie przepisów art. 5 ust. 1 lit. a), e) i f), art. 5 ust. 2, art. 28, art. 30 ust. 1
+lit. d) i f) oraz art. 32 ogólnego rozporządzenia o ochronie danych
+nakłada na Burmistrza G. karę pieniężną w kwocie 40.000 zł (słownie:
+czterdziestu tysięcy złotych i 00/100).
+
+Uzasadnienie
+W dniach od 28 stycznia do 1 lutego 2019 r. upoważnieni przez Prezesa Urzędu Ochrony
+Danych Osobowych kontrolujący przeprowadzili u Burmistrza G. (dalej także: Burmistrz)
+kontrolę zgodności przetwarzania danych osobowych z przepisami o ochronie danych
+osobowych, tj. z rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia
+27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem da‐
+nych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z
+4.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2) oraz ustawą z dnia 10 maja
+2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781), zwaną dalej również
+ustawą. Zakresem kontroli objęty został sposób przetwarzania danych osobowych przez
+Burmistrza G. w ramach procesu wysyłki korespondencji i prowadzenia Biuletynu Infor‐
+macji Publicznej (BIP), a także sposób prowadzenia rejestru czynności przetwarzania
+oraz dokumentowania naruszeń ochrony danych osobowych. W toku kontroli odebrano
+od pracowników Urzędu Miejskiego w G. ustne wyjaśnienia oraz dokonano oględzin sys‐
+temów informatycznych służących do przetwarzania danych osobowych i oględzin strony
+BIP. Stan faktyczny został szczegółowo opisany w protokole kontroli, który został
+podpisany przez Burmistrza G..
+Na podstawie tak zgromadzonego materiału dowodowego ustalono, że w procesie prze‐
+twarzania danych osobowych Burmistrz, jako administrator, naruszył przepisy o ochronie
+danych osobowych. Uchybienia te polegały na:
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+
+Strona 4 z 17
+
+udostępnianiu danych osobowych na rzecz T. Sp. z o.o. z siedzibą w T. oraz na rzecz
+konsorcjum podmiotów: W. S.A. z siedzibą w G. oraz C. S.A. z siedzibą w K. bez pod‐
+stawy prawnej, tj. bez uprzedniego zawarcia z ww. podmiotami umowy powierzenia
+danych osobowych, o której mowa w art. 28 ust. 3 ogólnego rozporządzenia o
+ochronie danych, w związku z prowadzeniem strony internetowej Biuletynu
+Informacji Publicznej Urzędu Miejskiego w G.;
+braku procedur wewnętrznych dotyczących przeglądu zasobów opublikowanych w
+BIP pod kątem zapewnienia przetwarzania danych zgodnie z zasadą ograniczonego
+przechowywania, w wyniku czego na stronie BIP Urzędu Miejskiego w G. publikowa‐
+ne są dokumenty zawierające dane osobowe przez okres dłuższy niż wynika to z
+przepisów prawa;
+niewdrożeniu odpowiednich środków technicznych i organizacyjnych mających na
+celu ochronę praw lub wolności osób fizycznych w związku z przechowywaniem na‐
+grania sesji wyłącznie na serwerach YouTube, bez wykonywania kopii nagrań sesji
+Rady Miejskiej G. znajdujących się we własnych zasobach urzędu;
+nieprzeprowadzeniu analizy ryzyka w związku z korzystaniem przez Burmistrza Mia‐
+sta G. z kanału YouTube w celu realizacji obowiązku prawnego wynikającego z art.
+art. 8 ust. 2 ustawy z dnia 6 września 2001 r. o dostępie do informacji publicznej (tj.
+Dz.U. z 2019 r. poz. 1429), zwanej dalej również udip,
+niewskazaniu w rejestrze czynności przetwarzania danych osobowych, dla czynności
+związanych z publikacją informacji na stronie BIP Urzędu Miejskiego w G., wszyst‐
+kich odbiorców danych oraz niewskazaniu dla tych czynności przetwarzania plano‐
+wanego terminu usunięcia danych w sposób zapewniający przetwarzanie danych
+zgodnie z zasadą ograniczone przechowywania.
+
+W związku z powyższym, w dniu (…) czerwca 2019 r. Prezes Urzędu Ochrony Danych
+Osobowych wszczął z urzędu postępowanie administracyjne w celu wyjaśnienia
+okoliczności niniejszej sprawy (sygn. pisma ZSPU.421.3.2019).
+W odpowiedzi na zawiadomienie o wszczęciu postępowania administracyjnego Burmistrz
+G. pismem z dnia (…) czerwca 2019 r., znak: (…), poinformował, że:
+1. W zakresie uchybień dotyczących okresu publikacji dokumentów w BIP skierował
+wniosek do Ministra Cyfryzacji o interpretację przepisów ustawy o dostępie do infor‐
+macji publicznej oraz wniósł o zawieszenie postępowania do czasu otrzymania ww.
+interpretacji.
+2. Z ustawy o dostępie do informacji publicznej w sposób jednoznaczny wynika, że
+udostępnianie danych dotyczy osób sprawujących władzę, a nie tych którzy sprawo‐
+wali władzę. W związku z powyższym, mogą być udostępnianie w BIP oświadczenia
+majątkowe tylko radnych sprawujących władzę w okresie 5 lat, a zatem w trakcie
+trwania kadencji, a po tym okresie powinny być usuwane z BIP i przechowywane w
+formie papierowej, przez okres 6 lat w stosunku do terminów od daty ich złożenia
+oraz udostępniania na wniosek zgodnie z zasadą jawności.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 5 z 17
+
+Do pozostałych uchybień wskazanych przez Prezesa Urzędu Ochrony Danych Osobowych
+w piśmie z dnia (…) czerwca 2019 r., nr ZSPU.421.3.2019, stanowiącym zawiadomienie o
+wszczęciu postępowania, Burmistrz nie ustosunkował się.
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje:
+Prezes UODO jest organem właściwym w sprawie ochrony danych osobowych (art. 34
+ustawy) i organem nadzorczym w rozumieniu przepisów RODO (art. 34 ust. 2 ustawy).
+
+I.
+Administrator (w tym przypadku Burmistrz) obowiązany jest do wdrożenia odpowiednich
+środków organizacyjno – technicznych, które zapewnią, że dane osobowe będą przetwa‐
+rzane zgodnie z prawem, merytorycznie poprawne, adekwatne do celów pozyskania oraz
+odpowiednio zabezpieczone, by ich przetwarzanie nie naruszało praw i wolności osób fi‐
+zycznych. Istotne jest także, aby administrator przetwarzał dane osobowe wyłącznie
+przez czas niezbędny dla realizacji celów pozyskania danych lub czas wynikający z
+przepisów prawa powszechnie obowiązującego.
+W przypadku braku przepisów regulujących czas przetwarzania administrator powinien
+określić procedury regulujące moment, kiedy dane uznane za zbędne są przez niego
+usuwane.
+Stosownie do art. 4 pkt 2 ogólnego rozporządzenia o ochronie danych, „przetwarzanie”
+oznacza operację lub zestaw operacji wykonywanych na danych osobowych lub zesta‐
+wach danych osobowych w sposób zautomatyzowany lub niezautomatyzowany, taką jak
+zbieranie, utrwalanie, organizowanie, porządkowanie, przechowywanie, adaptowanie lub
+modyfikowanie, pobieranie, przeglądanie, wykorzystywanie ujawnianie poprzez przesła‐
+nie, rozpowszechnianie lub innego rodzaju udostępnianie, dopasowywanie lub łączenie,
+ograniczanie, usuwanie lub niszczenie.
+A o legalności przetwarzania danych można mówić w przypadku spełniania jednej z prze‐
+słanek określonych w art. 6 ogólnego rozporządzenia o ochronie danych (dane zwykłe),
+czy w art. 9 ogólnego rozporządzenia o ochronie danych (dane szczególnych kategorii).
+Przede wszystkim należy zwrócić uwagę na zasady określone w art. 5 ogólnego rozpo‐
+rządzenia o ochronie danych, które mają charakter podstawowy w odniesieniu do całej
+regulacji. Zasady te należy traktować jako posiadające nadrzędną moc i wyznaczające
+kierunek działania administratora w realizacji jego zadań wynikających z przepisów pra‐
+wa.
+Podstawową zasadą w ogólnym rozporządzeniu o ochronie danych jest „zasada rozliczal‐
+ności”, o której mowa w art. 5 ust. 2 ogólnego rozporządzenia o ochronie danych. Zgod‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 6 z 17
+
+nie z tym przepisem, administrator danych jest odpowiedzialny za przestrzeganie
+wszystkich zasad przy przetwarzaniu danych osobowych (wskazanych w art. 5 ust. 1
+ogólnego rozporządzenia o ochronie danych) i musi być w stanie wykazać ich przestrze‐
+ganie.
+Zasada rozliczalności nakłada zatem na administratora danych ciężar dowodowy, pole‐
+gający na konieczności wykazania przez niego zarówno przed organem nadzorczym, jak
+również przed podmiotem danych, dowodów na przestrzeganie wszystkich zasad
+przetwarzania danych.
+Administrator może przetwarzać dane samodzielnie lub powierzyć ich przetwarzanie in‐
+nemu podmiotowi (podmiot przetwarzający – art. 4 pkt 8 ogólnego rozporządzenia o
+ochronie danych). Zgodnie z art. 28 ust. 3 ogólnego rozporządzenia o ochronie danych,
+przetwarzanie przez podmiot przetwarzający odbywa się na podstawie umowy lub inne‐
+go instrumentu prawnego, które podlegają prawu Unii lub prawu państwa członkowskie‐
+go i wiążą podmiot przetwarzający i administratora, określają przedmiot i czas trwania
+przetwarzania, charakter i cel przetwarzania, rodzaj danych osobowych oraz kategorie
+osób, których dane dotyczą, obowiązki i prawa administratora. Co istotne, w takim przy‐
+padku administrator może korzystać wyłącznie z usług takich podmiotów przetwarzają‐
+cych, które zapewniają wystarczające gwarancje wdrożenia odpowiednich środków tech‐
+nicznych i organizacyjnych, by przetwarzanie spełniało wymogi niniejszego rozporządze‐
+nia i chroniło prawa osób, których dane dotyczą (art. 28 ust. 1 ogólnego rozporządzenia
+o ochronie danych).
+Odnosząc powyższe na grunt przedmiotowej sprawy wskazać należy, że przeprowadzona
+kontrola wykazała, że Burmistrz nie zawarł umów powierzenia przetwarzania danych z
+podmiotami, uczestniczącymi w procesie przetwarzania danych w ramach BIP. Jak usta‐
+lono, zasoby BIP Urzędu Miejskiego w G. znajdują się na serwerze podmiotu zewnętrzne‐
+go, zlokalizowanym w T. w T., który zapewnia parametry techniczne utrzymania strony
+BIP podmiotów objętych umową, w tym Urzędu Miejskiego w G., na podstawie umowy
+najmu zawartej pomiędzy Województwem (…) a T. Sp. z o.o. z siedzibą w T. W toku kon‐
+troli przedstawiona została umowa nr ABC z dnia (…) lipca 2016 r., obowiązująca od (…)
+stycznia do (…) grudnia 2017 r., aneks nr 1 z dnia (…) marca 2018 r. do umowy nr CDE
+na okres od (…) stycznia do (…) grudnia 2018 r. Nie przedstawiono aktualnej umowy po‐
+między Województwem (…) a T. Sp. z o.o. z siedzibą w T. Przedstawiona umowa oraz
+aneks nr 1 nie zawierały postanowień dotyczących przetwarzania danych osobowych w
+związku z korzystaniem przez Urząd Miejski w G. z serwera podmiotu zewnętrznego.
+W trakcie kontroli ustalono, że w związku z dostarczeniem oprogramowania dotyczącego
+utworzenia regionalnego biuletynu informacji publicznej, w dniu (…) stycznia 2015 r. za‐
+warta została umowa nr XYZ pomiędzy Województwem (…) a konsorcjum podmiotów: W.
+S.A. z siedzibą w G. oraz C. S.A. z siedzibą w K. W zawartej umowie nie zostały ujęte po‐
+stanowienia dotyczące ochrony danych osobowych ani nie została zawarta umowa o po‐
+wierzeniu przetwarzania danych osobowych związana ze świadczeniem usług
+serwisowych na rzecz Urzędu Miejskiego w G..
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 7 z 17
+
+W toku kontroli nie przedstawiono umowy pomiędzy Województwem (…) a Burmistrzem
+Miasta G., ani nie wykazano innego instrumentu prawnego, z którego wynikałoby, że
+udostępnienie serwera oraz dostarczenie oprogramowania służącego do utworzenia re‐
+gionalnego biuletynu informacji publicznej realizowane jest przez Województwo (…) na
+rzecz Urzędu Miejskiego w G..
+Należy tym samym uznać, że Burmistrz Miasta G., w związku z korzystaniem z serwera
+podmiotu zewnętrznego, tj. T. Sp. z o.o. z siedzibą w T., na którym znajdują się zasoby
+BIP Urzędu Miejskiego w G. oraz z usług podmiotu zewnętrznego w zakresie serwisowa‐
+nia strony internetowej BIP, tj. konsorcjum podmiotów: W. S.A. z siedzibą w G. oraz C.
+S.A. z siedzibą w K., nie zawarł z tymi podmiotami umowy powierzenia przetwarzania da‐
+nych osobowych, a tym samym naruszył art. 28 ust. 3 ogólnego rozporządzenia o
+ochronie danych.
+W przypadku udostępnienia danych osobowych bez podstawy prawnej (bez uprzednio
+zawartej umowy powierzenia), następuje naruszenie zasady zgodności z prawem (art. 5
+ust. 1 lit. a) ogólnego rozporządzenia o ochronie danych) oraz zasady poufności (art. 5
+ust. 1 lit. f) ogólnego rozporządzenia o ochronie danych). Burmistrz nie zachował powyż‐
+szych zasad zlecając prowadzenie BIP ww. podmiotom bez uprzedniego zawarcia umów
+powierzenia danych. Dopuścił tym samym do braku kontroli nad prawidłowością procesu
+przetwarzania danych zawartych w BIP i nie wykazał, że następuje on przy spełnieniu
+wymogów wynikających z przepisów ogólnego rozporządzenia o ochronie danych. W
+konsekwencji należy również uznać, że Burmistrz w tym zakresie naruszył także zasadę
+rozliczalności wynikającą z art. 5 ust. 2 ogólnego rozporządzenia o ochronie danych.
+Zgodnie z art. 24 ust. 1 ogólnego rozporządzenia o ochronie danych, uwzględniając cha‐
+rakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności
+osób fizycznych o różnym prawdopodobieństwie i wadze, administrator wdraża odpo‐
+wiednie środki techniczne i organizacyjne, aby przetwarzanie odbywało się zgodnie z ni‐
+niejszym rozporządzeniem i aby móc to wykazać (ust. 1). Jeżeli jest to proporcjonalne w
+stosunku do czynności przetwarzania, środki, o których mowa w ust. 1, obejmują wdro‐
+żenie przez administratora odpowiednich polityk ochrony danych (ust. 2). Ponadto, zgod‐
+nie z art. 5 ust. 1 lit. e) ogólnego rozporządzenia o ochronie danych, dane osobowe mu‐
+szą być przechowywane w formie umożliwiającej identyfikację osoby, której dane doty‐
+czą, przez okres nie dłuższy, niż jest to niezbędne do celów, w których dane te są prze‐
+twarzane; dane osobowe można przechowywać przez okres dłuższy, o ile będą one prze‐
+twarzane wyłącznie do celów archiwalnych w interesie publicznym, do celów badań na‐
+ukowych lub historycznych lub do celów statystycznych na mocy art. 89 ust. 1, z za‐
+strzeżeniem że wdrożone zostaną odpowiednie środki techniczne i organizacyjne wyma‐
+gane na mocy niniejszego rozporządzenia w celu ochrony praw i wolności osób, których
+dane dotyczą („ograniczenie przechowywania”).
+W BIP Urzędu Miejskiego w G. udostępniane są informacje publiczne na podstawie obo‐
+wiązku ciążącego w tym zakresie na Burmistrzu G., wynikającym z art. 8 ust. 2 udip.
+Przepisy ustawy o dostępie do informacji publicznej, a także przepisy rozporządzenia Mi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 8 z 17
+
+nistra Spraw Wewnętrznych i Administracji z dnia 18 stycznia 2007 r. w sprawie Biulety‐
+nu Informacji Publicznej (Dz. U z 2007 r. Nr 10, poz. 68), nie precyzują okresu udostęp‐
+niania informacji w BIP, zarówno minimalnego, jak i maksymalnego. Brak jednak określo‐
+nych przepisami prawa okresów przetwarzania udostępnionych informacji (zawierają‐
+cych dane osobowe), nie powoduje, że informacje takie można przetwarzać beztermino‐
+wo. Wobec powyższego, administrator, zgodnie z zasadą ograniczonego przechowywa‐
+nia, wynikającą z art. 5 ust. 1 lit. e) ogólnego rozporządzenia o ochronie danych, powi‐
+nien w tym zakresie kierować się przepisami wynikającymi z innych aktów prawa, z któ‐
+rych wynika czas, przez jaki może przetwarzać dane osobowe, a w przypadkach, w któ‐
+rych prawo nie reguluje okresu retencji danych, po przeprowadzeniu analiz, określić ten
+okres tak, aby przetwarzanie danych było zgodne z celami, z którymi je pozyskano. Sta‐
+nowisko takie zaprezentowane zostało także w uzasadnieniu wyroku Wojewódzkiego
+Sądu Administracyjnego w Lublinie z dnia 1 marca 2016 r., sygn. akt II SA/Lu 876/15, „z
+art. 26 ust. 1 pkt 4 ustawy o ochronie danych osobowych wynika zasada ograniczenia
+czasowego udostępnienia danych osobowych w Biuletynie Informacji Publicznej. Zasada
+ta oznacza, że nawet jeśli określone dane odpowiadają celowi, dla którego są zbierane,
+to nie powinny być przetwarzane, w tym udostępniane innym podmiotom ad finitum.
+Czasowym wyznacznikiem powinno być natomiast osiągnięcie celu przetwarzania.” Pod‐
+kreślić należy, iż ww. wyrok zachowuje aktualność także przy obecnie obowiązujących
+przepisach o ochronie danych osobowych.
+W wyniku oględzin strony Biuletynu Informacji Publicznej Urzędu Miejskiego w G. ustalo‐
+no w szczególności, że wśród zamieszczonych tam dokumentów są dokumenty zawiera‐
+jące dane osobowe, tj. oświadczenia majątkowe oraz informacje o wynikach naborów na
+wolne stanowiska. Najstarsze informacje dotyczą naborów przeprowadzonych w 2012 r. i
+zawierają informacje o wybranych kandydatach w zakresie: imię i nazwisko oraz miejsce
+zamieszkania w rozumieniu przepisów ustawy z dnia z dnia 23 kwietnia 1964 r. Kodeksu
+cywilnego (Dz. U. z 2019 r. poz. 1145), tj. miejscowość, w której osoba przebywa z za‐
+miarem stałego pobytu. Najstarsze zamieszczone na archiwalnej stronie BIP Urzędu
+Miejskiego w G. oświadczenia majątkowe dotyczą 2010 r.
+Zgodnie z art. 24i ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2019
+r. poz. 506), informacje zawarte w oświadczeniach majątkowych radnych są jawne, z wy‐
+łączeniem informacji o adresie zamieszkania osoby składającej oświadczenie oraz o
+miejscu położenia nieruchomości. Zgodnie z art. 24h ust. 6 ww. ustawy, oświadczenie
+majątkowe przechowuje się przez 6 lat. Przepisy te stanowią o legalności przetwarzania,
+w zakresie zarówno gromadzenia, jak i publikowania danych osobowych zawartych w
+oświadczeniach majątkowych. Stanowisko takie znajduje również potwierdzenie w pi‐
+śmiennictwie. „Zgodnie z art. 24h ust. 6 u.s.g., art. 25c ust. 6 u.s.p. oraz art. 27c ust. 6
+u.s.w. oświadczenie majątkowe przechowuje się przez sześć lat. Zważywszy na jawny
+charakter tychże oświadczeń i ich zakwalifikowanie do informacji publicznych, założyć
+można, iż powinno się je udostępniać przez sześć lat. Nie ma przy tym znaczenia, czy
+osoba, która złożyła oświadczenie, wciąż pełni swoją funkcję. Ustawodawca nie przewi‐
+dział krótszego okresu niż 6 lat, dlatego wydaje się, że raz złożone oświadczenie
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 9 z 17
+
+pozostaje jawne przez cały ten okres” (K. Janaczek, Publikacja oświadczeń majątkowych
+[w:] (red.) B. Dolnicki Jawność w samorządzie terytorialnym [online]. LEX, 2019-08-15
+17:49 [dostęp: 2019-08-23 15:31]. Dostępny w Internecie: https://sip.lex.pl/#/
+monograph/369356174/275075).
+Publikację ogłoszeń o naborach reguluje natomiast art. 13 ust. 1 ustawy z dnia 21
+listopada 2008 r. o pracownikach samorządowych (Dz. U. z 2019 r. poz. 1282), zgodnie z
+którym ogłoszenie o wolnym stanowisku urzędniczym, w tym kierowniczym stanowisku
+urzędniczym, oraz o naborze kandydatów na to stanowisko umieszcza się w Biuletynie
+Informacji Publicznej. Ponadto, na podstawie art. 15 ust. 1 ww. ustawy, niezwłocznie po
+przeprowadzonym naborze informacja o wyniku naboru jest upowszechniana przez
+umieszczenie na tablicy informacyjnej w jednostce, w której był przeprowadzony nabór,
+oraz opublikowanie w Biuletynie przez okres co najmniej trzech miesięcy. Tym samym
+ustawodawca wskazał minimalny termin publikacji wyników wyboru, nie określając okre‐
+su maksymalnego, natomiast określenie terminu maksymalnego, tj. terminu po jakim
+powinien on te dane usunąć z BIP, ustawodawca pozostawił administratorowi (podmioto‐
+wi zobowiązanemu do udostępnienia informacji). Przy określaniu okresu przetwarzania
+danych w BIP administrator powinien brać pod uwagę przepisy prawa regulujące czas
+przetwarzania, a w przypadku braku regulacji prawnych określających okres publikacji
+osiągnięcie celu przetwarzania oraz zasadę ograniczenia przechowywania.
+W kontekście powyższego należy stwierdzić, że opublikowane w BIP informacje, dla któ‐
+rych termin publikacji nie wynika z przepisów prawa, powinny zostać poddane ocenie,
+zgodnie z formalną procedurą (wprowadzoną przez administratora), zapewniającą usys‐
+tematyzowane kształtowanie BIP, tak aby wszystkie informacje, dla których cel przetwa‐
+rzania został osiągnięty, zostały z BIP usunięte. Jak ustalono w toku kontroli, w Urzędzie
+Miejskim w G. została wdrożona wewnętrzna procedura dotycząca prowadzenia BIP, jed‐
+nakże nie zawiera ona zasad dotyczących przeglądu danych opublikowanych w BIP pod
+kątem zapewnienia ich przetwarzania zgodnie z zasadą ograniczonego przechowywania.
+Burmistrz Miasta G. naruszył tym samym dyspozycję zawartą w art. 5 ust. 1 lit. e) oraz
+art. 24 ust. 2 ogólnego rozporządzenia o ochronie danych.
+W tym miejscu wskazać należy, iż Burmistrz pismem z dnia (…) czerwca 2019 r., znak:
+(…), poinformował Prezesa Urzędu o skierowaniu wniosku do Ministra Cyfryzacji o inter‐
+pretację przepisów udip oraz wniósł o zawieszenie postępowania do czasu otrzymania
+ww. interpretacji. Odnosząc się do wniosku Burmistrza o zawieszenie niniejszego postę‐
+powania do czasu uzyskania odpowiedzi od Ministra Cyfryzacji dotyczącej interpretacji
+przepisów ustawy o dostępie do informacji publicznej w zakresie okresów udostępniania
+informacji publicznej, wskazać należy, iż Prezes Urzędu nie przychylił się do ww. wniosku.
+W ocenie Prezesa Urzędu Minister Cyfryzacji, jako podmiot odpowiedzialny za stworzenie
+głównej strony Biuletynu Informacji Publicznej, nie jest podmiotem właściwym do inter‐
+pretacji przepisów ustawy o dostępie do informacji publicznej, a wydawane przez niego
+wytyczne nie są prawnie wiążące. Podkreślenia wymaga, że to Burmistrz jest administra‐
+torem, a zatem to na nim spoczywa obowiązek zapewnienia, aby przetwarzanie danych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 10 z 17
+
+zamieszczonych w BIP było zgodne z przepisami ogólnego rozporządzenia o ochronie da‐
+nych, tym samym zgodne z zasadą ograniczenia przechowywania, określoną w art. 5
+ust. lit. e ogólnego rozporządzenia o ochronie danych. Burmistrz powinien opracować i
+wdrożyć procedury, z których będą wynikały terminy usuwania z BIP informacji zawiera‐
+jących dane osobowe oraz zasady dokonywania przeglądów zawartości BIP w celu wery‐
+fikacji, czy określone w ten sposób terminy usuwania danych osobowych są przestrzega‐
+ne (art. 24 ogólnego rozporządzenia o ochronie danych).
+Z materiału dowodowego zgromadzonego w sprawie wynika, że Burmistrz Miasta G. nie
+określił w procedurach wewnętrznych terminu usuwania danych opublikowanych w Biu‐
+letynie Informacji Publicznej, jak również nie opracował procedur dotyczących przeglądu
+zasobów danych w materiałach opublikowanych w BIP pod kątem zapewnienia przetwa‐
+rzania danych zgodnie z zasadą ograniczenia przechowywania. W związku z brakiem ta‐
+kich procedur, jak stwierdzono w toku kontroli, na stronie BIP Urzędu Miejskiego w G. pu‐
+blikowane są dokumenty zawierające dane osobowe przez okres dłuższy, niż jest to nie‐
+zbędne do celów, w których dane te są przetwarzane, a nawet przez okres dłuższy, niż
+wynika to z przepisów prawa określających okres przechowywania dokumentów zawiera‐
+jących dane osobowe, jak to ma miejsce w odniesieniu do oświadczeń majątkowych. W
+tym miejscu podkreślić należy, że skutkiem powyższego jest umożliwienie dostępu do
+danych nieograniczonej liczbie użytkowników Internetu. Każdy bowiem, kto ma dostęp
+do Internetu, w dowolnym czasie i bez żadnych ograniczeń może przeglądać zasoby BIP
+Urzędu Miejskiego w G., a w konsekwencji mieć wgląd w dane osobowe, które w tych za‐
+sobach się znajdują. Tym samym Burmistrz Miasta G. naruszył art. 5 ust. 1 lit. e)
+ogólnego rozporządzenia o ochronie danych.
+Ponadto, z uwagi na to, że przedmiotowa procedura regulować ma istotne dla procesu
+przetwarzania danych osobowych czynności na tych danych w celu zapewnienia realiza‐
+cji zasady ograniczenia przechowywania, to należy ją traktować jako politykę ochrony
+danych, o której mowa w art. 24 ust. 2 ogólnego rozporządzenia o ochronie danych. W
+konsekwencji, wobec braku tej procedury stwierdzić należy naruszenie przez Burmistrza
+także i tego przepisu ogólnego rozporządzenia o ochronie danych w kontekście zasady
+rozliczalności wyrażonej w art. 5 ust. 2 ogólnego rozporządzenia o ochronie danych.
+Odnosząc się natomiast do procesu przetwarzania danych osobowych w związku z publi‐
+kacją nagrań z sesji rady miejskiej wskazać należy, że na podstawie art. 20 ust. 1b usta‐
+wy o samorządzie gminnym obrady rady gminy są transmitowane i utrwalane za pomo‐
+cą urządzeń rejestrujących obraz i dźwięk. Nagrania obrad są udostępniane w Biuletynie
+Informacji Publicznej i na stronie internetowej gminy oraz w inny sposób zwyczajowo
+przyjęty. Burmistrz, jako administrator, decydując się na wybór narzędzi służących do
+transmisji danych w Internecie oraz utrwalania ich za pomocą urządzeń rejestrujących
+obraz i dźwięk jest odpowiedzialny za proces przetwarzania tych danych oraz realizację
+zasad wynikających z przepisów ogólnego rozporządzenia o ochronie danych, w tym za
+wykazanie ich przestrzegania (rozliczalność). Na Burmistrzu spoczywa zatem obowiązek
+zapewnienia bezpieczeństwa danych przetwarzanych wraz z realizacją prawa dostępu do
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 11 z 17
+
+informacji publicznej w trybie art. 8 udip. Należy ponownie zwrócić uwagę na art. 24 ust.
+1 ogólnego rozporządzenia o ochronie danych i wynikający z niego obowiązek wdrożenia
+przez administratora (a zatem przez Burmistrza) odpowiednich środków technicznych i
+organizacyjnych, aby przetwarzanie odbywało się zgodnie z niniejszym rozporządzeniem
+i aby móc to wykazać. Zgodnie z art. 32 ust. 1 RODO uwzględniając stan wiedzy tech‐
+nicznej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzy‐
+ko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystą‐
+pienia i wadze, administrator i podmiot przetwarzający wdrażają odpowiednie środki
+techniczne i organizacyjne, aby zapewnić stopień bezpieczeństwa odpowiadający temu
+ryzyku, w tym zdolność do ciągłego zapewnienia poufności, integralności, dostępności i
+odporności systemów i usług przetwarzania oraz zdolność do szybkiego przywrócenia
+dostępności danych osobowych i dostępu do nich w razie incydentu fizycznego lub tech‐
+nicznego, o których mowa w art. 32 ust. 1 lit. b) oraz lit. c) ogólnego rozporządzenia o
+ochronie danych.
+W świetle ww. przepisów ogólnego rozporządzenia o ochronie danych na administratorze
+ciąży obowiązek wdrożenia adekwatnych środków technicznych i organizacyjnych, któ‐
+rych wybór pozostaje w gestii administratora i powinien być poprzedzony analizą ryzyka
+naruszenia praw lub wolności osób fizycznych. Jak wskazuje się w piśmiennictwie, „środ‐
+ki te powinny być odpowiednie, przez co rozumieć należy dążenie do tego, aby środki
+były skuteczne, a więc pozwalały na zapobieganie naruszeniom ochrony danych lub
+ograniczenie do minimum ryzyka ich wystąpienia, mając na względzie fakt, iż całkowite
+wyeliminowanie ryzyka może nie być realne” (P. Fajgielski, Komentarz do art. 32 [w:] red.
+P. Fajgielski, Ogólne rozporządzenie o ochronie danych. Ustawa o ochronie danych
+osobowych. Komentarz. Wolters Kluwer Polska, 2018).
+W toku kontroli ustalono, że w związku z obowiązkiem transmisji i publikacji obrad Rady
+Miejskiej G. w BIP utworzony został kanał na YouTube oraz zawarta została umowa z pod‐
+miotem zewnętrznym na transmisję posiedzeń organów Miasta G. w sieci Internet po‐
+przez platformę YouTube.com. Publikacja danych osobowych przetwarzanych w związku
+z nagrywaniem i publikacją obrad sesji Rady Miejskiej G. realizowana jest z wykorzysta‐
+niem kanału YouTube. Na stronie BIP Urzędu Miejskiego w G. zamieszczony został link do
+dedykowanego kanału YouTube. Z ustaleń kontroli wynika, że z chwilą zakończenia na‐
+grania sesji, nagranie to zostaje automatycznie zapisane na stronie YouTube, a w Urzę‐
+dzie Miejskim w G. nie pozostaje żadna kopia tego nagrania. W związku z brakiem kopii
+nagrania sesji, w przypadku utraty danych zamieszczonych na stronie YouTube, Bur‐
+mistrz G. utraci dostęp do zapisu nagrania, a nie mając odpowiednich środków technicz‐
+nych i organizacyjnych odpowiadających temu ryzyku, nie ma możliwości zapewnienia
+poufności, integralności, dostępności i odporności systemów i usług przetwarzania oraz
+zdolności do szybkiego przywrócenia dostępności danych osobowych i dostępu do nich
+w razie incydentu fizycznego lub technicznego, o którym mowa w art. 32 ust. 1 lit. b)
+oraz lit. c) ogólnego rozporządzenia o ochronie danych. Jak wynika z materiału dowodo‐
+wego Burmistrz nie wskazał, iż istnieją procedury, które dawałyby gwarancję ochrony
+danych osobowych przetwarzanych na kanale YouTube.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 12 z 17
+
+Decyzja o korzystaniu z kanału YouTube nie została poprzedzona analizą możliwych ry‐
+zyk wynikających z korzystania z tego narzędzia podczas przetwarzania danych osobo‐
+wych uczestników sesji Rady Miejskiej. W szczególności, decydując się na korzystanie z
+kanału YouTube nie wzięto pod uwagę, że korzystanie przez administratora z zasobów i
+narzędzi oferowanych przez podmioty zewnętrzne, w tym przypadku przez podmiot pro‐
+wadzący kanał YouTube, może wiązać się z wyższym ryzykiem naruszenia ochrony da‐
+nych osobowych ze względu na fakt, że środki organizacyjne i techniczne wykorzystywa‐
+ne dla ochrony danych osobowych opublikowanych na YouTube zostały określone i wdro‐
+żone przez Google LLC (z siedzibą w USA), właściciela YouTube. Analiza ryzyka dla prze‐
+twarzania danych osobowych w związku z ich publikacją w BIP jest szczególnie istotna ze
+względu na fakt, że Burmistrz G. wykorzystuje kanał YouTube zarówno w celu transmisji
+danych na YouTube z sesji Rady Miejskiej, jak i w celu dalszego przechowywanie nagrań
+z sesji wyłącznie na serwerach YouTube (nie posiada własnych kopii zapasowych nagrań
+– co także może prowadzić do naruszenia zasady ciągłości procesów). Brak analizy ryzy‐
+ka i brak procedur doprowadził do naruszenia zasady rozliczalności – art. 5 ust. 2
+ogólnego rozporządzenia o ochronie danych.
+Należy tym samym uznać, że Burmistrz Miasta G. w związku z obowiązkiem transmisji i
+publikowania nagrań sesji Rady Miejskiej w Biuletynie Informacji Publicznej nie dokonu‐
+jąc analizy ryzyka, nie wdrożył odpowiednich środków bezpieczeństwa, o których mowa
+w art. 32 ogólnego rozporządzenia o ochronie danych, odpowiadających ryzyku narusze‐
+nia praw lub wolności osób fizycznych. Wskazać należy, iż obowiązkiem administratora
+podczas przetwarzania danych, jest określenie ryzyka przy uwzględnieniu charakteru,
+zakresu i kontekstu przetwarzanych danych, co wynika z art. 24 ust. 1 ogólnego
+rozporządzenia danych.
+Z ustaleń kontroli nie wynika, aby zastosowano środki organizacyjne i techniczne mające
+na celu zabezpieczenie danych osób fizycznych w związku z przechowywaniem nagrań
+sesji Rady Miejskiej wyłącznie na serwerach YouTube poprzez wykonywanie kopii zapaso‐
+wych tych nagrań i przechowywanie ich w zasobach własnych Urzędu Miejskiego w G..
+Tym samym administrator nie wdrożył odpowiednich środków organizacyjnych i technicz‐
+nych, o których mowa w wyżej powołanym art. 32 ogólnego rozporządzenia o ochronie
+danych.
+W toku kontroli stwierdzono także braki w zakresie prowadzenia rejestru czynności prze‐
+twarzania danych osobowych. Stosownie do art. 30 ust. 1 ogólnego rozporządzenia o
+ochronie danych, każdy administrator oraz – gdy ma to zastosowanie - przedstawiciel
+administratora prowadzą rejestr czynności przetwarzania danych osobowych, za które
+odpowiadają. W rejestrze tym zamieszcza się wszystkie następujące informacje:
+a) imię i nazwisko lub nazwę oraz dane kontaktowe administratora oraz wszelkich
+współadministratorów, a także gdy ma to zastosowanie – przedstawiciela
+administratora oraz inspektora ochrony danych;
+b) cele przetwarzania;
+c) opis kategorii osób, których dane dotyczą, oraz kategorii danych osobowych;
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+d)
+e)
+
+f)
+g)
+
+Strona 13 z 17
+
+kategorie odbiorców, którym dane osobowe zostały lub zostaną ujawnione, w tym
+odbiorców w państwach trzecich lub w organizacjach międzynarodowych;
+gdy ma to zastosowanie, przekazania danych osobowych do państwa trzeciego lub
+organizacji międzynarodowej, w tym nazwa tego państwa trzeciego lub organizacji
+międzynarodowej, a w przypadku przekazań, o których mowa w art. 49 ust. 1 akapit
+drugi, dokumentacja odpowiednich zabezpieczeń;
+jeżeli jest to możliwe, planowane terminy usunięcia poszczególnych kategorii da‐
+nych;
+jeżeli jest to możliwe, ogólny opis technicznych i organizacyjnych środków bezpie‐
+czeństwa, o których mowa w art. 32 ust. 1 ogólnego rozporządzenia o ochronie da‐
+nych.
+
+W toku kontroli ustalono, że w Urzędzie Miejskim w G. opracowany został rejestr czynno‐
+ści przetwarzania, w którym ujęte zostały 54 czynności przetwarzania. W rejestrze tym
+nie został jednak wskazany planowany termin usunięcia danych osobowych poprzez
+wskazanie konkretnego okresu przechowywania, w rejestrze odwołano się w tym zakre‐
+sie jedynie do jednolitego rzeczowego wykazu akt dla gmin. Pismem z dnia (…) lutego
+2019 r., znak: (…), Burmistrz przesłał do Urzędu Ochrony Danych Osobowych przykłado‐
+we karty z rejestru czynności, w tym kartę dotyczącą czynności przetwarzania związaną
+z publikacją w BIP oświadczeń majątkowych. Jak wynika z tej karty, planowany termin
+usunięcia danych z BIP został określony przez Burmistrza na 5 lat, co w przypadku
+oświadczeń majątkowych jest niezgodne z treścią art. 24h ust. 6 ustawy o samorządzie
+gminnym. Ponadto, w piśmie z dnia (…) czerwca 2019 r., znak: (…), Burmistrz przesłał
+wyjaśnienia, z których wynika, że „z ustawy o dostępie do informacji publicznej w sposób
+jednoznaczny wynika, że udostępnianie danych dotyczy osób sprawujących władzę, a
+nie tych którzy sprawowali władzę. W związku z powyższym mogą być udostępnianie w
+bip oświadczenia majątkowe tylko radnych sprawujących władzę w okresie 5 lat, a zatem
+w trakcie trwania kadencji, a po tym okresie powinny być usuwane z bip i przechowywa‐
+ne w formie papierowej, przez okres 6 lat w stosunku do terminów od daty ich złożenia
+oraz udostępniania na wniosek zgodnie z zasadą jawności”. Powyższe stanowisko Burmi‐
+strza jest nieprawidłowe, bowiem, jak wskazano wyżej, z przepisów ustawy o samorzą‐
+dzie gminnym wynika, iż okres przechowywania takich informacji wynosi 6 lat. Ponadto,
+ponownie należy przywołać stanowisko piśmiennictwa w tym zakresie: „(…) [n]ie ma
+przy tym znaczenia, czy osoba, która złożyła oświadczenie, wciąż pełni swoją funkcję.
+Ustawodawca nie przewidział krótszego okresu niż 6 lat, dlatego wydaje się, że raz
+złożone oświadczenie pozostaje jawne przez cały ten okres” (K. Janaczek, Publikacja
+oświadczeń majątkowych [w:] (red.) B. Dolnicki Jawność w samorządzie terytorialnym
+[online]. LEX, 2019-08-15 17:49 [dostęp: 2019-08-23 15:31]. Dostępny w Internecie:
+https://sip.lex.pl/#/monograph/369356174/275075). W związku z powyższym podkreślić
+należy w tym miejscu, że obowiązek prowadzenia BIP i udostępniania w nim informacji
+publicznych wynika z przepisów udip. Skoro zatem ustawodawca przesądził, że oświad‐
+czenia majątkowe są jawne (z wyłączeniem informacji o adresie zamieszkania osoby
+składającej oświadczenie oraz o miejscu położenia nieruchomości), to należy uznać, że
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 14 z 17
+
+stanowią informację publiczną, która podlega publikacji w BIP przez okres wynikający z
+przepisów ustawy o samorządzie gminnym, tj. przez okres 6 lat, niezależnie od tego, czy
+dana osoba nadal jest radnym, czy też już przestała nim być. W konsekwencji, to właśnie
+termin 6 lat powinien zostać wskazany w prowadzonym przez Burmistrza rejestrze czyn‐
+ności przetwarzania danych osobowych jako planowany termin usunięcia danych
+osobowych zawartych w treści oświadczenia majątkowego.
+W rejestrze czynności przetwarzania nie zostali również wskazani wszyscy odbiorcy da‐
+nych, w tym podmioty przetwarzające, podczas gdy w toku kontroli przedstawione zosta‐
+ły umowy z podmiotami świadczącymi usługę udostępnienia serwera, na którym prze‐
+chowywane są zasoby BIP oraz usługę gwarancji w związku z utworzeniem regionalnego
+biuletynu informacji publicznej, co wiąże się z dostępem przez te podmioty do danych
+osobowych przetwarzanych przez Burmistrza w związku z prowadzeniem BIP. Ponadto, w
+rejestrze czynności przetwarzania nie wskazano podmiotu prowadzącego kanał YouTube,
+na którym dostępne są nagrania sesji Rady Miejskiej G.. Należy w tym miejscu podnieść,
+że zgodnie z art. 4 pkt 9 zdanie pierwsze ogólnego rozporządzenia o ochronie danych,
+„odbiorca” oznacza osobę fizyczną lub prawną, organ publiczny, jednostkę lub inny pod‐
+miot, któremu ujawnia się dane osobowe, niezależnie od tego, czy jest stroną trzecią. Jak
+wskazuje się w piśmiennictwie, „za odbiorcę danych w rozumieniu komentowanego prze‐
+pisu uznać trzeba m.in. podmiot przetwarzający dane na zlecenie administratora,
+któremu administrator ujawnia dane osobowe” (Fajgielski Paweł, Komentarz do rozporzą‐
+dzenia nr 2016/679 w sprawie ochrony osób fizycznych w związku z przetwarzaniem da‐
+nych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dy‐
+rektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), [w:] Ogólne rozporządze‐
+nie o ochronie danych. Ustawa o ochronie danych osobowych. Komentarz.). Wskazać
+również należy, że z art. 30 ust. 1 lit. d) ogólnego rozporządzenia o ochronie danych wy‐
+nika obowiązek wymienienia w rejestrze czynności przetwarzania wszystkich odbiorców
+danych, niezależnie od tego, czy mają siedzibę w państwie członkowskim Unii
+Europejskiej, czy też w państwie trzecim.
+Należy tym samym uznać, że Burmistrz nie wskazał w rejestrze czynności przetwarzania
+danych osobowych wszystkich odbiorców danych oraz nie wskazał dla wszystkich czyn‐
+ności przetwarzania planowanego terminu usunięcia danych, a tym samym naruszył art.
+30 ust. 1 lit. d) oraz f) ogólnego rozporządzenia o ochronie danych oraz art. 5 ust. 2
+ogólnego rozporządzenia o ochronie danych, tj. zasadę rozliczalności.
+Podsumowując wskazać należy, iż powyższe naruszenia świadczą, że Burmistrz nie prze‐
+twarza danych osobowych zgodnie z zasadami wynikającymi z art. 5 ust. 1 lit. a), e) i f)
+ogólnego rozporządzenia o ochronie danych. W konsekwencji oznacza to naruszenie za‐
+sady rozliczalności, o której mowa w art. 5 ust. 2 ogólnego rozporządzenia o ochronie da‐
+nych, zgodnie z którym administrator jest odpowiedzialny za przestrzeganie przepisów
+ust. 1 i musi być w stanie wykazać ich przestrzeganie („rozliczalność”). W tym miejscu
+podkreślenia wymaga, że zasady określone w art. 5 ust. 1 ogólnego rozporządzenia o
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 15 z 17
+
+ochronie danych stanowią punkt wyjścia dla realizacji obowiązków administratora oraz
+praw osób, których dane dotyczą, jak również dla oceny legalności tych procesów.
+
+II.
+Na podstawie art. 58 ust. 2 lit. i ogólnego rozporządzenia o ochronie danych, każdemu
+organowi nadzorczemu przysługuje uprawnienie do zastosowania, oprócz lub zamiast in‐
+nych środków naprawczych przewidzianych w art. 58 ust. 2 lit. a) – h) oraz lit. j) tego roz‐
+porządzenia, administracyjnej kary pieniężnej na mocy art. 83 rozporządzenia, zależnie
+od okoliczności konkretnej sprawy. Mając na uwadze powyższe ustalenia, Prezes Urzędu
+Ochrony Danych Osobowych, korzystając z przysługującego mu uprawnienia określone‐
+go we wskazanym przepisie ogólnego rozporządzenia o ochronie danych stwierdził, że w
+rozpatrywanej sprawie zaistniały przesłanki uzasadniające nałożenie na Burmistrza
+administracyjnej kary pieniężnej.
+Przy ustalaniu wysokości kary Prezes UODO wziął pod uwagę następujące okoliczności
+sprawy, poczytywane na niekorzyść Burmistrza oraz wpływające obciążająco na wymiar
+nałożonej kary finansowej:
+1. Czas trwania naruszeń objętych nakazem określonym w niniejszej decyzji – stwier‐
+dzone nieprawidłowości nie zostały usunięte ani w toku kontroli przeprowadzonej u
+Burmistrza, ani w toku postępowania administracyjnego. Podkreślić należy, że kon‐
+trola wykazała, że najstarsze znajdujące się w BIP informacje o naborze na wolne
+stanowiska dotyczą naborów przeprowadzonych w 2012 r., a najstarsze
+oświadczenia majątkowe dotyczą 2010 r.
+2. Wszelkie stosowne wcześniejsze naruszenia ze strony administratora – udostępnie‐
+nie przez Burmistrza formularzy PIT-11 i PIT-37 w wersji niezanonimizowanej na stro‐
+nie internetowej BIP (Prezes Urzędu wydał w tej sprawie decyzję upominającą
+Burmistrza z dnia 6 grudnia 2018 r., znak: ZSPU.440.46.2018.(…), oraz decyzję
+utrzymującą ją w mocy z dnia 7 maja 2019 r., znak: ZSPU. 440.46.2018.(…).II).
+3. Umyślny charakter naruszenia – Burmistrz w związku z naruszeniem wskazanym w
+pkt 2 i przeprowadzonym w tym zakresie postępowaniem administracyjnym przez
+Prezesa UODO nie wdrożył żadnych rozwiązań w celu przeciwdziałania w przyszłości
+tego typu naruszeniom, w tym procedury dotyczącej przeglądu zasobów danych w
+materiałach opublikowanych w BIP. Zatem, w sposób świadomy i celowy Burmistrz
+udostępniał dane w BIP bez wprowadzenia w tym zakresie odpowiednich procedur,
+uznając, że nie jest do tego zobowiązany (na co wskazuje także skierowany przez
+Burmistrza do Ministra Cyfryzacji wniosek o interpretację przepisów udip).
+4. Stwierdzone w toku kontroli naruszenia dotyczą osób, których dane znajdują się w
+treści materiałów stanowiących informację publiczną, opublikowanych w BIP Urzędu
+Miejskiego w G.. Podkreślić ponownie należy, że kontrola wykazała, że najstarsze
+znajdujące się w BIP informacje o naborze na wolne stanowiska dotyczą naborów
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+5.
+
+6.
+
+Strona 16 z 17
+
+przeprowadzonych w 2012 r., a najstarsze oświadczenia majątkowe dotyczą 2010 r.
+Zakres przetwarzanych danych ww. osób w ramach wskazanych materiałów
+obejmuje tzw. dane „zwykłe”. Zakres tych danych jest szeroki i obejmuje w szcze‐
+gólności szczegółowe informacje o stanie majątkowym określonej osoby.
+Wysoki stopień odpowiedzialności administratora – wobec braku działań Burmistrza
+zmierzających do zapewnienia odpowiedniego poziomu bezpieczeństwa danych
+oraz niewdrożenia stosownych polityk ochrony danych. Skutkiem powyższego jest
+umożliwienie dostępu do danych nieograniczonej liczbie użytkowników Internetu.
+Brak współpracy administratora po wszczęciu postępowania – administrator w odpo‐
+wiedzi na zawiadomienie o wszczęciu postępowania administracyjnego nie odniósł
+się do wskazanych w nim naruszeń poza kwestią związaną z terminem retencji
+danych udostępnionych na stronie internetowej BIP.
+
+Ustalając wysokość administracyjnej kary pieniężnej, Prezes Urzędu Ochrony Danych
+Osobowych nie znalazł podstaw do uznania, że zachodziły jakiekolwiek okoliczności
+łagodzące, mające wpływ na ostateczny wymiar kary.
+Żadnego wpływu na wymiar kary nie miała okoliczność braku dowodów wskazujących na
+uzyskanie przez Burmistrza korzyści finansowych, jak i uniknięcie strat w związku z naru‐
+szeniem.
+W przedmiotowej sprawie organ nie rozważał przy nałożeniu kary okoliczności, o których
+mowa w art. 83 ust. 2 lit. j) ogólnego rozporządzenia o ochronie danych, z uwagi na brak
+stosowania przez administratora kodeksów postępowania oraz zatwierdzonych
+mechanizmów certyfikacji.
+Decydując, czy nałożyć administracyjną karę pieniężną, a także ustalając jej wysokość,
+za najistotniejsze Prezes UODO uznał poważny charakter naruszenia wynikający z udo‐
+stępnienia danych osobowych bez podstawy prawnej innym podmiotom oraz naruszenie
+zasady rozliczalności.
+Ponadto, Prezes Urzędu wziął pod uwagę, iż oceniany organ jest jednostką sektora pu‐
+blicznego, a szacując wysokość kary wziął pod uwagę także wysokość jej budżetu na rok
+2018 r., sposób jego realizacji oraz budżet na rok 2019 r.
+W tym miejscu wskazać również należy na treść art. 102 ustawy o ochronie danych oso‐
+bowych, z którego wynika ograniczenie wysokości (do 100.000 zł) kary, jaka może zostać
+nałożona na jednostkę sektora publicznego.
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych, zastosowana administracyjna
+kara pieniężna w wysokości 40.000 zł spełnia w ustalonych okolicznościach niniejszej
+sprawy funkcje, o których mowa w art. 83 ust. 1 ogólnego rozporządzenia o ochronie da‐
+nych, tzn. jest w tym indywidualnym przypadku skuteczna, proporcjonalna i odstraszają‐
+ca.
+Należy uznać, że kara będzie skuteczna, jeżeli jej nałożenie doprowadzi do tego, że Bur‐
+mistrz stosować będzie takie środki techniczne i organizacyjne, które zapewnią przetwa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+
+Decyzja ZSPU.421.3.2019
+
+Strona 17 z 17
+
+rzanym danym stopień bezpieczeństwa odpowiadający ryzyku naruszenia praw i wolno‐
+ści osób oraz wadze zagrożeń towarzyszącym procesom przetwarzania tych danych oso‐
+bowych.
+W ocenie Prezesa UODO zastosowana kara pieniężna jest proporcjonalna do stwierdzo‐
+nego naruszenia, szczególnie ze względu na wagę naruszenia, kategorie danych osobo‐
+wych, których dotyczyło naruszenie, brak realizacji obowiązków administratora wynikają‐
+cych z ogólnego rozporządzenia o ochronie danych i czas trwania naruszenia
+(naruszenia objęte nakazem nie zostały usunięte w toku kontroli).
+Odstraszający charakter kary pieniężnej wiąże się z zapobieganiem naruszeń w przyszło‐
+ści oraz przykładanie większej wagi do realizacji zadań administratora. Kara ma odstra‐
+szać zarówno administratora, przed ponownym naruszeniem, jak i inne podmioty. Nakła‐
+dając niniejszą decyzją administracyjną karę pieniężną za naruszenie przepisów o ochro‐
+nie danych osobowych Prezes Urzędu Ochrony Danych Osobowych wziął pod uwagę oba
+aspekty: po pierwsze - charakter represyjny, Burmistrz naruszył przepisy ogólnego roz‐
+porządzenia o ochronie danych, po drugie - charakter prewencyjny, zarówno Burmistrz,
+jak i inni administratorzy, będą skutecznie zniechęceni do naruszania w przyszłości pra‐
+wa ochrony danych osobowych, jednocześnie dokładając większej staranności przy reali‐
+zacji swoich obowiązków wynikających z ogólnego rozporządzenia o ochronie danych.
+Celem nałożonej kary jest doprowadzenie do właściwego wykonywania przez Burmistrza
+obowiązków przewidzianych w art. 5 ust. 1 lit. a), e) i f), art. 5 ust. 2, art. 24 ust. 1 i 2,
+art. 28 ust. 3, art. 30 ust. 1 lit. d) i f) oraz art. 32 ust. 1 ogólnego rozporządzenia o ochro‐
+nie danych, a w konsekwencji do prowadzenia procesów przetwarzania danych zgodnie z
+obowiązującymi przepisami prawa.
+Wobec powyższego, Prezes Urzędu Ochrony Danych Osobowych rozstrzygnął, jak w sen‐
+tencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_421_3/content
+
+2025-09-03 13:53
+

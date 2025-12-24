@@ -1,0 +1,268 @@
+Warszawa, 26 lipca 2021
+PRAWOMOCNA
+
+Decyzja
+DKE.523.39.2021
+
+Na podstawie art. 105 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r., poz. 735 ze zm.), art. 160 ust. 1 i 2 ustawy z dnia 10
+maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781) w związku z art.
+12 pkt 1-2 i art. 22 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz.
+U. z 2016 r., poz. 922 ze zm.) oraz z art. 57 ust. 1 pkt a) i h) rozporządzenia Parlamentu
+Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób
+fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z
+04.05.2016 r. str. 1 ze zmianą ogłoszoną w Dz. Urz. UE L 127 z 23.05.2018 r. str. 2),
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w sprawie
+zarzutów dotyczących odmówienia wydania adresatowi, bez przekazania przez niego
+kserokopii dowodu osobistego, przesyłki (umowy o świadczenie usług telekomunikacyj‐
+nych z (…)) przez pracownika D. Sp. z o.o. z siedzibą w W., Prezes Urzędu Ochrony
+Danych Osobowych
+umarza postępowanie.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_39/content
+
+2025-09-03 13:44
+
+Decyzja DKE.523.39.2021
+
+Strona 2 z 6
+
+Uzasadnienie
+
+Stan faktyczny
+Do Prezesa Urzędu Ochrony Danych Osobowych (dawniej: Generalnego Inspektora
+Ochrony Danych Osobowych) wpłynęło anonimowe zawiadomienie o możliwości wystą‐
+pienia nieprawidłowości w procesie przetwarzania danych osobowych przez D. Sp. z o.o.
+z siedzibą w W. (zwaną dalej także: Spółką) w związku ze świadczeniem przez ww. usług
+kurierskich.
+Jak wynikało z przekazanej organowi nadzorczemu informacji, pracownik Spółki, podczas
+realizacji usługi doręczenia przesyłki w postaci umowy o świadczenie usług telekomuni‐
+kacyjnych (…), odmówił wydania korespondencji adresatowi bez przekazania przez niego
+kserokopii dowodu osobistego. Bezpośrednio po opisywanym incydencie, adresat prze‐
+syłki skontaktował się z infolinią (…), gdzie został poinformowany o tym, że opisywana
+praktyka nie wynika z wymogów stawianych przez operatora telefonii komórkowej, ale
+wyłącznie z wewnętrznej polityki Spółki.
+W związku z pozyskaną informacją, Prezes Urzędu Ochrony Danych Osobowych (zwany
+dalej także: Prezesem UODO) wszczął z urzędu postępowanie administracyjne w niniej‐
+szej sprawie, celem ustalenia czy Spółka faktycznie pozyskuje i przetwarza dane osobo‐
+we adresatów doręczanych przesyłek zawarte w kserokopiach ich dowodów osobistych,
+a jeżeli tak, to na jakiej podstawie prawnej, w jakim celu oraz zakresie.
+W toku przeprowadzonego postępowania wyjaśniającego Prezes Urzędu Ochrony Danych
+Osobowych ustalił następujące okoliczności faktyczne, mające istotne znaczenie dla
+rozstrzygnięcia sprawy:
+1. D. Sp. z o.o. (dawniej: M. Sp. z o.o.) z siedzibą w W., wpisana do Rejestru Przedsię‐
+biorców Krajowego Rejestru Sądowego (KRS nr (…)) prowadzi m.in. działalność w za‐
+kresie świadczenia usług pocztowych i kurierskich oraz transportu drogowego towa‐
+rów.
+2. W ramach wykonywanej działalności, Spółka współpracuje z O. S.A. z siedzibą w W.
+(dawniej: P. Sp. z o.o. oraz T. S.A.), operatorem telekomunikacyjnym oferującym
+usługi z zakresu telefonii komórkowej – w tym usługi marki (…).
+3. Na mocy Umowy ramowej (…) z 12 lipca 2007 r. Nr (…), Spółka zobowiązała się wy‐
+konywać na rzecz O. S.A. (zwaną dalej także: O.) usługi przewozowe, polegające na
+przesyłaniu i doręczaniu przesyłek w obrocie miejskim i krajowym, do miejsc wyzna‐
+czonych przez O. na terenie całego kraju oraz usługi logistyczne, w tym: konfekcjo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_39/content
+
+2025-09-03 13:44
+
+Decyzja DKE.523.39.2021
+
+4.
+
+5.
+
+6.
+
+Strona 3 z 6
+
+nowanie towaru, wydruk i podpisywanie dokumentów, pakowanie i adresowanie
+przesyłek (§ 2 ust. 1 pkt 1 i 2 umowy ramowej).
+Zgodnie z postanowieniami umowy o powierzenie przetwarzania danych osobo‐
+wych, stanowiącej załącznik nr (…) do zawartego 10 lutego 2014 r. Aneksu nr (…)
+do Umowy ramowej, O. – działając jako administrator danych – powierzyła Spółce,
+celem realizacji zapisów Umowy (…), dane osobowe przetwarzane w zbiorze A.
+Zgromadzone w zbiorze informacje o klientach, O. przetwarzała w oparciu o art. 23
+ust. 1 pkt 1 i 3 ustawy z 29 sierpnia 1997 r. o ochronie danych osobowych (którego
+odpowiednik stanowi obecnie art. 6 ust. 1 lit. a) i lit. b) rozporządzenia Parlamentu
+Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony
+osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swo‐
+bodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE), tj. na pod‐
+stawie zgód wyrażonych przez osoby, których dane dotyczą oraz w związku z ko‐
+niecznością realizacji umowy, gdy osoba, której dane dotyczą, była jej stroną lub
+gdy było to niezbędne do podjęcia działań przed zawarciem umowy na żądanie oso‐
+by, której dane dotyczą. Podstawę powierzenia przetwarzania danych Spółce stano‐
+wił natomiast art. 31 ustawy z 29 sierpnia 1997 r. o ochronie danych osobowych
+(któremu odpowiada obecnie art. 28 ww. rozporządzenia). Zakres powierzonych da‐
+nych obejmował następujące kategorie danych: imię i nazwisko abonenta, adres,
+numer dowodu osobistego/ PESEL, numer telefonu oraz adres e-mail (§ 1-3 umowy
+powierzenia przetwarzania).
+Za pośrednictwem Spółki, O. dokonywała m.in. doręczeń umów o świadczenie usług
+telekomunikacyjnych. W stosowanym przez O. wzorze umowy abonenckiej, znajdo‐
+wała się rubryka, którą każdorazowo wypełniać powinien kurier w celu potwierdze‐
+nia tożsamości adresata takiej umowy, opatrzona zapisem o następującej treści:
+„Zweryfikowałem tożsamość odbiorcy na podstawie dowodu osobistego/ paszportu
+(…) oraz odebrałem dodatkowy dokument z imieniem i nazwiskiem odbiorcy.” W ru‐
+bryce tej kurier obowiązany był wpisać 2 ostatnie cyfry numeru PESEL adresata,
+datę doręczenia umowy oraz swoje imię i nazwisko.
+Do celów realizacji postanowień Umowy ramowej, Spółka opracowała Instrukcję ope‐
+racyjną z 24 kwietnia 2013 r. dotyczącą doręczeń akcesoriów, umów (w tym umów o
+świadczenie usług telekomunikacyjnych marki (…)) oraz innych dokumentów,
+wystawianych przez O. Jak wynikało z zapisów instrukcji, „wbrew treści oświadczenia
+drukowanego na umowie (…) kurier nie pobiera dodatkowego dokumentu od
+odbiorcy przesyłki podczas doręczenia”. Instrukcja wyraźnie wskazywała zakres
+czynności do wykonania których upoważniony był kurier, te zaś ograniczały się do
+weryfikacji tożsamości odbiorcy przesyłki na podstawie oryginału dowodu osobiste‐
+go (lub paszportu), poprzez porównanie pierwszych dziewięciu cyfr numeru PESEL w
+dowodzie osobistym adresata z dziewięcioma cyframi PESEL wydrukowanymi na
+umowie (obok miejsca przewidzianego na podpis odbiorcy). Kurier uprawniony był
+do wydania przesyłki adresatowi tylko wówczas, gdy oba te numery były ze sobą
+zgodne.
+
+7.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_39/content
+
+2025-09-03 13:44
+
+Decyzja DKE.523.39.2021
+
+8.
+
+9.
+
+Strona 4 z 6
+
+W związku ze świadczeniem usług telekomunikacyjnych (…), O. S.A. nie przetwarza‐
+ła danych osobowych abonentów zawartych w kserokopii dowodu osobistego.
+Upoważnienie takiego O. nie udzieliła również Spółce.
+Mając natomiast na uwadze widniejący na wzorze umowy o świadczenie usług tele‐
+komunikacyjnych (…), a wprowadzający w błąd zapis, dotyczący rzekomego obo‐
+wiązku odebrania przez kuriera dodatkowego dokumentu z imieniem i nazwiskiem
+odbiorcy przesyłki, w toku niniejszego postępowania wyjaśniającego Spółka dokona‐
+ła aktualizacji wzorca poprzez wyeliminowanie z niego budzących wątpliwości treści.
+Zmian dokonano także w Instrukcji operacyjnej Spółki z 24 kwietnia 2013 r. dotyczą‐
+cej doręczeń akcesoriów, umów oraz innych dokumentów O. Stosownie do jej
+obecnego brzmienia, „kurier nie pobiera dodatkowego dokumentu od odbiorcy
+przesyłki podczas doręczenia”. W przypadku zaś, gdy na druku umowy widnieje
+zapis o odmiennej treści, „fragment oświadczenia o tym mówiący należy skreślić”.
+Aktualizacja obowiązuje od 12 maja 2016 r. i wyłącza możliwość omyłkowego pobra‐
+nia kserokopii dowodu osobistego adresata przesyłki przez kuriera.
+
+Uzasadnienie prawne
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+Na wstępie wskazać należy, iż z dniem 25 maja 2018 r. w życie weszły przepisy ustawy z
+dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781), zwanej
+dalej „u.o.d.o.”.
+W myśl art. 160 ust. 1-3 u.o.d.o., postępowania prowadzone przez Generalnego Inspek‐
+tora Ochrony Danych Osobowych, wszczęte i niezakończone przed dniem wejścia w ży‐
+cie niniejszej ustawy, prowadzone są przez Prezesa Urzędu Ochrony Danych Osobowych
+na podstawie ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z
+2016 r. poz. 922 ze zm.), zgodnie z zasadami określonymi w ustawie z dnia 14 czerwca
+1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r., poz. 735 ze zm.). Jed‐
+nocześnie, czynności dokonane w postępowaniach, wszczętych i niezakończonych przed
+dniem wejścia w życie przepisów u.o.d.o., pozostają skuteczne.
+Od dnia 25 maja 2018 r. zastosowanie ma również rozporządzenie Parlamentu Europej‐
+skiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycz‐
+nych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z
+04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018 r. str. 2.), zwane dalej „Rozporzą‐
+dzeniem 2016/679”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_39/content
+
+2025-09-03 13:44
+
+Decyzja DKE.523.39.2021
+
+Strona 5 z 6
+
+Stosownie do art. 57 ust. 1 Rozporządzenia 2016/679, bez uszczerbku dla innych zadań
+określonych na mocy tego rozporządzenia, każdy organ nadzorczy na swoim terytorium
+monitoruje i egzekwuje stosowanie tego rozporządzenia (lit. a) oraz prowadzi postępo‐
+wania w sprawie stosowania niniejszego rozporządzenia, w tym na podstawie informacji
+otrzymanych od innego organu nadzorczego lub innego organu publicznego (lit. h).
+Uwzględniając powyższe stwierdzić zatem należy, iż niniejsze postępowanie, wszczęte i
+niezakończone przed dniem 25 maja 2018 r., prowadzone jest na podstawie ustawy z
+dnia 29 sierpnia 1997 r. o ochronie danych osobowych (w zakresie dotyczącym przepi‐
+sów regulujących procedurę administracyjną) oraz na podstawie Rozporządzenia
+2016/679 (w zakresie rozstrzygającym o legalności procesu przetwarzania danych oso‐
+bowych). Wynikający z przepisów prawa sposób prowadzenia postępowań w sprawach
+rozpoczętych i niezakończonych przed dniem wejścia w życie nowych regulacji z zakresu
+ochrony danych osobowych koreluje z ugruntowanym stanowiskiem doktryny, zgodnie z
+którym „organ administracji publicznej ocenia stan faktyczny sprawy według chwili wy‐
+dania decyzji administracyjnej. Reguła ta odnosi się także do oceny stanu prawnego
+sprawy, co oznacza, że organ administracji publicznej wydaje decyzję administracyjną
+na podstawie przepisów prawa obowiązujących w chwili jej wydania” (Komentarz do
+ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U.
+00.98.1071) M. Jaśkowska, A. Wróbel, Lex., el/2012).
+
+Ocena prawna
+Odnosząc powyższe do ustalonego stanu faktycznego podkreślić należy, że w toku pro‐
+wadzonego postępowania wyjaśniającego Prezes Urzędu Ochrony Danych Osobowych
+ustalił, iż D. Sp. z o.o. nie pozyskuje danych osobowych adresatów doręczanych przesy‐
+łek, zawartych w kserokopii dowodu osobistego. Powyższe nigdy nie było praktyką Spółki
+i brak jest jednoznacznych dowodów, które wskazywałyby, że tego rodzaju sytuacje mia‐
+ły kiedykolwiek miejsce. Zważyć należy, że otrzymana przez organ nadzorczy informacja
+dotycząca rzekomych nieprawidłowości związanych z przetwarzaniem danych osobo‐
+wych, pozyskiwanych w związku z realizacją usług kurierskich, była informacją anonimo‐
+wą. Z uwagi na fakt, iż osoba sygnalizująca nie przekazała żadnych bliższych informacji
+dotyczących swojej tożsamości, ani szczegółów dotyczących opisywanego przez nią zda‐
+rzenia (takich jak np. data oraz miejsce, w jakim miała miejsce próba doręczenia przesył‐
+ki, podczas której doręczający zażądał przekazania kopii dowodu osobistego adresata),
+nie sposób było zweryfikować zasadności przedstawionych w zawiadomieniu zarzutów,
+stawianych pod adresem Spółki.
+Wszelkie uzyskane w toku postępowania, a przy tym niebudzące wątpliwości co do ich
+prawdziwości dowody, w tym: Umowa ramowa (…) z 12 lipca 2007 r. (…) zawarta pomię‐
+dzy Spółką a O., umowa powierzenia przetwarzania danych (stanowiąca załącznik nr (…)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_39/content
+
+2025-09-03 13:44
+
+Decyzja DKE.523.39.2021
+
+Strona 6 z 6
+
+do zawartego 10 lutego 2014 r. Aneksu nr (…) do Umowy ramowej), wzory umów o
+świadczenie usług telekomunikacyjnych (…) oraz instrukcja operacyjna Spółki z 24
+kwietnia 2013 r. dotycząca doręczeń akcesoriów, umów oraz innych dokumentów na
+rzecz klientów O., wskazują na to, że Spółka – działając jako podmiot przetwarzający
+dane osobowe abonentów O. – nie była i nie jest uprawniona do pozyskiwania danych za‐
+wartych w kserokopiach dowodów osobistych adresatów doręczanych przesyłek.
+Należy wprawdzie wskazać, że we wzorze umowy o świadczenie usług telekomunikacyj‐
+nych (…), obowiązującym w chwili wszczęcia niniejszego postępowania, znajdował się
+wprowadzający w błąd zapis, zgodnie z którym doręczający umowę kurier powinien był
+zweryfikować tożsamość odbiorcy na podstawie dowodu osobistego/ paszportu oraz ode‐
+brać dodatkowy dokument z imieniem i nazwiskiem odbiorcy. Jednakże z uwagi na brak
+upoważnienia Spółki do takiego działania przez O. S.A. będącą w tym przypadku admini‐
+stratorem danych osobowych jej klientów, w opracowanej przez Spółkę wewnętrznej in‐
+strukcji dotyczącej doręczeń zawarto wyraźne zastrzeżenie, zgodnie z którym wbrew tre‐
+ści oświadczenia drukowanego na umowie kurier nie pobiera dodatkowego dokumentu
+od odbiorcy przesyłki podczas doręczenia. Co więcej, z uwagi na fakt, iż istniejąca po‐
+między dokumentami rozbieżność mogła potencjalnie stwarzać niebezpieczeństwo wy‐
+stąpienia pomyłki po stronie osoby doręczającej przesyłkę – która to sugerując się wzor‐
+cem umowy mogła żądać przekazania kserokopii dowodu osobistego przez odbiorcę ko‐
+respondencji – oba ww. dokumenty w toku postępowania zaktualizowano, eliminując z
+nich kwestionowane zapisy. Koherentna ze sobą treść wskazywanej dokumentacji, jedno‐
+znacznie przesądza o tym, że kurier nie pobiera dodatkowego dokumentu od odbiorcy
+przesyłki podczas doręczenia.
+Tym samym, zakres przetwarzanych przez Spółkę danych osobowych ogranicza się do
+powierzonych jej na podstawie zawartej umowy powierzenia następujących kategorii da‐
+nych: imienia oraz nazwiska abonenta, adresu, numeru dowodu osobistego/ PESEL,
+numeru telefonu oraz adresu e-mail.
+Wobec braku stwierdzenia jakichkolwiek nieprawidłowości w procesie przetwarzania da‐
+nych osobowych przez D. Sp. z o.o. w związku z realizacją świadczonych przez Spółkę
+usług kurierskich, a tym samym braku możliwości orzeczenia wobec Spółki jakiegokol‐
+wiek środka naprawczego, przewidzianego w art. 18 ustawy z 29 sierpnia 1997 r. o
+ochronie danych osobowych, postępowanie prowadzone w niniejszej sprawie należało
+umorzyć na podstawie art. 105 § 1 k.p.a., wobec jego bezprzedmiotowości.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_39/content
+
+2025-09-03 13:44
+

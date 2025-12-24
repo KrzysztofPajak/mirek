@@ -1,0 +1,272 @@
+Warszawa, 23 grudnia 2019
+PRAWOMOCNA
+
+Decyzja
+ZKE.440.4.2019
+
+Na podstawie art. 105 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r. poz. 2096 ze zm.) w zw. z art. 160 ust. 1 i 2 ustawy z
+dnia 10 maja 2018 r. o ochronie danych osobowych (Dz.U. z 2019 r., poz. 1781) w zw. z
+art. 22 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r.,
+poz. 922 ze zm.) oraz art. 6 ust. 1 lit. f) oraz art. 57 ust. 1 lit. a) i h) rozporządzenia Par‐
+lamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochro‐
+ny osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobod‐
+nego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne
+rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1 oraz Dz. Urz. UE
+L 127 z 23.05.2018 str. 2),
+po przeprowadzeniu postępowania administracyjnego z urzędu w sprawie nieprawidło‐
+wości w procesie przetwarzania danych realizowanych przez R. Sp. z o.o., Prezes Urzędu
+Ochrony Danych Osobowych
+umarza postępowanie
+
+Uzasadnienie
+Prezes Urzędu Ochrony Danych Osobowych, zwany dalej również Prezesem UODO, uzy‐
+skał informacje na temat nieprawidłowości w procesie przetwarzania danych osobowych
+realizowanych przez R. Sp. z o.o., zwanej dalej także „Spółką” lub R.
+Sygnały, które docierały do Prezesa UODO wskazywały na możliwe uchybienia przepi‐
+som o ochronie danych osobowych przez Spółkę, polegające na pozyskiwaniu od osób,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_4/content
+
+2025-09-03 13:52
+
+Decyzja ZKE.440.4.2019
+
+Strona 2 z 6
+
+które za pośrednictwem strony internetowej o adresie: (…) przystępują do programu lo‐
+jalnościowego (…), danych osobowych ich i ich dzieci w zbyt szerokim zakresie.
+Wedle informacji uzyskanych przez Prezesa UODO ze strony internetowej Spółki o adre‐
+sie: (…) Spółka pozyskiwała m. in. dane dotyczące daty urodzenia rodziców przystępują‐
+cych do programu lojalnościowego (…). Zaistniała zatem potrzeba sprawdzenia ade‐
+kwatności i celowości w rozumieniu art. 26 ust. 1 pkt 3 ustawy z 29 sierpnia 1997 r. o
+ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 ze zm.), zwanej dalej także: usta‐
+wa o ochronie danych osobowych z 1997 r., pozyskiwania i przetwarzania przez Spółkę
+danych osobowych dla potrzeb uczestnictwa w programie lojalnościowym (…).
+Prezes UODO przeprowadził w przedmiotowej sprawie postępowanie administracyjne z
+urzędu, w ramach którego, działając na podstawie art. 58 ust. 1 lit. a) i lit. e) rozporzą‐
+dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w
+sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w
+sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+(ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1 oraz
+Dz. Urz. UE L 127 z 23.05.2018 str. 2), zwanego dalej również „Rozporządzenie
+2016/679”, uzyskał od Spółki pisemne wyjaśnienia odnośnie okoliczności sprawy i sto‐
+sowne dowody na ich potwierdzenie. W oparciu o tak zgromadzony materiał dowodowy
+Prezes UODO ustalił co następuje:
+1. W R. obowiązuje regulamin programu lojalnościowego (…), który skierowany jest do
+rodziców lub prawnych opiekunów dzieci w wieku od 0-3 lat oraz do osób
+oczekujących na narodzenie się ich dziecka.
+2. Uczestnik programu (…) akceptując regulamin jest związany z jego postanowienia‐
+mi, które służą weryfikacji, czy dana osoba spełnia warunki uczestnictwa. Jednym z
+warunków jest status rodzica lub prawnego opiekuna dzieci w wieku od 1 dnia życia
+do ukończenia 36 miesiąca życia lub spodziewający się urodzenia dziecka. Weryfiko‐
+wany jest na podstawie podanej przez uczestnika daty urodzenia dziecka lub plano‐
+wanej daty porodu ponieważ do programu mogą przystąpić także osoby, które
+spodziewają się urodzenia dziecka.
+3. Uczestnik programu (…) wypełnia formularz zgłoszeniowy, w którym podaje swoje
+dane w zakresie: imię i nazwisko, miejsce zamieszkania, numer telefonu
+komórkowego, adres e-mail.
+4. Obecnie Spółka pozyskuje od osób przystępujących do programu lojalnościowego
+(…) następujące dane osobowe:
+1) dane osobowe osób, które przystąpiły do tego programu w zakresie obejmują‐
+cym: imię i nazwisko uczestnika, miejsce zamieszkania, numer telefonu komór‐
+kowego, adres e-mail, a także czy osoby, które przystąpiły do ww. programu są
+rodzicami, względnie czy spodziewają się dziecka, a jeżeli tak, to kiedy przewi‐
+dywana jest data narodzin tego dziecka, jak również, czy osoby, które
+przystąpiły do programu posiadają już dzieci (ilość dzieci);
+2) dane osobowe dzieci osób, które przystąpiły do ww. programu, których zakres
+danych obejmuje: imię i nazwisko, płeć, datę urodzenia, informację o planowa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_4/content
+
+2025-09-03 13:52
+
+Decyzja ZKE.440.4.2019
+
+5.
+
+6.
+
+7.
+
+Strona 3 z 6
+
+nej dacie porodu, wskazanej, jako dzień przypadający nie później niż w ciągu 9
+miesięcy od daty rejestracji.
+Podstawą prawną przetwarzania danych osobowych uczestników programu jest art.
+6 ust. 1 lit b) Rozporządzenia 2016/679, czyli przetwarzanie jest niezbędne do wyko‐
+nania umowy, której stroną jest osoba, której dane dotyczą. Podstawą prawną prze‐
+twarzania danych osobowych jest także art. 6 ust. 1 lit. f) rozporządzenia 2016/679,
+czyli prawnie uzasadniony interes administratora danych, w tym przypadku R., pole‐
+gający na konieczności weryfikacji poprawności korzystania z programu (…) i posta‐
+nowieniami regulaminu oraz na realizacji zadań R. w zakresie dostarczania ofert i re‐
+komendacji zgodnie z wiekiem dziecka, płcią i generowaną przez uczestnika historią
+zakupów. W przypadku, gdy uczestnik programu wyrazi dobrowolną opcjonalną zgo‐
+dę na otrzymywanie newsletteru i wiadomości sms, podstawą prawną przetwarzania
+danych będzie art. 10 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą
+elektroniczną (Dz. U. z 2019 r. poz. 123 ze zm.) oraz art. 172 ustawy z dnia 16 lipca
+2004 r. Prawo telekomunikacyjne (Dz. U. z 2018 r. poz. 1954 ze zm.).
+Dane osobowe uczestników programu (…) są pozyskiwane w celu wzięcia udziału w
+tym programie. Udział w programie (…) zapewnia każdemu uczestnikowi różne przy‐
+wileje i korzyści, w szczególności uczestnik otrzymuje 3% rabatu na zakup w droge‐
+riach R. produktów dla dzieci szczegółowo wskazanych w załącznikach do regulami‐
+nu wraz z możliwością podwyższenia rabatu do wysokości 10%, a także dedykowane
+promocje cenowe oraz inne atrakcyjne niespodzianki. Dane osobowe uczestników
+programu dotyczące miejsca zamieszkania są pozyskiwane w celu wysyłki dedyko‐
+wanych niespodzianek, w przypadku numeru telefonu lub adresu e-mail dane są po‐
+zyskiwane w celu kontaktu z uczestnikiem programu w sprawie powiadomienia go o
+dodatkowych promocjach. Dane osobowe dzieci osób, które przystąpiły do programu
+są pozyskiwane we właściwych sobie celach, tj. w celu możliwości doboru optymal‐
+nych ofert promocyjnych adekwatnych do wieku dziecka oraz możliwość przyznania
+uczestnikowi programu prezentów zgodnych z wiekiem jego dziecka; natomiast w
+przypadku przewidywanej daty narodzin dane są pozyskiwane w celu uzyskania do‐
+datkowych korzyści będących następstwem samodzielnej zmiany statusu po naro‐
+dzinach dziecka, a w przypadku płci dane są pozyskiwane w celu dedykowania
+właściwej oferty dla chłopca, czy dziewczynki.
+Obecnie R. nie pozyskuje danych dotyczących daty urodzenia rodziców przystępują‐
+cych do programu lojalnościowego (…) dla potrzeb uczestnictwa w programie lojal‐
+nościowym (…). Pismem z (…) września 2017 r. Spółka poinformowała Prezesa
+UODO, że nie pozyskuje już daty urodzenia rodziców przystępujących do programu
+lojalnościowego (…), natomiast, pismem z (…) listopada 2019 r. poinformowała, że
+aplikacja obsługująca program i umożliwiająca rejestrację w wybranym programie
+została zaktualizowana, a formularz, który wypełnia osoba chcąca dołączyć do pro‐
+gramu, nie zawiera już rubryki, w której rodzic (uczestnik programu) mógłby podać
+datę swojego urodzenia.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_4/content
+
+2025-09-03 13:52
+
+Decyzja ZKE.440.4.2019
+
+Strona 4 z 6
+
+Prezes UODO poinformował Spółkę o przeprowadzeniu postępowania administracyjnego,
+w wyniku którego został zgromadzony materiał dowodowy wystarczający do wydania de‐
+cyzji administracyjnej oraz o możliwości wypowiedzenia się co do zebranych dowodów i
+materiałów oraz zgłoszonych żądań zgodnie z treścią art. 10 § 1 ustawy z dnia 14
+czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 ze
+zm.), zwanej dalej również „Kpa”, w terminie 7 dni od dnia otrzymania ww. pisma.
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje:
+Z dniem 25 maja 2018 r. w życie weszły przepisy ustawy z dnia 10 maja 2018 r. o
+ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781), zwanej dalej również „ustawa o
+ochronie danych osobowych z 2018 r.”.
+W myśl art. 160 ust. 1-3 ustawy o ochronie danych osobowych z 2018 r., postępowania
+prowadzone przez Generalnego Inspektora Ochrony Danych Osobowych, wszczęte i nie‐
+zakończone przed dniem wejścia w życie niniejszej ustawy, prowadzone są przez Prezesa
+Urzędu Ochrony Danych Osobowych na podstawie ustawy z dnia 29 sierpnia 1997 r. o
+ochronie danych osobowych (Dz.U. z 2016 r. poz. 922 ze zm.), zwanej dalej również
+„ustawa o ochronie danych osobowych z 1997 r.”, zgodnie z zasadami określonymi w
+Kpa. Jednocześnie, czynności dokonane w postępowaniach, wszczętych i niezakończo‐
+nych przed dniem wejścia w życie przepisów ustawy o ochronie danych osobowych z
+2018 r., pozostają skuteczne.
+Od dnia 25 maja 2018 r. zastosowanie ma również Rozporządzenie 2016/679. Uwzględ‐
+niając powyższe stwierdzić zatem należy, iż niniejsze postępowanie, wszczęte i nieza‐
+kończone przed dniem 25 maja 2018 r., prowadzone jest na podstawie ustawy o ochro‐
+nie danych osobowych z 1997 r. (w zakresie dotyczącym przepisów regulujących proce‐
+durę administracyjną) oraz na podstawie Rozporządzenia 2016/679 (w zakresie rozstrzy‐
+gającym o legalności procesu przetwarzania danych osobowych).
+Prezes UODO jest organem właściwym w sprawie ochrony danych osobowych i organem
+nadzorczym w rozumieniu Rozporządzenia 2016/679 (art. 34 ust. 1 i 2 ustawy o ochronie
+danych osobowych z 2018 r.). Prezes UODO prowadzi postępowania w sprawie narusze‐
+nia przepisów o ochronie danych osobowych (art. 60 ustawy o ochronie danych osobo‐
+wych z 2018 r.), przy czym w sprawach nieuregulowanych w ustawie o ochronie danych
+osobowych z 2018 r., do postępowań administracyjnych przed Prezesem UODO, w szcze‐
+gólności unormowanych w rozdziale 7 ustawy – postępowań w sprawie naruszenia prze‐
+pisów o ochronie danych osobowych, stosuje się przepisy Kpa (art. 7 ust. 1 ustawy o
+ochronie danych osobowych z 2018 r.). Stosownie do art. 57 ust. 1 Rozporządzenia
+2016/679, bez uszczerbku dla innych zadań określonych na mocy niniejszego rozporzą‐
+dzenia każdy organ nadzorczy na swoim terytorium monitoruje i egzekwuje stosowanie
+niniejszego rozporządzenia (lit. a) oraz prowadzi postępowania w sprawie stosowania ni‐
+niejszego rozporządzenia, w tym na podstawie informacji otrzymanych od innego organu
+nadzorczego lub innego organu publicznego (lit. h). Instrumentami realizacji zadań prze‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_4/content
+
+2025-09-03 13:52
+
+Decyzja ZKE.440.4.2019
+
+Strona 5 z 6
+
+widzianych w art. 57 ust. 1 Rozporządzenia 2016/679 są w szczególności określone w
+art. 58 ust. 2 Rozporządzenia 2016/679, uprawnienia naprawcze, w tym możliwość: wy‐
+dawania ostrzeżeń administratorowi lub podmiotowi przetwarzającemu dotyczących
+możliwości naruszenia przepisów niniejszego rozporządzenia poprzez planowane opera‐
+cje przetwarzania (lit. a), udzielania upomnień administratorowi lub podmiotowi przetwa‐
+rzającemu w przypadku naruszenia przepisów niniejszego rozporządzenia przez operacje
+przetwarzania (lit. b), nakazania administratorowi lub podmiotowi przetwarzającemu do‐
+stosowania operacji przetwarzania do przepisów niniejszego rozporządzenia, a w
+stosownych przypadkach wskazanie sposobu i terminu (lit. d).
+Fakt, iż wedle stanu na dzień wydania niniejszego rozstrzygnięcia, w procesie przetwa‐
+rzania przez Spółkę danych osobowych nie dochodzi do nieprawidłowości, o których sy‐
+gnały otrzymał Prezes UODO i w oparciu o które wszczął postępowanie w przedmiotowej
+sprawie, ma decydujące znaczenie z punktu widzenia jej rozstrzygnięcia. W tej bowiem
+sytuacji niniejsze postępowanie podlega obligatoryjnemu umorzeniu na podstawie art.
+105 § 1 Kpa – wobec jego bezprzedmiotowości. Zgodnie z ww. przepisem, gdy postępo‐
+wanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe, organ administracji publicz‐
+nej wydaje decyzję o umorzeniu postępowania. Brzmienie powołanej regulacji nie pozo‐
+stawia wątpliwości, iż w razie stwierdzenia bezprzedmiotowości postępowania organ pro‐
+wadzący to postępowanie obligatoryjnie je umarza. Jednocześnie w literaturze przedmio‐
+tu wskazuje się, że bezprzedmiotowość postępowania administracyjnego, o której stano‐
+wi art. 105 § 1 Kpa oznacza, że brak jest któregoś z elementów materialnego stosunku
+prawnego, a wobec tego nie można wydać decyzji załatwiającej sprawę przez
+rozstrzygnięcie jej co do istoty (B. Adamiak, J. Borkowski „Kodeks postępowania admini‐
+stracyjnego. Komentarz” 7 wydanie Wydawnictwo C.H. Beck, Warszawa 2005 r., str.
+485). W literaturze i orzecznictwie akcentuje się również, że cyt.: „(…) Bezprzedmioto‐
+wość postępowania może być (…) wynikiem zmiany stanu faktycznego sprawy. Postępo‐
+wanie musi być uznane za bezprzedmiotowe wskutek ustania stanu faktycznego podle‐
+gającego uregulowaniu przez organ administracji w drodze decyzji (…)” (por.: M. P. Przy‐
+bysz „Kodeks postępowania administracyjnego. Komentarz aktualizowany” Opublikowa‐
+no: LEX/el. 2019 oraz przytoczony tam wyrok Naczelnego Sądu Administracyjnego z dnia
+29 września 1987 r. sygn. akt: IV SA 220/87 opubl.: ONSA z 1987 r. nr 2, poz. 67).
+Istotnym przymiotem decyzji administracyjnej jest tzw. podwójna konkretność oznaczają‐
+ca, że decyzja określa konsekwencje stosowania normy prawnej w indywidualnej sprawie
+konkretnego adresata (strony) (por. Wróbel Andrzej, Jaśkowska Małgorzata, WilbrandtGotowicz Martyna „Komentarz aktualizowany Kodeksu postępowania administracyjnego”
+LEX/el. 2018 - komentarz, stan prawny: 13 grudnia 2018 r., inne wydania (25)). Zmiany
+stanu faktycznego lub stanu prawnego sprawy, które nastąpiły już po wszczęciu postę‐
+powania, muszą być uwzględnione przy rozstrzyganiu sprawy – w przeciwnym bowiem
+wypadku, rozstrzygnięcie to byłoby rażąco sprzeczne z zasadą prawdy materialnej (por.
+j.w. za W. Siedlecki, Postępowanie cywilne, 1972, s. 371). W konsekwencji, jak podkreśla
+się w literaturze przedmiotu, organ administracji publicznej ocenia stan faktyczny spra‐
+wy według chwili wydania decyzji administracyjnej. Powyższa zasada odnosi się także do
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_4/content
+
+2025-09-03 13:52
+
+Decyzja ZKE.440.4.2019
+
+Strona 6 z 6
+
+oceny stanu prawnego sprawy, zatem organ administracji publicznej wydaje decyzję ad‐
+ministracyjną na podstawie przepisów prawa obowiązujących w chwili jej wydania (por.
+j.w.). Również Naczelny Sąd Administracyjny w Warszawie w wyroku z dnia 4
+października 2000 r. sygn. akt: V SA 283/00) podkreślił, że cyt.: „(…) Należy wskazać (…)
+na potrzebę stosowania norm prawa materialnego obowiązującego w dniu wydania de‐
+cyzji. Zaznaczyć wyraźnie należy, że przepisy kodeksu postępowania administracyjnego
+nie wiążą z datą wszczęcia postępowania podstawy faktycznej i prawnej rozpoznania
+sprawy. Miarodajny w tym zakresie jest stan obowiązujący w dacie wydania decyzji (vide
+B. Adamiak, Komentarz, Warszawa 1998, s. 363) (…)”.
+Uwzględniając poczynione dotychczas uwagi wskazać należy, że impulsem do wszczęcia
+postępowania z urzędu w przedmiotowej sprawie stały się sygnały na temat ewentual‐
+nych nieprawidłowości w procesie przetwarzania danych osobowych czynionych przez
+Spółkę. Zainicjowane w związku z tym postępowanie służyło weryfikacji prawdziwości
+ww. doniesień oraz doprowadzeniu do wyeliminowania uchybień w obszarze przetwarza‐
+nia danych osobowych – w razie potwierdzenia, że istotnie mają one miejsce wedle sta‐
+nu na dzień orzekania. Innymi słowy, potwierdzenie istnienia zarzucanych nieprawidło‐
+wości, stanowiłoby dla Prezesa UODO podstawę dla dokonania ich prawnej oceny i sko‐
+rzystania – w celu ich eliminacji – z instrumentów prawnych o charakterze naprawczym
+przewidzianych w art. 58 ust. 2 Rozporządzenia 2016/679. Tymczasem, mając na uwa‐
+dze, że zasygnalizowane Prezesowi UODO nieprawidłowości w procesie przetwarzania
+danych osobowych przez Spółkę, nie mają miejsca wedle stanu na dzień orzekania, brak
+jest podstaw dla dokonania ich prawnej oceny, w kontekście ewentualnego skorzystania
+z instrumentów przewidzianych w art. 58 ust. 2 Rozporządzenia 2016/679 – tj.
+instrumentów służących ich wyeliminowaniu.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_4/content
+
+2025-09-03 13:52
+

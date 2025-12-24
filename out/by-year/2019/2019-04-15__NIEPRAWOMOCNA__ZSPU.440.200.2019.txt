@@ -1,0 +1,254 @@
+Warszawa, 15 kwietnia 2019
+NIEPRAWOMOCNA
+
+Decyzja
+ZSPU.440.200.2019
+
+Na podstawie art. 105 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r., poz. 2096 ze zm.), art. 7 ust. 1 w zw. z art. 60 usta‐
+wy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz.U. z 2018 r., poz. 1000 ze
+zm.) oraz art. 57 ust. 1 lit. a) i lit. h) rozporządzenia Parlamentu Europejskiego i Rady
+(UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)
+(Dz.U.UE.L.2016.119.1 i Dz.U.UE.L.2018.127.2),
+po przeprowadzeniu postępowania administracyjnego z urzędu w sprawie nieprawidło‐
+wości w procesie przetwarzania danych osobowych realizowanym przez Prezydenta
+Miasta (…), Prezes Urzędu Ochrony Danych Osobowych
+umarza postępowanie.
+
+Uzasadnienie
+Prezes Urzędu Ochrony Danych Osobowych, zwany dalej również Prezesem UODO, uzy‐
+skał informacje na temat nieprawidłowości w procesie przetwarzania danych osobowych
+realizowanym przez Prezydenta Miasta (…), zwanego dalej również Prezydentem.
+Sygnały, które dotarły do Prezesa UODO wskazywały na możliwe uchybienia przepisom o
+ochronie danych osobowych w podległym Prezydentowi Urzędzie Miasta (…) (Urząd Mia‐
+sta), polegające na dostępie osób nieupoważnionych do wszelkich danych osobowych
+przetwarzanych w ww. jednostce organizacyjnej, w związku realizacją jej zadań. Wedle
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_440_200/content
+
+2025-09-03 13:59
+
+Decyzja ZSPU.440.200.2019
+
+Strona 2 z 6
+
+informacji uzyskanych przez Prezesa UODO, w latach 2008 – 2015 pracownicy Urzędu
+Miasta mieli nieograniczony dostęp do danych osobowych przetwarzanych w ramach
+funkcjonującego w Urzędzie Miasta systemu Elektronicznego Obiegu Dokumentacji
+(EOD), bez względu na zajmowane stanowisko i zakres związanych z tym zadań służbo‐
+wych. Informacje uzyskane przez Prezesa UODO wskazywały również na możliwość ist‐
+nienia w Urzędzie Miasta naruszeń w obszarze należytej ochrony danych osobowych - w
+związku z dopuszczeniem możliwości prowadzenia przez pracowników tego podmiotu
+obsługi korespondencji służbowej przy wykorzystaniu innych instrumentów lub
+systemów, niż służbowe.
+Prezes UODO przeprowadził w przedmiotowej sprawie postępowanie administracyjne z
+urzędu, w ramach którego, działając na podstawie art. 58 ust. 1 lit. a) i lit. e) rozporzą‐
+dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w
+sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w
+sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+(ogólne rozporządzenie o ochronie danych) (Dz.U.UE.L.2016.119.1 i Dz.U.UE.L.
+2018.127.2), zwanego dalej również RODO, uzyskał od Prezydenta pisemne wyjaśnienia
+odnośnie okoliczności sprawy i stosowne dowody na ich potwierdzenie. W oparciu o tak
+zgromadzony materiał dowodowy Prezes UODO ustalił, co następuje.
+1. Wedle wyjaśnień Prezydenta cyt.: „(…) pracownicy Urzędu Miasta korzystali w latach
+2008 – 2015 z Elektronicznego Obiegu Dokumentów (EOD, później EZD). W latach
+tych pracownicy mieli dostęp do danych osobowych na podstawie imiennych upo‐
+ważnień, które wydawał Prezydent (…) - Administrator Danych Osobowych. Każdy
+pracownik Urzędu Miasta (…) przed przystąpieniem do pełnienia swojej funkcji prze‐
+chodził szkolenie z zakresu prawa administracyjnego oraz zapoznawany był z doku‐
+mentacją dotyczącą ochrony danych osobowych. Tylko pracownicy posiadający upo‐
+ważnienie dostępu do EOD mieli do niego wgląd (…) W latach 2008 - 2015 wydawa‐
+ne upoważnienia upoważniały pracowników Urzędu Miasta do przetwarzania danych
+osobowych. Każdy pracownik posiadał stosowne upoważnienie. Upoważnienia za‐
+wierały zakres danych. W upoważnieniach nadawano pracownikom prawa dostępu
+do systemu EOD bez ograniczenia co do spraw w nim się znajdujących. Tylko pra‐
+cownicy posiadający upoważnienie dostępu do EOD mieli do niego wgląd (…)”. Pre‐
+zydent podkreślił zarazem, że cyt.: „(…) aktualnie pracownicy posiadają dostęp je‐
+dynie do spraw realizowanych przez wydział/ referat, w którym wykonują obowiązki
+służbowe. Dostęp do tych danych jest ograniczonych i szczegółowo określony w
+upoważnieniach imiennych wydawanych przez Prezydenta (…)” (pismo Prezydenta z
+dnia (…) marca 2019 r. znak: (…) – w aktach sprawy). Na potwierdzenie złożonych
+wyjaśnień Prezydent przedstawił m. in: - dokument p.n. „Instrukcja zarządzania sys‐
+temem informatycznym” stanowiący załącznik nr (…) do Zarządzenia Nr (…) Prezy‐
+denta Miasta (…) z dnia (…) maja 2018 r., z treści którego wynika, że „uprawnienia
+do systemów informatycznych Urzędu {Miasta} posiadają jedynie (…) {pracownicy
+Urzędu Miasta wyznaczeni przez Administratora Danych Osobowych – § 3 pkt 2
+omawianego dokumentu} adekwatnie do pełnionych obowiązków służbowych oraz
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_440_200/content
+
+2025-09-03 13:59
+
+Decyzja ZSPU.440.200.2019
+
+2.
+
+3.
+
+Strona 3 z 6
+
+osoby upoważnione przez administratora danych” (§ 8 ust. 1), natomiast nadawanie
+i odbieranie uprawnień w obszarze tego dostępu realizowane jest na podstawie
+określonego wniosku, w ramach regulowanej procedury (§ 5 i § 6); - dokument p.n.
+„Procedura nadawania uprawnień do systemów informatycznych Urzędu Miasta
+(…)” stanowiący załącznik nr (…) do „Instrukcji zarządzania systemem informatycz‐
+nym”; - odpis przykładowego wniosku o nadanie pracownikowi określonego referatu
+Urzędu Miasta uprawnień w systemie informatycznym, z treści którego wynika jed‐
+noznacznie ograniczenie dostępu ww. pracownika, do takich elementów ww. syste‐
+mu informatycznego, które mają bezpośredni związek z zakresem jego obowiązków
+służbowych; - odpis przykładowego upoważnienia do przetwarzania danych osobo‐
+wych nadanego pracownikowi określonego referatu Urzędu Miasta przez Prezyden‐
+ta; - odpis przykładowego oświadczenia pracownika określonego referatu Urzędu
+Miasta złożonego w związku z uzyskanym dostępem, w ramach wykonywanych
+obowiązków służbowych do cyt.: „(…) zbiorów, dokumentów, zestawień, kartotek lub
+systemów informatycznych zawierających dane osobowe (…)” o zapoznaniu się z
+powszechnie obowiązującymi przepisami o ochronie danych osobowych a także re‐
+gulacjami wewnętrznymi Urzędu Miasta w tym zakresie (odpisy dokumentów – w
+aktach sprawy).
+Jak wyjaśnił Prezydent cyt.: „(…) w Urzędzie Miasta (…) nie ma możliwości, aby pra‐
+cownik prowadził korespondencję służbową poprzez systemy inne niż służbowe. Pra‐
+cownikom nie wolno używać prywatnych systemów komunikacji elektronicznej do
+prowadzenia spraw urzędowych. Pracownicy wyposażeni są w sprzęt komputerowy
+zapewniający realizację zadań wyłącznie z użyciem narzędzi urzędowych. Sama
+możliwość użycia przez pracownika prywatnej poczty jest możliwa technicznie, jed‐
+nak byłoby to naruszenie ochrony danych osobowych oraz wewnętrznych procedur i
+pracownik w takiej sytuacji zostałby pociągnięty do odpowiedzialności. W przypadku
+stwierdzenia takiego działania Inspektor Ochrony Danych Osobowych natychmiast
+podjąłby działania zmierzające do ustalenia okoliczności takiego zdarzenia i jego
+skutków. Nie stwierdzono takiego zdarzenia w Urzędzie Miasta (…) i Inspektor
+Ochrony Danych Osobowych nie otrzymał takich zgłoszeń. Brak jest również doku‐
+mentów świadczących, aby takie zgłoszenia przyjmowane były w latach 2008 –
+2015 (…)” (pismo Prezydenta z dnia (…) marca 2019 r. znak: (…)). Na potwierdzenie
+powyższych wyjaśnień Prezydent przedstawił w szczególności dokument p. n. „Re‐
+gulamin ochrony danych osobowych Urząd Miasta (…)” stanowiący załącznik nr (…)
+do zarządzenia Nr (…) Prezydenta Miasta (…) z dnia (…) maja 2018 r., określający w
+szczególności spoczywający na pracownikach Urzędu Miasta obowiązek korzystania
+dla celów związanych z wykonywaniem obowiązków służbowych wyłącznie z infra‐
+struktury dostarczonej przez Prezydenta (§ 2) oraz zasady dotyczące korzystania z
+poczty elektronicznej (§ 9).
+Jak wyjaśnił Prezydent cyt.: „(…) w Urzędzie Miasta (…) została przeprowadzona
+analiza zagrożeń związanych ze stosowaniem systemów informatycznych i pozio‐
+mem ich zabezpieczenia. Celem zapewnienia zgodności pracy Urzędu z wymagania‐
+mi RODO w Urzędzie Miasta (…) zarządzeniem nr (…) Prezydenta Miasta (…) z dnia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_440_200/content
+
+2025-09-03 13:59
+
+Decyzja ZSPU.440.200.2019
+
+Strona 4 z 6
+
+(…) maja 2018 r. wprowadzono: - Politykę bezpieczeństwa, - Regulamin ochrony da‐
+nych osobowych, - Instrukcję zarządzania systemem informatycznym. Wszyscy pra‐
+cownicy zostali również przeszkoleni w zakresie ochrony danych osobowych a In‐
+spektor Ochrony Danych przeprowadza szkolenie każdego nowo zatrudnionego pra‐
+cownika w tym zakresie, W Urzędzie funkcjonuje również Rejestr czynności
+przetwarzania (…)” (wymienione przez Prezydenta dokumenty – w aktach sprawy).
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+Prezes UODO jest organem właściwym w sprawie ochrony danych osobowych i organem
+nadzorczym w rozumieniu RODO (art. 34 ust. 1 i 2 ustawy z dnia 10 maja 2018 r. o
+ochronie danych osobowych (Dz. U. z 2018 r., poz. 1000 ze zm.), zwanej dalej ustawą).
+Prezes UODO prowadzi postępowania w sprawie naruszenia przepisów o ochronie da‐
+nych osobowych (art. 60 ustawy), przy czym w sprawach nieuregulowanych w ustawie,
+do postępowań administracyjnych przed Prezesem UODO, w szczególności unormowa‐
+nych w rozdziale 7 ustawy – postępowań w sprawie naruszenia przepisów o ochronie da‐
+nych osobowych, stosuje się ustawę z dnia 14 czerwca 1960 r. - Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r., poz. 2096 ze zm.), zwaną dalej również Kpa (art. 7
+ust. 1 ustawy). Stosownie do art. 57 ust. 1 RODO, bez uszczerbku dla innych zadań okre‐
+ślonych na mocy niniejszego rozporządzenia każdy organ nadzorczy na swoim teryto‐
+rium monitoruje i egzekwuje stosowanie niniejszego rozporządzenia (lit. a) oraz prowadzi
+postępowania w sprawie stosowania niniejszego rozporządzenia, w tym na podstawie in‐
+formacji otrzymanych od innego organu nadzorczego lub innego organu publicznego (lit.
+h). Instrumentami realizacji zadań przewidzianych w art. 57 ust. 1 RODO są w szczegól‐
+ności określone w art. 58 ust. 2 RODO, uprawnienia naprawcze, w tym możliwość: wyda‐
+wania ostrzeżeń administratorowi lub podmiotowi przetwarzającemu dotyczących możli‐
+wości naruszenia przepisów niniejszego rozporządzenia poprzez planowane operacje
+przetwarzania (lit. a), udzielania upomnień administratorowi lub podmiotowi przetwarza‐
+jącemu w przypadku naruszenia przepisów niniejszego rozporządzenia przez operacje
+przetwarzania (lit. b), nakazania administratorowi lub podmiotowi przetwarzającemu do‐
+stosowania operacji przetwarzania do przepisów niniejszego rozporządzenia, a w
+stosownych przypadkach wskazanie sposobu i terminu (lit. d).
+Fakt, iż wedle stanu na dzień wydania niniejszego rozstrzygnięcia, w procesie przetwa‐
+rzania przez Prezydenta danych osobowych nie dochodzi do nieprawidłowości, o których
+sygnały otrzymał Prezes UODO i w oparciu o które wszczął postępowanie w przedmioto‐
+wej sprawie, ma decydujące znaczenie z punktu widzenia jej rozstrzygnięcia. W tej bo‐
+wiem sytuacji niniejsze postępowanie podlega obligatoryjnemu umorzeniu na podstawie
+art. 105 § 1 Kpa – wobec jego bezprzedmiotowości. Zgodnie z ww. przepisem, gdy postę‐
+powanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe, organ administracji pu‐
+blicznej wydaje decyzję o umorzeniu postępowania. Brzmienie powołanej regulacji nie
+pozostawia wątpliwości, iż w razie stwierdzenia bezprzedmiotowości postępowania or‐
+gan prowadzący to postępowanie obligatoryjnie je umarza. Jednocześnie w literaturze
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_440_200/content
+
+2025-09-03 13:59
+
+Decyzja ZSPU.440.200.2019
+
+Strona 5 z 6
+
+przedmiotu wskazuje się, że bezprzedmiotowość postępowania administracyjnego, o
+której stanowi art. 105 § 1 Kpa oznacza, że brak jest któregoś z elementów materialnego
+stosunku prawnego, a wobec tego nie można wydać decyzji załatwiającej sprawę przez
+rozstrzygnięcie jej co do istoty (B. Adamiak, J. Borkowski „Kodeks postępowania admini‐
+stracyjnego. Komentarz” 7 wydanie Wydawnictwo C.H. Beck, Warszawa 2005 r., str.
+485). W literaturze i orzecznictwie akcentuje się również, że cyt.: „(…) Bezprzedmioto‐
+wość postępowania może być (…) wynikiem zmiany stanu faktycznego sprawy. Postępo‐
+wanie musi być uznane za bezprzedmiotowe wskutek ustania stanu faktycznego podle‐
+gającego uregulowaniu przez organ administracji w drodze decyzji (…)” (por.: M. P. Przy‐
+bysz „Kodeks postępowania administracyjnego. Komentarz aktualizowany” Opublikowa‐
+no: LEX/el. 2019 oraz przytoczony tam wyrok Naczelnego Sądu Administracyjnego z dnia
+29 września 1987 r. sygn. akt: IV SA 220/87 opubl.: ONSA z 1987 r. nr 2, poz. 67).
+Istotnym przymiotem decyzji administracyjnej jest tzw. podwójna konkretność oznaczają‐
+ca, że decyzja określa konsekwencje stosowania normy prawnej w indywidualnej sprawie
+konkretnego adresata (strony) (por. Wróbel Andrzej, Jaśkowska Małgorzata, WilbrandtGotowicz Martyna „Komentarz aktualizowany Kodeksu postępowania administracyjnego”
+LEX/el. 2018 - komentarz, stan prawny: 13 grudnia 2018 r., inne wydania (25)). Zmiany
+stanu faktycznego lub stanu prawnego sprawy, które nastąpiły już po wszczęciu postę‐
+powania, muszą być uwzględnione przy rozstrzyganiu sprawy – w przeciwnym bowiem
+wypadku, rozstrzygnięcie to byłoby rażąco sprzeczne z zasadą prawdy materialnej (por.
+j. w. za W. Siedlecki, Postępowanie cywilne, 1972, s. 371). W konsekwencji, jak podkreśla
+się w literaturze przedmiotu, organ administracji publicznej ocenia stan faktyczny spra‐
+wy według chwili wydania decyzji administracyjnej. Powyższa zasada odnosi się także do
+oceny stanu prawnego sprawy, zatem organ administracji publicznej wydaje decyzję ad‐
+ministracyjną na podstawie przepisów prawa obowiązujących w chwili jej wydania (por.
+j.w.). Również Naczelny Sąd Administracyjny w Warszawie w wyroku z dnia 4
+października 2000 r. sygn. akt: V SA 283/00) podkreślił, że cyt.: „(…) Należy wskazać (…)
+na potrzebę stosowania norm prawa materialnego obowiązującego w dniu wydania de‐
+cyzji. Zaznaczyć wyraźnie należy, że przepisy kodeksu postępowania administracyjnego
+nie wiążą z datą wszczęcia postępowania podstawy faktycznej i prawnej rozpoznania
+sprawy. Miarodajny w tym zakresie jest stan obowiązujący w dacie wydania decyzji (vide
+B. Adamiak, Komentarz, Warszawa 1998, s. 363) (…)”.
+Uwzględniając poczynione dotychczas uwagi wskazać należy, że impulsem do wszczęcia
+postępowania z urzędu w przedmiotowej sprawie stały się sygnały na temat ewentual‐
+nych nieprawidłowości w procesie przetwarzania danych osobowych przez Prezydenta, w
+podległym mu Urzędzie Miasta. Zainicjowane w związku z tym postępowanie służyło we‐
+ryfikacji prawdziwości ww. doniesień oraz doprowadzeniu do wyeliminowania uchybień w
+obszarze przetwarzania danych osobowych – w razie potwierdzenia, że istotnie mają one
+miejsce wedle stanu na dzień orzekania. Innymi słowy, potwierdzenie istnienia zarzuca‐
+nych nieprawidłowości, stanowiłoby dla Prezesa UODO podstawę dla dokonania ich
+prawnej oceny i skorzystania – w celu ich eliminacji – z instrumentów prawnych o cha‐
+rakterze naprawczym przewidzianych w art. 58 ust. 2 RODO. Tymczasem, mając na uwa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_440_200/content
+
+2025-09-03 13:59
+
+Decyzja ZSPU.440.200.2019
+
+Strona 6 z 6
+
+dze, że zasygnalizowane Prezesowi UODO nieprawidłowości w procesie przetwarzania
+danych osobowych przez Prezydenta, w podległym mu Urzędzie Miasta, nie mają miej‐
+sca wedle stanu na dzień orzekania, brak jest podstaw dla dokonania ich prawnej oceny,
+w kontekście ewentualnego skorzystania z instrumentów przewidzianych w art. 58 ust. 2
+RODO – tj. instrumentów służących ich wyeliminowaniu.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspu_440_200/content
+
+2025-09-03 13:59
+

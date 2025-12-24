@@ -1,0 +1,2840 @@
+Warszawa, 3 czerwca 2025
+NIEPRAWOMOCNA
+
+Decyzja
+DKN.5131.30.2022
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2024 r. poz. 572), art. 7 ust. 1 i 2, art. 60, art. 102 ust. 1 pkt
+1 i ust. 3 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. 2019 r.
+poz. 1781) oraz art. 57 ust. 1 lit. a) i h), art. 58 ust. 2 lit. b) w związku z art. 33 ust. 1,
+art. 58 ust. 2 lit. i), art. 83 ust. 1 – 3 oraz art. 83 ust. 4 lit. a) w związku z art. 24 ust. 1,
+art. 25 ust. 1, art. 28 ust. 1 i 3 oraz art. 32 ust. 1 i 2, a także art. 83 ust. 5 lit. a) w
+związku z art. 5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia Parlamentu Europejskiego i
+Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)
+(Dz. Urz. UE L 119 z 4.05.2016, S.. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz.
+UE L 74 z 4.03.2021, str. 35), dalej jako rozporządzenie 2016/679,
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w sprawie
+naruszenia przepisów o ochronie danych osobowych przez Gminny Ośrodek Pomocy
+Społecznej w K. (K. (…), (…)-(…) K.) oraz Wójta Gminy K. (Urząd Gminy K., K. (…), (…)(…) K.), Prezes Urzędu Ochrony Danych Osobowych,
+1) stwierdzając naruszenie przez Gminny Ośrodek Pomocy Społecznej w K. (K. (…),
+(…)-(…) K.) art. 24 ust. 1, art. 25 ust. 1, art. 28 ust. 1 oraz art. 32 ust. 1 i 2
+rozporządzenia 2016/679, polegające na:
+a) niewdrożeniu odpowiednich środków technicznych i organizacyjnych zapewnia‐
+jących bezpieczeństwo przetwarzania danych w systemach informatycznych
+oraz ochronę praw osób, których dane dotyczą, na podstawie przeprowadzonej
+analizy ryzyka uwzględniającej stan wiedzy technicznej, koszt wdrożenia, cha‐
+rakter, zakres, kontekst, cele przetwarzania oraz ryzyko naruszenia praw lub
+wolności osób fizycznych,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 2 z 58
+
+b)
+
+2)
+
+3)
+
+niewdrożeniu odpowiednich środków technicznych i organizacyjnych w celu za‐
+pewnienia regularnego testowania, mierzenia i oceniania skuteczności środków
+technicznych i organizacyjnych mających zapewnić bezpieczeństwo danych
+osobowych przetwarzanych w systemach informatycznych, w szczególności w
+zakresie podatności, błędów, aktualizacji oraz ich możliwych skutków dla tych
+systemów oraz podjętych działań minimalizujących ryzyko ich wystąpienia,
+c) braku weryfikacji podmiotu przetwarzającego, czy zapewnia wystarczające gwa‐
+rancje wdrożenia odpowiednich środków technicznych i organizacyjnych, by
+przetwarzanie spełniało wymogi rozporządzenia 2016/679 i chroniło prawa
+osób, których dane dotyczą,
+skutkujące naruszeniem zasady integralności i poufności (art. 5 ust. 1 lit. f) roz‐
+porządzenia 2016/679) oraz zasady rozliczalności (art. 5 ust. 2 rozporządzenia
+2016/679),
+nakłada na Gminny Ośrodek Pomocy Społecznej w K. (K. (…), (…)-(…) K.), za na‐
+ruszenie art. 5 ust. 1 lit. f), art. 5 ust. 2, art. 25 ust. 1, art. 28 ust. 1 oraz art. 32
+ust. 1 i 2 rozporządzenia 2016/679, administracyjną karę pieniężną w wysokości
+5 000,00 zł (słownie: pięć tysięcy złotych);
+stwierdzając naruszenie przez Gminny Ośrodek Pomocy Społecznej w K. (K. (…),
+(…)-(…) K.) art. 33 ust. 1 rozporządzenia 2016/679, polegające na niezgłoszeniu Pre‐
+zesowi Urzędu Ochrony Danych Osobowych naruszenia ochrony danych osobowych
+bez zbędnej zwłoki, nie później niż w terminie 72 godzin po stwierdzeniu naruszenia,
+udziela upomnienia Gminnemu Ośrodkowi Pomocy Społecznej w K. (K. (…), (…)(…) K.);
+stwierdzając naruszenie przez Wójta Gminy K. (Urząd Gminy K., K. (…), (…)-(…) K.)
+art. 32 ust. 1 i 2 w związku z art. 28 ust. 3 lit. c) i f) rozporządzenia 2016/679, pole‐
+gające na niewdrożeniu odpowiednich środków technicznych i organizacyjnych za‐
+pewniających bezpieczeństwo danych osobowych, w tym zapewniających ich do‐
+stępność,
+nakłada na Wójta Gminy K. (Urząd Gminy K., K. (…), (…)-(…) K.), za naruszenie
+art. 32 ust. 1 i 2 w związku z art. 28 ust. 3 lit. c) i f) rozporządzenia 2016/679,
+administracyjną karę pieniężną w wysokości 10 000,00 zł (słownie: dziesięć
+tysięcy złotych).
+
+Uzasadnienie
+16 września 2022 r. Gminny Ośrodek Pomocy Społecznej w K. (K. (…), (…)-(…) K.), dalej
+jako GOPS lub Administrator, dokonał Prezesowi Urzędu Ochrony Danych Osobowych,
+zwanemu dalej także Prezesem UODO lub organem nadzorczym, zgłoszenia naruszenia
+ochrony danych osobowych, do którego doszło 23 marca 2021 r. Wcześniej (26 marca
+2021 r.) ww. naruszenie ochrony danych osobowych zostało zgłoszone przez Wójta Gmi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 3 z 58
+
+ny K. (Urząd Gminy K., K. (…), (…)-(…) K.), dalej jako Wójt lub Podmiot przetwarzający.
+Naruszenie ochrony danych osobowych było następstwem ataku ransomware. W następ‐
+stwie tego incydentu zostały zaszyfrowane dane osobowe znajdujące się w zasobach
+GOPS.
+Ww. zgłoszenia naruszenia ochrony danych osobowych stały się dla organu nadzorczego
+impulsem do dokonania oceny realizacji przez Administratora i Podmiot przetwarzający
+spoczywających na nich obowiązków wynikających z przepisów rozporządzenia 2016/679
+dotyczących właściwego zabezpieczenia danych oraz organizacji systemu ochrony da‐
+nych osobowych. W związku z powyższym, Prezes UODO przeprowadził postępowanie
+wyjaśniające w tej sprawie, a następnie 13 maja 2022 r. wszczął z urzędu postępowanie
+administracyjne w zakresie możliwości naruszenia przez Wójta obowiązków wynikających
+z przepisów art. 5 ust. 1 lit. f), art. 5 ust. 2, art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1
+i 2 rozporządzenia 2016/679.
+W następstwie analizy zgłoszonych naruszeń ochrony danych osobowych przez GOPS i
+Wójta oraz dalszych wyjaśnień przekazanych przez ww. podmioty stwierdzono, że ww.
+zgłoszenia dotyczą tego samego incydentu bezpieczeństwa. Wobec tego, pismem z 5
+grudnia 2024 r. Prezes UODO zawiadomił GOPS o uznaniu go za stronę postępowania ad‐
+ministracyjnego prowadzonego pod sygnaturą DKN.5131.30.2022 wskazując, że przed‐
+miotem tego postępowania jest możliwość naruszenia przez GOPS obowiązków wynikają‐
+cych z przepisów art. 5 ust. 1 lit. f), art. 5 ust. 2, art. 24 ust. 1, art. 25 ust. 1, art. 28 ust.
+1 i 3 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679. Jednocześnie pismem z 5 grudnia
+2024 r. Prezes UODO rozszerzył postępowanie o sygn. DKN.5130.30.2022 o możliwość
+naruszenia przez Wójta obowiązków wynikających z przepisów art. 28 ust. 1 i 3 rozporzą‐
+dzenia 2016/679. Następnie pismami z 7 stycznia 2025 r. Prezes UODO zawiadomił Ad‐
+ministratora i Podmiot przetwarzający o rozszerzeniu postępowania o sygn. DKN.
+5130.30.2022 o możliwość naruszenia art. 33 ust. 1 rozporządzenia 2016/679.
+Prezes UODO, w wyniku przeprowadzonego postępowania wyjaśniającego w sprawie
+zgłoszonego naruszenia ochrony danych osobowych oraz postępowania administracyjne‐
+go ustalił następujący stan faktyczny.
+W pierwszej kolejności należy wskazać, że przedmiotem niniejszego postępowania admi‐
+nistracyjnego jest naruszenie art. 5 ust. 1 lit. f), art. 5 ust. 2, art. 24 ust. 1, art. 25 ust. 1,
+art. 28 ust. 1 i 3, art. 32 ust. 1 i 2 oraz art. 33 ust. 1 rozporządzenia 2016/679. Nie jest
+nim natomiast identyfikacja przyczyn naruszenia ochrony danych osobowych z 23 marca
+2021 r. Wobec tego ustalenia stanu faktycznego koncentrowały się w głównej mierze na
+zbadaniu, czy Administrator i Podmiot przetwarzający rzeczywiście wdrożyli adekwatne
+środki bezpieczeństwa mające gwarantować bezpieczeństwo w procesie przetwarzania
+danych osobowych, a w szczególności, czy wdrożenie tych środków zostało poprzedzone
+przeprowadzaniem analiz ryzyka. Ustalając stan faktyczny organ nadzorczy zbadał tak‐
+że, czy wdrożone środki podlegały regularnemu testowaniu, mierzeniu i ocenianiu sku‐
+teczności środków technicznych i organizacyjnych mających zapewnić bezpieczeństwo
+przetwarzania. Ustalenia dotyczyły również relacji między Administratorem a Podmiotem
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 4 z 58
+
+przetwarzającym w kontekście zbadania zgodności działań tych podmiotów z wymogami
+określonymi w rozporządzeniu 2016/679, zarówno w obszarze wdrożenia adekwatnych
+środków bezpieczeństwa, powierzenia przetwarzania danych osobowych oraz zgłaszania
+naruszeń ochrony danych osobowych organowi nadzorczemu. Ustalenia w tym zakresie
+wskazują na naruszenie przepisów rozporządzenia 2016/679, które zostały opisane w
+sentencji niniejszej decyzji.
+
+I. Szczegóły dotyczące naruszenia ochrony danych
+osobowych z 23 marca 2021 r.
+Administrator i Podmiot przetwarzający przekazali organowi nadzorczemu informacje o
+szczegółach incydentu bezpieczeństwa, który miał miejsce 23 marca 2021 r. i
+doprowadził do naruszenia ochrony danych osobowych.
+W formularzu „Zgłoszenie naruszenia ochrony danych osobowych” z 26 marca 2021 r.
+Wójt wskazał, że naruszenie ochrony danych osobowych było związane z działaniem zło‐
+śliwego oprogramowania, w następstwie którego doszło do zaszyfrowania zasobów na
+jednym z serwerów urzędu. Administrator wskazał, że utracił dostęp do plików, w tym
+tych, które zawierały dane osobowe (dane beneficjentów GOPS). Administrator wyjaśnił,
+że „(…) Ze wstępnych ustaleń wynika, że tylko jeden serwer jest objęty incydentem, po‐
+zostałe serwery zostały sprawdzone przez specjalistę zajmującego się bezpieczeństwem
+i nie zostało stwierdzone naruszenie ochrony danych, ani naruszenie bezpieczeństwa.
+Trwają prace zespołu informatyki śledczej i nie zostało dotąd potwierdzone przesłanie
+danych na zewnątrz [tzw. Wyciek] (…)”.
+Wójt wyjaśnił, że przyczyną naruszenia ochrony danych osobowych było zewnętrzne
+działanie zamierzone. Określony został ponadto charakter tego naruszenia – Wójt wska‐
+zał, że doszło do naruszenia dostępności danych. Wójt określił, że przybliżona liczba
+osób, których naruszenie dotyczy, wynosi 1500. Wójt wskazał, że kategorie danych
+osobowych, które zostały naruszone, obejmują:
+–
+nazwiska i imiona,
+–
+imiona rodziców,
+–
+datę urodzenia,
+–
+numer rachunku bankowego,
+–
+adres zamieszkania lub pobytu,
+–
+numer ewidencyjny PESEL,
+–
+adres e-mail,
+–
+dane dotyczące zarobków i/lub posiadanego majątku,
+–
+nazwisko rodowe matki,
+–
+serię i numer dowodu osobistego,
+–
+numer telefonu.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 5 z 58
+
+Ponadto Wójt wskazał, że naruszone zostały dane dotyczące wyroków skazujących.
+W treści zgłoszenia naruszenia ochrony danych osobowych Wójt określił kategorię osób,
+których dotyczy naruszenie, wskazując, że obejmuje ono jego klientów, ale w toku postę‐
+powania ustalono, że osoby, których dane osobowe zostały objęte naruszeniem ochrony
+danych osobowych, były beneficjentami GOPS.
+Ze zgłoszenia naruszenia ochrony danych osobowych przekazanego przez GOPS wynika
+natomiast, że kategorie osób, których zostały naruszone, obejmują:
+–
+pracowników,
+–
+klientów podmiotów publicznych,
+–
+dzieci,
+–
+osoby o szczególnych potrzebach (np. osoby starsze, niepełnosprawne itp.).
+GOPS wskazał, że naruszone dane osobowe należą do następujących kategorii:
+–
+nazwiska i imiona,
+–
+imiona rodziców,
+–
+data urodzenia,
+–
+numer rachunku bankowego,
+–
+adres zamieszkania lub pobytu,
+–
+numer ewidencyjny PESEL,
+–
+adres e-mail,
+–
+dane dotyczące zarobków/lub posiadanego majątku,
+–
+seria i numer dowodu osobistego,
+–
+numer telefonu,
+–
+inne: obywatelstwo, wykształcenie, płeć, stan cywilny, dane opiekuna prawne‐
+go, zawód wykonywany, miejsce pracy i nauki, pozycja na rynku, kwalifikacje i
+doświadczenie zawodowe, osoby zobowiązane do alimentacji, świadczone ali‐
+menty,, wydatki, warunki mieszkaniowe, przemoc, problemy opiekuńczo wycho‐
+wawcze, wsparcie asystenta rodziny, nadzór kuratora, zadłużenia, pobyt w DPS,
+sytuacja majątkowa.
+Ponadto GOPS zawiadomił, że naruszone zostały dane dotyczące wyroków
+skazujących i dane dotyczące zdrowia.
+Wójt został wezwany do złożenia wyjaśnień dotyczących ustalenia, w jaki sposób doszło
+do zaszyfrowania danych przez złośliwe oprogramowanie, jakie były okoliczności, źródło
+oraz przyczyny powstania naruszenia ochrony danych osobowych. W piśmie z 14
+grudnia 2021 r. wyjaśnił, że „(…) w dniu 22.03.2021 r., około godz. 7:30, po uruchomie‐
+niu systemu informatycznego Urzędu Gminy ASI stwierdził, że następuje samoczynne
+szyfrowanie baz danych. Po uzyskaniu tej informacji IOD nakazał natychmiastowe wyłą‐
+czenie serwerów i jednostek komputerowych pracowników. Źródła ani przyczyn nie
+ustalono (…)”. W piśmie z 4 lipca 2022 r. wyjaśnił ponadto, że „(…) zgodnie z ustalenia‐
+mi zewnętrznego podmiotu profesjonalnego – laboratorium informatyki śledczej – prze‐
+kazanymi Administratorowi, ataku dokonano z wykorzystaniem oprogramowania (…) z
+rodziny (…) (…)”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 6 z 58
+
+II. Szczegóły dotyczące naruszenia dostępności danych
+osobowych w następstwie incydentu bezpieczeństwa z
+23 marca 2021 r.
+W następstwie incydentu bezpieczeństwa doszło do naruszenia dostępności danych oso‐
+bowych przetwarzanych przez Administratora. W tym zakresie wyjaśnienia złożył
+zarówno sam Administrator, jak i Podmiot przetwarzający.
+W formularzu zgłoszenia naruszenia ochrony danych osobowych przekazanym przez Ad‐
+ministratora wskazano, że w wyniku działań operacyjnych Policji oraz działań
+następczych podjętych przez profesjonalny podmiot odzyskano „usunięte wpisy z dzien‐
+ników zdarzeń z przestrzeni nieprzydzielonej zabezpieczonych obrazów”. Jednocześnie
+Administrator zadeklarował, że podczas trwania naruszenia ochrony danych osobowych
+zapewnił pełną obsługę mieszkańców w zakresie jego działalności ustawowej. Admini‐
+strator oświadczył, że wnioski były przyjmowane w formie papierowej, a świadczenia wy‐
+płacał zgodnie z przyjętymi terminami (por. pismo GOPS z 22 lipca 2024 r.).
+Bardziej szczegółowe wyjaśnienia w omawianym zakresie przedstawił Wójt. Z jego wyja‐
+śnień wynika, że w następstwie incydentu bezpieczeństwa nastąpiło tymczasowe uszko‐
+dzenie i prewencyjne wyłączenie systemów informatycznych Urzędu Gminy K. oraz
+Gminnego Ośrodka Pomocy Społecznej w K.. Wójt podjął działania mające na celu ograni‐
+czenie ryzyka eskalacji incydentu i ochronę integralności oraz poufności danych. Po prze‐
+prowadzeniu szczegółowej analizy incydentu Wójt nie stwierdził, aby naruszenie ochrony
+danych osobowych objęło dane osobowe przetwarzane przy wykorzystaniu systemów in‐
+formatycznych Urzędu Gminy K. (por. pismo z 13 listopada 2024 r.).
+W piśmie z 14 grudnia 2021 r. Wójt wskazał, że „(…) ograniczenie dostępności utrzymy‐
+wało się przez okres od 22.03.21 do 02.04.21, w tym czasie przywrócono wszystkie
+dane. Administrator [tzn. Wójt – uwaga organu nadzorczego] skorzystał z pomocy specja‐
+listycznej firmy zewnętrznej, która przeskanowała dane z serwera, wyczyściła je i zain‐
+stalowała na przejściowym nowym serwerze, podobnie uczyniono [kontrolnie] ze wszyst‐
+kimi jednostkami końcowymi oczyszczając je z ewentualnego złośliwego oprogramowa‐
+nia. Śledztwo prowadzone przez Policję pod nadzorem Prokuratury zostało umorzone (…)
+Został zaszyfrowany jeden serwer, komputery stanowiskowe zostały natychmiast
+wyłączone i dane na nich zgromadzone nie uległy zaszyfrowaniu (…)”. Wójt, wraz z wyja‐
+śnieniami z 14 grudnia 2021 r., przedłożył m.in. procedurę tworzenia kopii zapasowych
+zbiorów danych oraz programów i narzędzi programowych służących do ich
+przetwarzania, zawartą w dokumencie o nazwie „Instrukcja zarządzania systemem infor‐
+matycznym służącym do przetwarzania danych osobowych w Urzędzie Gminy K.”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 7 z 58
+
+Jak wynika z pisma Administratora z 15 stycznia 2025 r. „(…) Naruszenie ochrony danych
+osobowych trwało w okresie od 22 marca 2021 r. do 31 marca 2021 r. tak wynika z Pro‐
+tokołu (…) Incydentu. Administrator wyjaśnia, że wskazanie w zgłoszeniu naruszenia
+ochrony danych osobowych przekazanym przez GOPS daty 30 marca 2021 r. wynika z
+faktu uruchomienia systemów informatycznych do obsługi świadczeń rodzinnych i fundu‐
+szu alimentacyjnego oraz wypłat w tym dniu świadczeń dla mieszkańców, inne systemy
+zostały uruchomione w dniu 31.03.2021 r (…)”
+W piśmie z 12 stycznia 2022 r. Podmiot przetwarzający wskazał, że „(…) za przywrócenie
+baz danych odpowiedzialna była firma M. (…) z Z., we współpracy z dostawcą oprogra‐
+mowania firmą B. z D.. W wyniku oględzin specjaliści ustalili, że bazy są zaszyfrowane je‐
+dynie w części [str. 8-10 załączonego protokołu] i uszkodzenia dotyczą jedynie kilku pro‐
+cent zawartości baz [oznaczone kolorem czerwonym na rys. 2-4 «J. (…)», jednak te
+uszkodzenia powodowały brak możliwości zaczytania baz przez aplikacje dziedzinowe.
+UG K. pozyskał od B. strukturę wzorcową, do której dopasowane zostały przez M. (…)
+dane [zawartość] z uszkodzonych baz, zgodnie ze schematami [schemami], a następnie
+zaimportowane do nowych baz przez specjalistów z firmy B.. Po przygotowaniu baz, pra‐
+cownicy GOPS zweryfikowali poprawność zapisów w bazie i po poprawnej weryfikacji roz‐
+poczęto korzystanie z baz [wypłatę świadczeń]. Bazy zostały przywrócone z wykorzysta‐
+niem technik odzyskowych, bez konieczności zakupu narzędzia deszyfrującego od
+atakujących (…)”.
+
+III. Szczegóły dotyczące potencjalnego naruszenia pouf‐
+ności danych osobowych w następstwie incydentu
+bezpieczeństwa z 23 marca 2021 r.
+Administrator oraz Podmiot przetwarzający przekazali Prezesowi UODO informacje
+dotyczące możliwości naruszenia poufności danych.
+W zgłoszeniu naruszenia ochrony danych osobowych Administrator oświadczył, że nie
+doszło do naruszenia poufności danych osobowych. Wskazał on, że „(…) w wyniku dzia‐
+łań operacyjnych funkcjonariuszy Wydziału dw. z C. Komendy Wojewódzkiej Policji w T.
+oraz działań następczych podjętych przez podmiot profesjonalny M. (…) Z. udało się od‐
+zyskać usunięte wpisy z dzienników zdarzeń z przestrzeni nieprzydzielonej zabezpieczo‐
+nych obrazów. Ponadto, brak eksfiltracji danych osobowych potwierdzono także w opar‐
+ciu o analizę danych transmisyjnych dostarczonych przez operatora telekomunikacyjne‐
+go. W analizowanym okresie nie stwierdzono anomalii w zakresie transferu danych z sie‐
+ci IT UG na zewnątrz, a z tej sieci korzystał GOPS w K., w porównaniu do podobnych
+okresów przed wystąpieniem naruszenia (…)”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 8 z 58
+
+Bardziej szczegółowe wyjaśnienia w tym zakresie złożył Podmiot przetwarzający. W
+piśmie z 14 grudnia 2021 r. oświadczył on, że jego zdaniem „(…) dane nie zostały wykra‐
+dzione ani odczytane a także nie utracono poufności danych osobowych. Charakter zło‐
+śliwego oprogramowania wskazuje na szyfrowanie danych niekoniecznie w celu ich wy‐
+kradzeniu lub odczytaniu, lecz wyłudzenie okupu. Świadczy o tym wpis dotyczący wpłaty
+na podane konto bitcoinów (…)”.
+Organ nadzorczy zwrócił się do Wójta z zapytaniem, czy dokonano analizy logów syste‐
+mowych w celu ustalenia, czy doszło do pobrania danych przez osobę/osoby nieupraw‐
+nione. Wójt w piśmie z 12 stycznia 2022 r. wskazał, że „(…) badanie wykonywane było
+przez firmę M. (…) z Z. na podstawie artefaktów. Niemożliwe było przeprowadzenie ba‐
+dania na podstawie dziennika zdarzeń, ponieważ atakujący wyczyścili dzienniki (rys. 1,
+str. 5 Protokołu). W trakcie badania nie ujawniono śladów eksfiltracji danych (pkt. 5
+Protokołu) (…)”.
+Organ nadzorczy skierował do Wójta zapytanie, czy ten zwrócił się do dostawcy Internetu
+o udzielenie informacji, czy w dniach wystąpienia zdarzenia został odnotowany transfer
+danych świadczący o możliwości pobrania danych przez osobę/osoby nieuprawnione.
+Wójt w piśmie z 12 stycznia 2022 r. wskazał, że dostawca Internetu przekazał taką infor‐
+mację firmie specjalistycznej, która na jego zlecenie zajmowała się odszyfrowywaniem
+serwerów. Ponadto, Wójt dostarczył kopię swojej korespondencji z dostawcą Internetu (email z 5 stycznia 2022 r. i 12 stycznia 2022 r.), w której wskazano „(…) w tych dniach je‐
+dynie odnotowaliśmy połączenia [logi otrzymała firma przywracająca Waszą sieć do dzia‐
+łania]. Jak pamiętam rozmawialiśmy z pracownikami tej firmy, nie mogło dojść do zwięk‐
+szonej ilości przesyłanych danych, ponieważ Urząd Gminy K. nie posiada wielkich baz
+danych. Jeśli nastąpił zwiększony transfer danych to był w ilościach niezauważalnych dla
+naszych systemów monitorujących przesyłanie danych – przesyłanie danych zwykłego
+użytkownika. Wszystkie potrzebne dane co do zaistniałej sytuacji posiada Wasza firma
+przywracająca dane (…)”.
+Prezes UODO zwrócił się do Wójta o wyjaśnienie, na jakiej podstawie uznał, że nie doszło
+do utraty poufności danych w wyniku zaistniałego incydentu bezpieczeństwa. W piśmie z
+4 lipca 2022 r. Wójt wskazał, że „(…) W wyniku działań podjętych przez instytucję specja‐
+listyczną [laboratorium informatyki śledczej] udało się odzyskać usunięte w dniu
+20.03.2021 r. o godzinie 10:36:01 wpisy z dzienników zdarzeń z przestrzeni nieprzydzie‐
+lonej zabezpieczonych obrazów (…) Ponadto, brak eksfiltracji danych osobowych po‐
+twierdzono także w oparciu o analizę danych transmisyjnych dostarczonych przez opera‐
+tora telekomunikacyjnego. W analizowanym okresie nie stwierdzono anomalii w zakresie
+transferu danych z sieci IT UG na zewnątrz, w porównaniu do podobnych okresów przed
+wystąpieniem naruszenia. Mając na uwadze powyższe potwierdzamy, że nie doszło od
+naruszenia poufności danych poprzez ich eksfiltrację, a szkodliwe oprogramowanie szy‐
+frujące dzięki szybkiej reakcji informatyka UG nie spowodowało zaszyfrowania
+pozostałych baz danych i stacji roboczych należących do UG (…)”. Na dowód powyższe‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 9 z 58
+
+go, Wójt przedstawił „Protokół z obsługi incydentu w Urzędzie Gminy K. oraz Gminnym
+Ośrodku Pomocy Społecznej w K.” z 6 maja 2021 r.
+
+IV. Ustalenie dotyczące środków bezpieczeństwa zastoso‐
+wanych po naruszeniu ochrony danych osobowych.
+Administrator przedłożył wyjaśnienia dotyczące działań naprawczych wdrożonych po na‐
+ruszeniu ochrony danych osobowych. W piśmie z 22 lipca 2024 r. wskazał on, że „(…)”.
+Wyjaśnienia w tym zakresie złożył także Podmiot przetwarzający. W piśmie z 8 września
+2021 r. wyjaśnił on, że „(…) Gmina K. w wyniku postępowania o zamówienie publiczne
+pn. «(…)», wybrała ofertę firmy: F. (…) Sp. z o.o. ul. (…), (…)-(…) D.. Przedmiot zamówie‐
+nia obejmuje dostawę i montaż nw. Urządzeń: (…). Wykonawca zobowiązał się do wyko‐
+nania usługi, dokonania uruchomienia urządzeń odbioru końcowego do końca września
+br. (…)”. Z kolei w piśmie z 14 grudnia 2021 r. Wójt wyjaśnił, że zamówione urządzenia i
+oprogramowanie są w trakcie montażu.
+
+V. Status Administratora i Podmiotu przetwarzającego.
+Administratorem naruszonych danych osobowych był GOPS, a Podmiotem przetwarzają‐
+cym te dane osobowe w imieniu Administratora był Wójt. Pierwotnie naruszenie ochrony
+danych osobowych zostało zgłoszone przez Wójta, a następnie 16 września 2022 r. naru‐
+szenie ochrony danych osobowych zgłosił GOPS. Po analizie wyjaśnień przedłożonych
+przez Wójta i GOPS ustalono status ww. podmiotów.
+Wójt przedłożył wyjaśnienia dotyczące jego relacji z GOPS w kontekście przedmiotowego
+naruszenia ochrony danych osobowych informując w piśmie z 31 sierpnia 2022 r., że
+„(…) 25 maja 2018 roku zawarł z Kierownikiem Gminnego Ośrodka Pomocy Społecznej,
+Porozumienie w sprawie nieodpłatnego udostępnienia infrastruktury informatycznej
+Urzędu na potrzeby prowadzenia działalności statutowej. Dnia 1 lutego 2022 r. zostało
+podpisane uzupełniające Porozumienie w zakresie wspólnego użytkowania infrastruktury
+informatycznej między Urzędem Gminy, a jednostką organizacyjną (…)”
+Wraz z ww. wyjaśnieniami Wójt przedłożył kopię ww. porozumień. W ich treści wskazano,
+że GOPS przysługuje status administratora danych, a Urzędowi Gminy K. reprezentowa‐
+nemu przez Wójta przynależny jest status podmiotu przetwarzającego. Celem zawarcia
+porozumień było ustalenie zasad korzystania przez GOPS z infrastruktury informatycznej
+Urzędu Gminy K. na potrzeby prowadzenia działalności statutowej. Porozumienia okre‐
+ślają zakres obowiązków Podmiotu przetwarzającego. Porozumienie zawarte przed wy‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 10 z 58
+
+stąpieniem naruszenia ochrony danych osobowych w części regulującej zobowiązania
+podmiotu przetwarzającego powtarza treść art. 28 ust. 3 rozporządzenia 2016/679.
+W piśmie z 4 lipca 2022 r. Wójt wyjaśnił, że „(…) powiadomił niezwłocznie GOPS o zda‐
+rzeniu i jego okolicznościach (…)”. Wraz z ww. pismem Podmiot przetwarzający przekazał
+„(…) kopię faktury VAT za wykonane usługi przez instytucję specjalistyczną (laborato‐
+rium informatyki śledczej), gdzie płatnikiem jest UG oraz GOPS - Załącznik nr (…) (…)”.
+Administrator przedstawił wyjaśnienia dotyczące weryfikacji Podmiotu przetwarzającego.
+W piśmie z 22 lipca 2024 r. GOPS wyjaśnił, że przed zawarciem umowy powierzenia da‐
+nych osobowych zweryfikował, czy Wójt wdrożył odpowiednie środków techniczne i orga‐
+nizacyjne, aby zapewnić zgodność z rozporządzeniem 2016/679 i ochronę praw osób,
+których dane dotyczą. Dodatkowe wyjaśnienia w tym zakresie Administrator zawarł w
+piśmie z 14 listopada 2024 r., w których wskazał, że „(…) zawarł z Podmiotem przetwa‐
+rzającym porozumienie dotyczące powierzenia przetwarzania danych osobowych, w któ‐
+rym określono obowiązki Podmiotu przetwarzającego i wymagany zakres ochrony, a Pod‐
+miot przetwarzający oświadczył, że spełnia te wymagania. Nadto, Administrator poddał
+analizie obowiązujące u Podmiotu przetwarzającego Politykę ochrony danych osobowych
+oraz inne dokumenty dotyczące bezpieczeństwa i ochrony danych, jednak - w uwagi na
+wyznaczenie wspólnego IODO - czynność ta nie została w żaden sposób
+udokumentowana (…)”.
+Wraz z pismem z 22 lipca 2024 r. Administrator przekazał „Protokół sprawdzenia po‐
+mieszczeń, w których będą przetwarzane dane osobowe Gminnego Ośrodka Pomocy
+Społecznej w K.”. Z tego dokumentu wynika, że kontrola została przeprowadzona 25
+maja 2018 r., a jej przedmiotem było sprawdzenie pomieszczeń, w których były
+przetwarzane dane osobowe. W omawianym dokumencie wskazano: „(…) Pomieszczenie
+w Urzędzie Gminy K., w którym będą przetwarzane dane osobowe zgodnie z zaplanowa‐
+nym porozumieniem spełnia wymagania ustawy z dnia 10 maja 2018 r. ochronie danych
+osobowych. Wójt Gminy K. opracował i wdrożył Politykę Bezpieczeństwa Przetwarzania
+Danych Osobowych. Dostęp do pomieszczenia mają osoby upoważnione przez Admini‐
+stratora Danych Osobowych. Serwery zabezpieczone są programami antywirusowymi
+(…)”.
+Pismem z 5 grudnia 2024 r. Prezes UODO zwrócił się do Administratora o wyjaśnienie,
+czy przed wystąpieniem naruszenia ochrony danych osobowych korzystał on z prawa
+kontroli, o którym mowa w art. 28 ust. 3 lit. h) rozporządzenia 2016/679, wobec Pomiotu
+przetwarzającego. W odpowiedzi na powyższe w piśmie z 11 grudnia 2024 r.
+Administrator wyjaśnił, że „(…) korzystał z prawa kontroli wobec Wójta Gminy K., w
+związku z zawartymi porozumieniami w zakresie wspólnego użytkowania infrastruktury
+informatycznej i powierzenia przetwarzania danych osobowych (…)”.
+Administrator przekazał organowi nadzorczemu protokoły wskazujące na datę i zakres
+przeprowadzonych przez niego czynności kontrolnych wobec Podmiotu
+przetwarzającego. W dokumencie o nazwie: „Protokół kontroli działań organizacyjnych
+stosowanych przez Wójta Gminy K. w związku z przetwarzaniem danych osobowych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 11 z 58
+
+Gminnego Ośrodka Pomocy Społecznej w K.” z 18 grudnia 2020 r. wskazano, że przed‐
+miotem kontroli było „(…) Sprawdzenie dokumentów i działań organizacyjnych stosowa‐
+nych przez Urząd Gminy K. w związku z przetwarzaniem danych osobowych zgodnie z
+zawartym dnia 25 maja 2018 r. porozumieniem z Urzędem Gminy K. dotyczącego wspól‐
+nego użytkowania infrastruktury między Urzędem Gminy a Gminnym Ośrodkiem Pomocy
+Społecznej w K. oraz powierzeniem przetwarzania danych osobowych (…)”.
+W przedłożonym protokole (dokument stanowi załącznik do pisma Administratora z 12
+grudnia 2024 r.) wskazano, że:
+–
+pomieszczenie w Urzędzie Gminy K., w którym przetwarzane są dane osobowe
+zgodnie z zawartym porozumieniem z dnia 25 maja 2018 r. spełnia wymagania
+ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2018 r. poz.
+1000),
+–
+Wójt opracował i wdrożył Politykę Bezpieczeństwa Informacji w Urzędzie Gminy K.
+Zarządzeniem (…) z dnia 25 maja 2018 r. oraz Instrukcję (…) Systemami
+Informatycznymi z dnia 25.05.2018 r.,
+–
+powołano Inspektora Ochrony Danych Osobowych (IOD), który nadzoruje przetwa‐
+rzanie danych osobowych w GOPS i Urzędzie Gminy, oraz przekazuje niezbędne in‐
+formacje dotyczące przepisów prawa i ochrony danych osobowych na stanowiskach
+pracy.
+–
+powołano Administratora Systemów Informatycznych (ASI),
+–
+dostęp do pomieszczeń posiadają osoby upoważnione przez Administratora Danych
+Osobowych, natomiast dostęp do pomieszczenia serwerowni posiada jedynie ASI,
+–
+prowadzona jest ewidencja osób upoważnionych do przetwarzania danych
+osobowych w GOPS i UG.
+Administrator przedstawił również dokumenty potwierdzające przeprowadzenie czynno‐
+ści kontrolnych wobec Podmiotu przetwarzającego, które zostały wykonane po wystąpie‐
+niu naruszenia ochrony danych osobowych. W dokumencie o nazwie: „Protokół
+sprawdzenia pomieszczeń, w których przetwarzane są dane osobowe Gminnego Ośrodka
+Pomocy Społecznej w K.” z 1 lutego 2022 r. wskazano, że przedmiotem kontroli było
+sprawdzenie pomieszczeń, w których przetwarzane były dane osobowe zgodnie z zawar‐
+tym porozumieniem z Urzędem Gminy K. dotyczącym wspólnego użytkowania infrastruk‐
+tury oraz powierzeniem przetwarzania danych osobowych.
+W treści protokołu wskazano, że:
+–
+pomieszczenie w Urzędzie Gminy K., w którym przetwarzane są dane osobowe
+zgodnie z zawartym porozumieniem z dnia 1 lutego 2022 r. spełnia wymagania
+ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych,
+–
+Wójt opracował i wdrożył Politykę Bezpieczeństwa Przetwarzania Danych
+Osobowych, powołał Inspektora Ochrony Danych Osobowych (IOD),
+–
+dostęp do pomieszczenia mają osoby upoważnione przez Administratora Danych
+Osobowych,
+–
+(…),
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+–
+–
+–
+
+Strona 12 z 58
+
+(…),
+Wójt powołał Administratora Systemu Informatycznego (ASI), który odpowiada za
+funkcjonowanie infrastruktury teleinformatycznej,
+kopie zapasowe wszystkich systemów wykonywane są każdego dnia w sposób
+automatyczny za pośrednictwem dedykowanego narzędzia.
+
+Administrator dostarczył ponadto „Protokół ze sprawdzenia pomieszczeń / stanowisk pra‐
+cy pod względem przestrzegania zasad ochrony danych osobowych” z 19 grudnia 2022
+r. oraz „Protokół ze sprawdzenia pomieszczeń / stanowisk pracy pod względem
+przestrzegania zasad ochrony danych osobowych” z 22 grudnia 2022 r. Celem kontroli
+oraz ich zakresem było zweryfikowanie „(…) przestrzegania zasad ochrony danych oso‐
+bowych w pomieszczeniach i na stanowiskach pracy, zgodnie z obowiązującymi
+przepisami prawa oraz wewnętrznymi regulacjami organizacji (…)”. Kontrolą z 19 grud‐
+nia 2022 r. objęto: „pokój nr (…) - Pomoc społeczna, świadczenia rodzinne, fundusz ali‐
+mentacyjny”, a kontrolą z 21 grudnia 2022 r.: „pokój nr (…)”.
+Jak wynika z ww. protokołów dziania kontrolne polegały na:
+–
+przeglądzie dokumentacji papierowej pod kątem właściwego przechowywania
+(szafki zamykane na klucz, segregatory z etykietami itp.),
+–
+sprawdzeniu przestrzegania zasad czystego biurka (brak pozostawionych
+dokumentów zawierających dane osobowe na biurkach),
+–
+weryfikacji dostępu do urządzeń elektronicznych (komputery, drukarki, skanery)
+oraz stosowania zabezpieczeń (hasła, blokady ekranu),
+–
+kontroli właściwego korzystania z nośników danych (pendrive'y, dyski zewnętrzne),
+–
+sprawdzeniu oznaczenia pomieszczeń i urządzeń zgodnie z polityką ochrony danych
+osobowych,
+–
+weryfikacji wiedzy pracowników na temat procedur związanych z ochroną danych
+osobowych.
+W pkt 4 protokołu z kontroli z 19 grudnia 2022 r. (Wyniki kontroli), wskazano: „(…) Na
+podstawie przeprowadzonych rozmów z pracownikami, obserwacji oraz zbadanej doku‐
+mentacji należy stwierdzić, że pracownicy prawidłowo przestrzegają zasad ochrony da‐
+nych osobowych. Kontrola wykazała, że ogólne zasady ochrony danych osobowych są
+przestrzegane, jednak brak hasła na jednym ze stanowisk pracy stanowi poważne zagro‐
+żenie dla bezpieczeństwa danych. Należy natychmiast wprowadzić odpowiednie środki
+zaradcze (…)”.
+W pkt 4 protokołu z kontroli z 22 grudnia 2022 r. (Wyniki kontroli), wskazano: „(…) Na
+podstawie przeprowadzonych rozmów z pracownikiem, obserwacji oraz zbadanej doku‐
+mentacji należy stwierdzić, że pracownik prawidłowo przestrzega zasad ochrony danych
+osobowych. Kontrola wykazała, że ogólne zasady ochrony danych osobowych są
+przestrzegane (…)”.
+Kolejną kontrolę Administrator przeprowadził 19 grudnia 2023 r. Z protokołu kontroli wy‐
+nika, że jej zakres był tożsamy z zakresem kontroli przeprowadzonej 1 lutego 2022 r. Wy‐
+niki kontroli z 19 grudnia 2023 r. w istocie są zbieżne z wynikami kontroli z 1 lutego 2022
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 13 z 58
+
+r., z tą różnicą, że w protokole z 19 grudnia 2023 r. wskazano dodatkowo, że „(…) Inspek‐
+tor Ochrony Danych Osobowych dla pracowników Urzędu Gminy i Gminnego Ośrodka Po‐
+mocy Społecznej w K. raz w roku lub zgodnie z potrzebami przeprowadza szkolenia z za‐
+kresu ochrony danych osobowych, aktualizacji i zmiany przepisów prawnych. Ponadto
+Pracownicy zostali zobowiązani do samokształcenia i posiadania bieżącej wiedzy z
+zakresu ochrony danych osobowych na zajmowanych stanowiskach (…)”.
+
+VI. Ustalenia dotyczące analizy ryzyka przeprowadzonej
+przez Administratora i Podmiot przetwarzający.
+Administrator i Podmiot przetwarzający przekazali Prezesowi UODO wyjaśnienia dotyczą‐
+ce analizy ryzyka przeprowadzonej przed oraz po wystąpieniu naruszenia ochrony
+danych osobowych.
+Wraz z pismem z 14 listopada 2024 r. Administrator dostarczył analizę ryzyka
+przeprowadzoną w styczniu 2019 r. W „Tabeli szacowania ryzyka” zidentyfikowano mię‐
+dzy innymi ryzyko określone jako „Zaszyfrowanie danych”. Poziom tego ryzyka określono
+na 12, co zgodnie z metodologią przyjętą przez Administratora oznacza, że ryzyko było
+akceptowalne. Jednocześnie Administrator wyjaśnił, że „(…) Przed wystąpieniem naru‐
+szenia Administrator przeprowadził analizę ryzyka, w której określono analizę ryzyka za‐
+szyfrowania, nie określono natomiast zaszyfrowania oprogramowaniem ransomware
+(…)” [por. pismo z 22 lipca 2024 r.].
+Po wystąpieniu naruszenia ochrony danych osobowych GOPS również przeprowadził ana‐
+lizę ryzyka, która została wykonana 9 grudnia 2021 r. (GOPS przekazał dokument po‐
+twierdzający jej przeprowadzenie wraz z pismem z 22 lipca 2024 r.). W „Tabeli szacowa‐
+nia ryzyka” zidentyfikowano między innymi ryzyko określone jako „Zaszyfrowanie da‐
+nych”. Poziom tego ryzyka określono na 12, co zgodnie z metodologią przyjętą przez
+Administratora oznacza, że ryzyko było akceptowalne.
+Analizę ryzyka przeprowadził również Podmiot przetwarzający. Wraz z pismem z 14 grud‐
+nia 2021 r. przekazał analizę ryzyka wykonaną przed wystąpieniem naruszenia ochrony
+danych osobowych. Jednocześnie w piśmie z 12 stycznia 2022 r. Wójt wyjaśnił, że w ta‐
+beli szacowania ryzyka nie uwzględnił ryzyka zaszyfrowania danych złośliwym oprogra‐
+mowaniem typu ransomware oraz zadeklarował, że tabela zostanie uzupełniona o
+postanowienie, które uwzględni to ryzyko.
+W analizie ryzyka przeprowadzonej 28 stycznia 2022 r. (tj. po wystąpieniu naruszenia
+ochrony danych osobowych) Wójt uwzględnił ryzyko związane z zaszyfrowaniem danych
+(dokument został przekazany Prezesowi UODO wraz z pismem z 1 lutego 2022 r.).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 14 z 58
+
+VII. Ustalenia dotyczące środków organizacyjnych i tech‐
+nicznych wdrożonych przez Administratora w celu zapew‐
+nienia adekwatnego poziomu bezpieczeństwa w procesie
+przetwarzania danych osobowych
+W formularzu „Zgłoszenia naruszenia ochrony danych osobowych” Administrator opisał
+środki techniczne i organizacyjne mające zapewniać bezpieczeństwo w procesie prze‐
+twarzania danych osobowych, które zostały wdrożone przed wystąpieniem incydentu
+bezpieczeństwa. W pkt 9A formularza zgłoszenia naruszenia ochrony danych osobowych
+wskazał on następujące środki: „(…) Polityka (…), wyznaczenie Inspektora Ochrony Da‐
+nych GOPS w K. oraz Administratora Systemów Informatycznych w podmiocie przetwa‐
+rzającym - Urzędzie Gminy K.. (…). Pracownicy GOPS w K. posiadali upoważnienia do
+przetwarzania danych osobowych oraz podpisali oświadczenia zobowiązujące do zacho‐
+wania w poufności danych osobowych oraz sposobów ich zabezpieczenia. Zawarto poro‐
+zumienie z Urzędem Gminy w K. w zakresie udostępnienia zasobów informatycznych
+Gminy, w tym poczty elektronicznej na potrzeby działalności GOPS. Porozumienie zawie‐
+rało zapisy dotyczące powierzenia przetwarzania danych osobowych w związku z obsłu‐
+gą GOPS przez Urząd Gminy K.. Ponadto stosowane były zabezpieczenia wdrożone przez
+Urząd Gminy K., jako podmiot przetwarzający dane osobowe (…)”.
+Wyjaśnienia w omawianym zakresie złożył także Wójt. W piśmie z 14 grudnia 2021 r.
+wskazał, że nie stosował innych środków technicznych poza oprogramowaniem antywiru‐
+sowym na stacjach roboczych. Prezes UODO zwrócił się do Wójta z zapytaniem, dlaczego
+nie stosował on innych środków technicznych i organizacyjnych poza programami anty‐
+wirusowymi w celu zapewnienia odpowiedniej ochrony danych osobowych. W piśmie z 4
+lipca 2022 r. Wójt wyjaśnił, że „(…) głównym powodem był brak środków finansowych w
+budżecie UG, jak również przekonanie, że pracownik realizujący zadania w zakresie
+utrzymania infrastruktury informatycznej UG stosuje optymalne rozwiązania techniczne i
+organizacyjne. Zgodnie z ustaleniami z wywiadu audytowego przeprowadzonego z pra‐
+cownikami UG dwukrotnie przez G. sp. j. z K. wynika, że: posiadamy Politykę Bezpieczeń‐
+stwa Informacji oraz Instrukcję Zarządzania Systemem Informatycznym, posiadamy in‐
+wentaryzację aktów teleinformatycznych, nadawane są uprawnienia do systemów IT
+zgodnie z instrukcją, przeprowadziliśmy szkolenia w zakresie ochrony informacji, konta
+użytkowników chronione są hasłami, pracownicy mają służbowe konta e-mail i są świa‐
+domi, że nie można ich wykorzystywać do celów prywatnych, stosowane jest szyfrowa‐
+nie danych przesyłanych pocztą elektroniczną, został wyznaczony Inspektor Ochrony
+Danych (…)”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 15 z 58
+
+W toku niniejszego postępowania ustalono, że oprogramowaniem serwera był X. (…)
+wraz z oprogramowaniem Y. (…) [por. pismo z 4 lipca 2022 r.]. Ponadto, w piśmie z 31
+sierpnia 2022 r. Wójt doprecyzował, że było to oprogramowanie X. (…).
+
+VIII. Ustalenia dotyczące zasad regularnego testowania,
+mierzenia i oceniania skuteczności środków technicznych
+i organizacyjnych mających zapewnić bezpieczeństwo
+przetwarzania danych osobowych
+W piśmie z 14 listopada 2024 r. Administrator wyjaśnił, że „(…) dokonywał i wciąż doko‐
+nuje regularnego testowania, mierzenia i oceniania skuteczności środków technicznych i
+organizacyjnych, które miały i mają zapewnić bezpieczeństwo przetwarzania danych
+osobowych w związku z powierzeniem przetwarzania tych danych Wójtowi Gminy.
+Uwzględniając stan wiedzy technicznej, koszt wdrożenia oraz charakter, zakres, kontekst
+i cele przetwarzania danych osobowych działania w tym zakresie skupiają się w obrębie
+czynności dotyczących testowania środków organizacyjnych i obejmują: (…)”. Jednocze‐
+śnie Administrator wyjaśnił, że „(…)”.
+Wyjaśnienia dotyczące zasad – obowiązujących przed wystąpieniem naruszenia ochrony
+danych osobowych – dokonywania regularnego testowania, mierzenia i oceniania sku‐
+teczności środków technicznych i organizacyjnych mających zapewnić bezpieczeństwo
+przetwarzanych danych osobowych w systemach informatycznych objętych naruszeniem
+przedstawił także Podmiot przetwarzający. W piśmie z 14 grudnia 2021 r. Wójt wskazał,
+że „(…) nie stosowano testowania mierzenia i oceniania systemów informatycznych,
+które zapewniłyby bezpieczne przetwarzanie danych (…)”.
+W tym zakresie Wójt przedstawił dodatkowe wyjaśnienia w piśmie z 4 lipca 2022 r., w
+którym wskazał, że „(…) Ze względu na bardzo ograniczone środki budżetowe UG, kwe‐
+stie bezpieczeństwa i utrzymania infrastruktury informatycznej, zostały delegowane de‐
+dykowanemu pracownikowi zatrudnionemu na stanowisku Inspektora ds. (…), który miał
+informować Wójta o wszelkich potrzebach w tym zakresie. W związku z tragiczną śmier‐
+cią wyżej wskazanego pracownika, na dzień udzielania odpowiedzi Prezesowi UODO nie
+sposób odtworzyć wszystkich okoliczności związanych z procesem obsługi infrastruktury
+informatycznej UG, w tym podejmowanych działań w zakresie zabezpieczenia narzędzi
+informatycznych. Mając na uwadze, że województwo (…), przyznać należy, że powstałe
+niedociągnięcia wynikają z próby pogodzenia interesów różnych, często sprzecznych ze
+sobą interesariuszy. Stając przed dylematem czy przeznaczyć środki na pomoc najuboż‐
+szym mieszkańcom Gminy, czy na modernizację infrastruktury IT, nie trudno ulec poku‐
+sie, że potrzeby informatyczne muszą poczekać, co prowadzić może do incydentu bez‐
+pieczeństwa. Ustawodawca deleguje obowiązki, ale nie wskazuje źródeł finansowania, a
+w efekcie dochodzi do dysonansu poznawczego pomiędzy tym do czego jestem zobowią‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 16 z 58
+
+zany ustawowo, a tym co jestem w stanie zrobić. Mierzenie i ocenianie skuteczności
+środków technicznych i organizacyjnych mających zapewnić bezpieczeństwo przetwarza‐
+nych danych osobowych w systemach informatycznych opierało się wyłącznie na prze‐
+prowadzaniu podstawowych analiz ryzyka oraz wiedzy i doświadczeniu dedykowanego
+pracownika, zajmującego się obsługą IT w UG (…)”.
+Wójt przedstawił również wyjaśnienia dotyczące zasad regularnego testowania, mierze‐
+nia i oceniania skuteczności środków technicznych i organizacyjnych mających zapewnić
+bezpieczeństwo przetwarzanych danych osobowych w systemach informatycznych, któ‐
+re zostały zmienione po wystąpieniu przedmiotowego naruszenia. W piśmie z 4 lipca
+2022 r. Wójt wskazał, że „(…) w związku z wdrożeniem, po wystąpieniu naruszenia
+ochrony danych osobowych w Urzędzie Gminy w K. [dalej: «UG»] krótko, średnio i długo‐
+terminowych działań naprawczych podjęto decyzję o gruntownej przebudowie infrastruk‐
+tury sieciowej UG oraz stosowanych zabezpieczeniach, zgodnie z rozwiązaniami i zaleca‐
+nymi stosowanymi przez Departament Cyfryzacji KPRM oraz wskazanymi przez eksper‐
+tów zakresie zabezpieczania sieci IT oraz cyberbezpieczeństwa. Dogłębnie zmodernizo‐
+wano serwerownię oraz infrastrukturę sieciową wraz z urządzeniami zabezpieczającymi
+ruch sieciowy. Ze względu na zakres prac i występujące trudności obiektywne, związane
+z przerwaniem łańcuchów dostaw elementów infrastruktury IT, a spowodowane wystą‐
+pieniem epidemii SARS-CoV-2 oraz wojną na Ukrainie, nie wszystkie prace na dzień
+udzielenia Prezesowi UODO odpowiedzi zdołano ukończyć w pełni. Wszystkie pozostałe
+etapy prac są jednak zaplanowane i raportowane wprost do Wójta. Na dowód czego
+przekazujemy plan prac (…) od momentu wystąpienia naruszenia ochrony danych oso‐
+bowych w UG podejmowane są systematyczne działania mające na celu mierzenie i oce‐
+nianie skuteczności środków technicznych i organizacyjnych służących zabezpieczeniu
+danych osobowych przetwarzanych z wykorzystaniem systemów informatycznych UG. W
+szczególności należy wskazać, że Wójt UG zlecił zewnętrznemu, profesjonalnemu pod‐
+miotowi (…) przeprowadzenie szczegółowego audytu bezpieczeństwa informacji w tutej‐
+szym urzędzie. Audyt został przeprowadzony w dniach 21-29.07.2021 r., (…) Wójt w
+styczniu 2022 r. ponownie zlecił przeprowadzenie audytu bezpieczeństwa Informacji, w
+tym przetwarzanych w systemach informatycznych UG, na dowód czego przesyłamy
+treść Raportu z Audytu Bezpieczeństwa Informacji w Urzędzie Gminy w K. przeprowadzo‐
+nego w dniach 20-22.01.2022 (…) Zalecenia poaudytowe zostały zrealizowane zgodnie z
+informacją przesłaną przez tutejszy UG do Prezesa UODO pismem z dnia 20 maja 2022 r.
+(…) Ponadto Administrator [tzn. Wójt – uwaga organu nadzorczego] przeprowadził aktu‐
+alizację analizy ryzyka dla przetwarzań danych osobowych dokonywanych w systemach
+informatycznych UG (…) W zakresie wniosku z przeprowadzonej analizy ryzyka wskazu‐
+jącego na konieczność natychmiastowej redukcji ryzyka w odniesieniu do podatności po‐
+legającej na wykorzystywaniu współdzielonego serwera aplikacyjnego przez UG oraz
+Gminny Ośrodek Pomocy Społecznej, dochowując należytej staranności, pozyskano do‐
+datkową opinię eksperta z Instytutu (…) w K.. Z opinii jednoznacznie wynika, że serwer
+ten (…). (…) Systematyczna weryfikacja bezpieczeństwa przetwarzania danych osobo‐
+wych w infrastrukturze IT UG, sprawdzana jest także na bieżąco przez uprawnionego
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 17 z 58
+
+pracownika UG (…) Po zakończeniu prac modernizacyjnych w infrastrukturze IT UG, w
+pełni zostanie wdrożony system automatycznej walidacji (komunikat przesyłany do Ad‐
+ministratora Systemów Informatycznych) (dalej: (…)) anomalii występujących w sieci in‐
+formatycznej UG oraz z generowanymi raportami bezpieczeństwa sieci za poszczególne
+przyjęte okresy, w oparciu o rozwiązanie V. (…). Mając na uwadze powyższe, potwierdza‐
+my, że jako Administrator [tzn. Wójt – uwaga organu nadzorczego], dokonujemy regular‐
+nego testowania, mierzenia i oceniania technicznych i organizacyjnych środków
+zabezpieczenia danych (…)”.
+
+IX. Ustalenia dotyczące zgłoszenia organowi nadzorcze‐
+mu naruszenia ochrony danych osobowych z 23 marca
+2021 r.
+W związku z faktem, że naruszenie ochrony danych osobowych zostało w pierwszej ko‐
+lejności przekazane organowi nadzorczemu przez Podmiot przetwarzający, Prezes UODO
+zwrócił się do Administratora o wskazanie, czy przed wystąpieniem tego naruszenia Ad‐
+ministrator upoważnił Podmiot przetwarzający do zgłaszania Prezesowi UODO naruszeń
+ochrony danych osobowych oraz do zawiadamiania osób, które dane osobowe zostały
+naruszone.
+W piśmie z 15 stycznia 2025 r. Administrator wyjaśnił, że przed wystąpieniem naruszenia
+ochrony danych osobowych nie upoważnił Wójta do zgłaszania Prezesowi UODO naru‐
+szeń ochrony danych osobowych oraz do zawiadamiania osób, których dane osobowe
+zostały naruszone. Jednocześnie wskazał, że „(…) Kierownik Administratora został za‐
+pewniony przez IODO, że zgłoszenie naruszenia danych osobowych z dnia 26 marca
+2021 r. wypełnia obowiązek z art. 33 RODO, tak w stosunku do Urzędu Gminy, jak i do
+GOPS. Niezwłocznie po powzięciu wiedzy, że w ocenie UODO koniecznym jest odrębne
+zgłoszenie od Administratora, Administrator wypełnił swój obowiązek. Odnosząc się do
+kwestii możliwości naruszenia art. 33 RODO Administrator podnosi, że działał z najwyż‐
+szą starannością, w porozumieniu z IODO, który zapewniał profesjonalne wsparcie w za‐
+kresie ochrony danych osobowych. Kierownik Administratora nie miał podstaw, by kwe‐
+stionować decyzje i rekomendacje wydane przez IODO w zakresie obsługi incydentu.
+Działał w tym zakresie w pełnym zaufaniu do IODO (…) Jednocześnie Administrator nie‐
+zwłocznie dostosowywał się do wskazań tut. Urzędu w zakresie, w jakim prawidłowość
+działań IOD została podważona przez Urząd (…) Administrator niezwłocznie – zgodnie ze
+swoją najlepszą wiedzą i stanowiskiem wypracowanym wspólnie z Wójtem, IODO i obsłu‐
+gą informatyczną – zawiadomił o zdarzeniu tut. Urząd, jak również organy powołane do
+walki z cyberprzestępczością (…)”.
+Organ nadzorczy dokonał oceny materiału dowodowego pod kątem zbadania jego wiary‐
+godności i mocy dowodowej. Prezes UODO uznał dowody przedłożone przez Administra‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 18 z 58
+
+tora i Podmiot przetwarzający za wiarygodne. Za powyższym przemawia fakt, że ich wy‐
+jaśnienia są logiczne, spójne, zgodne z całością materiału dowodowego oraz wzajemnie
+się uzupełniają, a ich wiarygodność została dodatkowo potwierdzona dokumentami do‐
+starczonymi przez wskazane podmioty. Z uwagi na stosunek prawny łączący GOPS i Wój‐
+ta, wynikający zarówno z faktu zawarcia umowy powierzenia przetwarzania danych oso‐
+bowych, jak i z faktu, że GOPS jest jednostką organizacyjną gminy, a także ze względu
+na spójność wyjaśnień tych podmiotów, organ nadzorczy uznał za zbędne odbieranie do‐
+datkowych wyjaśnień od Administratora, jeżeli istotne w sprawie fakty zostały już ustalo‐
+ne na podstawie dowodów przekazanych przez Podmiot przetwarzający. Strony niniejsze‐
+go postępowania administracyjnego zostały przed wydaniem przedmiotowej decyzji po‐
+informowane o przysługujących im uprawnieniach wynikających z art. 10 § 1 oraz art. 73
+§ 1 Kpa[1], w tym o możliwości zapoznania się z materiałem dowodowym, wypowiedze‐
+nia się co do zebranych dowodów, materiałów i zgłoszonych żądań, a także o prawie
+przeglądania akt sprawy oraz sporządzania z nich notatek, kopii lub odpisów.
+Po otrzymaniu pisma Prezesa UODO o zebraniu materiału dowodowego wystarczającego
+do wydania decyzji administracyjnej, Administrator oraz Podmiot przetwarzający przeka‐
+zali pismami z 24 i 25 marca 2025 r. swoje końcowe stanowiska w sprawie, które w
+istocie stanowią podsumowanie dotychczas złożonych wyjaśnień.
+
+W Tym Stanie FaktycznymPo Zapoznaniu Się Z Całością
+Zgromadzonego W Sprawie Materiału DowodowegoPre‐
+zes Urzędu Ochrony Danych Osobowych ZważyłCo Nastę‐
+puje
+Na wstępie należy wskazać, że w przedmiotowej sprawie administratorem danych jest
+GOPS, bowiem – zgodnie z art. 4 pkt 7) rozporządzenia 2016/679 – „administrator” ozna‐
+cza osobę fizyczną lub prawną, organ publiczny, jednostkę lub inny podmiot, który sa‐
+modzielnie lub wspólnie z innymi ustala cele i sposoby przetwarzania danych osobo‐
+wych; jeżeli cele i sposoby takiego przetwarzania są określone w prawie Unii lub w pra‐
+wie państwa członkowskiego, to również w prawie Unii lub w prawie państwa członkow‐
+skiego może zostać wyznaczony administrator lub mogą zostać określone konkretne kry‐
+teria jego wyznaczania. Z kolei Wójt posiada w przedmiotowej sprawie status podmiotu
+przetwarzającego. Zgodnie z 4 pkt 8) rozporządzenia 2016/679, „podmiot przetwarzają‐
+cy” oznacza osobę fizyczną lub prawną, organ publiczny, jednostkę lub inny podmiot,
+który przetwarza dane osobowe w imieniu administratora. Status ww. podmiotów i ich
+wzajem‐
+ną relację potwierdza zgromadzony materiał dowodowy, w szczególności zawarte „Poro‐
+zumienie w sprawie nieodpłatnego udostępnienia infrastruktury informatycznej Urzędu
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 19 z 58
+
+na potrzeby prowadzenia działalności statutowej z 25 maja 2018 r.” (por. pkt V uzasad‐
+nienia faktycznego).
+Zgodnie z art. 34 u.o.d.o.[2], Prezes UODO jest organem właściwym w sprawie ochrony
+danych i organem nadzorczym w rozumieniu rozporządzenia 2016/679. Stosownie do
+art. 57 ust. 1 lit. a) i h) rozporządzenia 2016/679, bez uszczerbku dla innych zadań okre‐
+ślonych na mocy tego rozporządzenia, każdy organ nadzorczy na swoim terytorium mo‐
+nitoruje i egzekwuje stosowanie niniejszego rozporządzenia oraz prowadzi postępowania
+w sprawie naruszenia niniejszego rozporządzenia, w tym na podstawie informacji otrzy‐
+manych od innego organu nadzorczego lub innego organu publicznego.
+
+I. Zasady bezpieczeństwa przetwarzania danych osobo‐
+wych.
+Art. 5 rozporządzenia 2016/679 formułuje zasady dotyczące przetwarzania danych oso‐
+bowych, które muszą być respektowane przez wszystkich administratorów, tj. podmioty,
+które samodzielnie lub wspólnie z innymi ustalają cele i sposoby przetwarzania danych
+osobowych. Zgodnie z art. 5 ust. 1 lit. f) rozporządzenia 2016/679, dane osobowe muszą
+być przetwarzane w sposób zapewniający odpowiednie bezpieczeństwo danych osobo‐
+wych, w tym ochronę przed niedozwolonym lub niezgodnym z prawem przetwarzaniem
+oraz przypadkową utratą, zniszczeniem lub uszkodzeniem, za pomocą odpowiednich
+środków technicznych lub organizacyjnych („poufność i integralność”). Stosownie zaś do
+art. 5 ust. 2 rozporządzenia 2016/679, administrator jest odpowiedzialny za przestrzega‐
+nie przepisów ust. 1 i musi być w stanie wykazać ich przestrzeganie („rozliczalność”).
+Zgodnie z art. 24 ust. 1 rozporządzenia 2016/679, uwzględniając charakter, zakres, kon‐
+tekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o
+różnym prawdopodobieństwie i wadze, administrator wdraża odpowiednie środki tech‐
+niczne i organizacyjne, aby przetwarzanie odbywało się zgodnie z niniejszym rozporzą‐
+dzeniem i aby móc to wykazać. Środki te są w razie potrzeby poddawane przeglądom i
+uaktualniane. Charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia
+praw lub wolności osób fizycznych o różnym prawdopodobieństwie i wadze są czynnika‐
+mi, które administrator ma obowiązek uwzględniać w procesie budowania systemu
+ochrony danych, szczególnie z punktu widzenia pozostałych obowiązków wskazanych w
+art. 25 ust. 1, art. 32 ust. 1 czy art. 32 ust. 2 rozporządzenia 2016/679. Przepisy te
+uszczegóławiają zasadę poufności określoną w art. 5 ust. 1 lit. f) rozporządzenia
+2016/679, a przestrzeganie tej zasady jest konieczne dla prawidłowej realizacji zasady
+rozliczalności wynikającej z art. 5 ust. 2 rozporządzenia 2016/679.
+W myśl z art. 25 ust. 1 rozporządzenia 2016/679, uwzględniając stan wiedzy technicznej,
+koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naru‐
+szenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpienia i
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 20 z 58
+
+wadze wynikające z przetwarzania, administrator – zarówno przy określaniu sposobów
+przetwarzania, jak i w czasie samego przetwarzania – wdraża odpowiednie środki tech‐
+niczne i organizacyjne, takie jak pseudonimizacja, zaprojektowane w celu skutecznej re‐
+alizacji zasad ochrony danych, takich jak minimalizacja danych, oraz w celu nadania
+przetwarzaniu niezbędnych zabezpieczeń, tak by spełnić wymogi niniejszego
+rozporządzenia oraz chronić prawa osób, których dane dotyczą.
+Art. 32 ust. 1 rozporządzenia 2016/679 stanowi, że uwzględniając stan wiedzy technicz‐
+nej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko
+naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpie‐
+nia i wadze, administrator i podmiot przetwarzający wdrażają odpowiednie środki tech‐
+niczne i organizacyjne, aby zapewnić stopień bezpieczeństwa odpowiadający temu ryzy‐
+ku, w tym między innymi w stosownym przypadku: a) pseudonimizację i szyfrowanie da‐
+nych osobowych; b) zdolność do ciągłego zapewnienia poufności, integralności, dostęp‐
+ności i odporności systemów i usług przetwarzania; c) zdolność do szybkiego przywróce‐
+nia dostępności danych osobowych i dostępu do nich w razie incydentu fizycznego lub
+technicznego; d) regularne testowanie, mierzenie i ocenianie skuteczności środków tech‐
+nicznych i organizacyjnych mających zapewnić bezpieczeństwo przetwarzania.
+W myśl art. 32 ust. 2 rozporządzenia 2016/679, administrator oceniając, czy stopień bez‐
+pieczeństwa jest odpowiedni, uwzględnia w szczególności ryzyko wiążące się z przetwa‐
+rzaniem, w szczególności wynikające z przypadkowego lub niezgodnego z prawem znisz‐
+czenia, utraty, modyfikacji, nieuprawnionego ujawnienia lub nieuprawnionego dostępu
+do danych osobowych przesyłanych, przechowywanych lub w inny sposób przetwarza‐
+nych.
+
+II. Zarządzanie ryzykiem naruszenia ochrony danych oso‐
+bowych. Naruszenie art. 5 ust. 1 lit. f), art. 24 ust. 1, art.
+25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679.
+Jedną z podstaw prawnej ochrony danych osobowych wprowadzoną rozporządzeniem
+2016/679 jest obowiązek zapewnienia bezpieczeństwa przetwarzanych danych, określo‐
+ny między innymi w przytoczonym powyżej art. 32 ust. 1 rozporządzenia 2016/679. Pod‐
+kreślić należy, że rozporządzenie 2016/679 wprowadziło podejście, w którym zarządza‐
+nie ryzykiem jest fundamentem działań związanych z ochroną danych osobowych i ma
+charakter ciągłego procesu. Obok ryzyka naruszenia praw lub wolności osób fizycznych
+należy także uwzględnić stan wiedzy technicznej, koszt wdrażania oraz charakter,
+zakres, kontekst i cele przetwarzania.
+Ustalenie odpowiednich środków technicznych i organizacyjnych jest procesem dwueta‐
+powym. W pierwszej kolejności istotnym jest określenie poziomu ryzyka, jakie wiąże się z
+przetwarzaniem danych osobowych uwzględniając przy tym kryteria wskazane w art. 32
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 21 z 58
+
+ust. 1 rozporządzenia 2016/679, a następnie dobór takich środków technicznych i organi‐
+zacyjnych, które zapewnią odpowiedni poziom bezpieczeństwa względem tego ryzyka.
+W stosownych przypadkach należy wdrożyć takie środków jak pseudonimizacja i szyfro‐
+wanie danych osobowych, zdolność do ciągłego zapewnienia poufności, integralności,
+dostępności i odporności systemów i usług przetwarzania, zdolność do szybkiego przy‐
+wrócenia dostępności danych osobowych i dostępu do nich w razie incydentu fizycznego
+lub technicznego oraz regularne testowanie, mierzenie i ocenianie skuteczności środków
+technicznych i organizacyjnych mających zapewnić bezpieczeństwo przetwarzania. Na
+konieczność wdrożenia odpowiednich środków bezpieczeństwa wskazuje także art. 24
+ust. 1 oraz art. 25 ust. 1 rozporządzenia 2016/679.
+Podmiot, który przetwarza dane osobowe, zobligowany jest nie tylko do zapewnienia
+zgodności z wytycznymi ww. rozporządzenia poprzez jednorazowe wdrożenie organiza‐
+cyjnych i technicznych środków bezpieczeństwa, ale również do zapewnienia ciągłości
+monitorowania poziomu zagrożeń oraz zapewnienia rozliczalności w zakresie poziomu
+oraz adekwatności wprowadzonych zabezpieczeń. Oznacza to, że koniecznością staje się
+możliwość udowodnienia przed organem nadzorczym, że wprowadzone rozwiązania, ma‐
+jące na celu zapewnienie bezpieczeństwa danych osobowych, są adekwatne do poziomu
+ryzyka, jak również uwzględniają charakter danej organizacji oraz wykorzystywanych
+mechanizmów przetwarzania danych osobowych. Administrator samodzielnie ma prze‐
+prowadzić szczegółową analizę prowadzonych procesów przetwarzania danych i dokonać
+oceny ryzyka, a następnie zastosować takie środki i procedury, które będą adekwatne
+do oszacowanego ryzyka. Konsekwencją takiej orientacji jest rezygnacja z list wymagań,
+w zakresie bezpieczeństwa narzuconych przez prawodawcę, na rzecz samodzielnego do‐
+boru zabezpieczeń w oparciu o analizę zagrożeń. Administratorom nie wskazuje się
+konkretnych środków i procedur w zakresie bezpieczeństwa.
+W świetle powyższego wskazać należy, że przeprowadzona analiza ryzyka powinna zo‐
+stać udokumentowana oraz uzasadniona na podstawie przede wszystkim określenia sta‐
+nu faktycznego, istniejącego w momencie jej przeprowadzania. Należy wziąć pod uwagę
+w szczególności charakterystykę zachodzących procesów, aktywa, podatności, zagroże‐
+nia oraz istniejące zabezpieczenia, w ramach zachodzących procesów przetwarzania da‐
+nych osobowych. Nie można również w trakcie tego procesu pominąć zakresu oraz cha‐
+rakteru danych osobowych przetwarzanych w toku realizowanych czynności, albowiem w
+zależności właśnie od zakresu oraz charakteru ujawnionych danych zależeć będą poten‐
+cjalne negatywne skutki dla osoby fizycznej w przypadku wystąpienia naruszenia
+ochrony jej danych osobowych.
+Aby analiza ryzyka została przeprowadzona w sposób właściwy, winny być zdefiniowane
+dla każdego z aktywów zagrożenia, mogące wystąpić w procesach przetwarzania da‐
+nych.
+Określenie aktywa używane jest dla wskazania wszystkiego, co stanowi wartość dla ad‐
+ministratora danych. Pewne aktywa stanowić będą wartość wyższą od innych, i również
+z tej perspektywy winny być oceniane i zabezpieczane. Bardzo istotne są również wza‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 22 z 58
+
+jemne powiązania występujących aktywów, np. poufność aktywów (danych osobowych)
+zależna będzie od rodzaju i sposobu przetwarzania tych danych. Ustalenie wartości akty‐
+wów jest konieczne do oszacowania skutków ewentualnego incydentu (naruszenia ochro‐
+ny danych osobowych). Jest oczywistym, że szeroki zakres danych osobowych lub prze‐
+twarzanie danych osobowych, o których mowa w art. 9 ust. 1 lub art. 10 rozporządzenia
+2016/679, może spowodować (w przypadku wystąpienia naruszenia ochrony danych
+osobowych) daleko idące negatywne skutki dla osób, których dane dotyczą, więc winny
+one być oceniane jako aktywa o wysokiej wartości, a co za tym idzie stopień ich ochrony
+powinien być odpowiednio wysoki.
+Określenie istniejących lub stosowanych zabezpieczeń jest konieczne, między innymi w
+tym celu, aby ich nie powielać. Należy również bezwzględnie sprawdzić skuteczność
+funkcjonowania tych zabezpieczeń, ponieważ istnienie zabezpieczenia niesprawdzonego,
+po pierwsze, może wyeliminować jego wartość, po drugie zaś może dać fałszywe poczu‐
+cie bezpieczeństwa oraz może skutkować pominięciem (niewykryciem) krytycznej podat‐
+ności, która wykorzystana spowoduje bardzo negatywne skutki, w tym w szczególności
+może doprowadzić do naruszenia ochrony danych osobowych.
+Zgodnie z normą ISO/IEC 27000 podatność jest określana jako słabość bądź luka w za‐
+bezpieczeniach, która wykorzystana przez dane zagrożenie może zakłócać funkcjonowa‐
+nie, a także może prowadzić do incydentów bądź naruszeń ochrony danych osobowych.
+Identyfikowanie zagrożeń polega na określaniu, jakie zagrożenia i z jakiego kierunku
+(powodu) mogą się pojawić[3].
+Metodą przeprowadzenia analizy ryzyka jest np. zdefiniowanie poziomu ryzyka jako ilo‐
+czynu prawdopodobieństwa i skutków wystąpienia danego incydentu. Zazwyczaj wyko‐
+rzystuje się macierz ryzyka, która pozwala zobrazować poziomy ryzyka w sposób wizual‐
+ny, przedstawiając poziomy ryzyka, dla których organizacja definiuje odpowiednie dzia‐
+łania.
+Konieczność przeprowadzenia analizy ryzyka podkreślona jest także w orzecznictwie są‐
+dowym. W tym przedmiocie wypowiedział WSA w Warszawie, między innymi w wyroku z
+13 maja 2021 r., sygn. akt II SA/Wa 2129/20, gdzie podniósł, że „Administrator danych
+powinien zatem przeprowadzić analizę ryzyka i ocenić, z jakimi zagrożeniami ma do czy‐
+nienia”. Wojewódzki Sąd Administracyjny w Warszawie w uzasadnieniu wyroku z 26
+sierpnia 2020 r., sygn. akt II SA/Wa 2826/19, wskazał, że „(…) Przepis ten [art. 32 rozpo‐
+rządzenia 2016/679] nie wymaga od administratora danych wdrożenia jakichkolwiek
+środków technicznych i organizacyjnych, które mają stanowić środki ochrony danych
+osobowych, ale wymaga wdrożenia środków adekwatnych. Taką adekwatność oceniać
+należy pod kątem sposobu i celu, w jakim dane osobowe są przetwarzane, ale też należy
+brać pod uwagę ryzyko związane z przetwarzaniem tych danych osobowych, które to ry‐
+zyko charakteryzować się może różną wysokością. Przyjęte środki mają mieć charakter
+skuteczny, w konkretnych przypadkach niektóre środki będą musiały być środkami o
+charakterze niwelującym niskie ryzyko, inne – muszą niwelować ryzyko wysokie, ważne
+jednak jest, aby wszystkie środki (a także każdy z osobna) były adekwatne i proporcjo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 23 z 58
+
+nalne do stopnia ryzyka (…) czynności o charakterze techniczno-organizacyjnym leżą w
+gestii administratora danych osobowych, ale nie mogą być dobierane w sposób całkowi‐
+cie swobodny i dobrowolny, bez uwzględnienia stopnia ryzyka oraz charakteru
+chronionych danych osobowych (…)”.
+Ze zgromadzonego materiału dowodowego wynika, że przed wystąpieniem naruszenia
+ochrony danych osobowych Administrator oraz Podmiot przetwarzający przeprowadzili
+analizę ryzyka. Jak jednak wskazał GOPS, „(…) Przed wystąpieniem naruszenia Admini‐
+strator przeprowadził analizę ryzyka, w której określono analizę ryzyka zaszyfrowania,
+nie określono natomiast zaszyfrowania oprogramowaniem ransomware (…)”. Z kolei
+Podmiot przetwarzający w ogóle nie uwzględnił ryzyka zaszyfrowania danych w swojej
+analizie ryzyka (por. pkt VI uzasadnienia faktycznego).
+W ocenie organu nadzorczego, brak właściwie przeprowadzonej analizy ryzyka był głów‐
+ną przyczyną niewdrożenia adekwatnych środków technicznych i organizacyjnych mają‐
+cych gwarantować bezpieczeństwo w procesie przetwarzania danych osobowych. Jak
+przyznał sam Wójt, nie stosował on „innych środków technicznych oprócz programów an‐
+tywirusowych”. Co więcej, z udzielonych wyjaśnień wynika, że Podmiot przetwarzający
+jako system operacyjny zainstalowany na serwerze w czasie incydentu bezpieczeństwa
+wykorzystywał X. (…). Wskazać należy, że ww. system stracił wsparcie producenta (…)
+2020 r. (https://(…)). Zgodnie z informacją podaną na stronie internetowej producenta,
+od (…) 2020 r. nie było żadnych dodatkowych lokalnych bezpłatnych aktualizacji zabez‐
+pieczeń, aktualizacji niezwiązanych z bezpieczeństwem, bezpłatnej opcji pomocy
+technicznej oraz aktualizacji zawartości technicznej online.
+Podkreślić należy, że w przypadku dopuszczania przez Wójta wykorzystania określonego
+oprogramowania informatycznego, Wójt w analizie ryzyka powinien zidentyfikować spe‐
+cyficzne podatności związane z bezpieczeństwem wykorzystywania takiego oprogramo‐
+wania. W tym kontekście należy wskazać, że korzystanie z systemów informatycznych
+służących do przetwarzania danych osobowych po zakończeniu wsparcia technicznego
+przez ich producenta w sposób istotny obniża ich poziom bezpieczeństwa. Taka podat‐
+ność powinna zostać uwzględniona w analizie ryzyka, bowiem brak wbudowanych oraz
+aktualizowanych zabezpieczeń zwiększa w szczególności ryzyko infekcji za pomocą zło‐
+śliwego oprogramowania oraz ataków poprzez powstawanie nowych luk w zabezpiecze‐
+niach. Systemy te stają się bardziej podatne na cyberataki, m.in. typu ransomware blo‐
+kujące dostęp do danych oraz żądające okupu za ich odzyskanie. Takiego zagrożenia
+Podmiot przetwarzający jednak w analizie ryzyka nie przewidział.
+Co prawda, analiza ryzyka przeprowadzona przez samego Administratora uwzględniała
+ryzyko związane z zaszyfrowaniem danych, ale działania kontrolne Administratora wzglę‐
+dem Podmiotu przetwarzającego, w związku z powierzeniem mu przetwarzania danych,
+których administratorem jest GOPS, okazały się nieskuteczne. Nie objęły one bowiem
+zbadania, czy Wójt przeprowadził analizę ryzyka i czy przewidział w niej ryzyko zaszyfro‐
+wania danych za pomocą oprogramowania ransomware (i czy w związku z tym przewi‐
+dział adekwatne środki bezpieczeństwa) – por. pkt V opisu stanu faktycznego. W konse‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 24 z 58
+
+kwencji wdrożone środki mające zapewnić bezpieczeństwo w procesie przetwarzania da‐
+nych osobowych okazały się nieadekwatne. Powyższe oznacza, że Administrator naru‐
+szył art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679, a w kon‐
+sekwencji zasadę integralności i poufności wyrażoną w art. 5 ust. 1 lit. f) rozporządzenia
+2016/679.
+
+III. Konieczność zapewnienia ciągłej poufności, integral‐
+ności, dostępności i odporności systemów i usług prze‐
+twarzania; zdolność szybkiego przywracania dostępności
+danych osobowych i dostępu do nich w razie incydentu fi‐
+zycznego lub technicznego. Naruszenie art. 32 ust. 1 lit.
+b) i c) rozporządzenia 2016/679.
+Zastosowane przez Podmiot przetwarzający środki techniczne i organizacyjne okazały
+się w konsekwencji nieodpowiednie, co doprowadziło do sytuacji, w której systemy stały
+się bardziej podatne na cyberataki, m.in. typu ransomware blokujące dostęp do danych
+oraz mające na celu żądanie okupu za ich odzyskanie. W związku z przełamaniem zabez‐
+pieczeń systemów informatycznych Wójta zaszyfrowane zostały dane, w tym dane oso‐
+bowe, w wyniku czego nastąpiła utrata dostępności do baz danych, co oznacza, że Admi‐
+nistrator i Podmiot przetwarzający nie zrealizowali obowiązku utrzymania zdolności do
+ciągłego zapewnienia poufności, integralności, dostępności i odporności systemów i
+usług przetwarzania (art. 32 ust. 1 lit. b) rozporządzenia 2016/679). Tak jak w przypadku
+nieprawidłowości w przeprowadzeniu analizy ryzyka, naruszenie przez Administratora
+art. 32 ust. 1 lit. b) rozporządzenia 2016/679 wynika z braku wystarczającej kontroli nad
+Podmiotem przetwarzającym.
+Analizując wyjaśnienia Wójta dotyczące wdrożonych środków organizacyjnych i technicz‐
+nych, należy również odnieść się do jego wyjaśnień w zakresie kopii zapasowych. Przed‐
+łożona analiza ryzyka dokonana przed wystąpieniem naruszenia ochrony danych osobo‐
+wych nie definiuje jednoznacznie zagrożenia wynikającego z niewykonywania kopii zapa‐
+sowych. Powyższe jednoznacznie wskazuje, że Wójt, w ramach oceny ryzyka nie
+uwzględnił wszystkich istotnych zagrożeń związanych z przetwarzaniem danych osobo‐
+wych, czego od niego wymaga art. 32 ust. 2 rozporządzenia 2016/679. Należy również
+podkreślić, że i w tej kwestii działania kontrolne Administratora wobec Podmiotu
+przetwarzającego okazały się nieskuteczne.
+Jak wynika za zgromadzonego materiału dowodowego, Podmiot przetwarzający nie pro‐
+wadził skutecznej polityki ochrony danych osobowych w obszarze wykonywania kopii da‐
+nych osobowych. Przyjął on co prawda procedurę wykonywania kopii zapasowych (z
+której wynikało między innymi, że „(…)”), ale były one wykonywane na dysku sieciowym,
+który w następstwie ataku hackerskiego został także zaszyfrowany. Powyższe skutkowało
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 25 z 58
+
+tym, że Wójt był zmuszony do odtwarzania danych osobowych przy wsparciu podmiotu
+zewnętrznego. W tym kontekście należy wskazać, że obowiązujące w Podmiocie prze‐
+twarzającym (przed wystąpieniem przedmiotowego naruszenia ochrony danych osobo‐
+wych) zasady tworzenia kopii zapasowych oraz praktyka wykonywania tej kopii nie za‐
+pewniały realizacji obowiązków wynikających z art. 32 ust. 1 lit. b) i c) rozporządzenia
+2016/679, tj. zdolności do ciągłego zapewnienia dostępności systemów i usług przetwa‐
+rzania oraz zdolności do szybkiego przywrócenia dostępności danych osobowych i
+dostępu do nich w razie incydentu fizycznego lub technicznego.
+Fakt utraty dostępności danych oraz konieczność wdrożenia ekstraordynaryjnego trybu
+pracy przez Administratora w celu zapewnienia ciągłości realizacji jego zadań statuto‐
+wych świadczy, że nie podjął on skutecznych działań w zakresie tworzenia kopii zapaso‐
+wych. W konsekwencji oznacza to naruszenie przez Administratora art. 32 ust. 1 lit. b) i
+c) rozporządzenia 2016/679.
+
+IV. Rola Administratora i Podmiotu przetwarzającego w
+procesie przetwarzania danych osobowych. Naruszenie
+art. 25 ust. 1 oraz art. 28 ust. 1 i 3 rozporządzenia
+2016/679.
+Jeżeli przetwarzanie ma być dokonywane w imieniu administratora, to – zgodnie z
+brzmieniem art. 28 ust. 1 rozporządzenia 2016/679 – korzysta on wyłącznie z usług ta‐
+kich podmiotów przetwarzających, które zapewniają wystarczające gwarancje wdrożenia
+odpowiednich środków technicznych i organizacyjnych, by przetwarzanie spełniało wy‐
+mogi rozporządzenia 2016/679 i chroniło prawa osób, których dane dotyczą. Zgodnie z
+art. 28 ust. 3 rozporządzenia 2016/679, przetwarzanie przez podmiot przetwarzający od‐
+bywa się na podstawie umowy lub innego instrumentu prawnego, które podlegają prawu
+Unii lub prawu państwa członkowskiego i wiążą podmiot przetwarzający i administratora,
+określają przedmiot i czas trwania przetwarzania, charakter i cel przetwarzania, rodzaj
+danych osobowych oraz kategorie osób, których dane dotyczą, obowiązki i prawa admi‐
+nistratora. Ta umowa lub inny instrument prawny stanowią w szczególności, że podmiot
+przetwarzający:
+a) przetwarza dane osobowe wyłącznie na udokumentowane polecenie administratora
+– co dotyczy też przekazywania danych osobowych do państwa trzeciego lub organi‐
+zacji międzynarodowej – chyba że obowiązek taki nakłada na niego prawo Unii lub
+prawo państwa członkowskiego, któremu podlega podmiot przetwarzający; w takim
+przypadku przed rozpoczęciem przetwarzania podmiot przetwarzający informuje ad‐
+ministratora o tym obowiązku prawnym, o ile prawo to nie zabrania udzielania takiej
+informacji z uwagi na ważny interes publiczny;
+b)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 26 z 58
+
+zapewnia, by osoby upoważnione do przetwarzania danych osobowych zobowiązały
+się do zachowania tajemnicy lub by podlegały odpowiedniemu ustawowemu
+obowiązkowi zachowania tajemnicy;
+c) podejmuje wszelkie środki wymagane na mocy art. 32;
+d) przestrzega warunków korzystania z usług innego podmiotu przetwarzającego, o
+których mowa w ust. 2 i 4;
+e) biorąc pod uwagę charakter przetwarzania, w miarę możliwości pomaga administra‐
+torowi poprzez odpowiednie środki techniczne i organizacyjne wywiązać się z obo‐
+wiązku odpowiadania na żądania osoby, której dane dotyczą, w zakresie
+wykonywania jej praw określonych w rozdziale III;
+f) uwzględniając charakter przetwarzania oraz dostępne mu informacje, pomaga ad‐
+ministratorowi wywiązać się z obowiązków określonych w art. 32–36;
+g) po zakończeniu świadczenia usług związanych z przetwarzaniem zależnie od decyzji
+administratora usuwa lub zwraca mu wszelkie dane osobowe oraz usuwa wszelkie
+ich istniejące kopie, chyba że prawo Unii lub prawo państwa członkowskiego
+nakazują przechowywanie danych osobowych;
+h) udostępnia administratorowi wszelkie informacje niezbędne do wykazania spełnie‐
+nia obowiązków określonych w niniejszym artykule oraz umożliwia administratorowi
+lub audytorowi upoważnionemu przez administratora przeprowadzanie audytów, w
+tym inspekcji, i przyczynia się do nich.
+lit. W związku z obowiązkiem określonym w akapicie pierwszym lit. h) podmiot przetwa‐
+rzający niezwłocznie informuje administratora, jeżeli jego zdaniem wydane mu pole‐
+cenie stanowi naruszenie niniejszego rozporządzenia lub innych przepisów Unii lub
+państwa członkowskiego o ochronie danych.
+W pierwszej kolejności należy podkreślić, że korzystanie z usług podmiotu przetwarzają‐
+cego nie zwalnia administratora z obowiązku zapewnienia bezpieczeństwa w procesie
+przetwarzania danych osobowych. Odpowiedzialność w tym zakresie spoczywa bowiem
+przede wszystkim na administratorze danych. Na konieczność weryfikacji podmiotu
+przetwarzającego zwracają uwagę Wytyczne 07/2020 dotyczące pojęć administratora i
+podmiotu przetwarzającego zawartych w RODO[4] (dalej jako: Wytyczne 07/2020). Wska‐
+zuje się w nich, że „(…) gwarancje «zapewniane» przez podmiot przetwarzający to te,
+które podmiot przetwarzający jest w stanie wykazać w sposób zadowalający administra‐
+tora, ponieważ są to jedyne gwarancje, które administrator może skutecznie uwzględnić
+przy ocenie wypełniania swoich obowiązków. Często będzie to wymagało wymiany odpo‐
+wiedniej dokumentacji [np. polityki prywatności, warunków świadczenia usług, rejestru
+czynności przetwarzania, polityki zarządzania dokumentacją, polityki bezpieczeństwa in‐
+formacji, sprawozdań z zewnętrznych audytów ochrony danych, uznanych międzynaro‐
+dowych certyfikatów, takich jak normy ISO 27000] (…) Ocena administratora, czy gwa‐
+rancje są wystarczające, jest formą oceny ryzyka, która w znacznym stopniu zależy od
+rodzaju przetwarzania powierzonego podmiotowi przetwarzającemu i musi być dokony‐
+wana indywidualnie dla każdego przypadku, z uwzględnieniem charakteru, zakresu, kon‐
+tekstu i celów przetwarzania, a także zagrożeń dla praw i wolności osób fizycznych. W
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 27 z 58
+
+związku z tym EROD nie może przedstawić wyczerpującej listy dokumentów lub działań,
+które podmiot przetwarzający musi wykazać lub udowodnić w danym scenariuszu, po‐
+nieważ w dużej mierze zależy to od konkretnych okoliczności przetwarzania (…)”.
+Analogicznie jak w przypadku konieczności przeprowadzenia analizy ryzyka, obowiązek
+weryfikacji podmiotu przetwarzającego ma charakter ciągły. Zaniechanie przez admini‐
+stratora obowiązku ciągłej weryfikacji gwarancji, o których mowa w art. 28 ust. 1 rozpo‐
+rządzenia 2016/679, może bezpośrednio dotknąć osób fizycznych, których dane osobo‐
+we zostały powierzone podmiotowi przetwarzającemu. Na konieczność ciągłości
+weryfikacji podmiotu przetwarzającego wskazują Wytyczne 07/2020, w których podnosi
+się, że „(…) 99: Obowiązek korzystania wyłącznie z usług podmiotów przetwarzających
+«zapewniających wystarczające gwarancje» zawarty w art. 28 ust. 1 RODO jest obowiąz‐
+kiem ciągłym. Nie kończy się w momencie zawarcia umowy lub innego aktu prawnego
+przez administratora i podmiot przetwarzający. Administrator powinien raczej w odpo‐
+wiednich odstępach czasu weryfikować gwarancje podmiotu przetwarzającego, w tym w
+stosownych przypadkach przez audyty i inspekcje (…)”.
+Wskazać zatem należy, że na podstawie art. 28 ust. 3 lit. h) rozporządzenia 2016/679
+administrator ma prawo przeprowadzania audytów, w tym inspekcji, w podmiocie prze‐
+twarzającym. Celem tych działań administratora powinna być stała weryfikacja podmiotu
+przetwarzającego, czy ten wywiązuje się ze wszystkich obowiązków określonych w art.
+28 ust. 3 rozporządzenia 2016/679. Stosowanie ww. środków związane jest z obowiąz‐
+kiem administratora danych wynikającym z art. 28 ust. 1 rozporządzenia 2016/679.
+Oznacza to, że wykonywanie działań kontrolnych ma również potwierdzić, czy podmiot
+przetwarzający nadal zapewnia gwarancje wdrożenia odpowiednich środków technicz‐
+nych i organizacyjnych, by przetwarzanie spełniało wymogi rozporządzenia 2016/679 i
+chroniło prawa osób, których dane dotyczą.
+Mając zatem na uwadze, że weryfikacja podmiotu przewarzającego musi mieć charakter
+procesu ciągłego, brak okresowego i systematycznego przeprowadzania audytów bądź
+inspekcji prowadzi do sytuacji, w której administrator nie będzie posiadał wiedzy, czy
+podmiot przetwarzający realizuje swoje zadania zgodnie z wymogami przepisów prawa
+oraz postanowieniami zawartej umowy powierzenia.
+Uprawnienie wynikające z art. 28 ust. 3 lit. h) rozporządzenia 2016/679 dają zatem ad‐
+ministratorowi narzędzia, dzięki którym może zapewnić, że proces przetwarzania danych
+podlegających powierzeniu będzie zgodny z normami określonymi w rozporządzeniu
+2016/679, a przedłożenie dowodów potwierdzających wykonanie takich działań kontrol‐
+nych – zgodnie z zasadą rozliczalności – może dowodzić, że administrator podjął działa‐
+nia mające na celu weryfikację podmiotu przetwarzającego, że ten wdrożył odpowiednie
+środki techniczne i organizacyjne, by przetwarzanie spełniało wymogi rozporządzenia
+2016/679 i chroniło prawa osób, których dane dotyczą. Omawiane uprawnienie admini‐
+stratora należy traktować jako jeden z istotniejszych środków bezpieczeństwa, jakie po‐
+winien on zastosować w celu prawidłowego wywiązania się ze swoich obowiązków wyni‐
+kających z art. 32 ust. 1 rozporządzenia 2016/679. Administrator powinien bowiem w
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 28 z 58
+
+czasie korzystania przez niego z usług podmiotu przetwarzającego dysponować wiedzą,
+czy i w jaki sposób podmiot, któremu powierzył przetwarzanie danych osobowych,
+spełnia wymogi określone w rozporządzeniu 2016/679.
+Odnosząc powyższe rozważania do przedmiotowej sprawy wskazać należy, że Admini‐
+strator wskazał, w jaki sposób zweryfikował, czy Podmiot przetwarzający zapewnia gwa‐
+rancje wdrożenia odpowiednich środków technicznych i organizacyjnych w celu spełnie‐
+nia wymogów bezpieczeństwa procesu przetwarzania danych osobowych. W momencie
+zawierania umowy powierzenia przetwarzania danych osobowych z 25 maja 2018 r. dzia‐
+łania weryfikacyjne przeprowadzone przy Administratora wobec Podmiotu przetwarzają‐
+cego były bardzo ograniczone, a proces tej weryfikacji został szczątkowo udokumento‐
+wany (por. pkt V uzasadnienia faktycznego). W praktyce ograniczyły się one do skontro‐
+lowania pomieszczeń, w których dane osobowe miały być przetwarzane, oraz do przyję‐
+cia oświadczeń od Podmiotu przetwarzającego, w których deklarował on wdrożenie ade‐
+kwatnych środków bezpieczeństwa. Zważywszy na zakres działalności Administratora,
+charakter przetwarzania danych osobowych oraz charakter narzędzi wykorzystywanych
+w tym celu (w tym systemu informatycznego) podkreślić należy, że działania weryfika‐
+cyjne, które Administrator podjął, były nieadekwatne. Trudno bowiem uznać, że spraw‐
+dzenie pomieszczeń, w których miały być przetwarzane dane osobowe, miało w jakiś
+sposób potwierdzić, że Podmiot przetwarzający wdrożył właściwe środki bezpieczeństwa,
+w szczególności, jeśli powierzone dane osobowe przetwarzano w systemie informatycz‐
+nym. Podatności systemu informatycznego na zagrożenia związane z naruszeniem
+ochrony danych osobowych nie ograniczają się bowiem jedynie do aspektu fizycznego
+dostępu do pomieszczeń, w których znajdują się określone urządzenia. Podobnie zagro‐
+żenia dla innych procesów związanych z przetwarzaniem danych osobowych (np. prze‐
+twarzanie danych osobowych w dokumentacji papierowej) nie są związane jedynie z bra‐
+kiem adekwatnych zabezpieczeń pomieszczeń, w których taki proces się odbywa. W pro‐
+tokole pokontrolnym z 25 maja 2018 r. wskazano, co prawda, że serwery, na których
+przetwarzano dane osobowe posiadały oprogramowania antywirusowe, ale nie oznacza
+to, że wdrożone przez Podmiot przetwarzający środki techniczne i organizacyjne były
+adekwatne.
+Przede wszystkim należy ponownie podkreślić, że wdrożenie odpowiednich środków bez‐
+pieczeństwa powinno być poprzedzone przeprowadzeniem analizy ryzyka. Tymczasem
+Administrator nie sprawdził, czy Podmiot przetwarzający właściwie ją przeprowadził i czy
+uwzględnił w niej zagrożenia dla powierzonych danych osobowych. Weryfikacja analizy
+ryzyka pozwoliłaby także Administratorowi ocenić, czy środki techniczne i organizacyjne
+stosowane przez Podmiot przetwarzający były adekwatne do zidentyfikowanych zagro‐
+żeń. Potwierdzeniem nieskuteczności działań weryfikacyjnych, w tym ograniczenie się do
+przyjęcia oświadczenia, że „serwery zabezpieczone są programami antywirusowymi”,
+potwierdza sam fakt wystąpienia incydentu bezpieczeństwa.
+Kolejne działania weryfikacyjne wobec Podmiotu przetwarzającego podjęte zostały do‐
+piero 18 grudnia 2020 r. Były one jednak równie ograniczone, jak te przeprowadzone w
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 29 z 58
+
+momencie zawarcia umowy powierzenia (por. pkt V uzasadnienia faktycznego). Co wię‐
+cej, Administrator nie przedstawił dowodu potwierdzającego przeprowadzenie audytu
+środków technicznych mających zapewnić bezpieczeństwo przetwarzania danych osobo‐
+wych. Z dostarczonego protokołu pokontrolnego wynika, że przedmiotem kontroli z 18
+grudnia 2020 r. była jedynie weryfikacja „dokumentów i działań organizacyjnych” stoso‐
+wanych przez Podmiot przetwarzający. W rzeczywistości działania Administratora miały
+charakter wyłącznie formalny i sprowadzały się do przyjęcia oświadczeń Podmiotu prze‐
+twarzającego.
+Należy również zauważyć, że nawet te formalne działania nie były przeprowadzone rze‐
+telnie. Administrator po raz kolejny nie zweryfikował, czy Podmiot przetwarzający właści‐
+wie przeprowadził analizę ryzyka. Jak wcześniej wskazano, analiza przeprowadzona
+przez Podmiot przetwarzający nie uwzględniała ryzyka zaszyfrowania danych, mimo że
+Administrator takie ryzyko przewidział. Administrator był świadomy tego zagrożenia, lecz
+nie przeprowadził kontroli obejmującej weryfikację Podmiotu przetwarzającego w tym za‐
+kresie. W konsekwencji nie zweryfikował prawidłowości wykonywania kopii zapasowych
+ani środków, które mogłyby zminimalizować ryzyko utraty dostępności do danych osobo‐
+wych w następstwie ich zaszyfrowania (w tym zaszyfrowania na skutek ataku hacker‐
+skiego, np. ransomware). Co więcej, działania kontrolne zostały podjęte dopiero w grud‐
+niu 2020 r., podczas gdy umowa powierzenia przetwarzania danych osobowych została
+zawarta 25 maja 2018 r. Nie można więc uznać, że Administrator prowadził regularne
+działania weryfikacyjne wobec Podmiotu przetwarzającego. Tego rodzaju działania Admi‐
+nistrator podjął dopiero po wystąpieniu naruszenia ochrony danych osobowych (por. V
+uzasadnienia faktycznego).
+Jednocześnie należy wskazać, że „Porozumienie w sprawie nieodpłatnego udostępnienia
+infrastruktury informatycznej Urzędu na potrzeby prowadzenia działalności statutowej” z
+25 maja 2018 r. zawierało uregulowania umożliwiające Administratorowi uzyskanie infor‐
+macji niezbędnych do wykazania spełnienia przez niego obowiązków wynikających z art.
+28 rozporządzenia 2016/679 [w ww. porozumieniu wskazano: „(…) Podmiot
+przetwarzający zobowiązuje się do: (…) udostępniania Administratorowi danych, na jego
+uzasadnione żądanie wszelkich niezbędnych informacji niezbędnych do wykazania speł‐
+nienia przez Administratora danych obowiązków wynikających z art. 28 RODO (…)”]. Nie
+mniej jednak Administrator nie przedłożył dowodów na to, że takie adekwatne działania
+kontrolne przed wystąpieniem naruszenia ochrony danych osobowych były przez niego
+regularnie podejmowane.
+Brak regularnych audytów, w tym inspekcji, w Podmiocie przetwarzającym oznacza za‐
+tem naruszenie przez Administratora nie tylko art. 28 ust. 1 rozporządzenia 2016/679,
+lecz także art. 25 ust. 1 rozporządzenia 2016/679, który obliguje go do wdrażania odpo‐
+wiednich środków technicznych i organizacyjnych, zarówno przy określaniu sposobów
+przetwarzania, jak i w czasie samego przetwarzania. Ciągłość wpisana w ten obowiązek
+może więc w praktyce przejawiać się m.in. w konieczności zapewnienia regularnego mo‐
+nitoringu zastosowanych zabezpieczeń oraz prowadzenia stałego nadzoru nad podmio‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 30 z 58
+
+tem przetwarzającym poprzez np. audyty i inspekcje, o których mowa w art. 28 ust. 3 lit.
+h) rozporządzenia 2016/679, i których w okolicznościach niniejszej sprawy zabrakło.
+Zgodnie z Wytycznymi 07/2020, 135: Przechodząc do konkretnych obowiązków, podmiot
+przetwarzający ma obowiązek, po pierwsze, pomagać administratorowi w wywiązywaniu
+się z obowiązku przyjęcia odpowiednich środków technicznych i organizacyjnych w celu
+zapewnienia bezpieczeństwa przetwarzania. Chociaż może to w pewnym stopniu pokry‐
+wać się z wymogiem, zgodnie z którym podmiot przetwarzający sam przyjmuje odpo‐
+wiednie środki bezpieczeństwa, w przypadku gdy operacje przetwarzania prowadzone
+przez podmiot przetwarzający wchodzą w zakres RODO, pozostają one dwoma odrębny‐
+mi obowiązkami, ponieważ jeden odnosi się do własnych środków podmiotu przetwarza‐
+jącego, a drugi odnosi się do administratora danych. 138: Obowiązek pomocy nie polega
+na przeniesieniu odpowiedzialności, ponieważ obowiązki te są nakładane na administra‐
+tora danych. Na przykład, chociaż ocena skutków dla ochrony danych może być w prak‐
+tyce przeprowadzana przez podmiot przetwarzający, administrator pozostaje odpowie‐
+dzialny za obowiązek przeprowadzenia oceny, a podmiot przetwarzający jest
+zobowiązany do udzielenia pomocy administratorowi „w razie potrzeby i na żądanie”. W
+związku z tym to administrator musi podjąć inicjatywę w celu przeprowadzenia oceny
+skutków dla ochrony danych, a nie podmiot przetwarzający.
+Z art. 32 rozporządzenia 2016/679, interpretowanego w świetle wyżej zacytowanych wy‐
+tycznych, wynika, że obowiązki wdrożenia środków organizacyjnych i technicznych nało‐
+żono zarówno na podmioty przetwarzające, jak i na administratorów danych. Fakt zawar‐
+cia umowy i powierzenia pewnych czynności przetwarzania danych osobowych podmio‐
+towi przetwarzającemu nie zwalnia zatem administratora, co należy ponownie powtó‐
+rzyć, z obowiązku wdrożenia odpowiednich środków technicznych i organizacyjnych, o
+których mowa w art. 32 rozporządzenia 2016/679, nie zwalnia również administratora
+danych z obowiązku prowadzenia stałego nadzoru nad podmiotem przetwarzającym w
+tym zakresie.
+W konsekwencji, w ocenie Prezesa UODO, zastosowane przez Administratora środki tech‐
+niczne i organizacyjne jedynie w bardzo ograniczonym stopniu odpowiadały wymogom
+określonym w art. 32 rozporządzenia 2016/679, w związku z faktem, że Administrator
+nie egzekwował od Podmiotu przetwarzającego realizacji postanowień łączącej ich umo‐
+wy oraz nie weryfikował Podmiotu przetwarzającego w zakresie powierzonego mu zada‐
+nia.
+Dopiero po wystąpieniu naruszenia ochrony danych osobowych Administrator podjął
+działania weryfikacyjne, które można uznać za wystarczające. Jak wynika z protokołu po‐
+kontrolnego z 1 lutego 2022 r., Administrator zweryfikował środki techniczne wdrożone
+przez Podmiot przetwarzający, których wdrożenie mitygowało ryzyko utraty dostępności
+danych. Przeprowadzenie przez Administratora w sposób właściwy audytów po wystąpie‐
+niu naruszenia ochrony danych osobowych nie wpływa na negatywną ocenę Prezesa
+UODO dotychczasowych jego działań, a stanowi jedynie przesłankę do odstąpienia od
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 31 z 58
+
+wydania nakazu dostosowania operacji przetwarzania danych osobowych do wymogów
+określonych w rozporządzeniu 2016/679.
+Jednocześnie należy wskazać, że fakt niewdrożenia adekwatnych środków bezpieczeń‐
+stwa wynikający z braku właściwej współpracy między administratorem a podmiotem
+przetwarzającym nie oznacza, że odpowiedzialność za naruszenie przepisów rozporzą‐
+dzenia 2016/679 należy przypisać tylko administratorowi. Zgodnie z wyrokiem Woje‐
+wódzkiego Sądu Administracyjnego w Warszawie z 5 października 2021 r., sygn. akt II
+SA/Wa 528/21, „(…) zastępca [reprezentant] administratora jest odrębnym podmiotem
+prawa, działającym za reprezentowanego, na podstawie umocowania udzielonego w za‐
+wartej z administratorem umowie o powierzeniu przetwarzania. Jeżeli czynności przetwa‐
+rzania wykonuje podmiot przetwarzający, a nie administrator, to co do zasady do działa‐
+nia tego zastępcy należałoby odnosić przepisy określające obowiązki związane z prze‐
+twarzaniem. Rozporządzenie nr 2016/679 rozkłada jednakże te obowiązki pomiędzy ad‐
+ministratora i podmiot przetwarzający, co oznacza, że administrator powierzając prze‐
+twarzanie danych innemu podmiotowi nie jest zwolniony całkowicie z odpowiedzialności
+za niedopełnienie prawnych wymagań dotyczących przetwarzania. Przepisy rozporządze‐
+nia kierują niektóre obowiązki do administratora danych (art. 5 ust. 2), inne zaś są adre‐
+sowane jednocześnie do administratora i do podmiotu przetwarzającego (art. 32 ust. 1 i
+2). Ponadto podmiot przetwarzający ma odrębne obowiązki w tym zakresie (art. 28 roz‐
+porządzenia). Co prawda te obowiązki podmiotu przetwarzającego powinny być umiesz‐
+czone w zawartej między stronami umowie o przetwarzanie danych. Niemniej jednak ob‐
+ligatoryjne dla stron wprowadzenie ich do umowy nie odbiera im charakteru publiczno‐
+prawnego, nie czyni obowiązkami wyłącznie obligacyjnymi, co ma oczywiście zasadnicze
+znaczenie dla określenia odpowiedzialności za ich naruszenie i co znajduje potwierdzenie
+w art. 83 ust. 4 lit. a rozporządzenia. Trzeba podkreślić, że podmiot przetwarzający jest
+obowiązany do współdziałania z administratorem, a nawet do udzielania mu pomocy w
+wywiązywaniu się z jego obowiązków określonych w art. 32-36 (art. 28 rozporządzenia).
+Nałożenie zarówno na administratora, jak i na podmiot przetwarzający dość ogólnego
+obowiązku zapewnienia bezpieczeństwa danych (art. 32 ust. 1) nie implikuje oczywiście
+konieczności podejmowania przez te podmioty działań tego samego rodzaju i nie rodzi
+po ich stronie odpowiedzialności za naruszenia, niezależnie od tego, któremu z nich moż‐
+na je przypisać. Nie ma tu mowy o jakimkolwiek solidarnym, w rozumieniu prawnym wy‐
+konywaniu przez strony obowiązków dotyczących zapewnienia bezpieczeństwa przetwa‐
+rzania danych i solidarnej odpowiedzialności za naruszenie tych obowiązków (…)”.
+W odniesieniu do powyższego wskazać należy, że brak właściwie przeprowadzonych
+działań w zakresie wdrożenia adekwatnych środków gwarantujących bezpieczeństwo w
+procesie przetwarzania danych osobowych (poprzedzonych właściwie przeprowadzoną
+analizą ryzyka) świadczy o braku należytej staranności Podmiotu przetwarzającego w za‐
+kresie udostępniania jego zasobów informatycznych w celu realizacji zadań statutowych
+Administratora (do czego był zobowiązany na podstawie porozumienia z 25 maja 2018
+r.). Skutkiem omawianej nierzetelności było naruszenie przez Podmiot przetwarzający
+art. 32 ust. 1 i 2 w związku z art. 28 ust. 3 lit. c) i f) rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 32 z 58
+
+V. Obowiązek regularnego testowania, mierzenia i oce‐
+niania skuteczności środków bezpieczeństwa przetwarza‐
+nia danych osobowych. Naruszenie art. 32 ust. 2 lit. d)
+rozporządzenia 2016/679.
+Kontynuując rozważania dotyczące środków bezpieczeństwa należy pamiętać, że rola ad‐
+ministratora nie ogranicza się tylko do jednorazowego opracowania i wdrożenia środków
+organizacyjnych i technicznych mających zapewnić przetwarzanie danych osobowych
+zgodne z zasadami wyrażonymi w rozporządzeniu 2016/679. Konieczność bieżącej wery‐
+fikacji adekwatności tych środków jest szczególnie ważna w przypadku przetwarzania
+danych osobowych w formie elektronicznej. W przypadku zdarzenia takiego, jak to zaist‐
+niałe w przedmiotowej sprawie (atak ransomware), bardzo istotne jest przeanalizowanie
+prawidłowości przestrzegania przez Administratora jego obowiązku wynikającego z art.
+32 ust. 1 lit. d) rozporządzenia 2016/679, tj. regularnego testowania, mierzenia i ocenia‐
+nia skuteczności środków technicznych i organizacyjnych mających zapewnić
+bezpieczeństwo przetwarzania.
+Regularne testowanie, mierzenie i ocenianie skuteczności środków technicznych i organi‐
+zacyjnych, mających zapewnić bezpieczeństwo przetwarzania jest podstawowym obo‐
+wiązkiem każdego administratora i podmiotu przetwarzającego wynikającym z art. 32
+ust. 1 lit. d) rozporządzenia 2016/679. Każdy z nich zobowiązany jest więc do weryfikacji
+zarówno doboru, jak i poziomu skuteczności stosowanych środków technicznych, na każ‐
+dym etapie przetwarzania. Kompleksowość tej weryfikacji powinna być oceniana przez
+pryzmat adekwatności do ryzyk i proporcjonalności w stosunku do stanu wiedzy tech‐
+nicznej, kosztów wdrażania oraz charakteru, zakresu, kontekstu i celów przetwarzania.
+Testowanie, mierzenie i ocenianie, aby stanowiło realizację wymogu wynikającego z art.
+32 ust. 1 lit. d) rozporządzenia 2016/679, musi być dokonywane w sposób regularny,
+świadomie zaplanowany, zorganizowany i udokumentowany (w związku z zasadą rozli‐
+czalności – art. 5 ust. 2 rozporządzenia 2016/679) w określonych przedziałach czaso‐
+wych, niezależnie od zmian w organizacji i przebiegu procesów przetwarzania danych.
+Nowe ryzyka lub zagrożenia mogą zmaterializować się lub zostać ujawnione również sa‐
+moistnie, w sposób całkowicie niezależny od administratora i jest to fakt, który również
+powinien być brany pod uwagę zarówno podczas budowania systemu ochrony danych
+osobowych, jak i w czasie jego realizowania. To zaś z kolei definiuje konieczność prowa‐
+dzenia regularnej weryfikacji całego systemu ochrony danych osobowych zarówno pod
+kątem adekwatności, jak i skuteczności wdrożonych rozwiązań organizacyjnych i tech‐
+nicznych. Badanie prawdopodobieństwa wystąpienia danego zdarzenia nie powinno
+opierać się wyłącznie na podstawie częstotliwości występowania zdarzeń w danej organi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 33 z 58
+
+zacji, albowiem fakt nie wystąpienia danego zdarzenia w przeszłości wcale nie oznacza,
+że nie może ono zaistnieć w przyszłości.
+Na konieczność realizacji przez administratorów i pomioty przetwarzające omawianego
+obowiązku zwrócił również uwagę Wojewódzki Sąd Administracyjny w Warszawie, który
+w wyroku z 21 października 2021 r., sygn. akt II SA/Wa 272/21, wskazał, że „(…) rację
+miał również Prezes UODO, wskazując w uzasadnieniu zaskarżonej decyzji, że brak w
+przyjętych przez Spółkę procedurach uregulowań zapewniających regularne testowanie,
+mierzenie i ocenianie skuteczności zastosowanych środków technicznych i organizacyj‐
+nych mających zapewnić bezpieczeństwo przetwarzania danych przyczynił się do wystą‐
+pienia naruszenia ochrony danych osobowych. Trafnie także wskazuje organ, że w postę‐
+powaniu wykazano, że Spółka nie przeprowadzała testów nastawionych na weryfikację
+zabezpieczeń aplikacji (…) oraz WebAPI systemu (…), dotyczących podatności systemu
+informatycznego związanej z zaistniałym naruszeniem danych osobowych (…) dokony‐
+wanie testów wyłącznie w sytuacji pojawiającego się zagrożenia, bez wprowadzenia pro‐
+cedury, która by określała harmonogram działań zapewniających regularne testowanie,
+mierzenie i ocenianie skuteczności wdrożonych środków jest niewystarczające. Spółka
+bowiem, jak wynika ze zgromadzonego materiału, mimo przyjętych rozwiązań nie była w
+stanie wykryć podatności ze względu na brak regularnych testów wdrożonego przez
+Spółkę systemu (…) Nie sposób w tym kontekście zakwestionować więc ocen Prezesa
+UODO, że regularne testowanie, mierzenie i ocenianie skuteczności środków technicz‐
+nych i organizacyjnych mających zapewnić bezpieczeństwo przetwarzania jest podsta‐
+wowym obowiązkiem każdego administratora oraz podmiotu przetwarzającego
+wynikającym z art. 32 ust. 1 lit. d RODO (…)”. Z kolei w wyroku z 6 czerwca 2023 r.,
+sygn. akt II SA/Wa 1939/22, Wojewódzki Sąd Administracyjny w Warszawie wskazał, że
+„(…) powinność regularnego testowania środków technicznych i organizacyjnych, zabez‐
+pieczenia przetwarzania danych osobowych, aby zapewnić stopień bezpieczeństwa od‐
+powiadający temu ryzyku, w rozumieniu art. 32 ust. 1 zd. wstępne RODO, wynika wprost
+z brzmienia lit. d wskazanego art. 32 ust. 1, zaś powinność dokumentowania czynności
+w danym zakresie statuuje zasada rozliczalności (art. 5 ust. 2 RODO)”. Podobnie
+wypowiedział się Wojewódzki Sąd Administracyjny w Warszawie w wyroku z 21 czerwca
+2023 r., sygn. akt II SA/Wa 150/23.
+Działania podjęte przez Administratora w omawianym zakresie (por. pkt VII uzasadnienia
+faktycznego) okazały się nieadekwatne, ograniczone i w konsekwencji nieskuteczne. Jed‐
+nocześnie należy wskazać, że w tym aspekcie Podmiot przetwarzający również nie do‐
+pełnił swoich obowiązków, co – biorąc pod uwagę przyczynę naruszenia ochrony danych
+osobowych – obciąża zarówno GOPS, jak i Wójta. Z przedstawionych wyjaśnień wynika,
+że Podmiot przetwarzający nie przeprowadzał regularnego testowania, mierzenia i oce‐
+niania środków technicznych i organizacyjnych, których wdrożenie miało gwarantować
+bezpieczeństwo systemów informatycznych wykorzystywanych do celów przetwarzania
+danych osobowych. Powyższe oznacza, że Administrator i Podmiot przetwarzający nie
+wywiązali się z obowiązku, o którym mowa w art. 32 ust. 1 lit. d) rozporządzenia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 34 z 58
+
+2016/679, a przy tym Administrator naruszył również zasadę rozliczalności (art. 5 ust. 2
+rozporządzania 2016/679).
+Wójt wyjaśnił, że przyczyną niepodejmowania adekwatnych działań w tym obszarze były
+ograniczone środki finansowe. Taka argumentacja nie może zostać uznana jako uzasad‐
+nienie niewprowadzenia właściwych rozwiązań w omawianym obszarze, chociażby z
+uwagi na fakt, że po wystąpieniu naruszenia ochrony danych osobowych Wójt wygospo‐
+darował środki finansowe niezbędne do wprowadzenia odpowiednich zmian w celu do‐
+stosowania procesu przetwarzania danych osobowych do wymogów określonych w roz‐
+porządzeniu 2016/679. Nie może umknąć uwadze fakt, iż od dnia rozpoczęcia stosowa‐
+nia przepisów ww. rozporządzenia do wystąpienia przedmiotowego naruszenia ochrony
+danych osobowych upłynął wystarczająco długi okres czasu niezbędny dla wprowadzenia
+właściwych rozwiązań organizacyjnych i technicznych gwarantujących bezpieczeństwo w
+procesie przetwarzania danych osobowych, a co za tym idzie, również na etapie konstru‐
+owania budżetu nie istniały obiektywne przesłanki dla odstąpienia od wprowadzenia
+adekwatnych rozwiązań. Impulsem dla wprowadzenia zmian stało się dopiero naruszenie
+ochrony danych osobowych.
+Jak wynika ze zgromadzonego materiału dowodowego, przed wystąpieniem naruszenia
+ochrony danych osobowych, „(…) mierzenie i ocenianie skuteczności środków technicz‐
+nych i organizacyjnych mających zapewnić bezpieczeństwo przetwarzanych danych oso‐
+bowych w systemach informatycznych opierało się wyłącznie na przeprowadzaniu pod‐
+stawowych analiz ryzyka oraz wiedzy i doświadczeniu dedykowanego pracownika,
+zajmującego się obsługą IT w UG (…)”. Biorąc zatem pod uwagę wyjaśnienia Wójta oraz
+efekty działań, należy stwierdzić, że testom nie były poddawane w pełnym zakresie za‐
+bezpieczenia techniczne oraz organizacyjne w odniesieniu do systemów informatycz‐
+nych wykorzystywanych do przetwarzania danych osobowych. W związku z powyższym
+Wójt nie był w stanie wykazać, ani stwierdzić, że zastosowane środki bezpieczeństwa
+posiadają znamiona wystarczalności.
+W przedmiotowym stanie faktycznym nie sposób uznać, że Wójt wywiązywał się z oma‐
+wianego obowiązku, weryfikując i modyfikując poziom skuteczności wdrożonych
+zabezpieczeń. Działanie Wójta polegające „wyłącznie na przeprowadzaniu podstawo‐
+wych analiz ryzyka oraz wiedzy i doświadczeniu dedykowanego pracownika,
+zajmującego się obsługą IT w UG”, nie może zostać uznane za realizację obowiązku okre‐
+ślonego powołanym przepisem rozporządzenia 2016/679. Przyjęta przez Wójta metodyka
+przeprowadzonych testów nie była w stanie wykazać rzetelnej oceny stanu bezpieczeń‐
+stwa systemów informatycznych wskazującej wszystkie podatności oraz odporność na
+próby przełamania zabezpieczeń na skutek nieuprawnionego działania osoby trzeciej
+oraz złośliwego oprogramowania. Wobec powyższego ocena stanu bezpieczeństwa oka‐
+zała się niewystarczająca w zakresie zastosowania odpowiednich zabezpieczeń
+technicznych i organizacyjnych.
+Działania Administratora w tym zakresie był również bardzo ograniczone. Nie można
+bowiem uznać, że „regularne aktualizacje i przegląd polityki bezpieczeństwa”, „kontrola
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 35 z 58
+
+dostępu do pomieszczenia serwerowego, ograniczoną wyłącznie do uprawnionych osób”,
+„przeglądy stacji roboczych” były wystarczające, zwłaszcza, że Podmiot przetwarzający
+(jak sam przyznał) nie dokonywał weryfikacji wdrożonych środków mających gwaranto‐
+wać bezpieczeństwo w procesie przetwarzania danych osobowych.
+Z powyższego wynika zatem, że Administrator nie wykazał (wbrew obowiązkowi przewi‐
+dzianemu w art. 5 ust. 2 rozporządzenia 2016/679) ani faktu, ani sposobu przeprowadza‐
+nia w sposób regularny testów dotyczących weryfikacji zabezpieczeń systemów
+informatycznych służących do przetwarzania danych osobowych.
+Dokonane ustalenia nie dają podstawy do stwierdzenia, że środki techniczne i organiza‐
+cyjne stosowane przez Administratora w celu zapewnienia bezpieczeństwa danych oso‐
+bowych były adekwatne do stanu wiedzy technicznej, kosztów wdrażania oraz charakte‐
+ru, zakresu, kontekstu i celów przetwarzania; środki te w ocenie Prezesa UODO nie były
+w odpowiedni sposób poddawane przeglądom i uaktualniane, co w konsekwencji nie
+zapewniało skutecznej realizacji zasad ochrony danych.
+
+VI. Obowiązek przestrzegania zasady rozliczalności. Na‐
+ruszenia art. 5 ust. 2 rozporządzenia 2016/679.
+Kolejną kwestią, którą należy podnieść, jest konieczność przestrzegania zasady rozliczal‐
+ności, o której mowa w art. 5 ust. 2 rozporządzenia 2016/679. W orzecznictwie wskazuje
+się, że „(…) rozporządzenie 2016/679 nie przesądza jednak o tym, jak administrator po‐
+winien realizować obowiązki wynikające z zasady rozliczalności zawartej w art. 5 ust. 2
+ww. rozporządzenia, niemniej jednak wskazuje na konieczność rozliczania się z prze‐
+strzegania przepisów, raportowania ich realizacji oraz przedstawiania dowodów świad‐
+czących o prawidłowym wykonywaniu obowiązków. Zasada rozliczalności zobowiązuje
+administratorów do demonstrowania podjęcia wszelkich środków mających na celu za‐
+pewnienie zgodności z obowiązkiem ochrony danych osobowych. W świetle ww. zasady
+to administrator, a nie organ nadzorczy zajmujący się ochroną danych osobowych, odpo‐
+wiada za opracowanie, aktualizowanie i utrzymywanie wszystkich procedur i dokumen‐
+tów związanych z ochroną danych osobowych, a także za stworzenie możliwości
+dowodowych wykazujących zgodność przetwarzania z przepisami (…)” (wyrok WSA w
+Warszawie z 1 lutego 2022 r., sygn. II SA/Wa 2106/21, LEX nr 3392761). Powyższe po‐
+twierdza orzeczenie WSA w Warszawie z 10 lutego 2021 r., sygn. II SA/Wa 2378/20: „Za‐
+sada rozliczalności bazuje więc na prawnej odpowiedzialności administratora za właści‐
+we wypełnianie obowiązków i nakłada na niego obowiązek wykazania zarówno przed or‐
+ganem nadzorczym, jak i przed podmiotem danych, dowodów na przestrzeganie
+wszystkich zasad przetwarzania danych.” Podobnie kwestię zasady rozliczalności inter‐
+pretuje WSA w Warszawie w wyroku z 26 sierpnia 2020 r., sygn. II SA/Wa 2826/19 (utrzy‐
+manym w mocy wyrokiem Naczelnego Sądu Administracyjnego z 28 lutego 2024 r.,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 36 z 58
+
+sygn. akt III OSK 3839/21): „Biorąc pod uwagę całość norm rozporządzenia 2016/679,
+podkreślić należy, że administrator ma znaczną swobodę w zakresie stosowanych zabez‐
+pieczeń, jednocześnie jednak ponosi odpowiedzialność za naruszenie przepisów o ochro‐
+nie danych osobowych. Z zasady rozliczalności wprost wynika, że to administrator da‐
+nych powinien wykazać, a zatem udowodnić, że przestrzega przepisów określonych w
+art. 5 ust. 1 rozporządzenia 2016/679.”
+Przed wystąpieniem naruszenia ochrony danych osobowych Administrator przeprowadził
+co prawda analizę ryzyka dla operacji przetwarzania danych osobowych w związku z wy‐
+korzystywaniem sprzętu komputerowego zagrożonego możliwością infekcji złośliwym
+oprogramowaniem, ale wobec faktu, że Podmiot przetwarzający takiej analizy nie prze‐
+prowadził, a także dlatego, że Administrator nie podjął odpowiednich działań w zakresie
+regularnego testowania, mierzenia i oceniania skuteczności środków technicznych i or‐
+ganizacyjnych mających zapewnić bezpieczeństwo przetwarzania – Administrator nie
+monitorował zarówno adekwatności, jak i skuteczności zastosowanych zabezpieczeń,
+wbrew nie tylko obowiązkom wynikającym z art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust.
+1 i 2 rozporządzenia 2016/679, ale także zasadzie rozliczalności, o której mowa w art. 5
+ust. 2 rozporządzenia 2016/679.
+Z przedłożonych przez Administratora i Podmiot przetwarzający wyjaśnień wynika, że
+wdrożenie odpowiednich procedur i rozwiązań nastąpiło dopiero po wystąpieniu przed‐
+miotowego naruszenia ochrony danych osobowych (por. pkt IV uzasadnienia faktyczne‐
+go).
+Podkreślić zatem należy, że wprowadzenie po naruszeniu ochrony danych osobowych
+przez Administratora i Podmiot przetwarzający zmian w obszarze zabezpieczeń systemu
+informatycznego wykorzystywanego do przetwarzania danych osobowych nie zmienia
+negatywnej oceny tego aspektu procesu przetwarzania danych osobowych realizowane‐
+go przez Podmiot przetwarzający w imieniu Administratora, a stanowi jedynie przesłankę
+za odstąpieniem od nakazania ww. podmiotom dokonania zmian w tym obszarze celem
+dostosowania operacji przetwarzania danych do wymogów rozporządzenia 2016/679.
+
+VII. Obowiązek zgłoszenia naruszenia ochrony danych
+osobowych organowi nadzorczemu. Naruszenia art. 33
+ust. 1 rozporządzenia 2016/679.
+Zgodnie z art. 4 pkt 12 rozporządzenia 2016/679, „naruszenie ochrony danych osobo‐
+wych” oznacza naruszenie bezpieczeństwa prowadzące do przypadkowego lub niezgod‐
+nego z prawem zniszczenia, utracenia, zmodyfikowania, nieuprawnionego ujawnienia lub
+nieuprawnionego dostępu do danych osobowych przesyłanych, przechowywanych lub w
+inny sposób przetwarzanych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 37 z 58
+
+Art. 33 ust. 1 i 3 rozporządzenia 2016/679 stanowi, że w przypadku naruszenia ochrony
+danych osobowych, administrator danych bez zbędnej zwłoki – w miarę możliwości, nie
+później niż w terminie 72 godzin po stwierdzeniu naruszenia – zgłasza je organowi nad‐
+zorczemu właściwemu zgodnie z art. 55, chyba że jest mało prawdopodobne, by naru‐
+szenie to skutkowało ryzykiem naruszenia praw lub wolności osób fizycznych. Do zgło‐
+szenia przekazanego organowi nadzorczemu po upływie 72 godzin dołącza się wyjaśnie‐
+nie przyczyn opóźnienia. Zgłoszenie, o którym mowa w ust. 1, musi co najmniej: a) opi‐
+sywać charakter naruszenia ochrony danych osobowych, w tym w miarę możliwości
+wskazywać kategorie i przybliżoną liczbę osób, których dane dotyczą, oraz kategorie i
+przybliżoną liczbę wpisów danych osobowych, których dotyczy naruszenie; b) zawierać
+imię i nazwisko oraz dane kontaktowe inspektora ochrony danych lub oznaczenie innego
+punktu kontaktowego, od którego można uzyskać więcej informacji; c) opisywać możliwe
+konsekwencje naruszenia ochrony danych osobowych; d) opisywać środki zastosowane
+lub proponowane przez administratora w celu zaradzenia naruszeniu ochrony danych
+osobowych, w tym w stosownych przypadkach środki w celu zminimalizowania jego
+ewentualnych negatywnych skutków.
+Z treści powołanych wyżej przepisów rozporządzenia 2016/679 wynika, że w przypadku
+wystąpienia naruszenia ochrony danych osobowych po stronie administratora danych
+powstaje obowiązek zgłoszenia go Prezesowi UODO, jeśli z danym naruszeniem wiąże
+się ryzyko naruszenia praw lub wolności osób fizycznych, niezależnie od poziomu tego
+ryzyka. Podkreślić w tym miejscu należy, że „małe prawdopodobieństwo” zaistnienia
+skutku w postaci naruszenia praw lub wolności osoby, której dane dotyczą, które stosow‐
+nie do art. 33 ust. 1 rozporządzenia 2016/679 powoduje brak konieczności zgłoszenia
+naruszenia ochrony danych osobowych organowi nadzorczemu, powinno być utożsamia‐
+ne z sytuacją, w której oceniający posiada przesłanki pozwalające na stwierdzenie, że
+skutek ten nie urzeczywistni się w ogóle – a zatem wtedy, gdy mówimy o „braku ryzy‐
+ka”. War‐
+to zauważyć, że w polskiej wersji rozporządzenia 2016/679 użyto sformułowania „mało
+prawdopodobne”, zaś w angielskiej – terminu „unlikely”. Wyraz ten ma silniejsze znacze‐
+nie niż nasz rodzimy odpowiednik i służy do określenia czegoś, co jest raczej nieprawdo‐
+podobne, wątpliwie lub niemal niemożliwe. Warto również odwołać się w tym miejscu do
+Wytycznych 09/2022 dotyczących zgłaszania naruszenia ochrony danych osobowych na
+podstawie RODO[5], dalej jako Wytyczne 09/2022, a zwłaszcza do działu II tych Wytycz‐
+nych dotyczącego art. 33 rozporządzenia 2016/679 oraz wynikającego z niego obowiąz‐
+ku powiadomienia organu nadzorczego. W rozdziale D tego działu EROD omówiła warun‐
+ki, w których powiadomienie takie nie jest wymagane. Wnikliwe przeanalizowanie treści
+tego rozdziału pozwala stwierdzić, że EROD stoi na stanowisku, że wyjątek z art. 33 ust.
+1 rozporządzenia 2016/679 (tj. przypadek, gdy nie powstaje obowiązek zgłoszenia naru‐
+szenia ochrony danych osobowych organowi nadzorczemu ze względu na małe prawdo‐
+podobieństwo wystąpienia naruszenia praw lub wolności osób fizycznych) należy rozu‐
+mieć wąsko – inaczej mówiąc: jako wyjątek, który znajdzie zastosowanie w sytuacjach,
+gdy to prawdopodobieństwo jest w sposób oczywisty małe.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 38 z 58
+
+Zgłaszanie naruszeń ochrony danych osobowych przez administratorów stanowi skutecz‐
+ne narzędzie przyczyniające się do realnej poprawy bezpieczeństwa przetwarzania da‐
+nych osobowych. Zgłaszając naruszenie organowi nadzorczemu, administratorzy infor‐
+mują Prezesa UODO, czy w ich ocenie wystąpiło wysokie ryzyko naruszenia praw lub wol‐
+ności osób, których dane dotyczą oraz – jeżeli takie ryzyko wystąpiło – czy przekazali
+stosowne informacje osobom fizycznym, na które naruszenie wywiera wpływ. W uzasad‐
+nionych przypadkach mogą również przekazać informacje, że powiadomienie w ich oce‐
+nie nie jest konieczne ze względu na spełnienie warunków określonych w art. 34 ust. 3
+lit. a) – c) rozporządzenia 2016/679. Prezes UODO dokonuje weryfikacji oceny dokonanej
+przez administratora i może – jeżeli administrator nie zawiadomił osób, których dane do‐
+tyczą – zażądać od niego takiego zawiadomienia. Zgłoszenia naruszenia ochrony danych
+osobowych pozwalają organowi nadzorczemu na właściwą reakcję mogącą ograniczyć
+skutki takich naruszeń, bowiem administrator ma obowiązek podjęcia skutecznych dzia‐
+łań zapewniających ochronę osobom fizycznym i ich danym osobowym, które z jednej
+strony pozwolą na kontrolę skuteczności dotychczasowych rozwiązań, a z drugiej ocenę
+modyfikacji i usprawnień służących zapobieżeniu nieprawidłowościom analogicznym do
+objętych naruszeniem.
+W przedmiotowej sprawie zgłoszenia naruszenia ochrony danych osobowych z 23 marca
+2021 r. zostało pierwotnie przekazane organowi przez Podmiot przetwarzający. Admini‐
+strator także zgłosił to naruszenie ochrony danych osobowych, ale zrealizował swój
+obowiązek dopiero 16 września 2022 r.
+Jak wskazują Wytyczne 07/2020 „(…) podmiot przetwarzający musi pomagać administra‐
+torowi w wypełnianiu obowiązku powiadamiania organu nadzorczego i osób, których
+dane dotyczą, o naruszeniu ochrony danych osobowych. Podmiot przetwarzający musi
+powiadomić administratora o każdym przypadku wykrycia naruszenia ochrony danych
+osobowych mającego wpływ na urządzenia/systemy informatyczne podmiotu przetwa‐
+rzającego lub podwykonawcy przetwarzania oraz pomóc administratorowi w uzyskaniu
+informacji, które należy zawrzeć w sprawozdaniu dla organu nadzorczego. W RODO wy‐
+maga się, aby administrator zgłaszał naruszenie bez zbędnej zwłoki, aby zminimalizować
+szkodę poniesioną przez osoby fizyczne i zmaksymalizować możliwość zaradzenia naru‐
+szeniu w odpowiedni sposób. W związku z tym podmiot przetwarzający powinien powia‐
+domić administratora danych bez zbędnej zwłoki. W zależności od szczególnych cech
+przetwarzania powierzonego podmiotowi przetwarzającemu właściwe może być, aby
+strony uwzględniły w umowie konkretny termin (np. liczbę godzin), w którym podmiot
+przetwarzający powinien zgłosić naruszenie administratorowi, a także punkt kontaktowy
+dla takich zgłoszeń, sposób zgłoszenia i minimalny zakres jego treści oczekiwane przez
+administratora. Ustalenia umowne między administratorem a podmiotem przetwarzają‐
+cym mogą również obejmować upoważnienie i zobowiązanie podmiotu przetwarzającego
+do bezpośredniego zgłaszania naruszenia ochrony danych zgodnie z art. 33 i 34, przy
+czym odpowiedzialność prawna za zgłoszenie spoczywa na administratorze. Jeżeli pod‐
+miot przetwarzający zgłosi naruszenie ochrony danych bezpośrednio organowi nadzor‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 39 z 58
+
+czemu i poinformuje osoby, których dane dotyczą, zgodnie z art. 33 i 34, podmiot prze‐
+twarzający musi również poinformować administratora i przekazać administratorowi
+kopie zgłoszenia i informacje przekazane osobom, których dane dotyczą (…)”. Z kolei
+Wytyczne 09/2022 wskazują, że „(…) w umowie między administratorem a podmiotem
+przetwarzającym należy określić, w jaki sposób planuje się zagwarantować spełnienie
+wymogów ustanowionych w art. 33 ust. 2 oraz zapewnić zgodność z innymi przepisami
+RODO. Może wiązać się to z ustanowieniem obowiązku wczesnego zgłaszania naruszeń
+przez podmiot przetwarzający, co z kolei ułatwia administratorowi wywiązanie się ze
+spoczywających na nim obowiązków w zakresie zgłaszania naruszeń organowi nadzor‐
+czemu w terminie 72 godzin (…) Podmiot przetwarzający mógłby dokonać zgłoszenia w
+imieniu administratora, jeżeli administrator udzieliłby takiemu podmiotowi przetwarzają‐
+cemu stosownego zezwolenia, a kwestia ta zostałaby uregulowana w uzgodnieniach
+umownych między administratorem a podmiotem przetwarzającym. Takiego zgłoszenia
+należy dokonać zgodnie z art. 33 i 34 RODO. W tym kontekście należy jednak pamiętać,
+że zgodnie z obowiązującymi przepisami odpowiedzialność za dokonanie zgłoszenia
+spoczywa na administratorze (…)”.
+Jak już szczegółowo wykazano w pkt IX stanu faktycznego, Administrator nie zawarł z
+Podmiotem przetwarzającym stosowanego porozumienia dotyczącego zgłaszania
+naruszeń organowi nadzorczemu.
+Zgodnie z art. 33 ust. 1 rozporządzenia 2016/679 Administrator powinien zgłosić naru‐
+szenie ochrony danych osobowych w terminie 72 godzin od jego stwierdzenia. W tej
+sprawie Administrator stwierdził naruszenie 23 marca 2021 r, a zgłoszenia naruszenia
+ochrony danych osobowych GOPS dokonał dopiero 16 września 2022 r., tj. znacznie po
+upływie 72 godzin od jego stwierdzenia. Uznać zatem należy, że Administrator naruszył
+art. 33 ust. 1 rozporządzenia 2016/679.
+
+VIII. Podsumowanie stwierdzonego naruszenia przepisów
+rozporządzenia 2016/679
+Dokonane ustalenia nie dają zatem podstawy do stwierdzenia, że stosowane przez Admi‐
+nistratora oraz Podmiot przetwarzający środki techniczne i organizacyjne w celu zapew‐
+nienia bezpieczeństwa danych osobowych były adekwatne do stanu wiedzy technicznej,
+kosztów wdrażania oraz charakteru, zakresu, kontekstu i celów przetwarzania, co w kon‐
+sekwencji nie zapewniało skutecznej realizacji zasad ochrony danych. Jak już wskazano
+w uzasadnieniu, Administrator nie weryfikował adekwatności środków technicznych i or‐
+ganizacyjnych wdrożonych przez Podmiot przetwarzający, które miały zapewnić bezpie‐
+czeństwo w procesie przetwarzania danych osobowych, co skutkuje naruszeniem przez
+Administratora art. 28 ust. 1 rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 40 z 58
+
+Podmiot przetwarzający nie przeprowadził analizy ryzyka, która uwzględniałaby zagroże‐
+nia wynikające z możliwości zaszyfrowania serwera w następstwie ataku hackerskiego.
+Ponadto Administrator oraz Podmiot przetwarzający nie wdrożyli polityki regularnego te‐
+stowania, mierzenia i oceniania skuteczności środków bezpieczeństwa przetwarzania da‐
+nych osobowych. Powyższe oznacza, że Administrator naruszył art. 32 ust. 1 i 2 rozpo‐
+rządzenia 2016/679, a Podmiot przetwarzający naruszył art. 32 ust. 1 i 2 w związku z art.
+28 ust. 3 lit. c) i f) rozporządzenia 2016/679.
+Obowiązki w zakresie wdrożenia odpowiednich środków technicznych i organizacyjnych,
+aby przetwarzanie odbywało się zgodnie z rozporządzeniem 2016/679 oraz w celu nada‐
+nia przetwarzaniu niezbędnych zabezpieczeń, tak aby spełniać wymogi rozporządzenia
+2016/679, zostały nałożone na Administratora (i tylko na Administratora) przepisami art.
+24 ust. 1 i art. 25 ust. 1 rozporządzenia 2016/679. Wobec braku zastosowania przez Ad‐
+ministratora adekwatnych środków bezpieczeństwa, o czym wyżej mowa, uznać należy,
+że Administrator naruszył także i te przepisy rozporządzenia 2016/679. Konsekwencją
+zaś ich naruszenia jest konieczność stwierdzenia, że naruszona została również przez Ad‐
+ministratora zasada poufności wyrażona w art. 5 ust. 1 lit. f) rozporządzenia 2016/679, a
+w konsekwencji również zasada rozliczalności, o której mowa w art. 5 ust. 2
+rozporządzenia 2016/679.
+Prawidłowe i skuteczne zabezpieczenie danych osobowych zostało w rozporządzeniu
+2016/679 podniesione do rangi ogólnej zasady, co świadczy o tym, że kwestia zapewnie‐
+nia poufności danych powinna być traktowana w sposób szczególny i priorytetowy przez
+Administratora. Tymczasem, jak już wykazano w uzasadnieniu niniejszej decyzji, Admini‐
+strator i Podmiot przetwarzający nie wdrożyli odpowiednich środków technicznych i orga‐
+nizacyjnych mających zapewnić bezpieczeństwo przetwarzania danych osobowych.
+Podsumowując stwierdzone naruszenie przepisów rozporządzenia 2016/679 należy
+wskazać, że Administrator naruszył także art. 33 ust. 1 rozporządzenia 2016/679, bo‐
+wiem nie wywiązał się z obowiązku zgłoszenia naruszenia ochrony danych osobowych
+Prezesowi UODO w terminie 72 godzin po stwierdzeniu naruszenia ochrony danych oso‐
+bowych, a jednocześnie nie wykazał, że zawarł z Podmiotem przetwarzającym stosowne
+porozumienie, które uprawniało Podmiot przetwarzający do realizacji tego obowiązku za
+Administratora.
+
+IX. Uzasadnienie udzielenia upomnienia Administratorowi
+za naruszenie art. 33 ust. 1 rozporządzenia 2016/679
+Stosując przepisy rozporządzenia 2016/679 należy mieć na uwadze, że celem tego roz‐
+porządzenia (wyrażonym w art. 1 ust. 2) jest ochrona podstawowych praw i wolności
+osób fizycznych, w szczególności ich prawa do ochrony danych osobowych oraz, że
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 41 z 58
+
+ochrona osób fizycznych w związku z przetwarzaniem danych osobowych jest jednym z
+praw podstawowych (zdanie pierwsze motywu 1 preambuły). W przypadku jakichkolwiek
+wątpliwości np. co do wykonania obowiązków przez Administratorów – nie tylko w sytu‐
+acji, gdy doszło do naruszenia ochrony danych osobowych, ale też przy opracowywaniu
+technicznych i organizacyjnych środków bezpieczeństwa mających im zapobiegać –
+należy w pierwszej kolejności brać pod uwagę te wartości.
+W celu monitorowania i egzekwowania stosowania przepisów rozporządzenia 2016/679
+Prezes UODO został wyposażony w instrumenty, które służą doprowadzeniu do sytuacji,
+w której administrator i/lub podmiot przetwarzający wywiąże się z obowiązków nałożo‐
+nych na niego tym rozporządzeniem. W przedmiotowej sprawie stan naruszenia przepi‐
+sów rozporządzenia 2016/679 został zażegnany. Nie oznacza to jednak braku konieczno‐
+ści wyegzekwowania od Administratora i Podmiotu przetwarzającego odpowiedzialności
+za stwierdzone naruszenie przepisów tego rozporządzenia. Pośród przyznanych organowi
+nadzorczemu narzędzi znajdują się takie, które w sytuacji stwierdzenia naruszenia prze‐
+pisów o ochronie danych osobowych mają służyć wzmocnieniu respektowania prawa o
+ochronie danych, poprzez oddziaływanie o charakterze upominawczym (art. 58 ust. 2 lit.
+b) rozporządzenia 2016/679) bądź represyjnym (art. 58 ust. 2 lit. i) w zw. z art. 83 rozpo‐
+rządzenia 2016/679). Ocena zasadności skorzystania z tego rodzaju narzędzi
+pozostawiona została organowi nadzorczemu.
+Zgodnie z art. 58 ust. 2 lit. b) rozporządzenia 2016/679, każdemu organowi nadzorcze‐
+mu przysługuje w zakresie prowadzonych postępowań uprawnienie do udzielania upo‐
+mnienia administratorowi lub podmiotowi przetwarzającemu, w przypadku naruszenia
+przepisów niniejszego rozporządzenia przez operacje przetwarzania.
+Motyw 148 rozporządzenia 2016/679 stanowi, że aby egzekwowanie przepisów rozporzą‐
+dzenia było skuteczniejsze, należy za jego naruszenie nakładać sankcje, w tym admini‐
+stracyjne kary pieniężne - oprócz lub zamiast odpowiednich środków nakładanych na
+mocy niniejszego rozporządzenia przez organ nadzorczy. Jeżeli naruszenie jest niewiel‐
+kie, karę pieniężną można zastąpić upomnieniem. Powinno się jednak zwrócić należytą
+uwagę na charakter, wagę oraz czas trwania naruszenia, na to, czy naruszenie nie było
+umyślne, na działania podjęte dla zminimalizowania szkody, na stopień odpowiedzialno‐
+ści lub wszelkie mające znaczenie wcześniejsze naruszenia, na sposób, w jaki organ nad‐
+zorczy dowiedział się o naruszeniu, na przestrzeganie środków nałożonych na admini‐
+stratora lub podmiot przetwarzający, na stosowanie kodeksów postępowania oraz
+wszelkie inne czynniki obciążające lub łagodzące.
+Określenie charakteru naruszenia polega na ustaleniu, który przepis rozporządzenia
+2016/679 został naruszony i zakwalifikowaniu naruszenia do właściwej kategorii naruszo‐
+nych przepisów, tj. wskazanych w art. 83 ust. 4 rozporządzenia 2016/679 lub/oraz w art.
+83 ust. 5 i 6 rozporządzenia 2016/679. Na ocenę wagi naruszenia (np. niską, średnią lub
+znaczną) wskazywać będą charakter naruszenia, jak również zakres, cel danego prze‐
+twarzania, liczba poszkodowanych osób, których dane dotyczą, oraz rozmiar poniesionej
+przez nie szkody.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 42 z 58
+
+Prezes UODO uznał, że w ustalonych okolicznościach niniejszej sprawy wystarczającym
+środkiem za naruszenie art. 33 ust. 1 rozporządzenia 2016/679 jest udzielenie Admini‐
+stratorowi upomnienia. Mimo znaczącego opóźnienia w zgłoszeniu naruszenia ochrony
+danych osobowych przez Administratora należy zaznaczyć, że zgłoszenia dokonał Pod‐
+miot przetwarzający, który w tym zgłoszeniu przekazał organowi nadzorczemu wszystkie
+informacje, o których mowa w art. 33 ust. 3 rozporządzenia 2016/679.
+Naruszenie przez GOPS art. 33 ust. 1 rozporządzenia 2016/679 dotyczy więc jednorazo‐
+wego zdarzenia, a zatem nie mamy do czynienia z systematycznym działaniem lub za‐
+niechaniem, które stanowiłoby poważne zagrożenie dla praw osób, których dane osobo‐
+we są przetwarzane. Powyższe okoliczności uzasadniają udzielenie Administratorowi
+upomnienia za stwierdzone naruszenie 33 ust. 1 rozporządzenia 2016/679, co zapewni
+także, aby w przyszłości podobne zdarzenia nie miały miejsca. Niemniej jednak, gdyby
+podobne naruszenie ww. przepisu prawa powtórzyło się w przyszłości, każde upomnienie
+wydane przez Prezesa UODO wobec Administratora będzie brane pod uwagę przy ocenie
+przesłanek ewentualnego wymierzenia administracyjnej kary pieniężnej, zgodnie z
+zasadami określonymi w art. 83 ust. 2 rozporządzenia 2016/679.
+
+X. Administracyjne kary pieniężne
+Na podstawie art. 58 ust. 2 lit. i) rozporządzenia 2016/679, każdemu organowi nadzor‐
+czemu przysługuje uprawnienie do zastosowania, oprócz lub zamiast innych środków na‐
+prawczych przewidzianych w art. 58 ust. 2 lit. a) - h) oraz lit. j) tego rozporządzenia, ad‐
+ministracyjnej kary pieniężnej na mocy art. 83 rozporządzenia 2016/679, zależnie od
+okoliczności konkretnej sprawy. Mając na uwadze ustalenia stanu faktycznego, Prezes
+UODO korzystając z przysługującego mu uprawnienia określonego we wskazanym wyżej
+przepisie rozporządzenia 2016/679 stwierdził, że w rozpatrywanej sprawie zaistniały
+przesłanki uzasadniające nałożenie administracyjnej kary pieniężnej na Administratora i
+Podmiot przetwarzający.
+Zgodnie z art. 83 ust. 4 lit. a) rozporządzenia 2016/679, naruszenia przepisów dotyczą‐
+cych obowiązków administratora i podmiotu przetwarzającego, o których mowa w art. 8,
+11, 25 –39 oraz 42 i 43 podlegają zgodnie z ust. 2 administracyjnej karze pieniężnej w
+wysokości do 10 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 2 %
+jego całkowitego rocznego światowego obrotu z poprzedniego roku obrotowego, przy
+czym zastosowanie ma kwota wyższa.
+Zgodnie z art. 83 ust. 5 lit. a) rozporządzenia 2016/679, naruszenia przepisów dotyczą‐
+cych podstawowych zasad przetwarzania, w tym warunków zgody, o których to zasa‐
+dach i warunkach mowa w art. 5, 6, 7 oraz 9, podlegają zgodnie z ust. 2 administracyjnej
+karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 43 z 58
+
+wysokości do 4 % jego całkowitego rocznego światowego obrotu z poprzedniego roku
+obrotowego, przy czym zastosowanie ma kwota wyższa.
+Art. 83 ust. 3 rozporządzenia 2016/679 natomiast stanowi, że jeżeli administrator lub
+podmiot przetwarzający narusza umyślnie lub nieumyślnie w ramach tych samych lub
+powiązanych operacji przetwarzania kilka przepisów niniejszego rozporządzenia, całko‐
+wita wysokość administracyjnej kary pieniężnej nie przekracza wysokości kary za
+najpoważniejsze naruszenie.
+Natomiast zgodnie z art. 102 ust. 1 pkt 1 u.o.d.o., Prezes UODO może nałożyć, w drodze
+decyzji, administracyjne kary pieniężne w wysokości do 100 000 złotych, na jednostki
+sektora finansów publicznych, o których mowa w art. 9 pkt 1-12 i 14 ustawy z dnia 27
+sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270 ze zm.). Zarówno Ad‐
+ministrator, jak i Podmiot przetwarzający stanowią podmioty, których dotyczy ten limit
+kar. Administracyjne kary pieniężne, o których mowa w ust. 1 i 2, Prezes Urzędu nakłada
+na podstawie i na warunkach określonych w art. 83 rozporządzenia 2016/679 (art. 102
+ust. 3 u.o.d.o.).
+W niniejszej sprawie administracyjna kara pieniężna wobec Administratora nałożona zo‐
+stała za naruszenie art. 25 ust. 1, art. 28 ust. 1, art. 32 ust. 1 i 2 rozporządzenia
+2016/679 na podstawie przytoczonego wyżej art. 83 ust. 4 lit. a) rozporządzenia
+2016/679, natomiast za naruszenie art. 5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia
+2016/679 – na podstawie art. 83 ust. 5 lit. a) tego rozporządzenia. Jednocześnie kara na‐
+łożona na Administratora łącznie za naruszenie wszystkich powyższych przepisów – sto‐
+sownie do przepisu art. 83 ust. 3 rozporządzenia 2016/679 – nie przekracza wysokości
+kary za najpoważniejsze stwierdzone w niniejszej sprawie naruszenie, tj. naruszenie art.
+5 ust. 1 lit. f) rozporządzenia 2016/679, które stosownie do art. 83 ust. 5 lit. a) rozporzą‐
+dzenia 2016/679 podlega administracyjnej karze pieniężnej w wysokości do 20 000 000
+EUR, a w przypadku przedsiębiorstwa – w wysokości do 4 % jego całkowitego rocznego
+światowego obrotu z poprzedniego roku obrotowego, ani nie przekracza limitu kar
+określonego w art. 102 ust. 1 pkt 1 u.o.d.o.
+Z kolei administracyjna kara pieniężna wobec Podmiotu przetwarzającego nałożona zo‐
+stała za naruszenie art. 32 ust. 1 i 2 w związku z art. 28 ust. 3 lit. c) i f) rozporządzenia
+2016/679 na podstawie art. 83 ust. 4 lit. a) rozporządzenia 2016/679, które stosownie do
+tego przepisu prawa podlega administracyjnej karze pieniężnej w wysokości do 10 000
+000 EUR, a w przypadku przedsiębiorstwa - w wysokości do 2 % jego całkowitego roczne‐
+go światowego obrotu z poprzedniego roku obrotowego, ani nie przekracza limitu kar
+określonego w art. 102 ust. 1 pkt 1 u.o.d.o.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 44 z 58
+
+XI.a) Uzasadnienie nałożenia i ustalenia wysokości admi‐
+nistracyjnej kary pieniężnej na Administratora
+Decydując o nałożeniu administracyjnej kary pieniężnej na Administratora Prezes UODO
+– stosownie do treści art. 83 ust. 2 lit. a) - k) rozporządzenia 2016/679 – wziął pod uwagę
+następujące okoliczności sprawy, stanowiące o konieczności zastosowania w niniejszej
+sprawie tego rodzaju sankcji oraz wpływające obciążająco na wymiar nałożonej
+administracyjnej kary pieniężnej:
+Charakter, wagę i czas trwania naruszenia przy uwzględnieniu charakteru, zakresu lub
+celu danego przetwarzania, liczby poszkodowanych osób, których dane dotyczą, oraz
+rozmiaru poniesionej przez nie szkody (art. 83 ust. 2 lit. a rozporządzenia 2016/679).
+W niniejszej sprawie stwierdzono naruszenie przez Administratora przepisów: art. 24
+ust. 1, art. 25 ust. 1, art. 28 ust. 1, art. 32 ust. 1 i 2, art. 5 ust. 1 lit. f) i art. 5 ust. 2
+rozporządzenia 2016/679. Obciążający charakter omawianej przesłanki wynika
+przede wszystkim z faktu, że naruszone przepisy rozporządzenia 2016/679 określają
+fundamentalne obowiązki, jakie na nim spoczywają. Naruszenie zasady, o której
+mowa w art. 5 ust. 1 lit. f) rozporządzenia 2016/679, oznacza, że nie zdołał on wdro‐
+żyć adekwatnych środków technicznych i organizacyjnych, co ma bezpośredni
+wpływ na możliwość materializacji ryzyka naruszenia praw lub wolności osób fizycz‐
+nych, których dane osobowe przetwarzał. Podobnie naruszenie zasady rozliczalności
+wynikającej z art. 5 ust. 2 rozporządzenia 2016/679 związane jest z naruszeniem
+podstawowych obowiązków, których nie dochowano. Nieprzestrzeganie tej zasady
+wiąże się z niepewnością osób fizycznych i obniża poziom ich zaufania wobec jed‐
+nostki samorządu terytorialnego. Naruszenie przepisu art. 25 ust. 1 rozporządzenia
+2016/679 również ma poważny charakter, bowiem przepis ten nakłada na Admini‐
+stratora obowiązek przyjęcia proaktywnego podejścia do kwestii ochrony danych
+osobowych.
+O znacznej wadze i poważnym charakterze naruszenia przesądza także brak realiza‐
+cji obowiązków związanych z powierzeniem przetwarzania danych osobowych, tj.
+niezapewnienie, aby powierzenie to nastąpiło dopiero po przeprowadzeniu właściwej
+weryfikacji podmiotu przetwarzającego oraz jej dalszym prowadzeniu w sposób cią‐
+gły w celu potwierdzenia, że od chwili powierzenia, a później w dalszym ciągu, za‐
+pewniał on wystarczające gwarancje wdrożenia odpowiednich środków technicznych
+i organizacyjnych. Wymóg tej właściwej i ciągłej weryfikacji Podmiotu przetwarzają‐
+cego przez Administratora wynika z art. 28 ust. 1 rozporządzenia 2016/679. Wska‐
+zać także należy na istotność norm, które wynikają z art. 32 ust. 1 i 2 rozporządze‐
+nia 2016/679, bowiem przepisy te wskazują na konieczność wdrożenia adekwatnych
+środków bezpieczeństwa odpowiadających ryzyku naruszenia praw lub wolności
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 45 z 58
+
+osób fizycznych. W świetle powyższego należy podkreślić, że naruszenie tych
+przepisów również ma poważny charakter i znaczną wagę.
+Zakładając nawet, że w efekcie braku zastosowania odpowiednich środków bezpie‐
+czeństwa nie doszło do utraty poufności danych, należy wziąć pod uwagę, że Admi‐
+nistrator utracił pełen dostęp do danych osobowych, przetwarzanych w związku z
+wykonywaniem powierzonych zadań. Wobec tego należy założyć, że w okresie utra‐
+ty dostępności wystąpiło ryzyko braku możliwości załatwienia spraw konkretnych
+osób (których dane zostały naruszone). Zamiast realizować swoje zadania w pełnym
+zakresie i w normalnym trybie (tj. z wykorzystaniem systemów informatycznych),
+Administrator musiał najpierw odzyskać do dostęp do danych osobowych. Dotkli‐
+wość skutków omawianego incydentu potwierdza sam Administrator, wskazując, że
+procedował sprawy, w tym rozpatrywał wnioski, w oparciu o dokumentację papiero‐
+wą. Brak dostępności do danych odczuł nie tylko Administrator, ale nade wszystko
+naruszenie dostępności mogło spowodować utrudnienia w realizacji praw przez oso‐
+by, których dane zostały naruszone. Potencjalne utrudnienia w realizacji praw osób,
+których dane dotyczą, należy uznać za szkodę. Powyższe okoliczności determinują
+stwierdzenie, że naruszenie wskazanych wyżej przepisów rozporządzenia 2016/679
+miało znaczącą wagę i poważny charakter.
+Należy również podkreślić długi czas trwania naruszenia przepisów rozporządzenia
+2016/679, bowiem należy przyjąć, że rozpoczęło się ono w dniu 25 maja 2018 r., tj.
+w dniu rozpoczęcia stosowania rozporządzenia 2016/679, a zakończyło się najwcze‐
+śniej 28 stycznia 2022 r., tj. po przeprowadzeniu analizy ryzyka przez Podmiot prze‐
+twarzający i wdrożeniu na jej podstawie odpowiednich środków technicznych i orga‐
+nizacyjnych zapewniających stopień bezpieczeństwa odpowiadający ryzyku narusze‐
+nia praw lub wolności osób fizycznych, co jest równoznaczne z zaprzestaniem
+naruszenia przepisów rozporządzenia 2016/679 przez Administratora.
+Stwierdzone w niniejszej sprawie naruszenie przepisów ochrony danych osobowych
+stwarzało wysokie ryzyko negatywnych skutków dla wszystkich osób, których dane
+osobowe Administrator przetwarza, tj. co najmniej dla ok. 1500 osób (taką liczbę
+osób wskazano w zgłoszeniu naruszenia ochrony danych osobowych).
+Podkreślić należy ponadto, że GOPS jest jednostką organizacyjną gminy odpowie‐
+dzialną za świadczenie pomocy społecznej, wobec której należy oczekiwać zarówno
+znajomości przepisów, jak i właściwego ich stosowania, i tym samym wysokich
+standardów w zakresie bezpieczeństwa przetwarzanych danych.
+Nieumyślny charakter naruszenia (art. 83 ust. 2 lit. b rozporządzenia 2016/679).
+Zgodnie z Wytycznymi Grupy Roboczej ds. Ochrony Danych Art. 29 w sprawie stoso‐
+wania i ustalania administracyjnych kar pieniężnych do celów rozporządzenia nr
+2016/679 (dalej jako Wytyczne WP253) potwierdzonymi Wytycznymi 04/2022 w
+sprawie obliczania administracyjnych kar pieniężnych na podstawie RODO (dalej
+jako Wytyczne 04/2022[6]), umyślność „obejmuje zarówno wiedzę, jak i celowe dzia‐
+łanie, w związku z cechami charakterystycznymi czynu zabronionego”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 46 z 58
+
+Administrator był świadomy, że w przypadku dopuszczenia przetwarzania danych
+osobowych w systemach informatycznych, powinien przetwarzać dane osobowe w
+taki sposób, aby zapewnić im odpowiednie bezpieczeństwo, w tym ochronę przed
+potencjalnym atakiem złośliwego oprogramowania, a więc w taki sposób, aby
+zapewnić przestrzeganie zasady „integralności i poufności” wyrażonej w art. 5 ust. 1
+lit. f) rozporządzenia 2016/679. Z uwagi na zakres działalności jednostki organizacyj‐
+nej gminy, był on świadomy konieczności wykorzystywania systemu informatyczne‐
+go dla celów związanych z realizacją świadczeń społecznych. Powinien zatem prze‐
+widzieć możliwość naruszenia ochrony danych osobowych w następstwie ataku ran‐
+somware.
+Mimo przyjętej praktyki wykorzystywania systemu informatycznego dla celów wiążą‐
+cych się z koniecznością przetwarzania danych osobowych, Administrator nie prze‐
+prowadził między innymi analizy ryzyka w zakresie ataku za pomocą oprogramowa‐
+nia ransomware, nie dokonywał także regularnego testowania, mierzenia i oceniania
+skuteczności wprowadzonych rozwiązań oraz nie wprowadził skutecznej polityki bez‐
+pieczeństwa w zakresie wykonywania kopii zapasowych. Dopiero po wystąpieniu na‐
+ruszenia ochrony danych osobowych podjął on określone czynności o charakterze
+techniczno – organizacyjnym. W jego działaniach uwidoczniona została świadomość,
+co do braku zapewnienia odpowiedniego stopnia bezpieczeństwa danych osobo‐
+wych przetwarzanych z wykorzystaniem systemów informatycznych. W omawianym
+przypadku Administrator mógł przewidzieć, że przyjęte rozwiązania nie zapewnią
+odpowiedniego stopnia bezpieczeństwa danych osobowych, co będzie stanowiło na‐
+ruszenie przepisów o ochronie danych osobowych. Tym samym, umyślnie naruszył
+art. 24 ust. 1, 25 ust. 1, art. 28 ust. 1, art. 32 ust. 1 i 2, art. 5 ust. 1 lit. f) i art. 5 ust.
+2 rozporządzenia 2016/679.
+Biorąc pod uwagę ustalenia w sprawie będącej przedmiotem rozstrzygnięcia niniej‐
+szej decyzji należy stwierdzić, że Administrator dopuścił się zaniedbania skutkujące‐
+go wystąpieniem naruszenia dotyczącego dostępności danych. Tak więc stanowi to
+istotną okoliczność wpływającą obciążająco na wysokość kary administracyjnej.
+Kategorie danych osobowych, których dotyczyło naruszenie (art. 83 ust. 2 lit. g
+rozporządzenia 2016/679).
+Stwierdzone naruszenie przepisów rozporządzenia 2016/679 wiąże się z narusze‐
+niem szerokiego zakresu danych. Naruszone zostały dane należące do szczególnej
+kategorii danych osobowych, o których mowa w art. 9 ust. 1 rozporządzenia
+2016/679 (dane dotyczące zdrowia), oraz dane dotyczące wyroków skazujących
+(art. 10 rozporządzenia 2016/679). Ponadto naruszone zostały dane w zakresie:
+–
+nazwiska i imiona,
+–
+imiona rodziców,
+–
+data urodzenia,
+–
+numer rachunku bankowego,
+–
+adres zamieszkania lub pobytu,
+–
+numer ewidencyjny PESEL,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 47 z 58
+
+–
+–
+–
+–
+–
+
+adres e-mail,
+dane dotyczące zarobków/lub posiadanego majątku,
+seria i numer dowodu osobistego,
+numer telefonu,
+inne: obywatelstwo, wykształcenie, płeć, stan cywilny, dane opiekuna prawne‐
+go, zawód wykonywany, miejsce pracy i nauki, pozycja na rynku, kwalifikacje i
+doświadczenie zawodowe, osoby zobowiązane do alimentacji, świadczone ali‐
+menty,, wydatki, warunki mieszkaniowe, przemoc, problemy opiekuńczo wycho‐
+wawcze, wsparcie asystenta rodziny, nadzór kuratora, zadłużenia, pobyt w DPS,
+sytuacja majątkowa.
+W przedmiotowej sprawie nie ma dowodu, że doszło na naruszenia poufności da‐
+nych, ale sam fakt naruszenie takiego szerokiego danych osobowych przesądza o
+konieczności uznania tej przesłanki jako obciążającej. Powyższe wnika, że z faktu, że
+numer ewidencyjny PESEL, czyli jedenastocyfrowy symbol numeryczny, jednoznacz‐
+nie identyfikujący osobę fizyczną, zawierający m.in. datę urodzenia oraz oznaczenie
+płci, a więc ściśle powiązany ze sferą prywatną osoby fizycznej oraz podlegający
+również, jako krajowy numer identyfikacyjny, wyjątkowej ochronie na gruncie art. 87
+rozporządzenia 2016/679, jest daną o szczególnym charakterze i takiej szczególnej
+ochrony wymaga.
+W tym kontekście warto przywołać Wytyczne 04/2022, w których to wskazano: „(…)
+Jeśli chodzi o wymóg uwzględnienia kategorii danych osobowych, których dotyczyło
+naruszenie (art. 83 ust. 2 lit. g) RODO), w RODO wyraźnie wskazano rodzaje danych,
+które podlegają szczególnej ochronie, a tym samym bardziej rygorystycznej reakcji
+przy nakładaniu kar pieniężnych. Dotyczy to co najmniej rodzajów danych objętych
+art. 9 i 10 RODO oraz danych nieobjętych zakresem tych artykułów, których rozpo‐
+wszechnianie natychmiast powoduje szkody lub dyskomfort osoby, której dane doty‐
+czą (np. danych dotyczących lokalizacji, danych dotyczących komunikacji prywatnej,
+krajowych numerów identyfikacyjnych lub danych finansowych, takich jak zestawie‐
+nia transakcji lub numery kart kredytowych). Ogólnie rzecz biorąc, im większej licz‐
+by takich kategorii danych dotyczy naruszenie lub im bardziej wrażliwe są dane,
+tym większą wagę organ nadzorczy może przypisać temu czynnikowi. Znaczenie ma
+również ilość danych dotyczących każdej osoby, której dane dotyczą, ponieważ wraz
+z ilością danych dotyczących każdej osoby, której dane dotyczą, wzrasta skala
+naruszenia prawa do prywatności i ochrony danych osobowych (…)”.
+Ustalając wysokość administracyjnej kary pieniężnej, Prezes UODO uwzględnił jako oko‐
+liczność znacząco łagodzącą, mającą wpływ na obniżenie wysokości wymierzonej kary,
+dobrą współpracą Administratora z organem nadzorczym podjętą i prowadzoną w celu
+usunięcia naruszenia oraz złagodzenia jego ewentualnych negatywnych skutków [art. 83
+ust. 2 lit. f) rozporządzenia 2016/679]. Należy w tym miejscu wskazać, że poza prawidło‐
+wym wywiązywaniem się z ciążących na Administratorze obowiązków procesowych w
+trakcie postępowania administracyjnego, zakończonego wydaniem niniejszej decyzji,
+podjął on działania mające na celu zwiększenie poziomu bezpieczeństwa w procesie
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 48 z 58
+
+przetwarzania danych osobowych (por. pkt IV uzasadnienia faktycznego). W ocenie Pre‐
+zesa UODO wykonanie ww. czynności należy uznać za okoliczność łagodzącą mającą
+wpływ na obniżenie wysokości wymierzonej kary.
+Na fakt zastosowania wobec Administratora w niniejszej sprawie przez Prezesa UODO
+sankcji w postaci administracyjnej kary pieniężnej, jak również na jej wysokość, nie miały
+wpływu inne, wskazane w art. 83 ust. 2 rozporządzenia 2016/679 okoliczności, to jest:
+Działania podjęte w celu zminimalizowania szkody poniesionej przez osoby, których
+dane dotyczą (art. 83 ust. 2 lit. c rozporządzenia 2016/679).
+W kontekście tej przesłanki znaczenie ma cel, jakiemu ma służyć działanie Admini‐
+stratora, czyli zminimalizowanie szkody poniesionej przez osoby, których dane doty‐
+czą. Prezes UODO nie odnotował w niniejszym przypadku tego typu działań Admini‐
+stratora. Samo przekazanie osobom, których dotyczą ujawnione dane, informacji o
+zdarzeniu nie może być w przedmiotowej sprawie uznane za działanie w celu
+zminimalizowania szkody poniesionej przez te osoby.
+Stopień odpowiedzialności administratora z uwzględnieniem środków technicznych i or‐
+ganizacyjnych wdrożonych przez niego na mocy art. 25 i 32 (art. 83 ust. 2 lit. d
+rozporządzenia 2016/679).
+W niniejszej sprawie Prezes UODO stwierdził między innymi naruszenie art. 25 ust.
+1, art. 32 ust. 1 i 2 rozporządzenia 2016/679. W ocenie organu nadzorczego na Ad‐
+ministratorze ciąży w wysokim stopniu odpowiedzialność za niewdrożenie odpowied‐
+nich środków technicznych i organizacyjnych, które zapobiegłyby naruszeniu ochro‐
+ny danych osobowych. Oczywistym jest, że w rozważanym kontekście charakteru,
+celu i zakresu przetwarzania danych osobowych Administrator nie „zrobił wszystkie‐
+go, czego można by było od niego oczekiwać”; nie wywiązał się tym samym z nało‐
+żonych na nią przepisami art. 25 i 32 rozporządzenia 2016/679 obowiązków.
+W niniejszej sprawie okoliczność ta stanowi jednak o istocie samego naruszenia
+przepisów rozporządzenia 2016/679; nie jest jedynie czynnikiem wpływającym - ła‐
+godząco lub obciążająco - na jego ocenę. Z tego też względu brak odpowiednich
+środków technicznych i organizacyjnych, o których mowa w art. 25 i art. 32 rozpo‐
+rządzenia 2016/679, nie może zostać uznany w niniejszej sprawie za okoliczność
+mogącą dodatkowo wpłynąć na surowszą ocenę naruszenia i wymiar administracyj‐
+nej kary pieniężnej nałożonej na Administratora.
+Wszelkie stosowne wcześniejsze naruszenia ze strony administratora lub podmiotu
+przetwarzającego (art. 83 ust. 2 lit. e rozporządzenia 2016/679).
+Prezes UODO nie stwierdził jakichkolwiek, dokonanych przez Administratora, wcze‐
+śniejszych naruszeń przepisów o ochronie danych osobowych, w związku z czym
+brak jest podstaw do traktowania tej okoliczności jako obciążającej. Obowiązkiem
+każdego administratora jest przestrzeganie przepisów prawa (w tym o ochronie da‐
+nych osobowych), więc brak wcześniejszych naruszeń nie może być okolicznością
+łagodzącą przy wymierzaniu sankcji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 49 z 58
+
+Sposób w jaki organ nadzorczy dowiedział się o naruszeniu (art. 83 ust. 2 lit. h
+rozporządzenia 2016/679).
+Prezes UODO stwierdził naruszenie przepisów rozporządzenia 2016/679 w wyniku
+zgłoszenia naruszenia ochrony danych osobowych dokonanego przez Administratora
+(a wcześniej także przez Podmiot przetwarzający). Administrator dokonując tego
+zgłoszenia realizował jedynie ciążący na nim obowiązek prawny, brak jest podstaw
+do uznania, że okoliczność ta stanowi okoliczność łagodzącą. Zgodnie z Wytycznymi
+04/2022 „(…) Przy ocenie tego aspektu szczególną wagę można przypisać kwestii,
+czy administrator lub podmiot przetwarzający powiadomił o naruszeniu organ nad‐
+zorczy z własnej inicjatywy, a jeśli tak, to w jakim zakresie, zanim organ nadzorczy
+został poinformowany o naruszeniu w drodze – na przykład – skargi lub postępowa‐
+nia. Okoliczność ta nie ma znaczenia, gdy administrator podlega szczególnym obo‐
+wiązkom w zakresie zgłaszania naruszeń [np. obowiązkowi zgłaszania naruszenia
+ochrony danych osobowych określonemu w art. 33 RODO]. W takich przypadkach
+fakt dokonania zgłoszenia należy uznać za okoliczność neutralną (…)”.
+Przestrzeganie wcześniej zastosowanych w tej samej sprawie środków, o których mowa
+w art. 58 ust. 2 rozporządzenia 2016/679 (art. 83 ust. 2 lit. i rozporządzenia 2016/679).
+Przed wydaniem niniejszej decyzji Prezes UODO nie stosował w wobec Administrato‐
+ra w rozpatrywanej sprawie żadnych środków wymienionych w art. 58 ust. 2 rozpo‐
+rządzenia 2016/679, w związku z czym nie miał on obowiązku podejmowania żad‐
+nych działań związanych z ich stosowaniem, a które to działania, poddane ocenie
+Prezesa UODO, mogłyby mieć obciążający lub łagodzący wpływ na ocenę
+stwierdzonego naruszenia.
+Stosowanie zatwierdzonych kodeksów postępowania na mocy art. 40 rozporządzenia
+2016/679 lub zatwierdzonych mechanizmów certyfikacji na mocy art. 42 rozporządzenia
+2016/679 (art. 83 ust. 2 lit. j rozporządzenia 2016/679).
+Administrator nie stosuje zatwierdzonych kodeksów postępowania ani zatwierdzo‐
+nych mechanizmów certyfikacji, o których mowa w przepisach rozporządzenia
+2016/679. Ich przyjęcie, wdrożenie i stosowanie nie jest jednak - jak stanowią prze‐
+pisy rozporządzenia 2016/679 - obowiązkowe dla administratorów i podmiotów prze‐
+twarzających w związku z czym okoliczność ich niestosowania nie może być w ni‐
+niejszej sprawie poczytana na niekorzyść Administratora. Na jego korzyść natomiast
+mogłaby być uwzględniona okoliczność przyjęcia i stosowania tego rodzaju instru‐
+mentów jako środków gwarantujących wyższy niż standardowy poziom ochrony
+przetwarzanych danych osobowych.
+Osiągnięte bezpośrednio lub pośrednio w związku z naruszeniem korzyści finansowe lub
+uniknięte straty (art. 83 ust. 2 lit. k rozporządzenia 2016/679).
+W związku z naruszeniem ochrony danych osobowych Prezes UODO nie stwierdził,
+aby Administrator odniósł jakiekolwiek korzyści finansowe lub uniknął tego rodzaju
+strat. Brak jest więc podstaw do traktowania tej okoliczności jako obciążającej ten
+podmiot. Stwierdzenie zaistnienia wymiernych korzyści finansowych wynikających z
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 50 z 58
+
+naruszenia przepisów rozporządzenia 2016/679 należałoby ocenić zdecydowanie
+negatywnie. Natomiast nieosiągnięcie tego rodzaju korzyści, jako stanu naturalnego,
+niezależnego od naruszenia i jego skutków, nie może być uznane za okoliczność ła‐
+godzącą. Potwierdza to sformułowanie przepisu art. 83 ust. 2 lit. k) rozporządzenia
+2016/679, który nakazuje organowi nadzorczemu zwrócić należytą uwagę na korzy‐
+ści „osiągnięte” - zaistniałe po stronie podmiotu dokonującego naruszenia.
+Inne obciążające lub łagodzące czynniki (art. 83 ust. 2 lit. k rozporządzenia 2016/679).
+Prezes UODO wszechstronnie rozpatrując sprawę nie odnotował innych niż opisane
+powyżej okoliczności mogących mieć wpływ na ocenę naruszenia i na wysokość
+orzeczonej administracyjnej kary pieniężnej.
+Uwzględniając wszystkie omówione wyżej okoliczności, Prezes Urzędu Ochrony Danych
+Osobowych, uznał, iż nałożenie administracyjnej kary pieniężnej na Administratora jest
+konieczne i uzasadnione wagą, charakterem oraz zakresem zarzucanych mu naruszeń.
+Stwierdzić należy, iż zastosowanie wobec niego jakiegokolwiek innego środka napraw‐
+czego przewidzianego w art. 58 ust. 2 rozporządzenia 2016/679, w szczególności zaś po‐
+przestanie na upomnieniu (art. 58 ust. 2 lit. b), nie byłoby proporcjonalne do stwierdzo‐
+nych nieprawidłowości w procesie przetwarzania danych osobowych oraz nie gwaranto‐
+wałoby tego, że w przyszłości nie dojdzie do kolejnych zaniedbań.
+W ocenie Prezesa UODO, zastosowana administracyjna kara pieniężna spełnia w ustalo‐
+nych okolicznościach niniejszej sprawy funkcje, o których mowa w art. 83 ust. 1 rozpo‐
+rządzenia 2016/679, tzn. będzie w tym indywidulanym przypadku skuteczna,
+proporcjonalna i odstraszająca.
+Nałożona kara będzie skuteczna, albowiem doprowadzi do stanu, w którym Administra‐
+tor stosować będzie takie środki techniczne i organizacyjne, które zapewnią przetwarza‐
+nym danym stopień bezpieczeństwa odpowiadający ryzyku naruszenia praw lub wolności
+osób, których dane dotyczą oraz wadze zagrożeń towarzyszących procesom przetwarza‐
+nia tych danych osobowych. Skuteczność kary oznacza również gwarancję, że od mo‐
+mentu zakończenia niniejszego postępowania, Administrator z najwyższą starannością
+będzie podchodzić do wymogów wynikających z przepisów o ochronie danych osobo‐
+wych.
+Zastosowana administracyjna kara pieniężna jest również proporcjonalna do stwierdzo‐
+nego naruszenia, w szczególności jego wagi, skutków, kręgu osób fizycznych nim do‐
+tkniętych oraz wysokiego ryzyka negatywnych konsekwencji, jakie w związku z narusze‐
+niem mogą ponieść. Zdaniem Prezesa UODO, nie będzie ona stanowiła dla Administrato‐
+ra nadmiernego obciążenia. Wysokość kary została bowiem określona na takim pozio‐
+mie, aby z jednej strony stanowiła adekwatną reakcję organu nadzorczego na stopień
+naruszenia obowiązków Administratora, z drugiej zaś nie prowadziła do istotnego pogor‐
+szenia jego sytuacji finansowej. Administrator powinien i jest w stanie ponieść konse‐
+kwencje swoich zaniedbań w sferze ochrony danych, stąd nałożenie kary w wysokości 5
+000 złotych (pięć tysięcy złotych) jest w pełni uzasadnione.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 51 z 58
+
+Administracyjna kara pieniężna spełni w tych konkretnych okolicznościach również funk‐
+cję represyjną, jako odpowiedź na naruszenie przez Administratora przepisów rozporzą‐
+dzenia 2016/679, jak i prewencyjną, zapobiegając w przyszłości naruszaniu przez ten
+podmiot obowiązków wynikających z przepisów o ochronie danych osobowych. W niniej‐
+szej sprawie spełnia ona zatem przesłanki, o których mowa w art. 83 ust. 1 rozporządze‐
+nia 2016/679 ze względu na wagę stwierdzonych naruszeń w kontekście podstawowych
+wymogów i zasad rozporządzenia 2016/679 - zwłaszcza zasady poufności wyrażonej w
+art. 5 ust. 1 lit. f) rozporządzenia 2016/679.
+Celem nałożonej kary jest doprowadzenie do przestrzegania przez Administratora w
+przyszłości przepisów rozporządzenia 2016/679.
+
+XI.b) Uzasadnienie nałożenia i ustalenia wysokości admi‐
+nistracyjnej kary pieniężnej na Podmiot przetwarzający
+Decydując o nałożeniu administracyjnej kary pieniężnej na Podmiot przetwarzający Pre‐
+zes UODO – stosownie do treści art. 83 ust. 2 lit. a) - k) rozporządzenia 2016/679 – wziął
+pod uwagę następujące okoliczności sprawy, stanowiące o konieczności zastosowania w
+niniejszej sprawie tego rodzaju sankcji oraz wpływające obciążająco na wymiar nałożonej
+administracyjnej kary pieniężnej:
+Charakter, wagę i czas trwania naruszenia przy uwzględnieniu charakteru, zakresu lub
+celu danego przetwarzania, liczby poszkodowanych osób, których dane dotyczą, oraz
+rozmiaru poniesionej przez nie szkody (art. 83 ust. 2 lit. a rozporządzenia 2016/679).
+W niniejszej sprawie stwierdzono naruszenie przez Podmiot przetwarzający art. 32
+ust. 1 i 2 w związku z art. 28 ust. 3 lit. c) i f) rozporządzenia 2016/679. Obciążający
+charakter omawianej przesłanki wynika przede wszystkim z faktu, że naruszone
+przepisy rozporządzenia 2016/679 określają fundamentalne obowiązki, jakie na nim
+spoczywają.
+O znacznej wadze i poważnym charakterze naruszenia przesądza brak realizacji
+obowiązków związanych z przetwarzaniem danych osobowych przez Podmiot prze‐
+twarzający w imieniu Administratora, tj. Podmiot przetwarzający nie podjął wszel‐
+kich środków wymaganych na mocy art. 32 rozporządzenia 2016/679. Wskazać tak‐
+że na istotność norm, które wynikają z art. 32 ust. 1 i 2 rozporządzenia 2016/679,
+bowiem przepisy te wskazują na konieczność wdrożenia adekwatnych środków bez‐
+pieczeństwa odpowiadający ryzyku naruszenia praw lub wolności osób fizycznych.
+W świetle powyższego należy podkreślić, że naruszenie tych przepisów również ma
+poważny charakter i znaczną wagę.
+Zakładając nawet, że w efekcie braku zastosowania odpowiednich środków bezpie‐
+czeństwa nie doszło do utraty poufności danych, należy wziąć pod uwagę, że Pod‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 52 z 58
+
+miot przetwarzający utracił pełen dostęp do danych osobowych (przetwarzanych w
+imieniu Administratora) w związku z wykonywaniem powierzonych mu zadań.
+Wobec tego należy założyć, że w okresie utraty dostępności danych wystąpiło ryzy‐
+ko braku możliwości załatwienia spraw konkretnych osób (których dane zostały na‐
+ruszone). Zamiast realizować swoje zadania w pełnym zakresie i w normalnym try‐
+bie (tj. z wykorzystaniem systemów informatycznych), Administrator musiał naj‐
+pierw odzyskać do dostęp do danych osobowych. Dotkliwość skutków omawianego
+incydentu potwierdza sam Administrator, wskazując, że procedował sprawy, w tym
+rozpatrywał wnioski, w oparciu o dokumentację papierową. Brak dostępności do da‐
+nych odczuł nie tylko Administrator, ale nade wszystko naruszenie dostępności mo‐
+gło spowodować utrudnienia w realizacji praw przez osoby, których dane zostały na‐
+ruszone. Potencjalne utrudnienia w realizacji praw osób, których dane dotyczą, nale‐
+ży uznać za szkodę. Powyższe okoliczności determinują stwierdzenie, że przedmioto‐
+we naruszenie ochrony danych osobowych miało znaczącą wagę i poważny charak‐
+ter.
+Należy również podkreślić długi czas trwania naruszenia przepisów rozporządzenia
+2016/679, bowiem należy przyjąć, że rozpoczęło się ono w dniu 25 maja 2018 r., tj.
+w dniu rozpoczęcia stosowania rozporządzenia 2016/679, a zakończyło się najwcze‐
+śniej 28 stycznia 2022 r. (tj. po przeprowadzeniu analizy ryzyka przez Podmiot prze‐
+twarzający i wdrożeniu na jej podstawie odpowiednich środków technicznych i orga‐
+nizacyjnych zapewniających stopień bezpieczeństwa odpowiadający ryzyku
+naruszenia praw lub wolności osób fizycznych).
+Stwierdzone w niniejszej sprawie naruszenie przepisów ochrony danych osobowych
+stwarzało wysokie ryzyko negatywnych skutków dla wszystkich osób, których dane
+osobowe Podmiot przetwarzający w imieniu Administrator przetwarza, tj. co naj‐
+mniej dla ok. 1500 osób (taką liczbę osób wskazano w zgłoszeniu naruszenia
+ochrony danych osobowych).
+Podkreślić należy ponadto, że Wójt jako organ wykonawczy samorządu terytorialne‐
+go (gminy), jest podmiotem zaufania publicznego, wobec którego należy oczekiwać
+zarówno znajomości przepisów, jak i właściwego ich stosowania, i tym samym
+wysokich standardów w zakresie bezpieczeństwa przetwarzanych danych.
+Nieumyślny charakter naruszenia (art. 83 ust. 2 lit. b rozporządzenia 2016/679).
+Zgodnie z Wytycznymi WP253 potwierdzonymi Wytycznymi 04/2022, umyślność
+„obejmuje zarówno wiedzę, jak i celowe działanie, w związku z cechami
+charakterystycznymi czynu zabronionego”. Podmiot przetwarzający był świadomy,
+że w przypadku dopuszczenia przetwarzania danych osobowych w systemach infor‐
+matycznych, powinien przetwarzać dane osobowe w taki sposób, aby zapewnić im
+odpowiednie bezpieczeństwo, w tym ochronę przed potencjalnym atakiem złośliwe‐
+go oprogramowania, tj. w taki sposób, aby proces ten odbywał się zgodnie z wymo‐
+gami określanymi w art. 32 ust. 1 i 2 w związku z art. 28 ust. 3 lit. c) i f) rozporzą‐
+dzenia 2016/679. Z uwagi na zakres działalności organu samorządu terytorialnego,
+był on świadomy konieczności wykorzystywania systemu informatycznego dla celów
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 53 z 58
+
+związanych z realizacją świadczeń społecznych. Powinien zatem przewidzieć możli‐
+wość naruszenia ochrony danych osobowych w następstwie ataku ransomware.
+Mimo przyjętej praktyki wykorzystywania systemu informatycznego dla celów wiążą‐
+cych się z koniecznością przetwarzania danych osobowych, Podmiot przetwarzający
+nie przeprowadził między innymi analizy ryzyka w zakresie ataku za pomocą opro‐
+gramowania ransomware, nie dokonywał także regularnego testowania, mierzenia i
+oceniania skuteczności wprowadzonych rozwiązań oraz nie wprowadził skutecznej
+polityki bezpieczeństwa w zakresie wykonywania kopii zapasowych. Dopiero po wy‐
+stąpieniu naruszenia ochrony danych osobowych podjął on określone czynności o
+charakterze techniczno – organizacyjnym, takie jak uzupełnienia analizy ryzyka o
+zagrożenia związane z następstwami ataku ransomware. W jego działaniach uwi‐
+doczniona została świadomość, co do braku zapewnienia odpowiedniego stopnia
+bezpieczeństwa danych osobowych przetwarzanych z wykorzystaniem systemów in‐
+formatycznych. W omawianym przypadku Podmiot przetwarzający mógł przewi‐
+dzieć, że przyjęte rozwiązania nie zapewnią odpowiedniego stopnia bezpieczeństwa
+danych osobowych, co będzie stanowiło naruszenie przepisów o ochronie danych
+osobowych. Tym samym, umyślnie naruszył art. 32 ust. 1 i 2 w związku z art. 28 ust.
+3 lit. c) i f) rozporządzenia 2016/679.
+Biorąc pod uwagę ustalenia w sprawie będącej przedmiotem rozstrzygnięcia niniej‐
+szej decyzji należy stwierdzić, że Podmiot przetwarzający dopuścił się zaniedbania
+skutkującego wystąpieniem naruszenia dotyczącego dostępności danych. Tak więc
+stanowi to istotną okoliczność wpływającą obciążająco na wysokość kary administra‐
+cyjnej.
+Kategorie danych osobowych, których dotyczyło naruszenie (art. 83 ust. 2 lit. g
+rozporządzenia 2016/679).
+Stwierdzone naruszenie przepisów rozporządzenia 2016/679 wiąże się z narusze‐
+niem szerokiego zakresu danych. Naruszone zostały dane należące do szczególnej
+kategorii danych osobowych, o których mowa w art. 9 ust. 1 rozporządzenia
+2016/679 (dane dotyczące zdrowia), oraz dane dotyczące wyroków skazujących
+(art. 10 rozporządzenia 2016/679). Ponadto naruszone zostały dane w zakresie:
+–
+nazwiska i imiona,
+–
+imiona rodziców,
+–
+data urodzenia,
+–
+numer rachunku bankowego,
+–
+adres zamieszkania lub pobytu,
+–
+numer ewidencyjny PESEL,
+–
+adres e-mail,
+–
+dane dotyczące zarobków/lub posiadanego majątku,
+–
+seria i numer dowodu osobistego,
+–
+numer telefonu,
+–
+inne: obywatelstwo, wykształcenie, płeć, stan cywilny, dane opiekuna prawne‐
+go, zawód wykonywany, miejsce pracy i nauki, pozycja na rynku, kwalifikacje i
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 54 z 58
+
+doświadczenie zawodowe, osoby zobowiązane do alimentacji, świadczone ali‐
+menty,, wydatki, warunki mieszkaniowe, przemoc, problemy opiekuńczo wycho‐
+wawcze, wsparcie asystenta rodziny, nadzór kuratora, zadłużenia, pobyt w DPS,
+sytuacja majątkowa.
+W przedmiotowej sprawie nie ma dowodu, że doszło na naruszenia poufności da‐
+nych, ale sam fakt naruszenie takiego szerokiego danych osobowych przesądza o
+konieczności uznania tej przesłanki jako obciążającej. Powyższe wnika, że z faktu, że
+numer ewidencyjny PESEL, czyli jedenastocyfrowy symbol numeryczny, jednoznacz‐
+nie identyfikujący osobę fizyczną, zawierający m.in. datę urodzenia oraz oznaczenie
+płci, a więc ściśle powiązany ze sferą prywatną osoby fizycznej oraz podlegający
+również, jako krajowy numer identyfikacyjny, wyjątkowej ochronie na gruncie art. 87
+rozporządzenia 2016/679, jest daną o szczególnym charakterze i takiej szczególnej
+ochrony wymaga.
+W tym kontekście warto przywołać Wytyczne 04/2022, w których to wskazano: „(…)
+Jeśli chodzi o wymóg uwzględnienia kategorii danych osobowych, których dotyczyło
+naruszenie (art. 83 ust. 2 lit. g) RODO), w RODO wyraźnie wskazano rodzaje danych,
+które podlegają szczególnej ochronie, a tym samym bardziej rygorystycznej reakcji
+przy nakładaniu kar pieniężnych. Dotyczy to co najmniej rodzajów danych objętych
+art. 9 i 10 RODO oraz danych nieobjętych zakresem tych artykułów, których rozpo‐
+wszechnianie natychmiast powoduje szkody lub dyskomfort osoby, której dane doty‐
+czą (np. danych dotyczących lokalizacji, danych dotyczących komunikacji prywatnej,
+krajowych numerów identyfikacyjnych lub danych finansowych, takich jak zestawie‐
+nia transakcji lub numery kart kredytowych). Ogólnie rzecz biorąc, im większej licz‐
+by takich kategorii danych dotyczy naruszenie lub im bardziej wrażliwe są dane,
+tym większą wagę organ nadzorczy może przypisać temu czynnikowi. Znaczenie ma
+również ilość danych dotyczących każdej osoby, której dane dotyczą, ponieważ wraz
+z ilością danych dotyczących każdej osoby, której dane dotyczą, wzrasta skala
+naruszenia prawa do prywatności i ochrony danych osobowych (…)”.
+Ustalając wysokość administracyjnej kary pieniężnej, Prezes UODO uwzględnił jako oko‐
+liczność znacząco łagodzącą, mającą wpływ na obniżenie wysokości wymierzonej kary,
+dobrą współpracą Podmiotu przetwarzającego z organem nadzorczym podjętą i prowa‐
+dzoną w celu usunięcia naruszenia oraz złagodzenia jego ewentualnych negatywnych
+skutków (art. 83 ust. 2 lit. f) rozporządzenia 2016/679). Należy w tym miejscu wskazać,
+że poza prawidłowym wywiązywaniem się z ciążących na Podmiocie przetwarzającym
+obowiązków procesowych w trakcie postępowania administracyjnego, zakończonego wy‐
+daniem niniejszej decyzji, podjął on działania mające na celu zwiększenie poziomu bez‐
+pieczeństwa w procesie przetwarzania danych osobowych (por. pkt IV uzasadnienia fak‐
+tycznego). W ocenie Prezesa UODO wykonanie ww. czynności należy uznać za okolicz‐
+ność łagodzącą mającą wpływ na obniżenie wysokości wymierzonej kary.
+Na fakt zastosowania wobec Podmiotu przetwarzającego w niniejszej sprawie przez Pre‐
+zesa UODO sankcji w postaci administracyjnej kary pieniężnej, jak również na jej wyso‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 55 z 58
+
+kość, nie miały wpływu inne, wskazane w art. 83 ust. 2 rozporządzenia 2016/679,
+okoliczności, to jest:
+Działania podjęte w celu zminimalizowania szkody poniesionej przez osoby, których
+dane dotyczą (art. 83 ust. 2 lit. c rozporządzenia 2016/679).
+W kontekście tej przesłanki znaczenie ma cel, jakiemu ma służyć działanie Podmiotu
+przetwarzającego, czyli zminimalizowanie szkody poniesionej przez osoby, których
+dane dotyczą. Prezes UODO nie odnotował w niniejszym przypadku tego typu
+działań Podmiotu przetwarzającego.
+Stopień odpowiedzialności administratora z uwzględnieniem środków technicznych i or‐
+ganizacyjnych wdrożonych przez niego na mocy art. 25 i 32 (art. 83 ust. 2 lit. d
+rozporządzenia 2016/679).
+Ustalenia dokonane przez Prezesa UODO pozwalają na stwierdzenie, że Podmiot
+przetwarzający nie realizował swoich obowiązków w zakresie wdrożenia adekwat‐
+nych środków bezpieczeństwa w procesie przetwarzania danych osobowych.
+W niniejszej sprawie okoliczność ta stanowi jednak o istocie samego naruszenia
+przepisów rozporządzenia 2016/679; nie jest jedynie czynnikiem wpływającym – ła‐
+godząco lub obciążająco – na jego ocenę. Z tego też względu brak odpowiednich
+środków technicznych i organizacyjnych, o których mowa w art. 32 rozporządzenia
+2016/679, nie może zostać uznany w niniejszej sprawie za okoliczność mogącą do‐
+datkowo wpłynąć na surowszą ocenę naruszenia i wymiar administracyjnej kary
+pieniężnej nałożonej na Podmiot przetwarzający.
+Natomiast w przypadku obowiązków wynikających z art. 25 rozporządzenia
+2016/679 wskazać należy, że dotyczą one administratorów, a wobec tego omawiana
+przesłanka w tym zakresie nie może być traktowana jako obciążająca lub łagodząca
+dla wysokości administracyjnej kary pieniężnej nałożonej na Podmiot przetwarzają‐
+cy.
+Wszelkie stosowne wcześniejsze naruszenia ze strony administratora lub podmiotu
+przetwarzającego (art. 83 ust. 2 lit. e rozporządzenia 2016/679).
+Prezes UODO nie stwierdził jakichkolwiek, dokonanych przez Podmiot przetwarzają‐
+cy, wcześniejszych naruszeń przepisów o ochronie danych osobowych, w związku z
+czym brak jest podstaw do traktowania tej okoliczności jako obciążającej. Obowiąz‐
+kiem każdego podmiotu przetwarzającego jest przestrzeganie przepisów prawa (w
+tym o ochronie danych osobowych), więc brak wcześniejszych naruszeń nie może
+być okolicznością łagodzącą przy wymierzaniu sankcji.
+Sposób w jaki organ nadzorczy dowiedział się o naruszeniu (art. 83 ust. 2 lit. h
+rozporządzenia 2016/679).
+Prezes UODO stwierdził naruszenie przepisów rozporządzenia 2016/679 w wyniku
+zgłoszenia naruszenia ochrony danych osobowych dokonanego przez Podmiot prze‐
+twarzający. Okoliczność ta nie ma jednak charakteru obciążającego lub łagodzącego
+dla ustalenia wysokości administracyjnej kary pieniężnej nałożonej na Podmiot prze‐
+twarzający, bowiem obowiązek zgłoszenia naruszenia ochrony danych osobowych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 56 z 58
+
+został nałożony na Administratora i to on ponosi odpowiedzialność za realizację tego
+obowiązku.
+Przestrzeganie wcześniej zastosowanych w tej samej sprawie środków, o których mowa
+w art. 58 ust. 2 rozporządzenia 2016/679 (art. 83 ust. 2 lit. i rozporządzenia 2016/679).
+Przed wydaniem niniejszej decyzji Prezes UODO nie stosował w wobec Podmiotu
+przetwarzającego w rozpatrywanej sprawie żadnych środków wymienionych w art.
+58 ust. 2 rozporządzenia 2016/679, w związku z czym nie miał on obowiązku podej‐
+mowania żadnych działań związanych z ich stosowaniem, a które to działania, pod‐
+dane ocenie Prezesa UODO, mogłyby mieć obciążający lub łagodzący wpływ na
+ocenę stwierdzonego naruszenia.
+Stosowanie zatwierdzonych kodeksów postępowania na mocy art. 40 rozporządzenia
+2016/679 lub zatwierdzonych mechanizmów certyfikacji na mocy art. 42 rozporządzenia
+2016/679 (art. 83 ust. 2 lit. j rozporządzenia 2016/679).
+Podmiot przetwarzający nie stosuje zatwierdzonych kodeksów postępowania ani za‐
+twierdzonych mechanizmów certyfikacji, o których mowa w przepisach rozporządze‐
+nia 2016/679. Ich przyjęcie, wdrożenie i stosowanie nie jest jednak – jak stanowią
+przepisy rozporządzenia 2016/679 – obowiązkowe dla administratorów i podmiotów
+przetwarzających w związku z czym okoliczność ich niestosowania nie może być w
+niniejszej sprawie poczytana na niekorzyść Podmiotu przetwarzającego. Na jego ko‐
+rzyść natomiast mogłaby być uwzględniona okoliczność przyjęcia i stosowania tego
+rodzaju instrumentów jako środków gwarantujących wyższy niż standardowy poziom
+ochrony przetwarzanych danych osobowych.
+Osiągnięte bezpośrednio lub pośrednio w związku z naruszeniem korzyści finansowe lub
+uniknięte straty (art. 83 ust. 2 lit. k rozporządzenia 2016/679).
+W związku z naruszeniem ochrony danych osobowych Prezes UODO nie stwierdził,
+aby Podmiot przetwarzając odniósł jakiekolwiek korzyści finansowe lub uniknął tego
+rodzaju strat. Brak jest więc podstaw do traktowania tej okoliczności jako obciążają‐
+cej ten podmiot. Stwierdzenie zaistnienia wymiernych korzyści finansowych wynika‐
+jących z naruszenia przepisów rozporządzenia 2016/679 należałoby ocenić zdecydo‐
+wanie negatywnie. Natomiast nieosiągnięcie tego rodzaju korzyści, jako stanu natu‐
+ralnego, niezależnego od naruszenia i jego skutków, nie może być uznane za oko‐
+liczność łagodzącą. Potwierdza to sformułowanie przepisu art. 83 ust. 2 lit. k) rozpo‐
+rządzenia 2016/679, który nakazuje organowi nadzorczemu zwrócić należytą uwagę
+na korzyści „osiągnięte”, tj. zaistniałe po stronie podmiotu dokonującego narusze‐
+nia.
+Inne obciążające lub łagodzące czynniki (art. 83 ust. 2 lit. k rozporządzenia 2016/679).
+Prezes UODO wszechstronnie rozpatrując sprawę nie odnotował innych niż opisane
+powyżej okoliczności mogących mieć wpływ na ocenę naruszenia i na wysokość
+orzeczonej administracyjnej kary pieniężnej.
+Uwzględniając wszystkie omówione wyżej okoliczności, Prezes Urzędu Ochrony Danych
+Osobowych, uznał, że nałożenie administracyjnej kary pieniężnej na Podmiot przetwarza‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 57 z 58
+
+jący jest konieczne i uzasadnione wagą, charakterem oraz zakresem zarzucanych mu
+naruszeń. Stwierdzić należy, iż zastosowanie wobec niego jakiegokolwiek innego środka
+naprawczego przewidzianego w art. 58 ust. 2 rozporządzenia 2016/679, w szczególności
+zaś poprzestanie na upomnieniu (art. 58 ust. 2 lit. b), nie byłoby proporcjonalne do
+stwierdzonych nieprawidłowości w procesie przetwarzania danych osobowych oraz nie
+gwarantowałoby tego, że w przyszłości nie dojdzie do kolejnych zaniedbań.
+W ocenie Prezesa UODO, zastosowana administracyjna kara pieniężna spełnia w ustalo‐
+nych okolicznościach niniejszej sprawy funkcje, o których mowa w art. 83 ust. 1 rozpo‐
+rządzenia 2016/679, tzn. będzie w tym indywidulanym przypadku skuteczna,
+proporcjonalna i odstraszająca.
+Nałożona kara będzie skuteczna, albowiem doprowadzi do stanu, w którym Podmiot
+przetwarzający stosować będzie takie środki techniczne i organizacyjne, które zapewnią
+przetwarzanym danym stopień bezpieczeństwa odpowiadający ryzyku naruszenia praw
+lub wolności osób, których dane dotyczą oraz wadze zagrożeń towarzyszących procesom
+przetwarzania tych danych osobowych. Skuteczność kary oznacza również gwarancję, że
+od momentu zakończenia niniejszego postępowania, Podmiot przetwarzający z najwyż‐
+szą starannością będzie podchodzić do wymogów wynikających z przepisów o ochronie
+danych osobowych.
+Zastosowana administracyjna kara pieniężna jest również proporcjonalna do stwierdzo‐
+nego naruszenia, w szczególności jego wagi, skutków, kręgu osób fizycznych nim do‐
+tkniętych oraz wysokiego ryzyka negatywnych konsekwencji, jakie w związku z narusze‐
+niem mogą ponieść. Zdaniem Prezesa UODO, nie będzie ona stanowiła dla Podmiotu
+przetwarzającego nadmiernego obciążenia. Wysokość kary została bowiem określona na
+takim poziomie, aby z jednej strony stanowiła adekwatną reakcję organu nadzorczego
+na stopień naruszenia obowiązków Podmiotu przetwarzającego, z drugiej zaś nie prowa‐
+dziła do istotnego pogorszenia jego sytuacji finansowej. Podmiot przetwarzający powi‐
+nien i jest w stanie ponieść konsekwencje swoich zaniedbań w sferze ochrony danych,
+stąd nałożenie kary w wysokości 10 000 złotych (dziesięć tysięcy złotych) jest w pełni
+uzasadnione.
+Administracyjna kara pieniężna spełni w tych konkretnych okolicznościach również funk‐
+cję represyjną, jako odpowiedź na naruszenie przez Podmiot przetwarzający przepisów
+rozporządzenia 2016/679, jak i prewencyjną, zapobiegając w przyszłości naruszaniu
+przez ten podmiot obowiązków wynikających z przepisów o ochronie danych osobowych.
+W niniejszej sprawie spełnia ona zatem przesłanki, o których mowa w art. 83 ust. 1 roz‐
+porządzenia 2016/679, ze względu na wagę stwierdzonych naruszeń w kontekście
+podstawowych wymogów rozporządzenia 2016/679.
+Celem nałożonej kary jest doprowadzenie do przestrzegania przez Podmiot przetwarzają‐
+cy w przyszłości przepisów rozporządzenia 2016/679.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+
+Decyzja DKN.5131.30.2022
+
+Strona 58 z 58
+
+[1] Ustawa z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U.
+z 2024 r. poz. 572), dalej jako Kpa.
+[2] Ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz.
+1781), dalej jako u.o.d.o.
+[3] Definicja podatności znajduje się w dokumencie „PN-EN ISO/IEC 27000” zatwierdzo‐
+nym przez Prezesa Polskiego Komitetu Normalizacyjnego oraz w „Słowniku kluczowych
+pojęć z zakresu cyberbezpieczeństwa Narodowego Standardu Cyberbezpieczeń‐
+stwa” (https://www.gov.pl/attachment/48226cb6-29d4-49f9-860f-acd703072e60).
+[4] https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guideli‐
+nes-072020-concepts-controller-and-processor-gdpr_pl
+[5] https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guideli‐
+nes-92022-personal-databreach-notification-under_pl
+[6] https://edpb.europa.eu/system/files/2024-01/
+edpb_guidelines_042022_calculationofadministrativefines_pl_0.pdf
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_30/content
+
+2025-09-03 18:32
+

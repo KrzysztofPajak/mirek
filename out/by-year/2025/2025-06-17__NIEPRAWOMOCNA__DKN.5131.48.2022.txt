@@ -1,0 +1,1878 @@
+Warszawa, 17 czerwca 2025
+NIEPRAWOMOCNA
+
+Decyzja
+DKN.5131.48.2022
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania ad‐
+ministracyjnego[1] (dalej: „k.p.a.”) w związku z art. 7 ust. 1, art. 60 oraz art. 102 ust. 1
+pkt 1 i ust. 3 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych[2] (dalej:
+„u.o.d.o.”) oraz art. 57 ust. 1 lit. a) i h), art. 58 ust. 2 lit. d) i lit. i), art. 83 ust. 1-3, art. 83
+ust. 4 lit. a) w związku z art. 24 ust. 1, art. 25 ust. 1, art. 32 ust. 1 i 2 oraz art. 83 ust. 5
+lit. a) w związku z art. 5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia Parlamentu Europej‐
+skiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycz‐
+nych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepły‐
+wu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie
+danych; dalej: „rozporządzenie 2016/679”)[3],
+po przeprowadzeniu wszczętego w urzędu postępowania administracyjnego w sprawie
+naruszenia przepisów o ochronie danych osobowych przez (…) Szpital (…) im. B. F. w N.
+z siedzibą w N. przy ul. (…) (dalej: Szpital), Prezes Urzędu Ochrony Danych Osobowych
+(dalej: „Prezes UODO”):
+stwierdzając naruszenie przez Szpital przepisów art. 24 ust. 1, art. 25 ust. 1 oraz art. 32
+ust. 1 i 2 rozporządzenia 2016/679, polegające na niewdrożeniu:
+1) odpowiednich środków technicznych i organizacyjnych zapewniających bezpieczeń‐
+stwo danych osobowych przetwarzanych w systemach informatycznych oraz ochro‐
+nę praw osób, których dane dotyczą, na podstawie analizy ryzyka uwzględniającej
+stan wiedzy technicznej, koszt wdrażania, charakter, zakres, kontekst, cele przetwa‐
+rzania i ryzyko naruszenia praw lub wolności osób fizycznych, w tym ryzyko wiążące
+się z przetwarzaniem, w szczególności wynikające z przypadkowego lub niezgodne‐
+go z prawem zniszczenia, utraty, modyfikacji, nieuprawnionego ujawnienia lub nie‐
+uprawnionego dostępu do danych osobowych przesyłanych, przechowywanych lub
+w inny sposób przetwarzanych;
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+2)
+
+I.
+
+II.
+
+Strona 2 z 41
+
+odpowiednich środków technicznych i organizacyjnych w celu zapewnienia regular‐
+nego testowania, mierzenia i oceniania skuteczności środków technicznych i organi‐
+zacyjnych mających zapewnić bezpieczeństwo danych osobowych przetwarzanych
+w systemach informatycznych;
+skutkującym naruszeniem zasady integralności i poufności (art. 5 ust. 1 lit. f) rozpo‐
+rządzenia 2016/679) oraz zasady rozliczalności (art. 5 ust. 2 rozporządzenia
+2016/679);
+nakłada na Szpital, za naruszenie przepisów art. 5 ust. 1 lit. f) i ust. 2, art. 25 ust. 1
+oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679, administracyjną karę pieniężną w
+kwocie 66 500 PLN (słownie: sześćdziesiąt sześć tysięcy pięćset złotych);
+nakazuje Szpitalowi dostosowanie operacji przetwarzania do przepisów
+rozporządzenia 2016/679 poprzez:
+a) wdrożenie odpowiednich środków technicznych i organizacyjnych zapewniają‐
+cych bezpieczeństwo danych osobowych przetwarzanych w systemach informa‐
+tycznych oraz ochronę praw osób, których dane dotyczą, na podstawie analizy
+ryzyka uwzględniającej stan wiedzy technicznej, koszt wdrażania, charakter, za‐
+kres, kontekst, cele przetwarzania i ryzyko naruszenia praw lub wolności osób
+fizycznych, w tym ryzyko wiążące się z przetwarzaniem, w szczególności wyni‐
+kające z przypadkowego lub niezgodnego z prawem zniszczenia, utraty, modyfi‐
+kacji, nieuprawnionego ujawnienia lub nieuprawnionego dostępu do danych
+osobowych przesyłanych, przechowywanych lub w inny sposób przetwarzanych;
+b) wdrożenie odpowiednich środków technicznych i organizacyjnych w celu zapew‐
+nienia regularnego testowania, mierzenia i oceniania skuteczności środków
+technicznych i organizacyjnych mających zapewnić bezpieczeństwo danych
+osobowych przetwarzanych w systemach informatycznych,
+w terminie 60 dni od dnia doręczenia niniejszej decyzji.
+
+Uzasadnienie
+
+I. Informacje wstępne
+Szpital jest podmiotem leczniczym niebędącym przedsiębiorcą, którego podmiotem two‐
+rzącym jest Uniwersytet (…) w N. z siedzibą w N. przy ul. (…), prowadzonym w formie
+samodzielnego publicznego zakładu opieki zdrowotnej. Szpital działa na podstawie „Sta‐
+tutu (…) Szpitala (…) im. B. F. w N.”, uchwalonego na podstawie art. 42 ust. 2 ustawy z
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 3 z 41
+
+dnia 15 kwietnia 2011 r. o działalności leczniczej[4] oraz ustawy z dnia 20 lipca 2018 r. –
+Prawo o szkolnictwie wyższym i nauce[5] przez Senat Uniwersytetu (…) w N..
+13 stycznia 2020 r. do Prezesa UODO wpłynęło zgłoszenie naruszenia ochrony danych
+osobowych[6] (uzupełnione 6 marca 2020 r.) dokonane przez Szpital, jako administrato‐
+ra[7] (dalej: „zgłoszenie”). Zgłoszenie zostało zarejestrowane pod znakiem DKN.
+5130.155.2020.
+Zgłoszone naruszenie ochrony danych osobowych polegało na przełamaniu zabezpie‐
+czeń systemów informatycznych Szpitala i zainfekowaniu ich złośliwym
+oprogramowaniem typu ransomware[8], skutkującym naruszeniem poufności i dostępno‐
+ści zgromadzonych w nich danych osobowych[9] dotyczących około 2 000 pracowników
+Szpitala (dalej: „incydent”).
+Zgłoszenie stało się dla Prezesa UODO impulsem do weryfikacji prawidłowości realizacji
+przez Szpital obowiązków spoczywających na nim jako administratorze. W związku z tym
+Prezes UODO zainicjował działania mające na celu zbadanie nie tylko okoliczności
+incydentu, ale także zgodności przetwarzania[10] przez Szpital danych osobowych obję‐
+tych incydentem z przepisami o ochronie danych osobowych, tj. rozporządzeniem
+2016/679 i u.o.d.o.
+Wobec powyższego, działając na podstawie art. 58 ust. 1 lit. a) i e) rozporządzenia
+2016/679, w pismach z 7 lutego 2020 r., 20 marca 2020 r., 21 października 2020 r. i 27
+maja 2022 r. Prezes UODO zwrócił się do Szpitala o przekazanie dodatkowych informacji,
+które Szpital przedstawił w pismach z 18 lutego 2020 r., 27 kwietnia 2020 r., 30
+października 2020 r. i 10 czerwca 2022 r.
+Na podstawie dokonanych w ten sposób ustaleń 4 października 2022 r. Prezes UODO
+wszczął z urzędu postępowanie administracyjne w przedmiocie możliwości naruszenia
+przez Szpital przepisów art. 5 ust. 1 lit. f) i ust. 2, art. 24 ust. 1, art. 25 ust. 1 oraz art. 32
+ust. 1 i 2 rozporządzenia 2016/679. Postępowanie w sprawie zostało zarejestrowane pod
+znakiem DKN.5131.48.2022.
+W toku postępowania w pismach z 4 października 2022 r., 16 lutego 2024 r. i 1 marca
+2024 r. Prezes UODO wezwał Szpital do złożenia dodatkowych wyjaśnień, których Szpital
+udzielił w pismach z 10 października 2022 r., 29 lutego 2024 r. i 8 marca 2024 r.
+Prezes UODO, dokonując oceny zgromadzonego materiału dowodowego, uznał przedsta‐
+wione przez Szpital dowody za wiarygodne oraz posiadające wymaganą moc dowodową.
+Na taką ocenę w szczególności wpłynęła wewnętrzna spójność i logiczność złożonych
+wyjaśnień, a także ich zgodność z pozostałym materiałem dowodowym zgromadzonym
+w sprawie.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 4 z 41
+
+II. Stan faktyczny
+W oparciu o materiał dowodowy zgromadzony w ramach zgłoszenia, dodatkowych wyja‐
+śnień Szpitala dotyczących incydentu oraz w toku postępowania administracyjnego
+Prezes UODO dokonał następujących ustaleń dotyczących stanu faktycznego:
+
+A. Charakter incydentu
+Incydent wystąpił 11 stycznia 2020 r. ok. godziny 23:00 i został stwierdzony[11] przez
+Szpital 12 stycznia 2020 r. Polegał on na przełamaniu zabezpieczeń infrastruktury infor‐
+matycznej Szpitala i zainfekowaniu jej złośliwym oprogramowaniem ransomware, bloku‐
+jącym dostęp do systemów informatycznych i uniemożliwiającym odczyt zapisanych w
+nich danych osobowych. Cyberatak objął serwery fizyczne i maszyny wirtualne, w tym
+serwery obsługujące program Płatnik[12], oprogramowanie do kontroli dostępu na od‐
+działy oraz kontrolery domeny, serwer plików, a także serwer kopii zapasowych (zob.
+zgłoszenie). Należy podkreślić, że zdarzenie nie objęło systemów klasy HIS[13], wykorzy‐
+stywanych przez Szpital do przetwarzania danych osobowych pacjentów (zob. pismo z
+29 lutego 2024 r.).
+Za pośrednictwem systemów informatycznych, o których mowa w pkt 9, Szpital przetwa‐
+rzał dane osobowe dotyczące ok. 2000 osób (zob. pismo z 29 lutego 2024 r.) w zakresie
+obejmującym następujące kategorie: nazwiska i imiona, imiona rodziców, data urodze‐
+nia, adres zamieszkania lub pobytu, numer ewidencyjny PESEL, dane o przynależności
+do związków zawodowych, login do systemu M. (…)[14], numer karty dostępowej do
+drzwi wejściowych na oddział szpitalny, komórka organizacyjna (zob. pismo z 8 marca
+2024 r.).
+Szpital poinformował, że skutkiem incydentu było naruszenie poufności i dostępności
+danych osobowych, o których mowa w pkt 10. Wskazał, że „[n]ie ma pewności, że dane
+nie straciły poufności” (zob. pismo z 18 lutego 2020 r.), jednocześnie akcentując, że
+„[n]ie ma dowodów, że (…) [nieuprawniony] podmiot zapoznał się z treścią informacji,
+które zostały zaszyfrowane” (zob. pismo z 29 lutego 2024 r.).
+Szpital odzyskał finalnie dostęp do danych osobowych przetwarzanych za pośrednic‐
+twem programu Płatnik, oprogramowania do kontroli dostępu na oddziały oraz kontrole‐
+rów domeny. W wyniku zdarzenia Szpital utracił pliki oraz zmiany w plikach powstałe w
+okresie pomiędzy lipcem 2019 r. a styczniem 2020 r. Pliki te mogły zawierać dane osobo‐
+we pracowników Szpitala w nieokreślonym zakresie (zob. pismo z 10 czerwca 2022 r.).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 5 z 41
+
+Szpital wskazał, że „nie posiada dowodu przyczyny zaszyfrowania danych, jednakże z
+wysokim prawdopodobieństwem stwierdza, że zostało skompromitowane jedno z haseł
+administratora domeny, którym przestępcy posłużyli się do włamania. Wskazuje na to
+fakt, że wszystkie maszyny fizyczne i wirtualne wskazane w zgłoszeniu były wpięte do M.
+(…) a wiele serwerów, które mają system operacyjny V. oraz serwery z U. nie wpięte do
+M. (…) i będące w tym samym środowisku nie zostały zaszyfrowane” (zob. pismo z 27
+kwietnia 2020 r.).
+Szpital zgłosił zdarzenie zespołowi CERT Polska (znak: # (…)) oraz Prokuraturze Rejono‐
+wej (…) w N. (sygn.: (…)), która 7 kwietnia 2020 r. wydała postanowienie o umorzeniu
+dochodzenia wobec niewykrycia sprawcy przestępstwa (zob. zgłoszenie, pismo z 27
+kwietnia 2020 r.).
+
+B. Techniczne i organizacyjne środki bezpieczeństwa da‐
+nych osobowych stosowane przez Szpital w chwili
+wystąpienia incydentu
+Na mocy „Zarządzenia Dyrektora Szpitala nr 43/2017 z dnia 16 sierpnia 2017 r. w
+sprawie wprowadzenia polityki bezpieczeństwa informacji w (…)” w Szpitalu obowiązy‐
+wał dokument „Polityka Bezpieczeństwa Informacji” (zob. pismo z 29 lutego 2024 r.).
+Na mocy „Zarządzenia Dyrektora Szpitala nr 73/2018 z dnia 8 listopada 2018 r.” w Szpi‐
+talu obowiązywał dokument „Zasady zarządzania ryzykiem bezpieczeństwa informacji w
+(…) w N.” (zob. pismo z 10 czerwca 2022 r.).
+Szpital poinformował, że poprzedził dobór technicznych i organizacyjnych środków mają‐
+cych zapewnić bezpieczeństwo przetwarzanych danych osobowych analizą ryzyka naru‐
+szenia praw lub wolności osób fizycznych, przeprowadzoną zgodnie z procedurą, o której
+mowa w pkt 16 (zob. pismo z 10 czerwca 2022 r.). Szpital potwierdził przeprowadzenie
+takiej analizy, przedkładając dokument „Szacowanie ryzyka bezpieczeństwa informacji –
+dokumentacja procesu – 2019 rok” (zob. pismo z 29 lutego 2024 r.).
+„(…)” to rozwiązania, które Szpital wskazał jako techniczne i organizacyjne środki bez‐
+pieczeństwa danych osobowych stosowane w organizacji w chwili wystąpienia incydentu
+(zob. zgłoszenie).
+Szpital poinformował, że zgodnie z polityką uwierzytelniania z użyciem haseł stosowaną
+w Szpitalu hasła wykorzystywane w usługach M. (…) musiały składać się z co najmniej
+(…). Zmiana hasła następowała co (…). Jednocześnie Szpital wskazał, że „nie oceniał
+skuteczności środków uwierzytelniających (w tym haseł) osób administrujących domeną
+w kontekście ryzyka udostępnienia nieuprawnionym osobom trzecim dostępu do
+zasobów, którym te osoby administrowały” (zob. pismo z 30 października 2020 r.).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 6 z 41
+
+Szpital poinformował, że „dokonywał testowania, mierzenia i oceniania skuteczności
+środków technicznych i organizacyjnych mających zapewnić bezpieczeństwo
+przetwarzania danych”. Szpital nie poparł tych twierdzeń dowodami, jednocześnie
+wskazując, że „powyższe działania nie były archiwizowane, jak również nie tworzono
+kopii raportów z dokonanych czynności” (zob. pismo z 30 października 2020 r.).
+Szpital poinformował, że „dokonywał testowania wykonywania kopii zapasowych. Two‐
+rzenie kopii zapasowych wszystkich danych produkcyjnych (wszystkich serwerów i zwią‐
+zanych z nimi danych, również danych osobowych), było wykonywane codziennie. Testo‐
+wanie wykonywanych kopii zapasowych najważniejszych maszyn wirtualnych było wyko‐
+nywane – raz na 1-2 miesiące, mniej krytycznych zasobów – raz na 2-4 miesiące. Testy
+polegały na odtworzeniu całej maszyny wirtualnej w odseparowanym środowisku, uru‐
+chomienie jej, sprawdzenie jej działania oraz wyodrębnienie losowo wybranego pliku na
+zewnątrz środowiska” (zob. pismo z 10 czerwca 2022 r.). Szpital nie poparł tych
+twierdzeń dowodami, jednocześnie wskazując, że „powyższe działania nie były archiwi‐
+zowane, nie tworzono również raportów z dokonanych czynności” (zob. pismo z 29 lute‐
+go 2024 r.).
+
+C. Środki zastosowane przez Szpital w celu zaradzenia in‐
+cydentowi oraz zminimalizowania jego ewentualnych
+negatywnych skutków
+„(…)” to rozwiązania, które Szpital wskazał jako środki zastosowane w celu zaradzenia
+incydentowi i zminimalizowania jego negatywnych skutków dla osób, których dane
+dotyczą (zob. zgłoszenie).
+
+D. Techniczne i organizacyjne środki bezpieczeństwa da‐
+nych osobowych zastosowane przez Szpital po
+wystąpieniu incydentu
+„(…)” to opis działań podjętych przez Szpital w celu zminimalizowania ryzyka ponowne‐
+go wystąpienia podobnego naruszenia ochrony danych osobowych w przyszłości (zob.
+zgłoszenie).
+Między 22 czerwca 2020 r. a 3 sierpnia 2020 r. w Szpitalu został przeprowadzony audyt,
+którego celem było „[p]otwierdzenie zgodności bezpieczeństwa systemu informacyjnego
+wykorzystywanego do świadczenia Usługi Kluczowej z wymaganiami ustawy o Krajowym
+Systemie Cyberbezpieczeństwa”. Na jego podstawie sformułowany został „Raport z Au‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 7 z 41
+
+dytu zgodnego z ustawą o Krajowym Systemie Cyberbezpieczeństwa” z 8 sierpnia 2020
+r. Prace audytowe przeprowadziła firma zewnętrzna na podstawie umowy z dnia 15
+czerwca 2020 r. (zob. pismo z 10 października 2022 r.).
+Szpital poinformował, że „[n]a podstawie uzyskanych wyników z audytowanego obszaru,
+wskazujących podatności odnoszące się do wykorzystywanych zasobów, wynikające z
+nich zagrożenia oraz rekomendowane działania, które zapewnią właściwy poziom ochro‐
+ny danych w jednostce, natychmiastowo podjęto kroki w celu zastosowania odpowied‐
+nich zabezpieczeń technicznych i organizacyjnych oraz prawidłowej konfiguracji
+wykorzystywanych systemów operacyjnych”. Szpital wskazał, że w ramach ww. działań
+w latach 2020-2024 wdrożył środki, takie jak m.in.:
+–
+(…);
+–
+(…);
+–
+(…);
+–
+(…);
+–
+(…);
+–
+(…);
+–
+(…);
+–
+(…);
+–
+(…).
+
+III. Uzasadnienie prawne
+W tym stanie faktycznym, po zapoznaniu się z całością zgromadzonego w sprawie
+materiału dowodowego, Prezes UODO zważył, co następuje.
+
+A. Ramy prawne
+Zgodnie z art. 34 ust. 1 i 2 u.o.d.o. Prezes UODO jest organem właściwym w sprawie
+ochrony danych osobowych oraz organem nadzorczym, o którym mowa w art. 4 pkt 21
+rozporządzenia 2016/679.
+Zgodnie z art. 57 ust. 1 lit. a) i h) rozporządzenia 2016/679 każdy organ nadzorczy na
+swoim terytorium monitoruje i egzekwuje stosowanie tego rozporządzenia oraz prowadzi
+postępowania w sprawie jego stosowania.
+W niniejszej sprawie Prezes UODO stwierdził naruszenie przez Szpital art. 5 ust. 1 i ust.
+2, art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 8 z 41
+
+W art. 5 rozporządzenia 2016/679 prawodawca sformułował elementarne zasady doty‐
+czące przetwarzania danych osobowych, które muszą być respektowane przez wszyst‐
+kich administratorów. Zasady te odgrywają szczególną rolę w rozporządzeniu 2016/679,
+ponieważ przypisuje się im nadrzędną moc w stosunku do pozostałych przepisów o
+ochronie danych osobowych[15].
+Zgodnie z art. 5 ust. 1 lit. f) rozporządzenia 2016/679 dane osobowe muszą być przetwa‐
+rzane w sposób zapewniający odpowiednie ich bezpieczeństwo, w tym ochronę przed
+niedozwolonym lub niezgodnym z prawem przetwarzaniem oraz przypadkową utratą,
+zniszczeniem lub uszkodzeniem, za pomocą odpowiednich środków technicznych lub
+organizacyjnych („zasada integralności i poufności”).
+Zgodnie z art. 5 ust. 2 rozporządzenia 2016/679 administrator jest odpowiedzialny za
+przestrzeganie przepisów ust. 1 i musi być w stanie wykazać ich przestrzeganie („zasada
+rozliczalności”).
+Zgodnie z art. 24 ust. 1 rozporządzenia 2016/679, uwzględniając charakter, zakres, kon‐
+tekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o
+różnym prawdopodobieństwie i wadze, administrator wdraża odpowiednie środki tech‐
+niczne i organizacyjne, aby przetwarzanie odbywało się zgodnie z rozporządzeniem
+2016/679 i aby móc to wykazać. Rezultatem wdrożenia tych środków powinno być zatem
+dostosowanie działań administratora do wymogów tego rozporządzenia – pośrednio więc
+też, choć nie wyłącznie, odpowiednie zabezpieczenie przetwarzanych danych osobowych
+ze względu na poziom ryzyka związanego z przetwarzaniem[16].
+Należy podkreślić, że prawodawca uzupełnia treść normy, o której mowa w pkt 32, wska‐
+zując, że techniczne i organizacyjne środki wdrożone w celu zapewnienia zgodności
+przetwarzania z prawem powinny być „poddawane przeglądom i uaktualniane”. Admini‐
+stratorzy powinni więc dokonywać regularnych rewizji stosowanych rozwiązań oraz udo‐
+skonalać je w razie potrzeby. Świadczy to o dynamicznym i elastycznym charakterze
+procesu zapewnienia przez administratora bezpieczeństwa danych osobowych.
+Zgodnie z art. 25 ust. 1 rozporządzenia 2016/679, uwzględniając stan wiedzy technicz‐
+nej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko
+naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpie‐
+nia i wadze wynikające z przetwarzania, administrator – zarówno przy określaniu sposo‐
+bów przetwarzania, jak i w czasie samego przetwarzania – wdraża odpowiednie środki
+techniczne i organizacyjne, takie jak pseudonimizacja, zaprojektowane w celu skutecznej
+realizacji zasad ochrony danych, takich jak minimalizacja danych, oraz w celu nadania
+przetwarzaniu niezbędnych zabezpieczeń, tak by spełnić wymogi rozporządzenia
+2016/679 oraz chronić prawa osób, których dane dotyczą („zasada uwzględniania ochro‐
+ny danych w fazie projektowania”).
+W myśl art. 32 ust. 1 rozporządzenia 2016/679 administrator, uwzględniając stan wiedzy
+technicznej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz
+ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie i
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 9 z 41
+
+wadze, zobowiązany jest do wdrożenia odpowiednich środków technicznych i organiza‐
+cyjnych, aby zapewnić stopień bezpieczeństwa odpowiadający temu ryzyku, w tym m.in.
+w stosownym przypadku:
+a) pseudonimizacji i szyfrowania danych osobowych;
+b) zdolności do ciągłego zapewnienia poufności, integralności, dostępności i
+odporności systemów i usług przetwarzania;
+c) zdolności do szybkiego przywrócenia dostępności danych osobowych i dostępu do
+nich w razie incydentu fizycznego lub technicznego;
+d) regularnego testowania, mierzenia i oceniania skuteczności środków technicznych i
+organizacyjnych mających zapewnić bezpieczeństwo przetwarzania.
+Art. 32 ust. 2 rozporządzenia 2016/679 wskazuje, że oceniając, czy stopień bezpieczeń‐
+stwa gwarantowany przez ww. środki jest odpowiedni, uwzględnia się w szczególności
+ryzyko wiążące się z przetwarzaniem, w szczególności wynikające z przypadkowego lub
+niezgodnego z prawem zniszczenia, utraty, modyfikacji, nieuprawnionego ujawnienia lub
+nieuprawnionego dostępu do danych osobowych przesyłanych, przechowywanych lub w
+inny sposób przetwarzanych.
+W literaturze podnosi się, że wdrażanie „odpowiednich” środków bezpieczeństwa należy
+rozumieć jako proces, w ramach którego administrator dąży do tego, aby zastosowane
+przez niego techniczne i organizacyjne środki były „skuteczne”, a więc – na ile to możli‐
+we – pozwalały zapobiegać naruszeniom ochrony danych osobowych lub minimalizować
+ryzyko ich wystąpienia[17].
+Przepisy art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679 sta‐
+nowią więc konkretyzację ogólnej zasady integralności i poufności, o której mowa w art.
+5 ust. 1 lit. f) tego rozporządzenia. W związku z tym niniejszą sprawę należy analizować
+przede wszystkim pod kątem spełnienia przez Szpital, jako administratora, wymagań wy‐
+znaczających poziom właściwych do zastosowania środków technicznych i organizacyj‐
+nych w celu zabezpieczenia przetwarzanych danych osobowych.
+Jednocześnie, jak wynika z treści art. 24 ust. 1 rozporządzenia 2016/679, administrator
+ma obowiązek zagwarantowania poprzez odpowiednie rozwiązania, że w razie potrzeby
+będzie w stanie wykazać osobom, których dane dotyczą, a także organom nadzorczym,
+w jaki sposób zapewnił zgodność z przepisami o ochronie danych osobowych, co należy
+utożsamiać z urzeczywistnieniem zasady rozliczalności, o której mowa w art. 5 ust. 2
+rozporządzenia 2016/679[18].
+W literaturze wskazuje się, że „rozliczalność powinna być więc rozumiana jako pewna
+właściwość czynności przetwarzania, pozwalająca na dowodzenie zgodności z przepisa‐
+mi prawa operacji na danych osobowych, w szczególności za pomocą dokumentacji
+ochrony danych osobowych. (…) Konsekwencją zasady rozliczalności jest to, że w razie
+sporu z osobą, której dane dotyczą, albo z organem nadzorczym administrator danych
+powinien być w stanie przedstawić dowody na to, że przestrzega przepisów o ochronie
+danych osobowych. Dowodami takimi mogą być przede wszystkim dokumenty opisujące
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 10 z 41
+
+zasady przetwarzania i ochrony danych osobowych. Pomimo braku wyraźnego wymogu
+wynikającego z przepisów [rozporządzenia 2016/679] zasadne i rekomendowane jest
+więc prowadzenie dokumentacji przetwarzania danych osobowych”[19].
+
+B. Podejście oparte na ryzyku
+Rozporządzenie 2016/679 zostało oparte na ryzyku. Oznacza to, że ryzyko stanowi kryte‐
+rium, na podstawie którego dochodzi do konkretyzacji obowiązków spoczywających na
+administratorach w odniesieniu do poszczególnych procesów przetwarzania[20]. Unijny
+prawodawca zrezygnował więc z formułowania sztywnych i jednolitych norm postępowa‐
+nia na rzecz elastycznych i technologicznie neutralnych regulacji skoncentrowanych na
+perspektywie podmiotów danych oraz specyfice przetwarzania[21].Taka orientacja pro‐
+wadzi do zapewnienia administratorom stosunkowo szerokiej swobody w zakresie dobie‐
+ranych zabezpieczeń przy jednoczesnym zaostrzeniu wobec nich wymagań dotyczących
+realizacji określonych obowiązków oraz zwiększeniu odpowiedzialności za ich narusze‐
+nie[22].
+Motyw 74 preambuły do rozporządzenia 2016/679 stanowi: „Należy nałożyć na admini‐
+stratora obowiązki i ustanowić odpowiedzialność prawną administratora za przetwarza‐
+nie danych osobowych przez niego samego lub w jego imieniu. W szczególności admini‐
+strator powinien mieć obowiązek wdrożenia odpowiednich i skutecznych środków oraz
+powinien być w stanie wykazać, że czynności przetwarzania są zgodne z niniejszym roz‐
+porządzeniem oraz, że są skuteczne. Środki te powinny uwzględniać charakter, zakres,
+kontekst i cele przetwarzania oraz ryzyko naruszenia praw i wolności osób fizycznych”.
+Projektowanie mechanizmów przetwarzania powinno więc odbywać się w procesie dwu‐
+etapowym. W pierwszej kolejności konieczne jest przeanalizowanie przez administratora
+ryzyka dla praw lub wolności osób fizycznych wynikającego z przetwarzania ich danych
+osobowych. Następnym etapem jest ustalenie, jakie środki techniczne i organizacyjne
+będą odpowiednie, aby zapewnić zgodność z przepisami rozporządzenia 2016/679, w
+tym stopień bezpieczeństwa odpowiadający temu ryzyku.
+Również w literaturze wskazuje się, że „[a]dministrator danych powinien przeprowadzić
+analizę ryzyka i ocenić, z jakimi zagrożeniami ma do czynienia, aby móc zastosować
+odpowiednie środki pozwalające skutecznie zabezpieczyć przetwarzane dane”[23]. Po‐
+dobnie wypowiadają się także sądy administracyjne, wskazując m.in., że
+„[a]dministrator danych powinien (…) przeprowadzić analizę ryzyka i ocenić, z jakimi
+zagrożeniami ma do czynienia”[24] oraz że „przeprowadzenie oceny ryzyka stanowi pod‐
+stawę do wdrażania przez administratora adekwatnych środków zabezpieczających
+dane, zarówno o charakterze technicznym jak i organizacyjnym. Nieprawidłowe oszaco‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 11 z 41
+
+wanie ryzyka powoduje przyjęcie środków, które w niedostateczny sposób chronią dane
+osobowe w przypadku wystąpienia przewidywanych zdarzeń (…)”[25].
+Kryterium ryzyka zostało szerzej opisane w motywie 75 preambuły do rozporządzenia
+2016/679, który wskazuje: „Ryzyko naruszenia praw lub wolności osób fizycznych o róż‐
+nym prawdopodobieństwie i wadze może wynikać z przetwarzania danych osobowych
+mogącego prowadzić do uszczerbku fizycznego lub szkód majątkowych lub niemajątko‐
+wych, w szczególności: jeżeli przetwarzanie może poskutkować dyskryminacją, kradzieżą
+tożsamości lub oszustwem dotyczącym tożsamości, stratą finansową, naruszeniem do‐
+brego imienia, naruszeniem poufności danych osobowych chronionych tajemnicą zawo‐
+dową, nieuprawnionym odwróceniem pseudonimizacji lub wszelką inną znaczną szkodą
+gospodarczą lub społeczną; jeżeli osoby, których dane dotyczą mogą zostać pozbawione
+przysługujących im praw i wolności lub możliwości sprawowania kontroli nad swoimi da‐
+nymi osobowymi; jeżeli przetwarzane są dane osobowe ujawniające pochodzenie rasowe
+lub etniczne, poglądy polityczne, wyznanie lub przekonania światopoglądowe, lub przy‐
+należność do związków zawodowych oraz jeżeli przetwarzane są dane genetyczne, dane
+dotyczące zdrowia lub dane dotyczące seksualności lub wyroków skazujących i czynów
+zabronionych lub związanych z tym środków bezpieczeństwa; jeżeli oceniane są czynniki
+osobowe, w szczególności analizowane lub prognozowane aspekty dotyczące efektów
+pracy, sytuacji ekonomicznej, zdrowia, osobistych preferencji lub zainteresowań, wiary‐
+godności lub zachowania, lokalizacji lub przemieszczania się – w celu tworzenia lub wy‐
+korzystywania profili osobistych; lub jeżeli przetwarzane są dane osób wymagających
+szczególnej opieki, w szczególności dzieci oraz jeżeli przetwarzanie dotyczy dużej ilości
+danych osobowych i wpływa na dużą liczbę osób, których dane dotyczą”.
+Ponadto unijny prawodawca wyjaśnił poprzez motyw 76 preambuły do rozporządzenia
+2016/679, że „[p]rawdopodobieństwo i powagę ryzyka naruszenia praw lub wolności
+osoby, której dane dotyczą, należy określić poprzez odniesienie się do charakteru, zakre‐
+su, kontekstu i celów przetwarzania danych. Ryzyko należy oszacować na podstawie
+obiektywnej oceny, w ramach której stwierdza się, czy z operacjami przetwarzania
+danych wiąże się ryzyko lub wysokie ryzyko”.
+W motywie 83 preambuły do rozporządzenia 2016/679 wskazano natomiast: „W celu za‐
+chowania bezpieczeństwa i zapobiegania przetwarzaniu niezgodnemu z rozporządze‐
+niem 2016/679 administrator powinien oszacować ryzyko właściwe dla przetwarzania
+oraz wdrożyć środki – takie jak szyfrowanie – minimalizujące to ryzyko. Oceniając ryzyko
+w zakresie bezpieczeństwa danych, należy wziąć pod uwagę ryzyko związane z przetwa‐
+rzaniem danych osobowych – takie jak przypadkowe lub niezgodne z prawem zniszcze‐
+nie, utracenie, zmodyfikowanie, nieuprawnione ujawnienie lub nieuprawniony dostęp do
+danych osobowych przesyłanych, przechowywanych lub w inny sposób przetwarzanych
+– i mogące w szczególności prowadzić do uszczerbku fizycznego, szkód majątkowych lub
+niemajątkowych”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 12 z 41
+
+C. Ryzyko dla praw lub wolności osób fizycznych związa‐
+ne z przetwarzaniem przez Szpital danych osobowych
+Wobec powyższego, aby prawidłowo zrealizować obowiązki wynikające z rozporządzenia
+2016/679, Szpital zobowiązany był do zapewnienia właściwego poziomu bezpieczeństwa
+przetwarzanych danych, w tym danych osobowych objętych incydentem, poprzez wdro‐
+żenie odpowiednich środków technicznych i organizacyjnych mających zapewnić ich po‐
+ufność, integralność i dostępność, a także do regularnego testowania, mierzenia i oce‐
+niania skuteczności tych środków. Decyzje o charakterze podejmowanych w tym kierun‐
+ku działań powinny zaś znaleźć oparcie we wnioskach wynikających z przeprowadzanych
+analiz ryzyka wiążącego się z przetwarzaniem, uwzględniających m.in. identyfikację po‐
+tencjalnych zagrożeń, konsekwencje ich urzeczywistnienia, a także proponowane
+rozwiązania mające na celu ich możliwie skuteczną mitygację.
+Ponadto Szpital powinien był w toku postępowania wykazać przed Prezesem UODO, czy –
+i w jaki sposób – wykonał obowiązki w tym zakresie. Jak wskazał NSA, „[z] brzmienia art.
+24 i 32 [rozporządzenia 2016/679] wynika (…), że odpowiedni charakter środków wdro‐
+żonych przez administratora należy oceniać w sposób konkretny, biorąc pod uwagę róż‐
+ne kryteria, o których mowa w tych artykułach, oraz potrzeby ochrony danych specyficz‐
+nie związane z danym przetwarzaniem, a także wynikające z niego ryzyko, tym bardziej
+że wspomniany administrator musi być w stanie wykazać zgodność tych środków z tym
+rozporządzeniem (…)”[26]. Z kolei WSA w Warszawie podkreślił, że „[o]rgan jest (…)
+uprawniony do oceny analizy ryzyka, w tym weryfikacji jej przeprowadzenia w odniesie‐
+niu do obiektywnych okoliczności, konfrontując je z kryteriami zawartymi w art. 32 ust. 1
+i 2 rozporządzenia 2016/679”[27].
+Ze zgromadzonego w sprawie materiału dowodowego wynika jednak, że Szpital zarzą‐
+dzał systemami informatycznymi objętymi incydentem, nie przeprowadzając uprzednio
+takich analiz w sposób prawidłowy, tj. zgodny ze standardami wynikającymi z
+rozporządzenia 2016/679.
+Szpital wskazał, że przed wystąpieniem incydentu analiza została przeprowadzona
+zgodnie z „Zasadami zarządzania ryzykiem bezpieczeństwa informacji w (…) w N.” (zob.
+pismo z 10 czerwca 2022 r.). W tym miejscu należy zaznaczyć, że wdrożenie środka or‐
+ganizacyjnego, jakim niewątpliwie jest przedłożony przez Szpital dokument, nie przesą‐
+dza jeszcze o należytym przeprowadzeniu przez Szpital analizy ryzyka wiążącego się z
+przetwarzaniem. Dokument ten dowodzi jedynie, że Szpital przygotował instrukcję
+(procedurę) przeprowadzania takich analiz.
+W pkt II-C instrukcja ta wskazuje, jakie kryteria powinna uwzględnić analiza dokonywana
+na jej podstawie (str. 2-3). Tabela pt. „Skutek wystąpienia zagrożenia”, do której odwołu‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 13 z 41
+
+ją się ww. wskazówki, koncentruje się jednak na konsekwencjach, jakie może ponieść
+Szpital, jako organizacja, ograniczając się do wyszczególnienia następujących rodzajów
+skutków: finansowe (np. „strata finansowa powyżej 1 mln zł”), organizacyjne (np. „prze‐
+rwa w realizacji zadań statutowych”), reputacja (np. „negatywne opinie w mediach mię‐
+dzynarodowych”) (str. 3). Powyższe przesądza o niewłaściwym zdefiniowaniu przez Szpi‐
+tal podstawowych założeń zaprojektowanej procedury oceny ryzyka. Rozporządzenie
+2016/679 koncentruje się bowiem na ochronie praw i wolności osób fizycznych, których
+dotyczą przetwarzane dane osobowe, nie zaś na wąsko rozumianym bezpieczeństwie
+administratorów czy też zdolności zapewnienia ciągłości świadczonych przez nich
+usług[28]. Z treści art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 tego rozporządzenia
+wynika wprost, że dobierając środki techniczne i organizacyjne, administratorzy powinni
+uwzględniać ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopo‐
+dobieństwie i wadze, czego Szpital powinien być świadomy, skoro wskazał w pkt I swojej
+procedury, że „[p]roces zarządzania ryzykiem powinien obejmować ocenę ryzyka naru‐
+szenia praw i wolności osób, których dane są przetwarzane” (str. 1).
+Zwracał na to uwagę WSA w Warszawie, wskazując, że „[art. 32 ust. 1 lit. b) i c) rozpo‐
+rządzenia 2016/679] nie wymaga od administratora danych wdrożenia jakichkolwiek
+środków technicznych i organizacyjnych, które mają stanowić środki ochrony danych
+osobowych, ale wymaga wdrożenia środków adekwatnych. Taką adekwatność oceniać
+należy pod kątem sposobu i celu, w jakim dane osobowe są przetwarzane, ale też należy
+brać pod uwagę ryzyko związane z przetwarzaniem tych danych osobowych, które to
+ryzyko charakteryzować się może różną wysokością” oraz że „[p]rzyjęte środki mają
+mieć charakter skuteczny, w konkretnych przypadkach niektóre środki będą musiały być
+środkami o charakterze niwelującym niskie ryzyko, inne – muszą niwelować ryzyko wyso‐
+kie, ważne jednak jest, aby wszystkie środki (a także każdy z osobna) były adekwatne i
+proporcjonalne do stopnia ryzyka”[29]. Nie ulega zatem wątpliwości, że przedłożona
+przez Szpital procedura zarządzania ryzykiem jest fundamentalnie wadliwa z punktu
+widzenia przepisów o ochronie danych osobowych.
+Niezależnie od tego, Szpital – w celu wykazania przed Prezesem UODO, że przed wystą‐
+pieniem incydentu analizował ryzyko związane z przetwarzaniem objętym nim danych
+osobowych – przedstawił w toku postępowania dokument „Szacowanie ryzyka bezpie‐
+czeństwa informacji – dokumentacja procesu – 2019 rok”. Należy podkreślić, że Szpital
+nie wskazał precyzyjnej daty przygotowania lub podpisania dokumentu. Sam dokument
+również nie został opatrzony taką datą (zob. pismo z 29 lutego 2024 r.).
+W ww. analizie uwzględniono w pkt I („Identyfikacja potencjalnych zagrożeń”) możliwość
+wystąpienia takich zjawisk, jak „nieautoryzowane działania” w postaci „nieuprawnionego
+zaszyfrowania danych” oraz „przełamanie zabezpieczeń” w postaci „włamania do syste‐
+mu/aplikacji” lub „włamania do infrastruktury” (str. 2). Jednocześnie jednak w pkt II
+(„Identyfikacja potencjalnych podatności”) nie wskazano żadnych podatności związa‐
+nych z ww. zagrożeniami, które Szpital powinien w miarę możliwości wyeliminować (lub
+ograniczyć) w celu zmitygowania ryzyka wystąpienia rozpoznanych niebezpieczeństw
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 14 z 41
+
+(str. 3-6). Innymi słowy, Szpital w żaden sposób nie powiązał logicznie hipotetycznych
+zagrożeń dla zarządzanych systemów informatycznych z ewentualnymi słabościami tych
+systemów lub innego rodzaju źródłami ryzyka.
+Następnie, w pkt III („Analiza ryzyka i poziom ryzyka”) ponownie wyszczególniono poten‐
+cjalne zagrożenia, takie jak m.in. „przełamanie zabezpieczeń” czy „oprogramowanie zło‐
+śliwe”, oceniając prawdopodobieństwo ich wystąpienia jako „możliwe”, zaś ich
+potencjalne skutki jako „wysokie”, w konsekwencji uznając poziom związanego z nimi
+ryzyka za „wysoki” (str. 7).
+W końcu, w pkt IV analizy („Postępowanie z ryzykiem”) zaprezentowane zostały
+„[d]odatkowe działania, które zostaną wdrożone w 2020 roku w zakresie postępowania z
+ryzykiem w obszarze bezpieczeństwa informacji”, jednakże – ponownie – w żaden spo‐
+sób nie powiązano ich logicznie z zagrożeniami określonymi w poprzednich częściach
+analizy. Szpital wskazał jedynie niezwykle ogólnie, że „[p]oszczególne działania dotyczą
+różnych rodzajów zagrożeń” (str. 8).
+Podsumowując, w ramach analizy ryzyka dokonanej w 2019 r. Szpital wykazał świado‐
+mość istnienia hipotetycznych zagrożeń polegających na przełamaniu zabezpieczeń sys‐
+temów informatycznych, mogącym skutkować m.in. ich eksfiltracją oraz narażeniem ich
+na działanie złośliwego oprogramowania. Szpital przedstawił także szereg podatności
+„które potencjalnie mogą wystąpić w ograniczonym lub szerszym zakresie” (str. 3), nie
+wskazując jednocześnie żadnych związków pomiędzy tymi podatnościami a zagrożenia‐
+mi. Szpital ocenił, że prawdopodobieństwo wystąpienia zdarzeń, jakie finalnie miały
+miejsce w czasie incydentu, jest „możliwe”, a jego skutki mogą być „wysokie”, określając
+istniejące w tym zakresie ryzyko jako „wysokie”. W konsekwencji Szpital zaprezentował
+tabelę działań zaplanowanych w ramach postępowania z oszacowanym w ten sposób ry‐
+zykiem.
+Zdaniem Prezesa UODO przedłożona analiza ryzyka budzi poważne zastrzeżenia wyklu‐
+czające możliwość doboru na jej podstawie odpowiednich środków technicznych i organi‐
+zacyjnych mających zapewnić zgodność przetwarzania z rozporządzeniem 2016/679
+oraz dokonania obiektywnej oceny gwarantowanego przez nie stopnia bezpieczeństwa.
+Po pierwsze, analiza przeprowadzona została na podstawie wadliwej procedury, zgodnie
+z którą, jak już podniesiono wcześniej, szacowanie ryzyka przeprowadzono z wykorzysta‐
+niem matrycy uwzględniającej skutki urzeczywistnienia się zagrożeń identyfikowanych z
+perspektywy Szpitala, jako organizacji. Administratorzy powinni zaś rozpoznawać skutki
+poszczególnych operacji przetwarzania danych osobowych w postaci ewentualnego
+uszczerbku fizycznego lub szkód majątkowych i niemajątkowych, jakie mogą ponieść
+osoby fizyczne, których dane te dotyczą[30].
+Po drugie, Szpital nie wskazał w treści przedłożonej dokumentacji, jakie procesy przetwa‐
+rzania poddawał analizie, ani nie powiązał tych procesów z rozpoznanymi zagrożeniami,
+podatnościami oraz ostateczną oceną ryzyka. Szpital nie tylko nie określił więc prawdo‐
+podobieństwa i powagi ryzyka naruszenia praw lub wolności osób, których dane dotyczą,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 15 z 41
+
+ale też w żaden sposób nie odniósł się w swojej ocenie do charakteru, zakresu,
+kontekstu i celów przetwarzania danych osobowych[31].
+Po trzecie, o nierzetelnym przeprowadzeniu przez Szpital tej procedury świadczy także
+wieńczący analizę opis proponowanych działań mających na celu postępowanie z ryzy‐
+kiem. Jego niespójność oraz liczne niejasności, tj. m.in. nieprecyzyjne sformułowania,
+takie jak np. „zakup sprzętu i oprogramowania związanego z zapewnieniem
+bezpieczeństwa informacji”, „zwiększenie dostępności zasobów osobowych w Dziale
+(…)” lub „zwiększenie bezpieczeństwa przechowywania kopii zapasowych danych i opro‐
+gramowania” (str. 8), brak szczegółowych planów postępowania z ryzykiem i konkret‐
+nych terminów ich realizacji, a także zakreślenie ww. propozycji w oderwaniu od jakich‐
+kolwiek wymogów wynikających z rozporządzenia 2016/679 (a nawet od treści samej
+analizy), nie pozwalają na obiektywną weryfikację tych działań pod kątem ich adekwat‐
+ności oraz skuteczności (w szczególności w zakresie ich ostatecznego wpływu na poziom
+ryzyka). Szpital nie wykazał ponadto, aby w jakikolwiek sposób monitorował proces
+wdrażania ww. środków. Takie postępowanie stoi w oczywistej sprzeczności z
+podstawowymi zasadami zarządzania ryzykiem.
+Należy jednocześnie wskazać, że zawarte w dokumentacji analizy ryzyka tabele przed‐
+stawiające zidentyfikowane przez Szpital zagrożenia i podatności pokrywają się w znacz‐
+nej mierze z przykładami zawartymi w załącznikach C i D do Polskiej Normy PN-ISO/IEC
+27005:2014-01[32]. Mimo że sama okoliczność odwoływania się przez Szpital do standar‐
+dów ISO 27005 bynajmniej nie budzi zastrzeżeń, niedostosowanie ich do ram prawnych
+ukształtowanych w rozporządzeniu 2016/679 wskazuje na brak należytej staranności
+Szpitala w wykonywaniu zadań spoczywających na nim, jako administratorze.
+W związku z powyższym, wobec nieprzeprowadzenia prawidłowego procesu analizy ryzy‐
+ka wiążącego się z przetwarzaniem, Szpital nie był zdolny wykazać w toku postępowa‐
+nia, że wdrażając techniczne i organizacyjne środki mające zapewnić zgodność przetwa‐
+rzania z rozporządzeniem 2016/679, a także oceniając, czy stopień bezpieczeństwa da‐
+nych osobowych jest odpowiedni, rzeczywiście uwzględnił kryteria opisane w art. 24 ust.
+1, art. 25 ust. 1 oraz 32 ust. 1 rozporządzenia 2016/679, w tym w szczególności ryzyko
+naruszenia praw lub wolności osób fizycznych, wynikające w szczególności z przypadko‐
+wego lub niezgodnego z prawem zniszczenia, utraty, modyfikacji, nieuprawnionego
+ujawnienia lub nieuprawnionego dostępu do danych osobowych, zgodnie z obowiązkiem
+wynikającym z art. 32 ust. 2 rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 16 z 41
+
+D. Techniczne i organizacyjne środki bezpieczeństwa da‐
+nych osobowych stosowane przez Szpital w chwili
+wystąpienia incydentu
+Jako techniczne i organizacyjne środki mające zapewnić zgodność z prawem przetwarza‐
+nia danych osobowych objętych incydentem, Szpital wskazał następujące rozwiązania:
+„(…)” (zob. zgłoszenie).
+W ocenie Prezesa UODO środki te nie mogą zostać uznane za odpowiednie wobec ryzyka
+związanego z przetwarzaniem danych osobowych w systemach objętych incydentem (a
+zatem za spełniające wymogi rozporządzenia 2016/679), jednakże nie tylko dlatego, że
+w omawianym przypadku okazały się one nieskuteczne (tj. doszło do naruszenia ochrony
+danych osobowych), lecz przede wszystkim ze względu na nieuwzględnienie przez Szpi‐
+tal przy ich wdrażaniu czynników oceny ryzyka określonych w rozporządzeniu 2016/679
+(zob. cz. III pkt B i C decyzji), a co za tym idzie – niewykazanie przed Prezesem UODO
+właściwego stopnia gwarantowanego przez nie bezpieczeństwa.
+Szczególnie zaakcentować więc należy, że wystąpienie incydentu nie przesądziło samo
+w sobie o naruszeniu przez Szpital przepisów, za które Prezes UODO nakłada na Szpital
+administracyjną karę pieniężną. Organy nadzorcze nie uzależniają bowiem zgodności
+działań administratorów z przepisami rozporządzenia 2016/679 od zdolności do zapobie‐
+żenia przez nich wszystkim potencjalnym naruszeniom ochrony danych osobowych[33].
+Incydent stanowił wyłącznie asumpt do podjęcia przez Prezesa UODO czynności w kie‐
+runku zbadania prawidłowości przetwarzania przez Szpital danych osobowych w obsza‐
+rze objętym tym zdarzeniem, a także przesłankę wskazującą na potencjalną możliwość
+zastosowania przez Szpital nieodpowiednich zabezpieczeń objętych nim danych osobo‐
+wych. W toku postępowania Szpital powinien był natomiast wykazać Prezesowi UODO, że
+– pomimo zaistnienia incydentu – przestrzegał zasad dotyczących przetwarzania danych
+osobowych oraz zrealizował obowiązek wdrożenia odpowiednich środków technicznych i
+organizacyjnych w celu ochrony takich danych przy przetwarzaniu[34]. W świetle
+zgromadzonego materiału dowodowego należy stwierdzić, że tego nie uczynił.
+Niezależnie od powyższego, za budzące poważne wątpliwości z punktu widzenia propor‐
+cjonalności dobranych przez Szpital środków bezpieczeństwa danych przetwarzanych w
+systemów informatycznych objętych incydentem trzeba uznać także informacje
+przedstawione w „Raporcie z Audytu zgodnego z ustawą o Krajowym Systemie Cyber‐
+bezpieczeństwa”, przygotowanym na podstawie audytu przeprowadzonego w Szpitalu
+przez zewnętrznych audytorów między 22 czerwca 2020 r. a 3 sierpnia 2020 r. Celem
+audytu było „[p]otwierdzenie zgodności bezpieczeństwa systemu informacyjnego wyko‐
+rzystywanego do świadczenia Usługi Kluczowej z wymaganiami ustawy o Krajowym
+Systemie Cyberbezpieczeństwa” (str. 5).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 17 z 41
+
+W pierwszej kolejności należy więc podkreślić, że audyt ten nie objął swoim zakresem
+oceny zgodności funkcjonowania Szpitala z przepisami o ochronie danych osobowych.
+Jak wskazuje bowiem art. 3 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbez‐
+pieczeństwa[35], akt ten koncentruje się przede wszystkim na zapewnieniu bezpiecznego
+i niezakłóconego świadczenia usług, nie zaś – jak ma to miejsce w przypadku rozporzą‐
+dzenia 2016/679 – na ochronie praw i wolności osób fizycznych. W kontekście zbadania
+okoliczności niniejszej sprawy moc dowodowa ww. audytu jest zatem częściowo ograni‐
+czona, jednakże ze względu na brak podstaw do podważenia przez Prezesa UODO wiary‐
+godności przedstawionych w nim spostrzeżeń, a także obiektywizmu i niezależności for‐
+mułujących je audytorów, przedłożony przez Szpital raport może stanowić potencjalne
+źródło informacji o stanie zabezpieczeń systemów informatycznych wykorzystywanych
+przez Szpital m.in. do przetwarzania danych osobowych objętych incydentem.
+Ze względu na charakter incydentu, polegającego na przełamaniu zabezpieczeń infra‐
+struktury informatycznej Szpitala, a następnie zainfekowaniu jej złośliwym oprogramo‐
+waniem typu ransomware, skutkującym naruszeniem poufności i dostępności danych
+osobowych ok. 2000 pracowników Szpitala zgromadzonych w zainfekowanych syste‐
+mach informatycznych oraz – w konsekwencji – możliwością uzyskania nieuprawnionego
+dostępu do ww. danych osobowych przez osoby trzecie, Prezes UODO zwrócił szczególną
+uwagę na przedstawione w raporcie podatności, które z uwagi na swoją specyfikę mogły
+stanowić potencjalne przyczyny ww. zdarzenia.
+W rozdziale „Obszar 2: Procesy zarządzania bezpieczeństwem informacji” podniesiono
+m.in.: „(…)” (str. 19).
+W rozdziale „Obszar 4: Monitorowanie i reagowanie na incydenty bezpieczeństwa” wska‐
+zano m.in.: „(…)” (str. 23).
+W rozdziale „Obszar 5: Zarządzanie zmianą” zwrócono uwagę na następującą kwestię:
+„(…)” (str. 25).
+W rozdziale „Obszar 6: Zarządzanie ciągłością działania” podniesiono m.in.: „(…)” (str.
+27).
+W rozdziale „Obszar 7: Utrzymanie systemów informacyjnych” wskazano m.in.: „(…)”
+(str. 28-29).
+W rozdziale „Obszar 8: Utrzymanie i rozwój systemów informacyjnych” stwierdzono
+m.in.: „(…)” (str. 30-31).
+W tym miejscu, mając na uwadze powyższe, należy podkreślić, że podniesione w rapor‐
+cie zastrzeżenia, takie jak np. brak zabezpieczenia przez Szpital wykorzystywanych sta‐
+cji roboczych przed instalacją na nich nieautoryzowanych aplikacji przy pomocy przeno‐
+śnych urządzeń zewnętrznych, dopuszczenie możliwości uzyskania zdalnego dostępu do
+wewnętrznych zasobów Szpitala za pośrednictwem prywatnych komputerów czy korzy‐
+stanie z nieaktualnego bądź niesprawdzonego oprogramowania przy jednoczesnym bra‐
+ku narzędzi umożliwiających scentralizowany wgląd w bezpieczeństwo infrastruktury in‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 18 z 41
+
+formatycznej oraz niedokonywaniu przez Szpital regularnego testowania, mierzenia i
+oceniania skuteczności zastosowanych środków bezpieczeństwa, wskazuje na poważne
+zaniedbania w obszarze ochrony administrowanych systemów informatycznych m.in.
+przed działaniem złośliwego oprogramowania.
+Co równie istotne, z obserwacji przedstawionych w raporcie oraz informacji przekaza‐
+nych przez Szpital wynika, że ten nie wdrożył stosownej procedury w zakresie wykony‐
+wania i dokumentowania testów odtworzeniowych, a także nie zastosował odpowiednich
+zabezpieczeń tworzonych kopii zapasowych, co mogło mieć wpływ na fakt, że po wystą‐
+pieniu incydentu Szpital nie zdołał w pełni odtworzyć danych utraconych w następstwie
+tego zdarzenia.
+Zaakcentowania wymaga, że Szpital nie odkrył finalnie wektora ataku, przez co nie zi‐
+dentyfikował podatności i technik wykorzystanych przez atakujących. Szpital
+poinformował, że „nie posiada dowodu przyczyny zaszyfrowania danych, jednakże z wy‐
+sokim prawdopodobieństwem stwierdza, że zostało skompromitowane jedno z haseł ad‐
+ministratora domeny, którym przestępcy posłużyli się do włamania. Wskazuje na to fakt,
+że wszystkie maszyny fizyczne i wirtualne wskazane w zgłoszeniu były wpięte do M. (…)
+a wiele serwerów, które mają system operacyjny V. oraz serwery z U. nie wpięte do M.
+(…) i będące w tym samym środowisku nie zostały zaszyfrowane” (zob. pismo z 27
+kwietnia 2020 r.).
+Jednocześnie Szpital przyznał, że przed wystąpieniem naruszenia ochrony danych osobo‐
+wych „nie oceniał skuteczności [środków] uwierzytelniających (w tym haseł) osób admi‐
+nistrujących domeną w kontekście ryzyka udostępnienia nieuprawnionym osobom
+trzecim dostępu do zasobów, którym te osoby administrowały” (zob. pismo z 30 paź‐
+dziernika 2020 r.).
+W tym kontekście wskazać również należy, że oddzielanie środowisk testowych i produk‐
+cyjnych, nadzór nad możliwością instalacji oprogramowania przez użytkowników, stoso‐
+wanie zabezpieczeń wykrywających, zapobiegających i odtwarzających, służących
+ochronie przed szkodliwym oprogramowaniem, wdrażanie polityk i wspierających je za‐
+bezpieczeń w celu ochrony informacji pobieranych, przetwarzanych i przechowywanych
+w miejscach wykonywania telepracy, regularne wykonywanie i testowanie zapasowych
+kopii danych, oprogramowania i obrazów systemów zgodnie z ustaloną polityką, a także
+tworzenie, przechowywanie i systematyczny przegląd dzienników zdarzeń to przykłady
+podstawowych środków bezpieczeństwa, rekomendowanych m.in. w ramach Polskiej
+Normy PN-EN ISO/IEC 27001:2017-06, opartej na powszechnie uznanej międzynarodowej
+normie standaryzującej systemy zarządzania bezpieczeństwem informacji i opublikowa‐
+nej 10 stycznia 2018 r., a więc dostępnej na długo przed wystąpieniem incydentu[36].
+Jednocześnie złośliwe oprogramowanie typu ransomware uznawane było za jedno z
+najczęściej występujących w cyberprzestrzeni zagrożeń już w 2018 r.[37], czego Szpital,
+jako administrator przetwarzający za pośrednictwem systemów informatycznych szeroki
+zakres wrażliwych danych osobowych, powinien był mieć pełną świadomość.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 19 z 41
+
+Według platformy internetowej Statista, specjalizującej się w gromadzeniu i wizualizacji
+danych, w 2018 r. organizacje na całym świecie odnotowały w sumie ponad 206
+milionów prób ataków za pomocą oprogramowania ransomware[38].
+Warto także podnieść, że w treści popularnego raportu „OWASP API Security Top 10
+2019”, reprezentującego szeroki konsensus co do najważniejszych zagrożeń dla bezpie‐
+czeństwa aplikacji internetowych, wskazano, że brak rejestrowania i monitorowania sys‐
+temów (np. poprzez mechanizmy logowania zdarzeń) w połączeniu z brakiem skutecz‐
+nych instrumentów zintegrowanej reakcji na incydenty znacznie zwiększa ryzyko ataków
+na infrastrukturę informatyczną, przeprowadzanych m.in. w celu zmiany, kradzieży lub
+niszczenia danych. Większość badań w zakresie naruszeń bezpieczeństwa informacji
+pokazuje bowiem, że czas ich wykrycia wynosi ponad 200 dni[39]. Podkreślenia wymaga
+zatem, że fakt wykrycia przez Szpital obecności złośliwego oprogramowania dopiero po
+uruchomieniu przy jego pomocy algorytmów szyfrujących wskazuje na możliwość spene‐
+trowania systemów Szpitala nawet wiele miesięcy przed tym zdarzeniem.
+
+E. Regularne testowanie, mierzenie i ocenianie przez
+Szpital skuteczności technicznych i organizacyjnych
+środków bezpieczeństwa danych osobowych
+Niezależnie od powyższego, trudno sobie wyobrazić prawidłowe funkcjonowanie jakich‐
+kolwiek systemów informatycznych, w szczególności tych, za pośrednictwem których
+przetwarzane są dane osobowe, bez dokonywania ich okresowych przeglądów. Testowa‐
+nie oprogramowania stanowi bowiem immanentną część procesu jego wdrażania i użyt‐
+kowania.
+Jak już podniesiono wcześniej, zgodnie z art. 24 ust. 1 rozporządzenia 2016/679 prawo‐
+dawca zobligował administratorów do poddawania przeglądom i uaktualniania środków
+mających zapewnić zgodność przetwarzania z obowiązującym prawem, w tym – stosow‐
+nie do art. 32 ust. 1 lit. d) rozporządzenia 2016/679 – regularnego testowania, mierzenia
+i oceniania skuteczności technicznych i organizacyjnych środków mających zapewnić
+bezpieczeństwo przetwarzanych danych osobowych. Obowiązek ten stanowi zarazem
+odzwierciedlenie koncepcji uwzględniania ochrony danych w fazie projektowania, wyra‐
+żonej w art. 25 ust. 1 rozporządzenia 2016/679, w myśl której ww. działania są jednymi z
+kluczowych w świetle zasady integralności i poufności, o której mowa w art. 5 ust. 1 lit.
+f) rozporządzenia 2016/679[40].
+Jak wyjaśniła bowiem Europejska Rada Ochrony Danych (dalej: „EROD”) w Wytycznych
+4/2019 dotyczących artykułu 25, „[a]rtykuł 25 ust. 1 stanowi, że administratorzy powinni
+uwzględnić ochronę danych w fazie projektowania oraz domyślną ochronę danych odpo‐
+wiednio wcześnie, na etapie planowania kolejnej operacji przetwarzania. Wdrażają oni
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 20 z 41
+
+ochronę danych w fazie projektowania oraz domyślną ochronę danych przed przetwarza‐
+niem, a także w sposób ciągły podczas przetwarzania, dokonując regularnych
+przeglądów skuteczności wybranych środków i zabezpieczeń”[41].
+Podobnie wypowiadają się sądy administracyjne, wskazując m.in., że „powinność regu‐
+larnego testowania środków technicznych i organizacyjnych, zabezpieczenia przetwarza‐
+nia danych osobowych, aby zapewnić stopień bezpieczeństwa odpowiadający temu ryzy‐
+ku, w rozumieniu art. 32 ust. 1 zd. wstępne [rozporządzenia 2016/679], wynika wprost z
+brzmienia lit. d wskazanego art. 32 ust. 1, zaś powinność dokumentowania czynności w
+danym zakresie statuuje zasada rozliczalności (art. 5 ust. 2 [rozporządzenia
+2016/679])”[42].
+Jakkolwiek art. 24 ust. 1, art. 25 ust. 1 oraz 32 ust. 1 lit. d) rozporządzenia 2016/679 nie
+wskazują żadnej szczegółowej procedury w tym zakresie, to sam wymóg testowania me‐
+chanizmów przetwarzania – zwłaszcza systemów informatycznych – traktowany jest więc
+powszechnie jako standard, do którego zapewnienia (w proporcjonalnym wymiarze)
+zobowiązany jest każdy administrator.
+Ze zgromadzonego w sprawie materiału dowodowego wynika, że nawet jeśli pracownicy
+Szpitala rzeczywiście testowali, mierzyli i oceniali skuteczność zabezpieczeń ww. syste‐
+mów (czego, jak już zaakcentowano wcześniej, Szpital nie był zdolny wykazać w toku
+przeprowadzonego postępowania), działania te podejmowali w sposób całkowicie niezor‐
+ganizowany, nie kierując się żadną uporządkowaną procedurą regulującą ich postępowa‐
+nie, a zatem bez wystarczającej gwarancji, że wykonywane testy będą zorientowane na
+zapewnienie zgodności przetwarzania z przepisami rozporządzenia 2016/679.
+Ponadto brak jakiegokolwiek dokumentowania przeprowadzanych przeglądów, w tym w
+szczególności płynących z nich wniosków, nie tylko pozostaje w sprzeczności z zasadą
+rozliczalności, o której mowa w art. 5 ust. 2 rozporządzenia 2016/679, ale także wyklu‐
+cza przejrzystość dokonywanych w tym zakresie działań oraz możliwość sprawowania
+przez Szpital faktycznej kontroli nad procesem wdrażania rekomendacji sformułowanych
+w rezultacie przeprowadzonych testów.
+
+F. Techniczne i organizacyjne środki bezpieczeństwa da‐
+nych osobowych zastosowane przez Szpital po
+wystąpieniu incydentu
+Zasygnalizowania wymaga, że po wystąpieniu incydentu Szpital podjął szereg działań
+mających na celu podniesienie poziomu bezpieczeństwa administrowanych systemów in‐
+formatycznych.
+Pomimo że pozytywna reakcja Szpitala na zaistniałe wydarzenia – w tym kierunek podej‐
+mowanych zmian – niewątpliwie zasługuje na aprobatę, środki bezpieczeństwa wdrożone
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 21 z 41
+
+przez Szpital w tym zakresie w latach 2020-2024 nie mogą zostać uznane przez Prezesa
+UODO za „odpowiednie” wobec wymagań, jakie stawiają przed administratorami przepi‐
+sy rozporządzenia 2016/679. Szpital oparł bowiem swoje działania na rekomendacjach
+sformułowanych w ramach audytu przeprowadzonego między 22 czerwca 2020 r. a 3
+sierpnia 2020 r., którego celem – jak już podnoszono wcześniej – było „[p]otwierdzenie
+zgodności bezpieczeństwa systemu informacyjnego wykorzystywanego do świadczenia
+Usługi Kluczowej z wymaganiami ustawy o Krajowym Systemie Cyberbezpieczeństwa”
+(zob. pismo z 8 marca 2024 r.).
+Audyt ten nie objął więc swoim zakresem oceny zgodności funkcjonowania Szpitala z
+przepisami o ochronie danych osobowych. Co więcej, jak wskazuje art. 3 ustawy z dnia 5
+lipca 2018 r. o krajowym systemie cyberbezpieczeństwa[43], akt ten koncentruje się
+przede wszystkim na zapewnieniu bezpiecznego i niezakłóconego świadczenia usług, nie
+zaś – jak ma to miejsce w przypadku rozporządzenia 2016/679 – na ochronie praw lub
+wolności osób fizycznych w związku z przetwarzaniem ich danych.
+Ponownie należy więc wskazać, że aby techniczne i organizacyjne środki bezpieczeństwa
+wdrażane przez administratora mogły zostać uznane za zgodne z przepisami o ochronie
+danych osobowych, muszą zostać dobrane i wdrożone na podstawie analizy ryzyka wią‐
+żącego się z przetwarzaniem, uwzględniającej kryteria, które zostały już przedstawione
+w cz. III pkt B decyzji. Fakt skutecznego przeprowadzenia powyższych działań powinien
+natomiast zostać wykazany przed Prezesem UODO, zgodnie z zasadą rozliczalności, o
+której mowa w art. 5 ust. 2 rozporządzenia 2016/679.
+Innymi słowy, pomimo że wymagania wynikające z przepisów dotyczących cyberbezpie‐
+czeństwa oraz ochrony danych osobowych mogą częściowo się pokrywać (np. w zakresie
+szeroko rozumianego bezpieczeństwa systemów informatycznych), stanowią one odręb‐
+ne obszary regulacyjne. Szpital powinien więc przedstawić Prezesowi UODO przekonują‐
+ce dowody na to, że w sposób prawidłowy zastosował się do przepisów, których
+naruszenie stwierdzono w przedmiotowej sprawie.
+W tym sensie należy uznać, że w chwili wydania niniejszej decyzji stan niezgodności
+przetwarzania przez Szpital danych osobowych z przepisami rozporządzenia 2016/679,
+tj. art. 5 ust. 1 lit. f) i ust. 2, art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 tego
+rozporządzenia, nadal trwa.
+Wobec powyższego nakaz sformułowany w pkt 2 sentencji niniejszej decyzji należy
+uznać za uzasadniony.
+
+G. Podsumowanie
+Zdaniem Prezesa UODO przedstawione powyżej ustalenia stwarzają dostateczne podsta‐
+wy do stwierdzenia, że techniczne i organizacyjne środki wdrożone przez Szpital, aby
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 22 z 41
+
+przetwarzanie odbywało się zgodnie z przepisami rozporządzenia 2016/679 i aby móc to
+wykazać, w tym w szczególności środki mające zapewnić bezpieczeństwo danych osobo‐
+wych pracowników Szpitala przetwarzanych w systemach informatycznych objętych in‐
+cydentem, nie tylko okazały się nieskuteczne, ale także zostały dobrane bez uwzględnie‐
+nia kryteriów określonych w rozporządzeniu 2016/679, tj. stanu wiedzy technicznej,
+kosztu wdrażania oraz charakteru, zakresu, kontekstu i celów przetwarzania oraz ryzyka
+naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie i wadze,
+co przesądza o przetwarzaniu przez Szpital ww. danych osobowych w sposób niezapew‐
+niający odpowiedniego ich bezpieczeństwa, w tym ochrony przed niedozwolonym lub
+niezgodnym z prawem przetwarzaniem oraz przypadkową utratą, zniszczeniem lub
+uszkodzeniem.
+Ponadto Szpital nie wywiązał się także z obowiązku wdrożenia odpowiednich środków
+technicznych i organizacyjnych w celu zapewnienia regularnego testowania, mierzenia i
+oceniania skuteczności ww. środków, w szczególności w zakresie identyfikacji podatno‐
+ści, błędów oraz ich możliwych skutków dla administrowanych systemów informatycz‐
+nych oraz podjętych działań minimalizujących ryzyko ich wystąpienia.
+W konsekwencji, w ocenie Prezesa UODO przetwarzanie przez Szpital danych osobowych
+pracowników za pośrednictwem systemów informatycznych objętych incydentem odby‐
+wało się niezgodnie z przepisami rozporządzenia 2016/679, tj. z naruszeniem przepisów
+art. 5 ust. 1 lit. f) i ust. 2, art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 tego rozpo‐
+rządzenia.
+
+IV. Administracyjna kara pieniężna
+Postępowanie administracyjne prowadzone przez Prezesa UODO służy kontroli zgodności
+przetwarzania danych z przepisami o ochronie danych osobowych i jest ukierunkowane
+na wydanie decyzji administracyjnej w celu zastosowania uprawnień naprawczych
+określonych w art. 58 ust. 2 rozporządzenia 2016/679.
+Mając na uwadze powyższe, jak również stwierdzone w niniejszym postępowaniu naru‐
+szenia przepisów o ochronie danych osobowych, Prezes UODO – korzystając z uprawnie‐
+nia określonego w art. 58 ust. 2 lit. i) rozporządzenia 2016/679, zgodnie z którym każde‐
+mu organowi nadzorczemu przysługuje uprawnienie do zastosowania, oprócz lub za‐
+miast środków, o których mowa w art. 58 ust. 2 lit. a)-h) oraz lit. j) tego rozporządzenia,
+administracyjnej kary pieniężnej – stwierdził, że w rozpatrywanej sprawie zmaterializo‐
+wały się przesłanki uzasadniające nałożenie na Szpital administracyjnej kary pieniężnej,
+określonej w art. 83 ust. 4 lit. a) i ust. 5 lit. a) rozporządzenia 2016/679.
+Zgodnie z art. 83 ust. 4 lit. a) rozporządzenia 2016/679, naruszenia przepisów dotyczą‐
+cych obowiązków administratora i podmiotu przetwarzającego, o których mowa w art. 8,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 23 z 41
+
+11, 25 - 39 oraz 42 i 43, podlegają zgodnie z ust. 2 administracyjnej karze pieniężnej w
+wysokości do 10 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 2 %
+jego całkowitego rocznego światowego obrotu z poprzedniego roku obrotowego, przy
+czym zastosowanie ma kwota wyższa.
+Z kolei zgodnie z art. 83 ust. 5 lit. a) rozporządzenia 2016/679, naruszenia przepisów do‐
+tyczących podstawowych zasad przetwarzania, w tym warunków zgody, o których to za‐
+sadach i warunkach mowa w art. 5, 6, 7 oraz 9, podlegają administracyjnej karze pie‐
+niężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości
+do 4 % jego całkowitego rocznego światowego obrotu z poprzedniego roku obrotowego,
+przy czym zastosowanie ma kwota wyższa.
+W myśl art. 102 ust. 1 pkt 1 u.o.d.o. Prezes UODO może natomiast nałożyć, w drodze de‐
+cyzji, administracyjne kary pieniężne w wysokości do 100 000 złotych, na jednostki sek‐
+tora finansów publicznych, o których mowa w art. 9 pkt 1-12 i 14 ustawy z dnia 27
+sierpnia 2009 r. o finansach publicznych[44]. Limit ten niewątpliwie znajdzie zastosowa‐
+nie w niniejszej sprawie wobec Szpitala, jako samodzielnego publicznego zakładu opieki
+zdrowotnej. Administracyjne kary pieniężne, o których mowa w ust. 1, Prezes UODO na‐
+kłada na podstawie i na warunkach określonych w art. 83 rozporządzenia 2016/679 (art.
+102 ust. 3 u.o.d.o.).
+
+A. Zachowania podlegające administracyjnej karze pie‐
+niężnej i zastosowanie art. 83 ust. 3 rozporządzenia
+2016/679
+Stosownie do brzmienia art. 83 ust. 3 rozporządzenia 2016/679, jeżeli administrator lub
+podmiot przetwarzający narusza umyślnie lub nieumyślnie w ramach tych samych lub
+powiązanych operacji przetwarzania kilka przepisów niniejszego rozporządzenia, całko‐
+wita wysokość administracyjnej kary pieniężnej nie przekracza wysokości kary za
+najpoważniejsze naruszenie.
+Wobec stwierdzenia, że Szpital dopuścił się w analizowanym stanie faktycznym naruszeń
+wielu przepisów rozporządzenia (tj. art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2, a w
+konsekwencji również art. 5 ust. 1 lit. f) i art. 5 ust. 2), Prezes UODO zobowiązany był
+uwzględnić przytoczoną w poprzedzającym akapicie regulację celem rozważenia, czy
+okoliczności niniejszej sprawy determinują skorzystanie przez organ nadzorczy z wyłącz‐
+nie jednego, czy też z kilku środków naprawczych przewidzianych w art. 58 ust. 2 rozpo‐
+rządzenia 2016/679 – a precyzyjniej, czy organ powinien nałożyć na Szpital wyłącznie
+jedną administracyjną karę pieniężną, stanowiącą odpowiedź na wszystkie popełnione
+przez Szpital naruszenia, czy też odrębne i samoistne kary dla każdego z tych naruszeń
+rozpatrywanych osobno.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 24 z 41
+
+Ustalając konkretne sankcje za stwierdzone w niniejszej sprawie naruszenia Prezes
+UODO skorzystał z metodyki obliczania administracyjnych kar pieniężnych przyjętej
+przez EROD, zgodnie z którą pierwszym krokiem do dalszych obliczeń jest „ocena zasto‐
+sowania art. 83 ust. 3 [rozporządzenia 2016/679]”[45] poprzez ustalenie:
+a) czy okoliczności wskazują na jedno zachowanie, czy też na wiele zachowań
+podlegających karze,
+b) w przypadku jednego zachowania, czy zachowanie to stanowi jedno naruszenie czy
+większą liczbę naruszeń, oraz
+c) w przypadku jednego zachowania, które stanowi wiele naruszeń, czy przypisanie
+jednego naruszenia wyklucza przypisanie innego naruszenia, czy też należy je
+przypisać równolegle[46].
+Określenie „jedno zachowanie” należy przy tym interpretować w nawiązaniu do art. 83
+ust. 3 rozporządzenia 2016/679, w którym mowa jest o „tych samych lub powiązanych
+operacjach przetwarzania”. Zgodnie z przyjętą przez EROD wykładnią, „[t]ermin
+«powiązane» odnosi się do zasady, zgodnie z którą jedno zachowanie może składać się z
+kilku części, które są realizowane na skutek jednego aktu woli i są kontekstowo (w szcze‐
+gólności jeśli chodzi o tożsamość osoby, której dane dotyczą, cel i charakter przetwarza‐
+nia), przestrzennie i czasowo tak blisko powiązane, że z obiektywnego punktu widzenia
+można uznać je za jedno spójne zachowanie”[47].
+Odnosząc powyższe do okoliczności rozpatrywanej sprawy, Prezes UODO uznał, że
+stwierdzone zaniechania Szpitala – polegające z jednej strony na braku wdrożenia odpo‐
+wiednich środków technicznych i organizacyjnych zapewniających bezpieczeństwo da‐
+nych osobowych przetwarzanych w systemach informatycznych oraz ochronę praw
+osób, których dane dotyczą, z drugiej zaś na braku wdrożenia odpowiednich środków
+technicznych i organizacyjnych w celu zapewnienia regularnego testowania, mierzenia i
+oceniania skuteczności ww. środków mających zapewnić bezpieczeństwo przetwarzania
+– stanowią „jedno spójne zachowanie” w rozumieniu przedstawionym przez EROD. Za
+taką interpretacją przemawia fakt, że brak aktywności Szpitala w wyżej wskazanym ob‐
+szarze (skutkujący naruszeniem art. 24 ust. 1, art. 25 ust. 1, jak i art. 32 ust. 1 i 2 rozpo‐
+rządzenia 2016/679, a w konsekwencji również art. 5 ust. 1 lit. f) oraz art. 5 ust. 2 rozpo‐
+rządzenia 2016/679), choć nie jest on efektem jednego aktu woli administratora, stanowi
+wypadkową długotrwałych zaniedbań w sferze nie tylko wdrażania, ale i egzekwowania
+stosowania środków ochrony danych osobowych przetwarzanych w systemach informa‐
+tycznych Szpitala, które byłyby adekwatne do zidentyfikowanych zagrożeń. Zaniedbania
+te zmaterializowały się już etapie określania sposobów przetwarzania – czego wyrazem
+był wadliwy sposób przeprowadzenia analizy ryzyka związanego ze stosowanymi przez
+Szpital procesami przetwarzania – a następnie kontynuowane były (i nadal są) w czasie
+samego przetwarzania. Brak odpowiednich działań Szpitala w analizowanym zakresie,
+jako proces ciągły i długotrwały, skutkujący naruszeniem elementarnych zasad dotyczą‐
+cych przetwarzania danych osobowych, prowadzi do utrzymywania się stanu, w którym
+Szpital nie jest zdolny do wykazania przed organem nadzorczym zgodności przetwarza‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 25 z 41
+
+nia z przepisami rozporządzenia 2016/679. Należy przy tym stwierdzić, że jedna, kon‐
+kretna decyzja Szpitala mogłaby zapobiec naruszeniom wszystkich rozpatrywanych tutaj
+przepisów bądź doprowadzić (na obecnym etapie sprawy) do usunięcia stanu narusze‐
+nia. Poza długim czasem trwania stwierdzonych naruszeń, rozpatrywanych jako jedno
+spójne zachowanie administratora, zbieżny w odniesieniu do nich jest również cel i cha‐
+rakter przetwarzania realizowanego przez Szpital. Wskazać bowiem należy, że Szpital
+przetwarza dane osobowe w systemach informatycznych w celu wypełnienia obowiąz‐
+ków spoczywających na nim jako pracodawcy (w odniesieniu do danych osobowych per‐
+sonelu Szpitala, które bezpośrednio ucierpiały w wyniku incydentu), ale również w celu
+realizacji obowiązków wynikających z faktu świadczenia usług leczniczych (w odniesieniu
+do danych osobowych wszystkich jego pacjentów). Tym samym należy stwierdzić, że dal‐
+sze przetwarzanie danych osobowych przez Szpital w sposób niezgodny z przepisami
+rozporządzenia 2016/679 niesie za sobą realne ryzyko naruszenia praw lub wolności
+wszystkich osób fizycznych, których dane znajdują się w posiadaniu Szpitala. W szcze‐
+gólności, że ryzyko to zmaterializowało się już w przeszłości, gdy w wyniku zainfekowa‐
+nia infrastruktury informatycznej Szpitala złośliwym oprogramowaniem ransomware
+utracona została część danych osobowych jego pracowników. W ocenie Prezesa UODO
+wszystkie wyżej wskazane okoliczności, wspólne dla przypisanych Szpitalowi naruszeń,
+nakazują rozpatrywać je łącznie.
+Przyjmując więc, że zaniechania Szpitala polegające na niezastosowaniu (zarówno w fa‐
+zie projektowania, jak i w trakcie przetwarzania) odpowiednich środków technicznych i
+organizacyjnych zapewniających stopień bezpieczeństwa odpowiadający ryzyku prze‐
+twarzania danych przy użyciu systemów informatycznych, jak i środków zezwalających
+na regularne testowanie, mierzenie i ocenianie ich skuteczności, stanowią jedno spójne
+zachowanie, a przy tym zachowanie to narusza kilka przepisów rozporządzenia 2016/679
+(art. 24 ust. 1, art. 25 ust. 1, art. 32 ust. 1 i 2, a w konsekwencji także art. 5 ust. 1 lit. f)
+oraz art. 5 ust. 2) – stwierdzić należy w dalszej kolejności, że żadne z tych naruszeń nie
+wyklucza możliwości przypisania Szpitalowi innego z nich. W szczególności stwierdzenie
+naruszenia przepisów określających podstawowe, ogólne zasady przetwarzania, o któ‐
+rych mowa w art. 5 rozporządzenia 2016/679, nie wyklucza możliwości przypisania ad‐
+ministratorowi (i nałożenia za to sankcji finansowej) naruszenia przepisów szczegóło‐
+wych stanowiących konkretyzację tych zasad, tj. art. 24 ust. 1, art. 25 ust. 1, art. 32 ust.
+1 i 2 rozporządzenia 2016/679. Przy tym jednak administracyjna kara pieniężna nie jest
+nakładana za naruszenie obowiązku określonego w art. 24 ust. 1, w związku z tym, że
+nie jest on wymieniony w art. 83 ust. 4-6 rozporządzenia 2016/679. Konsekwencją po‐
+wyższego jest ustalenie, że odpowiedzialność Szpitala w niniejszym postępowaniu
+powinna kształtować się „równolegle” w stosunku do wszystkich popełnionych naruszeń,
+tj. z zastosowaniem przepisu art. 83 ust. 3 rozporządzenia 2016/679.
+Podsumowując, administracyjna kara pieniężna zastosowana wobec Szpitala za narusze‐
+nie art. 24 ust. 1, 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679, została nało‐
+żona na podstawie art. 83 ust. 4 lit. a) rozporządzenia 2016/679, zaś za naruszenie art. 5
+ust. 1 lit. f) oraz art. 5 ust. 2 rozporządzenia 2016/679 – na podstawie art. 83 ust. 5 lit. a)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 26 z 41
+
+rozporządzenia 2016/679. Przy tym jednak kara ta, wymierzona łącznie za naruszenie
+wszystkich ww. przepisów stosownie do brzmienia art. 83 ust. 3 rozporządzenia
+2016/679, nie może wykraczać poza limit kar określony dla jednego z tych naruszeń, tj.
+kwoty 100 000 zł, ustalonej w art. 102 ust. 1 pkt 1 u.o.d.o. w odniesieniu do organów
+władzy publicznej i innych podmiotów publicznych.
+
+B. Uzasadnienie nałożenia i ustalenia wysokości
+administracyjnej kary pieniężnej
+Decydując o nałożeniu na Szpital administracyjnej kary pieniężnej Prezes UODO – sto‐
+sownie do treści art. 83 ust. 2 lit. a)-k) rozporządzenia 2016/679 – wziął pod uwagę na‐
+stępujące okoliczności, stanowiące o konieczności zastosowania w niniejszej sprawie
+tego rodzaju sankcji oraz wpływające obciążająco na wymiar nałożonej administracyjnej
+kary pieniężnej:
+
+Charakter, wagę i czas trwania naruszenia przy uwzględ‐
+nieniu charakteru, zakresu lub celu danego przetwarza‐
+nia, liczby poszkodowanych osób, których dane dotyczą,
+oraz rozmiaru poniesionej przez nie szkody (art. 83 ust. 2
+lit. a) rozporządzenia 2016/679)
+Stwierdzone w niniejszej sprawie naruszenia przepisów o ochronie danych osobowych,
+których skutkiem była z jednej strony utrata części danych osobowych przetwarzanych
+przez Szpital (tj. naruszenie dostępności danych), z drugiej zaś możliwość uzyskania nie‐
+autoryzowanego dostępu do danych znajdujących się w systemach informatycznych
+Szpitala przez osobę bądź osoby nieuprawnione (tj. naruszenie poufności danych), mają
+znaczną wagę i poważny charakter, jako że stwarzają wysokie ryzyko negatywnych skut‐
+ków dla osób, których dane dotyczą. W odniesieniu do zaistniałego incydentu wskazać
+bowiem należy, że w toku postępowania Szpital nie dostarczył jednoznacznych dowodów
+zezwalających na przyjęcie, iż dokonujący ataku ransomware nie zapoznali się z danymi
+osobowymi znajdującymi się w zainfekowanych plikach – co potencjalnie skutkować
+może w przyszłości ich bezprawnym wykorzystaniem. Ponadto zakładając nawet, że w
+efekcie braku zastosowania przez Szpital odpowiednich środków bezpieczeństwa nie do‐
+szło do utraty poufności danych (czego nie sposób jednak wykluczyć), należy wziąć pod
+uwagę, że Szpital czasowo utracił dostęp do danych osobowych swoich pracowników,
+przetwarzanych na serwerach fizycznych i maszynach wirtualnych, w tym serwerach ob‐
+sługujących: program Płatnik, oprogramowanie do kontroli dostępu na oddziały oraz kon‐
+trolery domeny, serwer plików, a także serwer kopii zapasowych – przy tym części z nich
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 27 z 41
+
+nie udało się odzyskać. Tym samym zamiast realizować swoje zadania w pełnym zakre‐
+sie i w normalnym trybie (tj. z wykorzystaniem systemów informatycznych), Szpital mu‐
+siał najpierw odzyskać dostęp do danych osobowych. Wobec tego należy założyć, że w
+okresie utraty dostępności (a w stosunku do danych osobowych, które zostały trwale
+utracone – również po upływie tego okresu), wystąpiło ryzyko braku możliwości realizacji
+praw przez osoby, których dane te dotyczyły.
+Wagę przypisywanych Szpitalowi naruszeń dodatkowo zwiększa fakt, że choć zgłoszony
+organowi nadzorczemu incydent dotyczył danych osobowych wyłącznie około 2 tysięcy
+osób wchodzących w skład personelu Szpitala, to jednak stwierdzić należy, że dalsze
+utrzymywanie się stanu niezgodności przetwarzania z przepisami rozporządzenia
+2016/679 niesie za sobą poważne ryzyko naruszenia praw lub wolności wszystkich osób,
+których dane osobowe Szpital przetwarza, w tym zwłaszcza pacjentów placówki. Szpital,
+będąc największym na (…) ośrodkiem diagnostyczno-leczniczym dla dzieci i młodzieży w
+wieku od 0 do 18 lat, w którym hospitalizowanych jest rocznie blisko (…) tys. pacjentów,
+zaś w poradniach specjalistycznych wchodzących w jego skład leczy się około (…) tys.
+osób[48], przetwarza na znaczną skalę dane osobowe szczególnych kategorii (takimi są
+bowiem dane dotyczące zdrowia). Jednocześnie profil działalności Szpitala, którego usłu‐
+gi skierowane są do osób niepełnoletnich, determinuje fakt, iż placówka przetwarza dane
+osobowe dotyczące dzieci – te zaś podlegają szczególnej ochronie na gruncie przepisów
+rozporządzenia 2016/679. W kontekście powyższego podkreślić należy, że od Szpitala –
+jako publicznego podmiotu leczniczego przetwarzającego dane osobowe o szczególnym
+stopniu wrażliwości, w tym dane objęte tajemnicą lekarską – należy oczekiwać wysokich
+standardów w zakresie bezpieczeństwa przetwarzanych danych. Powyższe nie pozostaje
+bez wpływu na ocenę charakteru i wagi stwierdzonych naruszeń, które to okoliczności
+Prezes UODO uznał za istotnie obciążające w niniejszej sprawie.
+Na niekorzyść Szpitala należy zaliczyć również długi czas trwania naruszeń. Zgromadzo‐
+ny w toku postępowania materiał dowodowy nakazuje bowiem przyjąć, że stan niezgod‐
+ności przetwarzania z przepisania rozporządzenia 2016/679 trwa nieprzerwanie od 25
+maja 2018 r. (tj. od daty rozpoczęcia stosowania ww. aktu prawnego) aż do chwili obec‐
+nej. Okoliczność utrzymywania się stanu naruszenia przez okres blisko siedmiu lat nale‐
+ży poczytywać jako kryterium wpływające w znacznym stopniu zarówno na decyzję orga‐
+nu o nałożeniu administracyjnej kary pieniężnej w niniejszej sprawie, jak i wysokość
+samej kary.
+Mimo, że w toku postępowania nie ujawniły się żadne dowody wskazujące na to, że oso‐
+by (pracownicy Szpitala), do których danych dostęp mogły uzyskać osoby trzecie, dozna‐
+ły szkody majątkowej, uznać należy, że samo już naruszenie dostępności, a potencjalnie
+i poufności ich danych osobowych stanowi dla nich szkodę niemajątkową (krzywdę), np.
+poprzez naruszenie ich dóbr osobistych, takich jak dobrostan psychiczny czy prawo do
+prywatności. Osoby fizyczne, których dane potencjalnie pozyskano w sposób nieupraw‐
+niony w wyniku naruszenia ochrony danych osobowych, mogą bowiem odczuwać obawę
+przed utratą kontroli nad swoimi danymi osobowymi, kradzieżą tożsamości lub oszu‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 28 z 41
+
+stwem dotyczącym tożsamości, a nawet dyskryminacją (w zakresie danych o przynależ‐
+ności do związków zawodowych). Tymczasem jak wskazał Trybunał Sprawiedliwości Unii
+Europejskiej, „obawa przed ewentualnym wykorzystaniem przez osoby trzecie w sposób
+stanowiący nadużycie danych osobowych, jaką żywi osoba, której dane dotyczą, w na‐
+stępstwie naruszenia tego rozporządzenia może sama w sobie stanowić «szkodę niema‐
+jątkową»”[49] w rozumieniu art. 82 ust. 1 rozporządzenia 2016/679.
+Mając na względzie wyżej wskazane okoliczności, przesłankę określoną w art. 83 ust. 2
+lit. a) rozporządzenia 2016/679, rozpatrywaną w sposób całościowy, organ ocenił jako
+obciążającą w znacznym stopniu.
+
+Nieumyślny charakter naruszenia przepisów rozporzą‐
+dzenia 2016/679 (art. 83 ust. 2 lit. b) rozporządzenia
+2016/679)
+Analizując tę przesłankę Prezes UODO uwzględnił stanowisko wyrażone przez EROD,
+zgodnie z którym umyślność „obejmuje zarówno wiedzę, jak i celowe działanie, w związ‐
+ku z cechami charakterystycznymi czynu zabronionego”[50]. W świetle powyższego or‐
+gan nadzorczy przyjął, że Szpital – przetwarzając m.in. dane osobowe, którym przepisy
+rozporządzenia 2016/679 przyznają szczególny poziom ochrony – świadomy był tego, że
+w przypadku dopuszczenia takiego przetwarzania w systemach informatycznych, powi‐
+nien on był zagwarantować odpowiedni stopień bezpieczeństwa tego przetwarzania, tj.
+zapewniający przestrzeganie zasady „integralności i poufności” wyrażonej w art. 5 ust. 1
+lit. f) rozporządzenia 2016/679. Fakt ten potęguje okoliczność, że przepisy rozporządze‐
+nia przyjęte 27 kwietnia 2016 r., zaczęły być stosowane z pełną mocą dopiero od 25
+maja 2018 r., dając administratorom czas na dostosowanie obowiązujących dotychczas
+procedur oraz wdrożonych środków technicznych i organizacyjnych, związanych z prze‐
+twarzaniem danych osobowych, do nowej rzeczywistości prawnej. Dokumenty dostarczo‐
+ne przez Szpital w niniejszym postępowaniu, szczegółowo wskazane w części uzasadnie‐
+nia poświęconej technicznym i organizacyjnym środkom bezpieczeństwa danych osobo‐
+wych stosowanym przez Szpital w chwili wystąpienia incydentu (zob. cz. III pkt D decyzji)
+– choć w sposób oczywisty nie czynią zadość wymogom stawianym przez przepisy roz‐
+porządzenia 2016/679 – bezsprzecznie wskazują na to, że Szpital zdawał sobie sprawę z
+ww. powinności. Tym samym należy przyjąć, iż po stronie Szpitala zmaterializował się
+element „wiedzy”, niezbędny do przypisania mu winy z tytułu popełnionych naruszeń.
+Jednocześnie jednak, biorąc pod uwagę podejmowane przez Szpital działania, brak jest
+podstaw do przypisania mu woli (zamiaru) naruszenia przepisów rozporządzenia
+2016/679. W ocenie organu Szpital nie działał umyślnie, niemniej dopuścił się licznych
+zaniechań skutkujących znaczącym zwiększeniem ryzyka naruszenia dostępności i pouf‐
+ności przetwarzanych danych, co świadczy o rażącym niedbalstwie i stanowi istotną oko‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 29 z 41
+
+liczność wpływającą obciążająco na wysokość administracyjnej kary pieniężnej. Mimo
+przyjętej praktyki wykorzystywania systemów informatycznych dla celów wiążących się z
+koniecznością przetwarzania danych osobowych, Szpital nie przeprowadził bowiem po‐
+prawnej analizy ryzyka, która zezwoliłaby na zidentyfikowanie potencjalnych zagrożeń
+(w tym ataku za pomocą oprogramowania ransomware) oraz na dobór – na jej podstawie
+– odpowiednich środków technicznych i organizacyjnych mających na celu zapewnienie
+zgodności przetwarzania z rozporządzeniem 2016/679 oraz umożliwienie regularnego te‐
+stowania, mierzenia i oceniania skuteczności wprowadzonych rozwiązań. Wprawdzie po
+wystąpieniu incydentu Szpital podjął czynności, które niewątpliwie przyczyniły się do
+wzmocnienia bezpieczeństwa informacji – co jest wyraźnym sygnałem dla organu nad‐
+zorczego, że administrator świadomy jest własnych uchybień we wskazanym obszarze.
+Jak jednak wyżej wskazano (zob. cz. III pkt F decyzji), działania te koncentrowały się
+przede wszystkim na zapewnieniu bezpiecznego i niezakłóconego świadczenia usług, nie
+zaś stricte na ochronie praw lub wolności osób fizycznych w związku z przetwarzaniem
+ich danych osobowych. Zdaniem organu nadzorczego wyżej wskazane okoliczności
+świadczą o tym, że w omawianym przypadku Szpital mógł i powinien był przewidzieć, że
+przyjęte przez niego rozwiązania nie zapewniają odpowiedniego stopnia bezpieczeństwa
+danych osobowych przetwarzanych w systemach informatycznych, jednak wadliwie
+przeprowadzona analiza ryzyka, będąca pierwszym krokiem w procesie identyfikacji,
+oceny i zarządzania ryzykiem związanym z przetwarzaniem danych, pociągnęła za sobą
+dalsze nieprawidłowości w tejże sferze – co świadczy o nieumyślnym charakterze przypi‐
+sanych Szpitalowi naruszeń przepisów art. 24 ust. 1, 25 ust. 1, art. 32 ust. 1 i 2 oraz art.
+5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia 2016/679.
+
+Kategorie danych osobowych, których dotyczyło narusze‐
+nie (art. 83 ust. 2 lit. g) rozporządzenia 2016/679)
+Dane osobowe znajdujące się w zasobach Szpitala, co do których utracił on dostęp w na‐
+stępstwie ataku ransomware, w przeważającej większości nie należały do szczególnych
+kategorii danych osobowych, o których mowa w art. 9 ust. 1 rozporządzenia 2016/679,
+jednakże ich zakres – obejmujący: nazwiska i imiona pracowników Szpitala, imiona ich
+rodziców, daty urodzenia, adresy zamieszkania lub pobytu, numery ewidencyjne PESEL,
+loginy do systemu M. (…), numery kart dostępowych do drzwi wejściowych na oddział
+szpitalny oraz komórki organizacyjne – wiąże się z wysokim ryzykiem naruszenia praw
+lub wolności osób fizycznych dotkniętych naruszeniem. Należy podkreślić, że fakt obję‐
+cia incydentem takich kategorii danych jak numer ewidencyjny PESEL wraz z imieniem i
+nazwiskiem, które zezwalają na jednoznaczne ustalenie tożsamości osoby fizycznej,
+może realnie i negatywnie wpływać na ochronę praw lub wolności tej osoby. Numer ewi‐
+dencyjny PESEL, czyli jedenastocyfrowy symbol numeryczny, jednoznacznie identyfikują‐
+cy osobę fizyczną, zawierający m.in. datę jej urodzenia oraz oznaczenie płci – a więc ści‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 30 z 41
+
+śle powiązany ze sferą prywatną osoby fizycznej oraz podlegający również, jako krajowy
+numer identyfikacyjny, wyjątkowej ochronie na gruncie art. 87 rozporządzenia 2016/679
+– jest daną o szczególnym charakterze i takiej szczególnej ochrony wymaga.
+Nie bez znaczenie pozostaje również fakt, że w systemach informatycznych zainfekowa‐
+nych złośliwym oprogramowaniem Szpital przetwarzał informacje o przynależności pra‐
+cowników do związków zawodowych, które to dane w myśl art. 9 ust 1 rozporządzenia
+2016/679 ustawodawca unijny zakwalifikował do danych o wysokim stopniu wrażliwości.
+Potencjalna utrata ich poufności może skutkować bezprawnym ich wykorzystaniem w
+celu prześladowania lub dyskryminacji pracownika w zatrudnieniu. W tym kontekście
+należy przywołać pogląd wyrażony przez EROD, zgodnie z którym „[j]eśli chodzi o wy‐
+móg uwzględnienia kategorii danych osobowych, których dotyczyło naruszenie (art. 83
+ust. 2 lit. g) [rozporządzenia 2016/679]), w [rozporządzeniu 2016/679] wyraźnie wskaza‐
+no rodzaje danych, które podlegają szczególnej ochronie, a tym samym bardziej rygory‐
+stycznej reakcji przy nakładaniu kar pieniężnych. Dotyczy to co najmniej rodzajów da‐
+nych objętych art. 9 i 10 [rozporządzenia 2016/679] oraz danych nieobjętych zakresem
+tych artykułów, których rozpowszechnianie natychmiast powoduje szkody lub dyskom‐
+fort osoby, której dane dotyczą (np. danych dotyczących lokalizacji, danych dotyczących
+komunikacji prywatnej, krajowych numerów identyfikacyjnych lub danych finansowych,
+takich jak zestawienia transakcji lub numery kart kredytowych). Ogólnie rzecz biorąc, im
+większej liczby takich kategorii danych dotyczy naruszenie lub im bardziej wrażliwe są
+dane, tym większą wagę organ nadzorczy może przypisać temu czynnikowi”[51]. Mając
+powyższe na uwadze, uwzględniając zakres danych objętych naruszeniem, organ ocenił
+tę przesłankę obciążająco – w stopniu istotnie wpływającym na wysokość orzeczonej
+administracyjnej kary pieniężnej.
+Ustalając wysokość administracyjnej kary pieniężnej, Prezes UODO uwzględnił na ko‐
+rzyść Szpitala, w ramach przesłanki dotyczącej wszelkich innych obciążających lub łago‐
+dzących czynników, mających zastosowanie do okoliczności sprawy (art. 83 ust. 2 lit. k)
+rozporządzenia 2016/679) fakt spontanicznego podjęcia przez Szpital działań ukierunko‐
+wanych na podniesienie poziomu bezpieczeństwa administrowanych systemów informa‐
+tycznych – szczegółowo wymienionych w części uzasadnienia decyzji poświęconej tech‐
+nicznym i organizacyjnym środkom bezpieczeństwa zastosowanym przez Szpital po wy‐
+stąpieniu incydentu (zob. cz. III pkt F decyzji) – które to działania w sposób pośredni
+mogą przyczyniać się do poprawy bezpieczeństwa przetwarzania danych osobowych w
+tychże systemach. Organ uwzględnił na korzyść Szpitala fakt, iż ten nie pozostał zupeł‐
+nie bierny wobec incydentu, lecz podjął szereg działań naprawczych. Zważyć jednak na‐
+leży, że działania te nie doprowadziły do usunięcia stanu niezgodności przetwarzania w
+przepisami rozporządzenia 2016/679. Nie sposób jest również ustalić stopnia ich realne‐
+go wpływu na poprawę bezpieczeństwa przetwarzania. Z uwagi na powyższe przesłankę
+tę potraktowano jako mającą wpływ na obniżenie wysokości wymierzonej kary
+pieniężnej, jednak w ograniczonym stopniu.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 31 z 41
+
+Inne, niżej wskazane okoliczności, o których mowa w art. 83 ust. 2 rozporządzenia
+2016/679, po dokonaniu oceny ich wpływu na stwierdzone w niniejszej sprawie narusze‐
+nie, zostały przez Prezesa UODO uznane za neutralne w jego ocenie, to znaczy jako nie‐
+mające ani obciążającego, ani łagodzącego wpływu na wymiar orzeczonej
+administracyjnej kary pieniężnej:
+
+Działania podjęte w celu zminimalizowania szkody ponie‐
+sionej przez osoby, których dane dotyczą (art. 83 ust. 2
+lit. c) rozporządzenia 2016/679)
+W kontekście tej przesłanki znaczenie ma cel, jakiemu ma służyć działanie administrato‐
+ra, czyli zminimalizowanie szkody poniesionej przez osoby, których dane dotyczą. Prezes
+UODO nie odnotował w niniejszym przypadku tego typu działań Szpitala. Samo bowiem
+przekazanie pracownikom, których dane zostały objęte incydentem, informacji o zaist‐
+niałym zdarzeniu nie może być w przedmiotowej sprawie uznane za działanie w celu
+zminimalizowania szkody poniesionej przez te osoby. Działanie takie stanowi wyłącznie
+wypełnienie obowiązku prawnego, który spoczywa na Szpitalu, jako administratorze da‐
+nych, zgodnie z art. 34 ust. 1 rozporządzenia 2016/679, a którego brak realizacji sank‐
+cjonowany jest na gruncie art. 83 ust. 4 lit. a) rozporządzenia 2016/679. W tym kontek‐
+ście podkreślenia wymaga, że zwykłe dopełnienie przez Szpital ww. obowiązaniu poinfor‐
+mowania podmiotów danych o wystąpieniu naruszenia ochrony danych osobowych nie
+może być interpretowane jako czynnik łagodzący i mający obniżający wpływ na
+wysokość nałożonej administracyjnej kary pieniężnej.
+
+Stopień odpowiedzialności z uwzględnieniem środków
+technicznych i organizacyjnych wdrożonych przez niego
+na mocy art. 25 i 32 rozporządzenia 2016/679 (art. 83
+ust. 2 lit. d) rozporządzenia 2016/679)
+W niniejszej sprawie Prezes UODO stwierdził między innymi naruszenie art. 25 ust. 1
+oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679. Niewątpliwie na Szpitalu ciąży w wyso‐
+kim stopniu odpowiedzialność za niewdrożenie odpowiednich środków technicznych i or‐
+ganizacyjnych, które zapobiegłyby naruszeniu ochrony danych osobowych (czego wyraz
+organ dał w cz. III pkt C i D decyzji). Oczywistym jest również, że w rozważanym kontek‐
+ście charakteru, celu i zakresu przetwarzania danych osobowych Szpital nie zrobił
+wszystkiego, czego można by było od niego oczekiwać, co skutkowało naruszeniem za‐
+sady integralności oraz poufności przetwarzania danych. W analizowanym stanie fak‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 32 z 41
+
+tycznym okoliczność ta stanowi jednak o istocie samego naruszenia przepisów rozporzą‐
+dzenia 2016/679, co skutkuje uznaniem, iż nie jest ona wyłącznie czynnikiem wpływają‐
+cym łagodząco lub obciążająco na jego ocenę. Z tego też względu brak odpowiednich
+środków technicznych i organizacyjnych, o których mowa w art. 25 i art. 32 rozporządze‐
+nia 2016/679, nie może zostać uznany w niniejszej sprawie za okoliczność mogącą do‐
+datkowo wpłynąć na surowszą ocenę naruszenia i wymiar administracyjnej kary
+pieniężnej nałożonej na Szpital.
+
+Wszelkie stosowne wcześniejsze naruszenia ze strony ad‐
+ministratora (art. 83 ust. 2 lit. e) rozporządzenia
+2016/679)
+Prezes UODO nie stwierdził po stronie Szpitala jakichkolwiek wcześniejszych naruszeń
+przepisów o ochronie danych osobowych, w związku, z czym brak jest podstaw do trak‐
+towania tej okoliczności jako obciążającej. Jednocześnie jednak obowiązkiem każdego
+administratora jest przestrzeganie przepisów prawa, z uwagi na co brak wcześniejszych
+naruszeń nie może być traktowany jako okoliczność łagodząca przy wymierzaniu sankcji.
+Taka ocena spójna jest ze stanowiskiem wyrażonym przez EROD, zgodnie z którym
+„[b]rak wcześniejszych naruszeń nie może (…) zostać uznany za okoliczność łagodzącą,
+ponieważ przestrzeganie przepisów [rozporządzenia 2016/679] stanowi normę. Brak
+wcześniejszych naruszeń można uznać za okoliczność o charakterze neutralnym”[52].
+
+Stopień współpracy z organem nadzorczym w celu usu‐
+nięcia naruszenia oraz złagodzenia jego ewentualnych
+negatywnych skutków (art. 83 ust. 2 lit. f)
+rozporządzenia 2016/679)
+Analizując tę przesłankę organ nadzorczy uwzględnił fakt, że większość działań o charak‐
+terze naprawczym (przeprowadzonych przez Szpital na skutek otrzymanych rekomenda‐
+cji poaudytowych), zrealizowanych zostało w latach 2020-2021 – a zatem jeszcze przed
+wszczęciem niniejszego postępowania administracyjnego. Jednocześnie w przedmioto‐
+wej sprawie Prezes UODO nie kierował wobec Szpitala żadnych zaleceń, wytycznych, ani
+rekomendacji w zakresie najlepszych praktyk w obszarze bezpieczeństwa przetwarzania
+danych osobowych, a wszelka aktywność Szpitala – następcza wobec naruszenia ochro‐
+ny danych osobowych – podejmowana była przez administratora dobrowolnie i w sposób
+niezależny od stanowiska organu nadzorczego. W tym stanie faktycznym brak jest pod‐
+staw do tego, by ww. działania Szpitala rozpatrywać w kontekście współpracy z organem
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 33 z 41
+
+nadzorczym. Okoliczność wdrożenia w sposób spontaniczny rozwiązań zapewniających
+zwiększenie bezpieczeństwa systemów informatycznych wykorzystywanych przez Szpi‐
+tal Prezes UODO uwzględnił natomiast na jego korzyść w ramach oceny przesłanki okre‐
+ślonej w art. 83 ust. 2 lit. k) rozporządzenia 2016/679 (zob. pkt 124 decyzji).
+
+Sposób, w jaki organ nadzorczy dowiedział się o narusze‐
+niu, w szczególności, czy i w jakim zakresie administrator
+lub podmiot przetwarzający zgłosili naruszenie (art. 83
+ust. 2 lit. h) rozporządzenia 2016/679)
+Prezes UODO stwierdził naruszenie przez Szpital przepisów o ochronie danych osobo‐
+wych w wyniku zgłoszenia naruszenia ochrony danych osobowych dokonanego przez
+Szpital 13 stycznia 2020 r., uzupełnionego następnie 6 marca 2020 r. Dokonując zgłosze‐
+nia, Szpital realizował ciążący na nim obowiązek prawny, brak jest zatem podstaw do
+uznania, że fakt ten powinien być poczytywany na korzyść administratora. Jak słusznie
+wskazuje EROD, „[o]koliczność ta nie ma znaczenia, gdy administrator podlega szczegól‐
+nym obowiązkom w zakresie zgłaszania naruszeń (np. obowiązkowi zgłaszania narusze‐
+nia ochrony danych osobowych określonemu w art. 33 [rozporządzenia 2016/679]). W
+takich przypadkach fakt dokonania zgłoszenia należy uznać za okoliczność neutral‐
+ną”[53].
+
+Jeżeli wobec administratora, którego sprawa dotyczy, zo‐
+stały wcześniej zastosowane w tej samej sprawie środki,
+o których mowa w art. 58 ust. 2 – przestrzeganie tych
+środków (art. 83 ust. 2 lit. i) rozporządzenia 2016/679)
+Przed wydaniem niniejszej decyzji Prezes UODO nie stosował wobec Szpitala w rozpatry‐
+wanej sprawie żadnych środków wymienionych w art. 58 ust. 2 rozporządzenia
+2016/679, w związku z czym Szpital nie miał obowiązku podejmowania żadnych działań
+związanych z ich stosowaniem, a które to działania, poddane ocenie organu nadzorcze‐
+go, mogłyby mieć obciążający lub łagodzący wpływ na ocenę stwierdzonego naruszenia.
+Z uwagi na powyższe przesłanka ta pozostaje bez wpływu zarówno na decyzję o
+nałożeniu administracyjnej kary pieniężnej, jak i jej wymiar.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 34 z 41
+
+Stosowanie zatwierdzonych kodeksów postępowania na
+mocy art. 40 lub zatwierdzonych mechanizmów certyfika‐
+cji na mocy art. 42 (art. 83 ust. 2 lit. j) rozporządzenia
+2016/679).
+Szpital na dzień wydania decyzji nie stosował zatwierdzonych kodeksów postępowania
+ani zatwierdzonych mechanizmów certyfikacji, o których mowa w przepisach rozporzą‐
+dzenia 2016/679. Ich przyjęcie, wdrożenie i stosowanie nie jest jednak – jak stanowią
+przepisy rozporządzenia 2016/679 – obowiązkowe dla administratorów, w związku z
+czym okoliczność ich niestosowania nie może być w niniejszej sprawie poczytana na nie‐
+korzyść Szpitala. Na jego korzyść mogłaby być natomiast uwzględniona okoliczność
+przyjęcia i stosowania tego rodzaju instrumentów (np. Kodeksu postępowania dla sekto‐
+ra ochrony zdrowia zatwierdzonego przez Prezesa UODO 11 grudnia 2023 r.[54]), jako
+środków gwarantujących wyższy niż standardowy poziom ochrony przetwarzania danych
+osobowych. W przedmiotowej sprawie okoliczność taka jednak nie wystąpiła.
+
+Osiągnięte bezpośrednio lub pośrednio w związku z naru‐
+szeniem korzyści finansowe lub uniknięte straty (art. 83
+ust. 2 lit. k) rozporządzenia 2016/679).
+W toku postępowania nie stwierdzono wpływu naruszenia przepisów rozporządzenia
+2016/679 na osiągnięcie przez Szpital korzyści finansowych lub uniknięcie strat. Brak
+jest więc podstaw do traktowania tej okoliczności jako obciążającej. Stwierdzenie zaist‐
+nienia wymiernych korzyści finansowych wynikających z naruszenia przepisów rozporzą‐
+dzenia 2016/679 należałoby ocenić zdecydowanie negatywnie. Nieosiągnięcie zaś przez
+Szpital takich korzyści, jako stan naturalny, niezależny od naruszenia i jego skutków, jest
+okolicznością, która z istoty rzeczy nie może być łagodząca. Interpretację tę potwierdza
+już samo sformułowanie przepisu art. 83 ust. 2 lit. k) rozporządzenia 2016/679, który
+nakazuje organowi nadzorczemu zwrócić należytą uwagę na korzyści „osiągnięte” – za‐
+istniałe po stronie podmiotu dokonującego naruszenia.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 35 z 41
+
+Inne obciążające lub łagodzące czynniki mające zastoso‐
+wanie do okoliczności sprawy (art. 83 ust. 2 lit. k)
+rozporządzenia 2016/679).
+Prezes UODO, wszechstronnie rozpatrując sprawę, nie odnotował innych niż opisane po‐
+wyżej okoliczności mogących mieć wpływ na ocenę naruszenia i na wysokość orzeczonej
+administracyjnej kary pieniężnej.
+
+C. Ustalenie wysokości kary z zastosowaniem Wytycz‐
+nych 04/2022[55]
+Ustalając w niniejszej sprawie wysokość administracyjnej kary pieniężnej nałożonej na
+Szpital, Prezes UODO zastosował metodykę przyjętą w Wytycznych EROD 04/2022 w
+sprawie obliczania administracyjnych kar pieniężnych na podstawie RODO (dalej: „Wy‐
+tyczne 04/2022”) – jednak w stopniu ograniczonym, wynikającym z braku możliwości
+przyjęcia wobec organów i podmiotów publicznych ich obrotu (przychodu) jako wskaźni‐
+ka ich wielkości, pozwalającego na miarkowanie wysokości kary, tak by była ona sku‐
+teczna, proporcjonalna i odstraszająca. Jak wskazuje EROD, jeżeli na podstawie prawa
+krajowego organy nadzorcze mają uprawnienie do nakładania administracyjnych kar pie‐
+niężnych na organy i podmioty publiczne, wytyczne te mają zastosowanie do ich
+obliczania z wyjątkiem rozdziału 4.3 tego dokumentu („Obrót przedsiębiorstwa do celów
+nałożenia skutecznej, odstraszającej i proporcjonalnej kary pieniężnej”)[56]. Tam nato‐
+miast, gdzie prawo krajowe przewiduje dla organów i podmiotów publicznych ustawowe
+maksymalne kwoty kar (inne niż wynikające z art. 83 ust. 4-6 rozporządzenia 2016/679),
+zastosowania nie będzie znajdował rozdział 6 wytycznych („Prawnie określona maksy‐
+malna wysokość kary pieniężnej i odpowiedzialność przedsiębiorstw”). Mając więc na
+uwadze powyższe, Prezes UODO dokonał niżej przedstawionej kalkulacji kary orzekanej
+wobec Szpitala.
+Za prawnie określoną maksymalną kwotę kary możliwą do orzeczenia wobec Szpitala w
+niniejszej sprawie Prezes UODO przyjął – stosownie do art. 102 ust. 1 pkt 1 u.o.d.o. –
+kwotę 100 000 zł, przy czym kwota ta znajduje zastosowanie niezależnie od tego, które‐
+go przepisu rozporządzenia 2016/679 dotyczy naruszenie (co zostało już wcześniej
+wyjaśnione w cz. IV pkt A decyzji).
+Prezes UODO dokonał następnie kategoryzacji stwierdzonych w niniejszej sprawie
+naruszeń przepisów rozporządzenia 2016/679[57]. Wśród naruszonych przez Szpital
+przepisów znajdują się art. 5 ust. 1 lit. f) oraz art. 5 ust. 2 rozporządzenia 2016/679 okre‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 36 z 41
+
+ślające podstawowe zasady przetwarzania. Naruszenie tych przepisów należy – zgodnie
+z art. 83 ust. 5 lit. a) rozporządzenia 2016/679 – do kategorii naruszeń zagrożonych karą
+wyższą z dwóch przewidzianych w rozporządzeniu 2016/679 wymiarów kar (z maksymal‐
+ną wysokością do 20 000 000 EUR lub do 4 % całkowitego rocznego obrotu przedsiębior‐
+stwa z poprzedniego roku obrotowego). Są one, więc in abstracto poważniejsze od
+innych (tj. wskazanych w art. 83 ust. 4 rozporządzenia 2016/679) naruszeń.
+Prezes UODO ocenił stwierdzone w niniejszej sprawie naruszenia jako naruszenia o
+wysokim poziomie powagi[58]. W ramach tej oceny wzięte zostały pod uwagę te prze‐
+słanki spośród wymienionych w art. 83 ust. 2 rozporządzenia 2016/679, które dotyczą
+strony przedmiotowej naruszenia (a zatem składają się na „powagę” naruszenia), to jest:
+charakter, waga i czas trwania naruszenia (art. 83 ust. 2 lit. a) rozporządzenia
+2016/679), umyślny lub nieumyślny charakter naruszenia (art. 83 ust. 2 lit. b) rozporzą‐
+dzenia 2016/679) oraz kategorie danych osobowych, których dotyczyło naruszenie (art.
+83 ust. 2 lit. g) rozporządzenia 2016/679). Szczegółowa ocena tych okoliczności przed‐
+stawiona została powyżej (zob. pkt 114-123 decyzji). W tym miejscu wskazać należy je‐
+dynie, że rozważenie ich łącznego wpływu na ocenę stwierdzonych w niniejszej sprawie
+naruszeń rozpatrywanych w całości prowadzi do wniosku, że poziom ich powagi
+(rozumianej zgodnie z Wytycznymi 04/2022) jest wysoki. Konsekwencją tego jest zaś
+przyjęcie – jako kwoty wyjściowej do obliczenia kary – wartości mieszczącej się w prze‐
+dziale od 20 % do 100 % maksymalnej wysokości kary możliwej do orzeczenia wobec
+Szpitala[59], to jest – zważywszy na kwotę maksymalną w wysokości 100 000 zł określo‐
+ną dla organów i podmiotów publicznych – od kwoty 20 000 zł do kwoty 100 000 zł. Za
+adekwatną, uzasadnioną okolicznościami niniejszej sprawy kwotę wyjściową Prezes
+UODO uznał kwotę 70 000 zł (70 % prawnie określonej maksymalnej wysokości kary
+możliwej do wymierzenia Szpitalowi).
+Prezes UODO dokonał oceny wpływu na stwierdzone naruszenie pozostałych (poza tymi
+uwzględnionymi wyżej w ocenie powagi naruszenia) okoliczności wskazanych w art. 83
+ust. 2 rozporządzenia 2016/679[60]. Okoliczności te, mogące mieć obciążający lub łago‐
+dzący wpływ na ocenę naruszenia, odnoszą się do strony podmiotowej naruszenia (tj. do
+samego podmiotu będącego sprawcą naruszenia oraz do jego zachowania przed naru‐
+szeniem, w jego trakcie i po jego zaistnieniu) oraz ewentualnie do innych okoliczności
+mogących mieć znaczenie dla jego oceny. Szczegółowa analiza i uzasadnienie wpływu
+każdej z tych przesłanek na ocenę naruszenia przestawione zostały powyżej (zob. pkt
+125-134 decyzji). W tym miejscu wskazać jedynie należy, że jedna spośród nich miała, w
+ocenie Prezesa UODO, niewielki wpływ łagodzący na wymiar kary – podjęcie przez Szpi‐
+tal działań ukierunkowanych na podniesienie poziomu bezpieczeństwa administrowa‐
+nych systemów informatycznych (ocenione w ramach art. 83 ust. 2 lit. k) rozporządzenia
+2016/679). Pozostałe przesłanki z art. 83 ust. 2 (lit. c), d), e), f), h), i) oraz j) rozporządze‐
+nia 2016/679) – jak wskazano powyżej – nie miały wpływu ani łagodzącego, ani obciąża‐
+jącego na ocenę naruszenia i w konsekwencji na wymiar kary. Ze względu więc na zaist‐
+nienie w sprawie dodatkowej okoliczności mającej wpływ na ocenę naruszenia, a w kon‐
+sekwencji i na wymiar kary, za zasadne Prezes UODO uznał skorygowanie kwoty kary
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 37 z 41
+
+ustalonej na podstawie oceny powagi naruszenia i obniżenie jej o 5 % – do kwoty 66 500
+zł. Większa redukcja nie znajduje uzasadnienia z uwagi na fakt, że podjęte przez Szpital
+dobrowolnie działania, choć mogą mieć wpływ na poprawę bezpieczeństwa przetwarza‐
+nia danych osobowych, nie doprowadziły do usunięcia stanu naruszenia, czego należało
+oczekiwać od Szpitala w niniejszej sprawie, a co zezwoliłoby na znaczące obniżenie kary.
+Zgodnie z art. 83 ust. 1 rozporządzenia 2016/679 każdy organ nadzorczy zapewnia, by
+administracyjne kary pieniężne stosowane za naruszenia tego rozporządzenia były w
+każdym indywidualnym przypadku skuteczne, proporcjonalne i odstraszające. Natomiast
+Wytyczne 04/2022 wskazują, że ostatnim krokiem kalkulacji kary dokonywanej zgodnie z
+przedstawioną tam metodyką powinno być przeanalizowanie, czy ostateczna kwota obli‐
+czonej kary pieniężnej spełnia te wymogi, oraz (ewentualnie) odpowiednie zwiększenie
+lub zmniejszenie kary pieniężnej[61]. Dokonując takiej analizy w niniejszej sprawie Prezes
+UODO stwierdził, że administracyjna kara pieniężna w kwocie 66 500 zł, orzeczona w
+tych konkretnych, indywidualnych okolicznościach sprawy, będzie skuteczna ponieważ
+pozwoli na osiągnięcie jej głównego celu, jakim jest przymuszenie Szpitala do przywróce‐
+nia zgodności przetwarzania danych osobowych z przepisami rozporządzenia 2016/679.
+Kara pieniężna orzeczona w ww. wymiarze doprowadzi bowiem do stanu, w którym ad‐
+ministrator będzie prawidłowo chronił dane osobowe przetwarzane w systemach infor‐
+matycznych, co jest szczególnie istotne, zważywszy na fakt, że dane te – przetwarzane
+na znaczną skalę – obejmują m. in. informacje o zdrowiu dzieci. Skuteczność tej kary
+równoważna jest zatem gwarancji tego, że Szpital od momentu zakończenia niniejszego
+postępowania będzie ze starannością podchodzić do wymogów stawianych przez przepi‐
+sy o ochronie danych osobowych. Dodatkowo kara ta, jako środek o charakterze repre‐
+syjnym, zezwoli na realne ukaranie Szpitala za jego bezprawne, utrzymujące się
+długotrwale zachowanie.
+Zdaniem Prezesa UODO orzeczona kara jest również proporcjonalna do stwierdzonych
+naruszeń przepisów rozporządzenia 2016/679, w tym zwłaszcza ich charakteru i wagi.
+Proporcjonalność zastosowanej sankcji wyraża się również w tym, że ustalona przez or‐
+gan kwota kary nie będzie stanowić dla Szpitala nadmiernego obciążenia. W szczególno‐
+ści jej zapłata nie wpłynie na zdolność Szpitala do wywiązywania się przez niego z jego
+statutowych celów i zadań, do których należy udzielanie świadczeń zdrowotnych i pro‐
+mocja zdrowia w powiązaniu z realizacją zadań dydaktycznych i badawczych. Zdaniem
+Prezesa UODO, Szpital powinien i jest w stanie ponieść konsekwencje swoich zaniedbań
+w sferze ochrony danych osobowych, stąd nałożenie administracyjnej kary pieniężnej w
+wysokości 66 500 zł jest w pełni uzasadnione.
+Ponadto administracyjna kara pieniężna spełni w tych konkretnych okolicznościach rów‐
+nież funkcję prewencyjną, albowiem wskaże tak Szpitalowi, jak i innym administratorom
+danych (w szczególności zaś podmiotom wchodzącym w skład sektora ochrony zdrowia),
+że organ nadzorczy – stojąc na straży przepisów o ochronie danych osobowych – będzie
+z pełną mocą egzekwował odpowiedzialność ww. podmiotów za stwierdzone naruszenia
+przepisów rozporządzenia 2016/679. Tym samym zastosowana w niniejszym postępowa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 38 z 41
+
+niu sankcja zniechęci zarówno Szpital, jak i innych podobnych mu administratorów do
+popełniania w przyszłości takich samych lub zbliżonych przedmiotowo naruszeń.
+Zdaniem Prezesa UODO wymierzenie w niniejszej sprawie administracyjnej kary pienięż‐
+nej było nieuniknione. Zastosowanie wobec Szpitala jakiegokolwiek innego środka na‐
+prawczego przewidzianego w art. 58 ust. 2 rozporządzenia 2016/679, w szczególności
+zaś poprzestanie na upomnieniu (art. 58 ust. 2 lit. b) rozporządzenia 2016/679), nie speł‐
+niałoby bowiem wymogu proporcjonalności, rozumianego jako konieczność zastosowania
+przez organ nadzorczy środka, który adekwatny jest do stwierdzonych nieprawidłowości
+w procesie przetwarzania danych osobowych. Odstąpienie od nałożenia administracyjnej
+kary pieniężnej nie gwarantowałoby również tego, że administrator wdroży dobrowolnie
+odpowiednie rozwiązania służące poprawie bezpieczeństwa przetwarzania danych (w
+szczególności, iż nie był w stanie wykazać tego w toku trwającego postępowania admini‐
+stracyjnego), ani też, że nie dopuści się w przyszłości kolejnych zaniedbań. W ocenie or‐
+ganu nadzorczego jedynie administracyjna kara pieniężna zezwoli w przedmiotowej
+sprawie na skuteczne egzekwowanie przepisów rozporządzenia 2016/679.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął, jak w sentencji
+niniejszej decyzji.
+
+[1] Dz. U. z 2024 r. poz. 572.
+[2] Dz. U. z 2019 r. poz. 1781.
+[3] Dz. Urz. UE L 119, s. 1, Dz.Urz. UE L 127 z 2018 r., str. 2, Dz.Urz. UE L 74 z 2021 r.,
+s. 35.
+[4] Dz. U. z 2024 r. poz. 799.
+[5] Dz. U. z 2023 r. poz. 742.
+[6] Zob. art. 4 pkt 12 rozporządzenia 2016/679, który definiuje pojęcie „naruszenia
+ochrony danych osobowych”; zgłoszenia dokonano w trybie art. 33 ust. 1
+rozporządzenia 2016/679.
+[7] Zob. art. 4 pkt 7 rozporządzenia 2016/679, który definiuje pojęcie „administrato‐
+ra”.
+[8] „Ransomware” jest rodzajem cyberataku, który m.in. blokuje dostęp do systemu
+komputerowego lub uniemożliwia odczyt zapisanych w nim danych, wysuwając na‐
+stępnie żądanie zapłaty w zamian za pomoc w przywróceniu stanu pierwotnego.
+[9] Zob. art. 4 pkt 1 rozporządzeni 2016/679, który definiuje pojęcie „danych osobo‐
+wych”.
+[10] Zob. art. 4 pkt 2 rozporządzenia 2016/679, który definiuje pojęcie „przetwarza‐
+nia”
+[11] Zob. Wytyczne 9/2022 dotyczące zgłaszania naruszenia ochrony danych osobo‐
+wych. Wersja 2.0. Przyjęte 28 marca 2023 r., pkt 31, który wyjaśnia pojęcie „stwierdze‐
+nia” naruszenia ochrony danych osobowych; dostępne w Internecie: https://
+www.edpb.europa.eu/system/files/2024-10/
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 39 z 41
+
+edpb_guidelines_202209_personal_data_breach_notification_v2.0_pl_0.pdf [dostęp:
+11.06.2025]
+[12] „Płatnik” to oprogramowanie Zakładu Ubezpieczeń Społecznych do przygotowy‐
+wania i przesyłania dokumentów ubezpieczeniowych, w tym m.in. zgłoszeń, deklaracji
+i korekt.
+[13] „HIS” (Szpitalny System Informacyjny) to system mający na celu archiwizację,
+przetwarzanie i udostępnianie danych związanych z realizacją procesu diagnostycznoterapeutycznego.
+[14] „M. (…)” to system katalogowy służący do zarządzania tożsamościami i zasobami
+w sieciach opartych na systemach operacyjnych U., umożliwiający centralne uwierzy‐
+telnianie, autoryzację i administrację użytkownikami, komputerami oraz politykami
+bezpieczeństwa.
+[15] Zob. P. Drobek [w:] RODO. Ogólne rozporządzenie o ochronie danych. Komentarz,
+red. E. Bielak-Jomaa, D. Lubasz, W. 2018, art. 5, pkt 3.
+[16] Zob. P. Barta, P. Litwiński, M. Kawecki [w:] Ogólne rozporządzenie o ochronie da‐
+nych osobowych. Ustawa o ochronie danych osobowych. Wybrane przepisy sektorowe.
+Komentarz, red. P. Litwiński, Legalis 2021, art. 24, pkt 1.
+[17] Zob. P. Fajgielski [w:] Komentarz do rozporządzenia 2016/679 w sprawie ochrony
+osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobod‐
+nego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporzą‐
+dzenie o ochronie danych) [w:] Ogólne rozporządzenie o ochronie danych. Ustawa o
+ochronie danych osobowych. Komentarz, wyd. II, Warszawa 2022, art. 32, pkt 9.
+[18] Zob. tamże, art. 24, pkt 8.
+[19] Zob. P. Barta, P. Litwiński, M. Kawecki, Ogólne…, art. 5
+[20] Zob. A. Krasuski, 3. Zastosowanie konstrukcji konkretyzacji obowiązków prawnych
+w oparciu o kryterium ryzyka w wybranych aktach prawnych [w:] A. Krasuski, P.
+Siembida, Analiza ryzyka w ochronie danych osobowych, Warszawa 2022.
+[21] Zob. D. Lubasz, Analiza ryzyka jako podstawa do realizacji obowiązków
+administratora, LEX/el. 2023.
+[22] Zob. P. Fajgielski, Komentarz…, art. 5, pkt 23.
+[23] Zob. tamże.
+[24] Por. wyrok WSA w Warszawie z 13 maja 2021 r., II SA/Wa 2129/20, LEX nr
+3230694.
+[25] Por. wyrok WSA w Warszawie z 17 kwietnia 2024 r., II SA/Wa 1342/23, LEX nr
+3790155.
+[26] Por. wyrok NSA z 5 lipca 2024 r., III OSK 2654/22, LEX nr 3750274.
+[27] Por. wyrok WSA w Warszawie z 27 listopada 2024 r., II SA/Wa 251/24, LEX nr
+3851869.
+[28] Zob. art. 1 ust. 2 rozporządzenia 2016/679.
+[29] Por. wyrok WSA w Warszawie z 26 sierpnia 2020 r., II SA/Wa 2826/19, LEX nr
+3067899, utrzymany przez NSA wyrokiem z 28 lutego 2024 r., III OSK 3839/21, LEX nr
+3755962.
+[30] Zob. motyw 75 do preambuły rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 40 z 41
+
+[31] Zob. motyw 76 do preambuły rozporządzenia 2016/679.
+[32] Zob. PN-ISO/IEC 27005:2014-01, Technika Informatyczna – Techniki bezpieczeń‐
+stwa – Zarządzanie ryzykiem w bezpieczeństwie informacji, s. 51-57.
+[33] Por. wyrok NSA z 9 lutego 2023 r., III OSK 3945/21, LEX nr 3508987.
+[34] Por. wyrok TSUE z 14 grudnia 2023 r., C-340/21, Natsionalna agentsia za prihodi‐
+te, pkt 34, LEX nr 3642726.
+[35] Dz. U. z 2024 r. poz. 1077.
+[36] Zob. PN-EN ISO/IEC 27001:2017-06, Technika informatyczna – Techniki bezpie‐
+czeństwa – Systemy zarządzania bezpieczeństwem informacji – Wymagania.
+[37] Zob. NASK/CERT Polska, Krajobraz bezpieczeństwa polskiego internetu. Raport
+roczny z działalności CERT Polska. 2018, dostępne w Internecie: https://cert.pl/uploads/
+docs/Raport_CP_2018.pdf [dostęp: 11.06.2025].
+[38] Zob. Annual number of ransomware attempts worldwide from 2017 to 2022, Stati‐
+sta, dostępne w Internecie: https://www.statista.com/statistics/494947/ransomwareattempts-per-year-worldwide/
+[39] Zob. OWASP, OWASP API Security Top 10 2019, dostępne w Internecie: https://
+owasp.org/APISecurity/editions/2019/en/0x11-t10/ [dostęp: 11.06.2025].
+[40] Zob. Wytyczne nr 4/2019 dotyczące artykułu 25. Uwzględnianie ochrony danych
+w fazie projektowania oraz domyślna ochrona danych. Wersja 2.0. Przyjęte 20 paź‐
+dziernika 2020 r., str. 29, dostępne w Internecie: https://edpb.europa.eu/system/files/
+2021-04/
+edpb_guidelines_201904_dataprotection_by_design_and_by_default_v2.0_pl.pdf
+[dostęp: 11.06.2025].
+[41] Zob. tamże, str. 4.
+[42] Por. wyrok WSA w Warszawie z 6 czerwca 2023 r., II SA/Wa 1939/22; wyrok WSA w
+Warszawie z 21 czerwca 2023 r., II SA/Wa 150/23, LEX nr 3619707.
+[43] Dz. U. z 2024 r. poz. 1077.
+[44] Dz. U. z 2024 r. poz. 1530 ze zm.
+[45] Wytyczne 04/2022 w sprawie obliczania administracyjnych kar pieniężnych na
+podstawie RODO. Wersja 2.1. Przyjęte 24 maja 2023 r., str. 9, pkt 17, dostępne w Inter‐
+necie: https://edpb.europa.eu/system/files/2024-01/
+edpb_guidelines_042022_calculationofadministrativefines_pl_0.pdf [dostęp:
+11.06.2025].
+[46] Tamże, str. 10, pkt 24.
+[47] Tamże, str. 12, pkt 28.
+[48] Zob. informacja opublikowana na stronie internetowej Szpitala: https://(…)
+[dostęp: 11.06.2025]
+[49] Zob. TSUE, C-340/21
+[50] Zob. Wytyczne 04/2022…, str. 20, pkt. 55.
+[51] Zob. tamże, str. 21, pkt 57.
+[52] Zob. tamże, str. 30, pkt 94.
+[53] Zob. tamże, str. 31, pkt 98.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+
+Decyzja DKN.5131.48.2022
+
+Strona 41 z 41
+
+[54] Zob. Kodeks postępowania dla sektora ochrony zdrowia, zatwierdzony przez Pre‐
+zesa UODO 11 grudnia 2023 r., dostępny w Internecie: https://uodo.gov.pl/pl/file/4522
+[dostęp: 11.06.2025].
+[55] Zob. przyp. nr 45.
+[56] Zob. Wytyczne 04/2022…, str. 8, pkt 10.
+[57] Zob. tamże, r. 4.1
+[58] Zob. tamże, r. 4.2.
+[59] Zob. tamże, str. 21-22, pkt 60, tiret trzecie.
+[60] Zob. tamże, r. 5.
+[61] Zob. tamże, str. 9, pkt 17.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_48/content
+
+2025-09-03 13:17
+

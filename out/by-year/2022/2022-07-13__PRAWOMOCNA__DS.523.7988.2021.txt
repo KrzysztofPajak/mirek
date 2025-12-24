@@ -1,0 +1,375 @@
+Warszawa, 13 lipca 2022
+PRAWOMOCNA
+
+Decyzja
+DS.523.7988.2021
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r. poz. 735 ze zm.) w zw. z art. 7 ust. 1 i ust. 2 ustawy z
+dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781), art. 5
+ust. 1 lit. a, art. 9 ust. 1, art. 58 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i
+Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz.
+Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021 str. 35),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi E.B., (R…), na
+nieprawidłowości w procesie przetwarzania jej danych osobowych znajdujących się na
+zaświadczeniu lekarskim przez Dyrektora S. (…), (R…), Prezes Urzędu Ochrony Danych
+Osobowych
+1) udziela upomnienia Dyrektorowi S. (…), (R…), za naruszenie art. 9 ust. 1 rozporzą‐
+dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w
+sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i
+w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/
+WE (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz
+Dz. Urz. UE L 74 z 4.03.2021 str. 35), polegające na przetwarzaniu danych osobo‐
+wych Pani E.B., (R…), w zakresie imienia, nazwiska, numeru PESEL, daty urodzenia,
+adresu zamieszkania, informacji o zdrowiu fizycznym i psychicznym wraz z rozpo‐
+znaniem choroby, znajdujących się w zaświadczeniu lekarskim bez podstawy praw‐
+nej;
+2) w pozostałym zakresie umarza postępowanie.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7988/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.7988.2021
+
+Strona 2 z 8
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pani E.B. (R…) (dalej: Skarżą‐
+ca), na nieprawidłowości w procesie przetwarzania jej danych osobowych przez Dyrekto‐
+ra S. (…) (R…) (dalej: Dyrektor), polegające na bezprawnym przetwarzaniu danych
+osobowych znajdujących się na zaświadczeniu lekarskim.
+W toku przeprowadzonego postępowania wyjaśniającego Prezes Urzędu Ochrony Danych
+Osobowych ustalił następujący stan faktyczny:
+1. Skarżąca pracuje jako nauczyciel w S. (dowód: pismo przewodnie do skargi z (…)
+grudnia 2021 r.).
+2. (…) listopada 2021 r. zostało wydane Zarządzenie Dyrektora S. w sprawie wprowa‐
+dzenia nakazu zakrywania ust i nosa w przestrzeniach wspólnych na terenie budyn‐
+ków Ośrodka (dowód: kopia zarządzenia z (…) listopada 2021 r.).
+3. (…) listopada 2021 r. Skarżąca uzyskała zaświadczenie lekarskie o bezwzględnych
+przeciwskazaniach do noszenia maseczki lub przyłbicy. W zaświadczeniu znajdowały
+się dane osobowe Skarżącej w zakresie imienia, nazwiska, numeru PESEL, daty uro‐
+dzenia, adresu zamieszkania oraz informacje o zdrowiu fizycznym i psychicznym
+Skarżącej, wraz z rozpoznaniem choroby (dowód: zaświadczenie z (…) listopada
+2021 r.).
+4. (…) listopada 2021 r. Skarżąca poinformowała drogą wiadomości e-mail skierowanej
+na adres (…), do wiadomości Dyrektora, iż jest ona zwolniona przepisami prawa z
+obowiązku zakrywania ust i nosa i jednocześnie nie przesyła żadnego potwierdzenia,
+gdyż Dyrektor nie jest uprawniony do wglądu do takiego dokumentu (dowód:
+wiadomość e-mail z dnia (…) listopada 2021 r.).
+5. (…) listopada 2021 r. Dyrektor wezwał Skarżącą do przedstawienia dokumentu zwal‐
+niającego ją z obowiązku zakrywania ust i nosa na terenie S., najpóźniej do czasu
+rozpoczęcia zajęć (…) listopada 2021 r. (dowód: kopia wezwania z (…) listopada
+2021 r.).
+6. (…) listopada 2021 r. Skarżąca okazała Dyrektorowi zaświadczenie lekarskie o bez‐
+względnych przeciwskazaniach do noszenia maseczki lub przyłbicy (dowód: pismo
+przewodnie do skargi z (…) grudnia 2021 r.; wyjaśnienia Dyrektora z (…) stycznia
+2022 r.). Skarżąca twierdzi, że okazanie zaświadczenia nie było dobrowolne (dowód:
+pismo przewodnie do skargi z (…) grudnia 2021 r.), natomiast Dyrektor twierdzi, że
+zaświadczenie było okazane dobrowolnie przez Skarżącą (dowód: wyjaśnienia
+Dyrektora z (…) stycznia 2022 r.).
+7. W piśmie z (…) stycznia 2022 r. Dyrektor wskazał, że nie przetwarza on danych oso‐
+bowych Skarżącej zawartych na zaświadczeniu lekarskim z (…) listopada 2021 r. i je‐
+dynym jego kontaktem z zaświadczeniem było okazanie mu przez Skarżącą zdjęcia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7988/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.7988.2021
+
+Strona 3 z 8
+
+zaświadczenia na ekranie telefonu (dowód: wyjaśnienia Dyrektora z (…) stycznia
+2022 r.).
+Po zapoznaniu się ze zgromadzonym materiałem dowodowym Prezes Urzędu Ochrony
+Danych Osobowych zważył, co następuje.
+Art. 4 pkt 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27
+kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych
+osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy
+95/46/WE (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2
+oraz Dz. Urz. UE L 74 z 4.03.2021 str. 35) (dalej jako: RODO) stanowi, że przetwarzanie
+oznacza operację lub zestaw operacji wykonywanych na danych osobowych lub zesta‐
+wach danych osobowych w sposób zautomatyzowany lub niezautomatyzowany, taką jak
+zbieranie, utrwalanie, organizowanie, porządkowanie, przechowywanie, adaptowanie lub
+modyfikowanie, pobieranie, przeglądanie, wykorzystywanie, ujawnianie poprzez przesła‐
+nie, rozpowszechnianie lub innego rodzaju udostępnianie, dopasowywanie lub łączenie,
+ograniczanie, usuwanie lub niszczenie. Katalog czynności przetwarzania w art. 4 pkt. 2
+RODO jest katalogiem otwartym.
+Zgodnie z art. 5 ust. 1 lit. a RODO dane osobowe muszą być przetwarzane zgodnie z pra‐
+wem, rzetelnie i w sposób przejrzysty dla osoby, której dane dotyczą, natomiast zgodnie
+z art. 5 ust. 1 lit. c RODO dane te muszą być adekwatne, stosowne oraz ograniczone do
+tego, co niezbędne do celów, w których są przetwarzane.
+Art. 9 RODO stanowi, że zabrania się przetwarzania danych osobowych ujawniających
+pochodzenie rasowe lub etniczne, poglądy polityczne, przekonania religijne lub świato‐
+poglądowe, przynależność do związków zawodowych oraz przetwarzania danych gene‐
+tycznych, danych biometrycznych w celu jednoznacznego zidentyfikowania osoby fizycz‐
+nej lub danych dotyczących zdrowia, seksualności lub orientacji seksualnej tej osoby.
+Przetwarzanie tych szczególnych kategorii danych osobowych jest dozwolone tylko jeśli
+spełniony jest jeden z warunków określonych w art. 9 ust. 2 RODO. Każda z przesłanek
+legalizujących proces przetwarzania danych osobowych ma charakter autonomiczny i
+niezależny. Oznacza to, że przesłanki te co do zasady są równoprawne, a wobec tego
+spełnienie co najmniej jednej z nich stanowi o zgodnym z prawem przetwarzaniu danych
+osobowych. Dane dotyczące zdrowia, zgodnie z art. 9 ust. 1 RODO, stanowią szczególną
+kategorię danych osobowych. Za dane dotyczące zdrowia, zgodnie z art. 4 pkt. 15 RODO
+uznaje się „dane osobowe o zdrowiu fizycznym lub psychicznym osoby fizycznej – w tym
+o korzystaniu z usług opieki zdrowotnej – ujawniające informacje o stanie jej zdrowia”.
+Art. 68 ust. 1 pkt. 6 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (t.j. Dz. U. z
+2021 r. poz. 1082 z późn. zm.) (dalej jako: Prawo oświatowe) stanowi, że dyrektor szkoły
+lub placówki wykonuje zadania związane z zapewnieniem bezpieczeństwa uczniom i na‐
+uczycielom w czasie zajęć organizowanych przez szkołę lub placówkę.
+W czasie opisanych w skardze zdarzeń, tj. (…) listopada 2021 r. obowiązywało rozporzą‐
+dzenie Rady Ministrów z dnia 6 maja 2021 r. w sprawie ustanowienia określonych ograni‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7988/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.7988.2021
+
+Strona 4 z 8
+
+czeń, nakazów i zakazów w związku z wystąpieniem stanu epidemii (Dz.U.2021.861 z
+dnia 2021.05.06) w wersji obowiązującej od dnia 31 października 2021 r. do 29 listopada
+2021 r. (dalej jako: rozporządzenie). § 25 ust. 1 pkt. 2 lit. d rozporządzenia stanowił, że
+nakazane było zakrywanie, przy pomocy maseczki, ust i nosa w miejscach ogólnodostęp‐
+nych, w tym w budynkach użyteczności publicznej przeznaczonych na potrzeby: admini‐
+stracji publicznej, wymiaru sprawiedliwości, kultury, kultu religijnego, oświaty, szkolnic‐
+twa wyższego, nauki, wychowania, opieki zdrowotnej, społecznej lub socjalnej, obsługi
+bankowej, handlu, gastronomii, usług, w tym usług pocztowych lub telekomunikacyj‐
+nych, turystyki, sportu, obsługi pasażerów w transporcie kolejowym, drogowym, lotni‐
+czym, morskim lub wodnym śródlądowym. Nakazu tego nie stosowało się jednak m.in.
+wobec osób, które nie mogły zakrywać ust lub nosa z powodu, m.in.:
+a) całościowych zaburzeń rozwoju, zaburzeń psychicznych, niepełnosprawności inte‐
+lektualnej w stopniu umiarkowanym, znacznym albo głębokim,
+b) trudności w samodzielnym zakryciu lub odkryciu ust lub nosa,
+c) zaawansowanych schorzeń neurologicznych, układu oddechowego lub krążenia,
+przebiegających z niewydolnością oddechową lub krążenia (§ 25 ust. 4 pkt 4 rozpo‐
+rządzenia). § 25 ust. 7 rozporządzenia stanowił, że w przypadku, o którym mowa w
+ust. 4 pkt 4, było wymagane przedstawienie, na żądanie Policji, straży gminnej,
+Straży Marszałkowskiej na terenach będących w zarządzie Kancelarii Sejmu i Kance‐
+larii Senatu, Straży Granicznej w lotniczych przejściach granicznych, a na obszarze
+kolejowym, w pociągach oraz w pomieszczeniach przeznaczonych do obsługi po‐
+dróżnych korzystających z transportu kolejowego na dworcach kolejowych również
+na żądanie straży ochrony kolei, zaświadczenia lekarskiego lub innego dokumentu
+potwierdzającego całościowe zaburzenia rozwoju, zaburzenia psychiczne, niepełno‐
+sprawność intelektualną w stopniu umiarkowanym, znacznym albo głębokim lub
+trudności w samodzielnym zakryciu lub odkryciu ust lub nosa, lub zaawansowane
+schorzenia neurologiczne, układu oddechowego lub krążenia, przebiegające z
+niewydolnością oddechową lub krążenia.
+Z kolei art. 100 § 2 pkt 6 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (t.j. Dz. U. z
+2020 r. poz. 1320 z późn. zm.) (dalej jako: Kodeks pracy), stanowi, że pracownik jest
+obowiązany w szczególności przestrzegać w zakładzie pracy zasad współżycia społecz‐
+nego. (…) listopada 2021 r. zostało wydane Zarządzenie dyrektora S. z dnia w sprawie
+wprowadzenia nakazu zakrywania ust i nosa w przestrzeniach wspólnych na terenie bu‐
+dynków (dalej jako: Zarządzenie). Zarządzenie to zostało wydane na podstawie art. 68
+ust. 1 pkt 1 i pkt 6 ustawy Prawo oświatowe w związku z § 25 ust. 1 rozporządzenia. Za‐
+rządzenie wprowadziło nakaz zakrywania ust i nosa maseczką w przestrzeniach wspól‐
+nych w budynkach Ośrodka, jednakże nakaz ten nie dotyczył m.in. osób zwolnionych z
+tego obowiązku przepisami prawa. (…) listopada 2021 r. Skarżąca uzyskała zaświadcze‐
+nie lekarskie o bezwzględnych przeciwskazaniach do noszenia maseczki lub przyłbicy. W
+zaświadczeniu znajdowały się dane osobowe Skarżącej w zakresie imienia, nazwiska, nu‐
+meru PESEL, daty urodzenia, adresu zamieszkania oraz szczegółowe informacje o
+zdrowiu fizycznym i psychicznym Skarżącej, wraz z rozpoznaniem choroby.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7988/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.7988.2021
+
+Strona 5 z 8
+
+Skarżąca poinformowała (…) listopada 2021 r. w wiadomości e-mail Dyrektora, iż jest
+zwolniona przepisami prawa z obowiązku zakrywania ust i nosa. Jednocześnie Skarżąca
+poinformowała, że nie przekaże kopii dokumentu potwierdzającego takie zwolnienie, po‐
+nieważ Dyrektor nie jest osobą uprawnioną do wglądu do takiego dokumentu. W tym
+miejscu należy zaznaczyć, że § 25 ust. 7 rozporządzenia tworzy wymóg przedstawienia
+takiego dokumentu jedynie ograniczonemu zakresowi podmiotów i dyrekcja szkół ani
+specjalnych ośrodków szkolno-wychowawczych nie znajduje się na tej liście. Katalog
+podmiotów uprawnionych do wglądu w tego typu dokumenty został skonstruowany w
+sposób zamknięty. Dyrektor w treści złożonych wyjaśnień potwierdził otrzymanie opisa‐
+nej wyżej wiadomości e-mail od Skarżącej, jednakże nie odniósł się on do niej w żaden
+sposób. W tym miejscu należy wskazać, że zdaniem Prezesa Urzędu, Dyrektor został pra‐
+widłowo i wystarczająco poinformowany o przysługującym Skarżącej zwolnieniu z
+obowiązku zakrywania ust i nosa w miejscu pracy.
+(…) listopada 2021 r. Dyrektor skierował do Skarżącej oficjalne pismo, w którym działa‐
+jąc na podstawie art. 68 ust. 1 pkt 1 i pkt 6 ustawy Prawo oświatowe w związku z art.
+100 § 2 pkt 6 Kodeksu pracy, poprosił ją o przedstawienie dokumentu zwalniającego ją z
+obowiązku zakrywania ust i nosa na terenie Ośrodka najpóźniej do czasu rozpoczęcia za‐
+jęć w dniu (…) listopada 2021 r. Dyrektor wezwał Skarżącą do przedstawienia mu doku‐
+mentu zwalniającego z obowiązku zakrywania ust i nosa na terenie Ośrodka, ze względu
+na pracę Skarżącej w tym Ośrodku w charakterze nauczyciela.
+W tym miejscu należy zaznaczyć, że istnieje generalny zakaz przetwarzania szczegól‐
+nych kategorii danych osobowych, a art. 9 ust. 2 RODO wprowadza wyjątki od tego zaka‐
+zu. Zgodnie z art. 9 ust. 2 lit. a RODO, możliwe jest przetwarzanie szczególnych kategorii
+danych osobowych, jeśli osoba, której dane dotyczą, wyraziła wyraźną zgodę na prze‐
+twarzanie tych danych osobowych w jednym lub kilku konkretnych celach, chyba że pra‐
+wo Unii lub prawo państwa członkowskiego przewidują, iż osoba, której dane dotyczą,
+nie może uchylić zakazu, o którym mowa w art. 9 ust. 1 RODO.
+(…) listopada 2021 r. Skarżąca okazała Dyrektorowi dokument zwalniający ją z obowiąz‐
+ku zakrywania ust i nosa w miejscu pracy w postaci zaświadczenia lekarskiego. Analiza
+materiału dowodowego nie wykazała w sposób jednoznaczny i bezsporny, aby dokument
+ten został okazany w sposób dobrowolny. Skarżąca stanowczo zaprzeczyła, aby udzieliła
+dobrowolnej i wyraźnej zgody na przetwarzanie jej danych zawartych w zaświadczeniu.
+Zdaniem Prezesa Urzędu, Dyrektor nie wykazał zaistnienia możliwości zastosowania wy‐
+żej opisanego wyjątku od generalnego zakazu przetwarzania szczególnych kategorii da‐
+nych w przedmiotowej sprawie. Dyrektor nie wskazał również wprost żadnej z przesłanek
+legalizujących przetwarzanie szczególnych kategorii danych wymienionych w art. 9 ust.
+2 RODO. Dalsze działania Dyrektora zmierzające do uzyskania wglądu do dokumentu
+zwalniającego Skarżącą z obowiązku zakrywania ust i nosa, po zakomunikowaniu przez
+Skarżącą braku woli okazania tego dokumentu, przeczą dobrowolności okazania doku‐
+mentu przez Skarżącą. W związku z tym, zdaniem Prezesa Urzędu, argumentacja Dyrek‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7988/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.7988.2021
+
+Strona 6 z 8
+
+tora dotycząca dobrowolności okazania danych osobowych przez Skarżącą nie zasługuje
+na uwzględnienie.
+Odwołania Dyrektora w treści wyjaśnień do art. 68 ust. 1 pkt 6 ustawy - Prawo oświato‐
+we, art. 100 § 2 pkt 6 Kodeksu pracy, oraz niezidentyfikowanych wyraźnie wytycznych
+„MEiN, MZ i GIS dla szkół podstawowych i ponadpodstawowych”, nie mogą być zakwalifi‐
+kowane jako uzasadnienie dla wykazania podstawy prawnej z art. 9 ust. 2 lit. b RODO lub
+art. 9 ust. 2 lit. h. RODO. W tym miejscu należy wskazać, że rozporządzenie stanowi wo‐
+bec wyżej wymienionych regulacji przepis szczególny i jego naruszenie prowadzi do bra‐
+ku legalności przetwarzania szczególnych kategorii danych opisanych w art. 9 ust. 1
+RODO.
+Jak wskazano wyżej, katalog czynności przetwarzania w art. 4 pkt 2 RODO jest katalo‐
+giem otwartym. Uzyskanie wglądu do dokumentu zawierającego dane osobowe i zapo‐
+znanie się z jego treścią, pomimo braku utrwalenia danych, stanowi przetwarzanie da‐
+nych osobowych. Dane osobowe Skarżącej były bowiem przeglądane przez Dyrektora
+oraz zostały one wykorzystane do podjęcia przez Dyrektora decyzji o dopuszczeniu Skar‐
+żącej do wykonywania pracy w charakterze nauczyciela. Wyrażenia zgody nie można
+uznawać za dobrowolne, jeżeli osoba, której dane dotyczą nie ma rzeczywistego lub wol‐
+nego wyboru oraz nie może odmówić lub wycofać zgody bez niekorzystnych
+konsekwencji, na co wskazuje motyw 42 RODO.
+Wobec powyższego, w ocenie Prezesa Urzędu, przetwarzanie przez Dyrektora danych
+osobowych Skarżącej znajdujących się w dokumencie zwalniającym z obowiązku zakry‐
+wania ust i nosa na terenie Ośrodka, polegające na uzyskaniu wglądu do danych
+osobowych Skarżącej, stanowiło naruszenie art. 9 ust. 1 RODO.
+Dodatkowo, zdaniem Prezesa Urzędu, żądanie skierowane wobec Skarżącej stanowiło
+naruszenie zasad przetwarzania danych osobowych opisanych w art. 5 RODO w postaci
+zasady zgodności z prawem i rzetelności przetwarzania (art. 5 ust. 1 lit. a RODO) oraz
+zasady minimalizacji danych (art. 5 ust. 1 lit. c RODO). Zgodność przetwarzania z pra‐
+wem, oznacza wymóg przestrzegania norm ustanowionych w przepisach prawa. Zasada
+zgodności przetwarzania z prawem dotyczy nie tylko przepisów RODO, ale również prze‐
+pisów zawartych w innych aktach normatywnych, zarówno rangi ustawowej jak i przepi‐
+sów aktów wykonawczych. W przedmiotowej sprawie Dyrektor przetwarzał dane osobo‐
+we Skarżącej, pomimo, że nie był on osobą do tego uprawnioną, zgodnie z § 25 ust. 7
+rozporządzenia. Zdaniem Prezesa Urzędu, doszło do naruszenia zasady zgodności z
+prawem przetwarzania danych osobowych.
+Wymóg rzetelności mieści w sobie nie tylko obowiązek starannego działania i należytego
+wypełniania obowiązków, ale także postępowania uczciwego (etycznego). Obowiązek
+rzetelności przetwarzania danych oznacza, że administrator nie powinien wprowadzać
+podmiotu danych w błąd, działać podstępnie, oszukiwać, wykorzystywać jego trudnej sy‐
+tuacji, ograniczeń bądź przymusowego położenia, wykorzystywać swojej silniejszej pozy‐
+cji, narzucając uciążliwe warunki przetwarzania danych, a powinien szanować wolę i re‐
+spektować interesy oraz słuszne oczekiwania osoby, której dane dotyczą. (P. Fajgielski
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7988/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.7988.2021
+
+Strona 7 z 8
+
+[w:] Ogólne rozporządzenie o ochronie danych. Ustawa o ochronie danych osobowych.
+Komentarz, wyd. II, Warszawa 2022, art. 5). Zgodnie z motywem 43 RODO, zgoda nie
+powinna stanowić ważnej podstawy prawnej przetwarzania danych osobowych w szcze‐
+gólnej sytuacji, w której istnieje wyraźny brak równowagi między osobą, której dane do‐
+tyczą a administratorem. Taki brak równowagi sił występuje w związku z zatrudnieniem.
+Odmowa wyrażenia zgody na przetwarzanie przez pracownika wobec pracodawcy nie
+jest prawdopodobna, zważywszy na występującą między nimi zależność. Dlatego też do‐
+browolność przetwarzania musi być wyraźnie wykazana, co nie miało miejsca w przed‐
+miotowej sprawie. Zgoda nie jest dobrowolna wówczas, gdy pojawia się jakikolwiek
+element przymusu lub presji.
+Zdaniem Prezesa Urzędu, działania Dyrektora naruszyły zasadę rzetelności przetwarza‐
+nia. Dyrektor, pomimo otrzymania informacji od Skarżącej dotyczącej zwolnienia jej
+przepisami prawa z obowiązku zasłaniania ust i nosa, zażądał przedstawienia dokumentu
+potwierdzającego to zwolnienie, zwracając się do Skarżącej oficjalnym pismem pracow‐
+niczym. Skarżąca w wiadomości e-mail przesłanej do Dyrektora poinformowała go, że nie
+zamierza mu przekazywać takiego dokumentu, jako że nie jest on osobą uprawnioną do
+jego wglądu. Skarżąca, zgodnie z treścią § 25 ust. 4 pkt 4 i 7 rozporządzenia, mogła
+słusznie oczekiwać, że nie będzie musiała okazywać przedmiotowego dokumentu oso‐
+bom nieuprawnionym do jego wglądu. Jednocześnie w toku postępowania wyjaśniające‐
+go, Dyrektor nie wykazał bezsprzecznie dobrowolności okazania dokumentu przez Skar‐
+żącą. Wobec tego, w ocenie Prezesa Urzędu, doszło do naruszenia zasady rzetelności
+przetwarzania danych osobowych.
+Zasada minimalizacji danych stanowi, że przetwarzane dane osobowe muszą być ade‐
+kwatne, stosowne oraz ograniczone do tego, co niezbędne do celów, w których są prze‐
+twarzane. Dyrektor zażądał od Skarżącej okazania mu dokumentu zawierającego między
+innymi dane osobowe Skarżącej dotyczące jej stanu zdrowia. Zdaniem Prezesa Urzędu,
+oświadczenie Skarżącej o posiadaniu dokumentu zwalniającego ją z obowiązku zasłania‐
+nia ust i nosa, było odpowiednim i w odniesieniu do obowiązującego w czasie składania
+tego oświadczenia stanu prawnego – jedynym możliwym sposobem prawidłowego poin‐
+formowania Dyrektora o takim zwolnieniu. Przetwarzanie całości treści dokumentu, co do
+którego Dyrektor miał świadomość, że zawiera on dane dotyczące zdrowia Skarżącej
+oraz, że nie ma on zgodnie z treścią rozporządzenia, prawa wglądu do takiego dokumen‐
+tu, stanowiło naruszenie zasady minimalizacji przetwarzanych danych. Zdaniem Prezesa
+Urzędu, żądanie okazania dokumentu przez Dyrektora było żądaniem nadmiernym.
+W związku ze stwierdzonym wyżej naruszeniem art. 5 ust. 1 lit. a i c oraz art. 9 ust. 1
+RODO, polegającym na wglądzie do dokumentu zwalniającego z obowiązku zasłaniania
+ust i nosa bez podstawy prawnej, Prezes Urzędu zdecydował o upomnieniu Dyrektora za
+naruszenie prawa do ochrony danych osobowych Skarżącej, zgodnie z punktem 1
+sentencji niniejszej decyzji.
+Prezes Urzędu wydając decyzję administracyjną, zobowiązany jest do rozstrzygnięcia
+sprawy w oparciu o stan faktyczny istniejący w chwili wydania tej decyzji. Jak podnosi się
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7988/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.7988.2021
+
+Strona 8 z 8
+
+w doktrynie „organ administracji publicznej ocenia stan faktyczny sprawy według chwili
+wydania decyzji administracyjnej. Reguła ta odnosi się także do oceny stanu prawnego
+sprawy, co oznacza, że organ administracji publicznej wydaje decyzję administracyjną
+na podstawie przepisów prawa obowiązujących w chwili jej wydania (…). Rozstrzyganie
+w postępowaniu administracyjnym polega na zastosowaniu obowiązującego prawa do
+ustalonego stanu faktycznego sprawy administracyjnej. W ten sposób organ administra‐
+cji publicznej realizuje cel postępowania administracyjnego, jakim jest urzeczywistnienie
+obowiązującej normy prawnej w zakresie stosunków administracyjno-prawnych, gdy
+stosunki te tego wymagają” (Komentarz do ustawy z dnia 14 czerwca 1960 r. Kodeks po‐
+stępowania administracyjnego M. Jaśkowska, A. Wróbel, Lex., el/2012). Ponadto, w
+wyroku z dnia 7 maja 2008 r. w sprawie o sygn. akt I OSK 761/07 Naczelny Sądu Admini‐
+stracyjny stwierdził, iż „badając bowiem legalność przetwarzania danych osobowych,
+GIODO ma obowiązek ustalenia, czy na datę wydawania rozstrzygnięcia w sprawie dane
+konkretnego podmiotu są przetwarzane oraz czy czynione to jest w sposób zgodny z pra‐
+wem”.
+Prezes Urzędu w toku postępowania wyjaśniającego ustalił, że naruszenie będące przed‐
+miotem skargi nie ma obecnie miejsca. Dyrektor nie przetwarza danych osobowych
+Skarżącej znajdujących się na zaświadczeniu zwalniającym z obowiązku zasłaniania ust i
+nosa. W związku z powyższym, Prezes Urzędu nie może uwzględnić żądania Skarżącej
+dotyczącego zaprzestania przetwarzania jej danych przez Dyrektora. W chwili wydawa‐
+nia niniejszej decyzji wyżej opisane przetwarzanie danych osobowych Skarżącej nie za‐
+chodzi.
+Odnosząc się do żądania Skarżącej dotyczącego „nałożenia kary” na Dyrektora, należy
+wskazać, że w sferze kompetencji Prezesa Urzędu mieści się nakładanie administracyj‐
+nych kar pieniężnych, jednakże należy ono do autonomicznych kompetencji Prezesa
+Urzędu i czynności polegające na karaniu nie są podejmowane na wniosek strony skarżą‐
+cej.
+Ocena dokonywana przez Prezesa Urzędu w każdym przypadku służy zbadaniu zasadno‐
+ści skierowania pod adresem określonego podmiotu nakazu odpowiadającego dyspozycji
+art. 58 ust. 2 RODO służącego przywróceniu stanu zgodnego z prawem w procesie prze‐
+twarzania danych - jest więc ona uzasadniona i potrzebna tylko o tyle, o ile nieprawidło‐
+wości w procesie przetwarzania danych osobowych istnieją. W przedmiotowej sprawie
+działania Dyrektora stanowiły naruszenie przepisów o ochronie danych osobowych, tj.
+art. 5 i 9 RODO, wobec czego Prezes Urzędu udziela Dyrektorowi upomnienia, natomiast
+w pozostałym zakresie Prezes Urzędu postanawia umorzyć postępowanie.
+W tym stanie faktycznym oraz prawnym Prezes Urzędu Ochrony Danych Osobowych
+orzekł, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7988/content
+
+2025-09-03 13:38
+

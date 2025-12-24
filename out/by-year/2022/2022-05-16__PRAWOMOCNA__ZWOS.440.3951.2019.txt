@@ -1,0 +1,380 @@
+Warszawa, 16 maja 2022
+PRAWOMOCNA
+
+Decyzja
+ZWOS.440.3951.2019
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r. poz. 735 ze zm.), w zw. z art. 7 ust. 1 i 2 ustawy z 10
+maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781) oraz na podsta‐
+wie art. 6 ust. 1 i art. 58 ust. 2 lit. b, art. 6 ust. 1 lit b i c oraz art. 58 ust. 2 rozporządze‐
+nia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie
+ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L
+119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z
+4.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana RO, zam. w
+D., przy ul. (…), na nieprawidłowości w procesie przetwarzania jego danych osobowych
+przez (…) S.A., z siedzibą w R., ul. (…), polegające na przetwarzaniu jego danych
+osobowych bez podstawy prawnej, Prezes Urzędu Ochrony Danych Osobowych
+1. udziela (…) S.A., z siedzibą w R., przy ul. (…), upomnienia za naruszenie art. 6 ust. 1
+Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia
+2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych oso‐
+bowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy
+95/46/WE (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str.
+2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35), polegające na przetwarzaniu danych
+osobowych Pana RO, zam. w D., przy ul. (…) bez podstawy prawnej w okresie od
+dnia 13 lipca 2019 r. do dnia 1 sierpnia 2019 r. w celu wykonania:
+–
+umowy zintegrowanej, w skład której wchodziła umowa rachunku oszczędno‐
+ściowo – rozliczeniowego nr (…), umowa o kartę płatniczą oraz umowa ramowa
+w zakresie elektronicznych oświadczeń woli – z dnia 8 września 2013 r.;
+–
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zwos_440_3951/content
+
+2025-09-03 13:40
+
+Decyzja ZWOS.440.3951.2019
+
+–
+–
+–
+–
+–
+
+Strona 2 z 8
+
+umowy o prowadzenie rachunku oszczędnościowego nr (…) z dnia 23 sierpnia
+2013 r.;
+umowy o prowadzenie rachunku oszczędnościowo - rozliczeniowego w walucie
+obcej nr (…) z dnia 4 września 2013 r.;
+umowy o prowadzenie rachunku oszczędnościowo - rozliczeniowego w walucie
+obcej nr (…) z dnia 4 lutego 2014 r.;
+umowy o prowadzenie rachunku oszczędnościowo - rozliczeniowego w walucie
+obcej nr (…) z dnia 28 lutego 2014 r.;
+umowy o prowadzenie rachunku oszczędnościowo - rozliczeniowego nr (…) z
+dnia 3 sierpnia 2014 r.;
+umowy o prowadzenie rachunku oszczędnościowo - rozliczeniowego nr (…) z
+dnia 13 listopada 2015 r.;
+
+mimo skutecznego wypowiedzenia przez Skarżącego ww. umów w dniu 11 czerwca 2019
+r.,
+–
+w pozostałym zakresie odmawia uwzględnienia wniosku.
+
+Uzasadnienie
+Do Prezesa Urzędu Ochrony Danych Osobowych wpłynęła skarga Pana RO, zam. we D.,
+przy ul. (…), zwanego dalej Skarżącym, na nieprawidłowości w procesie przetwarzania
+jego danych osobowych przez (…) S.A., z siedzibą w R., ul. (…), zwanej dalej Spółką, po‐
+legające na przetwarzaniu danych osobowych Skarżącego bez podstawy prawnej.
+W toku przeprowadzonego postępowania wyjaśniającego w niniejszej sprawie Prezes
+Urzędu Ochrony Danych Osobowych ustalił następujący stan faktyczny:
+1. Skarżący wskazał, że w dniu 11 czerwca 2019 r. wysłał do Spółki wiadomość elektro‐
+niczną z dyspozycją zamknięcia rachunków bankowych oraz wszystkich innych ra‐
+chunków i produktów posiadanych przez Skarżącego w Spółce, oraz rozwiązania
+umowy o świadczenie usług bankowych, z zachowaniem regulaminowego okresu
+wypowiedzenia. W dniu 13 czerwca 2019 r. Skarżący otrzymał od Spółki potwierdze‐
+nie przyjęcia ww. dyspozycji do realizacji. W dniu 1 sierpnia 2019 r. konto Skarżące‐
+go w Spółce było dalej aktywne. W związku z powyższym Skarżący zakwestionował
+legalność przetwarzania przez Spółkę jego danych osobowych jako klienta bez jego
+zgody (dowód: pismo Skarżącego z dnia 1 sierpnia 2019 r. wraz z załącznikami).
+2. Spółka pozyskała dane osobowe Skarżącego bezpośrednio od niego w dniu 8
+sierpnia 2013 r. - Skarżący zawarł ze Spółką "Umowę Zintegrowaną", w skład której
+wchodziła umowa rachunku oszczędnościowo - rozliczeniowego nr (…), umowa o
+kartę płatniczą debetową oraz umowa ramowa w zakresie elektronicznych oświad‐
+czeń woli. Skarżący posiadał w Spółce także następujące umowy: o prowadzenie ra‐
+chunku oszczędnościowego nr (…) z dnia 23 sierpnia 2013 r.; o prowadzenie rachun‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zwos_440_3951/content
+
+2025-09-03 13:40
+
+Decyzja ZWOS.440.3951.2019
+
+3.
+
+4.
+
+5.
+
+6.
+
+Strona 3 z 8
+
+ku oszczędnościowo - rozliczeniowego w walucie obcej nr (…) z dnia 4 września
+2013 r.; o prowadzenie rachunku oszczędnościowo - rozliczeniowego w walucie ob‐
+cej nr (…) z dnia 4 lutego 2014 r.; o prowadzenie rachunku oszczędnościowo - rozli‐
+czeniowego w walucie obcej nr (…) z dnia 28 lutego 2014 r.; o prowadzenie rachun‐
+ku oszczędnościowo - rozliczeniowego nr (…) z dnia 3 sierpnia 2014 r.; o prowadze‐
+nie rachunku oszczędnościowo - rozliczeniowego nr (…) z dnia 13 listopada 2015 r.
+(dowód: pismo Spółki z dnia 5 marca 2020 r. wraz z załącznikami oraz pismo Spółki
+z dnia 5 sierpnia 2020 r. wraz z załącznikami).
+Skarżący w dniu 17 stycznia 2014 r. zawarł ze Spółką umowę o korzystanie z kanto‐
+ru walutowego dla klientów indywidualnych. W ramach kantoru walutowego Skarżą‐
+cy posiada pięć aktywnych rachunków bieżących oraz jeden rachunek, który został
+zamknięty w dniu 7 maja 2014 r. W tym zakresie Spółka przetwarza dane osobowe
+Skarżącego na podstawie art. 6 ust. 1 lit. b RODO (dowód: pismo Spółki z dnia 5
+marca 2020 r. wraz z załącznikami).
+Zakres pozyskanych danych osobowych Skarżącego to imię, nazwisko, PESEL, data
+urodzenia, kraj urodzenia, obywatelstwo, wykształcenie, stan cywilny, seria i numer
+dowodu osobistego, data ważności dowodu osobistego, wizerunek, adres zameldo‐
+wania, zamieszkania oraz do korespondencji, numer telefonu komórkowego, adres
+e-mail, kraj rezydencji, status dewizowy, imiona rodziców, nazwisko panieńskie
+matki (dowód: pismo Spółki z dnia 5 marca 2020 r. wraz z załącznikami).
+Skarżący w dniu 11 czerwca 2019 r. zwrócił się do Spółki z wnioskiem o wypowie‐
+dzenie umów wskazanych w pkt 2 powyżej (data wpłynięcia do Spółki – 12 czerwca
+2019 r.) - termin wypowiedzenia wynosił 30 dni. Spółka w dniu 13 czerwca 2019 r.
+przyjęła ww. wniosek Skarżącego do realizacji. Rozwiązanie umów wskazanych w pkt
+2 powinno było nastąpić w dniu 11 lipca 2019 r. Umowy wskazane w pkt 2 powyżej
+zostały natomiast zamknięte przez Spółkę w dniu 1 sierpnia 2019 r. W terminie od
+upływu okresu wypowiedzenia do dnia 1 sierpnia 2019 r. Spółka przetwarzała dane
+osobowe Skarżącego w celu realizacji umów wskazanych w pkt 2 powyżej (dowód:
+pismo Spółki z dnia 5 marca 2020 r. wraz z załącznikami oraz pismo Spółki z dnia 5
+sierpnia 2020 r. wraz z załącznikami).
+Spółka obecnie przetwarza dane osobowe Skarżącego w zakresie wskazanym w pkt
+4 powyżej na podstawie art. 6 ust. 1 lit. c rozporządzenia Parlamentu Europejskiego
+i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych
+w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu
+takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 4.05.2016,
+str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str.
+35), zwanego dalej RODO, w zw. z art. 74 ustawy z dnia 29 września 1994 r. o
+rachunkowości (Dz. U. z 2021 r., poz. 217), zwaną dalej ustawą o rachunkowości,
+oraz w zw. z art. 49 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu
+pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2020 r., poz. 971), zwaną dalej
+ustawą o przeciwdziałaniu praniu brudnych pieniędzy. Spółka wskazała także, iż
+przetwarza dane osobowe Skarżącego na podstawie art. 6 ust. 1 lit. f RODO w zw. z
+art. 118 ustawy z dnia 23 kwietnia 1964 r. (Dz. U. z 2020 r., poz. 1740), zwaną dalej
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zwos_440_3951/content
+
+2025-09-03 13:40
+
+Decyzja ZWOS.440.3951.2019
+
+Strona 4 z 8
+
+KC, w celu dochodzenia i obrony ewentualnych roszczeń (dowód: pismo Spółki z
+dnia 5 marca 2020 r.).
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+Prezes Urzędu Ochrony Danych Osobowych wydając decyzję administracyjną, zobowią‐
+zany jest do rozstrzygania sprawy w oparciu o stan faktyczny istniejący w chwili wydania
+tej decyzji. Jak podnosi się w doktrynie „organ administracji publicznej ocenia stan fak‐
+tyczny sprawy według chwili wydania decyzji administracyjnej. Reguła ta odnosi się tak‐
+że do oceny stanu prawnego sprawy, co oznacza, że organ administracji publicznej wy‐
+daje decyzję administracyjną na podstawie przepisów prawa obowiązujących w chwili jej
+wydania (…). Rozstrzyganie w postępowaniu administracyjnym polega na zastosowaniu
+obowiązującego prawa do ustalonego stanu faktycznego sprawy administracyjnej. W ten
+sposób organ administracji publicznej realizuje cel postępowania administracyjnego, ja‐
+kim jest urzeczywistnienie obowiązującej normy prawnej w zakresie stosunków
+administracyjno-prawnych, gdy stosunki te tego wymagają” (Komentarz do ustawy z
+dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, M. Jaśkowska, A. Wró‐
+bel, Lex., el/2012). Ponadto, w wyroku z dnia 7 maja 2008 r. w sprawie o sygn. akt I OSK
+761/07, Naczelny Sąd Administracyjny stwierdził, iż „badając (…) legalność przetwarza‐
+nia danych osobowych, GIODO ma obowiązek ustalenia, czy na datę wydawania roz‐
+strzygnięcia w sprawie dane konkretnego podmiotu są przetwarzane oraz czy czynione
+to jest w sposób zgodny z prawem”.
+Wskazać należy, że RODO określa obowiązki administratora danych, do których należy
+przetwarzanie danych osobowych z zachowaniem przesłanek określonych w tym rozpo‐
+rządzeniu. Przepisem uprawniającym administratorów danych do przetwarzania zwy‐
+kłych danych osób fizycznych jest art. 6 ust. 1 RODO, zgodnie z którym, przetwarzanie
+danych jest dopuszczalne tylko wtedy, gdy spełniona jest jedna z przesłanek wskaza‐
+nych w tym przepisie. Katalog przesłanek wymienionych w art. 6 ust. 1 RODO, jest za‐
+mknięty. Każda z przesłanek legalizujących proces przetwarzania danych osobowych ma
+charakter autonomiczny i niezależny. Oznacza to, że przesłanki te co do zasady są rów‐
+noprawne, a wobec tego spełnienie co najmniej jednej z nich stanowi o zgodnym z pra‐
+wem przetwarzaniu danych osobowych. W konsekwencji zgoda osoby, której dane doty‐
+czą nie jest jedyną podstawą przetwarzania danych osobowych, bowiem proces przetwa‐
+rzania danych będzie zgodny z RODO również wówczas, gdy administrator danych wyka‐
+że spełnienie innej z wyżej wymienionych przesłanek. Niezależnie od zgody osoby, której
+dane dotyczą (art. 6 ust. 1 lit. a RODO) przetwarzanie danych osobowych jest dopusz‐
+czalne między innymi wtedy, gdy jest niezbędne do wykonania umowy, której stroną jest
+osoba, której dane dotyczą, lub do podjęcia działań na żądanie osoby, której dane doty‐
+czą, przed zawarciem umowy (art. 6 ust. 1 lit. b RODO) lub, gdy jest to niezbędne do wy‐
+pełnienia obowiązku prawnego ciążącego na administratorze (art. 6 ust. 1 lit. c RODO).
+Dodatkowo, proces przetwarzania danych osobowych musi być zgodny z zasadami usta‐
+nowionymi w art. 5 ust. 1 RODO. Wspomniane zasady wymagają między innymi, by
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zwos_440_3951/content
+
+2025-09-03 13:40
+
+Decyzja ZWOS.440.3951.2019
+
+Strona 5 z 8
+
+dane osobowe były zbierane w konkretnych, wyraźnych i prawnie uzasadnionych celach
+i nieprzetwarzane dalej w sposób niezgodny z tymi celami (lit. b).
+Spółka przetwarza dane osobowe Skarżącego w postaci imienia, nazwiska, numeru PE‐
+SEL, daty urodzenia, kraju urodzenia, obywatelstwa, wykształcenia, stanu cywilnego, se‐
+rii i numeru dowodu osobistego, daty ważności dowodu osobistego, wizerunku, adresu
+zameldowania, zamieszkania oraz do korespondencji, numeru telefonu komórkowego,
+adresu e-mail, kraju rezydencji, statusu dewizowego, imion rodziców, nazwiska panień‐
+skiego matki. Aktualnie proces przetwarzania powyższych danych kontynuowany jest,
+ponieważ Skarżący w dniu 17 stycznia 2014 r. zawarł ze Spółką umowę o korzystanie z
+kantoru walutowego dla klientów indywidualnych. W ramach kantoru walutowego Skar‐
+żący posiada pięć aktywnych rachunków bieżących oraz jeden rachunek, który został za‐
+mknięty w dniu 7 maja 2014 r. W zakresie aktywnych rachunków bieżących Spółka prze‐
+twarza zatem dane osobowe Skarżącego w celu wykonania umowy, tj. na podstawie art.
+6 ust. 1 lit. b RODO.
+W toku postępowania ustalono ponadto, że w dniu 1 sierpnia 2019 r. na skutek złożone‐
+go w dniu 11 czerwca 2019 r. wypowiedzenia, rozwiązaniu uległy umowy:
+umowa rachunku oszczędnościowo – rozliczeniowego nr (…),
+umowa o kartę płatniczą oraz umowa ramowa w zakresie elektronicznych
+oświadczeń woli – z dnia 8 września 2013 r.;
+umowa o prowadzenie rachunku oszczędnościowego nr (…) z dnia 23 sierpnia 2013
+r.;
+umowa o prowadzenie rachunku oszczędnościowo - rozliczeniowego w walucie obcej
+nr (…) z dnia 4 września 2013 r.;
+umowa o prowadzenie rachunku oszczędnościowo - rozliczeniowego w walucie obcej
+nr (…) z dnia 4 lutego 2014 r.;
+umowa o prowadzenie rachunku oszczędnościowo - rozliczeniowego w walucie obcej
+nr (…) z dnia 28 lutego 2014 r.;
+umowa o prowadzenie rachunku oszczędnościowo - rozliczeniowego nr (…) z dnia 3
+sierpnia 2014 r.;
+umowa o prowadzenie rachunku oszczędnościowo - rozliczeniowego nr (…) z dnia
+13 listopada 2015 r.,
+zwane dalej Umowami.
+Zauważyć należy, że Spółka zobowiązana jest na podstawie art. 74 ustawy o rachunko‐
+wości do przechowywania zatwierdzonych rocznych sprawozdań finansowych przez
+okres co najmniej 5 lat, licząc od początku roku następującego po roku obrotowym, w
+którym nastąpiło ich zatwierdzenie (art. 74 ust. 1), pozostałych zbiorów, np. ksiąg ra‐
+chunkowych - przez 5 lat (art. 74 ust. 2 lit. a), jak również dowodów księgowych dotyczą‐
+cych środków trwałych w budowie, pożyczek, kredytów oraz umów handlowych, rosz‐
+czeń dochodzonych w postępowaniu cywilnym lub objętych postępowaniem karnym albo
+podatkowym - przez 5 lat od początku roku następującego po roku obrotowym, w którym
+operacje, transakcje i postępowanie zostały ostatecznie zakończone, spłacone, rozliczo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zwos_440_3951/content
+
+2025-09-03 13:40
+
+Decyzja ZWOS.440.3951.2019
+
+Strona 6 z 8
+
+ne lub przedawnione. Ponadto Spółka zobowiązana jest na mocy art. 49 ustawy o prze‐
+ciwdziałaniu praniu brudnych pieniędzy, jako instytucja obowiązana do przechowywania
+przez okres 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym za‐
+kończono stosunki gospodarcze z klientem lub w którym przeprowadzono transakcje
+okazjonalne:
+1) kopie dokumentów i informacje uzyskane w wyniku stosowania środków
+bezpieczeństwa finansowego;
+2) dowody potwierdzające przeprowadzone transakcje i ewidencje transakcji, obejmu‐
+jące oryginalne dokumenty lub kopie dokumentów konieczne do identyfikacji trans‐
+akcji. Pomimo zatem wypowiedzenia przez Skarżącego z dniem 1 sierpnia 2019 r.
+powyższych Umów, Spółka w związku z tym, że ww. okres 5 lat nie upłynął, zobowią‐
+zana jest do przechowywania dokumentacji z nimi związanej, co przesądza o ko‐
+nieczności dalszego przetwarzania danych osobowych Skarżącego zawartych w
+Umowach. Tym samym ww. proces przetwarzania uznać należy za kontynuowany
+prawidłowo w celu wykonania nałożonego na Spółkę obowiązku prawnego, na
+podstawie przesłanki z art. 6 ust. 1 lit. c RODO.
+W zakresie zarzutu przetwarzania danych osobowych Skarżącego w okresie od dnia
+upływu okresu wypowiedzenia Umów, tj. od dnia 13 lipca 2019 r., do dnia 1 sierpnia
+2019 r., w celu realizacji tych umów, analiza materiału dowodowego wykazała, iż proces
+ten nie był prawidłowy. Spółka pomimo wypowiedzenia ww. umów przez Skarżącego pi‐
+smem z dnia 11 czerwca 2019 r., po upływie okresu tego wypowiedzenia przetwarzała
+dane osobowe Skarżącego, wskazując, że robiła to w celu ich realizacji. Spółka wskazała,
+że cyt. „faktyczne zamknięcie rachunku umowy nastąpiło w systemie Banku w dniu 1
+sierpnia 2019 r. Wypowiedzenie umowy wpłynęło natomiast w dniu 12 czerwca 2019 r.
+Zgodnie z warunkami umowy i informacją przekazaną Skarżącemu w dniu 13 czerwca
+2019 r. za pośrednictwem bankowości internetowej, upłynął okres wypowiedzenia umo‐
+wy, który wynosił 30 dni. Zamknięcie rachunku nastąpiło z opóźnieniem, zatem formalne
+rozwiązanie umowy nastąpiło w dniu 1 sierpnia 2019 r. W terminie od upływu okresu wy‐
+powiedzenia do dnia 1 sierpnia 2019 r. podstawą prawną przetwarzania danych osobo‐
+wych Skarżącego w zakresie tej umowy był w mniemaniu Banku art. 6 ust. 1 lit b. (…)”.
+Spółka zamknęła Umowy w dniu 1 sierpnia 2019 r., co oznacza, że od dnia 13 lipca do
+dnia 1 sierpnia 2019 r. proces przetwarzania danych osobowych Skarżącego w związku z
+realizacją Umów nie miał podstawy prawnej. Po wygaśnięciu Umów zdezaktualizował się
+cel przetwarzania przez Spółkę danych osobowych Skarżącego, jakim była realizacja
+tych umów. W związku z powyższym od daty wygaśnięcia Umów brak było po stronie
+Spółki przesłanki legalizującej proces przetwarzania danych osobowych Skarżącego w
+ww. celu. Należy przy tym zaznaczyć, że to na Spółce będącej administratorem danych
+spoczywa obowiązek podjęcia odpowiednich działań i wdrożenia mechanizmów pozwala‐
+jących na zbieranie danych osobowych jedynie w konkretnych, wyraźnych i prawnie uza‐
+sadnionych celach i nieprzetwarzanie ich dalej w sposób niezgodny z tymi celami (art. 5
+ust. 1 lit. b RODO). Spółka naruszyła zatem powyższą zasadę.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zwos_440_3951/content
+
+2025-09-03 13:40
+
+Decyzja ZWOS.440.3951.2019
+
+Strona 7 z 8
+
+Spółka wyjaśniła, że przetwarza dane osobowe Skarżącego również w oparciu o art. 6
+ust. 1 lit. f RODO w zw. z art. 118 KC w celu obrony i dochodzenia ewentualnych rosz‐
+czeń. Zebrany w sprawie materiał dowodowy nie wykazał jednakże, by Skarżący wystąpił
+z roszczeniem wobec Spółki, bądź aby Spółka wystąpiła z roszczeniem wobec Skarżące‐
+go, które uzasadniałyby uprawnie do zachowania i przetwarzania danych osobowych
+Skarżącego przez Spółkę w związku z prawnie uzasadnionym interesem realizowanym
+przez administratora danych, jakim jest dochodzenie roszczeń powstałych w związku z
+wykonywaniem czynności bankowych oraz innych wynikających z przepisów powszech‐
+nie obowiązujących. W ocenie organu przesłanka wynikająca z art. 6 ust. 1 lit. f RODO
+dotyczy sytuacji już istniejącej, w której celem wynikającym z prawnie uzasadnionych in‐
+teresów realizowanych przez administratora jest konieczność udowodnienia, potrzeba
+dochodzenia lub obrony przed roszczeniem istniejącym, nie zaś sytuacji, gdy dane są
+przetwarzane w celu zabezpieczenia się przed ewentualnym roszczeniem. W związku z
+tym, że przeprowadzone przez Prezesa Urzędu Ochrony Danych Osobowych postępowa‐
+nie administracyjne nie wykazało, aby Skarżący skierował wobec Spółki jakiekolwiek
+roszczenie, należy stwierdzić, że Spółka przetwarza dane osobowe Skarżącego w ww.
+celu wyłącznie „na zapas”, aby zabezpieczyć się przed ewentualnym przyszłymi i
+niepewnymi roszczeniami Skarżącego.
+Na niedopuszczalność przetwarzania danych osobowych „na zapas” wskazał Naczelny
+Sąd Administracyjny w wyroku z dnia 27 marca 2018 r., sygn. akt I OSK 1459/16, odno‐
+szącym się do art. 25 ust. 1 pkt 5 ustawy z 29 sierpnia 1997 r. o ochronie danych
+osobowych (Dz. U. 2016 r. poz. 922 ze zm.), zwanej dalej ustawą z 1997 r., który był ana‐
+logicznym przepisem względem art. 6 ust. 1 lit. f RODO (cyt.): „Należy zwrócić uwagę, że
+przepis art. 23 ust. 1 pkt 5 ustawy na pierwszym miejscu wymienia warunek, że prze‐
+twarzanie danych winno być niezbędne dla wypełnienia prawnie usprawiedliwionych ce‐
+lów. Niedopuszczalne jest więc przetwarzanie danych osobowych niejako "na zapas" z
+założeniem, że mogą być one ewentualnie przydatne w przyszłości, na przykład z odwo‐
+łaniem się do przepisów dotyczących przedawnienia roszczeń cywilnoprawnych, czy
+postępowań administracyjnych bądź karnych”. Prezes Urzędu Ochrony Danych Osobo‐
+wych podziela powyższe stanowisko.
+Podkreślić w tym miejscu należy jednak, że pomimo stwierdzenia nieprawidłowości w
+procesie przetwarzania danych osobowych Skarżącego przez Spółkę w oparciu o prze‐
+słankę wskazaną w art. 6 ust. 1 lit. f RODO, Spółka prawidłowo kontynuuje ten proces w
+oparciu o przesłankę wskazaną w art. 6 ust. 1 lit. c RODO.
+Postępowanie administracyjne prowadzone przez Prezesa Urzędu Ochrony Danych Oso‐
+bowych służy kontroli zgodności przetwarzania danych z przepisami o ochronie danych
+osobowych i jest ukierunkowane na wydanie decyzji administracyjnej przywracającej
+stan zgodny z prawem na podstawie art. 58 ust. 2 RODO. Ocena dokonywana przez Pre‐
+zesa Urzędu w każdym przypadku służy zbadaniu zasadności skierowania pod adresem
+określonego podmiotu nakazu odpowiadającego dyspozycji art. 58 ust. 2 RODO służące‐
+go przywróceniu stanu zgodnego z prawem w procesie przetwarzania danych. Zauważyć
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zwos_440_3951/content
+
+2025-09-03 13:40
+
+Decyzja ZWOS.440.3951.2019
+
+Strona 8 z 8
+
+przy tym należy, że na podstawie art. 58 ust. 2 RODO Prezesowi Urzędu Ochrony Danych
+Osobowych przysługują uprawnienia naprawcze, w tym udzielanie upomnień administra‐
+torowi lub podmiotowi przetwarzającemu w przypadku naruszenia przepisów niniejszego
+rozporządzenia przez operacje przetwarzania (art. 58 ust. 2 lit. b RODO). Mając powyż‐
+sze na uwadze, Prezes Urzędu uznał, że w realiach niniejszej sprawy właściwe jest zasto‐
+sowanie wobec Spółki upomnienia za stwierdzone naruszenie art. 6 ust. 1 RODO, polega‐
+jące na przetwarzaniu danych osobowych Skarżącego w okresie od dnia 13 lipca 2019 r.
+do dnia 1 sierpnia 2019 r. w celu wykonania Umów bez podstawy prawnej. Natomiast z
+uwagi na to, że Spółka obecnie legalnie przetwarza dane osobowe Skarżącego pozyska‐
+ne w związku z zawarciem Umów także w celu wykonania nałożonego na Spółkę obo‐
+wiązku prawnego, na podstawie przesłanki z art. 6 ust. 1 lit. c RODO, pomimo braku pod‐
+staw prawnych do przetwarzania tych danych przez Spółkę w oparciu o art. 6 ust. 1 lit. f,
+brak jest w ocenie organu podstaw do nakazania Spółce usunięcia tych danych.
+Natomiast w zakresie aktywnych rachunków bieżących, Spółka przetwarza dane osobo‐
+we Skarżącego w celu wykonania tych umów, co znajduje oparcie w przesłance legalizu‐
+jącej, określonej w art. 6 ust. 1 lit. b RODO. Mając powyższe na uwadze należało
+odmówić uwzględnienia wniosku Skarżącego w tym zakresie.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zwos_440_3951/content
+
+2025-09-03 13:40
+

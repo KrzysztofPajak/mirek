@@ -1,0 +1,210 @@
+Warszawa, 4 października 2021
+PRAWOMOCNA
+
+Decyzja
+DKE.523.4.2021
+
+Na podstawie art. 105 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r. poz. 54 ze zm.), w zw. z art. 160 ust. 1 i 2 ustawy z
+dnia 10 maja 2018 r. o ochronie danych osobowych (Dz.U. z 2019, poz.1781) oraz art. 12
+pkt 2, art. 22 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z
+2016 r., poz. 922 z późn. zm.) oraz z art. 57 ust. 1 pkt a) i h) rozporządzenia Parlamentu
+Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób
+fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z
+04.05.2016 r. str. 1 ze zmianą ogłoszoną w Dz. Urz. UE L 127 z 23.05.2018 r. str. 2)
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pani E. F., zam. w
+W. przy ul. (…) na nieprawidłowości w procesie przetwarzania jej danych osobowych
+przez T S.A. w W. przy ul. (…), Prezes Urzędu Ochrony Danych Osobowych
+umarza postępowanie
+
+Uzasadnienie
+Do Generalnego Inspektora Ochrony Danych Osobowych (obecnie Prezesa Urzędu
+Ochrony Danych Osobowych) wpłynęła skarga Pani E. F., zam. w W. przy ul. (…) (dalej:
+„Skarżąca”), na nieprawidłowości w procesie przetwarzania jej danych osobowych T. S.A.
+z siedzibą w W. przy ul. (…) (dalej: „Spółka”).
+W treści skargi Skarżąca poinformowała, że Spółka udostępniła jej dane osobowe osobie
+nieuprawnionej. W związku z powyższym Skarżąca wniosła o przywrócenie stanu
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_4/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.4.2021
+
+Strona 2 z 5
+
+zgodnego z prawem poprzez cyt. „usunięcie uchybień w procesie przetwarzania danych
+osobowych oraz zastosowanie dodatkowych środków zabezpieczających dane osobowe”.
+Skarżąca ponadto poinformowała, że cyt. „Dnia 3 listopada około godziny 20.00 – 22.00
+została naruszona ochrona jej dóbr osobistych. Pracownik P. (obecnie T. S.A.) udzielił in‐
+formacji (dotyczącej numeru (…), którego jestem jedyną właścicielką) dotyczących stanu
+konta osobie nieupoważnionej, tym samym narażając mnie na nieprzyjemności ze strony
+byłej teściowej”. Skarżąca wniosła o wyciągniecie konsekwencji służbowych wobec pra‐
+cownika P., co pozwoliłoby uniknąć podobnych sytuacji w przyszłości.
+W toku postępowania administracyjnego przeprowadzonego w niniejszej sprawie Prezes
+Urzędu Ochrony Danych Osobowych (dalej: „Prezes UODO”) ustalił następujący stan fak‐
+tyczny.
+1. Spółka wyjaśniła w piśmie z dnia 5 czerwca 2013 roku, że dane osobowe Skarżącej
+zostały pozyskane w związku z zawarciem umowy (…) w dniu 10 kwietnia 2002
+roku. Podstawą przetwarzania danych osobowych Skarżącej był art. 23 ust. 1 pkt 2 i
+pkt 3 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016
+r. poz. 922 ze zm.), zwaną dalej: „ustawą z 1997 roku” w związku z art. 161 ustawy
+z dnia 16 lipca 2004 roku Prawo telekomunikacyjne (Dz.U. z 2019 r. poz. 2460, z
+2020 r. poz. 374 ze zm.). Dane osobowe Skarżącej Spółka przetwarzała w celu
+świadczenia usług telekomunikacyjnych oraz w celu marketingowym.
+2. Spółka przetwarzała dane osobowe Skarżącej w zakresie: imię, nazwisko, ulica, nu‐
+mer domu i mieszkania, kod pocztowy i miejscowość, seria i numer dowodu osobi‐
+stego, numer PESEL, data urodzenia, numer telefonu, numer konta abonenta, kopia
+dokumentu potwierdzającego tożsamość, numer umowy i data jej zawarcia, numer
+IMEI telefonu, numer karty SIM, numer rachunku bankowego, dane o historii kontak‐
+tów Spółki z klientem, dane o świadczonych na jej rzecz usługach i produktach tele‐
+komunikacyjnych oraz dotyczące realizacji umowy z klientem.
+3. Spółka ponadto wskazała w wyjaśnianiach z dnia 5 czerwca 2013 roku, że zarzut
+Skarżącej dotyczący udostępniania informacji o jej stanie konta przez pracownika
+Spółki był przedmiotem postępowania wyjaśniającego, które nie wykazało udostęp‐
+nienia ww. danych osobie nieuprawnionej. Rozmowa, na która powołuje się Skarżąca
+w treści skargi miała miejsce w dniu 3 listopada 2012 roku, godz. 22.35. W jej trak‐
+cie została przeprowadzona weryfikacja osoby dzwoniącej przez konsultanta zgod‐
+nie z procedurami obowiązującymi w Spółce w zakresie udzielania informacji doty‐
+czących klientów. Wewnętrze postępowanie Spółki nie wykazało żadnych
+nieprawidłowości w działaniach pracownika Spółki.
+4. Pismem z dnia 4 lutego 2014 roku Spółka poinformowała, że osoba dzwoniąca do
+Biura (…) w dniu 3 listopada 2012 roku chciała uzyskać informacje, dlaczego numer
+telefonu, którego użytkownikiem jest jej wnuczka przebywająca zagranica jest nie‐
+aktywny. Osoba dzwoniąca została zapytana o hasło do konta, którego jednak nie
+znała. Zgodnie z procedurą identyfikacji klienta została zapytana o inne dane, na
+które udzieliła poprawnej odpowiedzi. Osoba dzwoniąca wskazała następujące dane
+użytkownika telefonu, tj. imię i nazwisko osoby na którą jest zarejestrowany numer
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_4/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.4.2021
+
+5.
+
+6.
+
+7.
+
+Strona 3 z 5
+
+telefonu, data urodzenia, adres stały. Weryfikacja została uznana za wystarczającą i
+konsultant poinformował osobę dzwoniącą, że powodem, iż numer jest niedostępny
+jest nieopłacona faktura. Spółka wskazała, że działanie konsultanta było zgodne z
+obowiązującymi procedurami. Spółka powołała się ww. piśmie na Regulamin (…),
+zgodnie z którym za skutki używania karty SIM lub skorzystania z uprawnień wynika‐
+jących z umowy powstałe w związku ze znajomością przez osoby trzecie danych
+identyfikacyjnych dotyczących kont użytkownika wyłączną odpowiedzialność ponosi
+Abonent. Spółka wyjaśniła ponadto, że zgodnie z Procedurą (…) przy reklamacji
+przesłanej drogą elektroniczną lub zgłoszonej telefonicznie stosowana jest
+weryfikacja szczegółowa, co obrazuje załączony do ww. pisma „schemat (…)”, wedle
+której została zidentyfikowana osoba dzwoniąca.
+Pismem z dnia 4 września 2014 roku Spółka ponadto poinformowała, że w systemie
+Spółki służącym do rejestracji rozmów z klientami nie odnaleziono przedmiotowej
+rozmowy. Z tego też powodu nie stwierdzono jednoznacznie czy osoba dzwoniąca
+podała się za Abonenta wskazanego numeru. Spółka zapewniła w ww. piśmie, że
+osoba dzwoniąca podała wszystkie niezbędne do identyfikacji dane zgodnie z
+procedurami obowiązującymi w Spółce.
+W wyjaśnieniach z dnia 14 lipca 2021 roku Spółka wskazała, że obecnie Skarżąca
+nie posiada aktywnych umów w Spółce, a jej dane przetwarza na podstawie art. 6
+ust. 1 lit. c Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia
+27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem
+danych osobowych i w sprawie swobodnego przepływu takich danych oraz
+uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 04.05.2016, str. 1 ze zm.), zwa‐
+nego dalej „Rozporządzeniem 2016/679” – w celu rozpatrywania reklamacji oraz art.
+6 ust. 1 lit. f Rozporządzenia 2016/679 – w celu odpowiedzi na pytania, wnioski,
+skargi Skarżącej, odpowiedzi na pytania, wnioski, skargi ze strony uprawnionych
+organów, w tym UODO.
+W ww. piśmie Spółka ponadto wskazała, że obecnie obowiązują nowe „Procedury
+Identyfikacji Abonenta (…)” oraz „Dokument (…)”.
+
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+Na wstępie wskazać należy, iż z dniem 25 maja 2018 r. w życie weszły przepisy ustawy z
+dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781), dalej
+„u.o.d.o.”.
+W myśl art. 160 ust. 1-3 u.o.d.o., postępowania prowadzone przez Generalnego Inspek‐
+tora Ochrony Danych Osobowych, wszczęte i niezakończone przed dniem wejścia w ży‐
+cie niniejszej ustawy, prowadzone są przez Prezesa Urzędu Ochrony Danych Osobowych
+na podstawie ustawy z 1997 roku zgodnie z zasadami określonymi w ustawie z dnia 14
+czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2021 r., poz. 735 ze
+zm.) dalej: Kpa. Jednocześnie, czynności dokonane w postępowaniach, wszczętych i nie‐
+zakończonych przed dniem wejścia w życie przepisów u.o.d.o., pozostają skuteczne.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_4/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.4.2021
+
+Strona 4 z 5
+
+Od dnia 25 maja 2018 r. zastosowanie ma również Rozporządzenie 2016/679. Stosownie
+do art. 57 ust. 1 Rozporządzenia 2016/679, bez uszczerbku dla innych zadań określo‐
+nych na mocy tego rozporządzenia, każdy organ nadzorczy na swoim terytorium monito‐
+ruje i egzekwuje stosowanie tego rozporządzenia (lit. a) oraz prowadzi postępowania w
+sprawie stosowania niniejszego rozporządzenia, w tym na podstawie informacji otrzyma‐
+nych od innego organu nadzorczego lub innego organu publicznego (lit. h).
+Uwzględniając powyższe stwierdzić zatem należy, iż niniejsze postępowanie, wszczęte i
+niezakończone przed dniem 25 maja 2018 r., prowadzone jest na podstawie ustawy z
+1997 roku (w zakresie dotyczącym przepisów regulujących procedurę administracyjną)
+oraz na podstawie Rozporządzenia 2016/679 (w zakresie rozstrzygającym o legalności
+procesu przetwarzania danych osobowych). Wynikający z przepisów prawa sposób pro‐
+wadzenia postępowań w sprawach rozpoczętych i niezakończonych przed dniem wejścia
+w życie nowych regulacji z zakresu ochrony danych osobowych koreluje z ugruntowanym
+stanowiskiem doktryny, zgodnie z którym „organ administracji publicznej ocenia stan
+faktyczny sprawy według chwili wydania decyzji administracyjnej. Reguła ta odnosi się
+także do oceny stanu prawnego sprawy, co oznacza, że organ administracji publicznej
+wydaje decyzję administracyjną na podstawie przepisów prawa obowiązujących w chwili
+jej wydania” (Komentarz do ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania ad‐
+ministracyjnego (Dz. U. 00.98.1071) M. Jaśkowska, A. Wróbel, Lex., el/2012).
+W wyroku z dnia 7 maja 2008 r. w sprawie o sygn. akt I OSK 761/07, Naczelny Sądu Ad‐
+ministracyjny stwierdził, iż „badając bowiem legalność przetwarzania danych osobo‐
+wych, GIODO ma obowiązek ustalenia, czy na datę wydawania rozstrzygnięcia w sprawie
+dane konkretnego podmiotu są przetwarzane oraz czy czynione to jest w sposób zgodny
+z prawem”.
+Decydujące znaczenie dla rozstrzygnięcia przedmiotowej sprawy ma okoliczność, że
+obecnie Skarżąca nie jest klientem Spółki, a jej dane osobowe przetwarzane są
+wyłącznie na podstawie art. 6 ust. 1 lit. c „Rozporządzeniem 2016/679” – w celu rozpa‐
+trywania reklamacji oraz art. 6 ust. 1 lit. f „Rozporządzeniem 2016/679” – w celu odpo‐
+wiedzi na pytania, wnioski, skargi Skarżącej, odpowiedzi na pytania, wnioski, skargi ze
+strony uprawnionych organów, w tym UODO. W związku z powyższym dane osobowe
+Skarżącej nie są przetwarzane obecnie przez Spółkę w przedmiocie objętym skargą, za‐
+tem przedmiot niniejszego postępowania administracyjnego przestał istnieć. W tej sytu‐
+acji niniejsze postępowanie podlega umorzeniu na podstawie art. 105 Kpa. Powyższe
+znajduje również potwierdzenie w orzecznictwie Naczelnego Sądu Administracyjnego,
+który stwierdził w wyroku NSA z dnia 20 listopada 2019 roku, sygn. I OSK 2897/18, że
+„określeniem postępowanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe obej‐
+muje się sytuacje, gdy żądanie strony jest nieaktualne lub wygasło z mocy prawa”.
+Bezprzedmiotowość postępowania oznacza, że brak jest któregoś z elementów material‐
+nego stosunku prawnego, a wobec tego nie można wydać decyzji załatwiającej sprawę
+przez rozstrzygnięcie jej co do istoty (B. Adamiak, J. Borkowski „Kodeks postępowania
+administracyjnego. Komentarz” 7 wydanie Wydawnictwo C.H. Beck, Warszawa 2005 r.,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_4/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.4.2021
+
+Strona 5 z 5
+
+str. 485). Takie samo stanowisko zajął Wojewódzki Sąd Administracyjny w Krakowie w
+wyroku z dnia 27 lutego 2008 r., sygn. akt III SA/Kr 762/2007): „Postępowanie staje się
+bezprzedmiotowe, gdy brak któregoś z elementów stosunku materialnoprawnego, co po‐
+woduje, że nie można załatwić sprawy przez rozstrzygnięcie co do istoty”.
+Ustalenie przez organ publiczny istnienia przesłanki, o której mowa w art. 105 § 1 Kpa
+zobowiązuje go, jak podkreśla się w doktrynie i orzecznictwie, do umorzenia postępowa‐
+nia, nie ma bowiem wówczas podstaw do rozstrzygnięcia sprawy co do istoty, a dalsze
+prowadzenie postępowania w takim przypadku stanowiłoby o jego wadliwości, mającej
+istotny wpływ na wynik sprawy.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_4/content
+
+2025-09-03 13:43
+

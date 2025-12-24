@@ -1,0 +1,222 @@
+Warszawa, 20 marca 2019
+PRAWOMOCNA
+
+Decyzja
+ZSZZS.440.727.2018
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2017 r. poz. 1257 ze zm.), art. 6 ust. 1 lit. b) i c), art. 9 ust. 2
+lit. b) oraz art. 28 Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia
+27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem da‐
+nych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dy‐
+rektywy 95/46/WE (Dziennik Urzędowy Unii Europejskiej, L 119, 4 maja 2016),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pani M.J., na nie‐
+prawidłowości w procesie przetwarzania jej danych osobowych przez L. Sp. z o.o. polega‐
+jące na udostępnieniu jej danych osobowych osobom nieuprawnionym, Prezes Urzędu
+Ochrony Danych Osobowych
+odmawia uwzględnienia wniosku.
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga, Pani M.J., zwanej dalej Skarżą‐
+cą, na nieprawidłowości w procesie przetwarzania jej danych osobowych przez L. Sp. z
+o.o., zwaną dalej również Spółką, polegające na udostępnieniu jej danych osobowych
+osobom nieuprawnionym.
+W treści skargi Skarżąca wskazała, że w dniu (…) września 2018 r. Spółka będąc jej pra‐
+codawcą postanowiła skontrolować zasadność zwolnienia lekarskiego, na którym przeby‐
+wała. W tym celu do miejsca zamieszkania Skarżącej przyszło dwóch mężczyzn. Jeden z
+nich zapytał cyt. „jak się czuję i poinformował, że ponieważ zastał mnie w domu, nie jest
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_727/content
+
+2025-09-03 14:00
+
+Decyzja ZSZZS.440.727.2018
+
+Strona 2 z 5
+
+zasadne zostawiania mi pisma z prośbą o wyjaśnienie nieobecności”. W związku z po‐
+wyższym Skarżąca wniosła o zobowiązanie osób, którym przekazano jej dane osobowe
+do ich nieudostępniania oraz nałożenie na Spółkę kary administracyjnej.
+W toku prowadzonego postępowania administracyjnego, Prezes Urzędu Ochrony Danych
+Osobowych ustalił następujący stan faktyczny.
+1. Skarżąca była zatrudniona w Spółce na podstawie umowy o pracę na czas nieokre‐
+ślony. W dniu (…) sierpnia 2018 r. ww. umowa została rozwiązana z zachowaniem
+miesięcznego okresu wypowiedzenia. Skarżąca została również zwolniona z obo‐
+wiązku świadczenia pracy. Z uwagi na istniejący pomiędzy Skarżącą a Spółką stosu‐
+nek zatrudnienia, Spółka przetwarzała dane osobowe Skarżącej w celu realizacji
+uprawnień i obowiązków odnoszących się do zatrudnienia pracowników.
+2. W dniu (…) sierpnia 2018 r. Skarżąca przedłożyła zwolnienie lekarskie, w związku z
+czym Spółka w dniu (…) września 2018 r. zleciła firmie zewnętrznej tj. G. Sp. z o.o.
+przeprowadzenie kontroli zasadności wykorzystania tego zwolnienia. Powyższa kon‐
+trola została przeprowadzona przez podmiot, z którym Spółka w dniu (…) sierpnia
+2018 r. zawarła umowę o współpracy na świadczenie usług związanych z kontrolą
+absencji chorobowej pracowników, a także umowę powierzenia przetwarzania da‐
+nych osobowych. Ponadto do przeprowadzenia kontroli zostały imiennie upoważnio‐
+ne dwie osoby tj. Pan S.J. oraz Pan P.P. Spółka udostępniła ww. osobom dane osobo‐
+we Skarżącej w postaci imienia i nazwiska, adresu zamieszkania oraz informacji o
+przebywaniu na zwolnieniu lekarskim w celu sprawdzenia, czy Skarżąca przebywa w
+miejscu zamieszkania, a więc czy wykorzystuje zwolnienie lekarskie zgodnie z jego
+celem. Osoby te poza imiennymi upoważnieniami do przeprowadzenia kontroli nie
+otrzymały żadnych dokumentów zawierających dane osobowe Skarżącej.
+3. Spółka w piśmie z dnia (…) listopada 2018 r. oświadczyła, że zatrudnia ponad 20
+pracowników, a więc zgodnie z § 1 ust. 1 Rozporządzenia Ministra Pracy i Polityki So‐
+cjalnej z dnia 27 lipca 1999 r. w sprawie szczegółowych zasad i trybu kontroli prawi‐
+dłowości wykorzystania zwolnień lekarskich od pracy oraz formalnej kontroli za‐
+świadczeń lekarskich, a także zgodnie z art. 68 ust. 1 ustawy z dnia 25 czerwca
+1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i
+macierzyństwa mogła przeprowadzić przedmiotową kontrolę.
+W tym stanie faktycznym sprawy, Prezes Urzędu zważył co następuje.
+Wskazać należy, że Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. określa obowiązki administratora danych, do których należy
+przetwarzanie danych osobowych z zachowaniem przesłanek określonych w tym Rozpo‐
+rządzeniu. Przepisem uprawniającym administratorów danych do przetwarzania zwy‐
+kłych danych osób fizycznych, w tym ich udostępniania, jest art. 6 ust. 1 RODO, zgodnie
+z którym, przetwarzanie danych jest dopuszczalne tylko wtedy, gdy spełniona jest jedna
+z przesłanek wskazanych w tym przepisie. Katalog przesłanek wymienionych w art. 6
+ust. 1 RODO, jest zamknięty. Każda z przesłanek legalizujących proces przetwarzania da‐
+nych osobowych ma charakter autonomiczny i niezależny. Oznacza to, że przesłanki te
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_727/content
+
+2025-09-03 14:00
+
+Decyzja ZSZZS.440.727.2018
+
+Strona 3 z 5
+
+co do zasady są równoprawne, a wobec tego spełnienie co najmniej jednej z nich stano‐
+wi o zgodnym z prawem przetwarzaniu danych osobowych. W konsekwencji zgoda oso‐
+by, której dane dotyczą nie jest jedyną podstawą przetwarzania danych osobowych, bo‐
+wiem proces przetwarzania danych będzie zgodny z Rozporządzeniem również wówczas,
+gdy administrator danych wykaże spełnienie innej z wyżej wymienionych przesłanek.
+Niezależnie od zgody osoby, której dane dotyczą (art. 6 ust. 1 lit. a) RODO) przetwarza‐
+nie danych osobowych jest dopuszczalne między innymi wtedy, gdy jest to niezbędne do
+wykonania umowy, której stroną jest osoba, której dane dotyczą, lub do podjęcia działań
+na żądanie osoby, której dane dotyczą, przed zawarciem umowy (art. 6 ust. 1 lit. b)
+RODO.), a także gdy jest niezbędne do wypełnienia obowiązku prawnego ciążącego na
+administratorze (art. 6 ust. 1 lit. c) RODO.).
+Natomiast przesłanki legalności przetwarzania szczególnych kategorii danych osobo‐
+wych, w tym danych osobowych dotyczących zdrowia, określone zostały w art. 9 ust. 2
+RODO. Przesłanki te mają charakter autonomiczny, wobec czego aby uznać proces prze‐
+twarzania danych osobowych przez administratora za zgodny z prawem, wystarczy speł‐
+nienie przez niego jednej z tych przesłanek. Sformułowany w art. 9 ust. 2 RODO katalog
+okoliczności legalizujących proces przetwarzania danych wrażliwych obejmuje m.in. zgo‐
+dę osoby, której dane dotyczą (art. 9 ust. 2 lit. a) RODO) czy sytuację, gdy przetwarzanie
+jest niezbędne do wypełnienia obowiązków i wykonywania szczególnych praw przez ad‐
+ministratora lub osobę, której dane dotyczą, w dziedzinie prawa pracy, zabezpieczenia
+społecznego i ochrony socjalnej, o ile jest to dozwolone prawem Unii lub prawem pań‐
+stwa członkowskiego, lub porozumieniem zbiorowym na mocy prawa państwa członkow‐
+skiego przewidującymi odpowiednie zabezpieczenia praw podstawowych i interesów
+osoby, której dane dotyczą (art. 9 ust. 2 lit. b) RODO).
+Wskazania wymaga, że zgodnie z art. 68 ust. 1 ustawy z dnia 25 czerwca 1999 r. o
+świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i
+macierzyństwa (Dz.U.2017.1368 t.j.) płatnicy składek na ubezpieczenie chorobowe, któ‐
+rzy zgłaszają do ubezpieczenia chorobowego powyżej 20 ubezpieczonych, są uprawnieni
+do kontrolowania ubezpieczonych co do prawidłowości wykorzystywania zwolnień od
+pracy zgodnie z ich celem oraz są upoważnieni do formalnej kontroli zaświadczeń lekar‐
+skich. Ponadto na podstawie § 1 ust. 1 Rozporządzenia Ministra Pracy i Polityki Socjalnej
+z dnia 27 lipca 1999 r. w sprawie szczegółowych zasad i trybu kontroli prawidłowości wy‐
+korzystania zwolnień lekarskich od pracy oraz formalnej kontroli zaświadczeń lekarskich
+(Dz.U.1999.65.743), zwanego dalej Rozporządzeniem, kontroli prawidłowości wykorzy‐
+stywania zwolnień lekarskich od pracy z powodu choroby lub konieczności sprawowania
+przez ubezpieczonego opieki nad członkiem rodziny dokonują płatnicy składek na ubez‐
+pieczenie chorobowe, którzy zgłaszają do ubezpieczenia chorobowego powyżej 20 ubez‐
+pieczonych. Kontrola prawidłowości wykorzystywania zwolnień lekarskich od pracy z po‐
+wodu choroby polega na ustaleniu, czy ubezpieczony w okresie orzeczonej niezdolności
+do pracy nie wykonuje pracy zarobkowej lub nie wykorzystuje zwolnienia lekarskiego od
+pracy w sposób niezgodny z jego celem (§ 5 ust. 1 Rozporządzenia). Osobie kontrolującej
+prawidłowość wykorzystywania zwolnień lekarskich od pracy płatnik składek wystawia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_727/content
+
+2025-09-03 14:00
+
+Decyzja ZSZZS.440.727.2018
+
+Strona 4 z 5
+
+imienne upoważnienie, które uprawnia do wykonywania kontroli również w miejscu za‐
+mieszkania, miejscu czasowego pobytu lub miejscu zatrudnienia osoby kontrolowanej.
+Wzór upoważnienia stanowi załącznik nr 1 do Rozporządzenia (§8 Rozporządzenia).
+Z wyjaśnień Spółki przysłanych przy piśmie z dnia (…) listopada 2018 r. wynika, że za‐
+trudnia ona ponad 20 pracowników. W związku z powyższym, należy stwierdzić, że Spół‐
+ka, zgodnie z obowiązującymi przepisami prawnymi, mogła przeprowadzić kontrolę za‐
+sadności wykorzystania przez Skarżącą zwolnienia lekarskiego. Kontrola została przepro‐
+wadzona przez podmiot, z którym Spółka w dniu (…) sierpnia 2018 r. zawarła umowę
+określającą warunki współpracy w zakresie realizacji usług związanych z kontrolą doty‐
+czącą absencji chorobowych pracowników i doradztwa w tym zakresie oraz umowę po‐
+wierzenia przetwarzania danych osobowych. Zgodnie z art. 28 ust. 3 RODO przetwarza‐
+nie danych osobowych przez podmiot przetwarzający odbywa się na podstawie umowy
+lub innego instrumentu prawnego, które podlegają prawu Unii lub prawu państwa człon‐
+kowskiego i wiążą podmiot przetwarzający i administratora, określają przedmiot i czas
+trwania przetwarzania, charakter i cel przetwarzania, rodzaj danych osobowych oraz ka‐
+tegorie osób, których dane dotyczą, obowiązki i prawa administratora. Na podstawie § 1
+umowy powierzenia przetwarzania danych osobowych Spółka, będąc administratorem
+danych, powierzyła podmiotowi przetwarzającemu dane osobowe do przetwarzania w
+celu umożliwienia temu podmiotowi wykonywania obowiązków wynikających z umowy o
+współpracy z dnia (…) sierpnia 2018 r. dot. m.in. realizacji usług związanych z kontrolą
+absencji chorobowych pracowników Spółki. Zgodnie z § 3 przedmiotowej umowy podmiot
+przetwarzający został uprawniony do przetwarzania danych osobowych pracowników
+Spółki wyłącznie w zakresie: imienia i nazwiska, adresu zamieszkania, telefonu, numeru
+PESEL oraz informacji o przebywaniu na zwolnieniu lekarskim. Ponadto na mocy posta‐
+nowień umownych podmiot przetwarzający zobowiązał się do dołożenia należytej staran‐
+ności przy przetwarzaniu powierzonych mu danych osobowych, do ich zabezpieczenia
+przez stosowanie odpowiednich środków technicznych i organizacyjnych zapewniających
+adekwatny stopień bezpieczeństwa odpowiadający ryzyku związanemu z przetwarza‐
+niem danych osobowych oraz do zachowania w tajemnicy danych osobowych otrzyma‐
+nych od administratora. Umowa powierzenia przetwarzania danych osobowych została
+zawarta na czas nieokreślony do momentu trwania umowy o współpracy w zakresie re‐
+alizacji usług związanych z kontrolą dotyczącą absencji chorobowych pracowników i
+doradztwa w tym zakresie.
+Mając powyższe na uwadze należy stwierdzić, że obowiązujące przepisy prawne nie
+ograniczają możliwości powierzenia przez pracodawcę przeprowadzenia kontroli wyko‐
+rzystania zwolnienia lekarskiego niezgodnie z jego celem podmiotowi zewnętrznemu, co
+też miało miejsce w niniejszej sprawie. Wskazania również wymaga, że ww. podmiot,
+zgodnie z art. 28 ust. 3 RODO, był uprawniony do przetwarzania danych osobowych
+Skarżącej na podstawie umowy powierzenia przetwarzania danych osobowych zawartej
+ze Spółką w dniu (…) sierpnia 2018 r. Ponadto przedmiotowa kontrola została przeprowa‐
+dzona przez osoby posiadające do tego imienne upoważnienia, które są zgodne ze wzo‐
+rem upoważnienia stanowiącego załącznik do 1 do Rozporządzenia. Na podstawie ww.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_727/content
+
+2025-09-03 14:00
+
+Decyzja ZSZZS.440.727.2018
+
+Strona 5 z 5
+
+upoważnień osoby przeprowadzające kontrolę były uprawnione do jej przeprowadzenia
+w miejscu zamieszkania Skarżącej. Ponadto Spółka przekazała ww. osobom dane osobo‐
+we Skarżącej w postaci imienia, nazwiska, adresu zamieszkania oraz informacji o przeby‐
+waniu na zwolnieniu lekarskim, a więc dane w zakresie wynikającym z umowy powierze‐
+nia przetwarzania danych osobowych, które były niezbędne do przeprowadzenia
+przedmiotowej kontroli.
+Wskazać należy, że Spółka przeprowadzając w dniu (…) września 2018 r. kontrolę zasad‐
+ności wykorzystania zwolnienia lekarskiego przez Skarżącą skorzystała z przysługujące‐
+go jej uprawnienia określonego w art. 68 ust. 1 ustawy z dnia 25 czerwca 1999 r. o
+świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyń‐
+stwa oraz w § 1 Rozporządzenia Ministra Pracy i Polityki Socjalnej z dnia 27 lipca 1999 r.
+w sprawie szczegółowych zasad i trybu kontroli prawidłowości wykorzystania zwolnień
+lekarskich od pracy oraz formalnej kontroli zaświadczeń lekarskich, co stanowi wypełnie‐
+nie przesłanki legalizującej proces przetwarzania danych osobowych, na podstawie art. 6
+ust. 1 lit. b) i c) RODO w zakresie zwykłych danych osobowych Skarżącej oraz art. 9 ust.
+2 lit. b) RODO w zakresie danych dot. stanu zdrowia.
+Ocena dokonywana przez Prezesa Urzędu Ochrony Danych Osobowych w każdym przy‐
+padku służy zbadaniu zasadności skierowania pod adresem określonego podmiotu naka‐
+zu, odpowiadającego dyspozycji art. 58 ust. 2 RODO, służącego przywróceniu stanu
+zgodnego z prawem, w procesie przetwarzania danych - jest więc ona uzasadniona i po‐
+trzebna tylko o tyle, o ile nieprawidłowości w procesie przetwarzania danych osobowych
+istnieją. W ocenie Prezesa Urzędu Ochrony Danych Osobowych nie ma podstaw do
+stwierdzenia, iż dane osobowe Skarżącej były przetwarzane przez Spółkę w sposób nie‐
+zgodny z RODO. Skarżony proces znajdował bowiem oparcie w art. 28 RODO w zw. z
+przesłankami określonymi w art. 6 ust. 1 lit. b) i c) RODO w zakresie tzw. zwykłych da‐
+nych tj. imienia, nazwiska i adresu zamieszkania oraz art. 9 ust. 2 lit. b) RODO w
+zakresie danych dot. stanu zdrowia Skarżącej.
+W tym stanie faktycznym i prawnym, Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_727/content
+
+2025-09-03 14:00
+

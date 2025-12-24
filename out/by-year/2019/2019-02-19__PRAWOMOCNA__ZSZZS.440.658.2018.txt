@@ -1,0 +1,257 @@
+Warszawa, 19 lutego 2019
+PRAWOMOCNA
+
+Decyzja
+ZSZZS.440.658.2018
+
+Na podstawie art. 104 § 1 oraz art. 105 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks
+postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149)
+oraz art. art. 6 ust. 1 lit. f i art. 58 ust. 2 Rozporządzenia Parlamentu Europejskiego i
+Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (Dziennik Urzędowy Unii Europejskiej, L 119,
+4 maja 2016),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana P.P. doty‐
+czącej nieprawidłowości w przetwarzaniu jego danych osobowych przez F. sp. z o.o. pole‐
+gające na wykorzystaniu jego głosu w zapowiedzi słownej na telefonie firmowym o nu‐
+merze (…) oraz adresu mailowego (…), Prezes Urzędu Ochrony Danych Osobowych
+1. odmawia uwzględnienia wniosku w zakresie przetwarzania danych osobowych Pana
+P.P. w zakresie adresu mailowego (…) przez F. sp. z o.o.;
+2. umarza postępowanie w pozostałym zakresie.
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pana P.P., zwanego dalej Skar‐
+żącym, dotycząca nieprawidłowości w przetwarzaniu jego danych osobowych przez F. sp.
+z o.o., zwanej dalej Spółką, polegające na wykorzystaniu jego głosu w zapowiedzi słow‐
+nej na telefonie firmowym o numerze (…) oraz adresu mailowego (…). W treści skargi
+Skarżący wskazał, iż pomimo braku jego zgody oraz zapisów porozumienia pomiędzy
+nim a Spółką, jego dane osobowe są nadal przetwarzane.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_658/content
+
+2025-09-03 14:01
+
+Decyzja ZSZZS.440.658.2018
+
+Strona 2 z 6
+
+W toku prowadzonego postępowania administracyjnego, Prezes Urzędu Ochrony Danych
+Osobowych ustalił następujący stan faktyczny.
+1. Skarżący był wspólnikiem w Spółce. Po zbyciu udziałów w kapitale zakładowym oraz
+rezygnacji z udziału w zarządzie Spółki, w dniu (…).08.2018 r. podpisał Porozumienie
+ze Spółką, które obligowało Spółkę do usunięcia między innymi nagrania głosowego
+z zapowiedzi słownej odtwarzanej przy połączeniu z ww. numerem telefonu oraz
+dezaktywacji ww. skrzynki mailowej.
+2. W wyjaśnieniach, Prezes Zarządu Spółki wskazał, iż Spółka dezaktywowała ww. ad‐
+res mailowy, i wykorzystuje go jedynie do wysyłania automatycznej odpowiedzi o
+treści, cyt. „Szanowni Państwo, Informujemy, że od dnia (…).08.2018 P.P. nie jest
+pracownikiem firmy F. sp. z o.o., a jego konto mailowe jest zdezaktywowane. Prosi‐
+my o przesyłanie wszelkiej korespondencji na adres (…). Z poważaniem, F.” (pisow‐
+nia oryginalna).
+3. Spółka wskazała również, że zaprzestała korzystania z nagrania głosowego wykorzy‐
+stującego głos Skarżącego na telefonie firmowym i obecnie wykorzystuje nagranie
+zapowiedzi głosowej przygotowane przez zewnętrzną firmę.
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+Konieczne jest podkreślenie, że Prezes Urzędu Ochrony Danych Osobowych wydając de‐
+cyzję administracyjną, zobowiązany jest do rozstrzygania sprawy w oparciu o stan fak‐
+tyczny istniejący w chwili wydania tej decyzji. Jak podnosi się w doktrynie „organ admini‐
+stracji publicznej ocenia stan faktyczny sprawy według chwili wydania decyzji admini‐
+stracyjnej. Reguła ta odnosi się także do oceny stanu prawnego sprawy, co oznacza, że
+organ administracji publicznej wydaje decyzję administracyjną na podstawie przepisów
+prawa obowiązujących w chwili jej wydania (…). Rozstrzyganie w postępowaniu admini‐
+stracyjnym polega na zastosowaniu obowiązującego prawa do ustalonego stanu faktycz‐
+nego sprawy administracyjnej. W ten sposób organ administracji publicznej realizuje cel
+postępowania administracyjnego, jakim jest urzeczywistnienie obowiązującej normy
+prawnej w zakresie stosunków administracyjno-prawnych, gdy stosunki te tego wymaga‐
+ją” (Komentarz do ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyj‐
+nego M. Jaśkowska, A. Wróbel, Lex., el/2012). Ponadto, w wyroku z dnia 7 maja 2008 r. w
+sprawie o sygn. akt I OSK 761/07, Naczelny Sąd Administracyjny stwierdził, iż „badając
+(…) legalność przetwarzania danych osobowych, GIODO ma obowiązek ustalenia, czy na
+datę wydawania rozstrzygnięcia w sprawie dane konkretnego podmiotu są przetwarzane
+oraz czy czynione to jest w sposób zgodny z prawem”.
+W przedmiotowej sprawie zastosowanie mają obecnie obowiązujące przepisy o ochronie
+danych osobowych, tj. Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem
+danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dy‐
+rektywy 95/46/WE (Dziennik Urzędowy Unii Europejskiej, L 119, 4 maja 2016), zwane
+dalej: RODO.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_658/content
+
+2025-09-03 14:01
+
+Decyzja ZSZZS.440.658.2018
+
+Strona 3 z 6
+
+Odnosząc się do wykorzystywania przez Spółkę adresu mailowego zawierającego imię i
+nazwisko Skarżącego, wskazać należy co następuje. Ze zgromadzonego w sprawie mate‐
+riału dowodowego wynika, iż Spółka, jako były pracodawca Skarżącego, nadal posiada
+aktywny ww. adres e-mail, który był przypisany do niego w trakcie pełnienia obowiąz‐
+ków, tym samym jest administratorem danych zgodnie z treścią art. 4 ust. 7 RODO,
+który stanowi, że administratorem danych jest cyt. „podmiot, który samodzielnie lub
+wspólnie z innymi ustala cele i sposoby przetwarzania danych osobowych”. Przedmioto‐
+wa sprawa dotyczy danych z zakresu tzw. „danych zwykłych”, których przetwarzanie re‐
+gulowane jest w art. 6 ust. 1 i zgodnie z którym, przetwarzanie danych osobowych jest
+dopuszczalne tylko wtedy, gdy spełniona jest jedna z przesłanek wskazanych w tym
+przepisie. Katalog przesłanek wymienionych w art. 6 ust. 1 RODO, jest zamknięty. Każda
+z przesłanek legalizujących proces przetwarzania danych osobowych ma charakter auto‐
+nomiczny i niezależny. Oznacza to, że przesłanki te co do zasady są równoprawne, a wo‐
+bec tego spełnienie co najmniej jednej z nich stanowi o zgodnym z prawem przetwarza‐
+niu danych osobowych. Zgodnie z art. 6 ust. 1 lit. a, podstawę przetwarzania może sta‐
+nowić zgoda osoby, której dane dotyczą. W przedmiotowej sprawie Spółka nie dysponuje
+zgodą Skarżącego na przetwarzanie jego danych osobowych w postaci adresu mailowe‐
+go (…). Niezależnie od zgody osoby, której dane dotyczą, przetwarzanie danych osobo‐
+wych jest dopuszczalne, gdy przetwarzanie jest niezbędne do celów wynikających z
+prawnie uzasadnionych interesów realizowanych przez administratora (lit. f). Dodatko‐
+wo, proces przetwarzania danych osobowych musi być zgodny z zasadami ustanowiony‐
+mi w art. 5 ust. 1 RODO. Do zasad tych zalicza się między innymi ograniczenie celu prze‐
+twarzania (lit. b), jak również minimalizacja przetwarzanych danych (lit. c). Wspomniane
+zasady wymagają, by proces przetwarzania był ukierunkowany na konkretny, wyraźny i
+prawnie uzasadniony cel, a także by zakres danych osobowych przetwarzanych na rzecz
+określonego celu był ograniczony do jak najmniejszego.
+Wskazać należy, że Skarżącego oraz Spółkę łączyła umowa, zgodnie z którą Skarżący
+jako wspólnik oraz wiceprezes Spółki był odpowiedzialny za prowadzenie jej spraw i kon‐
+takt z kontrahentami. Po zakończeniu współpracy Spółka wykorzystuje adres mailowy
+Pana P. jedynie w celu poinformowania kontrahentów o zmianach jakie nastąpiły we wła‐
+dzach Spółki, które odbywa się za pomocą automatycznej odpowiedzi kierowanej do kon‐
+trahenta zainteresowanego kontaktem ze Skarżącym. Komunikat obejmuje informację o
+tym, że Skarżący nie jest już zatrudniony w Spółce oraz wskazanie pod jakim adresem
+mailowym można kontaktować się z aktualnymi przedstawicielami Spółki. W ocenie Pre‐
+zesa Urzędu tego rodzaju działanie można potraktować jako prawnie usprawiedliwiony
+interes administratora danych, w rozumieniu art. 6 ust. 1 lit. f RODO. Jak wskazuje za‐
+równo art. 6 ust. 1 lit. f oraz motyw 47 RODO, prawnie uzasadnione interesy administra‐
+tora mogą stanowić podstawę do przetwarzania tylko w sytuacji, w której mają one nad‐
+rzędny charakter w stosunku do interesów lub podstawowych praw i wolności osób któ‐
+rej dane dotyczą. Oczekiwania co do ochrony i nadrzędności interesów i praw osób któ‐
+rych dane dotyczą powinny być rozsądne. Prezes Urzędu podziela stanowisko, że oma‐
+wiana przesłanka wymaga pogłębionej analizy stanu faktycznego (zob. również: Chomi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_658/content
+
+2025-09-03 14:01
+
+Decyzja ZSZZS.440.658.2018
+
+Strona 4 z 6
+
+czewski, Witold. Prawnie uzasadniony interes jako przesłanka legalizująca przetwarzanie
+danych – pojęcie. System Informacji Prawnej LEX, dostępny pod adresem: https://
+sip.lex.pl/#/publication/470099706). Po pierwsze, ocenić należy obecność prawnie uza‐
+sadnionego interesu administratora, który jak wskazano wyżej utożsamiony jest w przed‐
+miotowej sprawie z przekazaniem informacji o aktualnych władzach spółki oraz możliwo‐
+ściach kontaktu z nimi. Ocenić należy również niezbędność przetwarzania danych osobo‐
+wych dla realizacji tego celu oraz uwzględnienie w procesie zasady minimalizacji danych
+w związku z art. 5 ust. 1 lit. c RODO. W przedmiotowej sprawie koniecznym dla ochrony
+uzasadnionego interesu Spółki jest by poinformować kontrahentów, podejmujących pró‐
+by nawiązania kontaktu ze Spółką poprzez adres mailowy opatrzony danymi Skarżącego,
+o aktualnych władzach Spółki i ścieżkach kontaktu. Co więcej, trwający proces przetwa‐
+rzania odbywa się z poszanowaniem dla wyżej wskazanych zasad, w związku z ograni‐
+czonym celem przetwarzania jak i ograniczeniem zakresu przetwarzanych danych Skar‐
+żącego do adresu mailowego składającego się z imienia i nazwiska oraz informacji o
+tym, że nie jest już pracownikiem Spółki. Należy wskazać, iż art. 6 ust. 1 lit. f RODO wy‐
+maga również, by uzasadniony interes administratora miał nadrzędny charakter w sto‐
+sunku do interesów oraz podstawowych praw osoby, której dane dotyczą. W przedmioto‐
+wej sprawie uznać należy, że interes realizowany przez Spółkę ma taki charakter. Dane
+Skarżącego są używane przez Spółkę jedynie w sytuacjach, gdy klient podejmie próbę
+kontaktu i jedynie w celu wskazania aktualnych danych kontaktowych do Spółki. Adres
+mailowy zawierający imię i nazwisko Skarżącego nie jest aktywnie wykorzystywany
+przez Spółkę do pozyskiwania nowych klientów bądź wskazywania na powiązanie pomię‐
+dzy Skarżącym a Spółką. Przy ocenie nadrzędności interesów jednej ze stron w doktrynie
+podkreśla się znaczenie między innymi relację pomiędzy podmiotem danych a admini‐
+stratorem (zob. Chomiczewski, Witold. Prawnie uzasadniony interes jako przesłanka le‐
+galizująca przetwarzanie danych – pojęcie. System Informacji Prawnej LEX). W przedmio‐
+towej sprawie Skarżący, jako były członek zarządu Spółki zajmował się klientami oraz
+sprawami Spółki. Konsekwencją prowadzenia tego kontaktu, jest obecne przetwarzanie
+przez Spółkę adresu mailowego Skarżącego, w związku z koniecznością utrzymania kon‐
+taktu z klientami. Uwzględnić należy również, że adres ten przetwarzany jest w sposób
+ograniczony, jedynie w celu informacyjnym. W automatycznej odpowiedzi zawarta jest
+również informacja, że Skarżący nie jest już pracownikiem Spółki, co jednoznacznie
+wskazuje na brak trwającej relacji pomiędzy Skarżącym a Spółką. Wobec powyższego
+należy uznać, że spełniona jest przesłanka art. 6 ust. 1 lit. f RODO i przetwarzanie adre‐
+su mailowego Skarżącego należy uznać za zgodne z obowiązującymi przepisami o
+ochronie danych osobowych.
+Odnosząc się natomiast do wykorzystywania przez Spółkę głosu Skarżącego w zapowie‐
+dzi głosowej telefonu firmowego o numerze (…), wskazać należy iż Prezes Urzędu Ochro‐
+ny Danych Osobowych działając na podstawie i w granicach kompetencji przyznanych
+mu przepisami RODO, wydając decyzję bada stan faktyczny i prawny na dzień wydania
+decyzji. Dlatego też z uwagi na to, że dane osobowe Skarżącego, zgodnie ze zgromadzo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_658/content
+
+2025-09-03 14:01
+
+Decyzja ZSZZS.440.658.2018
+
+Strona 5 z 6
+
+nym materiałem dowodowym, nie są obecnie przetwarzane przez Spółkę, dalsze prowa‐
+dzenie postępowania w tym zakresie należy uznać za bezprzedmiotowe.
+Zgodnie z art. 105 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. 2017 r. poz. 1257 oraz z 2018 r. poz. 149), zwanej dalej Kpa,
+gdy postępowanie z jakiejkolwiek przyczyny stało się bezprzedmiotowe, organ admini‐
+stracji wydaje decyzję o umorzeniu postępowania. Przedmiot postępowania wiąże się ze
+stosowaniem przez organ publiczny przepisów materialnego prawa administracyjnego.
+W doktrynie wskazuje się, że cyt.: „bezprzedmiotowość postępowania administracyjne‐
+go, o której stanowi art. 105 § 1 kpa, oznacza, że brak jest któregoś z elementów mate‐
+rialnego stosunku prawnego, a wobec tego nie można wydać decyzji załatwiającej spra‐
+wę przez rozstrzygnięcie jej co do istoty. Przesłanka umorzenia postępowania może ist‐
+nieć jeszcze przed wszczęciem postępowania, co zostanie ujawnione dopiero w toczą‐
+cym się postępowaniu, a może ona powstać także w czasie trwania postępowania, a
+więc w sprawie już zawisłej przed organem administracyjnym.” (B. Adamiak, J. Borkow‐
+ski, Kodeks postępowania administracyjnego. Komentarz, C.H.Beck, Warszawa 2006, s.
+489).
+Ustalenie przez organ publiczny zaistnienia przesłanki, o której mowa w art. 105 § 1 Kpa,
+zobowiązuje go, jak podkreśla się w doktrynie i orzecznictwie, do umorzenia postępowa‐
+nia, nie ma bowiem w sytuacji zaistnienia tej przesłanki podstaw do rozstrzygnięcia spra‐
+wy co do istoty, a dalsze prowadzenie postępowania w takim przypadku stanowiłoby o
+jego wadliwości, mającej istotny wpływ na wynik sprawy. Bezprzedmiotowość postępo‐
+wania może być także wynikiem zmiany stanu faktycznego sprawy. Jednocześnie niniej‐
+szy organ podziela stanowisko wyrażone przez Naczelny Sąd Administracyjny w wyroku z
+dnia 25 listopada 2013 r., wydanym w sprawie o sygn. akt I OPS 6/1, w którym ww. Sąd
+wskazał cyt.: „W postępowaniu administracyjnym, regulowanym przepisami Kodeksu po‐
+stępowania administracyjnego, zasadą jest, że organ administracji publicznej załatwia
+sprawę przez wydanie decyzji, która rozstrzyga sprawę co do jej istoty, według stanu
+prawnego i faktycznego na dzień wydania decyzji”. Co więcej, ocena dokonywana przez
+Prezesa Urzędu w każdym przypadku służy zbadaniu legalności trwającego procesu prze‐
+twarzania danych osobowych. Poza kompetencją Prezesa Urzędu jest dokonywanie oce‐
+ny legalności nieistniejących procesów przetwarzania danych osobowych. Postępowanie
+prowadzone przez Prezesa ukierunkowane jest na przywrócenie stanu zgodnego z pra‐
+wem, poprzez wydanie dyspozycji z art. 58 ust. 2 RODO. Jednakże, jeśli proces przetwa‐
+rzania danych osobowych nie istnieje, nie ma możliwości dokonać oceny jego zgodności
+z prawem, co uniemożliwia ustalenie potrzeby przywrócenia stanu zgodnego z prawem.
+Postępowanie administracyjne prowadzone przez Prezesa Urzędu Ochrony Danych Oso‐
+bowych służy kontroli zgodności przetwarzania danych z przepisami o ochronie danych
+osobowych i jest ukierunkowane na wydanie decyzji administracyjnej na podstawie art.
+58 RODO, na podstawie którego organ nadzorczy może wydać ostrzeżenie administrato‐
+rowi lub podmiotowi przetwarzającemu dotyczących możliwości naruszenia przepisów
+poprzez planowane operacje przetwarzania (art. 58 ust. 2 lit. a), udzielanie upomnień
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_658/content
+
+2025-09-03 14:01
+
+Decyzja ZSZZS.440.658.2018
+
+Strona 6 z 6
+
+administratorowi lub podmiotowi przetwarzającemu w przypadku naruszenia przepisów
+niniejszego przez operacje przetwarzania (art. 58 ust. 2 lit. b), nakazanie administratoro‐
+wi lub podmiotowi przetwarzającemu spełnienia żądania osoby, której dane dotyczą (art.
+58 ust. 2 lit. c), nakazanie administratorowi lub podmiotowi przetwarzającemu dostoso‐
+wanie operacji przetwarzania do obowiązujących przepisów (art. 58 ust. 2 lit. d), nakaza‐
+nie administratorowi zawiadomienia o naruszeniu osoby, której dane dotyczą (art. 58
+ust. 2 lit. e), wprowadzenie czasowego lub całkowitego ograniczenia przetwarzania (art.
+58 ust. 2 lit. f), nakazanie sprostowania lub usunięcia danych, ograniczenie przetwarza‐
+nia danych, nakazanie powiadomienia o tych czynnościach odbiorców, którym dane
+ujawniono (art. 58 ust. 2 lit. g), zastosowanie administracyjnej kary pieniężnej (art. 58
+ust. 2 lit. i), nakazanie zawieszenia przepływu danych do odbiorcy w państwie trzecim
+lub organizacji międzynarodowej (art. 58 ust. 2 lit. j).
+W tym stanie faktycznym oraz prawnym Prezes Urzędu Ochrony Danych Osobowych
+orzekł, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zszzs_440_658/content
+
+2025-09-03 14:01
+

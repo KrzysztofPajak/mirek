@@ -1,0 +1,283 @@
+Warszawa, 16 grudnia 2022
+PRAWOMOCNA
+
+Decyzja
+DKE.561.29.2022
+
+Na podstawie art. 104 § l ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. 2022 r., poz. 2000 ze zm.) w związku z art. 7 ust. 1 i 2 i art. 60
+ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781)
+oraz na podstawie art. 58 ust. 2 lit. b) w związku z art. 58 ust. 1 lit. a) i e) Rozporządze‐
+nia Parlamentu Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie
+ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne
+rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 4 maja 2016, str. 1, ze zmianami
+ogłoszonymi w Dz. Urz. UE L 127 z 23 maja 2018, str. 2, oraz w Dz. Urz. UE L 74 z 4
+marca 2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w przedmiocie nałożenia admini‐
+stracyjnej kary pieniężnej na D. Sp. z o.o. z siedzibą w K. przy ul. (…), Prezes Urzędu
+Ochrony Danych Osobowych
+udziela upomnienia D. Sp. z o.o. z siedzibą w K. przy ul. (…) za naruszenie przepisów art.
+58 ust. 1 lit. a) i e) Rozporządzenia Parlamentu Europejskiego i Rady UE 2016/679 i Rady
+UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 4 maja 2016, str. 1, ze zmiana‐
+mi ogłoszonymi w Dz. Urz. UE L 127 z 23 maja 2018, str. 2, oraz w Dz. Urz. UE L 74 z 4
+marca 2021, str. 35), polegające na niezapewnieniu Prezesowi Urzędu Ochrony Danych
+Osobowych dostępu do danych osobowych i informacji niezbędnych do realizacji jego
+zadań w postępowaniu o sygn. DS.523.4141.2022.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dke_561_29/content
+
+2025-09-03 13:35
+
+Decyzja DKE.561.29.2022
+
+Strona 2 z 7
+
+Uzasadnienie
+
+Stan faktyczny
+W dniu 18 lipca 2022 r. do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pani B.
+B., zam. w K. przy ul. (…) (zwaną dalej „Skarżącą”), na nieprawidłowości w procesie
+przetwarzania jej danych osobowych polegające na przetwarzaniu danych osobowych
+bez podstawy prawnej oraz udostępnieniu jej danych osobowych na rzecz Narodowego
+Funduszu Zdrowia bez podstawy prawnej przez D. Sp. z o.o. z siedzibą w K. (zwaną dalej
+„Spółką”). W związku z powyższym, Prezes Urzędu Ochrony Danych Osobowych (zwany
+dalej „Prezesem UODO”) wszczął postępowanie wyjaśniające o sygn. DS.523.4141.2022.
+W ramach wyżej wskazanego postępowania (zob. pkt 1 uzasadnienia niniejszej decyzji),
+Prezes UODO zwrócił się do Spółki – pismem z 3 sierpnia 2022 r. – z wezwaniem do
+odpowiedzi na poniższe pytania:
+„
+1) czy, a jeśli tak, to na jakiej podstawie prawnej (należy wskazać konkretny prze‐
+pis prawa), w jakim celu i w jakim zakresie Spółka przetwarza aktualnie dane
+osobowe Skarżącej;
+2) czy doszło do udostępnienia danych osobowych Skarżącej na rzecz Narodowego
+Funduszu Zdrowia w związku ze zgłoszeniem Skarżącej w potencjale personelu
+Spółki, jako świadczeniodawcy w zakresie świadczenia psychiatrycznego ambu‐
+latoryjnego dla dorosłych, a jeżeli tak to kiedy, na jakiej podstawie prawnej, w
+jakim celu i w jakim zakresie dane te zostały udostępnione;
+3) czy, a jeśli tak, to na jakiej podstawie prawnej (należy wskazać konkretne prze‐
+pisy prawa), w jakim celu, w jakim zakresie Spółka przetwarzała dane osobowe
+Skarżącej w listopadzie i grudniu 2020 r. od momentu, w którym Skarżąca
+"została zawieszona w pracy w poradni";
+4) czy Spółka dokonała zgłoszenia do Narodowego Funduszu Zdrowia w związku z
+tym, że Skarżąca "została zawieszona w pracy w poradni" w okresie listopada i
+grudnia 2020 r.;
+5) czy, a jeśli tak, to kiedy Skarżąca zwróciła się do Spółki ze sprzeciwem wobec
+wykazywania jej w potencjale personelu Spółki i udostępniania jej danych oso‐
+bowych na rzecz NFZ; jakie było stanowisko Spółki w tym zakresie i kiedy Spół‐
+ka udzieliła Skarżącej odpowiedzi na jej żądanie (proszę o przesłanie korespon‐
+dencji w tym zakresie), a jeżeli Spółka nie udzieliła odpowiedzi Skarżącej na jej
+żądanie, to należy wskazać powody nieudzielenia odpowiedzi.”
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dke_561_29/content
+
+2025-09-03 13:35
+
+Decyzja DKE.561.29.2022
+
+Strona 3 z 7
+
+Wezwanie, wysłane na adres siedziby Spółki, tj. ul. (…) K., nie zostało odebrane przez
+Spółkę i wróciło do Urzędu Ochrony Danych Osobowych (zwany dalej „UODO”) z adnota‐
+cją „ZWROT nie podjęto w terminie”.
+Pismem z 1 września 2022 r. Prezes UODO ponownie zwrócił się do Spółki z wezwaniem
+do odpowiedzi na wskazane wyżej pytania (zob. pkt 2 uzasadnienia niniejszej decyzji).
+Ponadto, skierowane do Spółki wezwanie z 1 września 2022 r. zawierało pouczenie wska‐
+zujące, że niezłożenie wyjaśnień może skutkować nałożeniem na Spółkę administracyj‐
+nej kary pieniężnej zgodnie z art. 83 ust. 4 lit. a) lub 83 ust. 5 lit. e) Rozporządzenia Par‐
+lamentu Europejskiego i Rady UE 2016/679 i Rady UE 2016/679 z dnia 27 kwietnia 2016
+r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i
+w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+(Dz. Urz. UE L 119 z 4 maja 2016, str. 1 ze zm.) (zwanego dalej „Rozporządzeniem
+2016/679”). Wezwanie to, również wysłane na adres siedziby Spółki (zob. pkt 2 uzasad‐
+nienia niniejszej decyzji), nie zostało odebrane przez Spółkę i wróciło do UODO z adnota‐
+cją „ZWROT nie podjęto w terminie”.
+Powyższe okoliczności stanu faktycznego Prezes UODO ustalił na podstawie całokształtu
+korespondencji urzędowej, prowadzonej pomiędzy Spółką a Prezesem UODO, znajdującej
+się w aktach postępowania o sygn. DS.523.4141.2022. Korespondencja ta odzwierciedla
+całokształt prób uzyskania przez Prezesa UODO dostępu do informacji niezbędnych do
+realizacji jego zadań, to jest w tym przypadku – do rozpatrzenia sprawy o sygn. DS.
+523.4141.2022, a z drugiej strony – reakcji Spółki na żądania Prezesa UODO.
+
+Postępowanie
+W związku z nieudzieleniem przez Spółkę wiążących i mających moc dowodową
+informacji, niezbędnych do rozstrzygnięcia sprawy o sygn. DS.523.4141.2022, Prezes
+UODO pismem z 14 października 2022 r. wszczął z urzędu – na podstawie art. 83 ust. 5
+lit. e) Rozporządzenia 2016/679 – niniejsze postępowanie administracyjne o sygn. DKE.
+561.29.2022, w przedmiocie nałożenia administracyjnej kary pieniężnej, w związku z na‐
+ruszeniem art. 58 ust. 1 lit. a) i e) Rozporządzenia 2016/679. O wszczęciu postępowania
+Spółka została poinformowana pismem z 14 października 2022 r. (znak: DKE.
+561.29.2022, doręczonym Spółce 3 listopada 2022 r. Pismem tym, Spółka została zobo‐
+wiązana – celem ustalenia podstawy wymiaru kary, w oparciu o art. 101a ust. 1 ustawy z
+dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781, zwanej
+dalej „u.o.d.o”) – do doręczenia informacji o osiągniętych dochodach za rok 2021, a po‐
+nadto została zobowiązana do udzielenia wyczerpujących wyjaśnień w postępowaniu o
+sygn. DS.523.4141.2022.
+W odpowiedzi na informację o wszczęciu przez Prezesa UODO postępowania w przed‐
+miocie nałożenia administracyjnej kary pieniężnej – pismem z 15 listopada 2022 r. –
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dke_561_29/content
+
+2025-09-03 13:35
+
+Decyzja DKE.561.29.2022
+
+Strona 4 z 7
+
+Spółka udzieliła wyczerpujących odpowiedzi na zadane jej pytania przez Prezesa UODO
+w wezwaniach z 3 sierpnia 2022 r. i 1 września 2022 r. (zob. pkt 2 uzasadnienia
+niniejszej decyzji) oraz oświadczyła, że „aktualnie nie przetwarza danych osobowych
+Skarżącej”. Spółka wskazała również przyczynę braku reakcji na postępowanie
+prowadzone pod sygn. DS.523.4141.2022, w postaci zaniedbań pracownika operatora
+pocztowego, który nie wykonywał należycie swoich obowiązków, doprowadził do licznych
+absencji, które nie były realizowane w formie zastępstwa, co poskutkowało brakiem pra‐
+widłowego doręczenia pism w rejonie Os. (…). Spółka również poinformowała, że w wyni‐
+ku licznych skarg mieszkańców, od października 2022 r. nastąpiła zmiana pracownika
+operatora pocztowego, obsługującego rejon, w którym znajduje się siedziba Spółki. Do
+wskazanego wyżej pisma, zostało załączone potwierdzenie zwrotu korespondencji, celem
+uprawdopodobnienia, że Spółka w danym okresie czasu nie otrzymała od operatora
+pocztowego korespondencji, w tym również zawiadomienia o pozostawieniu pisma wraz
+z informacją o możliwości jego odbioru (tzw. „awizo”). W ramach niniejszej odpowiedzi,
+Spółka wskazała numery kontaktowe dla usprawnienia komunikacji w przedmiotowym
+postępowaniu.
+Po zapoznaniu się z całością materiału dowodowego zebranego w sprawie, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+
+Przepisy prawne
+Zgodnie z art. 57 ust. 1 lit. a) Rozporządzenia 2016/679, Prezes UODO, jako organ nad‐
+zorczy w rozumieniu art. 51 Rozporządzenia 2016/679, na swoim terytorium monitoruje i
+egzekwuje stosowanie tego rozporządzenia. W ramach swoich kompetencji Prezes UODO
+rozpatruje m.in. skargi wniesione przez osoby, których dane dotyczą, w odpowiednim za‐
+kresie prowadzi postępowania w przedmiocie tych skarg i w rozsądnym terminie infor‐
+muje skarżącego o postępach i wynikach tych postępowań (art. 57 ust. 1 lit. f)
+Rozporządzenia 2016/679).
+Dla umożliwienia realizacji tak określonych zadań Prezesowi UODO przysługuje szereg
+określonych w art. 58 ust. 1 Rozporządzenia 2016/679 uprawnień w zakresie prowadzo‐
+nych postępowań, w tym uprawnienie do nakazania administratorowi i podmiotowi prze‐
+twarzającemu dostarczenia wszelkich informacji potrzebnych do realizacji jego zadań
+(art. 58 ust. 1 lit. a) Rozporządzenia 2016/679) oraz uprawnienie do uzyskania od admi‐
+nistratora i podmiotu przetwarzającego dostępu do wszelkich danych osobowych i wszel‐
+kich informacji niezbędnych do realizacji jego zadań (art. 58 ust. 1 lit. e) Rozporządzenia
+2016/679).
+Prezesowi UODO przysługuje ponadto szereg określonych w art. 58 ust. 2 Rozporządze‐
+nia 2016/679 uprawnień naprawczych, w tym udzielenie upomnienia administratorowi
+lub podmiotowi przetwarzającemu w przypadku naruszenia przepisów Rozporządzenia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dke_561_29/content
+
+2025-09-03 13:35
+
+Decyzja DKE.561.29.2022
+
+Strona 5 z 7
+
+2016/679 przez operacje przetwarzania. Działając na podstawie art. 58 ust. 2 lit. b) Roz‐
+porządzenia 2016/679, Prezes UODO może uznać za uzasadnione udzielenie administra‐
+torowi lub podmiotowi przetwarzającemu upomnienia w przypadku stwierdzenia naru‐
+szenia przepisów Rozporządzenia 2016/679, w tym przepisów art. 58 ust. 1 lit. a) i e)
+Rozporządzenia 2016/679.
+Naruszenie przepisów Rozporządzenia 2016/679, polegające na niezapewnieniu przez
+administratora lub podmiot przetwarzający dostępu do danych i informacji, o których
+mowa powyżej, skutkujące naruszeniem uprawnień organu określonych w art. 58 ust. 1,
+podlega zaś – zgodnie z art. 83 ust. 5 lit. e) in fine Rozporządzenia 2016/679 – admini‐
+stracyjnej karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębior‐
+stwa – w wysokości do 4 % jego całkowitego rocznego światowego obrotu z poprzednie‐
+go roku obrotowego, przy czym zastosowanie ma kwota wyższa.
+Stosownie do art. 60 u.o.d.o. postępowanie w sprawie naruszenia przepisów o ochronie
+danych osobowych jest prowadzone przez Prezesa UODO. Art. 7 ust. 1 u.o.d.o. stanowi
+zaś, że w sprawach nieuregulowanych w tej ustawie do postępowań administracyjnych
+przed Prezesem UODO (w tym w postępowaniach w przedmiocie nałożenia administra‐
+cyjnej kary pieniężnej, o których mowa w Rozdziale 11 u.o.d.o.) stosuje się przepisy
+ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. 2022
+r., poz. 2000 ze zm., zwanej dalej: „k.p.a.”). Zgodnie z art. 7 ust. 2 u.o.d.o. postępowania
+te są postępowaniami jednoinstancyjnymi.
+Art. 44 § 4 k.p.a. w zw. z art. 44 § 1 k.p.a. w zw. z art. 45 k.p.a. stanowi, że fikcja dorę‐
+czenia zachodzi z upływem ostatniego dnia okresu, to jest 14 dni w przypadku doręcza‐
+nia pisma na adres siedziby osoby prawnej przez operatora pocztowego, a pismo
+pozostawia się w aktach sprawy.
+Zgodnie z motywem 148 Rozporządzenia 2016/679, aby egzekwowanie przepisów Roz‐
+porządzenia 2016/679 było skuteczniejsze, należy za jego naruszenie nakładać sankcje,
+w tym administracyjne kary pieniężne – oprócz lub zamiast odpowiednich środków nakła‐
+danych na mocy Rozporządzenia 2016/679 przez organ nadzorczy. Jeżeli naruszenie jest
+niewielkie, karę pieniężną można zastąpić upomnieniem. Powinno się jednak zwrócić
+uwagę na charakter, wagę oraz czas trwania naruszenia, na to, czy naruszenie nie było
+umyślne, na działania podjęte przez administratora dla zminimalizowania szkody, na sto‐
+pień odpowiedzialności lub wszelkie mające znaczenie wcześniejsze naruszenia, na spo‐
+sób, w jaki organ nadzorczy dowiedział się o naruszeniu, na przestrzeganie środków na‐
+łożonych na administratora lub podmiot przetwarzający, na stosowanie kodeksów
+postępowania oraz wszelkie inne czynniki obciążające lub łagodzące.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dke_561_29/content
+
+2025-09-03 13:35
+
+Decyzja DKE.561.29.2022
+
+Strona 6 z 7
+
+Ocena prawna
+Odnosząc wyżej wskazaną podstawę prawną do ustalonego w niniejszej sprawie stanu
+faktycznego, należy uznać, że Spółka jako administrator danych osobowych Skarżącej,
+będąca stroną postępowania o sygn. DS.523.4141.2022, nie udzielając odpowiedzi na
+wezwania do złożenia wyjaśnień, naruszyła obowiązek zapewnienia Prezesowi UODO do‐
+stępu do danych osobowych i informacji niezbędnych do realizacji jego zadań, który
+wynika z art. 58 ust. 1. lit. a) i e) Rozporządzenia 2016/679.
+Prezes UODO dwukrotnie wezwał Spółkę do złożenia wyjaśnień w sprawie o sygn. DS.
+523.4141.2022. Zarówno wezwanie z 3 sierpnia 2022 r., jak i wezwanie z 1 września
+2022 r. nie zostały odebrane przez Spółkę, co doprowadziło do fikcji doręczenia kore‐
+spondencji, odpowiednio: w dniu 26 sierpnia 2022 r. oraz 20 września 2022 r. Powyższe
+zaniechanie poskutkowało koniecznością wszczęcia postępowania administracyjnego w
+przedmiocie nałożenia na Spółkę administracyjnej kary pieniężnej i w konsekwencji do‐
+prowadziło do złożenia wyczerpujących wyjaśnień przez Spółkę w sprawie o sygn. DS.
+523.4141.2022 oraz do nawiązania kontaktu z Prezesem UODO.
+W niniejszej sprawie nie jest sporne, że zapewnienie prawidłowej organizacji obiegu ko‐
+respondencji jest obowiązkiem Spółki. W ocenie Prezesa UODO przedstawione przez
+Spółkę w piśmie z 15 listopada 2022 r. uzasadnienie braku odpowiedzi na jego wezwania
+(zob. pkt 6 uzasadnienia niniejszej decyzji) nie stanowi przesłanki wyłączającej odpowie‐
+dzialność Spółki. Z uwagi na wskazany problem w komunikacji i z organizacją pracy ope‐
+ratora pocztowego, właściwego dla rejonu siedziby Spółki – istniejący prawdopodobnie
+od dłuższego czasu – należy stwierdzić, że w interesie Spółki jest podjęcie takich działań,
+które doprowadzą do należytego doręczania korespondencji przez pracownika operatora
+pocztowego. W niniejszym postępowaniu, z uwagi na art. 45 k.p.a., Prezes UODO doko‐
+nał prawidłowego doręczenia wyżej wskazanych wezwań, czyli na adres siedziby Spółki,
+który jest zgodny z aktualnym odpisem z Rejestru Przedsiębiorców. Jednakże, wyjaśnie‐
+nia Spółki należy uznać za wiarygodne, zatem w ocenie Prezesa UODO omawiany pro‐
+blem mógł spowodować brak odpowiedzi Spółki na niniejsze wezwania, a w związku z
+tym, w jego ocenie powyższe naruszenie miało charakter nieumyślny. Należy zatem
+uznać, że z chwilą wpłynięcia do UODO wyjaśnień Spółki, to jest z dniem 22 listopada
+2022 r. ustał stan naruszenia przepisów Rozporządzenia 2016/679, będący przedmiotem
+niniejszego postępowania (za jego początek należy uznać datę 3 września 2022 r., czyli
+datę upływu terminu na założenie wyjaśnień, wyznaczonego w wezwaniu z 3 sierpnia
+2022 r., liczonego od momentu fikcji doręczenia niniejszego wezwania).
+Nie zostały stwierdzone inne przesłanki, wskazujące na brak woli współpracy Spółki z
+Prezesem UODO. Co więcej, po powzięciu informacji o toczącym się postępowaniu, Spół‐
+ka wykazała aktywną postawę i była gotowa do dalszej współpracy w niniejszym postę‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dke_561_29/content
+
+2025-09-03 13:35
+
+Decyzja DKE.561.29.2022
+
+Strona 7 z 7
+
+powaniu. Prowadzi to do wniosku, że zaniechanie w postaci braku odbioru i odpowiedzi
+Spółki na wezwania Prezesa UODO w postępowaniu o sygn. DS.523.4141.2022 nie miało
+charakteru celowego.
+Mając na uwadze powyższe, Prezes UODO uznał za uzasadnione udzielenie Spółce upo‐
+mnienia w zakresie stwierdzonego naruszenia art. 58 ust. 1 lit. a) i e) Rozporządzenia
+2016/679, przyjmując jednocześnie, że w świetle kryteriów określonych w art. 83 ust. 2
+Rozporządzenia 2016/679 będzie ono skuteczne i wystarczające. Należy jednak zauwa‐
+żyć, że w przypadku zaistnienia podobnego zdarzenia w przyszłości, każde upomnienie
+wydane przez Prezesa UODO wobec Spółki będzie uwzględnione przy ocenie przesłanek
+ewentualnego wymierzenia kary administracyjnej, zgodnie z zasadami określonymi w
+art. 83 ust. 2 Rozporządzenia 2016/679.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął jak w sentencji niniejszej
+decyzji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dke_561_29/content
+
+2025-09-03 13:35
+

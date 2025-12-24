@@ -1,0 +1,174 @@
+Warszawa, 10 stycznia 2022
+PRAWOMOCNA
+
+Decyzja
+DS.523.3629.2020
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r. poz. 735) oraz art. 5 ust. 1 lit. a, art. 6 ust. 1 oraz
+art. 58 ust. 2 lit. c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia
+27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem da‐
+nych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z
+4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z
+4.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego ze skargi Pana A. B. ((…) C.), na
+nieprawidłowości w procesie przetwarzania jego danych osobowych w zakresie wizerun‐
+ku przez Pana D. M., prowadzącego działalność gospodarczą pod nazwą D. M. B. (ul. (…)
+K.), polegające na ich publikacji na stronie (…), Prezes Urzędu Ochrony Danych Osobo‐
+wych
+nakazuje Panu D. M., prowadzącego działalność gospodarczą pod nazwą D. M. B. (ul. (…)
+K) usunięcie danych osobowych Pana A. B. ((…) C.) w zakresie wizerunku, publikowanych
+na stronie internetowej (…).
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pana A. B. ((…) C.) [dalej: Skar‐
+żący], na nieprawidłowości w procesie przetwarzania jego danych osobowych w zakresie
+wizerunku przez Pana D. M.o, prowadzącego działalność gospodarczą pod nazwą D. M. B.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:ds_523_3629/content
+
+2025-09-03 13:42
+
+Decyzja DS.523.3629.2020
+
+Strona 2 z 4
+
+(ul. (…) K.) [dalej: Przedsiębiorca], polegające na ich publikacji na stronie (…). Skarżący
+w treści skargi wskazał, że film publikowany pod ww. linkiem został nakręcony w jego
+miejscu pracy tj. firmie P. w K. pod K., gdzie firma H. dostarczała wózki widłowe. Skarżą‐
+cy wskazał, że ww. film został nakręcony bez jego wiedzy i zgody, a także bez wiedzy i
+zgody jego pracodawcy.
+W toku postępowania przeprowadzonego w niniejszej sprawie Prezes Urzędu Ochrony
+Danych Osobowych (zwany dalej Prezesem UODO) ustalił następujący stan faktyczny:
+1. Na stronie (…) publikowany jest film, na którym od piątej do dwudziestej sekundy, a
+następnie od trzydziestej sekundy do czwartej minuty dwudziestej drugiej sekundy
+oraz od czwartej minuty czterdziestej drugiej sekundy do czwartej minuty czterdzie‐
+stej siódmej sekundy znajduje się wizerunek Skarżącego. Film znajduje się na porta‐
+lu YouTube na kanale pn. (…), należącym do Przedsiębiorcy. Kliknięcie nazwy ww. ka‐
+nału prowadzi do strony głównej, gdzie w zakładce pn. informacje znajduje się odno‐
+śnik w sekcji linki pn. Nasza strona internetowa. Kliknięcie ww. odnośnika kieruje do
+strony internetowej o adresie (…). W zakładce kontakt ww. strony internetowej figu‐
+rują dane T., ul. (…) K., NIP (…), REGON (…). Dane te np.: numer NIP jest numerem
+NIP Przedsiębiorcy zawartym w CEIDG Przedsiębiorcy – dowód: pismo Skarżącego z
+(…) czerwca 2020 r, (…) sierpnia 2020 r., notatka służbowa z (…) września 2021 r.
+2. W piśmie z (…) maja 2021 r. Przedsiębiorca wyjaśnił, że nie wie kim jest Skarżący
+ani jak wygląda bowiem jego dane osobowe otrzymał wraz z pismem Prezesa UODO.
+Przedsiębiorca wyjaśnił ponadto, że na stronie internetowej (…) nie są przetwarzane
+żadne dane osobowe. Przedsiębiorca ten podkreślił, że nie otrzymał żadnego żąda‐
+nia (ustnego czy pisemnego) ze strony Skarżącego odnośnie naruszenia jego da‐
+nych osobowych, jak również wskazał, że na wskazanym nagraniu nie był prezento‐
+wany wizerunek jakiejkolwiek osoby. Tematem nagrania jest wózek widłowy (…) a
+nagranie ma na celu jedynie zaprezentować jego cechy. Przedsiębiorca wyjaśnił, że
+przedmiotowe nagranie jest dostępne wyłącznie dla osób posiadających link do tej
+strony, stąd też nie jest powszechnie dostępne – dowód: pismo Przedsiębiorcy z (…)
+maja 2021 r.
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+Zgodnie z art. 4 pkt 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem
+danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z
+4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z
+4.03.2021, str. 35), dalej: RODO, „dane osobowe” oznaczają wszelkie informacje o ziden‐
+tyfikowanej lub możliwej do zidentyfikowania osobie fizycznej ("osobie, której dane doty‐
+czą"); możliwa do zidentyfikowania osoba fizyczna to osoba, którą można bezpośrednio
+lub pośrednio zidentyfikować, w szczególności na podstawie identyfikatora takiego jak
+imię i nazwisko, numer identyfikacyjny, dane o lokalizacji, identyfikator internetowy lub
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:ds_523_3629/content
+
+2025-09-03 13:42
+
+Decyzja DS.523.3629.2020
+
+Strona 3 z 4
+
+jeden bądź kilka szczególnych czynników określających fizyczną, fizjologiczną, genetycz‐
+ną, psychiczną, ekonomiczną, kulturową lub społeczną tożsamość osoby fizycznej. Prze‐
+pisem uprawniającym administratorów do przetwarzania danych osób fizycznych jest
+art. 6 ust. 1 RODO, zgodnie z którym, przetwarzanie danych jest dopuszczalne tylko wte‐
+dy, gdy spełniona jest jedna z przesłanek wskazanych w tym przepisie. Katalog przesła‐
+nek wymienionych w art. 6 ust. 1 RODO, jest zamknięty. Każda z przesłanek legalizują‐
+cych proces przetwarzania danych osobowych ma charakter autonomiczny i niezależny.
+Oznacza to, że przesłanki te co do zasady są równoprawne, a wobec tego spełnienie co
+najmniej jednej z nich stanowi o zgodnym z prawem przetwarzaniu danych osobowych.
+Zgodnie z art. 6 ust. 1 lit. a, podstawę przetwarzania może stanowić zgoda osoby, której
+dane dotyczą. Niezależnie od zgody osoby, której dane dotyczą, przetwarzanie danych
+osobowych jest dopuszczalne, także wtedy, gdy przetwarzanie jest niezbędne do celów
+wynikających z prawnie uzasadnionych interesów realizowanych przez administratora
+(lit. f). Dodatkowo, proces przetwarzania danych osobowych musi być zgodny z zasada‐
+mi ustanowionymi w art. 5 ust. 1 RODO. Do zasad tych zalicza się między innymi zasadę
+przetwarzania danych osobowych zgodnie z prawem, rzetelnie i w sposób przejrzysty dla
+osoby, której dane dotyczą ("zgodność z prawem, rzetelność i przejrzystość").
+W przedmiotowej sprawie Skarżący kwestionuje zasadność publikowania jego danych
+osobowych w zakresie wizerunku na stronie internetowej (…) bez podstawy prawnej.
+W toku postępowania ustalono, że podmiotem odpowiedzialnym za publikację oraz usu‐
+wanie informacji, w tym danych osobowych, na ww. stronie internetowej jest Przedsię‐
+biorca.
+Uwzględniając powyższe, wskazać należy, że Skarżący zasadnie podnosi, że jego dane
+osobowe powinny zostać usunięte. Skarżący nie wyrażał zgody na udostępnienie jego
+danych osobowych, Przedsiębiorca natomiast nie wykazał, aby legitymował się jakąkol‐
+wiek z przesłanek uprawniających go do przetwarzania danych osobowych Skarżącego
+na ww. stronie internetowej, stojąc na stanowisku, że na nagraniu nie był prezentowany
+wizerunek jakiejkolwiek osoby.
+Powyższe nie znalazło jednak potwierdzenia w stwierdzonym przez Prezesa UODO stanie
+faktycznym sprawy. Organ ustalił bowiem, że na ww. stronie internetowej jest prezento‐
+wany przez Przedsiębiorcę wizerunek Skarżącego. Bez znaczenia również jest, że w oce‐
+nie Przedsiębiorcy tematem przewodnim nagrania jest wózek widłowy, gdyż na publiko‐
+wanych nagraniu znajduje się wizerunek Skarżącego. W związku z tym należy podkreślić,
+że Przedsiębiorca nie wykazał przesłanki legalności przetwarzania danych osobowych
+Skarżącego zarejestrowanych na przedmiotowym nagraniu, także po uzyskaniu informa‐
+cji o toczącym się przed Prezesem UODO postępowaniu administracyjnym dotyczącym
+nieprawidłowości w przetrwaniu danych osobowych Skarżącego.
+Wskazać jednocześnie należy, że kwestionowane przetwarzanie danych osobowych
+Skarżącego przez Przedsiębiorcę nie korzysta z wyłączenia przewidzianego w art. 2 ust.
+2 lit. c RODO czyli przetwarzania danych osobowych przez osobę fizyczną w ramach
+czynności o czysto osobistym lub domowym charakterze. Z ustalonego stanu faktyczne‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:ds_523_3629/content
+
+2025-09-03 13:42
+
+Decyzja DS.523.3629.2020
+
+Strona 4 z 4
+
+go wyraźnie wynika bowiem, że przetwarzanie wizerunku Skarżącego realizowane jest
+na kanale Przedsiębiorcy prowadzonym w związku z jego działalnością zawodową, a nie
+osobistą.
+Podkreślić w tym miejscu należy, że administratorem danych osobowych w zakresie da‐
+nych przetwarzanych na platformie internetowej YouTube, takich jak m.in. przesyłane
+treści, które wiążą się bezpośrednio z przeglądaniem oraz korzystaniem z kanału stwo‐
+rzonego na ww. platformie internetowej (tutaj kanałem Przedsiębiorcy), jest odrębnie, za‐
+równo podmiot prowadzący kanał jak i właściciel platformy internetowej YouTube. Powyż‐
+sze znajduje potwierdzenie w orzeczeniu Trybunału Sprawiedliwości z dnia 5 czerwca
+2018 r. C-210. Na uwagę zasługuje ponadto fakt, że nagranie zamieszczone na platfor‐
+mie internetowej YouTube jest publiczne, jest ono bowiem dostępne i adresowane do nie‐
+określonej grupy odbiorców, którzy nie tylko mogli, ale również w dalszym ciągu mogą
+zapoznać się z wizerunkiem Skarżącego widniejącym na nagraniu. W kontekście ww. pu‐
+blikowania danych osobowych Skarżącego, wskazać należy, że nie bez znaczenia w ni‐
+niejszej sprawie jest fakt, że platforma internetowa YouTube, za pośrednictwem której
+publikowane jest nagranie umożliwia - w wyniku skojarzenia filmów o podobnej treści na
+niej dostępnych - wgląd do udostępnionych materiałów także dla osób niedysponujących
+konkretnym linkiem (adresem URL) kierującym do treści zawartej na tej platformie. Po‐
+wyższe sprawia zatem, że brak jest możliwości uznania, że rozpowszechniane w ten spo‐
+sób nagranie zawierające wizerunek Skarżącego ma charakter prywatny i nie stanowi o
+naruszaniu prawa Skarżącego do ochrony danych osobowych (por. Wyrok Trybunału
+Sprawiedliwości z dnia 13 maja 2014 r. C-131/12).
+Ustalone powyżej okoliczności pozwalają na stwierdzenie, że przetwarzanie danych oso‐
+bowych Skarżącego przez Przedsiębiorcę za pośrednictwem strony internetowej (…) sta‐
+nowi naruszenie art. 5 ust. 1 lit. a oraz art. 6 ust. 1 RODO. Należy podkreślić raz jeszcze,
+że Skarżący nie wyrażał zgody na publikowanie jego wizerunku na ww. stronie interneto‐
+wej przez Przedsiębiorcę, jak również Przedsiębiorca nie wykazał spełnienia jakiejkolwiek
+z przesłanek uzasadniających przetwarzanie kwestionowanych danych osobowych Skar‐
+żącego. Wobec tego Prezes Urzędu korzystając z uprawnienia z art. art. 58 ust. 2 lit. c
+RODO, nakazuje Przedsiębiorcy usunięcie danych osobowych Skarżącego publikowanych
+na stronie internetowej (…).
+W tym stanie faktycznym i prawnym sprawy Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:ds_523_3629/content
+
+2025-09-03 13:42
+

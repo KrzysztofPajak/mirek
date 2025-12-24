@@ -1,0 +1,397 @@
+Warszawa, 24 stycznia 2022
+PRAWOMOCNA
+
+Decyzja
+DS.523.2332.2021
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz.U. z 2021 r. poz. 735 ze zm.) w zw. z art. 7 ust 1 ustawy o ochro‐
+nie danych osobowych z dnia 10 maja 2018 roku (Dz.U. z 2019 r. poz. 1781 t.j.), art. 5
+ust. 1 lit. c oraz art. 6 ust. 1, art. 13 ust. 1, 2 i 4 oraz art. 58 ust. 2 lit. d rozporządzenia
+Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie
+ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne
+rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L
+127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana E. W., za‐
+mieszkałego w M., na nieprawidłowości w procesie przetwarzania jego danych osobo‐
+wych przez Pana K. S. oraz Panią J. S., zamieszkałych w M., reprezentowanych przez adw.
+Panią B. S., polegające na przetwarzaniu jego danych osobowych bez podstawy prawnej
+za pomocą monitoringu wizyjnego oraz bezprawnym udostępnieniu jego danych osobo‐
+wych – pochodzących z nagrań z wskazanego monitoringu – podmiotom nieuprawnio‐
+nym, Prezes Urzędu Ochrony Danych Osobowych
+1) nakazuje Panu K. S. oraz Pani J. S., zamieszkałym w M., reprezentowanym przez
+adw. Panią B. S., zaprzestanie przetwarzania danych osobowych, w zakresie głosu,
+Pana E. W., zamieszkałego w M., w związku z prowadzonym monitoringiem wizyjnym
+oraz ich usunięcie z dotychczas utrwalonych nagrań;
+2) nakazuje Panu K. S. oraz Pani J. S., zamieszkałym w M., reprezentowanym przez
+adw. Panią B. S., spełnienie obowiązku informacyjnego na rzecz Pana E. W., zamiesz‐
+kałego w M., o którym mowa w art. 13 ust. 1 lit. c, d, e oraz ust. 2 lit. a, b, d rozpo‐
+rządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r.
+w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_2332/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.2332.2021
+
+3)
+
+Strona 2 z 8
+
+i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/
+WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 4.05.2016, str.
+1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35),
+w pozostałym zakresie odmawia uwzględnienia wniosku.
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pana E. W., zamieszkałego w M.
+(zwanego dalej: Skarżącym), na nieprawidłowości w procesie przetwarzania jego danych
+osobowych przez Pana K. S. oraz Panią J. S., zamieszkałych w M. (zwanych dalej także
+łącznie: Skarżonymi), reprezentowanych przez adw. Panią B. S., polegające na przetwa‐
+rzaniu jego danych osobowych bez podstawy prawnej za pomocą monitoringu wizyjnego
+oraz bezprawnym udostępnieniu jego danych osobowych – pochodzących z nagrań z
+wskazanego monitoringu – podmiotom nieuprawnionym.
+W toku przeprowadzonego postępowania wyjaśniającego w niniejszej sprawie Prezes
+Urzędu Ochrony Danych Osobowych (zwany dalej: Prezesem UODO) ustalił następujący
+stan faktyczny:
+1. Skarżeni zamieszkują w M. na osiedlu domów w zabudowie szeregowej w lokalu nr.
+(…) znajdującym się na parterze. Skarżący zamieszkuje natomiast w lokalu nr. (…),
+znajdującym się na piętrze (dowód: wyjaśnienia Skarżonych z (…) maja 2021 r.);
+2. Skarżeni wskazali, że począwszy od marca 2016 r. są uporczywie nękani przez
+Skarżącego oraz jego rodziców, na dowód czego przedłożyli:
+–
+wyrok Sądu Rejonowego w W. z dnia (…) lipca 2019 r., na mocy, którego Skarżą‐
+cy został skazany za to, że w okresie od (…) marca 2016 r. do dnia (…) kwietnia
+2018 r. w M., uporczywie nękał Skarżonych, działając w ten sposób, że publicz‐
+nie ich wyzywał używając słów powszechnie uznanych za obelżywe. Wyrok ten
+został utrzymany w mocy przez Sąd Okręgowy w W. wyrokiem z dnia (…)
+stycznia 2021 r.;
+–
+wyrok Sądu Rejonowego w W. z dnia (…) sierpnia 2020 r., na mocy którego Skar‐
+żący został skazany za nękanie oraz groźby pozbawienia życia i zdrowia kiero‐
+wane w stosunku do Pani J. S. oraz innych osób, znieważenie funkcjonariuszy
+Policji oraz naruszenie ich nietykalności cielesnej (odpychanie, szarpanie za
+mundur, próby zadania kopnięć);
+Skarżeni wskazali ponadto na toczące się postępowanie w Sądzie Rejonowym w
+W. pod sygn. akt (…) w przedmiocie ich uporczywego nękania przez Skarżącego.
+(dowód: wyjaśnienia Skarżonych z (…) maja 2021 r., kopie wyroków w aktach
+sprawy);
+3. Skarżeni wskazali, że zamontowali monitoring w celu zapewnienia bezpieczeństwa,
+ponieważ zachodziła i nadal zachodzi uzasadniona obawa niebezpieczeństwa dla ich
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_2332/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.2332.2021
+
+4.
+
+5.
+
+6.
+
+8.
+
+9.
+
+Strona 3 z 8
+
+życia i zdrowia. Skarżeni oświadczyli, że zainstalowanie monitoringu było poprzedzo‐
+ne sugestią Policji w związku z licznymi zdarzeniami, jakie miały miejsce na ich
+działce (dowód: wyjaśnienia Skarżonych z (…) maja 2021 r.);
+Skarżeni wskazali, że kamera została tak skierowana, aby swoim zasięgiem obejmo‐
+wała przede wszystkim wejście do ich domu oraz teren wspólny przed posesją, a
+także, że pomiędzy schodami (które prowadzą do obydwu drzwi wejściowych) Pan K.
+S. zamontował płytę (drewniane przepierzenie), która uniemożliwia objęciem moni‐
+toringu drzwi wejściowych Skarżącego, a także schodów (dowód: wyjaśnienia Skar‐
+żonych z (…) maja 2021 r., wydruk obrazu z kamery w aktach sprawy);
+Skarżeni oświadczyli, że obszar objęty monitoringiem stanowi część wspólną, w tym
+bramę wjazdową i furtkę, wjazd na posesję oraz część pasa drogowego sprzed wjaz‐
+du na posesję (dowód: wyjaśniania Skarżonych z (…) maja 2021 r., wydruk obrazu z
+kamery w aktach sprawy);
+Skarżeni oświadczyli, że:
+–
+kamera rejestruje zarówno obraz i dźwięk;
+–
+system monitoringu obsługiwany jest przez nich osobiście;
+–
+system monitoringu jest zabezpieczony przed dostępem osób nieupoważnio‐
+nych;
+–
+system monitoringu nagrywa na dysk twardy nagrania z kamer, a po zapełnie‐
+niu dysku obraz jest automatycznie nadpisywany nowym obrazem;
+–
+czas przechowywania nagrań nie przekracza kilku dni.
+(dowód: wyjaśnienia Skarżonych z (…) maja 2021 r.);
+Skarżeni zaprzeczyli twierdzeniom Skarżącego w zakresie udostępniania nagrań z
+monitoringu, w tym nagrania z jego wizerunkiem, osobom nieuprawnionym. Ponad‐
+to Skarżeni wyjaśnili, że zapis z kamer został udostępniony (na nośnikach pendrive)
+Policji, Prokuraturze Rejonowej w W. oraz Sądowi, w toku postępowań karnych, które
+toczyły się i toczą nadal przeciwko Skarżącemu, zaś celem udostępnienia było prze‐
+prowadzenie dowodów. Skarżeni oświadczyli, że zapis z kamer, który został udostęp‐
+niony obejmował zdarzenia z udziałem Skarżącego, takie jak np. jego agresywne za‐
+chowania, przekleństwa, krzyki czy kłótnie, a także, że zapisy zdarzeń z udziałem
+Skarżącego zostały automatycznie usunięte z systemu monitoringu poprzez ich nad‐
+pisanie innym obrazem (dowód: wyjaśnienia Skarżonych z (…) maja 2021 r.);
+Skarżeni oświadczyli, że wypełnili wobec Skarżącego obowiązek informacyjny okre‐
+ślony w art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarza‐
+niem danych osobowych i w sprawie swobodnego przepływu takich danych oraz
+uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz.
+UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L
+74 z 4.03.2021, str. 35), zwanego dalej: rozporządzeniem 2016/679, poprzez wielo‐
+krotne informowanie go zarówno o fakcie zainstalowania kamery, a także o zasięgu
+kamery. Skarżeni wskazali, że informowali o monitoringu w 2019 r. w toku postępo‐
+wania karnego, które toczyło się w Sądzie Rejonowym w W. pod sygn. akt (…) prze‐
+ciwko Skarżącemu oraz jego rodzicom o przestępstwa uporczywego nękania oraz
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_2332/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.2332.2021
+
+Strona 4 z 8
+
+kierowania gróźb karalnych na szkodę Skarżonych. Skarżeni oświadczyli – cyt.: „W
+dniu (…) kwietnia 2019 r. J. S. informowała dokładnie jaki teren obejmuje swoim za‐
+sięgiem kamera, m.in. zeznając słowami ja mam kamerę na schody i samochód i
+obejmuje też kawałek głównej drogi”. Skarżeni wskazali, że protokoły potwierdzają‐
+ce wykonanie obowiązku informacyjnego znajdują się w aktach sprawy w Sądzie
+Rejonowym w W. (dowód: wyjaśnienia Skarżonych z (…) lipca 2021 r.);
+10. Skarżeni wskazali, że umieścili na drzwiach frontowych swojego mieszkania tablicę
+informacyjną z treścią „obiekt monitorowany” (dowód: wyjaśnienia Skarżonych z
+(…) lipca 2021 r., dokumentacja fotograficzna przedstawiająca tablicę z treścią
+„obiekt monitorowany” w aktach sprawy).
+Na podstawie zgromadzonego w przedmiotowej sprawie materiału dowodowego Prezes
+UODO zważył, co następuje.
+Odnosząc się do kwestii legalności przetwarzania danych osobowych Skarżącego przez
+Skarżonych wskazać należy co następuje. Przepisem uprawniającym administratora do
+przetwarzania danych osobowych osób fizycznych jest art. 6 ust. 1 rozporządzenia
+2016/679 (w odniesieniu do danych zwykłych), który legalizuje przetwarzanie danych
+osobowych, gdy spełniona jest co najmniej jedna z enumeratywnie wskazanych w nim
+przesłanek. Zgodnie z art. 6 ust. 1 lit. f rozporządzenia 2016/679 przetwarzanie jest le‐
+galne, gdy jest niezbędne do celów wynikających z prawnie uzasadnionych interesów re‐
+alizowanych przez administratora lub przez stronę trzecią, z wyjątkiem sytuacji, w któ‐
+rych nadrzędny charakter wobec tych interesów mają interesy lub podstawowe prawa i
+wolności osoby, której dane dotyczą, wymagające ochrony danych osobowych, w
+szczególności gdy osoba, której dotyczą, jest dzieckiem.
+Z materiału dowodowego zgromadzonego w niniejszej sprawie wynika, że Skarżeni zain‐
+stalowali monitoring wizyjny obejmujący swoim zakresem wejście do ich domu, a także
+część wspólną, w tym bramę wjazdową i furtkę, wjazd na posesję oraz obszar publiczny,
+w tym obszar pasa drogowego sprzed wjazdu na posesję. Skarżeni wyjaśnili, że prowa‐
+dzą monitoring wizyjny w celu zapewnienia bezpieczeństwa, ponieważ zachodziła i nadal
+zachodzi uzasadniona obawa niebezpieczeństwa dla ich życia i zdrowia bowiem począw‐
+szy od marca 2016 r. są uporczywie nękani przez Skarżącego oraz jego rodziców, na do‐
+wód czego przedłożyli kopie wyroków na mocy których Skarżący został skazany m.in. za
+nękanie ich, czy kierowanie gróźb pozbawienia życia i zdrowia w stosunku do Pani J. S.
+oraz innych osób, a także znieważenie i naruszenie nietykalności cielesnej funkcjonariu‐
+szy Policji. Ponadto Skarżeni oświadczyli, że obecnie toczy się kolejne postępowanie
+przed Sądem Rejonowym w W. w związku z ich nękaniem przez Skarżącego. Z oświad‐
+czenia złożonego przez Skarżonych wynika też, że system monitoringu obsługiwany jest
+przez nich osobiście, a także, że jest zabezpieczony przed dostępem osób nieuprawnio‐
+nych. Skarżeni prowadzą monitoring wizyjny z wykorzystaniem funkcji nagrywania
+dźwięku.
+Wobec powyższego Prezes UODO uznał, że Skarżeni legitymują się podstawą prawną
+uprawniającą ich do przetwarzania danych osobowych Skarżącego (pochodzących z sys‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_2332/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.2332.2021
+
+Strona 5 z 8
+
+temu monitoringu wizyjnego) w zakresie jego wizerunku określoną w art. 6 ust. 1 lit. f
+rozporządzenia 2016/679. Zapewnienie bezpieczeństwa w obszarze objętym monitorin‐
+giem jest prawnie usprawiedliwionym celem Skarżonych – administratora danych osobo‐
+wych. Wskazać należy, że uzasadniony interes administratora danych musi zostać wyka‐
+zany, a także, że nie może mieć on charakteru hipotetycznego. W ocenie Prezesa UODO
+w przedmiotowej sprawie w/w przesłanka została spełniona. Mając na uwadze wskazane
+okoliczności, wniosek Skarżącego w zakresie nakazania usunięcia jego danych osobo‐
+wych w zakresie jego wizerunku nie mógł zostać uwzględniony m.in. ze względu na
+wartość dowodową przetwarzania danych w sprawach sądowych.
+Podkreślić jednak należy, że uprawnienia do stosowania funkcji rejestracji głosu posiada‐
+ją jedynie służby porządkowe i specjalne na podstawie ustaw regulujących ich działal‐
+ność. Zgodnie z wytycznymi Europejskiej Rady Ochrony Danych określonymi w „Wytycz‐
+nych 3/19 w sprawie przetwarzania danych osobowych przez urządzenia wideo”, przyję‐
+tych w dniu 29 stycznia 2020 r., dalej jako: „Wytyczne”, w pkt 9.3 ppkt. 129, administra‐
+tor przy wybieraniu rozwiązań technicznych odnoszących się do prowadzonego monito‐
+ringu nie powinien wybierać rozwiązań zawierających funkcje, które nie są niezbędne
+(wśród funkcji tych mieści się: nieograniczone śledzenie ruchów kamery, możliwość
+przybliżenia, transmisja radiowa, analiza i nagrania dźwiękowe). Zgodnie z przytoczony‐
+mi Wytycznymi funkcje, które nie są niezbędne powinny zostać dezaktywowane. W oce‐
+nie Prezesa UODO przetwarzanie danych osobowych w zakresie głosu osób znajdujących
+się w obszarze objętym monitoringiem, w tym głosu Skarżącego narusza zasadę wskaza‐
+ną w art. 5 ust. 1 lit. c rozporządzenia 2016/679, tj. zasadę minimalizacji danych. Przepis
+ten stanowi, że dane osobowe muszą być adekwatne, stosowne oraz ograniczone do
+tego, co niezbędne do celów, w których są przetwarzane ("minimalizacja danych"). Pro‐
+wadzony przez Skarżonych monitoring przy wykorzystaniu funkcji nagrywania głosu, nie
+jest zaś odpowiedni i niezbędny do osiągnięcia przez nich celu, jakim jest zapewnienie
+bezpieczeństwa. Wskazać bowiem należy, że swój prawnie uzasadniony cel Skarżeni re‐
+alizować mogą za pomocą innych, mniej inwazyjnych w stosunku do podstawowych
+praw i wolności Skarżącego środków, takich jak np. nagrywanie konkretnych rozmów. W
+ocenie Prezesa UODO, stosowanie funkcji nagrywania w sposób ciągły dźwięku w związ‐
+ku z prowadzonym monitoringiem prowadzi do naruszenia m.in. prawa do prywatności
+osoby obserwowanej. Tym samym Prezes UODO uznał, że Skarżeni nie legitymują się
+stosowną podstawą prawną do przetwarzania danych osobowych Skarżącego w zakresie
+jego głosu w związku z prowadzonym monitoringiem, a co za tym idzie uznał za zasadne
+nakazanie zaprzestania ich przetwarzania oraz ich usunięcia z dotychczas utrwalonych
+nagrań.
+Skarżący przedmiotem skargi uczynił także bezprawne udostępnienie jego danych oso‐
+bowych podmiotom nieuprawnionym, w tym w toku postępowania przed Sądem po‐
+wszechnym. Zaznaczyć w tym miejscu należy, że w postępowaniu administracyjnym
+obowiązuje zasada, że ciężar dowodu spoczywa na tym, kto z określonego faktu wypro‐
+wadza skutki prawne. Pogląd ten znajduje uzasadnienie w wyroku Naczelnego Sądu
+Administracyjnego (z dnia 9 lipca 2000 r., III SA 5417/98). Skarżący nie przedstawił do‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_2332/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.2332.2021
+
+Strona 6 z 8
+
+wodów na udostępnianie przez Skarżonych jego danych osobowych na rzecz podmiotów
+nieuprawionych, nie wskazał komu te dane miały zostać udostępnione i na czym miałoby
+polegać to udostępnienie. Skarżący ograniczył się wyłącznie do wskazania, że nagrania z
+monitoringu zostały udostępnione w Sądzie. Skarżeni zaprzeczyli twierdzeniom Skarżą‐
+cego w zakresie udostępniania nagrań z monitoringu, w tym nagrania z jego wizerun‐
+kiem, osobom nieuprawnionym. Skarżeni w swoich wyjaśnieniach wskazali, że nagrania,
+na których uwiecznione zostało niewłaściwe zachowanie Skarżącego zostały przedłożone
+jedynie Policji, Prokuraturze, a także Sądowi w ramach prowadzonych postępowań – w
+celu przeprowadzenia dowodu. Skarżeni wyjaśnili, że zapis z kamer, który został udo‐
+stępniony obejmował zdarzenia z udziałem Skarżącego, takie jak np. jego agresywne za‐
+chowania, przekleństwa, krzyki czy kłótnie, a także, że zapisy zdarzeń z udziałem Skar‐
+żącego zostały automatycznie usunięte z systemu monitoringu poprzez ich nadpisanie
+innym obrazem. Działanie Skarżonych, polegające na przedłożeniu nagrań z monitoringu
+wizyjnego właściwym organom (Policji, Prokuraturze, Sądowi) znajduje − w ocenie Preze‐
+sa UODO − podstawę prawną określoną w art. 6 ust. 1 lit. f rozporządzenia 2016/679.
+Przedkładanie dowodów w postępowaniu sądowym nie narusza podstawowych praw i
+wolności osoby, której dane dotyczą. W kompetencjach sądu mieści się natomiast ocena
+wiarygodności i mocy dowodów, a także podjęcie decyzji o dopuszczeniu określonego
+dowodu biorąc przy tym pod uwagę, czy dany fakt ma istotne znacznie dla sprawy. Za‐
+uważyć przy tym należy, że ochrona danych osobowych nie jest prawem absolutnym i jej
+celem nie jest uniemożliwianie podejmowania czynności w toku postępowania przed są‐
+dem powszechnym, czy też gromadzenie dowodów w celu wykazania naruszeń praw
+osób, których dane dotyczą. Tym samym, zarzut nieuprawnionego udostępnienia danych
+osobowych Skarżącego pochodzących z nagrań monitoringu nie znalazł potwierdzenia w
+zebranym materiale dowodowym, w związku z powyższym, Prezes UODO nie może ina‐
+czej rozstrzygnąć wniosku Skarżącego w tym zakresie, jak tylko odmówić jego uwzględ‐
+nienia.
+Z uwagi na objęcie monitoringiem wizyjnym obszaru niebędącego wyłączną własnością
+Skarżonych, zobowiązani są oni do przetwarzania danych osobowych z zgodnie z przepi‐
+sami rozporządzenia 2016/679. Tym samym Skarżeni zobligowani są między innymi do
+zrealizowania obowiązku informacyjnego, rozpatrywania żądań osób obserwowanych i
+właściwego zabezpieczania nagrań.
+Obowiązek informacyjny o którym mowa art. 13 rozporządzenia 2016/679, powinien zo‐
+stać spełniony przez administratora, w przypadku jeżeli dane osobowe pozyskano od
+osoby, której dane dotyczą. Administrator zobowiązany jest w takiej sytuacji podać na‐
+stępujące informacje: swoją tożsamość i dane kontaktowe oraz, gdy ma to zastosowanie,
+tożsamość i dane kontaktowe swojego przedstawiciela (art. 13 ust. 1 lit. a), gdy ma to
+zastosowanie – dane kontaktowe inspektora ochrony danych (art. 13 ust. 1 lit. b), cele
+przetwarzania danych osobowych, oraz podstawę prawną przetwarzania (art. 13 ust. 1
+lit. c), jeżeli przetwarzanie odbywa się na podstawie art. 6 ust. 1 lit. f – prawnie uzasad‐
+nione interesy realizowane przez administratora lub przez stronę trzecią (art. 13 ust. 1
+lit. d), informacje o odbiorcach danych osobowych lub o kategoriach odbiorców, jeżeli ist‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_2332/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.2332.2021
+
+Strona 7 z 8
+
+nieją (art. 13 ust. 1 lit. e), gdy ma to zastosowanie – informacje o zamiarze przekazania
+danych osobowych do państwa trzeciego lub organizacji międzynarodowej oraz o stwier‐
+dzeniu lub braku stwierdzenia przez Komisję odpowiedniego stopnia ochrony lub w przy‐
+padku przekazania, o którym mowa w art. 46, art. 47 lub art. 49 ust. 1 akapit drugi,
+wzmiankę o odpowiednich lub właściwych zabezpieczeniach oraz o możliwościach uzy‐
+skania kopii danych lub o miejscu udostępnienia danych (art. 13 ust. 1 lit. f).
+Dodatkowo zgodnie z art. 13 ust. 2 rozporządzenia 2016/679, poza informacjami, o któ‐
+rych mowa w ust. 1, podczas pozyskiwania danych osobowych administrator podaje oso‐
+bie, której dane dotyczą, następujące inne informacje niezbędne do zapewnienia rzetel‐
+ności i przejrzystości przetwarzania: okres, przez który dane osobowe będą przechowy‐
+wane, a gdy nie jest to możliwe, kryteria ustalania tego okresu (art. 13 ust. 1 lit. a), in‐
+formacje o prawie do żądania od administratora dostępu do danych osobowych dotyczą‐
+cych osoby, której dane dotyczą, ich sprostowania, usunięcia lub ograniczenia przetwa‐
+rzania lub o prawie do wniesienia sprzeciwu wobec przetwarzania, a także o prawie do
+przenoszenia danych (art. 13 ust. 1 lit. b), jeżeli przetwarzanie odbywa się na podstawie
+art. 6 ust. 1 lit. a lub art. 9 ust. 2 lit. a – informacje o prawie do cofnięcia zgody w dowol‐
+nym momencie bez wpływu na zgodność z prawem przetwarzania, którego dokonano na
+podstawie zgody przed jej cofnięciem (art. 13 ust. 1 lit. c), informacje o prawie wniesie‐
+nia skargi do organu nadzorczego (art. 13 ust. 1 lit. d), informację, czy podanie danych
+osobowych jest wymogiem ustawowym lub umownym lub warunkiem zawarcia umowy
+oraz czy osoba, której dane dotyczą, jest zobowiązana do ich podania i jakie są ewentu‐
+alne konsekwencje niepodania danych (art. 13 ust. 1 lit. e), informacje o zautomatyzo‐
+wanym podejmowaniu decyzji, w tym o profilowaniu, o którym mowa w art. 22 ust. 1 i 4,
+oraz – przynajmniej w tych przypadkach – istotne informacje o zasadach ich podejmowa‐
+nia, a także o znaczeniu i przewidywanych konsekwencjach takiego przetwarzania dla
+osoby, której dane dotyczą (art. 13 ust. 1 lit. f).
+W wyjaśnieniach złożonych przed Prezesem UODO Skarżeni wskazali, że wielokrotnie in‐
+formowali Skarżącego o fakcie zainstalowania kamery oraz jej zasięgu, a także, że na
+drzwiach frontowych ich mieszkania umieścili tablicę informacyjną z treścią: „obiekt mo‐
+nitorowany”. Skarżeni podnieśli, że w toku jednego z postępowań karnych (toczącego się
+pomiędzy, nimi a Skarżącym) informowali, że zainstalowana przez nich kamera obejmuje
+schody, samochód i część drogi głównej. Skarżeni nie wykazali jednak, aby przekazali
+Skarżącemu informacje wynikające z treści art. 13 ust. 1 i 2 rozporządzenia 2016/679,
+zaś działania przez nich podjęte (umieszczenie tablicy informującej wyłącznie o fakcie
+objęcia obiektu monitoringiem oraz poinformowanie o zasięgu kamery) nie są wystarcza‐
+jące. Spełnienie obowiązku informacyjnego ma m.in. funkcję poinformowania o prawach
+osoby, której dane osobowe są przetwarzane. Skarżeni, jako administrator danych oso‐
+bowych przetwarzanych za pomocą prywatnego monitoringu wizyjnego, nie wykonując
+ww. obowiązku, pozbawili Skarżącego tego prawa. Zgodnie z powyższym stwierdzić nale‐
+ży, że Skarżeni nie spełnili obowiązku informacyjnego wobec Skarżącego wynikającego z
+art. 13 ust. 1 i 2 rozporządzenia 2016/679, naruszając przy tym przepisy o ochronie da‐
+nych osobowych. Zauważyć też należy, że zgodnie z art. 13 ust. 4 rozporządzenia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_2332/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.2332.2021
+
+Strona 8 z 8
+
+2016/679, ust. 1, 2 i 3 nie mają zastosowania, gdy – i w zakresie, w jakim – osoba, której
+dane dotyczą, dysponuje już tymi informacjami. Skarżący dysponuje informacjami, o któ‐
+rych mowa w art. 13 ust. 1 lit a ww. aktu prawnego, zaś materiał dowodowy zgromadzo‐
+ny w tej sprawie wykazał, że Skarżonych nie dotyczy obowiązek określony w art. 13 ust.
+1 lit. b i f oraz w art. 13 ust. 2 lit. c, e oraz f rozporządzenia 2016/679.
+Postępowanie administracyjne prowadzone przez Prezesa UODO służy kontroli zgodności
+przetwarzania danych z przepisami o ochronie danych osobowych i jest ukierunkowane
+na wydanie decyzji administracyjnej. Skarżeni nie spełnili wobec Skarżącego obowiązku
+informacyjnego wynikającego z art. 13 ust. 1 lit. c, d, e oraz ust. 2 lit. a, b, d rozporzą‐
+dzenia 2016/679, naruszając przy tym przepisy o ochronie danych osobowych, w związ‐
+ku z czym Prezes UODO korzystając z przysługującego mu uprawnienia określonego w
+art. 58 ust. 2 lit. d rozporządzenia 2016/679 mocą którego może nakazać administrato‐
+rowi lub podmiotowi przetwarzającemu m.in. dostosowania operacji przetwarzania do
+przepisów niniejszego rozporządzenia, nakazuje Skarżonym spełnienie ww. obowiązku.
+Na podstawie art. 58 ust. 2 lit. d rozporządzenia 2016/679, Prezes UODO nakazuje Skar‐
+żonym zaprzestania przetwarzania danych osobowych Skarżącego w zakresie jego głosu
+za pomocą systemu monitoringu wizyjnego, oraz ich usunięcie z dotychczas utrwalonych
+nagrań, z uwagi na brak stosownej podstawy prawnej w tym zakresie.
+Poczynione w sprawie ustalenia faktyczne oraz prawne, wykazały, że przetwarzanie da‐
+nych osobowych Skarżącego w zakresie jego wizerunku odbywa się w oparciu o stosow‐
+ną podstawę prawną, tj. art. 6 ust. 1 lit. f rozporządzenia 2016/679, w związku z czym, w
+ocenie Prezesa UODO nie ma podstaw, aby stwierdzić, że doszło do naruszenia przepi‐
+sów rozporządzenia 2016/679 w zakresie przetwarzania jego danych osobowych (wize‐
+runku) bez podstawy prawnej, a tym samym do nakazania Skarżonym zaprzestania prze‐
+twarzania, a w tym usunięcia danych osobowych Skarżącego. Zebrany materiał dowodo‐
+wy nie wykazał także, aby Skarżeni dopuścili się udostępnienia danych osobowych Skar‐
+żącego podmiotom nieuprawnionym, zaś udostępnienie nagrań organom państwowym
+(Policja, Prokuratura, Sąd) było zgodne z prawem (art. 6 ust. 1 lit. f rozporządzenia
+2016/679). Uzasadnione jest zatem wydanie przez Prezesa UODO decyzji odmawiającej
+uwzględnienia wniosku Skarżącego w ww. zakresie.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_2332/content
+
+2025-09-03 13:41
+

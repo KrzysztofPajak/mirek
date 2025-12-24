@@ -1,0 +1,260 @@
+Warszawa, 20 lutego 2020
+PRAWOMOCNA
+
+Decyzja
+ZKE.440.89.2019
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r. poz. 2096 ze zm.) oraz na podstawie art. 160 ust. 1 i
+2 ustawy z 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781) w
+zw. z art. 12 pkt 2, art. 22, art. 18 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych
+osobowych (Dz. U. 2016 r. poz. 922 ze zm.) oraz art. 15 ust. 1 w zw. z art. 12 i art. 57
+ust. 1 lit. a) i f) Rozporządzenia Parlamentu Europejskiego i Rady UE 2016/679 z 27
+kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych
+osobowych i w sprawie swobodnego przepływu takich danych (Dz. Urz. UE L 119 z
+04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 1 z późn. zm.),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana I. K., na nie‐
+wypełnienie wobec niego obowiązku informacyjnego przez T. S.A., Prezes Urzędu
+Ochrony Danych Osobowych:
+1) nakazuje T. S.A., spełnienie obowiązku informacyjnego wobec Pana I. K. poprzez po‐
+danie mu na piśmie informacji, o których mowa w art. 15 Rozporządzenia Parlamen‐
+tu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony
+osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swo‐
+bodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE
+L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2 ze zm.)
+2) w pozostałym zakresie odmawia uwzględnienia wniosku.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_89/content
+
+2025-09-03 13:51
+
+Decyzja ZKE.440.89.2019
+
+Strona 2 z 6
+
+Uzasadnienie
+Do Biura Generalnego Inspektora Ochrony Danych Osobowych (obecnie Urzędu Ochrony
+Danych Osobowych) wpłynęła skarga Pana I. K., zwanego dalej „Skarżącym”, na niewy‐
+pełnienie wobec niego obowiązku informacyjnego, przez T. S.A., zwanego dalej „T.”. Pan
+I. K. w treści skargi wniósł o cyt.: „nakazanie T (…) (…) usunięcie uchybień w procesie
+przetwarzania danych osobowych poprzez wypełnienie (…) obowiązku informacyjnego, o
+którym mowa w art. 33 ust. 1-2 w zw. z art. 32 ust. 1 pkt 1-5 i art. 2 ust. 1-2 ustawy o
+ochronie danych osobowych w sposób przewidziany w niniejszej ustawie umożliwiający
+sprawowanie kontroli na przetwarzanymi (…) danymi” oraz o cyt.: „zawiadomienie pro‐
+kuratora na podstawie art. 304 § 2 kpk” w przypadku braku przedstawienia dowodów na
+potwierdzenie wypełnienia wobec niego obowiązku informacyjnego.
+Na podstawie materiału dowodowego zgromadzonego w przedmiotowej sprawie
+ustalono następujący stan faktyczny.
+Pismem z dnia (…) października 2017 r. Skarżący działając na podstawie art. 33 ust. 1-2
+w zw. z art. 32 ust. 1 pkt 1-5 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych
+osobowych (Dz. U. z 2016 r., poz. 922 ze zm.), zwanej dalej „ustawą z 1997 r.”, zwrócił
+się do T. z wnioskiem o udzielenie mu informacji, o których mowa w art. 32 ust. 1-5 (do‐
+wód: kopia pisma Skarżącego z (…) października 2010 r. wraz ze zwrotnym potwierdze‐
+niem jego odbioru). W związku z nieudzieleniem przez T. odpowiedzi na zgłoszony w try‐
+bie art. 33 ust. 1 ustawy z 1997 r. wniosek, Skarżący skierował do Generalnego Inspekto‐
+ra Ochrony Danych Osobowych skargę, w której zażądał: usunięcia uchybień w procesie
+przetwarzania danych osobowych poprzez wypełnienie wobec niego obowiązku informa‐
+cyjnego, o którym mowa w art. 33 ust. 1-2 w zw. z art. 32 ust. 1 pkt 1-5 i art. 2 ust. 1-2,
+jak również zawiadomienia prokuratury w przypadku braku dowodów na spełnienie
+wobec niego ww. obowiązku.
+Do wyjaśnień z (…) kwietnia 2018 r. T. załączył pisma realizujące obowiązek informacyj‐
+ny wobec Skarżącego jednakże bez dowodu skutecznego ich doręczenia. Wobec powyż‐
+szego T. pismem z (…) października 2019 r. (znak: ZKE.440.89.2019.(…)) został wezwa‐
+ny do uzupełnienia ww. informacji, a w odpowiedzi na to wezwanie poinformował, że
+cyt.:„Z uwagi na to że pisma z dnia (…) marca 2018 r. oraz z dnia (…) kwietnia 2018 r.
+zostały wysłane do Skarżącego listami zwykłymi (…) Spółka nie posiada kopii nadania
+ww. listów poleconych”.
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+I.
+Na wstępie wskazać należy, że z dniem 25 maja 2018 r., wraz z wejściem w życie
+ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz.
+1781) zwana dalej „u.o.d.o.”, Biuro Generalnego Inspektora Ochrony Danych Osobo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_89/content
+
+2025-09-03 13:51
+
+Decyzja ZKE.440.89.2019
+
+Strona 3 z 6
+
+wych stało się Urzędem Ochrony Danych Osobowych. Postępowania prowadzone
+przez Generalnego Inspektora Ochrony Danych Osobowych, wszczęte i niezakończo‐
+ne przed 25 maja 2018 r. prowadzone są przez Prezesa Urzędu Ochrony Danych
+Osobowych, na podstawie ustawy z 1997 r. zgodnie z zasadami określonymi w
+Kodeksie postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 ze zm.), zwa‐
+nego dalej Kpa. Wszelkie czynności podejmowane przez Generalnego Inspektora
+Ochrony Danych Osobowych przed 25 maja 2018 r. pozostają skuteczne (art. 160
+ust. 1 i ust. 2 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych).
+W przedmiotowej sprawie – w odniesieniu do skargi Skarżącego na niespełnie‐
+nie obowiązku informacyjnego przez T. – na wstępie należy wskazać, że chociaż
+Skarżący wystąpił w 2017 r. o spełnienie obowiązku informacyjnego, a więc w
+oparciu o przepisy ustawy z 1997 r., to organ administracji publicznej wydaje
+decyzję administracyjną na podstawie przepisów prawa obowiązujących w chwi‐
+li jej wydania, czyli po 25 maja 2018 r. na podstawie Rozporządzenia Parlamen‐
+tu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie
+ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w
+sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/
+WE (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018,
+str. 2 ze zm.), zwanego dalej RODO.
+Stosownie do art. 33 ust. 1 ustawy z 1997 r. na wniosek osoby, której dane do‐
+tyczą administrator danych był obowiązany, w terminie 30 dni, poinformować o
+przysługujących jej prawach oraz udzielić, odnośnie jej danych osobowych, in‐
+formacji, o których mowa w art. 32 ust. 1 pkt 1 – 5a ustawy, a w szczególności
+podać w formie zrozumiałej: jakie dane osobowe zawierał zbiór, w jaki sposób
+zebrano dane, w jakim celu i zakresie dane były przetwarzane, w jakim zakresie
+oraz komu dane zostały udostępnione. Komentowany przepis pozostawał w
+związku z art. 32 ustawy, który przewidywał, iż osoba, której dane dotyczą mo‐
+gła domagać się od administratora danych udzielenia jej określonych informacji.
+Zgodnie, z ust. 1 tego przepisu, każdej osobie przysługiwało prawo do kontroli
+przetwarzania danych, które jej dotyczą, zawartych w zbiorach danych, a
+zwłaszcza prawo do: uzyskania wyczerpującej informacji, czy taki zbiór istnieje,
+oraz do ustalenia administratora danych, adresu jego siedziby i pełnej nazwy, a
+w przypadku gdy administratorem danych jest osoba fizyczna - jej miejsca za‐
+mieszkania oraz imienia i nazwiska (pkt 1), uzyskania informacji o celu, zakresie
+i sposobie przetwarzania danych zawartych w takim zbiorze (pkt 2), uzyskania
+informacji, od kiedy przetwarza się w zbiorze dane jej dotyczące, oraz podania
+w powszechnie zrozumiałej formie treści tych danych (pkt 3), uzyskania infor‐
+macji o źródle, z którego pochodzą dane jej dotyczące, chyba że administrator
+danych jest zobowiązany do zachowania w tym zakresie tajemnicy państwowej,
+i służbowej lub zawodowej (pkt 4), uzyskania informacji o sposobie udostępnia‐
+nia danych, a w szczególności informacji o odbiorcach lub kategoriach odbior‐
+ców, którym dane te są udostępniane (pkt 5). Podkreślenia wymaga, że admini‐
+strator jest zobowiązany do udzielenia odpowiedzi na wniosek z art. 33 o zreali‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_89/content
+
+2025-09-03 13:51
+
+Decyzja ZKE.440.89.2019
+
+Strona 4 z 6
+
+zowanie obowiązku informacyjnego, nawet wówczas gdy nie przetwarza da‐
+nych, przy czym będzie to oczywiście odpowiedź informująca o tym fakcie.
+Obowiązek informacyjny przewidziany w art. 33 ustawy miał na celu zapewnie‐
+nie osobom, których dane osobowe są przetwarzane, dostępu do informacji o
+okolicznościach ich przetwarzania. Prawidłowe i rzetelne wypełnienie przez ad‐
+ministratora danych tego obowiązku było niezbędne do zapewnienia osobie,
+której dane osobowe dotyczą, kontroli prawidłowości procesu przetwarzania da‐
+nych osobowych. Jak wskazał Naczelny Sąd Administracyjny w wyroku z dnia 30
+lipca 2009 r. (sygn. akt I OSK 1049/08): „Nie powinno ulegać wątpliwości, że
+niewykonanie tego obowiązku [informacyjnego określonego w art. 33 ustawy
+jest naruszeniem przepisów tej ustawy [o ochronie danych osobowych] w rozu‐
+mieniu jej art. 18, uprawniającym i zobowiązującym Generalnego Inspektora
+Ochrony Danych Osobowych do wydania decyzji administracyjnej w przedmio‐
+cie nakazania przywrócenia stanu zgodnego z prawem, a więc w sytuacji okre‐
+ślonej w art. 33 ust. 1 i 2 tej ustawy - w przedmiocie nakazania administratorowi
+danych osobowych spełnienia obowiązku informacyjnego, o którym mowa w
+tym artykule”.
+Obecnie należy stwierdzić, że spełnienie obowiązku informacyjnego na wniosek
+osoby, której dane dotyczą znajduje swoje odzwierciedlenie w art. 15 ust. 1
+RODO. Przepis ten stanowi, że osoba, której dane dotyczą, jest uprawniona do
+uzyskania od administratora potwierdzenia, czy przetwarzane są dane osobowe
+jej dotyczące, a jeżeli ma to miejsce, jest uprawniona do uzyskania dostępu do
+nich.
+Dla prawidłowej interpretacji przepisów dotyczących powyżej wskazanego obo‐
+wiązku istotne znaczenie ma Motyw 63 Preambuły RODO, który stanowi, że
+„Każda osoba fizyczna powinna mieć prawo dostępu do zebranych danych jej
+dotyczących oraz powinna mieć możliwość łatwego wykonywania tego prawa w
+rozsądnych odstępach czasu, by mieć świadomość przetwarzania i móc
+zweryfikować zgodność przetwarzania z prawem (…)”. Art. 15 ust. 1 RODO ma
+na celu zapewnienie osobom, których dane osobowe są przetwarzane, dostępu
+do informacji o okolicznościach ich przetwarzania. Prawidłowe i rzetelne wypeł‐
+nienie przez administratora danych tego obowiązku jest niezbędne do zapew‐
+nienia osobie, której dane osobowe dotyczą, kontroli prawidłowości procesu
+przetwarzania danych osobowych. Złożenie wniosku, zależnie od jego treści, zo‐
+bowiązuje administratora danych do udzielenia pełnych informacji o procesie
+przetwarzania danych w zakresie nie węższym niż przewiduje powołany przepis
+art. 15 RODO. Przepis ten określa minimum informacji, jakie administrator da‐
+nych musi przekazać wnioskodawcy, istotne jest jednak by informacje, o któ‐
+rych udostępnienie Skarżący w trybie tego przepisu wnioskuje, odnosiły się do
+jego osoby i swą definicją odpowiadały zdefiniowanemu w RODO pojęciu
+danych osobowych.
+Jednocześnie wskazać należy, że zgodnie z art. 12 RODO administrator podej‐
+muje odpowiednie środki, aby w zwięzłej, przejrzystej, zrozumiałej i łatwo do‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_89/content
+
+2025-09-03 13:51
+
+Decyzja ZKE.440.89.2019
+
+II.
+
+Strona 5 z 6
+
+stępnej formie, jasnym i prostym językiem - w szczególności gdy informacje są
+kierowane do dziecka - udzielić osobie, której dane dotyczą, wszelkich informa‐
+cji, o których mowa w art. 13 i 14 RODO, oraz prowadzić z nią wszelką komuni‐
+kację na mocy art. 15-22 i 34 RODO w sprawie przetwarzania. Informacji udziela
+się na piśmie lub w inny sposób, w tym w stosownych przypadkach - elektro‐
+nicznie. Jeżeli osoba, której dane dotyczą, tego zażąda, informacji można udzie‐
+lić ustnie, o ile innymi sposobami potwierdzi się tożsamość osoby, której dane
+dotyczą.
+W toku postępowania zgromadzony materiał dowodowy wykazał, iż T. nie dys‐
+ponuje dowodem na to, że skutecznie udzielił Skarżącemu informacji wskaza‐
+nych w art. 32 ust. 1 pkt 1-5 ustawy z 1997 r. realizując tym samym wobec
+Skarżącego obowiązek informacyjny. W szczególności za dowód dostarczenia
+korespondencji nie można uznać kopii pism zawierających dane adresowe Skar‐
+żącego, jak również wygenerowane z systemu potwierdzenie jego adresu do ko‐
+respondencji. Kopie pism przedstawione przez T. w wyjaśnieniach z (…) paź‐
+dziernika 2019 r. świadczą jedynie o fakcie ich sporządzenia, nie stanowią nato‐
+miast dowodu na okoliczność, że Skarżący skutecznie zapoznał się z ich treścią.
+Wobec braku przedstawienia przez T. niebudzących wątpliwości dowodów po‐
+twierdzających wysyłkę zaadresowanych do Skarżącego pism, należy uznać, że
+obowiązek informacyjny przewidziany w art. 33 ust. 1 ustawy z 1997 r. nie zo‐
+stał wykonany. Tym samym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął jak w pkt 1 sentencji decyzji.
+Odnosząc się natomiast do złożonego przez Skarżącego wniosku o zawiadomienie
+prokuratora na podstawie art. 304 § 2 ustawy z dnia 6 czerwca 1997 r. Kodeks
+postępowania karnego (Dz.U. 2020 poz. 30), wskazać należy, że strona postępowa‐
+nia administracyjnego może domagać się od Prezesa Urzędu Ochrony Danych Oso‐
+bowych wyłącznie wydania decyzji administracyjnej, a nie zawiadomienia o popeł‐
+nieniu przestępstwa, o konieczności złożenia którego Prezes Urzędu Ochrony Da‐
+nych Osobowych decyduje z urzędu. Powyższe stanowisko Prezesa Urzędu Ochrony
+Danych Osobowych potwierdził Naczelny Sąd Administracyjny, który w wyroku z
+dnia 21 listopada 2002 r. (sygn. akt II S.A. 1682/01) stwierdził, że „w świetle ustawy
+naruszenie jej przepisów staje się więc źródłem odpowiedzialności administracyjnej,
+prowadzącej w istocie jedynie do obowiązku przywrócenia stanu zgodnego z pra‐
+wem oraz odpowiedzialności karnej. Przy czym jedynie ten pierwszy rodzaj odpowie‐
+dzialności realizowany jest w formie decyzji administracyjnej”. NSA stwierdził także,
+i „w przypadku gdy wyniki działania kontrolnego będą wskazywać, iż działanie lub
+zaniechanie kierownika jednostki organizacyjnej, jej pracownika lub innej osoby fi‐
+zycznej będącej administratorem danych nosi znamiona przestępstwa, GIODO ma
+obowiązek skierowania zawiadomienia o popełnieniu przestępstwa do organu powo‐
+łanego do ścigania przestępstw (…). Nie dokonuje tego jednak, jak w przypadku art.
+18 w drodze decyzji administracyjnej, lecz w drodze wystąpienia, które stanowi re‐
+alizację jego kompetencji w tej sprawie. Wskazuje na to zarówno wyraźne określenie
+formy decyzji w art. 18 ustawy z 1997 roku, a brak tego określenia w art. 19, jak i
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_89/content
+
+2025-09-03 13:51
+
+Decyzja ZKE.440.89.2019
+
+Strona 6 z 6
+
+istota i znaczenie decyzji administracyjnej. Nakłada ona bowiem na stronę pewne
+uprawnienia lub obowiązek lub odmawia jego przyznania. Tymczasem wystąpienie
+do prokuratury z informacją o podejrzeniu przestępstwa nie ma takiego charakteru.
+Co do zasady nie nadaje się więc do rozstrzygnięcia w formie decyzyjnej.” Również
+w wyroku z dnia 19 listopada 2001 r. (sygn. akt II SA 2702/00) Naczelny Sąd Admini‐
+stracyjny w Warszawie wskazał, że „osoba dochodząca ochrony swych spraw w try‐
+bie w/w ustawy o ochronie danych osobowych nie jest podmiotem postępowania ob‐
+liczonego na wydanie decyzji o zawiadomieniu stosownego organu o przestępstwie
+w zakresie przetwarzania danych osobowych i nie może się tego domagać od GIO‐
+DO w administracyjno-prawnych formach tego postepowania. (…) GIODO może po‐
+dejmować czynności tylko na zasadzie i w formach przewidzianych ustawą. Sposób
+załatwienia sprawy co do meritum reguluje w/w art. 18 ustawy z 1997 roku, przy‐
+znając GIODO uprawnienia w zakresie nakazania administratorowi winnemu
+naruszenia przywrócenia stanu zgodnego z prawem”.
+Mając na uwadze powyższe Prezes Urzędu Ochrony Danych Osobowych rozstrzygnął, jak
+w pkt. 2 sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zke_440_89/content
+
+2025-09-03 13:51
+

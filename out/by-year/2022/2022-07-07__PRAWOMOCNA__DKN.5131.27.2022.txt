@@ -1,0 +1,1158 @@
+Warszawa, 7 lipca 2022
+PRAWOMOCNA
+
+Decyzja
+DKN.5131.27.2022
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r., poz. 735, ze zm.), art. 7 ust. 1, art. 60, art. 102 ust.
+1 pkt 1 i ust. 3 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z
+2019 r., poz. 1781) a także art. 57 ust. 1 lit. a) i h), art. 58 ust. 2 lit. e) oraz i), art. 83 ust.
+1 i ust. 2, art. 83 ust. 4 lit. a) w związku z art. 33 ust. 1 oraz art. 34 ust. 1, 2 i 4 rozporzą‐
+dzenia Parlamentu Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w spra‐
+wie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne
+rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L
+127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35), zwanego dalej „roz‐
+porządzeniem 2016/679”,
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w sprawie
+naruszenia przepisów o ochronie danych osobowych przez Głównego Geodetę Kraju z
+siedzibą w Warszawie (adres: ul. (…), (…) Warszawa), Prezes Urzędu Ochrony Danych
+Osobowych,
+1. stwierdzając naruszenie przez Głównego Geodetę Kraju z siedzibą w Warszawie przy
+ul. (…) przepisów:
+a) art. 33 ust. 1 rozporządzenia 2016/679, polegające na niezgłoszeniu Prezesowi
+Urzędu Ochrony Danych Osobowych naruszenia ochrony danych osobowych bez
+zbędnej zwłoki, nie później niż w terminie 72 godzin po stwierdzeniu naruszenia
+oraz
+b) art. 34 ust. 1 rozporządzenia 2016/679, polegające na niezawiadomieniu o na‐
+ruszeniu ochrony danych osobowych, bez zbędnej zwłoki osób, których dane
+dotyczą,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+2.
+
+Strona 2 z 24
+
+nakłada na Głównego Geodetę Kraju z siedzibą w Warszawie, przy ul. (…) admi‐
+nistracyjną karę pieniężną w wysokości 60 000 PLN (słownie: sześćdziesiąt
+tysięcy złotych),
+nakazuje Głównemu Geodecie Kraju z siedzibą w Warszawie przy ul. (…) zawiado‐
+mienie – w terminie 3 dni od dnia doręczenia niniejszej decyzji – osób, których dane
+dotyczą, o naruszeniu ochrony ich danych osobowych w celu przekazania im infor‐
+macji wymaganych zgodnie z art. 34 ust. 2 rozporządzenia 2016/679, tj.:
+a) opisu charakteru naruszenia ochrony danych osobowych;
+b) imienia i nazwiska oraz danych kontaktowych inspektora ochrony danych lub
+oznaczenia innego punktu kontaktowego, od którego można uzyskać więcej in‐
+formacji;
+c) opisu możliwych konsekwencji naruszenia ochrony danych osobowych;
+d) opisu środków zastosowanych lub proponowanych przez administratora w celu
+zaradzenia naruszeniu - w tym środków w celu zminimalizowania jego
+ewentualnych negatywnych skutków.
+
+Uzasadnienie
+Prezes Urzędu Ochrony Danych Osobowych (dalej zwany „Prezesem UODO”) powziął in‐
+formację o możliwym naruszeniu ochrony danych osobowych, polegającym na ujawnie‐
+niu numerów ksiąg wieczystych w serwisie www.geoportal.gov.pl, zwanym dalej „Serwi‐
+sem”, prowadzonym przez Głównego Geodetę Kraju (adres: ul. (…), (…) Warszawa),
+zwanego dalej „Administratorem”. Informacja o ujawnieniu nr ksiąg wieczystych w Ser‐
+wisie dostępna jest m.in. w serwisach internetowych niebezpiecznik (https://niebezpiecz‐
+nik.pl /post/numery-ksiag-wieczystych-znow-byly-widoczne-w-geoportalu-ale-to-bylblad/) i geoforum (https://geoforum.pl/ news/32207/czy-w-geoportalu-znow-pojawily-sienumery-ksiag-wieczystych-).
+W związku z powyższym, w dniu (…) kwietnia 2022 r. Prezes UODO poinformował Admi‐
+nistratora o obowiązkach wynikających z art. 33 ust. 1 i 3 rozporządzenia Parlamentu Eu‐
+ropejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fi‐
+zycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego prze‐
+pływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o
+ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018,
+str.2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35), zwanego dalej „rozporządzeniem
+2016/679”, tj. o obowiązku zgłoszenia naruszenia ochrony danych osobowych Prezesowi
+UODO. Jednocześnie Prezes UODO poinformował Administratora o możliwych sposobach
+dokonania zgłoszenia naruszenia ochrony danych osobowych organowi nadzorczemu.
+Ponadto, Prezes UODO zwrócił się do Administratora, na podstawie art. 58 ust. 1 lit. a) i
+e) rozporządzenia 2016/679, o przekazanie informacji, czy w związku z ww. możliwością
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 3 z 24
+
+wystąpienia naruszenia ochrony danych osobowych została dokonana analiza incydentu
+pod kątem ryzyka naruszenia praw lub wolności osób fizycznych niezbędna do oceny,
+czy doszło do naruszenia ochrony danych skutkującego koniecznością zawiadomienia o
+tym fakcie Prezesa Urzędu Ochrony Danych Osobowych oraz osób, których dotyczy na‐
+ruszenie.
+W odpowiedzi na wyżej wskazane wezwanie Administrator udzielił wyjaśnień pismem z
+dnia (…) kwietnia 2022 r., w którym wskazano, że (cyt.): „(…) Główny Geodeta Kraju stoi
+na stanowisku, iż ujawniane w tym serwisie numery ksiąg wieczystych nie są danymi
+osobowymi w rozumieniu art. 4 pkt 1 (…)” rozporządzenia 2016/679. Administrator
+wskazał także, że kwestia ta była przedmiotem decyzji Prezesa UODO, a w chwili obec‐
+nej jest rozpatrywana przez Naczelny Sąd Administracyjny w postępowaniu będącym na‐
+stępstwem ww. decyzji, zaś do czasu rozstrzygnięcia sprawy numery ksiąg wieczystych
+w serwisie www.geoportal.gov.pl są niedostępne. Administrator wskazał jednocześnie, że
+(cyt.): „w dniach (…) kwietnia 2022 r. od godz. (…) do (…) kwietnia 2022 r. do godz. (…)
+miał miejsce incydent teleinformatyczny związany z pomyłką (…). W wyniku (…) numery
+ksiąg wieczystych były widoczne przez ok. 48 godzin w serwisie www.geoportal.gov.pl.”.
+Główny Geodeta Kraju wskazał również, że (cyt.): „(…) nawet gdyby przyjąć, że mamy tu
+jednak do czynienia z danymi osobowymi, to w związku ze wspomnianą pomyłką nie po‐
+jawiło się żadne dodatkowe ryzyko naruszenia praw i wolności, a to z uwagi na fakt, że
+numery ksiąg wieczystych są powszechnie dostępne w innych źródłach (…)”.
+Dodatkowo Główny Geodeta Kraju zwrócił uwagę, że (cyt.) „numery ksiąg wieczystych
+zostały wskazane w tabeli nr 4 w załączniku nr 8 do rozporządzenia Ministra Rozwoju,
+Pracy i Technologii z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków (Dz.
+U. 2021, poz. 1390) jako obligatoryjny element udostępniania danych z ewidencji grun‐
+tów i budynków za pomocą usług sieciowych i portali internetowych (§ 39 rozporządze‐
+nia), wskazując jednocześnie, że w jego ocenie przepis art. 20 ust. 1 pkt 1 ustawy z dnia
+17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990) w powią‐
+zaniu z ww. przepisem rozporządzenia daje starostom możliwość publikacji m.in.
+numerów ksiąg wieczystych w usługach sieciowych.”
+W związku z poczynionymi ustaleniami Prezes UODO w dniu (…) kwietnia 2022 r. wszczął
+z urzędu postępowanie administracyjne w sprawie naruszenia przepisów o ochronie da‐
+nych osobowych w związku z przetwarzaniem danych osobowych w rozumieniu rozpo‐
+rządzenia 2016/679 przez Głównego Geodetę Kraju, wskazując jako przedmiot postępo‐
+wania na możliwość naruszenia przez Głównego Geodetę Kraju obowiązków wynikają‐
+cych z przepisów art. 33 ust. 1 oraz art. 34 ust. 1 i 2 rozporządzenia 2016/679. Jednocze‐
+śnie Prezes UODO zwrócił się do Głównego Geodety Kraju o przesłanie wyników analizy
+ryzyka naruszenia praw lub wolności osób fizycznych, dokonanej w związku z ujawnie‐
+niem numerów ksiąg wieczystych w serwisie www.geoportal.gov.pl wraz z przyjętą meto‐
+dyką dokonanej oceny ryzyka naruszenia praw lub wolności osób fizycznych. Dodatkowo
+Prezes UODO zwrócił się o wskazanie, czy, a jeśli tak, to kiedy i w jakiej formie osoby,
+których dane dotyczą, zostały zawiadomione o naruszeniu ich danych osobowych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 4 z 24
+
+W odpowiedzi na zawiadomienie o wszczęciu postępowania administracyjnego, Admini‐
+strator pismem, które wpłynęło do tutejszego Urzędu w dniu (…) kwietnia 2022 r., po‐
+nownie wskazał, że w jego ocenie numery ksiąg wieczystych nie są danymi osobowymi
+w rozumieniu rozporządzenia 2016/679 i w związku z powyższym (cyt.) „w zaistniałej sy‐
+tuacji nie może być mowy o naruszeniu ochrony danych osobowych”.
+Odnosząc się do wniosków Prezesa UODO o przedstawienie wyników analizy oceny ryzy‐
+ka naruszenia ochrony danych osobowych oraz przedstawienia informacji, czy osoby,
+których dane dotyczą, zostały zawiadomione o naruszeniu ich danych osobowych,
+Administrator wskazał, że (cyt): „Analiza zaistniałej sytuacji, o której mowa w piśmie z
+(…) kwietnia 2022 r., była oparta na bezsprzecznych faktach, że skoro cała księga wie‐
+czysta (a więc i jej numer) jest jawny, a numery ksiąg wieczystych są także powszechnie
+dostępne w innych źródłach, co nie jest kwestionowane przez Pana Prezesa, to oznacza
+m.in., że ich publikacja nie niesie w sobie żadnego zagrożenia dla praw i wolności osób
+fizycznych.” Ponadto Administrator wskazał, że (cyt): „nawet gdyby przyjąć, że numery
+ksiąg wieczystych są rzekomo "danymi osobowymi", to GGK podjął natychmiastowe i
+skuteczne działania polegające na wyłączeniu ich widoczności, co uniemożliwiło dostęp
+do tych danych osobom nieuprawnionym. Podjęte działania skutecznie wyeliminowały
+więc prawdopodobieństwo ewentualnego ryzyka naruszenia praw lub wolności osób,
+przez co – nawet przy uznaniu numerów ksiąg wieczystych jako danych osobowych – nie
+było wymagane zawiadamianie kogokolwiek (art. 33 ust. 1 i art. 34 ust. 3 lit. a i b)” roz‐
+porządzenia 2016/679.
+Ponadto Administrator wskazał, że (cyt):
+„
+krótkotrwała widoczność numerów ksiąg wieczystych nie wpływa w żaden sposób na
+poziom ryzyka naruszenia praw i wolności osób, których dane dotyczą z uwagi na
+działania portali takich jak:
+Ø https://geoportal360.pl/;
+Ø https://ekw.plus/;
+Ø http://www.wieczyste.pl/;
+Ø https://skaner.com;
+Ø http://www.znajdzksiege.pl/;
+Ø https://ksiegiwieczyste.pl
+Ø https://hipoteki.pl
+–
+które publikując numery ksiąg wieczystych, działają zgodnie z prawem (art. 2
+ustawy o księgach wieczystych i hipotece oraz art. 20 ust. 1 pkt 1 i art. 24 ust. 2
+ustawy Prawo geodezyjne i kartograficzne). Nie widzę zatem podstaw, aby
+uznać, że krótkotrwałe pojawienie się numerów ksiąg wieczystych na
+www.geoportal.gov.pl spowodowało jakiekolwiek ryzyko naruszenia praw i
+wolności osób, których dane dotyczą”.
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje:
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 5 z 24
+
+Zgodnie z art. 33 ust. 1 rozporządzenia 2016/679 w przypadku naruszenia ochrony da‐
+nych osobowych, administrator bez zbędnej zwłoki – w miarę możliwości, nie później niż
+w terminie 72 godzin po stwierdzeniu naruszenia – zgłasza je organowi nadzorczemu
+właściwemu zgodnie z art. 55, chyba że jest mało prawdopodobne, by naruszenie to
+skutkowało ryzykiem naruszenia praw lub wolności osób fizycznych. Do zgłoszenia prze‐
+kazanego organowi nadzorczemu po upływie 72 godzin dołącza się wyjaśnienie przyczyn
+opóźnienia.
+Art. 34 ust. 1 rozporządzenia 2016/679 stanowi, że jeżeli naruszenie ochrony danych
+osobowych może powodować wysokie ryzyko naruszenia praw lub wolności osób fizycz‐
+nych, administrator bez zbędnej zwłoki zawiadamia osobę, której dane dotyczą, o takim
+naruszeniu. Zgodnie zaś z art. 34 ust. 2 rozporządzenia 2016/679, zawiadomienie, o któ‐
+rym mowa w ust. 1 niniejszego artykułu, jasnym i prostym językiem opisuje charakter
+naruszenia ochrony danych osobowych oraz zawiera przynajmniej informacje i środki, o
+których mowa w art. 33 ust. 3 lit. b), c) i d).
+Główny Geodeta Kraju jest administratorem danych przetwarzanych w Serwisie. Zgodnie
+z „Regulaminem Serwisu - www.geoportal.gov.pl”, udostępnionym na stronie interneto‐
+wej pod adresem https://www.geoportal.gov.pl/regulamin, „Administratorem Serwisu w
+rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną. (Dz.
+U. z 2002 r. Nr 144 poz. 1204 ze zm.) jest Główny Geodeta Kraju”. We wskazanym regu‐
+laminie Serwisu, w rozdziale zatytułowanym „RODO - Wypełnienie obowiązku informacyj‐
+nego”, znajduje się odniesienie do klauzuli informacyjnej. Ww. klauzula udostępniona
+pod adresem http://www.gugik.gov.pl/urzad/ rodo-wypelnienie-obowiazkuinformacyjnego zawiera informację o treści „Administratorem Pani/Pana danych osobo‐
+wych jest Główny Geodeta Kraju, ul. (…), (…) Warszawa”.
+Odnosząc się do przedstawionego przez Administratora stanowiska, zgodnie z którym
+numery ksiąg wieczystych nie są danymi osobowymi, w pierwszej kolejności wskazać na‐
+leży definicję danych osobowych przedstawioną w art. 4 pkt 1 rozporządzenia 2016/679.
+Zgodnie ze wskazanym przepisem, „dane osobowe” oznaczają informacje o zidentyfiko‐
+wanej lub możliwej do zidentyfikowania osobie fizycznej („osobie, której dane dotyczą”);
+możliwa do zidentyfikowania osoba fizyczna to osoba, którą można bezpośrednio lub po‐
+średnio zidentyfikować, w szczególności na podstawie identyfikatora takiego jak imię i
+nazwisko, numer identyfikacyjny, dane o lokalizacji, identyfikator internetowy lub jeden
+bądź kilka szczególnych czynników określających fizyczną, fizjologiczną, genetyczną,
+psychiczną, ekonomiczną, kulturową lub społeczną tożsamość osoby fizycznej. Nie ulega
+wątpliwości, że podmiotami, których dotyczą poszczególne prawa i obowiązki ujawnione
+w księgach wieczystych, są również osoby fizyczne. Zgodnie z art. 25 ust. 1 ustawy z
+dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2019 r. poz. 2204 ze
+zm.), zwanej dalej „ustawą o księgach wieczystych i hipotece”, księga wieczysta zawiera
+cztery działy, z których:
+1) pierwszy obejmuje oznaczenie nieruchomości oraz wpisy praw związanych z jej wła‐
+snością;
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+2)
+3)
+
+4)
+
+Strona 6 z 24
+
+drugi obejmuje wpisy dotyczące własności i użytkowania wieczystego;
+trzeci przeznaczony jest na wpisy dotyczące ograniczonych praw rzeczowych, z wy‐
+jątkiem hipotek, na wpisy ograniczeń w rozporządzaniu nieruchomością lub użytko‐
+waniem wieczystym oraz na wpisy innych praw i roszczeń, z wyjątkiem roszczeń
+dotyczących hipotek;
+czwarty przeznaczony jest na wpisy dotyczące hipotek. Zakres ujawnianych w księ‐
+dze wieczystej danych osób fizycznych obejmuje m.in. imiona, nazwiska, imiona ro‐
+dziców, numer PESEL, adres nieruchomości. Na tej podstawie stwierdzić należy, że
+podane do publicznej wiadomości numery ksiąg wieczystych pozwalają na identyfi‐
+kację osób, których dane zawarte są w księdze wieczystej. Posiadanie informacji o
+numerze księgi wieczystej umożliwia w sposób łatwy i prosty dostęp do danych pod‐
+miotowych osób ujawnionych w księgach wieczystych. Uzyskanie wglądu do danych
+osobowych zawartych w treści księgi wieczystej nie wymaga bowiem od osób dys‐
+ponujących tym numerem posiadania dostępu do dedykowanego systemu informa‐
+tycznego ani posiadania specjalnych uprawnień. Numer księgi wieczystej jest infor‐
+macją, która pozwala w sposób pośredni zidentyfikować osobę fizyczną (tj. właści‐
+ciela danej nieruchomości). W związku z tym uznać należy, że numer księgi wieczy‐
+stej stanowi dane osobowe w rozumieniu art. 4 ust. 1 rozporządzenia 2016/679.
+
+Powyższe stanowisko Prezesa UODO zostało również ugruntowane w orzecznictwie są‐
+dów administracyjnych. Jak wskazał Naczelny Sąd Administracyjny w uzasadnieniu
+wyroku z dnia 26 września 2018 r., sygn. akt I OSK 11/17, „otrzymanie informacji doty‐
+czącej oznaczenia księgi wieczystej umożliwia bowiem w sposób łatwy i prosty dostęp do
+treści całej księgi wieczystej, a więc wszystkich IV działów, a w tym również do zawar‐
+tych w niej danych podmiotowych. Ubieganie się o uzyskanie z ewidencji gruntów i bu‐
+dynków danych dotyczących oznaczenia księgi wieczystej ma na celu nie pozyskanie
+"zbioru oznaczonych cyfr i znaków", ale ma na celu pozyskanie danych podmiotowych
+dotyczących właściciela nieruchomości, które w prosty sposób można pozyskać dyspo‐
+nując "zbiorem oznaczonych cyfr i znaków", czyli oznaczeniem księgi wieczystej.” Po‐
+wyższe stanowisko Naczelnego Sądu Administracyjnego podzielił również Wojewódzki
+Sąd Administracyjny w Warszawie w uzasadnieniu wyroku z dnia 5 maja 2021 r., sygn.
+akt II SA/Wa 2222/20.
+W konsekwencji uznać należy, że ujawnienie numerów ksiąg wieczystych w serwisie geo‐
+portal.gov.pl narusza ochronę danych osób, których one dotyczą.
+Prezes UODO nie podziela również przedstawionego w toku postępowania przez Admini‐
+stratora stanowiska, zgodnie z którym publikowanie numerów ksiąg wieczystych w ogól‐
+nie dostępnych usługach sieciowych odbywa się zgodnie z prawem na podstawie art. 2
+ustawy o księgach wieczystych i hipotece oraz art. 20 ust. 1 pkt 1 i art. 24 ust. 2 ustawy
+z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. 2020 r. poz. 276), zwa‐
+nej dalej „Prawem geodezyjnym i kartograficznym”. Zgodnie z powoływanym przez Ad‐
+ministratora art. 2 ustawy o księgach wieczystych i hipotece, księgi wieczyste są jawne.
+Należy jednak wskazać, że ustawa o księgach wieczystych i hipotece zawiera regulacje,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 7 z 24
+
+które zapewniają realizację zasady jawności ksiąg wieczystych. Są to w szczególności
+przepisy art. 364 ust. 5 i 6 tej ustawy. Jak wynika z tych przepisów, Centralna Informacja
+Ksiąg Wieczystych umożliwia, za pośrednictwem systemu teleinformatycznego, przeglą‐
+danie ksiąg wieczystych, a każdy, kto zna numer księgi wieczystej, może bezpłatnie
+przeglądać księgę wieczystą za pośrednictwem systemu teleinformatycznego. Ustawo‐
+dawca tym samym wskazał, w jaki sposób zapewniana jest jawność ksiąg wieczystych
+oraz jakie podmioty są za to odpowiedzialne. Żaden z tych przepisów, jak również inne
+przepisy ustawy o księgach wieczystych i hipotece, nie przyznają kompetencji w tym za‐
+kresie podmiotom prowadzącym ogólnie dostępne portale internetowe. Ponadto, z żad‐
+nego przepisu powszechnie obowiązującego prawa nie wynika zadanie dla Administrato‐
+ra, czy innych podmiotów prowadzących portale internetowe, do zapewnienia powszech‐
+nej dostępności ksiąg wieczystych i informacji zawartych w jej treści. W tym miejscu na‐
+leży ponownie przypomnieć przywołany wyżej wyrok Naczelnego Sądu Administracyjne‐
+go z 26 września 2018 r., sygn. akt I OSK 11/17, w którego uzasadnieniu NSA stwierdził,
+że „jawność ewidencji gruntów i budynków oznacza to, że informacje zawarte w ewiden‐
+cji nie mają charakteru informacji niejawnych w rozumieniu prawa, nie oznacza to jednak
+powszechnego dostępu do nich.” Powyższe stwierdzenie odnosi się w sposób oczywisty
+również do numerów ksiąg wieczystych, które stanowią informacje objęte ewidencją
+gruntów i budynków.
+Podstawy prawnej do udostępniania w powszechnie dostępnych usługach sieciowych nr
+ksiąg wieczystych nie stanowią również wskazywane przez Administratora art. 20 ust. 1
+pkt 1 i art. 24 ust. 2 Prawa geodezyjnego i kartograficznego. Przepis art. 20 ust. 1 pkt 1
+Prawa geodezyjnego i kartograficznego określa, że ewidencja gruntów i budynków obej‐
+muje informacje dotyczące gruntów – ich położenia, granic, powierzchni, rodzajów użyt‐
+ków gruntowych oraz ich klas bonitacyjnych, oznaczenia ksiąg wieczystych lub zbiorów
+dokumentów, jeżeli zostały założone dla nieruchomości, w skład której wchodzą grunty.
+Z kolei art. 24 ust. 2 Prawa geodezyjnego i kartograficznego stanowi, że informacje za‐
+warte w operacie ewidencyjnym są jawne. Podkreślić jednak należy, że przepisy ww. Pra‐
+wa geodezyjnego i kartograficznego określają zasady udostępniania danych z ewidencji
+gruntów i budynków, które to zasady Administrator całkowicie pomija w swych wyjaśnie‐
+niach. Zgodnie z art. 24 ust. 5 Prawa geodezyjnego i kartograficznego starosta udostęp‐
+nia dane z ewidencji gruntów i budynków zawierające dane podmiotów, o których mowa
+w art. 20 ust. 2 pkt 1, oraz wydaje wypisy z operatu ewidencyjnego, zawierające takie
+dane, na żądanie. Oznacza to, że wbrew twierdzeniom Administratora przepisy art. 20
+ust. 1 pkt 1 i art. 24 ust. 2 Prawa geodezyjnego i kartograficznego nie stanowią podsta‐
+wy prawnej do publikowania numerów ksiąg wieczystych za pośrednictwem powszechnie
+dostępnych usług sieciowych. W cytowanym wyżej uzasadnieniu wyroku z 26 września
+2018 r. wydanego w sprawie o sygn. akt I OSK 11/17 Sąd kasacyjny przesądził, że „(…)
+przyjęcie takiej wykładni, że zawarta w ewidencji gruntów informacja dotycząca ozna‐
+czenia księgi wieczystej ma wyłącznie charakter przedmiotowy, a w konsekwencji może
+być udostępniana każdemu, spowodowałoby, że przyjęta w art. 24 ust. 5 P.g. i k. zasada,
+że udostępnienie danych ewidencyjnych zawierających dane podmiotów, o których
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 8 z 24
+
+mowa w art. 20 ust. 2 pkt 1 może nastąpić tylko na żądanie podmiotów wskazanych w
+pkt 1 do pkt 3 stałaby się bezprzedmiotowa, albowiem każdy poprzez uzyskanie ozna‐
+czenia księgi wieczystej uzyskiwałby dane dotyczące podmiotów. To oznacza, że taka
+wykładnia jest nieprawidłowa, albowiem prowadzi do rezultatu, że dyspozycja normy
+określająca w pkt 1 do pkt 3 nakazane zachowanie stałaby się zbędna. (…) Nie ma bo‐
+wiem wątpliwości, że samo posiadanie oznaczenia księgi wieczystej umożliwia w sposób
+łatwy i prosty niewymagający nadmiernych kosztów, czasu ani szczególnych działań, na
+dostęp do danych podmiotowych osób ujawnionych w księgach wieczystych, a tymi da‐
+nymi, zgodnie z § 41 ust. 1 pkt 4 w zw. z ust. 4 rozporządzenia Ministra Sprawiedliwości z
+dnia 21 listopada 2013 r. w sprawie zakładania i prowadzenia ksiąg wieczystych, w przy‐
+padku osób fizycznych jest imię (imiona), nazwisko, imiona rodziców, jak również numer
+PESEL.”
+W toku postępowania Administrator podniósł ponadto, że numery ksiąg wieczystych zo‐
+stały wskazane w tabeli nr 4 w załączniku nr 8 do rozporządzenia Ministra Rozwoju, Pra‐
+cy i Technologii z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków (Dz. U.
+2021, poz. 1390) jako obligatoryjny element udostępniania danych z ewidencji gruntów i
+budynków za pomocą usług sieciowych i portali internetowych (§ 39 rozporządzenia)
+wskazując jednocześnie, że w jego ocenie przepis art. 20 ust. 1 pkt 1 Prawa geodezyjne‐
+go i kartograficznego w powiązaniu z ww. przepisem rozporządzenia daje starostom
+możliwość publikacji m.in. numerów ksiąg wieczystych w usługach sieciowych. Odnosząc
+się do powyższego wskazać należy, że zasady dostępu do danych osobowych zawartych
+w ewidencji gruntów i budynków wynikają wprost z obowiązującej ustawy Prawo geode‐
+zyjne i kartograficzne i dlatego nie znajduje żadnych podstaw zaprezentowana w piśmie
+Administratora koncepcja wywodzenia powszechnej dostępności do tych danych z prze‐
+pisów rozporządzenia Ministra Rozwoju, Pracy i Technologii w sprawie ewidencji gruntów
+i budynków. Oczywistym jest bowiem, że wskazany § 39 ww. rozporządzenia, stanowiący
+o elektronicznej wymianie danych z ewidencji, odnosi się jedynie do kwestii techniczne‐
+go sposobu przetwarzania danych, w tym udostępniania danych z ewidencji. Oznacza to,
+że zasady publikacji danych z ewidencji gruntów i budynków określone w Prawie geode‐
+zyjnym i kartograficznym (art. 24 ust. 2 oraz art. 24 ust. 5) nie ulegają zmianie. Normy
+aktu wykonawczego nie mogą kreować odrębnego trybu przetwarzania danych z pomi‐
+nięciem reguł Prawa geodezyjnego i kartograficznego, które nie przewiduje powszechnej
+dostępności do danych osobowych zawartych w ewidencji gruntów i budynków. Niedo‐
+puszczalne jest bowiem zastępowanie ustawowych przepisów prawa normujących zasa‐
+dy dostępu do różnych rejestrów, w tym do ewidencji gruntów i budynków, rozwiązania‐
+mi stricte informatycznymi. W świetle powyższego, za nieuzasadnione należy uznać in‐
+terpretowanie wskazywanych przepisów Prawa geodezyjnego i kartograficznego w taki
+sposób, aby rozporządzenie wykonawcze do ustawy miało zmieniać lub zastępować
+zasady udostępniania danych wyrażone w tej ustawie.
+Mając powyższe na względzie, bezsporne w niniejszej sprawie jest to, że udostępnione
+na skutek naruszenia ochrony danych osobowych w prowadzonym przez Administratora
+Serwisie numery ksiąg wieczystych pozwalają na pośrednią identyfikację osób fizycz‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 9 z 24
+
+nych, a tym samym stanowią dane osobowe w rozumieniu art. 4 ust. 1 rozporządzenia
+2016/679. Bezsporne jest również to, że publikowanie numerów ksiąg wieczystych w
+Serwisie nie ma podstawy prawnej w obowiązujących przepisach prawa.
+Zgłaszanie naruszeń ochrony danych osobowych przez administratorów stanowi skutecz‐
+ne narzędzie przyczyniające się do realnej poprawy bezpieczeństwa przetwarzania da‐
+nych osobowych. Zgłaszając naruszenie organowi nadzorczemu, administratorzy infor‐
+mują Prezesa UODO, czy w ich ocenie wystąpiło wysokie ryzyko naruszenia praw lub wol‐
+ności osób, których dane dotyczą oraz - jeśli takie ryzyko wystąpiło - to czy przekazali
+stosowne informacje osobom fizycznym, na które naruszenie wywiera wpływ. W uzasad‐
+nionych przypadkach mogą również przekazać informację, że powiadomienie w ich oce‐
+nie nie jest konieczne ze względu na spełnienie warunków określonych w art. 34 ust. 3
+lit. a) i b) rozporządzenia 2016/679. Prezes UODO dokonuje weryfikacji oceny dokonanej
+przez administratora i może - jeżeli administrator nie zawiadomił osób, których dane do‐
+tyczą - zażądać od niego takiego zawiadomienia. Zgłoszenia naruszenia ochrony danych
+osobowych pozwalają organowi nadzorczemu na właściwą reakcję mogącą ograniczyć
+skutki takich naruszeń, bowiem administrator ma obowiązek podjęcia skutecznych dzia‐
+łań zapewniających ochronę osobom fizycznym i ich danym osobowym, które z jednej
+strony pozwolą na kontrolę skuteczności dotychczasowych rozwiązań, a z drugiej ocenę
+modyfikacji i usprawnień służących zapobieżeniu nieprawidłowościom analogicznym do
+objętych naruszeniem. Natomiast zawiadomienie osób fizycznych o naruszeniu zapewnia
+możliwość przekazania tym osobom informacji na temat ryzyka związanego z narusze‐
+niem oraz wskazania działań, jakie osoby te mogą podjąć, aby uchronić się przed poten‐
+cjalnymi skutkami naruszenia. Obowiązek zawiadomienia osoby fizycznej o naruszeniu
+nie jest uzależniony od materializacji negatywnych konsekwencji dla takiej osoby, ale od
+samej możliwości wystąpienia takiego ryzyka. Tym samym obowiązek ten umożliwia oso‐
+bie fizycznej dokonanie samodzielnej oceny naruszenia w kontekście możliwości mate‐
+rializacji negatywnych konsekwencji dla takiej osoby i podjęcia decyzji o zastosowaniu
+lub braku zastosowania działań zaradczych. Natomiast sama ocena naruszenia przepro‐
+wadzona przez administratora pod kątem ryzyka naruszenia praw lub wolności osób fi‐
+zycznych niezbędna do oceny, czy doszło do naruszenia ochrony danych skutkującego
+koniecznością zawiadomienia Prezesa UODO (art. 33 ust. 1 i 3 rozporządzenia 2016/679)
+oraz osób, których dotyczy naruszenie (art. 34 ust. 1 i 2 rozporządzenia 2016/679),
+powinna być dokonana z punktu widzenia interesów osoby dotkniętej naruszeniem.
+W stanie faktycznym przedmiotowej sprawy ustalono, że do ujawnienia numerów ksiąg
+wieczystych w Serwisie doszło w dniach od (…) kwietnia 2022 r., godz. (…), do (…)
+kwietnia 2022 r., godz. (…). Bez znaczenia dla rozstrzygnięcia w niniejszej sprawie pozo‐
+stają przedstawione w toku postępowania wyjaśnienia, że ujawnienie w Serwisie nume‐
+rów ksiąg wieczystych związane było z pomyłką Administratora. Zgodnie z art. 4 pkt 12)
+rozporządzenia 2016/679, „naruszenie ochrony danych osobowych” oznacza naruszenie
+bezpieczeństwa prowadzące do przypadkowego lub niezgodnego z prawem zniszczenia,
+utracenia, zmodyfikowania, nieuprawnionego ujawnienia lub nieuprawnionego dostępu
+do danych osobowych przesyłanych, przechowywanych lub w inny sposób przetwarza‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 10 z 24
+
+nych. Ujawnienie numerów ksiąg wieczystych w Serwisie w wyniku pomyłki pracownika
+Administratora mieści się więc w definicji naruszenia ochrony danych osobowych
+określonej w rozporządzeniu 2016/679.
+Zgodnie z motywem 85 rozporządzenia 2016/679, (…) natychmiast po stwierdzeniu na‐
+ruszenia ochrony danych osobowych administrator powinien zgłosić je organowi nadzor‐
+czemu bez zbędnej zwłoki, jeżeli to wykonalne, nie później niż w terminie 72 godzin po
+stwierdzeniu naruszenia, chyba że administrator jest w stanie wykazać zgodnie z zasadą
+rozliczalności, że jest mało prawdopodobne, by naruszenie to mogło powodować ryzyko
+naruszenia praw lub wolności osób fizycznych (…).
+Nie można zgodzić się ze stanowiskiem Administratora przedstawionym w toku postępo‐
+wania, zgodnie z którym analiza zaistniałego zdarzenia nie wykazała jakiegokolwiek ry‐
+zyka naruszenia praw lub wolności osób fizycznych. W piśmie z (…) kwietnia 2022 r. sta‐
+nowiącym odpowiedź na pismo informujące o wszczęciu postępowania administracyjne‐
+go, w którym Prezes UODO zwrócił się do Administratora m.in. o przekazanie wyników
+dokonanej analizy ryzyka wraz z przyjętą metodyką dokonanej oceny, Administrator do‐
+datkowo wyjaśnił, że przeprowadzona przez niego analiza oparta była na ocenie, że
+(cyt.): „skoro cała księga wieczysta (a więc i jej numer) jest jawna a numery ksiąg wie‐
+czystych są także powszechnie dostępne w innych źródłach, (…), to oznacza m.in., że
+ich publikacja nie niesie w sobie żadnego zagrożenia dla praw i wolności osób fizycz‐
+nych”. Administrator nie przedstawił przyjętej metodyki dokonanej oceny ryzyka naru‐
+szenia praw lub wolności osób fizycznych opierając swoje stanowisko na ww. okoliczno‐
+ściach.
+Powyżej w uzasadnieniu niniejszej decyzji wskazano już, że zasada jawności ksiąg wie‐
+czystych nie stanowi podstawy prawnej do publikacji numerów ksiąg wieczystych za po‐
+średnictwem prowadzonego przez Administratora Serwisu. Wskazać ponadto należy, że
+udostępnienie przez organ administracji publicznej, jakim jest Administrator, dysponują‐
+cy danymi w skali całego kraju, numerów ksiąg wieczystych w Serwisie przez ponad 48
+godzin mogło dać innym podmiotom udostępniającym numery ksiąg wieczystych za po‐
+średnictwem powszechnie dostępnych usług sieciowych możliwość np. zaktualizowania
+prowadzonych baz danych celem ich dalszego udostępniania. Powyższa okoliczność w
+ocenie Prezesa UODO powinna być wzięta pod uwagę podczas dokonywania oceny ryzy‐
+ka naruszenia praw lub wolności osób fizycznych związanego z ujawnieniem numerów
+ksiąg wieczystych w Serwisie, zdecydowanie powodując zwiększenie poziomu tego ryzy‐
+ka. Podnieść również należy, że Administrator nie może uzasadniać swojego bezprawne‐
+go działania faktem istnienia podmiotów prywatnych, prowadzących serwisy internetowe
+umożliwiające dostęp do treści ksiąg wieczystych.
+Podkreślić należy, że oceny ryzyka naruszenia praw lub wolności osoby fizycznej należy
+dokonać z punktu widzenia interesów osoby dotkniętej naruszeniem, a nie interesów ad‐
+ministratora. W oparciu o zawiadomienie o naruszeniu osoba fizyczna może sama doko‐
+nać oceny, czy w jej opinii incydent bezpieczeństwa może powodować dla niej negatyw‐
+ne konsekwencje i podjąć odpowiednie działania zaradcze. Również w oparciu o informa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 11 z 24
+
+cje przekazane przez administratora dotyczące opisu charakteru naruszenia i zastosowa‐
+nych lub proponowanych środków w celu zaradzenia naruszeniu, osoba fizyczna może
+dokonać oceny, czy po zaistniałym naruszeniu administrator danych nadal daje rękojmię
+należytego przetwarzania jej danych osobowych w sposób zapewniający ich bezpieczeń‐
+stwo. Brak zawiadomienia o naruszeniu osoby fizycznej w przypadku wystąpienia wyso‐
+kiego ryzyka naruszenia jej praw lub wolności pozbawia ją nie tylko możliwości odpo‐
+wiedniej reakcji na naruszenie, ale również możliwości dokonania samodzielnej oceny
+naruszenia, które przecież dotyczy jej danych osobowych i może powodować doniosłe
+konsekwencje dla niej. Natomiast brak zgłoszenia organowi nadzorczemu naruszenia
+ochrony danych osobowych pozbawia ten organ możliwości odpowiedniej reakcji na na‐
+ruszenie, która to reakcja przejawia się nie tylko w ocenie ryzyka naruszenia dla praw
+lub wolności osoby fizycznej, ale również w szczególności na weryfikacji, czy administra‐
+tor zastosował właściwe środki w celu zaradzeniu naruszeniu i zminimalizowania nega‐
+tywnych skutków dla osób, których dane dotyczą, jak również, czy zastosował odpowied‐
+nie środki bezpieczeństwa w celu zminimalizowania ryzyka ponownego wystąpienia na‐
+ruszenia.
+Przepisy art. 33 ust. 1 oraz art. 34 ust. 1 i 2 rozporządzenia 2016/679 nakładają na Ad‐
+ministratora obowiązek zgłoszenia naruszenia Prezesowi UODO oraz zawiadomienia
+osób, których dane dotyczą o naruszeniu ich danych osobowych.
+Administrator może odstąpić od zgłoszenia naruszenia ochrony danych osobowych w
+przypadku gdy jest mało prawdopodobne, by naruszenie to skutkowało ryzykiem naru‐
+szenia praw lub wolności osób fizycznych. Zgodnie z powołanym powyżej motywem 85
+rozporządzenia 2016/679 administrator zgłasza naruszenie organowi nadzorczemu chy‐
+ba, że jest w stanie wykazać zgodnie z zasadą rozliczalności, że jest mało prawdopodob‐
+ne, by naruszenie to mogło powodować ryzyko naruszenia praw lub wolności osób fizycz‐
+nych. Jak wykazano powyżej, Administrator oparł ocenę ryzyka na błędnych, przyjętych
+przez siebie założeniach. Ponadto, w toku postępowania Administrator powoływał się na
+fakt toczącego się przed sądem sporu w tym zakresie. Jak wskazuje Grupa Robocza Art.
+29 w Wytycznych dotyczące zgłaszania naruszeń ochrony danych osobowych zgodnie z
+rozporządzeniem 2016/679 (WP250rev.01), zwanych dalej „Wytycznymi WP250”, „pod‐
+czas oceny ryzyka, które może powstać w wyniku naruszenia, administrator powinien
+łącznie uwzględnić wagę potencjalnego wpływu na prawa i wolności osób fizycznych i
+prawdopodobieństwo jego wystąpienia. Oczywiście ryzyko wzrasta, gdy konsekwencje
+naruszenia są poważniejsze, jak również wtedy, gdy wzrasta prawdopodobieństwo ich
+wystąpienia. W przypadku jakichkolwiek wątpliwości administrator powinien zgłosić
+naruszenie, nawet jeśli taka ostrożność mogłaby się okazać nadmierna”. Z tego względu,
+fakt toczącego się sporu sądowego, którego przedmiotem jest decyzja Prezesa UODO
+sygn. (…) stwierdzająca naruszenie przepisów rozporządzenia 2016/679 poprzez udo‐
+stępnianie w Serwisie bez podstawy prawnej danych osobowych w zakresie numerów
+ksiąg wieczystych pozyskanych z ewidencji gruntów i budynków (prowadzonej przez sta‐
+rostów), nie może stanowić przesłanki w jakikolwiek sposób uzasadniającej niedokonanie
+przez Administratora zgłoszenia naruszenia ochrony danych osobowych Prezesowi
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 12 z 24
+
+UODO, ponieważ Administrator mając jakiekolwiek wątpliwości co do zasadności
+zgłoszenia, tym bardziej zobowiązany były do jego dokonania.
+Obowiązek zgłoszenia naruszenia ochrony danych osobowych określony w art. 33 ust. 1
+rozporządzenia 2016/679 nie jest również uzależniony od tego, czy ryzyko naruszenia
+praw lub wolności osób fizycznych się zmaterializowało. Jak wskazał Wojewódzki Sąd Ad‐
+ministracyjny w uzasadnieniu wyroku z dnia 22 września 2021 r., sygn. akt II SA/Wa
+791/21, „Podkreślić należy, że możliwe konsekwencje zaistniałego zdarzenia nie muszą
+się zmaterializować. W treści art. 33 ust. 1 rozporządzenia 2016/679 wskazano, że samo
+wystąpienie naruszenia ochrony danych osobowych, z którym wiąże się ryzyko narusze‐
+nia praw lub wolności osób fizycznych, implikuje obowiązek zgłoszenia naruszenia wła‐
+ściwemu organowi nadzorczemu, chyba że jest mało prawdopodobne, by naruszenie to
+skutkowało ryzykiem naruszenia praw lub wolności osób fizycznych”. Podobnie
+wypowiedział się WSA w Warszawie w wyroku z dnia 21 stycznia 2022 r., sygn. akt II SA/
+Wa 1353/21, stwierdzając, że „(…) możliwe konsekwencje zdarzenia naruszenia danych
+osobowych nie muszą się zmaterializować - gdyż w art. 33 ust. 1 RODO mowa o tym, że
+samo wystąpienie naruszenia ochrony danych osobowych, z którym wiąże się ryzyko na‐
+ruszenia praw lub wolności osób fizycznych, implikuje obowiązek zgłoszenia naruszenia
+właściwemu organowi nadzorczemu. Podnoszona przez Spółkę okoliczność, że w wyniku
+naruszenia nie doszło do powstania uszczerbku fizycznego lub szkód u osób fizycznych,
+nie ma znaczenia dla stwierdzenia istnienia po stronie Spółki obowiązku zgłoszenia Pre‐
+zesowi UODO naruszenia ochrony danych osobowych, zgodnie z ww. przepisem”.
+W stanie faktycznym przedmiotowej sprawy należy stwierdzić, że Administrator nie prze‐
+prowadził oceny ryzyka naruszenia praw lub wolności osób fizycznych opartej o obiek‐
+tywne kryteria, nie wykazał zgodnie z zasadą rozliczalności, że jest mało prawdopodob‐
+ne by naruszenie to mogło powodować ryzyko naruszenia praw lub wolności osób fizycz‐
+nych, a nie dokonując zgłoszenia naruszenia ochrony danych osobowych Prezesowi
+UODO naruszył art. 33 ust. 1 rozporządzenia 2016/679.
+Naruszenie poufności danych, jakie wystąpiło w przedmiotowej sprawie w związku z na‐
+ruszeniem ochrony danych osobowych polegającym na udostępnieniu, w sposób dający
+możliwość zapoznania się każdemu użytkownikowi Serwisu, numerów ksiąg wieczystych,
+umożliwiających w sposób łatwy i prosty oraz niewymagający nadmiernych kosztów,
+czasu ani szczególnych działań, uzyskanie dostępu do danych podmiotowych osób ujaw‐
+nionych w księgach wieczystych, w tym do numerów PESEL, w ocenie Prezesa UODO po‐
+woduje wysokie ryzyko naruszenia praw lub wolności osób fizycznych. Jak wskazuje
+Grupa Robocza Art. 29 w Wytycznych WP250 „Ryzyko to istnieje w przypadku, gdy naru‐
+szenie może prowadzić do uszczerbku fizycznego lub szkód majątkowych lub niemająt‐
+kowych dla osób, których dane zostały naruszone. Przykłady takich szkód obejmują dys‐
+kryminację, kradzież lub sfałszowanie tożsamości, straty finansowe i naruszenie dobrego
+imienia”. Nie ulega wątpliwości, że przywołane w wytycznych przykłady szkód, z uwagi
+na zakres danych objęty niniejszym naruszeniem ochrony danych osobowych, w tym nr
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 13 z 24
+
+PESEL wraz z imieniem i nazwiskiem oraz informacjami o nieruchomościach, mogą
+wystąpić w omawianym przypadku.
+Dokonując oceny pod kątem ryzyka naruszenia praw lub wolności osób fizycznych, od
+której uzależnione jest dokonanie zgłoszenia naruszenia ochrony danych osobowych
+oraz zawiadomienie o naruszeniu osób, których dane dotyczą, należy łącznie uwzględnić
+czynnik prawdopodobieństwa i wagę potencjalnych negatywnych skutków. Wysoki po‐
+ziom któregokolwiek z tych czynników ma wpływ na wysokość ogólnej oceny, od której
+uzależnione jest wypełnienie obowiązków określonych w art. 33 ust. 1 i art. 34 ust. 1 roz‐
+porządzenia 2016/679. Mając na uwadze to, że ze względu na zakres ujawnionych da‐
+nych osobowych wystąpiła możliwość zmaterializowania się doniosłych negatywnych
+konsekwencji dla osób, których dane dotyczą, to wagę potencjalnego wpływu na prawa
+lub wolności osób fizycznych należy uznać za wysoką. Jednocześnie prawdopodobień‐
+stwo wystąpienia wysokiego ryzyka w następstwie niniejszego naruszenia nie jest małe i
+nie zostało wyeliminowane. Ponadto, ze względu na dużą liczbę osób dotkniętych naru‐
+szeniem wzrasta powaga tego naruszenia, poprzez rozszerzenie możliwości wystąpienia
+negatywnych skutków i w przypadku wątpliwości administratora, co do konieczności
+dokonania zgłoszenia, okoliczność ta powinna zostać uwzględniona.
+Tym samym ponownie należy wskazać, że w związku z przedmiotowym naruszeniem wy‐
+stąpiło wysokie ryzyko naruszenia praw lub wolności osób, których dane dotyczą, co w
+konsekwencji determinuje obowiązek dokonania zgłoszenia naruszenia ochrony danych
+osobowych organowi nadzorczemu oraz zawiadomienia o naruszeniu tych osób. Również
+w związku z zaistnieniem naruszenia ochrony danych osobowych, nie wystąpiły czynniki
+obniżające poziom prawdopodobieństwa negatywnych skutków, jak ograniczona możli‐
+wość identyfikacji, stwierdzenie, że dane osobowe są publicznie dostępne, czy uznanie
+niewłaściwego odbiorcy za osobę „zaufaną”.
+Podkreślić należy, że art. 34 ust. 1 rozporządzenia 2016/679 nakłada na Administratora
+obowiązek zawiadomienia osób, których dane dotyczą, o naruszeniu ich danych
+osobowych. Co istotne, zgodnie z tym przepisem, „jeżeli naruszenie ochrony danych
+osobowych może powodować wysokie ryzyko naruszenia praw lub wolności osób fizycz‐
+nych, administrator bez zbędnej zwłoki zawiadamia osobę, której dane dotyczą, o takim
+naruszeniu”. Podkreślić zatem należy, że przepis art. 34 ust. 1 rozporządzenia 2016/679
+nie uzależnia obowiązku zawiadomienia o naruszeniu osób, których dane dotyczą, od
+jednoznacznego ustalenia przez administratora, że dane naruszenie ochrony danych
+osobowych powoduje wysokie ryzyko praw lub wolności osób fizycznych, albowiem zgod‐
+nie z tym przepisem już sama możliwość wystąpienia takiego ryzyka obliguje
+administratora do zawiadomienia tych osób.
+Grupa Robocza Art. 29 w Wytycznych WP250 wskazuje, że „administratorzy powinni pa‐
+miętać, że zgłoszenie naruszenia ochrony danych osobowych organowi nadzorczemu
+jest obowiązkowe, chyba że jest mało prawdopodobne, by skutkowało ono ryzykiem na‐
+ruszenia praw i wolności osób fizycznych. Ponadto jeżeli istnieje prawdopodobieństwo,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 14 z 24
+
+że naruszenie ochrony danych osobowych spowoduje wysokie ryzyko naruszenia praw i
+wolności osób fizycznych, należy poinformować o nim również osoby fizyczne”.
+Zgodnie z motywem 86 rozporządzenia 2016/679, „administrator powinien bez zbędnej
+zwłoki poinformować osobę, której dane dotyczą, o naruszeniu ochrony danych osobo‐
+wych, jeżeli może ono powodować wysokie ryzyko naruszenia praw lub wolności tej oso‐
+by, tak aby umożliwić tej sobie podjęcie niezbędnych działań zapobiegawczych.”
+W świetle powyższego bezspornym jest, że obowiązek zawiadamiania osób, których da‐
+nych dotyczyło naruszenie, powstaje w sytuacji istnienia możliwości wystąpienia wyso‐
+kiego ryzyka naruszenia praw lub wolności osób fizycznych. Zawiadomienie osób fizycz‐
+nych o naruszeniu zapewnia przekazanie tym osobom informacji na temat ryzyka zwią‐
+zanego z naruszeniem oraz wskazanie działań, jakie osoby te mogą podjąć, aby uchronić
+się przed potencjalnymi negatywnymi skutkami naruszenia.
+Podkreślić ponownie należy, że obowiązek zawiadomienia osoby fizycznej o naruszeniu
+nie jest uzależniony od materializacji negatywnych konsekwencji dla takiej osoby, ale od
+samej możliwości wystąpienia takiego ryzyka. Zawiadomienie umożliwia osobie fizycznej
+dokonanie samodzielnej oceny naruszenia w kontekście możliwości wystąpienia nega‐
+tywnych konsekwencji dla niej i podjęcia decyzji o zastosowaniu lub braku zastosowania
+działań zaradczych. Jak wskazuje Grupa Robocza Art. 29 w Wytycznych WP250 „czy o
+naruszeniu należy zawiadomić osoby, których dane dotyczą, zależy przede wszystkim od
+tego, czy naruszenie może powodować wysokie ryzyko naruszenia praw i wolności osób
+fizycznych. Ryzyko to istnieje w przypadku, gdy naruszenie może prowadzić do uszczerb‐
+ku fizycznego lub szkód majątkowych lub niemajątkowych dla osób, których dane zostały
+naruszone. Przykłady takich szkód obejmują dyskryminację, kradzież lub sfałszowanie
+tożsamości, straty finansowe i naruszenie dobrego imienia.”
+Jak już wskazano wyżej w uzasadnieniu niniejszej decyzji, numer księgi wieczystej umoż‐
+liwia w sposób łatwy i prosty, niewymagający nadmiernych kosztów, czasu ani szczegól‐
+nych działań, uzyskanie dostępu do danych podmiotowych osób ujawnionych w księgach
+wieczystych, którymi w przypadku osób fizycznych są: imię (imiona), nazwisko, imiona
+rodziców, numer PESEL, oznaczenie nieruchomości oraz ewentualne informacje o
+ustanowionych hipotekach i postępowaniach egzekucyjnych,
+Prezes UODO nie ma wątpliwości, że numer PESEL, czyli jedenastocyfrowy symbol nume‐
+ryczny, jednoznacznie identyfikujący osobę fizyczną, zawierający datę urodzenia, numer
+porządkowy, oznaczenie płci oraz liczbę kontrolną, a więc ściśle powiązany ze sferą pry‐
+watną osoby fizycznej oraz podlegający również, jako krajowy numer identyfikacyjny,
+wyjątkowej ochronie na gruncie art. 87 rozporządzenia 2016/679, jest daną o szczegól‐
+nym charakterze i takiej szczególnej ochrony wymaga, a jego ujawnienie nieuprawnio‐
+nym podmiotom może powodować wysokie ryzyko naruszenia praw lub wolności osób fi‐
+zycznych. Szczególnej ochrony danych osobowych, w tym przede wszystkim numeru
+ewidencyjnego PESEL, wymaga się także od instytucji zaufania publicznego, do których
+bez wątpienia można zaliczyć Administratora jako organu administracji publicznej.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 15 z 24
+
+Analogicznie Europejska Rada Ochrony Danych Osobowych nie ma najmniejszych wątpli‐
+wości, że indywidualnie nadany numer jednoznacznie identyfikujący osobę fizyczną po‐
+winien podlegać szczególnej ochronie, a jego ujawnienie nieuprawnionym podmiotom
+może wiązać się z wysokim ryzykiem naruszenia praw lub wolności osób fizycznych. Eu‐
+ropejska Rada Ochrony Danych Osobowych w Wytycznych 01/2021 w sprawie przykła‐
+dów dotyczących powiadomienia o naruszeniu danych osobowych przyjętych w dniu 14
+grudnia 2021 r. (zwanych dalej „Wytycznymi 01/2021”), mających na celu uzupełnienie
+Wytycznych WP250, przedstawiła wspólne doświadczenia organów nadzorczych Europej‐
+skiego Obszaru Gospodarczego od momentu wejścia w życie rozporządzenia 2016/679.
+W ww. Wytycznych 01/2021 podany został przykład (przykład nr 14), odnoszący się do
+sytuacji „wysłania pocztą przez pomyłkę wysoce poufnych danych osobowych”. We
+wspomnianym przypadku doszło do ujawnienia numeru ubezpieczenia społecznego, bę‐
+dącego odpowiednikiem stosowanego w Polsce nr PESEL. W podanym przykładzie
+jednoznacznie wskazano, że „Liczba osób poszkodowanych jest znaczna, a zaangażowa‐
+nie ich numeru ubezpieczenia społecznego, a także innych, bardziej podstawowych da‐
+nych osobowych, dodatkowo zwiększa ryzyko, które można określić jako wysokie.”
+Na fakt, że dane jednoznacznie identyfikujące osobę fizyczną mogą powodować wysokie
+ryzyko naruszenia praw lub wolności Europejska Rada Ochrony Danych Osobowych
+wskazuje również w innych przykładach podanych w Wytycznych 01/2021. W pkt 55 i 56
+Wytycznych 01/2021 wskazano: „(…) Naruszone dane pozwalają na jednoznaczną iden‐
+tyfikację osób, których dane dotyczą, i zawierają inne informacje na ich temat (w tym
+płeć, datę i miejsce urodzenia), ponadto mogą być wykorzystywane przez napastnika do
+odgadywania haseł klientów lub do prowadzenia kampanii phishingowej skierowanej do
+klientów banku. Z tych powodów uznano, że naruszenie ochrony danych może wiązać
+się z wysokim ryzykiem naruszenia praw i wolności wszystkich osób, których dane doty‐
+czą. W związku z tym wystąpienie szkody materialnej (np. straty finansowej) i szkody
+niemajątkowej (np. kradzież tożsamości lub oszustwo) jest możliwym rezultatem”. Z
+kolei w pkt 96 wskazano, że „Podczas oceny ryzyka administrator powinien wziąć pod
+uwagę potencjalne konsekwencje i negatywne skutki naruszenia poufności. W wyniku
+naruszenia dane osoby, których dane dotyczą, mogą doznać oszustwa dotyczącego toż‐
+samości, opierając się na danych dostępnych na skradzionym wyrobie, w związku z czym
+ryzyko uznaje się za wysokie”.
+Podobnych wątpliwości (że ujawnienie numeru PESEL wraz z innymi danymi osobowymi
+może powodować wysokie ryzyko naruszenia praw lub wolności osób fizycznych) nie
+miał również Wojewódzki Sąd Administracyjny w Warszawie, który w wyroku z dnia 22
+września 2021 r., sygn. akt II SA/Wa 791/21, stwierdził, że „Nie ulega wątpliwości, że
+przywołane w wytycznych przykłady szkód mogą wystąpić w przypadku osób, których
+dane osobowe – w niektórych przypadkach łącznie z numerem ewidencyjnym Pesel lub
+serią i nr dowodu osobistego – zostały utrwalone na udostępnionych nagraniach. Nie bez
+znaczenia dla takiej oceny jest możliwość w oparciu o ujawnione dane identyfikacji osób,
+których dane zostały objęte naruszeniem.” Dalej wskazał Sąd w przywołanym orzeczeniu
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 16 z 24
+
+- „Dane zostały bowiem udostępnione nieuprawnionym osobom, co oznacza, że nastąpi‐
+ło naruszenie bezpieczeństwa prowadzące do nieuprawnionego ujawnienia danych oso‐
+bowych, a zakres tych danych obejmujących w niektórych przypadkach również numer
+ewidencyjny PESEL lub serię i nr dowodu osobistego przesądza o tym, że wystąpiło
+wysokie ryzyko naruszenia praw lub wolności osób fizycznych.”
+Nr PESEL służy jako dana identyfikująca każdą osobę i jest powszechnie używany w kon‐
+taktach z różnymi instytucjami oraz w obiegu prawnym. Nr PESEL wraz z imieniem i na‐
+zwiskiem w sposób jednoznaczny identyfikuję osobę fizyczną, w sposób pozwalający
+przypisać negatywne skutki naruszenia (np. kradzież tożsamości, wyłudzenie pożyczki)
+tej konkretnej osobie.
+Z ostatniego raportu infoDOK[1] (który przygotowywany jest w ramach prowadzenia spo‐
+łecznej Kampanii Informacyjnej Systemu DOKUMENTY ZASTRZEŻONE, organizowanej
+przez Związek Banków Polskich i niektóre banki, pod patronatem Ministerstwa Spraw
+Wewnętrznych i we współpracy m.in. z Policją oraz Federacją Konsumentów) wynika, że
+w I kwartale 2022 roku odnotowano 1 915 prób wyłudzeń kredytów i pożyczek. Oznacza
+to średnio 21 prób wyłudzeń dziennie. Każdego dnia próbowano na cudze nazwiska
+ukraść łącznie ok. 575 tys. zł. W całym 2020 r. odnotowano 6884 próby wyłudzeń na
+kwotę 253,8 mln zł, zaś w całym 2021 r. odnotowano 8096 prób wyłudzeń kredytów na
+łączną kwotę 336,6 mln zł. Oznacza to, że cały rok 2021 r. pod względem liczby prób wy‐
+łudzeń oraz ich kwot był znacząco bardziej niebezpieczny od poprzedniego: nastąpił 17procentowy wzrost liczby prób wyłudzeń i 32-procentowy wzrost łącznej kwoty tych prób
+wyłudzeń.
+Ponadto, jak wynika z orzecznictwa, wyroki w sprawach wyłudzeń kredytów nie są rzad‐
+kością i są wydawane przez polskie sądy w podobnych sprawach od dawna - tytułem
+przykładu można wskazać na wyrok Sądu Rejonowego w Łęczycy z dnia 27 lipca 2016 r.
+(sygn. akt I C 566/15), w którym oszuści biorący pożyczkę na cudze dane posłużyli się nr
+PESEL, zmyślonym adresem oraz niewłaściwym numerem dowodu (nieważnym). W
+uzasadnieniu ww. wyroku Sąd stwierdził, że: „W przedmiotowej sprawie powód (…) z sie‐
+dzibą we W. nabył wierzytelność od (…) Spółka z ograniczoną odpowiedzialnością S.K.A.
+z siedzibą w W. Stroną umowy pożyczki z dnia 5 maja 2014 r. była osoba, która w nie‐
+uprawniony sposób użyła danych J. R. (…) Spółka z ograniczoną odpowiedzialnością
+S.K.A. z siedzibą w W. przelała na wskazany rachunek bankowy kwotę 500 zł.”
+W sprawie będącej przedmiotem rozstrzygnięcia niniejszą decyzją, w ocenie Prezesa
+UODO, zostało wykazane, że udostępnienie w sposób dający możliwość zapoznania się z
+nimi każdemu użytkownikowi Serwisu numerów ksiąg wieczystych umożliwiających w
+sposób łatwy i prosty oraz niewymagający nadmiernych kosztów, czasu ani szczególnych
+działań, dostęp do danych podmiotowych osób ujawnionych w księgach wieczystych, w
+tym do numerów PESEL, może powodować wysokie ryzyko naruszenia praw lub wolności
+osób fizycznych.
+Jeżeli naruszenie ochrony danych osobowych może powodować wysokie ryzyko narusze‐
+nia praw lub wolności osób fizycznych, administrator bez zbędnej zwłoki zawiadamia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 17 z 24
+
+osoby, których dane dotyczą, o takim naruszeniu. Art. 34 ust. 3 rozporządzenia
+2016/679 wskazuje kiedy, pomimo istnienia możliwości wysokiego ryzyka naruszenia
+praw lub wolności osób fizycznych, zawiadomienie nie jest wymagane. Zgodnie z tym
+przepisem zawiadomienie nie jest wymagane jedynie w przypadkach gdy:
+a) administrator wdrożył odpowiednie techniczne i organizacyjne środki ochrony i środ‐
+ki te zostały zastosowane do danych osobowych, których dotyczy naruszenie, w
+szczególności środki takie jak szyfrowanie, uniemożliwiające odczyt osobom
+nieuprawnionym do dostępu do tych danych osobowych;
+b) administrator zastosował następnie środki eliminujące prawdopodobieństwo wyso‐
+kiego ryzyka naruszenia praw lub wolności osoby, której dane dotyczą, o którym
+mowa w ust. 1;
+c) wymagałoby ono niewspółmiernie dużego wysiłku. W takim przypadku wydany zo‐
+staje publiczny komunikat lub zastosowany zostaje podobny środek, za pomocą któ‐
+rego osoby, których dane dotyczą, zostają poinformowane w równie skuteczny spo‐
+sób.
+W stanie faktycznym przedmiotowej sprawy Administrator nie dokonał zgłoszenia naru‐
+szenia ochrony danych osobowych oraz nie zawiadomił osób, których dane dotyczą,
+przedstawiając stanowisko, zgodnie z którym numery ksiąg wieczystych nie stanowią da‐
+nych osobowych, mogą być publikowane za pośrednictwem usług sieciowych na podsta‐
+wie obowiązujących przepisów prawa oraz podjął działania w wyniku, których numery
+ksiąg wieczystych zostały ukryte, określając ich dostępność w Serwisie jako „krótkotrwa‐
+łą”.
+Powyżej w uzasadnieniu niniejszej decyzji jednoznacznie wykazano, że stanowisko Admi‐
+nistratora, zgodnie z którym numery ksiąg wieczystych nie są danymi osobowymi oraz,
+że ich publikowanie w powszechnie dostępnych usługach sieciowych jest zgodne z
+obowiązującym prawem, nie znajduje podstaw.
+Odnosząc się do podnoszonego przez Administratora argumentu „krótkotrwałej” widocz‐
+ności numerów ksiąg wieczystych w Serwisie należy jednoznacznie wskazać, że Admini‐
+strator utracił kontrolę nad przetwarzanymi danymi osobowymi, udostępniając przez po‐
+myłkę numery ksiąg wieczystych w Serwisie. Grupa Robocza Art. 29 w swojej opinii
+03/2014 na temat powiadamiania o przypadkach naruszenia wyjaśniła, że zgodnie z
+trzema powszechnie uznawanymi zasadami bezpieczeństwa, naruszenia można podzie‐
+lić na następujące kategorie: naruszenia dotyczące poufności danych, dostępności
+danych i integralności danych, przy czym „naruszenie dotyczące poufności danych –
+oznacza naruszenie, w rezultacie którego dochodzi do nieuprawnionego lub przypadko‐
+wego ujawnienia lub nieuprawnionego dostępu do danych osobowych”. Zgodnie z po‐
+wyższym, nieuprawnione uzyskanie dostępu do danych stanowi naruszenie dotyczące
+poufności danych osobowych. Zarówno Grupa Robocza Art. 29 w wyżej przytoczonych
+wytycznych, jak również prawodawca w definicji naruszenia ochrony danych osobowych
+określonej w art. 4 pkt 12 rozporządzenia 2016/679, wskazując przypadki, w których
+dochodzi do naruszenia bezpieczeństwa danych posługuje się spójnikiem „lub”, który
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 18 z 24
+
+stanowi alternatywę, tj. „nieuprawnionego ujawnienia lub nieuprawnionego dostępu do
+danych”. Powyższe stanowi o tym, że do naruszenia bezpieczeństwa danych dochodzi
+nie tylko, gdy incydent będzie prowadził do jednoczesnego nieuprawnionego ujawnienia
+i nieuprawnionego dostępu do danych, ale również, gdy będzie prowadził tylko do nie‐
+uprawnionego ujawnienia lub tylko do nieuprawnionego dostępu do danych. Przy czym
+zgodnie z ww. wytycznymi nieuprawnione uzyskanie dostępu do danych stanowi
+naruszenie dotyczące poufności danych osobowych.
+W stanie faktycznym przedmiotowej sprawy numery ksiąg wieczystych były udostępnio‐
+ne w Serwisie przez ponad 48 godzin. Administrator umożliwił nieuprawniony dostęp do
+danych szerokiemu kręgowi użytkowników, bowiem aby uzyskać dostęp do tych danych
+wystarczyło dysponować komputerem podłączonym do Internetu. Jednocześnie Admini‐
+strator nie podjął działań określonych w art. 34 ust. 3 lit. a)-c) rozporządzenia 2016/679.
+W świetle powyższego należy przyjąć, że doszło do naruszenia ochrony danych osobo‐
+wych, które, z uwzględnieniem powyżej wskazanych okoliczności uzasadniających możli‐
+wość wystąpienia wysokiego ryzyka naruszenia praw lub wolności osób fizycznych, obli‐
+gowało Administratora do zawiadomienia osób, których dane dotyczą zgodnie z art. 34
+ust. 1 rozporządzenia 2016/679.
+Na koniec powyższych rozważań przypomnieć należy przepis art. 34 ust. 3 lit. c) rozpo‐
+rządzenia 2016/679. Przepis ten umożliwia administratorom wydanie publicznego komu‐
+nikatu lub zastosowanie podobnego środka, za pomocą którego osoby, których dane do‐
+tyczą, zostaną poinformowane o naruszeniu, z uwzględnieniem informacji określonych w
+art. 34 ust. 2 rozporządzenia 2016/679, w przypadku kiedy indywidualne zawiadomienie
+osób, których dane dotyczą, wymagałoby niewspółmiernie dużego wysiłku. Nie ulega
+wątpliwości, że zawiadomienie osób, których dane dotyczą, w związku z przedmiotowym
+naruszeniem mogłoby nastąpić w sposób określony w ww. przepisie rozporządzenia
+2016/679.
+Zawiadamiając bez zbędnej zwłoki podmiot danych, administrator umożliwia osobie pod‐
+jęcie niezbędnych działań zapobiegawczych w celu ochrony praw lub wolności przed ne‐
+gatywnymi skutkami naruszenia. Art. 34 ust. 1 i 2 rozporządzenia 2016/679 ma na celu
+nie tylko zapewnienie możliwie najskuteczniejszej ochrony podstawowych praw lub wol‐
+ności podmiotów danych, ale także realizację zasady przejrzystości, która wynika z art. 5
+ust. 1 lit. a) rozporządzenia 2016/679 (por. Chomiczewski Witold [w:] RODO. Ogólne roz‐
+porządzenie o ochronie danych. Komentarz. red. E. Bielak-Jomaa, D. Lubasz, Warszawa
+2018). Właściwe wywiązanie się z obowiązku określonego w art. 34 rozporządzenia
+2016/679 ma zapewnić osobom, których dane dotyczą - szybką i przejrzystą informację
+o naruszeniu ochrony ich danych osobowych wraz z opisem możliwych konsekwencji na‐
+ruszenia ochrony danych osobowych oraz środków, które mogą one podjąć w celu zmini‐
+malizowania jego ewentualnych negatywnych skutków. Postępując zgodnie z prawem i
+wykazując dbałość o interesy osób, których dane dotyczą, administrator powinien był
+bez zbędnej zwłoki zapewnić osobom, których dane dotyczą, możliwość jak najlepszej
+ochrony danych osobowych. Dla osiągnięcia tego celu niezbędne jest przynajmniej wska‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 19 z 24
+
+zanie tych informacji, które wymienione są w art. 34 ust. 2 rozporządzenia 2016/679, z
+którego to obowiązku administrator nie wywiązał się. Administrator podejmując zatem
+decyzję o niezawiadomieniu o naruszeniu organu nadzorczego, jak i osób, których dane
+dotyczą, w praktyce pozbawił te osoby, przekazanej bez zbędnej zwłoki, rzetelnej infor‐
+macji o naruszeniu i możliwości przeciwdziałania potencjalnym szkodom.
+Stosując przepisy rozporządzenia 2016/679 należy mieć na uwadze, że celem tego roz‐
+porządzenia (wyrażonym w art. 1 ust. 2) jest ochrona podstawowych praw i wolności
+osób fizycznych, w szczególności ich prawa do ochrony danych osobowych oraz że
+ochrona osób fizycznych w związku z przetwarzaniem danych osobowych jest jednym z
+praw podstawowych (zdanie pierwsze motywu 1 preambuły). W przypadku jakichkolwiek
+wątpliwości np. co do wykonania obowiązków przez administratorów - nie tylko w sytu‐
+acji, gdy doszło do naruszenia ochrony danych osobowych, ale też przy opracowywaniu
+technicznych i organizacyjnych środków bezpieczeństwa mających im zapobiegać należy w pierwszej kolejności brać pod uwagę te wartości.
+Powyższe rozumowanie potwierdza wyrok WSA w Warszawie z dnia 22 września 2021 r.
+(sygn. akt II SA/Wa 791/21), w którym Sąd rozstrzygając w przedmiocie nałożenia admi‐
+nistracyjnej kary pieniężnej w związku z naruszeniem przepisów o ochronie danych
+osobowych odniósł się do wymienionych wyżej kwestii, wskazując, że „W toku dokonywa‐
+nia oceny, czy występują ryzyka naruszenia praw lub wolności człowieka, administrator
+powinien brać pod uwagę wszelkie możliwe szkody, jak i krzywdy, które mogą wyniknąć
+z danego zdarzenia dla osób fizycznych (tak: S. Jandt [w:] DS.-GVO..., red. J. Kuhling, B.
+Buchner, s. 617; Y. Reif [w:] DS.- GVO..., red. P. Gola, s. 496). Mogą one w szczególności
+polegać na utracie kontroli nad własnymi danymi osobowymi, negatywnych konsekwen‐
+cjach wizerunkowych, możliwości zawierania przez inną osobę umów z wykorzystaniem
+danych osobowych innej osoby fizycznej, stratach finansowych czy wreszcie negatyw‐
+nym odbiorze społecznym, który może być konsekwencją upublicznienia niektórych da‐
+nych osobowych. Do zaistnienia ryzyka nie jest przy tym konieczne, by ostatecznie do‐
+szło do wystąpienia szkody lub krzywdy wynikających z danego naruszenia ochrony
+danych osobowych (tak: jw., s. 616)”.
+W konsekwencji należy stwierdzić, że Administrator nie dokonał zgłoszenia naruszenia
+ochrony danych osobowych organowi nadzorczemu w wykonaniu obowiązku z art. 33
+ust. 1 rozporządzenia 2016/679 oraz nie zawiadomił bez zbędnej zwłoki osób, których
+dane dotyczą, o naruszeniu ochrony ich danych, zgodnie z art. 34 ust. 1 rozporządzenia
+2016/679, co oznacza naruszenie przez Administratora tych przepisów.
+Zgodnie z art. 34 ust. 4 rozporządzenia 2016/679, jeżeli administrator nie zawiadomił
+jeszcze osób, których dane dotyczą, o naruszeniu ochrony danych osobowych, organ
+nadzorczy - biorąc pod uwagę prawdopodobieństwo, że to naruszenie ochrony danych
+osobowych spowoduje wysokie ryzyko - może od niego tego zażądać lub może stwier‐
+dzić, że spełniony został jeden z warunków, o których mowa w ust. 3. Z kolei z treści art.
+58 ust. 2 lit. e) rozporządzenia 2016/679 wynika, że każdemu organowi nadzorczemu
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 20 z 24
+
+przysługuje uprawnienie naprawcze w postaci nakazania administratorowi zawiadomie‐
+nia osób, których dane dotyczą, o naruszeniu ochrony danych.
+Na podstawie art. 58 ust. 2 lit. i) rozporządzenia 2016/679, każdemu organowi nadzor‐
+czemu przysługuje uprawnienie do zastosowania, oprócz lub zamiast innych środków na‐
+prawczych przewidzianych w art. 58 ust. 2 lit. a) - h) oraz lit. j) tego rozporządzenia, ad‐
+ministracyjnej kary pieniężnej na mocy art. 83 rozporządzenia 2016/679, zależnie od
+okoliczności konkretnej sprawy. Mając na uwadze ustalenia stanu faktycznego, Prezes
+Urzędu Ochrony Danych Osobowych, korzystając z przysługującego mu uprawnienia
+określonego we wskazanym wyżej przepisie rozporządzenia 2016/679 stwierdził, że w
+rozpatrywanej sprawie zaistniały przesłanki uzasadniające nałożenie na Głównego
+Geodetę Kraju z siedzibą w Warszawie administracyjnej kary pieniężnej.
+Przy ustalaniu wysokości kary Prezes UODO wziął pod uwagę następujące okoliczności
+sprawy wpływające obciążająco na wymiar nałożonej kary finansowej:
+a) Charakter, wagę i czas trwania naruszenia przy uwzględnieniu charakteru, zakresu
+lub celu danego przetwarzania, liczby poszkodowanych osób, których dane dotyczą,
+oraz rozmiaru poniesionej przez nie szkody (art. 83 ust. 2 lit. a rozporządzenia
+2016/679);
+W ocenie Prezesa UODO naruszenie to ma dużą wagę i poważny charakter. Ad‐
+ministrator jest organem administracji publicznej, wobec którego należy oczeki‐
+wać zarówno znajomości przepisów, jak i właściwego ich stosowania, a także
+wyższych standardów świadczonych usług. Administrator nie miał podstaw
+prawnych do przetwarzania numerów ksiąg wieczystych (umożliwiających łatwy
+dostęp do szerokiego zakresu danych osobowych) w celu udostępniania ich za
+pośrednictwem Serwisu nieograniczonej liczbie osób, tj. każdemu kto posiadał
+komputer z dostępem do Internetu. Naruszenie dotyczy dużej liczby osób, tj.
+wszystkich ujawnionych w księgach wieczystych, których numery zostały udo‐
+stępnione w Serwisie. Ze względu na dużą liczbę osób dotkniętych naruszeniem
+możliwość wystąpienia negatywnych skutków ulega znacznemu rozszerzeniu.
+Obszerny zbiór danych może mieć również wartość ekonomiczną i być przed‐
+miotem bezprawnego obrotu i wykorzystania w złych intencjach. Naruszenie to
+ma więc dużą wagę. Za okoliczność obciążającą Prezes UODO uznaje długi czas
+trwania naruszenia. Co prawda, bezpośrednio po wykryciu faktu udostępnienia
+w Serwisie nr ksiąg wieczystych Administrator podjął odpowiednie działania, w
+wyniku których ustalono błąd w konfiguracji Serwisu, a w konsekwencji zaprze‐
+stano udostępniania tam numerów ksiąg wieczystych, ale od powzięcia przez
+Administratora informacji o naruszeniu ochrony danych osobowych do dnia wy‐
+dania niniejszej decyzji upłynęło wiele tygodni, w trakcie których ryzyko naru‐
+szenia praw lub wolności osób dotkniętych naruszeniem mogło się zrealizować,
+a czemu osoby te nie mogły przeciwdziałać ze względu na niewywiązanie się
+przez Administratora z obowiązku zgłoszenia naruszenia ochrony danych osobo‐
+wych Prezesowi UODO oraz z obowiązku powiadomienia tych osób o naruszeniu.
+b) Umyślny charakter naruszenia (art. 83 ust. 2 lit. b rozporządzenia 2016/679);
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+c)
+
+d)
+
+Strona 21 z 24
+
+Pismem z (…) kwietnia 2022 r. Administrator został poinformowany o obowiąz‐
+kach wynikających z art. 33 ust. 1 i 3 rozporządzenia 2016/679. Pismem tym
+Prezes UODO poinformował Administratora, że w przypadku naruszenia ochrony
+danych osobowych, administrator danych bez zbędnej zwłoki - w miarę możli‐
+wości, nie później niż w terminie 72 godzin po stwierdzeniu naruszenia - zgłasza
+je organowi nadzorczemu właściwemu zgodnie z art. 55 rozporządzenia
+2016/679, chyba że jest mało prawdopodobne, by naruszenie to skutkowało ry‐
+zykiem naruszenia praw lub wolności osób fizycznych. Prezes UODO jednocze‐
+śnie poinstruował Administratora o sposobach dokonania tego zgłoszenia. Z
+uwagi na postępowanie sądowo-administracyjne w związku ze złożoną skargą
+na decyzję Prezesa UODO sygn. (…) Administrator znał stanowisko Prezesa
+UODO, jak również orzeczenia sądów administracyjnych w zakresie bezprawno‐
+ści publikowania numerów ksiąg wieczystych za pośrednictwem powszechnie
+dostępnych usług sieciowych. W toku postępowania, odrębnym pismem z (…)
+maja 2022 r. Prezes UODO ponownie przedstawił swoje stanowisko w ww. zakre‐
+sie. Pomimo tego Administrator nie dokonał zgłoszenia naruszenia ochrony da‐
+nych osobowych Prezesowi UODO oraz nie zawiadomił osób, których danych
+dotyczyło naruszenie.
+Stosowne wcześniejsze naruszenia przepisów rozporządzenia 2016/679 dokonane
+przez Administratora (art. 83 ust. 2 lit. e rozporządzenia 2016/679)
+w zakresie publikowania przez Administratora numerów ksiąg wieczystych w
+Serwisie wydana została decyzja DKE.561.3.2020, w której stwierdzono naru‐
+szenie przez Administratora art. 5 ust. 1 lit. a) oraz art. 6 ust. 1 rozporządzenia
+2016/679. Ponadto wobec Administratora wydana została decyzja DKN.
+5112.13.2020, w której stwierdzono naruszenie art. 31 oraz 58 ust. 1 lit. e) i f)
+rozporządzenia 2016/67. Należy zaznaczyć, że w obydwu wymienionych przy‐
+padkach na Administratora nałożone zostały administracyjne kary pieniężne w
+wysokości 100 tys. zł, zaś Wojewódzki Sąd Administracyjny w Warszawie oddalił
+skargi Administratora na ww. decyzje Prezesa UODO.
+Sposób w jaki organ nadzorczy dowiedział się o naruszeniu (art. 83 ust. 2 lit. h
+rozporządzenia 2016/679)
+–
+o naruszeniach stanowiących przedmiot niniejszego postępowania (art. 33 ust.
+1 i art. 34 ust. 1 rozporządzenia 2016/679) Prezes UODO dowiedział się w wyni‐
+ku podjętych przez siebie z urzędu działań zainicjowanych informacjami praso‐
+wymi. W związku z tym okoliczność tę za obciążającą Prezes UODO uznaje w za‐
+kresie naruszenia art. 34 ust. 1 rozporządzenia 2016/679. W jego ocenie prawi‐
+dłowym, i mającym łagodzący wpływ na ocenę naruszenia, działaniem Admini‐
+stratora byłoby poinformowanie o tym naruszeniu (to jest o nieprzekazaniu in‐
+formacji o naruszeniu ochrony danych osobowych osobom nim dotkniętym) Pre‐
+zesa UODO. Tymczasem okoliczność tę Prezes UODO ustalił samodzielnie. Nato‐
+miast w odniesieniu do naruszenia art. 33 ust. 1 rozporządzenia 2016/679 oko‐
+liczność sposobu, w jaki organ nadzorczy dowiedział się o naruszeniu nie miała
+żadnego wpływu na jego ocenę. Naruszenie tego właśnie przepisu (niezgłosze‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+e)
+
+Strona 22 z 24
+
+niu Prezesowi UODO incydentu naruszenia ochrony danych osobowych) jest bo‐
+wiem przedmiotem niniejszego postępowania i powodem orzeczenia w nim kary
+pieniężnej. W ocenie Prezesa UODO nie ma - w zakresie naruszenia art. 33 ust.
+1 rozporządzenia 2016/679 - konieczności potraktowania tej okoliczności jako
+dodatkowo mającej obciążający wpływ na wymiar kary.
+Kategorie danych osobowych, których dotyczyło naruszenie (art. 83 ust. 2 lit. g
+rozporządzenia 2016/679)
+–
+w przedmiotowej sprawie stwierdzono, naruszenie dotyczyło numerów ksiąg
+wieczystych, które, jak wykazano, umożliwiają w sposób łatwy i prosty dostęp
+do danych podmiotowych osób ujawnionych w księgach wieczystych, w tym do
+nr PESEL. Dane te nie należą do szczególnych kategorii danych osobowych, o
+których mowa w art. 9 rozporządzenia 2016/679, jednakże ich szeroki zakres
+(imię i nazwisko, numer PESEL, informacje o nieruchomościach, ewentualne in‐
+formacje o ustanowionych hipotekach i postępowaniach egzekucyjnych), mogą
+powodować wysokie ryzyko naruszenia praw lub wolności osób fizycznych.
+
+Na fakt zastosowania przez Prezesa Urzędu sankcji w postaci administracyjnej kary pie‐
+niężnej, jak również na jej wysokość, nie miały wpływu inne, wskazane w art. 83 ust. 2
+rozporządzenia 2016/679, okoliczności, tj.:
+a) działania podjęte przez administratora w celu zminimalizowania szkody poniesionej
+przez osoby, których dane dotyczą (art. 83 ust. 2 lit. c rozporządzenia 2016/679) - z
+informacji posiadanych przez Prezesa UODO nie wynika, by szkody takie wystąpiły,
+co nie oznacza, że nie wystąpiło ryzyko ich powstania;
+b) stopień odpowiedzialności administratora z uwzględnieniem środków technicznych i
+organizacyjnych wdrożonych przez niego na mocy art. 25 i 32 (art. 83 ust. 2 lit. d
+rozporządzenia 2016/679) - przedmiotem niniejszego postępowania nie były objęte
+kwestie związane z bezpieczeństwem danych osobowych w kontekście wdrożonych
+przez Administratora środków technicznych i organizacyjnych;
+c) przestrzeganie wcześniej zastosowanych w tej samej sprawie środków, o których
+mowa w art. 58 ust. 2 rozporządzenia 2016/679 (art. 83 ust. 2 lit. i rozporządzenia
+2016/679) – okoliczność ta nie ma znaczenia w kontekście nałożonej na Administra‐
+tora administracyjnej kary pieniężnej ze względu na fakt, że w niniejszej sprawie
+takich środków nie stosowano;
+d) stosowanie zatwierdzonych kodeksów postępowania na mocy art. 40 rozporządzenia
+2016/679 lub zatwierdzonych mechanizmów certyfikacji na mocy art. 42 rozporzą‐
+dzenia 2016/679 (art. 83 ust. 2 lit. j rozporządzenia 2016/679) – z okoliczności spra‐
+wy nie wynika aby Administrator wdrożył u siebie tego rodzaju instrumenty i je sto‐
+sował;
+e) osiągnięte bezpośrednio lub pośrednio w związku z naruszeniem korzyści finansowe
+lub uniknięte straty (art. 83 ust. 2 lit. k rozporządzenia 2016/679) - ze zgromadzone‐
+go w tej sprawie materiału dowodowego nie wynika, by Administrator osiągnął w
+związku z tym naruszeniem korzyści finansowe lub uniknął straty.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 23 z 24
+
+W ocenie Prezesa UODO, zastosowana administracyjna kara pieniężna spełnia w ustalo‐
+nych okolicznościach niniejszej sprawy funkcje, o których mowa w art. 83 ust. 1 rozpo‐
+rządzenia 2016/679, tzn. jest w tym indywidualnym przypadku skuteczna, proporcjonal‐
+na i odstraszająca. W tym miejscu wskazać również należy na treść art. 102 ustawy o
+ochronie danych osobowych, z którego wynika ograniczenie wysokości (do 100 000 zł)
+kary, jaka może zostać nałożona na jednostkę sektora publicznego.
+Należy podkreślić, że kara będzie skuteczna, jeżeli jej nałożenie doprowadzi do tego, że
+Administrator stosować się będzie do obowiązujących przepisów prawa i zaprzestanie na
+stałe dalszego naruszenia ochrony danych osobowych poprzez niezgłaszanie naruszeń
+ochrony danych osobowych Prezesowi UODO oraz niezawiadamianie o naruszeniach
+osób, których dane dotyczą.
+Prezes UODO stoi na stanowisku, że zastosowana kara pieniężna jest proporcjonalna do
+stwierdzonego naruszenia, szczególnie ze względu na wagę naruszenia oraz masowy
+charakter naruszenia.
+Odstraszający charakter kary pieniężnej wiąże się z zapobieganiem naruszeń w przyszło‐
+ści oraz przykładanie większej wagi do realizacji zadań administratora. Nakładając niniej‐
+szą decyzją administracyjną karę pieniężną za naruszenie przepisów o ochronie danych
+osobowych Prezes UODO wziął pod uwagę oba aspekty:
+po pierwsze - charakter represyjny: Administrator naruszył przepisy ogólnego
+rozporządzenia o ochronie danych,
+po drugie - charakter prewencyjny: Administrator będzie skutecznie zniechęcony do
+naruszania w przyszłości prawa ochrony danych osobowych, jednocześnie dokłada‐
+jąc większej staranności przy realizacji swoich obowiązków wynikających z ogólnego
+rozporządzenia o ochronie danych.
+Celem nałożonej kary jest doprowadzenie do właściwego wykonywania przez Administra‐
+tora obowiązków przewidzianych w art. 33 i 34 rozporządzenia 2016/679, a w konse‐
+kwencji do prowadzenia procesów przetwarzania danych zgodnie z obowiązującymi
+przepisami prawa.
+W związku z powyższym wskazać należy, że kara pieniężna w wysokości 60 000 złotych
+(słownie: sześćdziesiąt tysięcy złotych), spełnia w ustalonych okolicznościach niniejszej
+sprawy przesłanki, o których mowa w art. 83 ust. 1 rozporządzenia 2016/679 ze względu
+na powagę stwierdzonego naruszenia w kontekście podstawowego celu rozporządzenia
+2016/679 - ochrony podstawowych praw i wolności osób fizycznych, w szczególności
+prawa do ochrony danych osobowych. Jednocześnie wysokość administracyjnej kary pie‐
+niężnej nałożonej niniejszą decyzją na administratora będącego jednostką sektora finan‐
+sów publicznych (wskazaną w art. 9 ustawy z dnia 27 sierpnia 2009 r. o finansach pu‐
+blicznych) mieści się w określonym w art. 102 ust. 1 ustawy o ochronie danych
+osobowych limicie 100 000 złotych.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+
+Decyzja DKN.5131.27.2022
+
+Strona 24 z 24
+
+[1] https://www.zbp.pl/getmedia/1dd981c1-9ebb-47ee-921e-52e472040a66/
+infodok-2022-01-03-wydanie-49-sklad-220505-gk09
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_27/content
+
+2025-09-03 13:38
+

@@ -1,0 +1,401 @@
+Warszawa, 3 września 2021
+PRAWOMOCNA
+
+Decyzja
+DKE.523.20.2021
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz.U. 2020 poz. 256), art. 60, art. 160 ust. 1, 2 i 3 ustawy z dnia 10
+maja 2018 r. o ochronie danych osobowych (Dz.U. z 2019 r., poz. 1781) oraz art. 6 ust. 1,
+art. 17 ust. 3. lit. e), art. 57 ust. 1 lit. a) i lit. f) Rozporządzenia Parlamentu Europejskiego
+i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE,
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pani M. B., zam.
+w K. przy ul. (…) oraz Pana G. P., zam. w P. przy ul. (…), na przetwarzanie ich danych
+osobowych przez W. sp. z o.o. sp. k. z siedzibą we W. przy ul. (…) oraz Kancelarię Prawną
+H. sp. k. z siedzibą we W. przy ul. (…), Prezes Urzędu Ochrony Danych Osobowych,
+odmawia uwzględnienia wniosku.
+
+Uzasadnienie
+
+Stan faktyczny
+Do Generalnego Inspektora Danych Osobowych (dalej także „GIODO”) aktualnie Prezesa
+Urzędu Ochrony Danych Osobowych (dalej także „Prezes UODO”) wpłynęła Pani M. B.,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_20/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.20.2021
+
+Strona 2 z 9
+
+zam. w K. przy ul. (…) oraz Pana G. P., zam. w P. przy ul. (…) (łącznie zwani dalej „Skar‐
+żącymi”), na przetwarzanie ich danych osobowych przez W. sp. z o.o. sp. k. z siedzibą we
+W. przy ul. (…) (zwana dalej także „G.”) oraz przez Kancelarię Prawną H. sp. k. z siedzibą
+we W. przy ul. (…) (zwana dalej także „H.”) (łącznie zwane dalej „Administratorami”)
+Skarżący otrzymali od Administratorów zawiadomienia o przetwarzaniu ich danych oso‐
+bowych w związku z dochodzeniem wierzytelności tytułem spłaty umowy pożyczki, przy‐
+sługującej Administratorom wobec matki Skarżących, zmarłej 2 lutego 2013 roku. Admi‐
+nistratorzy podejmowali działania zmierzające do zaspokojenia wierzytelności przysługu‐
+jącej G. z majątku po zmarłej odziedziczonego przez Skarżących.
+Skarżący zażądali od organu przywrócenia stanu zgodnego z prawem poprzez nakazanie
+Administratorom usunięcia ich danych osobowych oraz zawiadomienie organów ścigania
+o popełnieniu przez Administratorów przestępstwa.
+Prezes UODO ustalił w tej sprawie następujący stan faktyczny.
+1. H., na podstawie umowy o świadczenie usług prawnych, zobowiązała się do świad‐
+czenia obsługi prawnej, w zakresie dochodzenia należności od dłużników G., na dro‐
+dze sądowej i egzekucyjnej, oraz czynności świadczenia pomocy prawnej na rzecz
+G., natomiast G., jako administrator danych osobowych powierzyła H. przetwarzanie
+w tym celu danych osobowych.
+2. H. dochodziła na rzecz G. zwrotu wierzytelności nabytej przez G. na podstawie umo‐
+wy przelewu wierzytelności zawartej w dniu 30.12.2014 r. ze S. w G., z tytułu
+umowy pożyczki nr (…) zawartej przez T. P. w dniu 04.10.2012 r.
+3. Ponieważ pożyczkobiorczyni zmarła nie regulując zobowiązania wynikającego z
+umowy pożyczki, Administratorzy przystąpili do realizacji uprawnienia wierzyciela
+do dochodzenia spłaty zadłużenia - długu spadkowego - od następców prawnych po‐
+życzkobiorczyni, na podstawie art. 922 § 1 Ustawy z dnia 23 kwietnia 1964 r. Kodeks
+cywilny, (dalej zwana także „Kodeks cywilny”),
+4. W celu ustalenia następców prawnych, do sądu właściwego dla spadkodawcy skiero‐
+wane zostało w imieniu G. zapytanie m.in. o to, czy toczy się postępowanie o stwier‐
+dzenie nabycia spadku po zmarłej, czy zostało wydane postanowienie spadkowe, a
+także czy zarejestrowano oświadczenia spadkowe. H. pozyskała dane osobowe Skar‐
+żących w dniu 07.03.2017 r., kiedy to do H. doręczono pismo Sądu Rejonowego w P.
+wraz z kopią aktu notarialnego z dnia 20.07.2013 r., Rep. (…), zawierającego
+oświadczenie skarżącej, Pani M. B., o przyjęciu spadku po T. P. z dobrodziejstwem in‐
+wentarza. Jednocześnie w akcie tym znajdowały się dane osobowe innych osób nale‐
+żących do kręgu spadkobierców ustawowych po spadkodawczyni, w tym dane
+skarżącego, Pana G. P.
+5. W dniu 31.05.2017 r. doręczono do H. kopię kolejnego oświadczenia o przyjęciu
+spadku po T. P. z dobrodziejstwem inwentarza, tym razem złożonego przez Pana G.
+P.. Administratorzy przetwarzali dane osobowe Skarżących zgodnie z art. 31 oraz
+art. 23 ust. 4 pkt 2 w zw. z art. 23 ust. 1 pkt 5 Ustawy z dnia 29 sierpnia 1997 r. o
+ochronie danych osobowych (t.j. Dz. U. z 2016 r. poz. 922 z późn. zm.) (dalej zwana
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_20/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.20.2021
+
+Strona 3 z 9
+
+także „ustawą o ochronie danych osobowych z 1997 r.”) w związku z art. 922 § 1,
+932 § 4 i 5 k.c. w związku z art. 720 k.c. w celu dochodzenia roszczeń G. przeciwko
+spadkobiercom zmarłej pożyczkobiorczyni (matki Skarżących), tj. prowadzenia win‐
+dykacji wierzytelności nabytej od S. w G. Do tego celu niezbędne były wierzycielowi
+imiona, nazwiska i adresy Skarżących.
+6. H. przetwarzała powierzone jej przez G. dane osobowe Skarżących w systemie infor‐
+matycznym H., natomiast G. przetwarzał te dane w zarejestrowanym przez GIODO
+zbiorze danych osobowych o nazwie D, w których gromadzone są dane: dłużników,
+poręczycieli dłużników, spadkobierców, dłużników rzeczowych oraz ich pełnomocni‐
+ków, a także innych osób, których dane niezbędne są do przeprowadzenia procesu
+dochodzenia należności.
+7. Legalność przetwarzania danych osobowych Administratorzy opierali o przepisy art.
+31 oraz art. 23 ust. 1 pkt 5 w zw. z art. 23 ust. 4 pkt 2 ustawy o ochronie danych
+osobowych z 1997 r. Stosownie do brzmienia wskazanych przepisów dozwolone było
+przetwarzanie danych osobowych, jeżeli było ono niezbędne do osiągania prawnie
+usprawiedliwionych celów, którym było w tym przypadku dochodzenie roszczeń z ty‐
+tułu prowadzonej działalności gospodarczej w imieniu i na rzecz G., będącej wierzy‐
+cielem.
+8. Zakres danych przetwarzanych przez Administratorów wynikał z treści w/w aktów
+notarialnych i obejmował: imiona i nazwisko, imiona rodziców, serie i numery
+dowodów osobistych, numery pesel oraz adresy zamieszkania Skarżących.
+9. Skarżący skierowali do H. pisma, w których m.in. zażądali podania informacji o źró‐
+dle pochodzenia ich danych osobowych oraz zaprzestania przetwarzania ich danych
+osobowych. W odpowiedzi na te żądania H. udzieliła im pełnej informacji na temat
+legalności przetwarzania ich danych osobowych, celach tego przetwarzania, źródle
+ich pochodzenia, zbiorze danych, w których dane są przetwarzane. H. wyjaśniła
+Skarżącym, że w związku z dochodzeniem należnego świadczenia po zmarłym dłuż‐
+niku żądanie zaprzestania przetwarzania danych osobowych nie może zostać speł‐
+nione. Jako podstawa prawna wskazany został przepis art. 23 ust. 1 pkt 5 w zw. z
+art. 23 ust. 4 pkt 2 ustawy o ochronie danych osobowych z 1997 r.
+10. W dniu 20.07.2017 r. oboje Skarżący, w formie wiadomości e-mail, zażądali od Ad‐
+ministratorów „zaprzestania nękania” oraz powołując się na załączony do wiadomo‐
+ści dokument w postaci spisu inwentarza po zmarłej stwierdzili, że nie są
+spadkobiercami przedmiotowej umowy pożyczki.
+11. W odpowiedzi na powyższe Administratorzy poinformowali Skarżących, że przetwa‐
+rzanie ich danych osobowych przez Administratorów jest legalne, ponieważ Skarżą‐
+cy są spadkobiercami zmarłej dłużniczki. Ponadto Administratorzy wskazali Skarżą‐
+cym, że przesłany przez nich spis inwentarza wymaga uzupełnienia, bowiem z do‐
+kumentacji posiadanej przez G. wynika, czego nie uwzględniono w spisie inwenta‐
+rza, że T. P. przysługiwało spółdzielcze własnościowe prawo do lokalu. Nadto w spi‐
+sie nie uwzględniono wierzytelności na rzecz G. a dopiero po uzyskaniu uzupełnio‐
+nego spisu inwentarza byłoby właściwe zweryfikowanie zakresu odpowiedzialności
+Skarżących.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_20/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.20.2021
+
+Strona 4 z 9
+
+12. Pismami z 16 marca 2021 roku (data wpływu 24 marca 2021 roku) Administratorzy
+wskazali, że nie przetwarzają danych Skarżących w celu dochodzenia wierzytelności
+przysługującej im wobec zmarłej matki Skarżących. Niemniej przetwarzają te dane
+stosownie do przepisu art. 6 ust. 1 lit. f) Rozporządzenia 679/2016 do celów wynika‐
+jących z prawnie uzasadnionych interesów, jakim jest obrona przed roszczeniami
+Skarżących, w tym roszczeniami związanymi z niniejszym postępowaniem, do czasu
+przedawnienia się roszczeń Skarżących przeciwko Administratorom.
+
+Uzasadnienie prawne
+Po przeanalizowaniu zgromadzonego w sprawie materiału dowodowego, Prezes Urzędu
+Ochrony Danych Osobowych stwierdza, co następuje.
+Z dniem 25 maja 2018 r. w życie weszły przepisy ustawy z dnia 10 maja 2018 r. o
+ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781), zwana dalej także „ustawą o
+ochronie danych osobowych z 2018 r.”. W myśl art. 160 ust. 1-3 ustawą o ochronie da‐
+nych osobowych z 2018 r., postępowania prowadzone przez Generalnego Inspektora
+Ochrony Danych Osobowych, wszczęte i niezakończone przed dniem wejścia w życie ni‐
+niejszej ustawy, prowadzone są przez Prezesa Urzędu Ochrony Danych Osobowych na
+podstawie ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz.U. z 2016
+r. poz. 922 ze zm.), zgodnie z zasadami określonymi w Kodeksie postępowania admini‐
+stracyjnego. Jednocześnie, czynności dokonane w postępowaniach, wszczętych i nieza‐
+kończonych przed dniem wejścia w życie przepisów ustawy o ochronie danych
+osobowych z 2018 r., pozostają skuteczne.
+Od dnia 25 maja 2018 r. zastosowanie ma rozporządzenie Parlamentu Europejskiego i
+Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych
+osobowych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018,
+str. 2), zwane dalej także „RODO”.
+Uwzględniając powyższe stwierdzić zatem należy, iż niniejsze postępowanie, wszczęte i
+niezakończone przed dniem 25 maja 2018 r., prowadzone jest na podstawie ustawy o
+ochronie danych osobowych z 1997 r. (w zakresie dotyczącym przepisów regulujących
+procedurę administracyjną) oraz na podstawie RODO (w zakresie rozstrzygającym o
+legalności procesu przetwarzania danych osobowych).
+Prezes UODO jest organem właściwym w sprawie ochrony danych osobowych i organem
+nadzorczym w rozumieniu RODO (art. 34 ust. 1 i 2 ustawy o ochronie danych osobowych
+z 2018). Prezes UODO prowadzi postępowania w sprawie naruszenia przepisów o ochro‐
+nie danych osobowych (art. 60 ustawy o ochronie danych osobowych z 2018 r.), przy
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_20/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.20.2021
+
+Strona 5 z 9
+
+czym w sprawach nieuregulowanych w ustawie o ochronie danych osobowych z 2018 r.,
+do postępowań administracyjnych przed Prezesem UODO, w szczególności unormowa‐
+nych w rozdziale 7 ustawy – postępowań w sprawie naruszenia przepisów o ochronie da‐
+nych osobowych, stosuje się przepisy Kpa (art. 7 ust. 1 ustawy o ochronie danych osobo‐
+wych z 2018 r.). Stosownie do art. 57 ust. 1 RODO, bez uszczerbku dla innych zadań
+określonych na mocy niniejszego rozporządzenia każdy organ nadzorczy na swoim tery‐
+torium monitoruje i egzekwuje stosowanie niniejszego rozporządzenia (lit. a) oraz prowa‐
+dzi postępowania w sprawie stosowania niniejszego rozporządzenia, w tym na podstawie
+informacji otrzymanych od innego organu nadzorczego lub innego organu publicznego
+(lit. h). Instrumentami realizacji zadań przewidzianych w art. 57 ust. 1 RODO są w szcze‐
+gólności określone w art. 58 ust. 2 RODO, uprawnienia naprawcze, w tym możliwość: wy‐
+dawania ostrzeżeń administratorowi lub podmiotowi przetwarzającemu dotyczących
+możliwości naruszenia przepisów niniejszego rozporządzenia poprzez planowane opera‐
+cje przetwarzania (lit. a), udzielania upomnień administratorowi lub podmiotowi przetwa‐
+rzającemu w przypadku naruszenia przepisów niniejszego rozporządzenia przez operacje
+przetwarzania (lit. b), nakazania administratorowi lub podmiotowi przetwarzającemu do‐
+stosowania operacji przetwarzania do przepisów niniejszego rozporządzenia, a w
+stosownych przypadkach wskazanie sposobu i terminu (lit. d).
+Stosownie do art. 57 ust. 1 RODO, bez uszczerbku dla innych zadań określonych na
+mocy tego rozporządzenia, każdy organ nadzorczy na swoim terytorium monitoruje i eg‐
+zekwuje stosowanie tego rozporządzenia (lit. a) oraz rozpatruje skargi wniesione przez
+osobę, której dane dotyczą, lub przez umocowany przez nią – zgodnie z art. 80 RODO –
+podmiot, organizację lub zrzeszenie, w odpowiednim zakresie prowadzi postępowania w
+przedmiocie tych skarg i w rozsądnym terminie informuje skarżącego o postępach i
+wynikach tych postępowań (lit. f).
+W tym miejscu wskazać należy, że Prezes Urzędu Ochrony Danych Osobowych wydając
+decyzję administracyjną zobowiązany jest do rozstrzygania w oparciu o stan faktyczny
+istniejący w chwili wydania tej decyzji. Jak podnosi doktryna „organ administracji pu‐
+blicznej ocenia stan faktyczny sprawy według chwili wydania decyzji administracyjnej.
+Reguła ta odnosi się także do oceny stanu prawnego sprawy, co oznacza, że organ admi‐
+nistracji publicznej wydaje decyzję administracyjną na podstawie przepisów prawa obo‐
+wiązujących w chwili jej wydania (…). Rozstrzyganie w postępowaniu administracyjnym
+polega na zastosowaniu obowiązującego prawa do ustalonego stanu faktycznego sprawy
+administracyjnej. W ten sposób organ administracji publicznej realizuje cel postępowania
+administracyjnego, jakim jest urzeczywistnienie obowiązującej normy prawnej w zakre‐
+sie stosunków administracyjno-prawnych, gdy stosunki te tego wymagają” (Komentarz
+do ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, M. Jaś‐
+kowska, A. Wróbel, Lex., el/2012). Również Naczelny Sąd Administracyjny – w wyroku z
+dnia 7 maja 2008 r. w sprawie o sygn. akt I OSK 761/07 stwierdził, iż cyt.: „badając bo‐
+wiem legalność przetwarzania danych osobowych, GIODO ma obowiązek ustalenia, czy
+na datę wydawania rozstrzygnięcia w sprawie dane konkretnego podmiotu są przetwa‐
+rzane oraz czy czynione to jest w sposób zgodny z prawem”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_20/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.20.2021
+
+Strona 6 z 9
+
+Zgodnie z brzmieniem przepisu art. 23 ust. 1 ustawy o ochronie danych osobowych z
+1997, obowiązującej w okresie, którego dotyczyła skarga Skarżących, przetwarzanie da‐
+nych osobowych było dopuszczalne, gdy: osoba, której dane dotyczą, wyrazi na to zgo‐
+dę, chyba że chodzi o usunięcie dotyczących jej danych (pkt 1), jest to niezbędne dla
+zrealizowania uprawnienia lub spełnienia obowiązku wynikającego z przepisu prawa (pkt
+2), jest to konieczne do realizacji umowy, gdy osoba, której dane dotyczą, jest jej stroną
+lub gdy jest to niezbędne do podjęcia działań przed zawarciem umowy na żądanie oso‐
+by, której dane dotyczą (pkt 3), jest niezbędne do wykonania określonych prawem zadań
+realizowanych dla dobra publicznego (pkt 4), jest to niezbędne dla wypełnienia prawnie
+usprawiedliwionych celów realizowanych przez administratorów danych albo odbiorców
+danych, a przetwarzanie nie narusza praw i wolności osoby, której dane dotyczą (pkt 5).
+W myśl przepisów obowiązujących obecnie (od dnia 25 maja 2018 r., tj. od dnia rozpo‐
+częcia stosowania przepisów RODO) przetwarzanie danych osobowych jest zgodne z pra‐
+wem, gdy administrator danych legitymuje się co najmniej jedną z określonych w art. 6
+ust. 1 RODO, materialnych przesłanek przetwarzania danych osobowych. Według wyżej
+wskazanego przepisu przetwarzanie danych osobowych jest zgodne z prawem wyłącz‐
+nie, gdy zostanie spełniony jeden z wymienionych warunków:
+a) osoba, której dane dotyczą wyraziła zgodę na przetwarzanie swoich danych
+osobowych w jednym lub większej liczbie określonych celów;
+b) przetwarzanie jest niezbędne do wykonywania umowy, której stroną jest osoba, któ‐
+rej dane dotyczą, lub do podjęcia działań na żądanie osoby, której dane dotyczą,
+przed zawarciem umowy;
+c) przetwarzanie jest niezbędne do wypełnienia obowiązku prawnego ciążącego na ad‐
+ministratorze;
+d) przetwarzanie jest niezbędne do ochrony żywotnych interesów osoby, której dane
+dotyczą, lub innej osoby fizycznej;
+e) przetwarzanie jest niezbędne do wykonania zadania realizowanego w interesie pu‐
+blicznym lub w ramach sprawowania władzy publicznej powierzonej administratoro‐
+wi;
+f) przetwarzanie jest niezbędne do celów wynikających z prawnie uzasadnionych inte‐
+resów realizowanych przez administratora lub przez stronę trzecią, z wyjątkiem sy‐
+tuacji, w których nadrzędny charakter wobec tych interesów mają interesy lub pod‐
+stawowe prawa i wolności osoby, której dane dotyczą, wymagające ochrony danych
+osobowych, w szczególności gdy osoba, której dane dotyczą, jest dzieckiem (art. 6
+ust. 1 lit. f RODO).
+Przytaczając motyw 47 RODO należy wskazać, że podstawą prawną przetwarzania mogą
+być prawnie uzasadnione interesy administratora, w tym administratora, któremu mogą
+zostać ujawnione dane osobowe, lub strony trzeciej, o ile w świetle rozsądnych oczeki‐
+wań osób, których dane dotyczą, opartych na ich powiązaniach z administratorem nad‐
+rzędne nie są interesy lub podstawowe prawa i wolności osoby, której dane dotyczą. Taki
+prawnie uzasadniony interes może istnieć na przykład w przypadkach, gdy zachodzi
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_20/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.20.2021
+
+Strona 7 z 9
+
+istotny i odpowiedni rodzaj powiązania między osobą, której dane dotyczą, a administra‐
+torem, na przykład gdy osoba, której dane dotyczą, jest klientem administratora lub
+działa na jego rzecz. Należy uznać, że dochodzenie przez podmiot roszczeń finansowych
+jest prawnie uzasadnionym interesem administratora w rozumieniu RODO. Dochodzenie
+roszczeń i przetwarzanie w tym celu adekwatnych danych osobowych nie stanowi nie‐
+proporcjonalnego ograniczenia praw i wolności osoby, której dane dotyczą.
+
+Ocena prawna
+Odnosząc powyższe nomy prawne do ustalonego w sprawie stanu faktycznego, wskazać
+należy, że Administratorzy pozyskali dane osobowe Skarżących w związku z zawarciem
+umowy przelewu wierzytelności zawartej w dniu 30.12.2014 r. ze S. w G., z tytułu umo‐
+wy pożyczki nr (…) zawartej przez T. P. w dniu 04.10.2012 r. Przelew wierzytelności znaj‐
+duje oparcie w art. 509 § 1 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, zgodnie, z
+którą wierzyciel może bez zgody dłużnika przenieść wierzytelność na osobę trzecią
+(przelew), chyba że sprzeciwiałoby się to ustawie, zastrzeżeniu umownemu albo
+właściwości zobowiązania.
+Przelew wierzytelności wiąże się z uprawnieniem do przekazania nabywcy danych oso‐
+bowych dłużnika umożliwiających podjęcie względem niego stosowanych działań zmie‐
+rzających do odzyskania należności. Powyższa dopuszczalność przelewu wierzytelności
+nie podlegała ograniczeniom umownym ani ustawowym. W tym miejscu wymaga powo‐
+łania stanowisko Naczelnego Sądu Administracyjnego (zwany dalej: NSA) orzekającego w
+składzie 7 sędziów, który w wyroku z dnia 6 czerwca 2005 r. (OPS 2/2005), wskazał, że
+przekazanie danych osobowych dłużników firmom windykacyjnym może nastąpić bez ich
+zgody, nie naruszając przy tym ochrony danych osobowych.
+Pożyczkobiorczyni zmarła nie regulując zobowiązania wynikającego z umowy. Zgodnie z
+art. 922 § 1 Kodeksu Cywilnego, prawa i obowiązki majątkowe zmarłego przechodzą z
+chwilą jego śmierci na jedną lub kilka osób stosownie do przepisów tego kodeksu. Należy
+zatem zgodzić się, że wierzycielowi przysługuje uprawnienie do dochodzenia spłaty
+zadłużenia - długu spadkowego - od jej następców prawnych.
+W rezultacie powyższych czynności, Administratorzy stali się administratorami danych
+osobowych Skarżących, przetwarzając je w celu windykacji nabytej należności. Przesłan‐
+ką legalizującą pozyskanie danych osobowych Skarżących przez Administratorów był art.
+23 ust. 1 pkt. 2 ustawy z dnia 29 sierpnia 1997 roku o ochronie danych osobowych (Dz.
+U. z 2016 r. poz. 922 ze zm.) w zw. z art. 922 § 1 Kodeksu cywilnego., a mianowicie prze‐
+pisy prawa dotyczące przelewu wierzytelności oraz następstwa prawnego po zmarłej.
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych, przetwarzanie przez Administra‐
+torów danych osobowych Skarżących nie może być oceniane jako naruszające ich prawa
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_20/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.20.2021
+
+Strona 8 z 9
+
+i wolności. Skarżący musieli się bowiem liczyć z tym, że jako następcy prawni zmarłej
+pożyczkobiorczyni, ich prawo do prywatności mogło zostać ograniczone ze względu na
+dochodzenie przez wierzyciela należnych mu kwot (w oparciu o w/w przepis art. 922 § 1
+Kodeksu cywilnego). W przeciwnym przypadku mogłoby dojść do sytuacji, w której dłuż‐
+nik lub jego spadkobiercy, powołując się na prawo do ochrony danych osobowych (prawo
+do prywatności), skutecznie uchylaliby się od spoczywającego na nich obowiązku speł‐
+nienia świadczenia. W konsekwencji stanowiłoby to nieracjonalne ograniczenie prawa
+wierzyciela do uzyskania należnej mu zapłaty.
+Aktualnie Administratorzy nie przetwarzają już danych Skarżących w celu dochodzenia
+wierzytelności przysługującej G. wobec zmarłej matki Skarżących. Niemniej przetwarzają
+te dane stosownie do przepisu art. 6 ust. 1 lit. f) Rozporządzenia 679/2016 do celów wy‐
+nikających z prawnie uzasadnionych interesów, jakim jest obrona przed roszczeniami
+Skarżących, w tym roszczeniami związanymi z niniejszym postępowaniem, do czasu
+przedawnienia się roszczeń Skarżących przeciwko Administratorom. Trzeba w tym miej‐
+scu wskazać także na art. 17 ust. 3 lit. e) RODO. Treść tego przepisu wskazuje, że osoba,
+której dane dotyczą, ma prawo żądania od administratora niezwłocznego usunięcia doty‐
+czących jej danych osobowych a administrator ma obowiązek bez zbędnej zwłoki usunąć
+dane osobowe, lecz reguła ta nie ma zastosowania w zakresie, w jakim przetwarzanie
+tych danych jest niezbędne do ustalenia, dochodzenia lub obrony roszczeń. W doktrynie
+wskazuje się, że „(…) wyłączenie uprawnienia do żądania usunięcia danych, określone w
+ust. 3 lit. e komentowanego artykułu, dotyczy przypadków, gdy przetwarzanie danych
+jest niezbędne "do ustalenia, dochodzenia lub obrony roszczeń". Prawodawca unijny
+uznał, iż w tym przypadku możliwość korzystania z uprawnienia do żądania usunięcia da‐
+nych mogłaby uniemożliwić realizację uprawnień innych podmiotów (np. wierzycieli) i
+mogłaby stanowić przejaw nadużycia prawa do ochrony danych, dlatego wyłączył
+możliwość skorzystania z omawianego uprawnienia.” Fajgielski Paweł. Art. 17. W: Ko‐
+mentarz do rozporządzenia nr 2016/679 w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych), [w:]
+Ogólne rozporządzenie o ochronie danych. Ustawa o ochronie danych osobowych.
+Komentarz. Wolters Kluwer Polska, 2018.
+W niniejszej sprawie należy uznać, że Administratorzy przetwarzali i przetwarzają dane
+osobowe Skarżących zgodnie z przepisami o ochronie tych danych. W związku z tym nie
+ma podstaw do wydania decyzji administracyjnej, nakazującej zaniechanie przetwarza‐
+nia i usunięcie danych osobowych Skarżącej. W niniejszej sprawie nie można przypisać
+Administratorom naruszenia przepisów o ochronie danych osobowych i nie jest uzasad‐
+nione wydanie przez Prezesa Urzędu Ochrony Danych Osobowych jakiegokolwiek z
+nakazów, o których mowa w art. 58 RODO.
+Odnosząc się jeszcze do żądania Skarżących w zakresie zawiadomienia organów ściga‐
+nia o popełnieniu przez Administratorów przestępstwa, wskazać należy, że Skarżący
+mogą składać tylko takie wnioski, które mogą być rozpatrzone przez wydanie decyzji ad‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_20/content
+
+2025-09-03 13:43
+
+Decyzja DKE.523.20.2021
+
+Strona 9 z 9
+
+ministracyjnej. Tymczasem ustawa nie daje organowi ochrony danych uprawnień do koń‐
+czenia prowadzonego postępowania poprzez skierowanie w formie decyzji administracyj‐
+nej zawiadomienia do organów ścigania o popełnieniu przestępstwa. Jak wskazał Naczel‐
+ny Sąd Administracyjny w wyroku z dnia 19 listopada 2001 r. (sygn. akt II SA 2702/00):
+„osoba dochodząca ochrony swych praw w trybie ustawy o ochronie danych osobowych
+nie jest podmiotem postępowania obliczonego na wydanie decyzji o zawiadomieniu sto‐
+sownego organu o przestępstwie w zakresie przetwarzania danych osobowych i nie
+może się tego domagać od GIODO w administracyjno-prawnych formach tego postępo‐
+wania. Przepis art. 19 ustawy nie daje bowiem stronie roszczenia w tym względzie”. Wo‐
+jewódzki Sąd Administracyjny w Warszawie w wyroku z dnia 13 listopada 2009 r. (sygn.
+akt II SA/Wa 612/2009) orzekł: „Skierowane przez Generalnego Inspektora Ochrony Da‐
+nych Osobowych zawiadomienia o popełnienia przestępstwa następuje poprzez wystą‐
+pienie do organu właściwego do wszczęcia postępowania karnego w danej sprawie, a po‐
+nadto jako należące do kompetencji organu realizowane jest z urzędu, a nie na wniosek
+osób zainteresowanych”. Wobec powyższego należy stwierdzić, że organ nie ma pod‐
+staw prawnych do rozpatrzenia tego żądania Skarżących w niniejszym postępowaniu.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_20/content
+
+2025-09-03 13:43
+

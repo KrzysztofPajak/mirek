@@ -1,0 +1,411 @@
+Warszawa, 7 sierpnia 2025
+NIEPRAWOMOCNA
+
+Decyzja
+DKN.5131.9.2025
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2024 r. poz. 572 ze zm.) w związku z art. 7 i art. 60 ustawy z
+dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781) oraz art.
+57 ust. 1 lit. a) i lit. h), art. 58 ust. 2 lit. b) w związku z art. 5 ust. 1 lit. a) oraz art. 6 ust.
+1 rozporządzenia Parlamentu Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016
+r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i
+w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+(ogólne rozporządzenia o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 Dz.
+Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35), dalej: roz‐
+porządzenie 2016/679,
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w sprawie
+naruszenia przez Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej
+A. B. (ul. (…), (…)-(…) Z.) przepisów o ochronie danych osobowych, Prezes Urzędu
+Ochrony Danych Osobowych:
+stwierdzając naruszenie przez Komitet Wyborczy Kandydata na Prezydenta Rzeczypo‐
+spolitej Polskiej A. B. (ul. (…), (…)-(…) Z.) przepisu art. 6 ust. 1 rozporządzenia 2016/679,
+polegające na niezgodnym z prawem przetwarzaniu danych osobowych osoby fizycznej
+niepełniącej funkcji publicznych w postaci imienia, nazwiska oraz informacji o miejscu
+pobytu, poprzez upublicznienie ww. informacji w poście opublikowanym 13 maja 2025 r.
+na oficjalnym profilu Pana A. B. na portalu społecznościowym M., co skutkowało narusze‐
+niem zasady zgodności przetwarzania z prawem, rzetelności i przejrzystości wyrażonej w
+art. 5 ust. 1 lit. a) rozporządzenia 2016/679,
+udziela Komitetowi Wyborczemu Kandydata na Prezydenta Rzeczypospolitej Polskiej A.
+B. upomnienia.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_9/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.9.2025
+
+Strona 2 z 9
+
+Uzasadnienie
+W dniu 13 maja 2025 r. na oficjalnym profilu Pana A. B. - kandydata na Prezydenta Rze‐
+czypospolitej Polskiej w wyborach Prezydenta Rzeczypospolitej Polskiej w 2025 r. - na
+portalu społecznościowym M. opublikowany został post odnoszący się do wydarzenia,
+które miało miejsce w trakcie jednej z debat prezydenckich, cyt.: „W kopercie, którą
+przekazałem C. D. podczas debaty, był numer konta Domu Pomocy Społecznej, w którym
+dziś przebywa pan H.”. Opublikowany post obejmował również fotografię niezanonimizo‐
+wanego pisma, jakie miało zostać przekazane Kandydatowi na Prezydenta Rzeczypospo‐
+litej Polskiej C. D., w treści którego znalazły się dane osobowe w postaci imienia, nazwi‐
+ska oraz informacji o miejscu pobytu osoby niepełniącej funkcji publicznych.
+W związku z powyższym, 16 maja 2025 r. Prezes Urzędu Ochrony Danych Osobowych
+(dalej także jako: „Prezes UODO” lub „organ nadzorczy”) zwrócił się do Komitetu Wybor‐
+czego Kandydata na Prezydenta Rzeczypospolitej Polskiej A. B. (dalej także: „Komitet
+Wyborczy” lub „Administrator”) w celu ustalenia, na jakiej podstawie prawnej oraz w ja‐
+kim celu Administrator pozyskał dane osobowe, które następnie zostały ujawnione pu‐
+blicznie na portalu społecznościowym M., w szczególności o wskazanie, czy ww. dane
+osobowe zostały pozyskane za zgodą osoby, której dane dotyczą, a jeżeli tak, to w jaki
+sposób została udzielona zgoda. Ponadto, Prezes UODO w ww. piśmie zwrócił się o wska‐
+zanie, na jakiej podstawie prawnej oraz w jakim celu na portalu M. ujawnione zostały ww.
+dane osobowe, w szczególności poprzez opublikowanie zdjęcia niezanonimizowanej tre‐
+ści dokumentu, zawierającego te dane osobowe oraz o wykazanie niezbędności ujawnie‐
+nia ww. danych osobowych ze względu na cel, którego osiągnięciu działanie to miało słu‐
+żyć.
+3 czerwca 2025 r. do tut. Urzędu wpłynęło pismo Administratora z 28 maja 2025 r., w
+którym Komitet Wyborczy wskazał, że „(…) dane tej osoby fizycznej zostały pozyskane
+przez sztab z wywiadu kandydata na Prezydenta RP C. D., którego udzielił on E. F. na ka‐
+nale G. (…) i który został opublikowany w Internecie w dniu 6 maja 2025 r. (…). W wy‐
+wiadzie tym padła również nazwa ulicy, tj. (…), przy której znajduje się Dom Pomocy
+Społecznej wskazany w publikacji”. Jednocześnie Komitet Wyborczy poinformował
+Prezesa UODO, iż „(…) sztab nie pozyskał zgody dysponenta danych na ich przetwarza‐
+nie, zaś publikacja miała zostać dokonana po anonimizacji tych danych. Wskutek błędu
+osoby publikującej i pośpiechu, realizacja tego pomysłu kampanijnego została dokonana
+w sposób nieprawidłowy i niezgodnie z pierwotnym założeniem. Po wykryciu tej niepra‐
+widłowości dokument i wpis został usunięty z konta w portalu społecznościowym, zaś
+kandydat i sztab przeprosili za naruszenie dóbr dysponenta danych”. Ponadto Admini‐
+strator wskazał, iż ujawnienie danych osobowych nie było celowe, lecz nastąpiło „wsku‐
+tek błędu osoby prowadzącej profil kandydata”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_9/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.9.2025
+
+Strona 3 z 9
+
+W związku z pozyskanymi informacjami i wyjaśnieniami Prezes UODO 18 czerwca 2025 r.
+wszczął z urzędu postępowanie administracyjne w przedmiocie możliwości naruszenia
+przez Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Polskiej A. B., jako
+administratora danych, obowiązków wynikających z art. 5 ust. 1 lit. a) oraz art. 6 ust. 1
+rozporządzenia 2016/679, w związku z ujawnieniem bez podstawy prawnej danych oso‐
+bowych osoby niepełniącej funkcji publicznych w ramach opublikowanego na platformie
+społecznościowej M. postu.
+Pismem z 4 lipca 2025 r., które wpłynęło do tut. Urzędu 10 lipca 2025 r., Administrator
+podtrzymał w całości wyjaśnienia zawarte w korespondencji Komitetu Wyborczego z 28
+maja 2025 r. Ponadto Administrator oświadczył, iż nie przetwarza obecnie danych osoby
+fizycznej, której dane dotyczą, oraz wniósł o uwzględnienie w toku postępowania
+okoliczności wskazanych w tym piśmie.
+
+W ustalonym stanie faktycznym, po zapoznaniu się z ca‐
+łością zgromadzonego w sprawie materiału dowodowego,
+Prezes Urzędu Ochrony Danych Osobowych zważył, co
+następuje:
+
+I. Przetwarzanie danych osobowych w ramach
+prowadzonej kampanii wyborczej.
+Zasady i tryb zgłaszania kandydatów, przeprowadzania oraz warunki ważności wyborów
+Prezydenta Rzeczypospolitej Polskiej reguluje ustawa z dnia 5 stycznia 2021 r. Kodeks
+wyborczy (Dz. U. z 2025 r. poz. 365) (art. 1 pkt 2), która w 2018 r. została trzykrotnie
+znowelizowana m.in. w celu dostosowania jej postanowień do przepisów rozporządzenia
+2016/679. Z uwagi na fakt, że przepisy Kodeksu wyborczego koncentrują się na przebie‐
+gu kampanii wyborczej, w przypadku braku szczególnych przepisów w zakresie dotyczą‐
+cym ochrony danych osobowych zastosowanie mają przepisy rozporządzenia 2026/679.
+Wśród wskazanych w Kodeksie wyborczym podmiotów, które w związku z funkcjami i za‐
+daniami realizowanymi m.in. w ramach kampanii wyborczej, mogą przetwarzać dane
+osobowe i mają status administratorów w rozumieniu art. 4 pkt 7 rozporządzenia
+2016/679, znajdują się m.in. komitety wyborcze. Proces przetwarzania danych osobo‐
+wych przez komitety wyborcze wiąże się w szczególności ze zgłaszaniem kandydatów w
+wyborach (art. 84 Kodeksu wyborczego), zbieraniem podpisów pod listami poparcia (art.
+90 Kodeksu wyborczego), pozyskiwaniem wpłat środków finansowych na kampanię (art.
+132 Kodeksu wyborczego) i prowadzeniem agitacji wyborczej (art. 105 Kodeksu wybor‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_9/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.9.2025
+
+Strona 4 z 9
+
+czego). Wiele czynności związanych z przetwarzaniem danych osobowych w ramach agi‐
+tacji wyborczej, nieuregulowanych bezpośrednio w przepisach Kodeksu wyborczego,
+należy oceniać bezpośrednio w kontekście przepisów rozporządzenia 2016/679.
+W związku z powyższym, w sytuacjach nieuregulowanych przepisami Kodeksu wyborcze‐
+go, działania administratora w obszarze przetwarzania danych w ramach procesu wybor‐
+czego, w tym w ramach kampanii wyborczej, podlegają weryfikacji w kontekście zgodno‐
+ści m.in. z zasadami ochrony danych osobowych wyrażonymi w art. 5 ust. 1 rozporzą‐
+dzenia 2016/679. Administrator jest odpowiedzialny za ich przestrzeganie i musi być w
+stanie to wykazać (art. 5 ust. 2 rozporządzenia 2016/679).
+Podstawy prawne działania komitetów wyborczych określone zostały m.in. w art. 84 i
+nast. Kodeksu wyborczego. Jak wskazał Prezes UODO w Poradniku Ochrona Danych
+Osobowych w Kampanii Wyborczej[1], „Oprócz przepisów bezpośrednio wskazujących
+uprawnienia do zbierania i przetwarzania danych osobowych w związku ze zgłaszaniem
+kandydatów w wyborach, zbieraniem i dalszym przetwarzaniem danych z list wybor‐
+czych, pozyskiwaniem wpłat finansowych na kampanie, w których to przypadkach prze‐
+twarzanie danych osobowych odbywa się bezpośrednio na podstawie przepisów prawa i
+ma zastosowanie art. 6 ust. 1 lit. c) RODO, komitety wyborcze przetwarzają także dane
+osobowe w związku z agitacją wyborczą, której zakres nie został doprecyzowany w usta‐
+wie pod kątem ochrony danych osobowych. Przetwarzanie danych osobowych przez ko‐
+mitety wyborcze na potrzeby kampanii wyborczej, które nie wynikają bezpośrednio z
+uprawnień wskazanych w Kodeksie wyborczym jest możliwe, lecz wymaga wykazania in‐
+nej podstawy prawnej przetwarzania, np. przesłanki zgody, o której mowa w art. 6 ust. 1
+lit. a) RODO albo wykazania prawnie uzasadnionego interesu administratora,
+określonego w art. 6 ust. 1 lit. f) RODO”.
+Administrator w piśmie z 28 maja 2025 r. wskazał, że publikacja omawianego na wstępie
+niniejszej decyzji postu na portalu społecznościowym M. była „pomysłem kampanijnym”,
+a za jego realizację odpowiedzialne były „osoby prowadzące profil kandydata” (w me‐
+diach społecznościowych). Nie ulega zatem wątpliwości, że działalnie polegające na opu‐
+blikowaniu ww. postu, zawierającego dane osobowe w postaci imienia, nazwiska oraz in‐
+formacji o miejscu pobytu osoby fizycznej niepełniącej funkcji publicznych, stanowiło ele‐
+ment kampanii wyborczej - działanie podjęto w ramach działań wyborczych i wpisywało
+się ono całokształt prowadzonej przez Komitet Wyborczy agitacji wyborczej. W ustalo‐
+nym stanie faktycznym administratorem danych osobowych przetwarzanych w opisany
+sposób (opublikowanych na profilu kandydata na Prezydenta RP w serwisie społeczno‐
+ściowym) jest zatem Komitet Wyborczy Kandydata na Prezydenta Rzeczypospolitej Pol‐
+skiej A. B. i to na nim spoczywają obowiązki związane z ochroną przetwarzanych danych
+osobowych, określone przepisami rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_9/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.9.2025
+
+Strona 5 z 9
+
+II. Ocena legalności przetwarzania danych osobowych
+Art. 5 ust. 1 rozporządzenia 2016/679 określa zasady dotyczące przetwarzania danych
+osobowych, które muszą być respektowane przez wszystkich administratorów, tj. pod‐
+mioty, które samodzielnie lub wspólnie z innymi ustalają cele i sposoby przetwarzania
+danych osobowych. W myśl art. 5 ust. 1 lit. a) rozporządzenia 2016/679, dane osobowe
+muszą być przetwarzane zgodnie z prawem, rzetelnie i w sposób przejrzysty dla osoby,
+której dane dotyczą („zgodność z prawem, rzetelność i przejrzystość”). Przestrzeganie
+ww. zasady musi być wykazane w ramach prawidłowo realizowanego wymogu rozliczal‐
+ności wynikającego z art. 5 ust. 2 rozporządzenia 2016/679.
+Zgodnie z art. 6 ust. 1 rozporządzenia 2016/679 przetwarzanie danych osobowych jest
+zgodne z prawem wyłącznie, gdy spełniony jest co najmniej jeden z poniższych warun‐
+ków:
+a) osoba, której dane dotyczą wyraziła zgodę na przetwarzanie swoich danych
+osobowych w jednym lub większej liczbie określonych celów;
+b) przetwarzanie jest niezbędne do wykonania umowy, której stroną jest osoba, której
+dane dotyczą, lub do podjęcia działań na żądanie osoby, której dane dotyczą, przed
+zawarciem umowy;
+c) przetwarzanie jest niezbędne do wypełnienia obowiązku prawnego ciążącego na ad‐
+ministratorze;
+d) przetwarzanie jest niezbędne do ochrony żywotnych interesów osoby, której dane
+dotyczą, lub innej osoby fizycznej;
+e) przetwarzanie jest niezbędne do wykonania zadania realizowanego w interesie pu‐
+blicznym lub w ramach sprawowania władzy publicznej powierzonej administratoro‐
+wi;
+f) przetwarzanie jest niezbędne do celów wynikających z prawnie uzasadnionych inte‐
+resów realizowanych przez administratora lub przez stronę trzecią, z wyjątkiem sy‐
+tuacji, w których nadrzędny charakter wobec tych interesów mają interesy lub pod‐
+stawowe prawa i wolności osoby, której dane dotyczą, wymagające ochrony danych
+osobowych, w szczególności gdy osoba, której dane dotyczą, jest dzieckiem.
+Należy zaznaczyć, że przepis art. 6 ust. 1 lit. f) rozporządzenia 2016/679 nie ma za‐
+stosowania do przetwarzania danych osobowych przez organy publiczne w ramach
+realizacji swoich zadań.
+Katalog przesłanek legalności przetwarzania danych osobowych wymienionych w art. 6
+ust. 1 rozporządzenia 2016/679 jest zamknięty. Każda z przesłanek legalizujących proces
+przetwarzania danych osobowych ma charakter autonomiczny i niezależny. Są także
+względem siebie równoprawne, co oznacza, że dla legalności procesu przetwarzania
+danych wystarczające jest spełnienie jednej z nich.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_9/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.9.2025
+
+Strona 6 z 9
+
+Art. 6 ust. 1 rozporządzenia 2016/679 enumeratywnie wymienia zatem materialne prze‐
+słanki dopuszczalności przetwarzania wszystkich kategorii danych osobowych, również
+tych określonych w art. 10 rozporządzenia 2016/679, wyłączając jedynie dane będące
+przedmiotem regulacji art. 9 rozporządzenia 2016/679. Spełnienie przynajmniej jednej z
+przesłanek wymienionych w art. 6 ust. 1 rozporządzenia 2016/679 warunkuje legalność
+przetwarzania danych osobowych (legalność każdej czynności mieszczącej się w tym po‐
+jęciu) także w świetle art. 5 ust. 1 lit. a) rozporządzenia 2016/679, tj. zgodność tego
+przetwarzania z prawem (tak: M. Sakowska-Baryła (red.), Ogólne rozporządzenie o
+ochronie danych osobowych. Komentarz, wyd. 1, 2018).
+Również motyw 40 preambuły rozporządzenia 2016/679 wskazuje, że „aby przetwarza‐
+nie danych było zgodne z prawem, powinno się odbywać na podstawie zgody osoby, któ‐
+rej dane dotyczą, lub na innej uzasadnionej podstawie przewidzianej prawem: albo w ni‐
+niejszym rozporządzenia, albo w innym akcie prawnym Unii lub państwa członkowskiego,
+o których mowa w niniejszym rozporządzeniu, w tym musi się ono odbywać z poszano‐
+waniem obowiązku prawnego, któremu podlega administrator (…)”.
+Wytyczne EROD 2/2019 w sprawie przetwarzania danych osobowych na podstawie art. 6
+ust. 1 lit. b) rozporządzenia w sprawie ochrony osób fizycznych w związku z przetwarza‐
+niem danych osobowych i w sprawie swobodnego przepływu takich danych (RODO) w
+kontekście świadczenia usług online na rzecz osób, których dane dotyczą, z 8
+października 2019 r.[2] wskazują, że „Zgodnie z art. 8 Karty praw podstawowych Unii Eu‐
+ropejskiej dane osobowe muszą być przetwarzane rzetelnie w określonych celach i na
+uzasadnionej podstawie przewidzianej ustawą. W tym względzie art. 6 ust. 1 ogólnego
+rozporządzenia o ochronie danych (RODO) stanowi, że przetwarzanie jest zgodne z pra‐
+wem wyłącznie w przypadkach, gdy spełniony jest co najmniej jeden z sześciu warunków
+określonych w art. 6 ust. 1 lit. a-f. Określenie właściwej podstawy prawnej, która odpo‐
+wiada celowi i istocie przetwarzania ma zasadnicze znaczenie. Administratorzy danych
+uwzględniają, między innymi, wpływ na prawa osób, których dane dotyczą, przy określa‐
+niu właściwej podstawy prawnej w celu poszanowania zasady rzetelności”.
+Aby móc w pełni dowieść legalności przetwarzania danych osobowych administrator
+musi z reguły wykazać, czy spełnione zostało kryterium „niezbędności” tego przetwarza‐
+nia z punktu widzenia celu, któremu ma ono służyć. W art. 6 ust. 1 rozporządzenia
+2016/679 prawodawca formułuje ten wymóg w pięciu na sześć przesłanek dopuszczalno‐
+ści przetwarzania danych osobowych (art. 6 ust. 1 lit. b)-f)). Zgodnie z Wytycznymi
+EROD 1/2024 w sprawie przetwarzania danych osobowych na podstawie art. 6 ust. 1 lit.
+f) rozporządzenia 2016/679 przyjętymi 8 października 2024 r.[3], ocena tego, co „nie‐
+zbędne” obejmuje ustalenie, czy w praktyce uzasadnione interesy przetwarzania danych
+osobowych nie mogą być racjonalnie osiągnięte równie skutecznie za pomocą innych
+środków, które w znacząco mniejszym stopniu ograniczają prawa lub wolności osób fi‐
+zycznych. W sytuacji, w której istnieją inne, równie skuteczne oraz mniej inwazyjne
+alternatywy, przetwarzanie nie może być uznawane za „niezbędne”. W tym kontekście
+TSUE wyraźnie wskazuje, że warunek dotyczący konieczności przetwarzania danych oso‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_9/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.9.2025
+
+Strona 7 z 9
+
+bowych należy badać w powiązaniu z zasadą minimalizacji danych wyrażoną w art. 5
+ust. 1 lit. c) rozporządzenia 2016/679, zgodnie z którą dane osobowe muszą być „ade‐
+kwatne, stosowne oraz ograniczone do tego, co niezbędne do celów, w których są prze‐
+twarzane”[4].
+Oznacza to, że administrator planując przetwarzanie danych osobowych zobowiązany
+jest zasadniczo do dokonania oceny „niezbędności” przetwarzania danych osobowych na
+podstawie wybranej przez siebie przesłanki i w kontekście zakładanego celu przetwarza‐
+nia. Zgodnie z motywem 39 preambuły rozporządzenia 2016/679, „Dane osobowe po‐
+winny być przetwarzane tylko w przypadkach, gdy w celu przetwarzania nie można w
+rozsądny sposób osiągnąć innymi sposobami”. Oceniając kryterium „niezbędności” nale‐
+ży zatem mieć na uwadze cel oraz kontekst przetwarzania danych osobowych.
+Administrator w piśmie z 28 maja 2025 r., udzielając odpowiedzi na pytania zawarte w
+piśmie Prezesa UODO z 16 maja 2025 r. wskazał, że opublikowane finalnie dane osobowe
+osoby niepełniącej funkcji publicznej pozyskane zostały z „(…) wywiadu kandydata na
+Prezydenta RP C. D., którego udzielił on E. F. na kanale G. (…) i który został
+opublikowany w Internecie w dniu 6 maja 2025 r.”. Należy podkreślić że w momencie, w
+którym Komitet Wyborczy rozpoczął podejmowanie decyzji o celach i sposobach prze‐
+twarzania ww. danych osobowych pozyskanych z opisanego źródła, stał się ich admini‐
+stratorem w rozumieniu art. 4 pkt 7 rozporządzenia 2016/679, a zarazem podmiotem od‐
+powiedzialnym za legalność dalszych czynności mających za przedmiot te dane.
+Jak oświadczył Administrator, „(…) sztab nie pozyskał zgody dysponenta danych na ich
+przetwarzanie, zaś publikacja miała zostać dokonana po anonimizacji tych danych”. Tym
+samym Administrator przyznał, że omawiany proces przetwarzania danych osobowych
+(ich publikacja) nie znajdował oparcia w przesłance z art. 6 ust. 1 lit. a) rozporządzenia
+2016/679. Co więcej, cytowana wypowiedź Administratora świadczy, że nie było jego za‐
+miarem ani intencją przetwarzanie ww. danych osobowych w sposób, w jaki finalnie na‐
+stąpiło (publikacja). Dane osobowe osoby niepełniącej funkcji publicznych opublikowane
+zostały szerokiemu gronu odbiorców „wskutek błędu osoby publikującej i pośpiechu
+(…)”. Administrator poinformował także, iż „Po wykryciu tej nieprawidłowości dokument i
+wpis został usunięty z konta w portalu społecznościowym, zaś kandydat i sztab
+przeprosili za naruszenie dóbr dysponenta danych”.
+Cytowane dotychczas wypowiedzi Administratora dają podstawy by przyjąć, że publika‐
+cja przedmiotowych danych nie była zamierzona, nie służyła ona realizacji żadnego kon‐
+kretnego, określonego przez Administratora celu, jak również nie dążono do oparcia
+omawianych działań na którejkolwiek z pozostałych (poza zgodą podmiotu danych) prze‐
+słanek dopuszczalności przetwarzania danych osobowych (wymienionych w art. 6 ust. 1
+lit. b) - f) rozporządzenia 2016/679). Administrator nie podejmował zresztą jakichkolwiek
+prób wykazania, że działanie to było legalne w kontekście którejkolwiek z ww. przesła‐
+nek. Zamiast tego otwarcie przyznał, że omawiana publikacja danych była następstwem
+ludzkiego błędu (brak zakładanej pierwotnie anonimizacji danych). W tej sytuacji obszer‐
+niejsze uzasadnienie podstaw przyjęcia, że w rozpatrywanej sprawie nie został spełniony
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_9/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.9.2025
+
+Strona 8 z 9
+
+żaden spośród wymienionych w art. 6 ust. 1 rozporządzenia 2016/679 warunków legal‐
+ności przetwarzania danych (w tym przypadku ich publikacji), należy uznać za zbędne.
+Wyłącznie skrótowo wskazać zatem można, że w oczywisty sposób kwestionowana publi‐
+kacja danych nie była niezbędna do wykonania umowy, której stroną jest osoba, której
+dane dotyczą, lub do podjęcia działań na żądanie osoby, której dane dotyczą, przed za‐
+warciem umowy (brak przesłanki z art. 6 ust. 1 lit. b) rozporządzenia 2016/679), nie była
+niezbędna do wypełnienia obowiązku prawnego ciążącego na administratorze (brak
+przesłanki z art. 6 ust. 1 lit. c) rozporządzenia 2016/679), nie była niezbędna do ochrony
+żywotnych interesów osoby, której dane dotyczą, lub innej osoby fizycznej (brak prze‐
+słanki z art. 6 ust. 1 lit. d) rozporządzenia 2016/679), nie była niezbędna do wykonania
+zadania realizowanego w interesie publicznym lub w ramach sprawowania władzy pu‐
+blicznej powierzonej administratorowi bądź celów wynikających z prawnie uzasadnio‐
+nych interesów realizowanych przez administratora lub przez stronę trzecią (brak
+przesłanki z art. 6 ust. 1 lit. e) i lit. f) rozporządzenia 2016/679).
+W sytuacji, gdy oceniane przetwarzanie danych osobowych (ich publikacja) zrealizowane
+zostało z naruszeniem wymogów art. 6 ust. 1 rozporządzenia 2016/679, wiązało się ono
+również z naruszeniem wyrażonej w art. 5 ust. 1 lit. a) rozporządzenia 2016/679 zasady
+zgodności z prawem, rzetelności i przejrzystości.
+Mając na uwadze powyższe oraz zgromadzony w sprawie materiał dowodowy, Prezes
+UODO stwierdził, że omawiane działanie Administratora (publikacja danych osobowych
+osoby fizycznej niepełniącej funkcji publicznej) wiązało się z naruszeniem przepisów art.
+5 ust. 1 lit. a) oraz art. 6 ust. 1 rozporządzenia 2016/679.
+
+III. Uzasadnienie udzielenia upomnienia
+W związku z powyższym, działając na podstawie art. 58 ust. 2 lit. b) rozporządzenia
+2016/679, zgodnie z którym każdemu organowi nadzorczemu przysługuje w zakresie
+prowadzonych postępowań uprawnienie do udzielania upomnienia administratorowi, w
+przypadku naruszenia przepisów niniejszego rozporządzenia przez operacje przetwarza‐
+nia, Prezes UODO uznaje za uzasadnione udzielenie Administratorowi upomnienia w
+związku ze stwierdzonym naruszeniem przepisów art. 5 ust. 1 lit. a) oraz art. 6 ust. 1
+rozporządzenia 2016/679.
+Motyw 148 rozporządzenia 2016/679 stanowi, że aby egzekwowanie przepisów rozporzą‐
+dzenia było skuteczniejsze, należy za jego naruszenie nakładać sankcje, w tym admini‐
+stracyjne kary pieniężne - oprócz lub zamiast odpowiednich środków nakładanych na
+mocy niniejszego rozporządzenia przez organ nadzorczy. Jeżeli naruszenie jest niewiel‐
+kie, karę pieniężną można zastąpić upomnieniem. Powinno się jednak zwrócić należytą
+uwagę na charakter, wagę oraz czas trwania naruszenia, na to, czy naruszenie nie było
+umyślne, na działania podjęte dla zminimalizowania szkody, na stopień odpowiedzialno‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_9/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.9.2025
+
+Strona 9 z 9
+
+ści lub wszelkie mające znaczenie wcześniejsze naruszenia, na sposób, w jaki organ nad‐
+zorczy dowiedział się o naruszeniu, na przestrzeganie środków nałożonych na admini‐
+stratora lub podmiot przetwarzający, na stosowanie kodeksów postępowania oraz
+wszelkie inne czynniki obciążające lub łagodzące.
+Prezes UODO uznał, że w ustalonych okolicznościach niniejszej sprawy wystarczającą re‐
+akcją na stwierdzone po stronie Administratora nieprawidłowości jest udzielenie mu upo‐
+mnienia. Decydując o wykorzystaniu tego środka prawnego Prezes UODO wziął w szcze‐
+gólności pod uwagę, że działania Administratora dotyczyły takiego zakresu danych oso‐
+bowych, do których przetwarzania (publikacji) nie był on wprawdzie uprawniony, nie‐
+mniej jednak nie stanowiły one danych podlegających szczególnym rygorom przetwarza‐
+nia (art. 9 oraz art. 10 rozporządzenia 2016/679) czy takich, których nieuprawnione
+przetwarzanie wiązać by się mogło z istnieniem po stronie podmiotu danych szczególnie
+istotnych ryzyk. Ponadto, biorąc pod uwagę okoliczności przedmiotowej sprawy i ustale‐
+nia w niej poczynione, brak jest również dowodów, że osoba, której dane dotyczą, ponio‐
+sła na skutek uchybienia Administratora szkodę. Prezes UODO wziął także pod uwagę
+działania podjęte przez Administratora po zaistnieniu naruszenia przepisów Administrator wykazał przez Prezesem UODO, iż „(…) wpis został usunięty z konta w por‐
+talu społecznościowym, zaś kandydat i sztab przeprosili za naruszenie dóbr dysponenta
+danych”.
+Mając na uwadze fakt, charakter i wagę stwierdzonego naruszenia przepisów rozporzą‐
+dzenia 2016/679, jego nieodwracalność rozumianą jako brak możliwości powrotu do mo‐
+mentu sprzed naruszenia i całokształt okoliczności związanych z naruszeniem oraz rek‐
+cją na nie po stronie Administratora, a zarazem potrzebę egzekwowania zapisów rozpo‐
+rządzenia 2016/679 (por. motyw 148), Prezes UODO uznał za zasadne skorzystanie w ni‐
+niejszej sprawie z instrumentu o charakterze naprawczym przewidzianego w art. 58 ust.
+2 lit. b) rozporządzenia 2016/679 i skierowanie do Administratora upomnienia w związku
+z zaistniałą sytuacją.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+[1] https://uodo.gov.pl/pl/383/497
+[2] https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guideli‐
+nes-22019-processing-personal-data-under-article-61b_pl
+[3] https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2024/
+guidelines-12024-processing-personal-data-based_pl
+[4] Tak np.: wyrok TSUE z 4 lipca 2023, C-252/21, Meta v. B., pkt 109; wyrok TSUE z 11
+grudnia 2019, C-708/18, A. de P. bloc M5A-ScaraA, pkt 48; wyrok TSUE z 4
+października 2024, C-621/22, K. T., pkt 42-43 i 51-52.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_9/content
+
+2025-09-03 13:16
+
+

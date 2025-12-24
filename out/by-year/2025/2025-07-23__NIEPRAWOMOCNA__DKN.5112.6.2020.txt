@@ -1,0 +1,1938 @@
+Warszawa, 23 lipca 2025
+NIEPRAWOMOCNA
+
+Decyzja
+DKN.5112.6.2020
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2024 r. poz. 572, ze zm.) zwanej dalej „kpa”, w związku z
+art. 7 ust. 1, art. 60, art. 90, art. 101 i art. 103 ustawy z dnia 10 maja 2018 r. o ochronie
+danych osobowych (Dz. U. z 2019 r. poz. 1781) zwanej dalej „u.o.d.o.”, oraz art. 57 ust.
+1 lit. a) i h), art. 58 ust. 2 lit. i), art. 83 ust. 1 - 3 oraz art. 83 ust. 5 lit. a) w związku z art.
+5 ust. 1 lit. a), lit. b) i lit. c) oraz art. 6 ust. 1 rozporządzenia Parlamentu Europejskiego i
+Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)
+(Dz. Urz. UE L 119 z 04.05.2016, str. 1 Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz.
+Urz. UE L 74 z 4.03.2021, str. 35), zwanego dalej „rozporządzeniem 2016/679”,
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w sprawie
+naruszenia przepisów o ochronie danych osobowych przez K. (…) S.A. z siedzibą w Z. (ul.
+(…) Z.) Prezes Urzędu Ochrony Danych Osobowych,
+stwierdzając naruszenie przez K. (…) S.A. z siedzibą w Z. (ul. (…) Z.) art. 5 ust. 1 lit. a),
+lit. b) i lit. c) oraz art. 6 ust. 1 rozporządzenia 2016/679, polegające na przetwarzaniu
+bez podstawy prawnej w okresie od 1 kwietnia 2019 r. do 23 września 2020 r. danych
+osobowych pozyskiwanych poprzez dokonywanie kopii (skanów) dokumentów tożsamo‐
+ści klientów i potencjalnych klientów bez odpowiedniej weryfikacji, czy w danym przy‐
+padku działania takie są uzasadnione wymogiem stosowania przez ten podmiot środków
+bezpieczeństwa finansowego na podstawie ustawy z dnia 1 marca 2018 r. o przeciwdzia‐
+łaniu praniu pieniędzy oraz finansowaniu terroryzmu[1] (w związku ze stosowaniem któ‐
+rych instytucje obowiązane mogą korzystać z uprawnienia z art. 34 ust. 4 tej ustawy),
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 2 z 39
+
+nakłada na K. (…) S.A. z siedzibą w Z. (ul. (…) Z.) administracyjną karę pieniężną w kwo‐
+cie 18 416 400,- zł (słownie: osiemnaście milionów czterysta szesnaście tysięcy
+czterysta złotych).
+
+Uzasadnienie
+
+A. Stan faktyczny
+
+I. Ustalenia dokonane w trakcie kontroli.
+Na podstawie art. 78 ust. 1, art. 79 ust. 1 oraz art. 84 ust. 1 pkt 1-4 u.o.d.o., w związku z
+art. 57 ust. 1 lit. a) i h) oraz art. 58 ust. 1 lit. b), e) i f) rozporządzenia 2016/679, w celu
+kontroli zgodności przetwarzania danych z przepisami o ochronie danych osobowych
+kontrolujący upoważnieni przez Prezesa Urzędu Ochrony Danych Osobowych (zwanego
+dalej „Prezesem UODO” lub „organem nadzorczym”), dokonali od 3 do 6 lutego 2020 r.
+czynności kontrolnych w K. (…) S.A. z siedzibą w Z. (ul. (…) Z.), zwanym dalej „Bankiem”
+(sygnatura kontroli: DKN.5112.6.2020). Z czynności tych sporządzono protokół, zwany
+dalej: „Protokołem kontroli”, do którego załączono obszerną dokumentację (w aktach
+oznaczoną jako załączniki). Protokół ten został podpisany 6 lutego 2020 r. przez osobę
+reprezentującą Bank, przy czym nie wniosła ona do niego żadnych zastrzeżeń.
+Zakresem kontroli objęto przetwarzanie przez Bank danych osobowych klientów oraz po‐
+tencjalnych klientów, zawartych w kopiach (skanach) dokumentów tożsamości, w tym w
+szczególności: podstawę prawną przetwarzania danych osobowych, zakres i rodzaj prze‐
+twarzanych danych osobowych, a także sposób oraz cel zbierania i udostępniania
+danych osobowych.
+W toku kontroli odebrano od pracowników Banku ustne wyjaśnienia oraz dokonano oglę‐
+dzin systemów informatycznych i pomieszczeń, w których przetwarzane są dane osobo‐
+we klientów. Stan faktyczny ustalony przez kontrolujących opisano w Protokole kontroli.
+Z oświadczeń przytoczonych w Protokole kontroli wynika, że (…).
+(…). Podstawą prawną zbierania tych danych były w ocenie Banku przepisy art. 34 ust.
+4, art. 37 oraz art. 49 ust. 1 pkt 1 ustawy AML (które zostaną przytoczone w dalszej
+części uzasadnienia niniejszej decyzji).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 3 z 39
+
+Bank opracował procedury przeznaczone dla pracowników Banku (zatrudnionych w
+oddziałach i w L. (…)), w tym m.in. procedury o nazwie: „(…)”, „(…)” oraz „(…)” (zob.:
+załącznik (…) do Protokołu kontroli). (…):
+–
+(…),
+–
+(…).
+(…).
+W procedurze o nazwie: „(…)” wskazano z kolei, że (…).
+Ponadto, Bank wprowadził zasadę, zgodnie z którą (…).
+W załączniku (…) do Protokołu kontroli wyraźnie wskazano, że w przypadku, gdy (…).
+Z dokumentu o nazwie „Załącznik (…)” stanowiącego „(…)” (zob.: załącznik (…) do Pro‐
+tokołu kontroli) wynika z kolei, że (…).
+Wewnętrzne ustalenia dotyczące praktyki skanowania dokumentów tożsamości wynikały
+również z informacji przekazywanych pracownikom Banku poza ww., formalnie funkcjo‐
+nującymi, procedurami. Załącznik (…) do Protokołu kontroli stanowi wydruk z Intranetu:
+„(…)”. Wynika z niego, że (…):
+–
+(…),
+–
+(…),
+–
+(…).
+W załączniku (…) do Protokołu kontroli zamieszczono również inne wydruki informacji
+przekazywanych przez Intranet Banku. W dwóch z nich (…):
+–
+(…),
+–
+(…).
+Procedury Banku oraz instrukcje przekazywane pracownikom Banku poprzez Intranet nie
+tylko pozostają w pewnych zakresach niespójne, ale również nie różnicują sytuacji, w ja‐
+kich stosowanie środków bezpieczeństwa finansowego określonych w ustawie AML (w
+związku ze stosowaniem których instytucje obowiązane dysponują uprawnieniem do
+przetwarzania informacji z dokumentów tożsamości oraz ich kopiowania) byłoby uzasad‐
+nione przeciwdziałaniem praniu pieniędzy oraz finansowaniu terroryzmu (co stanowi
+obowiązek Banku jako instytucji obowiązanej), a w których nie. Przyjęto po prostu, że w
+każdym z przypadków wskazanych w ww. procedurach i instrukcjach powinno się wyko‐
+nać skan dokumentu tożsamości klienta lub potencjalnego klienta – w wielu sytuacjach
+od jego uzyskania uzależniając wykonanie czynności na rzecz klienta. Bank nie dokony‐
+wał więc indywidualnej oceny ryzyka wiążącego się z danym klientem i podejmowanymi
+przez niego działaniami. Stosowanie praktyki Banku ukształtowanej ww. procedurami
+oraz instrukcjami przekazywanymi przez Intranet prowadziło m.in. do sytuacji, w których
+dochodziło do skanowania dokumentów tożsamości w przypadkach niewiążących się z
+realizacją obowiązków określonych przepisami ustawy AML, na co wskazuje np. przypa‐
+dek opisany w załączniku (…) do Protokołu kontroli (osoba korzystająca z bankomatu
+znajdującego się w placówce Banku chciała zgłosić reklamację na jego działanie – pra‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 4 z 39
+
+cownik poinformował tę osobę o tym, że przed przyjęciem reklamacji wymagane jest po‐
+zyskanie skanu jego dokumentu tożsamości i dopiero po ustaleniu, że składający rekla‐
+mację nie jest klientem Banku, doszło do usunięcia wykonanego skanu z systemu Ban‐
+ku). Dokonana po kontroli organu nadzorczego przez sam Bank weryfikacja poprawności
+stosowanych procedur doprowadziła do wniosków, że podejmowane przez Bank w pew‐
+nym zakresie działania nie służyły realizacji obowiązków określonych w ustawie AML, co
+skutkowało ich zmianą.
+Na podstawie tak zgromadzonego materiału dowodowego ustalono, że w procesie prze‐
+twarzania danych osobowych Bank, jako administrator danych osobowych, naruszył
+przepisy o ochronie danych osobowych, tj. art. 5 ust. 1 lit. a), lit. b) i lit. c), a następnie
+ustalono, że doszło również do naruszenia art. 6 ust. 1 rozporządzenia 2016/679. Naru‐
+szenie polegało na bezpodstawnym przetwarzaniu od 1 kwietnia 2019 r. (do – jak później
+ustalono na podstawie dalszych wyjaśnień Banku: 23 września 2020 r.) danych osobo‐
+wych obecnych i potencjalnych klientów Banku pozyskiwanych poprzez sporządzanie ko‐
+pii (skanów) dokumentów tożsamości w sytuacjach niepowiązanych z jego obowiązkami
+wynikającymi z ustawy AML. Działanie Banku nie wiązało się wyłącznie z realizacją obo‐
+wiązków wynikających z obowiązujących przepisów prawa, albowiem kopiowanie (skano‐
+wanie) dokumentów może mieć miejsce tylko w sytuacji, gdy stosowane są środki bez‐
+pieczeństwa finansowego, o których mowa w art. 34 ustawy AML. W związku z tym, ko‐
+piowanie (skanowanie) dokumentów tożsamości przez Bank musi być poprzedzone anali‐
+zą celowości, tj. zweryfikowaniem, czy rzeczywiście taka czynność jest niezbędna.
+
+II. Wszczęcie postępowania administracyjnego i dalsze
+ustalenia dotyczące stanu faktycznego.
+W związku z powyższym, Prezes UODO wszczął z urzędu postępowanie administracyjne
+w przedmiocie stwierdzonych w trakcie kontroli naruszeń przepisów o ochronie danych
+osobowych (pismo z 2 grudnia 2021 r., znak: DKN.5112.6.2020. (…)). W przesłanym Ban‐
+kowi zawiadomieniu o wszczęciu postępowania wskazano na art. 5 ust. 1 lit. a), lit. b) i
+lit. c) rozporządzenia 2016/679, a następnie postępowanie to zostało rozszerzone o moż‐
+liwość naruszenia przez Bank, jako administratora danych, obowiązków wynikających z
+przepisu art. 6 ust. 1 rozporządzenia 2016/679 (pismo z 11 kwietnia 2025 r., znak: DKN.
+(…)).
+W odpowiedzi na ww. zawiadomienie o wszczęciu postępowania administracyjnego oraz
+w nadsyłanych przez siebie kolejnych pismach, Bank złożył wyjaśnienia, z których wyni‐
+ka, że po kontroli Prezesa UODO obowiązujące w Banku procedury zostały zmienione
+tak, aby zapewnić, że kopiowanie (skanowanie) dokumentów tożsamości będzie dokony‐
+wane w celu wykonywania lub udokumentowania wykonania obowiązkowych środków
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 5 z 39
+
+bezpieczeństwa finansowego przewidzianych w art. 34 ustawy AML (co wynika z pisma
+Banku, które wpłynęło do Prezesa UODO 29 grudnia 2021 r.).
+Z wyjaśnień Banku zawartych w pismach z: 29 grudnia 2021 r., 22 kwietnia 2022 r., 25
+lutego, 12 marca oraz 30 kwietnia 2025 r. (daty wpływu) wynika, że zmiany te
+wprowadzone były w dwóch etapach:
+1) w pierwszym, mającym miejsce po przeprowadzeniu kontroli, Bank wdrożył szereg
+działań naprawczych uwzględniających stanowisko Generalnego Inspektora
+
+2)
+
+Informacji Finansowej (dalej: „GIIF”)[3] oraz Prezesa UODO w ten sposób, że od 23
+września 2020 r. ograniczył skanowanie dokumentów tożsamości do przypadków
+stosowania i dokumentowania, przewidzianych ustawą AML, środków bezpieczeń‐
+stwa finansowego – stosownie do rozpoznanego i ocenionego ryzyka prania
+pieniędzy oraz finansowania terroryzmu,
+w następnym, Bank podjął kolejne czynności weryfikacyjne zmierzające do ustalenia
+możliwości dalszego ograniczenia skanowania ww. dokumentów i od 14 marca 2022
+r. wprowadził kolejne zmiany, o których mowa w pkt 21 poniżej.
+
+W pierwszym z ww. etapów Bank, po przeprowadzeniu kontroli, zaakceptował zasadnicze
+zmiany podejścia do skanowania dowodów osobistych uznając, że:
+1) skanowanie dokumentów tożsamości może mieć miejsce jedynie w sytuacjach, gdy
+zachodzą przesłanki takiego skanowania,
+2) niesporne jest, że przesłanki skanowania dokumentów tożsamości wynikają ze sto‐
+sowania ustawy AML, w szczególności art. 33-37, w zakresie wykonywania i doku‐
+mentowania wykonywania obowiązkowych środków bezpieczeństwa finansowego,
+co przede wszystkim oznacza, że skanowanie nie powinno następować „przy każdej
+wykonywanej czynności”, ale jest dopuszczalne w ramach wykonywania wyżej wy‐
+mienionych obowiązków z ustawy AML, tj. w celach wykonywania i dokumentowania
+środków bezpieczeństwa finansowego w sytuacjach przewidzianych art. 35 ustawy
+AML w ramach rozpoznanego przez dany bank ryzyka prania pieniędzy lub
+finansowania terroryzmu, jego zakresu i intensywności.
+Wychodząc z założenia, że decyzja w sprawie poszczególnych procesów pozyskania ska‐
+nów dokumentów uzależniona jest od poziomu rozpoznanego ryzyka prania pieniędzy,
+Bank przyjął następujące zasady kopiowania/skanowania dokumentów tożsamości, w
+związku ze stosowaniem ustawy AML:
+1) (…).
+(…).
+2) (…).
+(…).
+3) (…).
+(…).
+(…).
+(…).
+4) (…):
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+a)
+b)
+
+Strona 6 z 39
+
+(…),
+(…).
+(…):
+–
+(…),
+–
+(…),
+–
+(…):
+– (…),
+– (…),
+– (…),
+– (…).
+
+Bank dokonał również ograniczenia (…).
+W ramach drugiego z etapów, o których mowa w pkt 17 uzasadnienia niniejszej decyzji,
+Bank przeprowadził kolejny przegląd procedur, dokonując ich zmiany w stosunku do wer‐
+sji przekazanych w toku kontroli przeprowadzonej przez Prezesa UODO w dniach 3-6
+lutego 2020 r., tak aby zapewnić, że:
+1) skanowanie dokumentów tożsamości jest wykonywane w celu wykonywania i doku‐
+mentowania wykonywania obowiązków przewidzianych ustawą AML,
+2) skanowanie dokumentów tożsamości nie występuje w przypadku jakiegokolwiek
+kontaktu klienta z Bankiem, a wyłącznie w celu opisanym w ppkt 1) powyżej,
+3) (…).
+(…).
+Jednym z załączników (…) do Protokołu kontroli była „(…)” obowiązująca od 1 lutego
+2020 r., na podstawie której Bank oceniał procesy przetwarzania danych osobowych.
+Jednak rezultat tej oceny (oraz ewentualnych wcześniejszych) nie doprowadził Banku do
+prawidłowych wniosków, o czym świadczy przyjęta przez niego w analizowanym okresie
+(od 1 kwietnia 2019 r. do 23 września 2020 r.) praktyka w zakresie przetwarzania danych
+osobowych pozyskiwanych poprzez wykonywanie kopii (skanów) dokumentów tożsamo‐
+ści w przypadkach niewiążących się z realizacją obowiązków określonych przepisami
+ustawy AML. W trakcie dalszego postępowania administracyjnego Bank przekazał wraz z
+pismem, które wpłynęło 21 października 2024 r. (omówionym szerzej w pkt 26 poniżej)
+kolejne dokumenty w tym zakresie – dotyczące okresu, w którym Bank stosował już
+zmienioną praktykę w powyższym zakresie.
+Weryfikacja przedłożonych dokumentów potwierdziła, że Bank wdrożył szereg działań
+naprawczych mających na celu ograniczenie przetwarzania danych osobowych pozyski‐
+wanych poprzez skanowanie (kopiowanie) dokumentów tożsamości do przypadków po‐
+wiązanych z realizacją obowiązków wynikających z ustawy AML. Bank dokonał analizy
+poszczególnych procesów związanych z wykonywaniem i dokumentowaniem środków
+bezpieczeństwa finansowego, uzależniając decyzję w sprawie poszczególnych procesów
+pozyskania skanów (kopii) dokumentów od poziomu rozpoznanego ryzyka prania pienię‐
+dzy. Zmiany te zostały wdrożone od 23 września 2020 r., a kolejne zmiany miały na celu
+jedynie dalsze dostosowanie analizowanego procesu do wymogów ustawy AML. Z uwagi
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 7 z 39
+
+na fakt, że postępowanie administracyjne o sygn. DKN.5112.6.2020 zostało wszczęte w
+związku z przeprowadzoną w lutym 2020 r. kontrolą organu nadzorczego, analizie podda‐
+no przede wszystkim zgodność działań Banku z przepisami o ochronie danych osobo‐
+wych w okresie od 1 kwietnia 2019 r. aż do wdrożenia pierwszego etapu zmian, co na‐
+stąpiło 23 września 2020 r. Do późniejszych działań Banku odniesiono się w niniejszej de‐
+cyzji jedynie w zakresie niezbędnym dla ukazania pełnego stanu faktycznego (bez prze‐
+sądzania o prawidłowości wszystkich aktualnych praktyk Banku w zakresie przetwarza‐
+nia danych osobowych pozyskiwanych poprzez skanowanie dokumentów tożsamości).
+
+III. Przekazane wraz z pismami Banku dowody oraz
+złożone wnioski dowodowe.
+Bank w nadesłanych do Prezesa UODO pismach nie tylko wnioskował na podstawie art.
+105 § 1 kpa o umorzenie postępowania, lecz również załączał dowody oraz składał wnio‐
+ski dowodowe wskazane w kolejnych punktach uzasadnienia niniejszej decyzji.
+Do pisma, które wpłynęło do organu nadzorczego 22 kwietnia 2022 r., Bank załączył jako
+dowód zmienione procedury: „(…)” oraz „(…)”. Kolejne dokumenty zostały załączone
+jako dowody do pisma Banku otrzymanego przez organ nadzorczy 25 lutego 2025 r. (wy‐
+pis z Uchwały Zarządu Nr (…) z (…) kwietnia 2020 r. – w zakresie pkt 5 i 6 oraz Zarządze‐
+nie nr (…) z (…) marca 2022 r.) oraz do pisma otrzymanego 12 marca 2025 r. (wyciąg z
+Zarządzenia nr (…)). Wszystkie nadesłane w związku z prowadzonym postępowaniem
+przez Bank dokumenty (tj. m.in. wyżej wymienione) zostały włączone do akt sprawy,
+poddane analizie oraz ocenione wraz z pozostałym zgromadzonym w ramach niniejszego
+postępowania materiałem dowodowym.
+Pismem z 21 października 2024 r. (data wpływu) Bank wniósł o dopuszczenie w trybie:
+1) art. 75 § 1 kpa dowodu z załączonego wyciągu (…),
+2) art. 75 § 1 kpa dowodu z przesłuchania świadka – (…) I. C., (…) na stanowisku (…),
+na okoliczność skanowania dowodów tożsamości wyłącznie w celu wykonywania
+przez Bank środka bezpieczeństwa finansowego przewidzianego w art. 34 ust. 1 pkt
+1 ustawy AML, tj. identyfikacji i weryfikacji tożsamości,
+3) art. 96a i następnych kpa mediacji, bowiem według Banku zasadnym i celowym jest
+wyjaśnienie i rozważenie okoliczności faktycznych i prawnych sprawy, co pozwoli na
+dokonanie ustaleń dotyczących załatwienia sprawy w granicach obowiązującego
+prawa, a ponadto wniósł, aby Prezes UODO – w trybie art. 7b kpa – skonsultował z
+GIIF stanowisko co do skanowania dokumentów tożsamości w zakresie, jaki obecnie
+ma miejsce w Banku, czyli po dokonaniu licznych modyfikacji w tym obszarze od
+czasu przeprowadzenia kontroli w Banku.
+Wniosek wskazany w ppkt 2 powyżej (tj. o przesłuchanie świadka – (…) I. C.) został
+ponownie złożony przez Bank w piśmie, które wpłynęło do Prezesa UODO 21 lipca
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 8 z 39
+
+2025 r. (przy czym w tym złożonym po raz drugi wniosku wskazano nieco odmienną
+nazwę piastowanego przez tę osobę stanowiska).
+W tym stanie faktycznym, po zapoznaniu się z całością zgromadzonego w sprawie
+materiału dowodowego, Prezes UODO zważył, co następuje:
+W myśl art. 34 ust. 1 i 2 u.o.d.o. Prezes UODO jest organem właściwym w sprawie ochro‐
+ny danych osobowych i organem nadzorczym w rozumieniu rozporządzenia 2016/679.
+Stosownie do art. 57 ust. 1 lit. a) i h) rozporządzenia 2016/679, bez uszczerbku dla in‐
+nych zadań określonych na mocy tego rozporządzenia, każdy organ nadzorczy na swoim
+terytorium monitoruje i egzekwuje stosowanie niniejszego rozporządzenia oraz prowadzi
+postępowania w sprawie stosowania niniejszego rozporządzenia, w tym na podstawie in‐
+formacji otrzymanych od innego organu nadzorczego lub innego organu publicznego.
+Uprawnienia naprawcze przysługujące organowi nadzorczemu w wypadku stwierdzenia
+naruszenia przepisów rozporządzenia 2016/679 statuuje art. 58 ust. 2 lit. a) do j) rozpo‐
+rządzenia 2016/679. Przepis ten przewiduje m.in. zastosowanie, oprócz lub zamiast środ‐
+ków, o których mowa w tym ustępie, administracyjnej kary pieniężnej na mocy art. 83,
+zależnie od okoliczności konkretnej sprawy (lit. i).
+Zgodnie z art. 1 ust. 2 pkt 5 u.o.d.o., ustawa ta określa postępowanie w sprawie narusze‐
+nia przepisów o ochronie danych osobowych. Stosownie do art. 60 u.o.d.o. Prezes UODO
+prowadzi postępowanie w sprawie naruszenia przepisów o ochronie danych osobowych.
+Z powyższego wynika zatem, że postępowanie prowadzone przez Prezesa UODO ma na
+celu ustalenie, czy w sprawie doszło do naruszenia przepisów o ochronie danych osobo‐
+wych, a w razie stwierdzenia tego naruszenia, skorzystanie z uprawnień naprawczych.
+Ocena dokonywana przez Prezesa UODO służy zatem zbadaniu zasadności skorzystania
+przez niego jako organ nadzorczy z uprawnień naprawczych, o których mowa w art. 58
+ust. 2 rozporządzenia 2016/679.
+
+B. Stan prawny.
+
+I. Zasady wyrażone w art. 5 lit. a)-c) oraz art. 6 ust. 1
+rozporządzenia 2016/679.
+Zgodnie z art. 5 ust. 1 lit. a)-c) rozporządzenia 2016/679, dane osobowe muszą być:
+a) przetwarzane zgodnie z prawem, rzetelnie i w sposób przejrzysty dla osoby, której
+dane dotyczą („zgodność z prawem, rzetelność i przejrzystość”),
+b) zbierane w konkretnych, wyraźnych i prawnie uzasadnionych celach i nieprzetwa‐
+rzane dalej w sposób niezgodny z tymi celami; dalsze przetwarzanie do celów archi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+c)
+
+Strona 9 z 39
+
+walnych w interesie publicznym, do celów badań naukowych lub historycznych lub
+do celów statystycznych nie jest uznawane w myśl art. 89 ust. 1 za niezgodne z
+pierwotnymi celami („ograniczenie celu”),
+adekwatne, stosowne oraz ograniczone do tego, co niezbędne do celów, w których
+są przetwarzane („minimalizacja danych”).
+
+Jak wskazuje doktryna, zasady te „»nie są jedynie ideami, wartościami czy postulatami
+odczytywanymi z całokształtu przepisów o ochronie danych osobowych, a mają charak‐
+ter normatywny – są wiążącymi normami prawa, wyznaczającymi określony sposób po‐
+stępowania. (…) Mają one szczególne znaczenie dla stosowania i interpretacji przepisów
+o ochronie danych osobowych. Z faktu uznania w akcie normatywnym określonych norm
+prawnych za zasady wywieść można wniosek, że prawodawca pragnął w ten sposób
+podkreślić ich znaczenie i uczynić z nich swoiste normy nadrzędne nad pozostałymi nor‐
+mami określonymi w tych przepisach. Nadrzędność zasad oznacza m.in. konieczność od‐
+czytywania norm zawartych w przepisach o ochronie danych w sposób zgodny z tymi za‐
+sadami« (…)”[5].
+W art. 6 ust. 1 rozporządzenia 2016/679 wskazano z kolei, że przetwarzanie danych oso‐
+bowych jest zgodne z prawem wyłącznie w przypadkach, gdy – i w takim zakresie, w
+jakim – spełniony jest co najmniej jeden z poniższych warunków:
+a) osoba, której dane dotyczą wyraziła zgodę na przetwarzanie swoich danych
+osobowych w jednym lub większej liczbie określonych celów;
+b) przetwarzanie jest niezbędne do wykonania umowy, której stroną jest osoba, której
+dane dotyczą, lub do podjęcia działań na żądanie osoby, której dane dotyczą, przed
+zawarciem umowy;
+c) przetwarzanie jest niezbędne do wypełnienia obowiązku prawnego ciążącego na ad‐
+ministratorze;
+d) przetwarzanie jest niezbędne do ochrony żywotnych interesów osoby, której dane
+dotyczą, lub innej osoby fizycznej;
+e) przetwarzanie jest niezbędne do wykonania zadania realizowanego w interesie pu‐
+blicznym lub w ramach sprawowania władzy publicznej powierzonej administratoro‐
+wi;
+f) przetwarzanie jest niezbędne do celów wynikających z prawnie uzasadnionych inte‐
+resów realizowanych przez administratora lub przez stronę trzecią, z wyjątkiem sy‐
+tuacji, w których nadrzędny charakter wobec tych interesów mają interesy lub pod‐
+stawowe prawa i wolności osoby, której dane dotyczą, wymagające ochrony danych
+osobowych, w szczególności gdy osoba, której dane dotyczą, jest dzieckiem.
+Należy zaznaczyć, że przepis art. 6 ust. 1 lit. f) rozporządzenia 2016/679 nie ma za‐
+stosowania do przetwarzania danych osobowych przez organy publiczne w ramach
+realizacji swoich zadań.
+Katalog przesłanek legalności przetwarzania danych osobowych wymienionych w art. 6
+ust. 1 rozporządzenia 2016/679 jest zamknięty. Każda z przesłanek legalizujących proces
+przetwarzania danych osobowych ma charakter autonomiczny i niezależny. Są także
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 10 z 39
+
+względem siebie równoprawne, co oznacza, że dla legalności procesu przetwarzania
+danych wystarczające jest spełnienie jednej z nich.
+
+II. Właściwe przepisy ustawy AML (w wersji aktu obowią‐
+zującej w okresie od 1 kwietnia 2019 r. do 23 września
+2020 r.).
+Banki krajowe, jako instytucje obowiązane (do których to instytucji zalicza je przepis art.
+2 ust. 1 pkt 1 ustawy AML), stosują wobec swoich klientów – zgodnie z art. 33 ust. 1
+ustawy AML – środki bezpieczeństwa finansowego.
+Art. 33 ust. 2 ustawy AML stanowi, że instytucje obowiązane rozpoznają ryzyko prania
+pieniędzy oraz finansowania terroryzmu związane ze stosunkami gospodarczymi lub z
+transakcją okazjonalną oraz oceniają poziom rozpoznanego ryzyka. Ponadto, w myśl
+ustępu trzeciego tego artykułu, instytucje obowiązane dokumentują rozpoznane ryzyko
+prania pieniędzy oraz finansowania terroryzmu związane ze stosunkami gospodarczymi
+lub z transakcją okazjonalną oraz jego ocenę, uwzględniając w szczególności czynniki
+dotyczące:
+1) rodzaju klienta,
+2) obszaru geograficznego,
+3) przeznaczenia rachunku,
+4) rodzaju produktów, usług i sposobów ich dystrybucji,
+5) poziomu wartości majątkowych deponowanych przez klienta lub wartości
+przeprowadzonych transakcji,
+6) celu, regularności lub czasu trwania stosunków gospodarczych.
+Na podstawie art. 33 ust. 4 ustawy AML instytucje obowiązane stosują środki bezpie‐
+czeństwa finansowego w zakresie i z intensywnością uwzględniającymi rozpoznane ryzy‐
+ko prania pieniędzy oraz finansowania terroryzmu związane ze stosunkami
+gospodarczymi lub z transakcją okazjonalną oraz jego ocenę.
+Jak wynika z powyżej powołanych wyżej przepisów, proces stosowania środków bezpie‐
+czeństwa finansowego przez instytucje obowiązane jest dwuetapowy. W pierwszym z
+nich, instytucja taka musi dokonać oceny ryzyka prania pieniędzy i finansowania terrory‐
+zmu. Dopiero w sytuacji, gdy wynik tej oceny uzasadnia podejmowanie dalszych działań,
+należy przejść do drugiego etapu, tj. doboru adekwatnych środków bezpieczeństwa fi‐
+nansowego (w odpowiednim zakresie oraz o właściwej intensywności) oraz ich zastoso‐
+wania.
+Sytuacje, gdy instytucje obowiązane stosują środki bezpieczeństwa finansowego określa
+art. 35 ust. 1 ustawy AML. Zgodnie z tym przepisem, ma to miejsce w przypadku:
+1) nawiązywania stosunków gospodarczych;
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+2)
+
+3)
+
+4)
+
+5)
+6)
+
+Strona 11 z 39
+
+przeprowadzania transakcji okazjonalnej:
+a) o równowartości 15 000 euro lub większej, bez względu na to, czy transakcja
+jest przeprowadzana jako pojedyncza operacja, czy kilka operacji, które wydają
+się ze sobą powiązane, lub
+b) która stanowi transfer środków pieniężnych na kwotę przekraczającą
+równowartość 1000 euro;
+przeprowadzania gotówkowej transakcji okazjonalnej o równowartości 10 000 euro
+lub większej, bez względu na to, czy transakcja jest przeprowadzana jako pojedyn‐
+cza operacja, czy kilka operacji, które wydają się ze sobą powiązane - w przypadku
+instytucji obowiązanych, o których mowa w art. 2 ust. 1 pkt 23;
+obstawiania stawek oraz odbioru wygranych o równowartości 2000 euro lub więk‐
+szej, bez względu na to, czy transakcja jest przeprowadzana jako pojedyncza opera‐
+cja, czy kilka operacji, które wydają się ze sobą powiązane - w przypadku instytucji
+obowiązanych, o których mowa w art. 2 ust. 1 pkt 20;
+podejrzenia prania pieniędzy lub finansowania terroryzmu;
+wątpliwości co do prawdziwości lub kompletności dotychczas uzyskanych danych
+identyfikacyjnych klienta.
+Ponadto, zgodnie z ustępem drugim tego artykułu, instytucje obowiązane stosują
+środki bezpieczeństwa finansowego również w odniesieniu do klientów, z którymi
+utrzymują stosunki gospodarcze, z uwzględnieniem rozpoznanego ryzyka prania
+pieniędzy oraz finansowania terroryzmu, w szczególności gdy doszło do zmiany
+uprzednio ustalonego charakteru lub okoliczności stosunków gospodarczych.
+
+Zgodnie z wyżej powołanym przepisem art. 35 ust. 1 ustawy AML, w sytuacjach w nim
+wskazanych instytucje obowiązane stosują środki bezpieczeństwa finansowego, lecz ich
+dobór powinien nastąpić adekwatnie do wyniku oceny ryzyka wiążącego się z analizowa‐
+ną sytuacją (art. 33 ust. 4 ustawy AML). Przepisy te nie przewidują automatyzmu stoso‐
+wania konkretnego środka bezpieczeństwa finansowego. Jego wybór ustawodawca pozo‐
+stawia instytucji obowiązanej, przy czym powinna ona zastosować środek właściwy w
+swoim zakresie oraz intensywności.
+Katalog środków bezpieczeństwa finansowego zawarto w art. 34 ust. 1 ustawy AML.
+Zgodnie z tym przepisem obejmują one:
+1) identyfikację klienta oraz weryfikację jego tożsamości;
+2) identyfikację beneficjenta rzeczywistego oraz podejmowanie uzasadnionych
+czynności w celu:
+a) weryfikacji jego tożsamości,
+b) ustalenia struktury własności i kontroli - w przypadku klienta będącego osobą
+prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej;
+3) ocenę stosunków gospodarczych i, stosownie do sytuacji, uzyskanie informacji na
+temat ich celu i zamierzonego charakteru;
+4) bieżące monitorowanie stosunków gospodarczych klienta, w tym:
+a) analizę transakcji przeprowadzanych w ramach stosunków gospodarczych w
+celu zapewnienia, że transakcje te są zgodne z wiedzą instytucji obowiązanej o
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 12 z 39
+
+kliencie, rodzaju i zakresie prowadzonej przez niego działalności oraz zgodne z
+ryzykiem prania pieniędzy oraz finansowania terroryzmu związanym z tym
+klientem,
+b) badanie źródła pochodzenia wartości majątkowych będących w dyspozycji
+klienta – w przypadkach uzasadnionych okolicznościami,
+c) zapewnienie, że posiadane dokumenty, dane lub informacje dotyczące
+stosunków gospodarczych są na bieżąco aktualizowane.
+Instytucje obowiązane, stosując środki bezpieczeństwa finansowego, o których
+mowa w ppkt 1 i 2, identyfikują osobę upoważnioną do działania w imieniu klienta
+oraz weryfikują jej tożsamość i umocowanie do działania w imieniu klienta (art. 34
+ust. 2 ustawy AML).
+Zgodnie z kolei z art. 36 ustawy AML, identyfikacja klienta polega na ustaleniu w przy‐
+padku osoby fizycznej: jej imienia i nazwiska, obywatelstwa, numeru Powszechnego
+Elektronicznego Systemu Ewidencji Ludności (PESEL) lub daty urodzenia (w przypadku,
+gdy nie nadano numeru PESEL), oraz państwa urodzenia, serii i numeru dokumentu
+stwierdzającego tożsamość osoby, adresu zamieszkania (w przypadku posiadania tej in‐
+formacji przez instytucję obowiązaną), nazwy (firmy), numeru identyfikacji podatkowej
+(NIP) oraz adresu głównego miejsca wykonywania działalności gospodarczej – w przy‐
+padku osoby fizycznej prowadzącej działalność gospodarczą. Odpowiedni (węższy) za‐
+kres tych danych ustala się również przy identyfikacji beneficjenta rzeczywistego oraz
+osoby upoważnionej do działania w imieniu klienta.
+Weryfikacja tożsamości klienta, osoby upoważnionej do działania w jego imieniu oraz be‐
+neficjenta rzeczywistego polega na potwierdzeniu ustalonych danych identyfikacyjnych
+na podstawie dokumentu stwierdzającego tożsamość osoby fizycznej, dokumentu zawie‐
+rającego aktualne dane z wyciągu z właściwego rejestru lub innych dokumentów, da‐
+nych lub informacji pochodzących z wiarygodnego i niezależnego źródła (art. 37 ustawy
+AML).
+Instytucje obowiązane dokumentują zastosowane środki bezpieczeństwa finansowego
+oraz wyniki bieżącej analizy przeprowadzanych transakcji. Na żądanie organów, o któ‐
+rych mowa w art. 130 ustawy AML, instytucje obowiązane wykazują, że przy uwzględnie‐
+niu poziomu rozpoznanego ryzyka prania pieniędzy oraz finansowania terroryzmu zwią‐
+zanego z danymi stosunkami gospodarczymi lub transakcją okazjonalną zastosowały od‐
+powiednie środki bezpieczeństwa finansowego (art. 34 ust. 3 ustawy AML).
+Zgodnie z art. 34 ust. 4 ustawy AML, instytucje obowiązane na potrzeby stosowania
+środków bezpieczeństwa finansowego mogą przetwarzać informacje zawarte w doku‐
+mentach tożsamości klienta i osoby upoważnionej do działania w jego imieniu oraz
+sporządzać ich kopie.
+Kopie dokumentów i informacje uzyskane w wyniku stosowania środków bezpieczeństwa
+finansowego instytucje obowiązane przechowują przez okres 5 lat, licząc od pierwszego
+dnia roku następującego po roku, w którym zakończono stosunki gospodarcze z klientem
+lub w którym przeprowadzono transakcje okazjonalne (art. 49 ust. 1 pkt 1 ustawy AML).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 13 z 39
+
+C. Ocena Prezesa UODO.
+Jak stanowi Krajowa Ocena Ryzyka Prania Pieniędzy oraz Finansowania Terroryzmu:
+„Ustawa nakłada na instytucje obowiązane obowiązek stosowania wobec swoich klien‐
+tów środków bezpieczeństwa finansowego. Zakres stosowanych środków bezpieczeń‐
+stwa finansowego uwzględnia rozpoznane ryzyko prania pieniędzy lub finansowania ter‐
+roryzmu związane ze stosunkami gospodarczymi lub transakcją okazjonalną oraz jego
+ocenę. Obowiązkiem instytucji obowiązanych jest również dokumentowanie rozpoznane‐
+go ryzyka oraz stosowanie środków bezpieczeństwa finansowego w zakresie i z inten‐
+sywnością uwzględniającą rozpoznane ryzyko. Na żądanie organów wskazanych w usta‐
+wie (…), instytucje obowiązane wykazują, że przy uwzględnieniu poziomu rozpoznanego
+ryzyka prania pieniędzy oraz finansowania terroryzmu związanego z danymi stosunkami
+gospodarczymi lub transakcją okazjonalną zastosowały odpowiednie środki bezpieczeń‐
+stwa finansowego. Ciężar udowodnienia właściwego zastosowania środków bezpieczeń‐
+stwa finansowego ciąży na instytucji obowiązanej. To instytucja obowiązana zgodnie z
+zasadą risk based approach decyduje ostatecznie w jakim zakresie i z jaką intensywno‐
+ścią zastosuje względem danego klienta środki bezpieczeństwa finansowego. Instytucja
+ta musi też wykazać, że dobór tych środków był właściwy”[6]. Biorąc to pod uwagę, nale‐
+ży jednak zaznaczyć, że przedmiotem oceny Prezesa UODO dokonywanej w ramach po‐
+stępowania administracyjnego DKN.5112.6.2020 jest zgodność z przepisami o ochronie
+danych osobowych przetwarzania przez Bank danych osobowych pozyskiwanych po‐
+przez kopiowanie (skanowanie) dokumentów tożsamości jego klientów oraz potencjal‐
+nych klientów (w okresie od 1 kwietnia 2019 r. do 23 września 2020 r. – zob. pkt 23 uza‐
+sadnienia niniejszej decyzji). Z ustaleń poczynionych w niniejszej sprawie wynika, że
+Bank w pewnym zakresie nie wiązał przyjętej wówczas praktyki z realizacją obowiązków
+nałożonych na niego ustawą AML, na co wskazują m.in. jego wyjaśnienia przytoczone w
+pkt 18 ppkt 2 oraz pkt 21 ppkt 2 uzasadnienia niniejszej decyzji, w których Bank
+stwierdził, że:
+–
+„skanowanie nie powinno następować »przy każdej wykonywanej czynności«, ale
+jest dopuszczalne w ramach wykonywania wyżej wymienionych obowiązków z
+ustawy AML”,
+–
+„skanowanie dokumentów tożsamości nie występuje w przypadku jakiegokolwiek
+kontaktu klienta z Bankiem, a w celu” wykonywania i dokumentowania wykonywa‐
+nia obowiązków przewidzianych ustawą AML.
+W świetle powołanych wyżej przepisów ustawy AML podkreślić należy, że zasadność
+przetwarzania danych osobowych pozyskiwanych poprzez kopiowanie (skanowanie) do‐
+kumentów tożsamości można powiązać z identyfikacją czy weryfikacją tożsamości klien‐
+ta jedynie w sytuacjach, gdy zachodzą przesłanki takiego działania wynikające z przepi‐
+sów ustawy AML, a nie w przypadkach określonych w sposób dowolny przez instytucję
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 14 z 39
+
+obowiązaną. Przesłanki stosowania środków bezpieczeństwa finansowego (na potrzeby
+którego instytucje obowiązane mogą przetwarzać informacje zawarte w dokumentach
+tożsamości klienta i osoby upoważnionej do działania w jego imieniu oraz sporządzać ich
+kopie) zostały wprost wskazane w wyżej powołanym art. 35 ustawy AML. Z przesłanek
+tych nie wynika obowiązek stosowania środków bezpieczeństwa finansowego wraz z po‐
+zyskiwaniem kopii (skanów) dokumentów tożsamości klienta – jak to ujął Bank w swoich
+wyjaśnieniach – „przy każdej wykonywanej czynności” czy w przypadku „jakiegokolwiek
+kontaktu klienta z Bankiem”. Bank nie przedstawił też analizy, która wykazywałaby ko‐
+nieczność zastosowania środków bezpieczeństwa finansowego wiążącego się z kopiowa‐
+niem dokumentów tożsamości wobec wszystkich klientów lub potencjalnych klientów we
+wszystkich sytuacjach, w jakich miało to miejsce zgodnie z obowiązującymi w okresie od
+1 kwietnia 2019 r. do 23 września 2020 r. procedurami oraz instrukcjami przekazywany‐
+mi wówczas poprzez Intranet. Co więcej, późniejsze odejście przez Bank od praktyki po‐
+zyskiwania kopii (skanów) dokumentów tożsamości klientów w części sytuacji potwier‐
+dza, że takiej konieczności nigdy w tych przypadkach nie było i że wcześniejsze zasady
+działania w tym zakresie były – w ocenie samego nawet Banku – niezgodne z przepisami
+ustawy AML. Konstatacja ta prowadzi z kolei do wniosku o niezgodności działań Banku z
+przepisami o ochronie danych osobowych, jako że Bank w tych przypadkach przetwarzał
+dane osobowe pozyskane poprzez skanowanie dokumentów tożsamości z naruszeniem
+zasad z art. 5 ust. 1 lit. a)-c) oraz art. 6 ust. 1 rozporządzenia 2016/679.
+Badając praktykę Banku w analizowanym okresie, podkreślić również należy, że żądanie
+przedstawiania kopii lub kopiowanie (skanowanie) dokumentów tożsamości przez insty‐
+tucje obowiązane może być tylko jednym ze sposobów identyfikacji klienta oraz weryfi‐
+kacji jego tożsamości. Do tego obarczonym sporym ryzykiem leżącym również po stronie
+osoby, której dane Bank w ten sposób przetwarza, chociażby z uwagi na fakt, że z kopii
+(skanu) takiego dokumentu wynika określony zakres danych, szerszy niż zakres niezbęd‐
+ny dla samej identyfikacji klienta, o której mowa w art. 36 ust. 1 pkt 1 ustawy AML.
+Zgodnie bowiem z tym przepisem (jak już wyżej wskazano) identyfikacja klienta będące‐
+go osobą fizyczną nieprowadzącą działalności gospodarczej polega na ustaleniu: imienia
+i nazwiska, obywatelstwa, numeru Powszechnego Elektronicznego Systemu Ewidencji
+Ludności (PESEL) lub daty urodzenia – w przypadku gdy nie nadano numeru PESEL, oraz
+państwa urodzenia, serii i numeru dokumentu stwierdzającego tożsamość osoby, adresu
+zamieszkania – w przypadku posiadania tej informacji przez instytucję obowiązaną. Tym‐
+czasem np. dowód osobisty zawiera poza ww. danymi, w zależności od jego wzoru, np.:
+wizerunek (zdjęcie), miejsce urodzenia, nazwisko rodowe, imiona rodziców, płeć, podpis,
+datę wydania dokumentu, termin ważności, czy organ wydający. Powyższe uzasadnia
+więc ostrożność w podejmowaniu decyzji o kopiowaniu (skanowaniu) dokumentów tożsa‐
+mości przy okazji stosowania środków bezpieczeństwa finansowego, a także unikanie
+„automatyzmu” oraz wykorzystywania silniejszej pozycji Banku w stosunkach z klienta‐
+mi.
+Biorąc pod uwagę powyższe należy pamiętać także, że kopiowanie, o którym mowa w
+art. 34 ust. 4 ww. ustawy, jest uprawnieniem przysługującym instytucjom obowiązanym i
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 15 z 39
+
+nie można uznać, że na podmiotach tych spoczywa obowiązek kopiowania dokumentów
+tożsamości. Każdorazowa decyzja o przetwarzaniu danych osobowych pozyskiwanych
+poprzez skopiowanie (zeskanowanie) dokumentu tożsamości, czy też żądanie przedsta‐
+wienia jego kopii, powinny być poprzedzone analizą i zweryfikowaniem z uwzględnie‐
+niem także przepisów rozporządzenia 2016/679, czy rzeczywiście taka czynność jest nie‐
+zbędna. W szczególności zastosowania wymagają ww. zasady przetwarzania danych
+osobowych, o których mowa w art. 5 ust. 1 lit. a)-c) tego rozporządzenia. Wewnętrzne
+procedury podmiotów obowiązanych związane ze stosowaniem środków bezpieczeństwa
+finansowego powinny uwzględniać powyższe regulacje.
+Jak wynika z art. 50 ust. 2 ustawy AML, w wewnętrznej procedurze instytucji obowiązanej
+powinny znaleźć się m.in. zasady rozpoznawania i oceny ryzyka prania pieniędzy oraz fi‐
+nansowania terroryzmu związanego z danymi stosunkami gospodarczymi lub transakcją
+okazjonalną, w tym zasady weryfikacji i aktualizacji uprzednio dokonanej oceny ryzyka
+prania pieniędzy oraz finansowania terroryzmu, środki stosowane w celu właściwego za‐
+rządzania rozpoznanym ryzykiem prania pieniędzy lub finansowania terroryzmu związa‐
+nym z danymi stosunkami gospodarczymi lub transakcją okazjonalną, jak również zasa‐
+dy stosowania środków bezpieczeństwa finansowego. Zasady działania instytucji
+obowiązanej w tym zakresie powinny być więc „skodyfikowane”.
+Z materiału dowodowego analizowanego w niniejszym postępowaniu pod kątem zgodno‐
+ści działań Banku z przepisami o ochronie danych osobowych nie wynika, by Bank wyka‐
+zał zasadność stosowanej w analizowanym okresie praktyki polegającej na sporządzaniu
+kopii (skanów) dokumentów tożsamości wszystkich klientów lub potencjalnych klientów
+we wszystkich sytuacjach przewidzianych w obowiązujących w tym okresie procedurach
+oraz instrukcjach przekazywanych poprzez Intranet. Działania Banku nie stanowiły w
+każdym z przewidzianych w tych procedurach i instrukcjach przypadku adekwatnego i
+uzasadnionego w swoim zakresie i intensywności przejawu stosowania środków bezpie‐
+czeństwa finansowego – w części przypadków działania te okazały się być nieadekwatne,
+nadmiarowe lub zwyczajnie zbędne (zwłaszcza jeśli weźmie się pod uwagę wyjaśnienia
+Banku, w których mowa o sporządzaniu skanów dokumentów tożsamości klientów „przy
+każdej wykonywanej czynności” czy w przypadku „jakiegokolwiek kontaktu klienta z Ban‐
+kiem”, co nie wiązało się z wykonaniem obowiązków z art. 35 ustawy AML określającym
+przypadki, w których instytucja obowiązana powinna stosować środki bezpieczeństwa fi‐
+nansowego).
+Jak już wyżej wskazywano, analizując treść właściwych przepisów ustawy AML, należy
+jednak pamiętać, że przedmiotem przeprowadzonego przez Prezesa UODO postępowa‐
+nia administracyjnego o sygn. DKN.5112.6.2020 było ustalenie prawidłowości rozpatry‐
+wanych działań Banku w zakresie przestrzegania przepisów o przetwarzaniu danych oso‐
+bowych. Z uwagi bowiem na obowiązujące przepisy rozporządzenia 2016/679, przy do‐
+borze i stosowaniu środków bezpieczeństwa finansowego powinno się brać każdorazowo
+pod uwagę nie tylko przepisy ustawy AML, lecz również zasady bezwzględnie obowiązu‐
+jące administratora przy przetwarzaniu danych osobowych w sytuacjach, w których do
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 16 z 39
+
+takiego przetwarzania dochodzi. W analizowanej sytuacji Bank, ustalając obowiązujące w
+okresie od 1 kwietnia 2019 r. do 23 września 2020 r. procedury i instrukcje przekazywa‐
+ne przez Intranet w zakresie kopiowania (skanowania) dokumentów tożsamości, nie
+wziął w adekwatnym stopniu pod uwagę wiążących go zasad wynikających z art. 5 ust. 1
+lit. a), b) i c) oraz z art. 6 ust. 1 rozporządzenia 2016/679.
+Analizę przestrzegania przez Bank wskazanych w powyższym punkcie przepisów rozpo‐
+rządzenia 2016/679 należy rozpocząć od oceny zgodności jego działań z art. 6 ust. 1
+tego rozporządzenia. Wcześniejsze wnioski dotyczące praktyki skanowania dokumentów
+tożsamości niewiążącego się w każdym przypadku z realizacją obowiązków określonych
+w przepisach ustawy AML (zob. punkty 47-51), w sposób oczywisty wpływają bowiem na
+ocenę spełnienia przez Bank jego obowiązków wynikających z art. 6 ust. 1
+rozporządzenia 2016/679.
+Jak wskazano już wcześniej, wyliczenie przesłanek dopuszczalności przetwarzania da‐
+nych osobowych, zawarte w art. 6 ust. 1 rozporządzenia 2016/679, jest enumeratywne
+(jest to katalog zamknięty), a każda z nich ma charakter równoprawny, autonomiczny i
+niezależny. Dla legalności procesu przetwarzania danych (każdej czynności stanowiącej
+ich przetwarzanie) niezbędne, a zarazem wystarczające jest zatem spełnienie jednej z
+nich.
+W pierwszej kolejności (aby zachować logiczny ciąg argumentacji zawartej w uzasadnie‐
+niu niniejszej decyzji) należy w powyższym kontekście przeanalizować przesłankę z art.
+6 ust. 1 lit. c) rozporządzenia 2016/679. Przepis ten dopuszcza przetwarzanie danych
+osobowych w sytuacji, gdy przetwarzanie jest niezbędne do wypełnienia obowiązku
+prawnego ciążącego na administratorze. Jak już wyżej wykazano, działanie Banku pole‐
+gające na skanowaniu (kopiowaniu) dokumentów tożsamości wszystkich klientów lub po‐
+tencjalnych klientów we wszystkich sytuacjach wskazanych w obowiązujących w okresie
+od 1 kwietnia 2019 r. do 23 września 2020 r. procedurach oraz instrukcjach przekazywa‐
+nych poprzez Intranet, nie służyło w każdym z przypadków realizacji obowiązków okre‐
+ślonych w ustawie AML. Co za tym idzie: przetwarzanie danych osobowych we
+wszystkich tych „nadmiarowych”, nieznajdujących uzasadnienia w przepisach ustawy
+AML przypadkach, należy uznać za niespełniające przesłanki z art. 6 ust. 1 lit. c) rozpo‐
+rządzenia 2016/679. W tym zakresie nie istniała bowiem po stronie Banku norma kompe‐
+tencyjna uprawniająca go do takich działań – nie sposób więc uznać je za czynności
+przetwarzania realizowane w celu wypełnienia obowiązków prawnych spoczywających
+na Banku (ani za działania niezbędne z punktu widzenia realizacji tych obowiązków).
+Z tego samego powodu „nadmiarowe” skanowanie dokumentów tożsamości nie może
+być ocenione jako legalne na warunkach określonych w art. 6 ust. 1 lit. e) rozporządze‐
+nia 2016/679. Abstrahując od oceny, czy w analizowanym przypadku można uznać, że
+Bank wykonuje zadania w interesie publicznym, należy zaznaczyć, że w obu regulowa‐
+nych tym przepisem przypadkach – tj. zarówno w sytuacji, gdy przetwarzanie danych
+jest niezbędne do wykonania zadania realizowanego w interesie publicznym, jak i gdy
+jest ono niezbędne w ramach sprawowania władzy publicznej powierzonej administrato‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 17 z 39
+
+rowi – zadanie, jak i sprawowanie władzy publicznej muszą zostać sprecyzowane w prze‐
+pisach, o których mowa w art. 6 ust. 3 rozporządzenia 2016/679 (tj. w prawie Unii lub w
+prawie państwa członkowskiego, któremu podlega administrator). Tymczasem w badanej
+sprawie regulacje prawne uzasadniające takie „nadmiarowe” działania nie istniały.
+Dla porządku należy wskazać, że przetwarzanie danych osobowych pozyskiwanych po‐
+przez skanowanie dokumentów tożsamości niewiążące się z realizacją obowiązków okre‐
+ślonych w przepisach ustawy AML nie znajdowało również oparcia w art. 6 ust. 1 lit. d)
+rozporządzenia 2016/679 (niezbędność przetwarzania danych do ochrony żywotnych in‐
+teresów osoby, której dane dotyczą, lub innej osoby fizycznej). Gdyby nawet próbować
+uznać, że czynności Banku służyć miały realizacji żywotnych interesów osób, których
+dane dotyczą, lub innej osoby fizycznej, to w sytuacji braku po stronie Banku przepisów
+kompetencyjnych w zakresie kopiowania (skanowania) dokumentów tożsamości w nad‐
+miarowych przypadkach, oczywistym jest, że przesłanka ta nie mogła być w przedmioto‐
+wej sprawie spełniona. Wedle prezentowanego w literaturze przedmiotu stanowiska, po‐
+jęcie niezbędności przetwarzania danych z punktu widzenia ochrony żywotnych
+interesów podmiotów danych: „(…) należy rozumieć w podobny sposób jak na gruncie
+przepisu art. 6 ust. 1 lit. b. Oznacza ono zatem, że przetwarzanie danych dla ochrony ży‐
+wotnych interesów podmiotu danych lub innej osoby fizycznej musi być, rozsądnie oce‐
+niając, potrzebne (…) musi występować bezpośredni związek pomiędzy ochroną
+żywotnego interesu a potrzebą przetwarzania danych osobowych”[7]. Podkreśla się rów‐
+nież, że: „Aby można było oprzeć przetwarzanie danych na omawianej przesłance, po‐
+winno być niezbędne do ochrony żywotnych interesów osoby, tzn. nieprzetwarzanie da‐
+nych mogłoby prowadzić do zagrożenia lub naruszenia żywotnych interesów tej osoby.
+Rozstrzygnięcie, czy przetwarzanie danych jest niezbędne, powinno być dokonywane in‐
+dywidualnie, w konkretnym przypadku, z uwzględnieniem faktycznych okoliczności
+przetwarzania danych”[8].
+Brak zaistnienia w badanej sprawie pozostałych przesłanek dopuszczalności przetwarza‐
+nia danych nie wymaga szerszego uzasadnienia. Bez wątpienia przetwarzanie danych
+pozyskiwanych poprzez niepowiązane z koniecznością zastosowania środków bezpie‐
+czeństwa finansowego z ustawy AML skanowanie dokumentów tożsamości (od którego w
+wielu przypadkach Bank uzależniał podejmowanie działań na rzecz klienta) nie wiązało
+się z przyjęciem możliwości podejmowania przez podmioty danych indywidualnych decy‐
+zji odnośnie do dopuszczalności takich czynności przetwarzania danych czy ustalania ich
+warunków. Z powodów omówionych już powyżej, omawiane czynności przetwarzania da‐
+nych nie były więc realizowane na warunkach określonych w art. 6 ust. 1 lit. a) (na pod‐
+stawie zgody osób, których dane dotyczą) bądź art. 6 ust. 1 lit. b) rozporządzenia
+2016/679 (jako niezbędne do wykonania umowy, której stroną jest osoba, której dane
+dotyczą, lub do podjęcia działań na żądanie osób, których dane dotyczą, przed
+zawarciem umowy).
+Nieuzasadnione jest również przyjęcie, że przetwarzanie danych osobowych w kwestio‐
+nowanym zakresie znajdowało oparcie w art. 6 ust. 1 lit. f) rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 18 z 39
+
+Zgodnie ze stanowiskiem doktryny, „Przetwarzanie zostanie uznane za zgodne z pra‐
+wem, jeżeli jest ono niezbędne do celów wynikających z prawnie uzasadnionych intere‐
+sów realizowanych przez administratora lub stronę trzecią, z wyjątkiem sytuacji, w któ‐
+rych nadrzędny charakter wobec tych interesów mają interesy lub podstawowe prawa i
+wolności osoby, której dane dotyczą, wymagające ochrony danych osobowych. (…) Pro‐
+ces stosowania prawnie uzasadnionego interesu jest kilkustopniowy i wymaga przepro‐
+wadzenia tzw. testu równowagi. Ważenie interesów administratora oraz praw i wolności
+osób fizycznych wymaga w pierwszej kolejności określenia, czy w danej sytuacji wystę‐
+pują prawnie uzasadnione interesy realizowane przez administratora lub podmiot trzeci.
+Prawnie uzasadnione interesy administratora nie zostały zdefiniowane w RODO. Należy
+jednak przez nie rozumieć takie interesy, które są zgodne z prawem. Oznacza to, że ad‐
+ministrator nie może powołać się na interes, który narusza obowiązujące w Polsce prze‐
+pisy prawa krajowego lub unijnego. (…). Prawnie uzasadniony interes nie musi jednak
+wynikać wprost z przepisu prawa – wystarczające jest, że pozostaje on w zgodności z
+prawem. (…) Drugim krokiem jest zbadanie, czy w analizowanym stanie faktycznym wy‐
+stępują interesy, podstawowe prawa i wolności podmiotu danych, które wymagają
+ochrony danych osobowych. Podstawowych praw i wolności należy poszukiwać w pod‐
+stawowych regulacjach prawnych, między innymi w Konstytucji Rzeczypospolitej Pol‐
+skiej, Karcie praw podstawowych Unii Europejskiej czy europejskiej Konwencji o ochronie
+praw człowieka i podstawowych wolności. Z kolei pojęcie interesów należy rozumieć su‐
+biektywnie i weryfikować ich występowanie w odniesieniu do konkretnej osoby, której
+dane osobowe mają być przetwarzane. Na koniec należy zestawić ze sobą prawnie uza‐
+sadnione interesy administratora oraz interesy, podstawowe prawa i wolności podmiotu
+danych, które wymagają ochrony danych osobowych. (…) Jeżeli w wyniku tej oceny to in‐
+teresy, podstawowe prawa i wolności podmiotu danych okażą się nadrzędne, nie można
+oprzeć przetwarzania na analizowanej tu przesłance”[9]. Biorąc pod uwagę, że w kwe‐
+stionowanym zakresie dochodziło do przetwarzania danych osobowych pozyskiwanych
+poprzez skanowanie dokumentów tożsamości w sytuacjach niewiążących się z realizacją
+obowiązków określonych w ustawie AML, a z drugiej strony to, że ochrona osób fizycz‐
+nych w związku z przetwarzaniem danych osobowych jest jednym z praw podstawowych
+(zdanie pierwsze motywu 1 preambuły rozporządzenia 2016/679), przesłanka z art. 6
+ust. 1 lit. f) rozporządzenia 2016/679 nie mogła znaleźć tu zastosowania.
+Ustalenie, że analizowany proces przetwarzania danych osobowych przez Bank był w
+kwestionowanym zakresie realizowany, pomimo braku podstawy prawnej z art. 6 ust. 1
+rozporządzenia 2016/679, wiąże się ze stwierdzeniem, że naruszył on swoim działaniem
+także art. 5 ust. 1 lit. a) ww. aktu prawnego – łamiąc wyrażoną w nim zasadę zgodności z
+prawem, rzetelności i przejrzystości.
+Należy w tym miejscu wskazać, że zasada zgodności z prawem, sformułowana w art. 5
+ust. 1 lit. a) rozporządzenia 2016/679 (będąca jedną z podstawowych zasad
+przetwarzania danych osobowych ), „(…) określana również mianem legalności przetwa‐
+rzania danych, oznacza wymóg przestrzegania norm ustanowionych w przepisach pra‐
+wa. Zasada zgodności przetwarzania danych z prawem ma szeroki zakres przedmiotowy,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 19 z 39
+
+nie chodzi tu tylko o przepisy komentowanego rozporządzenia, ale także o przepisy za‐
+warte w innych aktach normatywnych. (…) Wśród przepisów dotyczących przetwarzania
+danych szczególną rolę pełnią wymogi odnoszące się do zgodności przetwarzania z pra‐
+wem (określane także, jako tzw. podstawy dopuszczalności przetwarzania danych lub
+przesłanki legalności przetwarzania danych), określone w przepisach art. 6, 9 i 10 ko‐
+mentowanego rozporządzenia. Przepisy te wskazują przypadki, gdy przetwarzanie da‐
+nych jest prawnie dopuszczalne (ujmując to najprościej: kiedy można zgodnie z prawem
+przetwarzać dane osobowe)”[10]. Jak wskazuje się w literaturze, „[p]rzez pryzmat tej za‐
+sady (…) ocenia się dozwolony charakter przetwarzania danych, odpowiednio zwykłych i
+szczególnych kategorii”[11].
+W motywie 40 rozporządzenia 2016/679 wskazano: „Aby przetwarzanie danych było
+zgodne z prawem, powinno się odbywać na podstawie zgody osoby, której dane dotyczą,
+lub na innej uzasadnionej podstawie przewidzianej prawem: albo w niniejszym rozporzą‐
+dzeniu, albo w innym akcie prawnym Unii lub w prawie państwa członkowskiego, o któ‐
+rych mowa w niniejszym rozporządzeniu, w tym musi się ono odbywać z poszanowaniem
+obowiązku prawnego, któremu podlega administrator, lub z poszanowaniem umowy,
+której stroną jest osoba, której dane dotyczą, lub w celu podjęcia działań na żądanie
+osoby, której dane dotyczą, przed zawarciem umowy”. Jak wykazano wyżej, żadna z tych
+okoliczności nie miała miejsca w przypadku „nadmiarowego” przetwarzania danych oso‐
+bowych pozyskiwanych poprzez skanowanie dokumentów tożsamości w analizowanym
+okresie (tj. od 1 kwietnia 2019 r. do 23 września 2020 r.).
+Zasada zgodności z prawem oznacza nie tylko konieczność spełnienia ww. przesłanek le‐
+galności przetwarzania danych określonych w rozporządzeniu 2016/679, ale również ko‐
+nieczność przestrzegania norm ustanowionych w innych przepisach prawa, między
+innymi wdrożenie pozostałych zasad przetwarzania[12].
+Zgodnie z kolejną z wymienionych w art. 5 ust. 1 rozporządzenia 2016/679 zasad (ogra‐
+niczanie celu), dane powinny być zbierane w konkretnych, wyraźnych i prawnie uzasad‐
+nionych celach. Wskazanie celu jest ważnym elementem procesu przetwarzania, który
+ogranicza jego zakres. Należy zatem unikać określania celu zbierania danych zbyt ogól‐
+nikowo. Cel powinien być wyraźny dla wszystkich osób zaangażowanych w proces prze‐
+twarzania danych. Określenie celów powinno nastąpić najpóźniej w momencie zbierania
+danych osobowych. Ponadto cel zbierania danych osobowych powinien być również
+prawnie uzasadniony, a więc zgodny z prawem. Zbieranie danych powinno odbywać się
+na odpowiedniej podstawie prawnej. Za niedopuszczalne należy uznać zbieranie danych
+do celów przyszłych, jeszcze nieoznaczonych lub ukrytych oraz przetwarzanie danych
+osobowych niezgodnie z ustalonymi celami. Administrator co do zasady jest bowiem
+związany ustalonym celem przetwarzania. Przetwarzanie danych w celu innym niż cel, w
+którym zostały one zebrane, wymaga przeprowadzenia przez administratora oceny
+zgodności z celami, w których dane osobowe zostały pierwotnie zebrane i jak wskazano
+w art. 6 ust. 4 rozporządzenia 2016/679 powinno się wziąć pod uwagę między innymi:
+wszelkie związki między celami, w których zebrano dane osobowe, a celami zamierzone‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 20 z 39
+
+go dalszego przetwarzania; kontekst, w którym zebrano dane osobowe, w szczególności
+relację między osobami, których dane dotyczą, a administratorem; charakter danych
+osobowych, w szczególności to, czy przetwarzane są dane wrażliwe; ewentualne konse‐
+kwencje zamierzonego dalszego przetwarzania dla osób, których dane dotyczą; istnienie
+odpowiednich zabezpieczeń, w tym ewentualnie szyfrowania lub pseudonimizacji.
+Zgodnie zaś z wyrażoną w art. 5 ust. 1 lit. c) rozporządzenia 2016/679 zasadą minimali‐
+zacji danych, przetwarzane dane powinny być adekwatne, stosowne oraz ograniczone
+do tego, co niezbędne do celów, w których są przetwarzane. Ocena przestrzegania tej
+zasady „powinna być dokonywana zarówno na etapie projektowania operacji przetwa‐
+rzania, jak i przez cały okres przetwarzania danych osobowych. Zasada ta jest nieroze‐
+rwalnie powiązana z zasadą ograniczenia celu. Cel przetwarzania determinuje niezbędny
+zakres przetwarzanych danych osobowych. Pomiędzy celem przetwarzania a zakresem
+przetwarzanych danych powinien istnieć związek, który administrator powinien móc wy‐
+kazać. Praktyczne zastosowanie analizowanej zasady wiąże się [ze zbieraniem wyłącznie
+danych osobowych] niezbędnych do osiągnięcia celu, usuwaniem danych [osobowych] w
+sytuacji, gdy są one już niepotrzebne do osiągnięcia celu”[13].
+Biorąc pod uwagę powyższe rozważania należy wywnioskować, że przetwarzanie danych
+osobowych pozyskiwanych poprzez kopiowanie (skanowanie) dokumentów tożsamości
+przez Bank musi być poprzedzone analizą celowości, tj. zweryfikowaniem, czy rzeczywi‐
+ście taka czynność jest niezbędna. Bank nie wykazał, że przed wprowadzeniem obowiąz‐
+ku kopiowania (skanowania) dokumentów we wszystkich przypadkach określonych obo‐
+wiązującymi wówczas (tj. w okresie od 1 kwietnia 2019 r. do 23 września 2020 r.) proce‐
+durami oraz instrukcjami przekazywanymi poprzez Intranet, taką analizę przeprowadził.
+Tym bardziej nie wykazywał wykonania takiej analizy dla przypadku przetwarzania da‐
+nych osobowych pozyskiwanych poprzez wykonywanie kopii (skanu) dokumentów
+tożsamości klientów i potencjalnych klientów „przy każdej wykonywanej czynności” czy
+w przypadku „jakiegokolwiek kontaktu klienta z Bankiem” – o której to praktyce mowa
+jest w wyjaśnieniach Banku złożonych już po zakończeniu kontroli organu nadzorczego
+(zob. pkt 46 uzasadnienia niniejszej decyzji). Dopiero po przeprowadzeniu kontroli przez
+Prezesa UODO Bank podjął działania zmieniające jego praktykę.
+W przypadku, gdy dochodzi do nieuprawnionego przetwarzania przez Bank szczególnie
+obszernego zestawu danych osobowych utrwalonych na dokumentach tożsamości (a w
+niektórych przypadkach również uzależnienia od ich zeskanowania podejmowania dzia‐
+łań przez Bank na rzecz osób tymi dokumentami się posługujących), waga i znaczenie
+reguł jakości danych oraz konieczność jej respektowania wydają się szczególnie
+doniosłe. Jak wskazuje się w literaturze przedmiotu cyt.: „Obowiązek rzetelności prze‐
+twarzania danych oznacza, że administrator nie powinien (…) wykorzystywać jego [pod‐
+miotu danych] trudnej sytuacji, ograniczeń bądź przymusowego położenia, wykorzysty‐
+wać swojej silniejszej pozycji, narzucając uciążliwe warunki przetwarzania danych, a po‐
+winien szanować wolę i respektować interesy oraz słuszne oczekiwania osoby, której
+dane dotyczą”[14].
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 21 z 39
+
+Podsumowując, należy skonstatować, że sporządzanie kopii (skanów) dowodów tożsamo‐
+ści przez instytucje obowiązane jest legalne w kontekście ustawy AML jedynie wtedy,
+gdy wiąże się z koniecznym z punktu widzenia tej ustawy zastosowaniem środków bez‐
+pieczeństwa finansowego mających na celu przeciwdziałanie praniu pieniędzy i finanso‐
+waniu terroryzmu. Zadaniem Banku jest przeprowadzenie indywidualnej oceny ryzyka
+prania pieniędzy i finansowania terroryzmu i zaprojektowanie środków bezpieczeństwa
+odpowiednich do jej wyniku (podejście oparte na ryzyku). Jeśli instytucja obowiązana wy‐
+każe, że w celu przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu konieczne
+jest stosowanie środków bezpieczeństwa finansowego wiążące się z przetwarzaniem in‐
+formacji zawartych w dokumentach tożsamości oraz sporządzaniem ich kopii (skanów),
+wtedy ma prawo żądać ich wykonania.
+Zatem przed zastosowaniem środków bezpieczeństwa finansowego należy dokonać oce‐
+ny, czy przetwarzanie na te potrzeby informacji zawartych w dokumentach tożsamości
+wraz ze sporządzeniem ich kopii (skanów) jest niezbędne. W związku z powyższym
+uznać należy, że Bank w okresie od 1 kwietnia 2019 r. do 23 września 2020 r. (tj. przez
+okres niemal 18 miesięcy), przetwarzając dane osobowe pozyskiwane poprzez dokony‐
+wanie kopii (skanów) dokumentów tożsamości we wszystkich sytuacjach przewidzianych
+obowiązującymi wówczas procedurami oraz instrukcjami przekazanymi poprzez Intranet,
+naruszył art. 5 ust. 1 lit. a), b) i c) oraz art. 6 ust. 1 rozporządzenia 2016/679. Zgodnie
+bowiem z określonymi w nich zasadami legalności, ograniczenia celu i minimalizacji da‐
+nych, dane osobowe muszą być zbierane zgodnie z prawem (administrator powinien za‐
+tem dysponować przesłanką do ich przetwarzania stosownie do art. 6 ust. 1 rozporzą‐
+dzenia 2016/679), w konkretnych, wyraźnych i prawnie uzasadnionych celach, a także
+adekwatnie, stosownie i w sposób ograniczony do tego, co niezbędne do celów, w
+których dane są przetwarzane.
+Na koniec tej części uzasadnienia należy jeszcze raz zwrócić uwagę na zakres niniejsze‐
+go postępowania – m.in. celem wskazania powodów jego zakończenia zastosowaniem
+administracyjnej kary pieniężnej bez dodatkowych nakazów oraz wyjaśnienia przyjętej
+przez organ nadzorczy oceny wniosków dowodowych, o których mowa w pkt 26 powyżej.
+Jak już wcześniej wzmiankowano, w niniejszym postępowaniu administracyjnym Prezes
+UODO skupił się na ocenie prawidłowości stosowania przez Bank przepisów o ochronie
+danych osobowych w okresie od 1 kwietnia 2019 r. do 23 września 2020 r., kiedy to
+(zgodnie ze swoimi wyjaśnieniami) zmienił on swoje procedury w taki sposób, aby za‐
+pewnić, że kopiowanie (skanowanie) dokumentów tożsamości będzie dokonywane w celu
+wykonywania i dokumentowania wykonywania obowiązków przewidzianych ustawą AML.
+Z tych względów Prezes UODO w swojej decyzji nie skorzystał ze swego uprawnienia wy‐
+nikającego z art. 58 ust. 2 lit. d) rozporządzenia 2016/679 i nie nakazał Bankowi dostoso‐
+wania operacji przetwarzania danych do przepisów tego rozporządzenia. Ponadto, z uwa‐
+gi na fakt, że przepisy ustawy AML przewidują sytuacje, w których Bank uprawniony jest
+do wykonywania kopii dokumentów tożsamości (art. 34 ust. 4 ustawy AML) oraz
+uwzględniając termin przechowywania kopii ustalony w art. 49 ustawy AML, nakaz
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 22 z 39
+
+usunięcia skanów wykonanych „nadmiarowo” w związku z czynnościami wskazanymi w
+obowiązujących w analizowanym okresie procedurach i instrukcjach przekazywanych
+poprzez Intranet, należy ocenić na tym etapie za zbędny.
+Ustosunkowując się do złożonych przez Bank wniosków dowodowych (opisanych w pkt
+26 powyżej), należy wskazać, że zgodnie z art. 78 § 1 kpa, żądanie strony dotyczące
+przeprowadzenia dowodu należy uwzględnić, jeżeli przedmiotem dowodu jest okolicz‐
+ność mająca znaczenie dla sprawy. W literaturze przedmiotu wskazuje się, że: „Do uzna‐
+nia tego, że dana okoliczność ma znaczenie dla sprawy decydujące jest stwierdzenie, że
+okoliczność ta jest niezbędna do ustalenia zgodnego z prawdą obiektywną stanu faktycz‐
+nego sprawy, na podstawie którego organ prowadzący postępowanie podejmuje roz‐
+strzygnięcie. Innymi słowy, okoliczność musi dotyczyć przedmiotu sprawy i mieć znacze‐
+nie prawne dla rozstrzygnięcia sprawy. Ocena tego, czy przedmiotem dowodu jest oko‐
+liczność mająca znaczenie dla sprawy, czy nie, należy do organu, a nie do strony. Ozna‐
+cza to, że organ nie jest związany żądaniami dowodowymi strony i wyłącznie od niego
+zależy rozstrzygnięcie, czy dopuścić dany dowód, czy nie”[15]. Także w orzeczeniach są‐
+dów powtarzana jest teza, że: „Uprawnienie strony do zgłoszenia żądania przeprowadze‐
+nia dowodu podlega ograniczeniom, a organ powinien każdorazowo rozważyć żądanie
+przeprowadzenia dowodu z uwagi na celowość i konieczność zapewnienia szybkości po‐
+stępowania, zwłaszcza w sytuacji, gdy nie ma dostatecznych argumentów przemawiają‐
+cych za zakwestionowaniem dotychczasowych ustaleń”.[16]
+Odnosząc się do złożonego pismem z 21 października 2024 r. (data wpływu) wniosku o
+dopuszczenie w trybie art. 75 § 1 kpa dowodu z załączonego wyciągu (…), należy zazna‐
+czyć, że – jak już kilkukrotnie wspomniano we wcześniejszych punktach uzasadnienia ni‐
+niejszej decyzji – Prezes UODO w ramach postępowania administracyjnego o sygn. DKN.
+5112.6.2020 dokonał przede wszystkim analizy zgodności z przepisami o ochronie da‐
+nych osobowych działań Banku w okresie od 1 kwietnia 2019 r. do 23 września 2020 r.
+(badanych w postępowaniu kontrolnym oraz w przeprowadzonym następnie postępowa‐
+niu administracyjnym). Niemniej, wyciąg ten został włączony do materiału dowodowego
+i przeanalizowany, podobnie jak pozostałe znajdujące się w aktach sprawy dokumenty.
+Ustosunkowując się do złożonego ww. pismem (oraz powtórzonego w piśmie, które wpły‐
+nęło do organu nadzorczego 21 lipca 2025 r.) wniosku o dopuszczenie w trybie art. 75 §
+1 kpa dowodu z przesłuchania świadka – (…) I. C., (…) na stanowisku (…), na okoliczność
+skanowania dowodów tożsamości wyłącznie w celu wykonywania przez Bank środka bez‐
+pieczeństwa finansowego przewidzianego w art. 34 ust. 1 pkt 1 ustawy AML, tj. identyfi‐
+kacji i weryfikacji tożsamości, należy zaznaczyć, że okoliczności te (w zakresie, w jakim
+miały miejsce w okresie od 1 kwietnia 2019 r. do 23 września 2020 r.) zostały już w spo‐
+sób pełny i wyczerpujący ustalone na podstawie pozostałego materiału dowodowego
+znajdującego się w aktach sprawy. Fakt, że praktyka Banku została zmieniona w stosun‐
+ku do tej ustalonej w trakcie postępowania kontrolnego, został w sposób oczywisty wzię‐
+ty pod uwagę przez Prezesa UODO, lecz dokonywanie dokładniejszych ustaleń co do póź‐
+niejszej, czy nawet aktualnej, praktyki skanowania dokumentów tożsamości nie jest
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 23 z 39
+
+istotne dla przedmiotu postępowania administracyjnego o sygn. DKN.5112.6.2020. Z
+tych samych powodów Prezes UODO uznał za niezasadne przeprowadzanie konsultacji –
+w trybie art. 7b kpa – z GIIF dotyczących stanowiska co do skanowania dokumentów toż‐
+samości w zakresie, jaki obecnie ma miejsce w Banku, czyli po dokonaniu modyfikacji w
+tym obszarze od czasu przeprowadzenia kontroli w Banku. Na marginesie, odnosząc się
+do treści pisma, które wpłynęło do Prezesa UODO 21 lipca 2025 r., należy wskazać, że
+Bank powołał się w nim również na komunikat Prezesa UODO z 16 sierpnia 2022 r.
+(https://uodo.gov.pl/pl/138/2476) wskazując na to, że Bank przetwarza dane osobowe ze
+skanowanych dokumentów tożsamości „jedynie wtedy, kiedy konieczne jest zastosowa‐
+nie środków bezpieczeństwa mających na celu przeciwdziałanie praniu pieniędzy i
+finansowaniu terroryzmu”. Powołanie się przez Bank na treść tego komunikatu, wydane‐
+go po wprowadzeniu przez Bank zmian w praktyce przetwarzania danych osobowych
+analizowanej w ramach niniejszego postępowania, ma jednak znaczenie drugorzędne
+(zob. pkt 23 uzasadnienia niniejszej decyzji).
+Ustosunkowując się do ostatniego ze złożonych przez Bank w piśmie z 21 października
+2024 r. (data wpływu) wniosku – tj. o dopuszczenie w trybie art. 96a (i następnych) kpa
+mediacji, należy wskazać, że zgodnie z tym przepisem celem mediacji jest wyjaśnienie i
+rozważenie okoliczności faktycznych i prawnych sprawy oraz dokonanie ustaleń dotyczą‐
+cych jej załatwienia w granicach obowiązującego prawa, w tym przez wydanie decyzji
+lub zawarcie ugody. Prezes UODO rozważył ten wniosek, a następnie uznał, że w przed‐
+miotowej sprawie wszystkie okoliczności faktyczne i prawne zostały już wyczerpująco
+wyjaśnione i rozważone, a ponadto, że na podstawie zgromadzonego w sprawie materia‐
+łu dowodowego dokonano wyczerpujących ustaleń niezbędnych do wydania niniejszej
+decyzji – zatem cele ewentualnej mediacji zostały zrealizowane w toku przeprowadzone‐
+go postępowania. Prezes UODO poddał też pod rozwagę przeprowadzenie rozprawy, ale
+jej cele również zostały zrealizowane w toku postępowania, stąd uznał ją za zbędną.
+
+D. Administracyjna kara pieniężna.
+Postępowanie administracyjne prowadzone przez Prezesa UODO służy kontroli zgodności
+przetwarzania danych z przepisami o ochronie danych osobowych i jest ukierunkowane
+na wydanie decyzji administracyjnej w celu zastosowania uprawnień naprawczych
+określonych w art. 58 ust. 2 rozporządzenia 2016/679.
+Na podstawie art. 58 ust. 2 lit. i) rozporządzenia 2016/679, każdemu organowi nadzor‐
+czemu przysługuje uprawnienie do zastosowania, oprócz lub zamiast innych środków na‐
+prawczych przewidzianych w art. 58 ust. 2 tego rozporządzenia, administracyjnej kary
+pieniężnej na mocy art. 83 rozporządzenia 2016/679, zależnie od okoliczności konkretnej
+sprawy. Mając na uwadze ustalenia stanu faktycznego, Prezes UODO, korzystając z przy‐
+sługującego mu uprawnienia określonego w ww. przepisie, stwierdził, że w rozpatrywanej
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 24 z 39
+
+sprawie zaistniały przesłanki uzasadniające nałożenie na Bank administracyjnej kary pie‐
+niężnej.
+Stosownie do art. 83 ust. 5 lit. a) rozporządzenia 2016/679 naruszenia przepisów doty‐
+czących podstawowych zasad przetwarzania, w tym warunków zgody, o których to zasa‐
+dach i warunkach mowa w art. 5, 6, 7 oraz 9, podlegają zgodnie z ust. 2 administracyjnej
+karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w
+wysokości do 4% jego całkowitego rocznego światowego obrotu z poprzedniego roku
+obrotowego, przy czym zastosowanie ma kwota wyższa.
+Stosownie do treści art. 83 ust. 2 rozporządzenia 2016/679, administracyjne kary pie‐
+niężne nakłada się, zależnie od okoliczności każdego indywidualnego przypadku, oprócz
+lub zamiast środków, o których mowa w art. 58 ust. 2 lit. a)-h) oraz lit. j) rozporządzenia
+2016/679. Motyw 148 rozporządzenia 2016/679 stanowi, że aby egzekwowanie przepi‐
+sów rozporządzenia było skuteczniejsze, należy za jego naruszenie nakładać sankcje, w
+tym administracyjne kary pieniężne – oprócz lub zamiast odpowiednich środków nakła‐
+danych na mocy niniejszego rozporządzenia przez organ nadzorczy. Jeżeli naruszenie
+jest niewielkie, karę pieniężną można zastąpić upomnieniem. Powinno się jednak zwrócić
+należytą uwagę na charakter, wagę oraz czas trwania naruszenia, na to, czy naruszenie
+nie było umyślne, na działania podjęte dla zminimalizowania szkody, na stopień odpo‐
+wiedzialności lub wszelkie mające znaczenie wcześniejsze naruszenia, na sposób, w jaki
+organ nadzorczy dowiedział się o naruszeniu, na przestrzeganie środków nałożonych na
+administratora lub podmiot przetwarzający, na stosowanie kodeksów postępowania oraz
+wszelkie inne czynniki obciążające lub łagodzące.
+
+I. Zachowania podlegające administracyjnej karze pie‐
+niężnej i zastosowanie art. 83 ust. 3 rozporządzenia
+2016/679.
+Stosownie do brzmienia art. 83 ust. 3 rozporządzenia 2016/679, jeżeli administrator lub
+podmiot przetwarzający narusza umyślnie lub nieumyślnie w ramach tych samych lub
+powiązanych operacji przetwarzania kilka przepisów niniejszego rozporządzenia, całko‐
+wita wysokość administracyjnej kary pieniężnej nie przekracza wysokości kary za
+najpoważniejsze naruszenie.
+Wskazany w art. 83 ust. 3 rozporządzenia 2016/679 termin „operacje przetwarzania” zo‐
+stał wyjaśniony przy tym w art. 4 pkt 2 rozporządzenia 2016/679, w którym „przetwarza‐
+nie” zdefiniowano jako „operację lub zestaw operacji wykonywanych na danych osobo‐
+wych lub zestawach danych osobowych w sposób zautomatyzowany lub niezautomaty‐
+zowany, taką jak zbieranie, utrwalanie, organizowanie, porządkowanie, przechowywanie,
+adaptowanie lub modyfikowanie, pobieranie, przeglądanie, wykorzystywanie, ujawnianie
+poprzez przesłanie, rozpowszechnianie lub innego rodzaju udostępnianie, dopasowywa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 25 z 39
+
+nie lub łączenie, ograniczanie, usuwanie lub niszczenie”. Wobec powyższego operację
+przetwarzania stanowić będzie każde działanie, któremu poddawane są dane aż do
+momentu ich usunięcia, utraty lub zniszczenia.
+Wskazówki dotyczące identyfikacji „najpoważniejszego naruszenia” zostały natomiast
+zawarte w Wytycznych Europejskiej Rady Ochrony Danych (dalej: EROD) 04/2022 doty‐
+czących obliczania administracyjnych kar pieniężnych na podstawie RODO (wersja 2.1)
+przyjętych 24 maja 2023 r., zwanych dalej „Wytycznymi 04/2022”. Zgodnie ze stanowi‐
+skiem tam wyrażonym „sformułowanie »wysokość kary za najpoważniejsze naruszenie«
+odnosi się do ustawowych maksymalnych kwot kar pieniężnych” określonych w art. 83
+ust. 4-6 rozporządzenia 2016/679 (zob. pkt 43 Wytycznych 04/2022). Tym samym najpo‐
+ważniejszym naruszeniem w indywidualnej sprawie będzie to, dla którego prawodawca
+unijny przewidział wyższy próg maksymalnego zagrożenia administracyjną karą pienięż‐
+ną.
+Wobec stwierdzenia, że Bank dopuścił się w analizowanym stanie faktycznym naruszenia
+art. 6 ust. 1 rozporządzenia 2016/679 z równoczesnym naruszeniem art. 5 ust. 1 lit. a),
+lit. b) i lit. c) rozporządzenia 2016/679, Prezes UODO zobowiązany był uwzględnić przyto‐
+czoną w poprzedzającym akapicie regulację celem rozważenia, czy okoliczności niniej‐
+szej sprawy determinują skorzystanie przez organ nadzorczy z wyłącznie jednego, czy
+też z kilku środków naprawczych przewidzianych w art. 58 ust. 2 rozporządzenia
+2016/679 – a precyzyjniej, czy organ powinien nałożyć na Bank wyłącznie jedną admini‐
+stracyjną karę pieniężną, stanowiącą odpowiedź na wszystkie naruszenia poszczegól‐
+nych przepisów rozporządzenia 2016/679, czy też odrębne i samoistne kary dla każdego
+z tych naruszeń rozpatrywanych osobno.
+Ustalając konkretną sankcję za stwierdzone w niniejszej sprawie naruszenia Prezes
+UODO skorzystał ze wskazówek zawartych w Wytycznych 04/2022. Pierwszym krokiem
+przyjętej tam metodyki obliczania administracyjnych kar pieniężnych jest „określenie
+operacji przetwarzania w danej sprawie i ocena zastosowania art. 83 ust. 3 RODO” (zob.
+ust. 17 Wytycznych 04/2022). Rozwijając tę wskazówkę w ust. 24 tych Wytycznych,
+EROD zaleca w pierwszej kolejności ustalić:
+a) czy okoliczności wskazują na jedno zachowanie, czy też na wiele zachowań
+podlegających karze;
+b) w przypadku jednego zachowania, czy zachowanie to stanowi jedno naruszenie czy
+większą liczbę naruszeń;
+c) w przypadku jednego zachowania, które stanowi wiele naruszeń, czy przypisanie
+jednego naruszenia wyklucza przypisanie innego naruszenia, czy też należy je
+przypisać równolegle.
+Wykładnię pojęcia „jedno zachowanie” zawiera natomiast – w nawiązaniu do art. 83 ust.
+3 rozporządzenia 2016/679, w którym mowa jest o „tych samych lub powiązanych ope‐
+racjach przetwarzania” – ust. 28 Wytycznych 4/2022. Zgodnie z nim „[t]ermin
+»powiązane« odnosi się do zasady, zgodnie z którą jedno zachowanie może składać się z
+kilku części, które są realizowane na skutek jednego aktu woli i są kontekstowo (w szcze‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 26 z 39
+
+gólności jeśli chodzi o tożsamość osoby, której dane dotyczą, cel i charakter przetwarza‐
+nia), przestrzennie i czasowo tak blisko powiązane, że z obiektywnego punktu widzenia
+można uznać je za jedno spójne zachowanie”.
+Odnosząc przedstawione wyżej przepisy rozporządzenia 2016/679 oraz wskazówki
+zawarte w Wytycznych 04/2022 do okoliczności niniejszej sprawy, Prezes UODO stwier‐
+dził, że rozpatrywane w niniejszej sprawie działania Banku dotyczące przetwarzania
+danych osobowych jego aktualnych i potencjalnych klientów stanowią „jedno spójne za‐
+chowanie” w rozumieniu przedstawionym przez EROD. Ww. zachowanie polega na prze‐
+twarzaniu bez podstawy prawnej danych osobowych pozyskiwanych w ramach takich sa‐
+mych działań podejmowanych w oparciu o przewidujące takie rozwiązania wewnętrzne
+regulacje tj. poprzez skanowanie dokumentów tożsamości (art. 6 ust. 1 rozporządzenia
+2016/679) – z jednoczesnym naruszeniem zasad przetwarzania danych osobowych okre‐
+ślonych w art. 5 ust. 1 lit. a), lit. b) i lit. c) rozporządzenia 2016/679. Naruszenia wszyst‐
+kich tych przepisów rozporządzenia 2016/679 są, w ocenie Prezesa UODO, efektem jed‐
+nego aktu woli Banku. Przyjął on – w ramach podjętej w tym zakresie decyzji – regulacje
+(procedury oraz instrukcje przekazywane przez Intranet), które w okresie od 1 kwietnia
+2019 r. do 23 września 2020 r. wprowadzały opisany we wcześniejszej części
+uzasadnienia niniejszej decyzji „system” pozyskiwania i przetwarzania danych w
+analizowanym zakresie.
+Na to, że ww. działania stanowiące przedmiot rozpatrywanych naruszeń przepisów roz‐
+porządzenia 2016/679 (art. 5 ust. 1 lit. a), lit. b) i lit. c) oraz art. 6 ust. 1), są tymi
+samymi operacjami w rozumieniu art. 83 ust. 3 rozporządzenia 2016/679, wskazuje –
+poza objęciem ich jednym aktem woli Banku – również kontekst, w którym są
+dokonywane. Łączy je w ocenie Prezesa UODO:
+a) cel przetwarzania – działania te miały – zgodnie z deklaracjami Banku – wiązać się z
+realizacją obowiązków Banku nakładanych na niego przepisami ustawy AML;
+b) charakter przetwarzania – pozyskiwanie danych osobowych od osoby, której dane
+dotyczą (lub innych osób działających w ich imieniu) następowało na podstawie
+wprowadzonych decyzją Banku regulacji wewnętrznych;
+c) tożsamość osób, których dane są przetwarzane – przetwarzanie danych osobowych
+pozyskiwanych poprzez skanowanie dokumentów tożsamości dotyczyło aktualnych
+klientów korzystających z (…) Banku, a także osób będących potencjalnymi jego
+klientami.
+Zważywszy więc, że: po pierwsze działania Banku związane z przetwarzaniem danych
+osobowych stanowią jedno spójne zachowanie (co wynika z objęcia ich jednym aktem
+woli oraz kontekstu przetwarzania objętego tym aktem woli), po drugie zaś, zachowanie
+to narusza kilka przepisów rozporządzenia 2016/679 (art. 5 ust. 1 lit. a), lit. b) i lit. c)
+oraz art. 6 ust. 1), stwierdzić należy, że żadne z tych stwierdzonych naruszeń nie wyklu‐
+cza przypisania Bankowi naruszeń innych przepisów rozporządzenia 2016/679. W
+szczególności żadne z nich nie stanowi „typu kwalifikowanego” drugiego z tych naru‐
+szeń, nie jest „podrzędne” wobec drugiego i nie stanowi formy stadialnej drugiego naru‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 27 z 39
+
+szenia (przygotowania, usiłowania popełnienia) – zob. Podrozdział 3.1.1 Wytycznych
+04/2022.
+W tej sytuacji, znajdzie zastosowanie w stosunku do wszystkich tych naruszeń przepis
+art. 83 ust. 3 rozporządzenia 2016/679.
+Podsumowując powyższe, Prezes UODO stwierdził w niniejszej sprawie kilka dokonanych
+przez Bank – jednym zachowaniem – naruszeń przepisów rozporządzenia 2016/679 (art.
+5 ust. 1 lit. a), lit. b) i lit. c) oraz art. 6 ust. 1). W stosunku do wszystkich tych naruszeń
+zastosowany został przepis art. 83 ust. 3 rozporządzenia 2016/679, przy czym – w związ‐
+ku z tym, że wszystkie te naruszenia zagrożone są (in abstracto) taką samą karą wynika‐
+jącą z art. 83 ust. 5 rozporządzenia 2016/679 (do 20 000 000 EUR lub do 4% rocznego
+obrotu) – wszystkim tym naruszeniom należy przypisać taką samą powagę. Konsekwen‐
+cją tego jest zaś niemożność orzeczenia – za wszystkie te naruszenia – kary o wysokości
+wyższej niż maksymalna wysokość kary za jedno z nich, tj. przekraczającej kwotę (…) zł
+(równowartość (…) EUR) – ze względu na konieczność przyjęcia w odniesieniu do Banku
+tzw. „dynamicznego maksimum kary” (zob. pkt 110 poniżej).
+
+II. Uzasadnienie nałożenia i ustalenia wysokości admini‐
+stracyjnej kary pieniężnej nałożonej na Bank.
+Decydując o nałożeniu administracyjnej kary pieniężnej Prezes UODO – stosownie do tre‐
+ści art. 83 ust. 2 lit. a)-k) rozporządzenia 2016/679 – wziął pod uwagę następujące oko‐
+liczności sprawy, stanowiące o konieczności zastosowania w niniejszej sprawie tego ro‐
+dzaju sankcji oraz wpływające obciążająco na wymiar nałożonej administracyjnej kary
+pieniężnej:
+Charakter, waga i czas trwania naruszenia przy uwzględnieniu charakteru, zakresu lub
+celu danego przetwarzania, liczby poszkodowanych osób, których dane dotyczą, oraz
+rozmiaru poniesionej przez nie szkody [art. 83 ust. 2 lit. a) rozporządzenia 2016/679].
+Stwierdzone w niniejszej sprawie naruszenie podstawowych zasad przetwarzania za‐
+wartych w art. 5 ust. 1 lit. a), lit. b) i lit. c) oraz art. 6 ust. 1 rozporządzenia
+2016/679, polega na przetwarzaniu danych osobowych pozyskiwanych poprzez ko‐
+piowanie (skanowanie) od 1 kwietnia 2019 r. do 23 września 2020 r. dokumentów
+tożsamości klientów (również tych potencjalnych) Banku w sytuacjach, w których
+nie istniały podstawy do takich działań. Naruszenie podstawowych zasad zawartych
+w rozporządzeniu 2016/679 może pociągnąć za sobą odpowiedzialność w postaci
+nałożenia na administratora przez organ nadzorczy administracyjnej kary pienięż‐
+nej, o której mowa w art. 83 ust. 5 rozporządzenia 2016/679, w wysokości do 20 mln
+euro, a w przypadku przedsiębiorstwa – w wysokości do 4% jego całkowitego rocz‐
+nego światowego obrotu z poprzedniego roku obrotowego, przy czym zastosowanie
+ma kwota wyższa. Są to zatem naruszenia, którym prawodawca unijny przypisał in
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 28 z 39
+
+abstracto wyższą wagę i poważniejszy charakter niż naruszeniom innych przepisów
+rozporządzenia 2016/679 (zagrożonym karą do 10 mln lub 2 % obrotu).
+Ponadto, „Zasady ogólne przetwarzania danych odgrywają szczególną rolę wśród
+norm prawnych dotyczących ochrony danych. Zasady te »nie są jedynie ideami,
+wartościami czy postulatami odczytywanymi z całokształtu przepisów o ochronie da‐
+nych osobowych, a mają charakter normatywny – są wiążącymi normami prawa,
+wyznaczającymi określony sposób postępowania« (…)”[17].
+Znaczący wpływ na wagę i charakter naruszenia ma okoliczność, że Bank, przetwa‐
+rza dane na skalę masową. Jak wynika z raportów Banku, np. w 2020 r. liczba klien‐
+tów wynosiła (…), w tym (…) klientów indywidualnych oraz (…) klientów korporacyj‐
+nych[18]. Masowe przetwarzanie musi się wiązać z wyższym poziomem odpowie‐
+dzialności administratora i z wyższym poziomem należytej staranności wymaganej
+od niego, gdyż może skutkować negatywnymi konsekwencjami dla wielu osób. Nale‐
+żytą staranność należy oceniać przy uwzględnieniu przedmiotu i charakteru prowa‐
+dzonej działalności (zob.: wyrok SN z 25 września 2002 r., sygn. akt I CKN 971/00,
+„należyta staranność dłużnika w zakresie prowadzonej przez niego działalności go‐
+spodarczej, którą określa się przy uwzględnieniu zawodowego charakteru tej działal‐
+ności, nie oznacza staranności wyjątkowej, lecz dostosowanej do działającej osoby,
+przedmiotu, jakiego działanie dotyczy, oraz okoliczności, w jakich działanie to nastę‐
+puje”).
+Należy także podnieść, że od Banku należy oczekiwać profesjonalnego podejścia do
+kwestii podstaw prawnych przetwarzania danych.
+Z wyjaśnień Banku wynika, że praktyka kopiowania (skanowania) dokumentów toż‐
+samości dotyczyła potencjalnie dużej grupy klientów Banku w stosunkowo długim
+czasie (tj. przez okres ok. 18 miesięcy: od 1 kwietnia 2019 r. do 23 września 2020
+r.), co wskazuje na dużą skalę tego przetwarzania, natomiast nie stwierdzono, aby
+klienci ponieśli z tego tytułu szkodę.
+Umyślny lub nieumyślny charakter naruszenia [art. 83 ust. 2 lit. b) rozporządzenia
+2016/679].
+Działania Banku wskazują na umyślny charakter naruszenia przepisów
+rozporządzenia 2016/679, bowiem jak wskazuje EROD w Wytycznych 04/2022:
+„Okolicznościami wskazującymi na umyślne naruszenia mogą być niezgodne z pra‐
+wem przetwarzanie wyraźnie zatwierdzone przez ścisłe kierownictwo administrato‐
+ra”. W niniejszej sprawie ustalono, że skanowanie dokumentów tożsamości znacznej
+części klientów Banku odbywało się na podstawie wprowadzonych w Banku
+procedur (np. „(…)”, „(…)” oraz pozostałych omówionych w części A.I. uzasadnienia
+niniejszej decyzji), a także w oparciu o instrukcje przekazywane pracownikom Banku
+poprzez Intranet, a zatem z pełną świadomością przyjętych w tym zakresie rozwią‐
+zań.
+Wszelkie stosowne wcześniejsze naruszenia ze strony administratora lub podmiotu prze‐
+twarzającego [art. 83 ust. 2 lit. e) rozporządzenia 2016/679].
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 29 z 39
+
+Przy podejmowaniu decyzji o nałożeniu i wysokości administracyjnej kary pieniężnej,
+organ nadzorczy zobowiązany jest do zwrócenia uwagi na wszelkie wcześniejsze
+naruszenia rozporządzenia 2016/679. Wytyczne 04/2022 wskazują: „Wystąpienie
+wcześniejszych naruszeń może być uznane za okoliczność obciążającą przy oblicza‐
+niu wysokości kary pieniężnej. Waga przypisywana temu czynnikowi powinna być
+ustalana z uwzględnieniem charakteru i częstotliwości wcześniejszych naruszeń.
+Brak wcześniejszych naruszeń nie może jednak zostać uznany za okoliczność
+łagodzącą, ponieważ przestrzeganie przepisów RODO stanowi normę”.
+Organ nadzorczy, stwierdzając w innych wydawanych decyzjach administracyjnych
+naruszenie przez Bank przepisów o ochronie danych osobowych, korzystał już
+względem niego z uprawnień naprawczych. Prezes UODO wydał następujące decy‐
+zje:
+–
+decyzja z (…), nakaz usunięcia danych osobowych przetwarzanych w związku z
+zapytaniami kredytowymi;
+–
+decyzja z (…), nakaz usunięcia danych we wskazanym w decyzji zakresie;
+–
+decyzja z (…), nakaz usunięcia danych osobowych w zakresie zapytania kredy‐
+towego;
+–
+decyzja z (…), nakaz usunięcia danych w zakresie zapytania kredytowego
+niezakończonego udzieleniem kredytu;
+–
+decyzja z (…), nakaz usunięcia danych we wskazanym zakresie;
+–
+decyzja z (…), nakaz usunięcia danych osobowych;
+–
+decyzja z (…), nakaz zaprzestania przetwarzania danych osobowych dotyczą‐
+cych umowy o pożyczkę w celu oceny zdolności kredytowej i analizy ryzyka kre‐
+dytowego w systemie Biura Informacji Kredytowej S.A. oraz w systemie
+Bankowy Rejestr prowadzonym przez Związek Banków Polskich;
+–
+decyzja z (…), upomnienie za przetwarzanie danych osobowych w zakresie wy‐
+nikającym z zapytania kredytowego niezakończonego udzieleniem kredytu, bez
+podstawy prawnej;
+–
+decyzja z (…), nakaz zaprzestania przetwarzania danych osobowych, dotyczą‐
+cych wskazanej umowy w bazie Biura Informacji Kredytowej S.A., przetwarza‐
+nych na podstawie art. 105a ust. 3 ustawy Prawo bankowe w celu oceny
+zdolności kredytowej i analizy ryzyka kredytowego;
+–
+decyzja z (…), nakaz spełnienia żądania strony w zakresie przeniesienia danych;
+–
+decyzja z (…), upomnienie za naruszenie art. 6 ust. 1 rozporządzenia 2016/679,
+polegające na przetwarzaniu danych osobowych w systemie Biura Informacji
+Kredytowej S.A., w celu oceny zdolności kredytowej i analizy ryzyka, pomimo
+braku spełnienia przesłanek z art. 105a ust. 3 ustawy Prawo bankowe;
+–
+decyzja z (…), upomnienie za naruszenie art. 9 ust. 2 oraz art. 7 ust. 4 rozporzą‐
+dzenia 2016/679, polegające na pobraniu bez zgody danych osobowych zawar‐
+tych na zaświadczeniu o zwolnieniu z obowiązku zasłaniania ust i nosa;
+–
+decyzja z (…) – nakaz w związku z naruszeniem art. 6 ust. 1 rozporządzenia
+2016/679;
+–
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 30 z 39
+
+decyzja z (…) – nakaz w związku z naruszeniem art. 6 ust. 1 rozporządzenia
+2016/679;
+–
+decyzja z (…) – nakaz w związku z naruszeniem art. 6 ust. 1 rozporządzenia
+2016/679,
+–
+decyzja z (…) – nakaz w związku z naruszeniem art. 15 ust. 1 i ust. 3
+rozporządzenia 2016/679;
+–
+decyzja z (…) – upomnienie w związku z naruszeniem art. 6 ust. 1, art. 5 ust. 1
+lit. a) oraz d) rozporządzenia 2016/679;
+–
+decyzja z (…) – nakaz w związku z naruszeniem art. 6 ust. 1 rozporządzenia
+2016/679;
+–
+decyzja z (…) – nakaz w związku z naruszeniem art. 6 ust. 1 rozporządzenia
+2016/679,
+–
+decyzja z (…) – upomnienie w związku z naruszeniem art. 6 ust. 1 rozporządze‐
+nia 2016/679, art. 105a ust. 3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+–
+decyzja z (…) – nakaz w związku z naruszeniem art. 6 ust. 1 rozporządzenia
+2016/679;
+–
+decyzja z (…) – nakaz w związku z naruszeniem art. 6 ust. 1 rozporządzenia
+2016/679;
+–
+decyzja z (…) – upomnienie w związku z naruszeniem art. 6 ust. 1
+rozporządzenia 2016/679;
+–
+decyzja z (…) – upomnienie w związku z naruszeniem art. 6 ust. 1 rozporządze‐
+nia 2016/679; art. 105a ust. 3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+Zastosowanie środków naprawczych oraz udzielenie Bankowi upomnień uzasadnia
+nie tylko samo wymierzenie sankcji finansowej w niniejszym postępowaniu, ale tak‐
+że jej stosunkowo wysoki wymiar. Z uwagi na powyższe, w przedmiotowej sprawie
+należy uznać, że istnieją podstawy do traktowania przesłanki z art. 83 ust. 2 lit. e)
+rozporządzenia 2016/679 jako obciążającej.
+Kategorie danych osobowych, których dotyczyło naruszenie [art. 83 ust. 2 lit. g)
+rozporządzenia 2016/679].
+Przetwarzane przez Bank dane osobowe, pozyskiwane poprzez kopiowanie (skano‐
+wanie) dokumentów tożsamości, wprawdzie nie należą do szczególnych kategorii
+danych osobowych, o których mowa w art. 9 ust. 1 i art. 10 rozporządzenia
+2016/679, jednakże ich zakres (tj. m.in.: imię i nazwisko, numer PESEL, wizerunek,
+data urodzenia, imiona rodziców, nazwisko rodowe, numer i seria dokumentu tożsa‐
+mości), wiąże się z wysokim ryzykiem naruszenia praw lub wolności osób fizycz‐
+nych. Numer PESEL wraz z imieniem i nazwiskiem w sposób jednoznaczny identyfi‐
+kuje osobę fizyczną, w sposób pozwalający przypisać negatywne skutki naruszenia
+(np. kradzież tożsamości, wyłudzenie pożyczki) tej konkretnej osobie. Jak wskazał
+Wojewódzki Sąd Administracyjny w Warszawie w wyroku z 1 lipca 2022 r., sygn. akt
+II SA/Wa 4143/21, „W przypadku naruszenia takich danych, jak imię, nazwisko oraz
+numer PESEL, możliwa jest bowiem kradzież lub sfałszowanie tożsamości skutkująca
+negatywnymi konsekwencjami dla osób, których dane dotyczą”. Jak wskazano w
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 31 z 39
+
+Wytycznych 04/2022 (str. 21): „Jeśli chodzi o wymóg uwzględnienia kategorii da‐
+nych osobowych, których dotyczyło naruszenie (art. 83 ust. 2 lit. g) RODO), w RODO
+wyraźnie wskazano rodzaje danych, które podlegają szczególnej ochronie, a tym sa‐
+mym bardziej rygorystycznej reakcji przy nakładaniu kar pieniężnych. Dotyczy to co
+najmniej rodzajów danych objętych art. 9 i 10 RODO oraz danych nieobjętych zakre‐
+sem tych artykułów, których rozpowszechnianie natychmiast powoduje szkody lub
+dyskomfort osoby, której dane dotyczą (np. danych dotyczących lokalizacji, danych
+dotyczących komunikacji prywatnej, krajowych numerów identyfikacyjnych lub da‐
+nych finansowych, takich jak zestawienia transakcji lub numery kart kredytowych).
+Ogólnie rzecz biorąc, im większej liczby takich kategorii danych dotyczy naruszenie
+lub im bardziej wrażliwe są dane, tym większą wagę organ nadzorczy może
+przypisać temu czynnikowi”.
+Decydując o nałożeniu administracyjnej kary pieniężnej Prezes UODO wziął pod uwagę
+następujące okoliczności sprawy wpływające łagodząco na wymiar nałożonej
+administracyjnej kary pieniężnej:
+Stopień współpracy z organem nadzorczym w celu usunięcia naruszenia oraz złagodze‐
+nia jego ewentualnych negatywnych skutków [art. 83 ust. 2 lit. f) rozporządzenia
+2016/679].
+Bank, po przeprowadzeniu przez organ nadzorczy czynności kontrolnych, podjął
+działania w celu zmiany praktyki w zakresie przetwarzania danych osobowych pozy‐
+skiwanych poprzez kopiowanie (skanowanie) dokumentów tożsamości. Bank wdrożył
+szereg działań naprawczych mających na celu ograniczenie przetwarzania tych da‐
+nych osobowych poprzez skanowanie dokumentów tożsamości jedynie do przypad‐
+ków uzasadnionych stosowaniem i dokumentowaniem, przewidzianych ustawą AML,
+środków bezpieczeństwa finansowego, stosownie do rozpoznanego i ocenionego ry‐
+zyka prania pieniędzy oraz finansowania terroryzmu. W szczególności, Bank dokonał
+analizy ryzyka poszczególnych procesów związanych z wykonywaniem i dokumento‐
+waniem obowiązkowych środków bezpieczeństwa finansowego uzależniając decyzję
+w sprawie poszczególnych procesów przetwarzania danych osobowych pozyskiwa‐
+nych poprzez skanowanie tych dokumentów od poziomu rozpoznanego ryzyka pra‐
+nia pieniędzy oraz finansowania terroryzmu. Następnie zaktualizował też procedury
+w tym zakresie. Powyższe działania Banku miały znaczący wpływ na obniżenie wy‐
+sokości kary. Jako że celem działań podejmowanych zarówno przez organ nadzorczy
+jak i administratorów powinno być doprowadzenie przetwarzania danych osobowych
+do stanu zgodności z prawem, Prezes UODO wziął tę okoliczność pod uwagę w tak
+istotnym stopniu (zob. pkt 113 uzasadnienia niniejszej decyzji).
+Prezes UODO uznał za neutralne, tj. niemające ani obciążającego ani łagodzącego wpły‐
+wu na wymiar orzeczonej administracyjnej kary pieniężnej, niżej wskazane (w pkt
+98-103) okoliczności, o których mowa w 83 ust. 2 rozporządzenia 2016/679, po dokona‐
+niu oceny ich wpływu na stwierdzone w niniejszej sprawie naruszenie.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 32 z 39
+
+Działania podjęte w celu zminimalizowania szkody poniesionej przez osoby, których
+dane dotyczą [art. 83 ust. 2 lit. c) rozporządzenia 2016/679].
+Przesłanka ta pozostaje bez wpływu na wymiar orzeczonej administracyjnej kary
+pieniężnej przede wszystkim z uwagi na fakt, że Prezes UODO nie stwierdził, by oso‐
+by dotknięte zaistniałym naruszeniem przepisów o ochronie danych osobowych po‐
+niosły z tego tytułu szkodę (zob.: pkt 91 uzasadnienia niniejszej decyzji). W takiej
+sytuacji z przyczyn oczywistych administrator nie ma obowiązku podejmowania tego
+typu działań.
+Stopień odpowiedzialności Banku z uwzględnieniem środków technicznych i organizacyj‐
+nych wdrożonych przez niego na mocy art. 25 i 32 rozporządzenia 2016/679 [art. 83 ust.
+2 lit. d rozporządzenia 2016/679].
+Naruszenie przepisów rozporządzenia 2016/679 oceniane w niniejszym postępowa‐
+niu nie ma związku ze stosowanymi przez Bank środkami technicznymi i organiza‐
+cyjnymi, a zatem przesłanka wskazana w art. 83 ust. 2 lit. d) rozporządzenia
+2016/679 nie ma w rozpatrywanym przypadku wpływu ani obciążającego ani łago‐
+dzącego na wymiar orzeczonej administracyjnej kary pieniężnej.
+Sposób, w jaki organ nadzorczy dowiedział się o naruszeniu, w szczególności, czy i w ja‐
+kim zakresie administrator zgłosił naruszenie [art. 83 ust. 2 lit. h) rozporządzenia
+2016/679].
+Prezes UODO stwierdził naruszenie przez Bank przepisów o ochronie danych osobo‐
+wych w wyniku przeprowadzonej kontroli, zatem nie ma podstaw, aby uznać, że mo‐
+głyby mieć to obciążający lub łagodzący wpływ na ocenę stwierdzonego naruszenia.
+Jeżeli wobec administratora, którego sprawa dotyczy, zostały wcześniej zastosowane w
+tej samej sprawie środki, o których mowa w art. 58 ust. 2 – przestrzeganie tych środków
+[art. 83 ust. 2 lit. i) rozporządzenia 2016/679].
+Przed wydaniem niniejszej decyzji Prezes UODO nie stosował wobec Banku w rozpa‐
+trywanej sprawie żadnych środków wymienionych w art. 58 ust. 2 rozporządzenia
+2016/679, w związku z czym Bank nie miał obowiązku podejmowania żadnych dzia‐
+łań związanych z ich stosowaniem, a które to działania, poddane ocenie organu nad‐
+zorczego, mogłoby mieć obciążający lub łagodzący wpływ na ocenę stwierdzonego
+naruszenia.
+Stosowanie zatwierdzonych kodeksów postępowania na mocy art. 40 lub zatwierdzonych
+mechanizmów certyfikacji na moc art. 42 [art. 83 ust. 2 lit. j) rozporządzenia 2016/679].
+Bank nie stosuje zatwierdzonych kodeksów postępowania ani zatwierdzonych me‐
+chanizmów certyfikacji, o których mowa w przepisach rozporządzenia 2016/679. Ich
+przyjęcie, wdrożenie i stosowanie nie jest jednak – jak stanowią przepisy rozporzą‐
+dzenia 2016/679 – obowiązkowe dla administratorów, w związku z czym okoliczność
+ich niestosowania nie może być w niniejszej sprawie poczytana na niekorzyść Ban‐
+ku. Na jego korzyść mogłaby być natomiast co do zasady uwzględniona okoliczność
+przyjęcia i stosowania tego rodzaju instrumentów, jako środków gwarantujących
+wyższy niż standardowy poziom ochrony przetwarzania danych osobowych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 33 z 39
+
+Wszelkie inne obciążające lub łagodzące czynniki mające zastosowanie do okoliczności
+sprawy, takie jak osiągnięte bezpośrednio lub pośrednio w związku z naruszeniem korzy‐
+ści finansowe lub uniknięcie straty [art. 83 ust. 2 lit. k) rozporządzenia 2016/679].
+Prezes UODO nie stwierdził, aby w związku ze stwierdzonym naruszeniem przepisów
+rozporządzenia 2016/679 Bank odniósł jakiekolwiek korzyści finansowe lub uniknął
+tego rodzaju strat. Brak jest więc podstaw do traktowania tej okoliczności jako ob‐
+ciążającej. Stwierdzenie zaistnienia wymiernych korzyści finansowych wynikających
+z naruszenia przepisów rozporządzenia 2016/679 należałoby ocenić zdecydowanie
+negatywnie. Nieosiągnięcie zaś takich korzyści, jako stan naturalny, niezależny od
+naruszenia i jego skutków, jest okolicznością, która z istoty rzeczy nie może być ła‐
+godząca. Interpretację tę potwierdza już samo sformułowanie przepisu art. 83 ust. 2
+lit. k) rozporządzenia 2016/679, który nakazuje organowi nadzorczemu zwrócić
+należytą uwagę na korzyści „osiągnięte” – zaistniałe po stronie podmiotu dokonują‐
+cego naruszenia.
+Prezes UODO, wszechstronnie rozpatrując przedmiotową sprawę, nie odnotował okolicz‐
+ności innych, niż powyżej opisane, mogących wpłynąć na ocenę naruszenia i wysokość
+orzeczonej administracyjnej kary pieniężnej.
+Uwzględniając wszystkie omówione wyżej okoliczności Prezes UODO uznał, że nałożenie
+administracyjnej kary pieniężnej na Bank jest konieczne i uzasadnione wagą, charakte‐
+rem oraz zakresem zarzucanych naruszeń. Stwierdzić należy, iż zastosowanie w niniej‐
+szej sprawie jakiegokolwiek innego środka naprawczego przewidzianego w art. 58 ust. 2
+rozporządzenia 2016/679, w szczególności zaś poprzestanie na upomnieniu (art. 58 ust.
+2 lit. b), nie byłoby proporcjonalne do stwierdzonych nieprawidłowości w procesie prze‐
+twarzania danych osobowych oraz nie gwarantowałoby tego, że Bank w przyszłości nie
+dopuści się podobnych zaniedbań (w tym zakresie zob. również: pkt 70 uzasadnienia
+niniejszej decyzji).
+Odnosząc się do wysokości kary pieniężnej, Prezes UODO uznał, iż w ustalonych okolicz‐
+nościach niniejszej sprawy, tj. wobec stwierdzenia naruszenia art. 5 ust. 1 lit. a), b) i c)
+oraz art. 6 ust. 1 rozporządzenia 2016/679, zastosowanie znajdzie art. 83 ust. 5 lit. a)
+rozporządzenia 2016/679, zgodnie z którym naruszenia zarówno art. 6 ust. 1 rozporzą‐
+dzenia 2016/679 jak i naruszenia podstawowych zasad przetwarzania, o których mowa
+w art. 5 tego rozporządzenia, podlegają administracyjnej karze pieniężnej w wysokości
+do 20 000 000 EUR (w przypadku przedsiębiorstwa - w wysokości do 4% jego całkowite‐
+go rocznego światowego obrotu z poprzedniego roku obrotowego, przy czym
+zastosowanie ma kwota wyższa).
+Na koniec koniecznym jest wskazanie, że ustalając w niniejszej sprawie wysokość admi‐
+nistracyjnej kary pieniężnej Prezes UODO zastosował metodykę przyjętą przez EROD w
+Wytycznych 04/2022. Ustalenie wysokości kary nastąpiło (w sposób opisany w pkt
+108-112 poniżej) zgodnie z przedstawionymi w tym dokumencie wskazówkami.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 34 z 39
+
+Jako podstawę obliczenia administracyjnej kary pieniężnej Prezes UODO przyjął wartość
+obrotu Banku za rok 2024. Z przedstawionej przez Bank informacji wynika, że całkowity
+roczny obrót (przychód odsetkowy oraz z tytułu prowizji) w tym roku obrotowym wyniósł
+(…) zł (słownie: (…)), co stanowi równowartość (…) EUR, według średniego kursu euro z
+28 stycznia 2025 r.
+Prezes UODO dokonał kategoryzacji stwierdzonych w niniejszej sprawie naruszeń
+przepisów rozporządzenia 2016/679 (vide Rozdział 4.1 Wytycznych 04/2022). Wśród na‐
+ruszonych przez Bank przepisów rozporządzenia 2016/679 znajdują się przepisy art. 6
+ust. 1, a także art. 5 ust. 1 lit. a), lit. b) i lit. c) rozporządzenia 2016/679, określające
+podstawowe zasady przetwarzania. Naruszenia tych przepisów należą – zgodnie z art. 83
+ust. 5 lit. a) rozporządzenia 2016/679 – do kategorii naruszeń zagrożonych karą wyższą z
+dwóch przewidzianych w rozporządzeniu 2016/679 wymiarów kar (z maksymalną wyso‐
+kością do 20 000 000 EUR lub do 4 % całkowitego rocznego obrotu przedsiębiorstwa z
+poprzedniego roku obrotowego). Są one więc in abstracto poważniejsze od innych
+(wskazanych w art. 83 ust. 4 rozporządzenia 2016/679) naruszeń.
+Prezes UODO ustalił prawnie określoną maksymalną wysokość kary możliwą do orzecze‐
+nia wobec Banku w niniejszej sprawie (za oceniane w niniejszej decyzji naruszenia prze‐
+pisów art. 6 ust. 1, oraz art. 5 ust. 1 lit. a), lit. b) i lit. c) rozporządzenia 2016/679 ) –
+patrz Rozdział 6.1 Wytycznych 04/2022. Przepis art. 83 ust. 5 lit. a) rozporządzenia
+2016/679 zobowiązuje Prezesa UODO do określenia czy w sprawie zastosowanie będzie
+miała tzw. „statyczna kwota maksymalna” (20 000 000 euro), czy „dynamiczna kwota
+maksymalna” (4 % obrotu z poprzedniego roku obrotowego), i do przyjęcia kwoty wyż‐
+szej jako kwoty maksymalnej, której orzeczona w sprawie administracyjna kara pienięż‐
+na nie może przekroczyć. Wartość 4 % obrotu Banku za poprzedni rok obrotowy to kwota
+(…) zł (równowartość (…) EUR). W związku z tym, że jest to kwota wyższa niż statyczna
+kwota maksymalna (20 000 000 EUR), Prezes UODO zobligowany jest do jej przyjęcia
+jako maksimum, którego nie może przekroczyć orzekając administracyjną karę pienięż‐
+ną.
+Prezes UODO ocenił stwierdzone w niniejszej sprawie naruszenie (w szczególności naru‐
+szenie podstawowych zasad przetwarzania) jako naruszenie o wysokim poziomie powagi
+(vide Rozdział 4.2 Wytycznych 04/2022). W ramach tej oceny wzięte zostały pod uwagę
+te przesłanki spośród wymienionych w art. 83 ust. 2 rozporządzenia 2016/679, które
+tyczą się strony przedmiotowej naruszeń (składają się na „powagę” naruszenia), to jest:
+charakter, waga i czas trwania naruszeń (art. 83 ust. 2 lit. a) rozporządzenia 2016/679),
+umyślny lub nieumyślny charakter naruszeń (art. 83 ust. 2 lit. b) rozporządzenia
+2016/679) oraz kategorie danych osobowych, których dotyczyły naruszenia (art. 83 ust.
+2 lit. g) rozporządzenia 2016/679). Szczegółowa ocena tych okoliczności przedstawiona
+została powyżej. W tym miejscu wskazać należy, że rozważenie ich łącznego wpływu na
+ocenę stwierdzonego w niniejszej sprawie naruszenia traktowanego w całości prowadzi
+do wniosku, że poziom jego powagi (rozumianej zgodnie z Wytycznymi 04/2022) jest wy‐
+soki. Konsekwencją tego jest zaś przyjęcie – jako kwoty wyjściowej do obliczenia kary –
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 35 z 39
+
+wartości mieszczącej się w przedziale od 20 % do 100% maksymalnej wysokości kary
+możliwej do orzeczenia wobec Banku. Za adekwatną, uzasadnioną okolicznościami ni‐
+niejszej sprawy, kwotę wyjściową Prezes UODO uznał kwotę (…) EUR (równowartość (…)
+zł).
+Stosownie do wskazówki EROD przedstawionej w pkt (…) Wytycznych 04/2022 (w odnie‐
+sieniu do przedsiębiorstw, których roczny obrót wynosi powyżej (…) EUR) Prezes UODO
+nie uznał za zasadne skorzystania z możliwości obniżenia przyjętej w oparciu o ocenę
+powagi naruszenia kwoty wyjściowej, którą to możliwość wytyczne te (w Rozdziale 4.3)
+przewidują dla przedsiębiorstwa o mniejszej wielkości i sile gospodarczej. EROD wskazu‐
+je w nich bowiem, że w przypadku wielkich podmiotów (a takim w niniejszej sprawie
+niewątpliwie jest Bank, o czym świadczą osiągane przez niego obroty) „wielkość przed‐
+siębiorstwa jest już odzwierciedlona w dynamicznej ustawowej maksymalnej kwocie”
+(pkt (…) Wytycznych 04/2022).
+Prezes UODO dokonał oceny wpływu na stwierdzone naruszenie pozostałych (poza tymi
+uwzględnionymi wyżej w ocenie powagi naruszenia) okoliczności wskazanych w art. 83
+ust. 2 rozporządzenia 2016/679 (vide Rozdział 5 Wytycznych 04/2022). Okoliczności te,
+mogące mieć obciążający lub łagodzący wpływ na ocenę naruszenia, odnoszą się – jak
+zakładają Wytyczne 04/2022 – do strony podmiotowej naruszenia, to jest do samego
+podmiotu będącego sprawcą naruszenia oraz do jego zachowania przed naruszeniem, w
+jego trakcie, i po jego zaistnieniu. Szczegółowa ocena i uzasadnienie wpływu każdej z
+tych przesłanek na ocenę naruszenia przedstawione zostały powyżej. Prezes UODO
+uznał, (co uzasadniono w przedstawionym wyżej uzasadnieniu decyzji), że okolicznością
+obciążającą w niniejszej sprawie, i w związku z tym dodatkowo zwiększającą wymiar
+orzeczonej niniejszą decyzją kary, są stwierdzone przez Prezesa UODO stosowne wcze‐
+śniejsze naruszenia ze strony Banku (art. 83 ust. 2 lit. e) rozporządzenia 2016/679), zaś
+okolicznością w sposób istotny łagodzącą w niniejszej sprawie jest stopień współpracy z
+organem nadzorczym w celu usunięcia naruszenia oraz złagodzenia jego ewentualnych
+negatywnych skutków (art. 83 ust. 2 lit. f) rozporządzenia 2016/679). Pozostałe przesłan‐
+ki (z art. 83 ust. 2 lit. c), d), h), i), j), k) rozporządzenia 2016/679) – jak wskazano wyżej –
+nie miały wpływu, ani łagodzącego ani obciążającego, na ocenę naruszenia i w konse‐
+kwencji na wymiar kary. Ze względu na zaistnienie w sprawie jednej okoliczności łago‐
+dzącej i jednej obciążającej zasadnym jest więc dalsze obniżenie kwoty kary ustalonej z
+uwzględnieniem obrotu Banku (pkt 112 powyżej); adekwatnym do łącznego wpływu obu
+tych przesłanek na ocenę naruszenia jest w ocenie Prezesa UODO jej obniżenie o (…)% –
+do kwoty (…) EUR (równowartość (…) zł). Rozważając zasadność obniżenia wysokości ad‐
+ministracyjnej kary pieniężnej w takim stopniu, należy raz jeszcze podkreślić wagę
+współpracy administratorów z organem nadzorczym mającej na celu usunięcie
+naruszenia (zob.: pkt 96 uzasadnienia niniejszej decyzji).
+Pomimo tego, że ustalona zgodnie z powyższymi zasadami kwota kary nie przekracza
+prawnie określonego maksimum kary Prezes UODO uznał, że wymaga ona dodatkowej
+korekty ze względu na zasadę proporcjonalności wymienioną w art. 83 ust. 1 rozporzą‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 36 z 39
+
+dzenia 2016/679 jako jedną z trzech dyrektyw wymiaru kary (vide Rozdział 7 Wytycz‐
+nych 04/2022). Niewątpliwie kara pieniężna w wysokości (…) EUR (równowartość (…) zł)
+byłaby karą skuteczną (przez swoją dolegliwość pozwoliłaby osiągnąć swój cel represyj‐
+ny, którym jest ukaranie za bezprawne zachowanie) i odstraszającą (pozwalającą sku‐
+tecznie zniechęcić zarówno Bank, jak i innych administratorów do popełniania w przy‐
+szłości naruszeń przepisów rozporządzenia 2016/679). Kara taka byłaby jednak – w oce‐
+nie Prezesa UODO – karą nieproporcjonalną ze względu na swoją nadmierną dolegliwość.
+Zasada proporcjonalności wymaga bowiem m.in., by przyjęte przez organ nadzorczy
+środki nie wykraczały poza to, co odpowiednie i konieczne do realizacji uzasadnionych
+celów (vide pkt 137 i pkt 139 Wytycznych 04/2022). Innymi słowy: „Sankcja jest
+proporcjonalna, jeśli nie przekracza progu dolegliwości określonego przez uwzględnienie
+okoliczności konkretnego przypadku” (P. Litwiński (red.), Rozporządzenie Parlamentu Eu‐
+ropejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. […]; Komentarz do art. 83
+[w:] P. Litwiński (red.) Ogólne rozporządzenie o ochronie danych osobowych. Ustawa o
+ochronie danych osobowych. Wybrane przepisy sektorowe. Komentarz). Mając więc na
+uwadze wzgląd na proporcjonalność kary Prezes UODO dokonał dalszego obniżenia wy‐
+sokości kary – do (…)% kwoty uzyskanej po uwzględnieniu okoliczności obciążających i
+łagodzących (zob.: pkt 113 powyżej), to jest do kwoty 4 375 273,21 EUR (równowartość
+18 416 400,- zł). W jego ocenie takie określenie ostatecznej wysokości orzeczonej kary
+nie wpłynie na obniżenie jej skuteczności i odstraszającego charakteru. Kwota ta bowiem
+stanowi próg, powyżej którego dalsze zwiększanie wysokości kary nie będzie wiązało się
+ze wzrostem jej skuteczności i odstraszającego charakteru. Z drugiej natomiast strony
+obniżenie w większym stopniu wysokości kary mogłoby się odbyć kosztem jej skuteczno‐
+ści i odstraszającego charakteru, a także spójnego stosowania i egzekwowania przez
+wszystkie organy nadzorcze rozporządzenia 2016/679 i zasady równego traktowania
+podmiotów na rynku wewnętrznym UE i EOG. Na tym etapie, przy określaniu wysokości
+administracyjnej kary pieniężnej, Prezes UODO wziął również pod uwagę, że wykazane w
+ww. decyzji naruszenie przepisów rozporządzenia 2016/679 trwało od 1 kwietnia 2019 r.
+do 23 września 2020 r. Nadto, należy przypomnieć w tym miejscu, że z przedstawionej
+przez Bank informacji wynika, że całkowity roczny obrót (przychód odsetkowy oraz z ty‐
+tułu prowizji) z poprzedniego roku obrotowego w 2024 r. wyniósł (…) zł, co stanowi rów‐
+nowartość (…) EUR, według średniego kursu euro z 28 stycznia 2025 r., w związku z
+czym kwota nałożonej w niniejszej sprawie administracyjnej kary pieniężnej stanowi ok.
+(…) % ww. kwoty. Jednocześnie warto podkreślić, że kwota nałożonej administracyjnej
+kary pieniężnej to jedynie (…) % maksymalnej wysokości kary, którą Prezes UODO mógł
+- stosując zgodnie z art. 83 ust. 5 rozporządzenia 2016/679 maksimum kary w wysokości
+do 4% całkowitego rocznego obrotu z poprzedniego roku obrotowego - nałożyć na Bank
+za stwierdzone w niniejszej sprawie naruszenie, tj. (…) zł ((…) EUR). Kara w tej kwocie
+nie będzie w ocenie Prezesa UODO nadmiernie dolegliwa, czy też niemożliwa do ponie‐
+sienia przez Bank, zważywszy na wykazany przez niego w roku 2024 zysk netto w
+kwocie (…) zł.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 37 z 39
+
+III. Podsumowanie.
+W ocenie Prezesa UODO, zastosowana administracyjna kara pieniężna spełnia w ustalo‐
+nych okolicznościach niniejszej sprawy funkcje, o których mowa w art. 83 ust. 1 rozpo‐
+rządzenia 2016/679, tzn. jest w tym indywidualnym przypadku skuteczna,
+proporcjonalna i odstraszająca.
+W ocenie Prezesa UODO nałożona na Bank administracyjna kara pieniężna jest nie tylko
+skuteczna, ale również proporcjonalna: zarówno do powagi naruszenia (skutkującego na‐
+ruszeniem podstawowych zasad, na których oparty jest w rozporządzeniu 2016/679 sys‐
+tem ochrony danych osobowych – zasady zgodności z prawem, zasady ograniczenia celu
+i zasady minimalizacji danych oraz zasad wyrażonych w art. 6 ust. 1 rozporządzenia
+2016/679), jak i do wielkości administratora, którą to wielkość – mierzoną jego obrotem –
+należy rozpatrywać w nierozerwalnym związku za względu na skuteczność kary i na jej
+odstraszający charakter.
+Zważywszy na przedstawione wyniki finansowe, stwierdzić należy, że orzeczona admini‐
+stracyjna kara pieniężna nie będzie dla Banku nadmiernie dotkliwa. Jednocześnie kara
+będzie skuteczna (osiągnie cel jakim jest ukaranie administratora za najpoważniejsze
+naruszenie o poważnych skutkach) i odstraszająca na przyszłość.
+Wysokość kary została zatem określona na takim poziomie, aby z jednej strony stanowiła
+adekwatną reakcję organu nadzorczego na stopień naruszenia obowiązków administrato‐
+ra, z drugiej jednak strony nie powodowała sytuacji, w której konieczność uiszczenia ad‐
+ministracyjnej kary pieniężnej pociągnie za sobą negatywne następstwa, w postaci
+pogorszenia sytuacji finansowej Banku.
+W ocenie Prezesa UODO, administracyjna kara pieniężna spełni w tych konkretnych oko‐
+licznościach funkcję represyjną, jako że stanowić będzie odpowiedź na naruszenie przez
+Bank przepisów rozporządzenia 2016/679, ale i prewencyjną, ponieważ przyczyni się do
+zapobiegania w przyszłości naruszania obowiązków administratora danych wynikających
+z przepisów o ochronie danych osobowych. Podstawowym celem (aczkolwiek nie jedy‐
+nym) nałożonej kary jest bowiem doprowadzenie do przestrzegania w przyszłości przez
+Bank przepisów rozporządzenia 2016/679.
+W ocenie organu nadzorczego, zastosowana administracyjna kara pieniężna spełnia w
+ustalonych okolicznościach niniejszej sprawy przesłanki, o których mowa w art. 83 ust. 1
+rozporządzenia 2016/679 ze względu na wagę stwierdzonych naruszeń w kontekście
+podstawowych wymogów i zasad rozporządzenia 2016/679.
+Stosownie do treści art. 103 u.o.d.o., równowartość wyrażonych w euro kwot, o których
+mowa w art. 83 rozporządzenia 2016/679, oblicza się w złotych według średniego kursu
+euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 28 stycznia każ‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 38 z 39
+
+dego roku, a w przypadku gdy w danym roku Narodowy Bank Polski nie ogłasza średnie‐
+go kursu euro w dniu 28 stycznia - według średniego kursu euro ogłoszonego w
+najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego.
+Wobec powyższego, Prezes Urzędu Ochrony Danych Osobowych, na podstawie art. 83
+ust. 5 lit. a) w związku z art. 103 u.o.d.o., za naruszenie opisane w sentencji niniejszej
+decyzji, nałożył na Bank – stosując średni kurs euro z dnia 28 stycznia 2025 r. (1 EUR =
+4,2092 zł) – administracyjną karę pieniężną w kwocie 18 416 400,- zł (słownie: osiemna‐
+ście milionów czterysta szesnaście tysięcy czterysta złotych), co stanowi równowartość 4
+375 273,21 EUR).
+Mając powyższe na uwadze, Prezes Urzędu Ochrony Danych Osobowych rozstrzygnął jak
+w sentencji niniejszej decyzji.
+
+[1] Wersja tego aktu prawnego obowiązująca 1 kwietnia 2019 r.: Dz. U. z 2018 r. poz.
+723 ze zm.
+[2] Ustawa z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz
+finansowaniu terroryzmu (Dz. U. z 2018 r. poz. 723) – zwana dalej: „ustawą AML”. Im‐
+plementuje ona przepisy dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/849 z
+dnia 20 maja 2015 r. w sprawie zapobiegania wykorzystywaniu systemu finansowego
+do prania pieniędzy lub finansowania terroryzmu, zmieniającą rozporządzenie Parla‐
+mentu Europejskiego i Rady (UE) nr 648/2012 i uchylającą dyrektywę Parlamentu Eu‐
+ropejskiego i Rady 2005/60/WE oraz dyrektywę Komisji 2006/70/WE (Dz. Urz. UE L nr
+141 z 05.06.2015 r., str. 73), zwanej dalej Dyrektywą 2015/849, wdraża dyrektywę Par‐
+lamentu Europejskiego i Rady (UE) 2018/843 z dnia 30 maja 2018 r. zmieniającą dy‐
+rektywę (UE) 2015/849 w sprawie zapobiegania wykorzystywaniu systemu finansowe‐
+go do prania pieniędzy lub finansowania terroryzmu oraz zmieniającą dyrektywy
+2009/138/WE i 2013/36/UE (Dz. Urz. UE L 156 z 19.06.2018, str. 43).
+[3] Bank powołał się na stanowiska GIIF wyrażone w pismach kierowanych do Prezesa
+UODO 4 lutego oraz 13 marca 2020 r.
+[4] (…).
+[5] P. Fajgielski (w:) Komentarz do rozporządzenia nr 2016/679 w sprawie ochrony osób
+fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie
+o ochronie danych) [w:] Ogólne rozporządzenie o ochronie danych. Ustawa o ochronie
+danych osobowych. Komentarz, wyd. II, Warszawa 2022, art. 5.
+[6] Zob.: Krajowa Ocena Ryzyka Prania Pieniędzy oraz Finansowania Terroryzmu 2023
+r. (www.gov.pl/web/finanse/krajowa-ocena-ryzyka-prania-pieniedzy-oraz-finansowaniaterroryzmu).
+[7] D. Lubasz, W. Chomiczewski [w:] RODO. Ogólne rozporządzenie o ochronie danych.
+Komentarz, red. E. Bielak-Jomaa, Warszawa 2018, art. 6.
+[8] P. Fajgielski [w:] Komentarz do rozporządzenia nr 2016/679 w sprawie ochrony osób
+fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie
+o ochronie danych) [w:] Ogólne rozporządzenie o ochronie danych. Ustawa o ochronie
+danych osobowych. Komentarz, wyd. II, Warszawa 2022, art. 6.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5112.6.2020
+
+Strona 39 z 39
+
+[9] W. Chomiczewski, D. Lubasz, A. Maciaszczyk, A. Szkurłat, Wybrane podstawy praw‐
+ne przetwarzania danych osobowych: ochrona żywotnych interesów osoby, której dane
+dotyczą, lub innej osoby fizycznej, zadania realizowane w interesie publicznym lub w
+ramach sprawowania władzy publicznej, prawnie uzasadniony interes realizowany
+przez administratora lub stronę trzecią, LEX/el. 2023.
+[10] P. Fajgielski [w:] Komentarz do rozporządzenia nr 2016/679 w sprawie ochrony
+osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobod‐
+nego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporzą‐
+dzenie o ochronie danych) [w:] Ogólne rozporządzenie o ochronie danych. Ustawa o
+ochronie danych osobowych. Komentarz, wyd. II, Warszawa 2022, art. 5.
+[11] D. Lubasz, W. Chomiczewski [w:] RODO. Ogólne rozporządzenie o ochronie da‐
+nych. Komentarz, red. E. Bielak-Jomaa, D. Lubasz, Warszawa 2018, art. 6.
+[12] D. Lubasz, Zasady dotyczące przetwarzania danych osobowych [w:] Meritum.
+Ochrona danych osobowych, red. D. Lubasz, Warszawa 2022, s. 112.
+[13] A. Maciaszczyk, Zasada ograniczenia celu, zasada minimalizacji danych i zasada
+prawidłowości w ochronie danych osobowych, LEX/el. 2023.
+[14] P. Fajgielski [w:] Komentarz do rozporządzenia nr 2016/679 w sprawie ochrony
+osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobod‐
+nego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporzą‐
+dzenie o ochronie danych) [w:] Ogólne rozporządzenie o ochronie danych. Ustawa o
+ochronie danych osobowych. Komentarz, wyd. II, W. 2022, art. 5.
+[15] M. Sadowska [w:] Kodeks postępowania administracyjnego. Komentarz do art.
+61-126. Tom II, red. M. Karpiuk, P. Krzykowski, A. Skóra, Olsztyn 2020, art. 78.
+[16] Wyrok WSA w Warszawie z 18.08.2022 r., II SA/Wa 210/22, LEX nr 3515712.
+[17] P. Fajgielski [w:] Komentarz do rozporządzenia nr 2016/679 w sprawie ochrony
+osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobod‐
+nego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporzą‐
+dzenie o ochronie danych) [w:] Ogólne rozporządzenie o ochronie danych. Ustawa o
+ochronie danych osobowych. Komentarz, wyd. II, Warszawa 2022, art. 5.
+[18] https://(…)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:dkn_5112_6/content
+
+2025-09-03 13:16
+

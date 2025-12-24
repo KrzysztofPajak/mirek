@@ -1,0 +1,229 @@
+Warszawa, 3 grudnia 2021
+PRAWOMOCNA
+
+Decyzja
+DKE.523.25.2021
+
+Na podstawie art. 138 § 1 pkt 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2020 poz. 256 ze zm.) w związku z art. 22 ustawy z dnia 29
+sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 ze zm.), art.
+160 ust. 1-3 ustawy z 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r.
+poz. 1781) oraz art. 4 pkt 1, art. 6 ust. 1 lit. c), art. 57 ust. 1 lit. a) i lit. f) Rozporządzenia
+Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie
+ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne
+rozporządzenie o ochronie danych osobowych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1 oraz
+Dz. Urz. UE L 127 z 23.05.2018 str. 2),
+po przeprowadzeniu postępowania administracyjnego w sprawie wniosku Pani E. S., zam.
+w S. przy ul. (…) o ponowne rozpatrzenie sprawy zakończonej decyzją Generalnego In‐
+spektora Ochrony Danych Osobowych z dnia 18 maja 2017 r. (sygn. DOLiS/
+DEC-604/17/40572,40578) w przedmiocie odmowy uwzględnienia wniosku w sprawie
+przetwarzania jej danych przez C. Sp. z o.o. z siedzibą w S. przy ul. (…) reprezentowanej
+przez radcę prawnego A. G. z K. Sp. k. z siedzibą w W. przy ul. (…),
+utrzymuje w mocy zaskarżoną decyzję.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_25/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.25.2021
+
+Strona 2 z 6
+
+Uzasadnienie
+
+Stan faktyczny
+Do Biura Generalnego Inspektora Ochrony Danych Osobowych (aktualnie: Urzędu Ochro‐
+ny Danych Osobowych) wpłynęła skarga Pani E. S., zam. w S. przy ul. (…), zwanej dalej
+„Skarżącą”, na nieprawidłowości procesie przetwarzania jej danych osobowych przez „C”
+Sp. z o.o. z siedzibą w S., przy ul. (…), zwaną dalej „Spółką”.
+Skarżąca w treści skargi wskazała, że podczas jej pobytu na zwolnieniu lekarskim, Pani
+B. B. (pełniąca funkcję członka Rady Nadzorczej Spółki) wraz z inną osobą, przeprowadzi‐
+ły w jej mieszkaniu kontrolę prawidłowości wykorzystania zwolnienia lekarskiego przez
+Skarżącą. Zdaniem Skarżącej osoby te nie były upoważnione do przetwarzania jej
+danych osobowych, w szczególności w zakresie jej stanu zdrowia.
+W toku postępowania zainicjowanego skargą Generalny Inspektor Ochrony Danych
+Osobowych, zwany dalej również „GIODO”, ustalił następujący stan faktyczny:
+Spółka wskazała, że dane osobowe Skarżącej przetwarzane są w zbiorze danych pracow‐
+ników w celu realizacji obowiązków wynikających z zawartej z nią umowy o pracę z 1
+czerwca 1993 r., a także w zbiorze danych monitoring w celu zapewnienia bezpieczeń‐
+stwa funkcjonowania Spółki. Spółka wskazała również, że stosownie do postanowień ww.
+umowy o pracę Skarżąca pełniła, m.in. obowiązki zastępcy Prezesa Zarządu w Spółce (do
+dnia 26 lipca 2016 r.). Spółka wskazała ponadto, że zarówno Pani B. B. jak i inne osoby
+nie przeprowadzały kontroli korzystania przez Skarżącą ze zwolnienia lekarskiego. Odno‐
+sząc się do zdarzenia z dnia 6 lipca 2016 r. Spółka wyjaśniła, że Pani B. B. doręczyła oso‐
+biście Skarżącej zawiadomienie o zwołaniu posiedzenia Zarządu Spółki. Powyższy sposób
+ww. zawiadomienia podyktowany był bliskim terminem posiedzenia Zarządu Spółki i w
+żadnym wypadku nie miał na celu sprawdzenia zasadności przebywania przez Skarżącą
+na zwolnieniu lekarskim. W swoich wyjaśnieniach Spółka wskazała również, że nie udo‐
+stępniała danych osobowych Skarżącej osobom nieupoważnionym. Natomiast Pani B. B.
+jako członek rady nadzorczej Spółki posiadała upoważnienie do wglądu do wszelkich do‐
+kumentów Spółki, w tym także do dokumentów pracowniczych. Jednocześnie do wyja‐
+śnień Spółka dołączyła ww. upoważnienie z dnia 4 maja 2016 r., które zostało
+wystawione na czas nieokreślony.
+W tym stanie faktycznym GIODO wydał decyzję z dnia 18 maja 2017 r. (sygn. DOLiS/
+DEC-604/17/40572,40578), mocą której odmówił uwzględnienia wniosku Skarżącej.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_25/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.25.2021
+
+Strona 3 z 6
+
+W ustawowym terminie, tj. 5 czerwca 2017 r. (data stempla pocztowego) Skarżąca
+wniosła wniosek o ponowne rozpatrzenie sprawy.
+W uzasadnieniu do wniosku Skarżąca wskazała, że Pani B. B. nie mogła legitymować się
+upoważnieniem z 4 maja 2016 r. do przetwarzania jej danych osobowych, ponieważ wy‐
+stawienie takiego upoważnienia wykluczało konieczność wystawienia kolejnego upoważ‐
+nienia dla Pani B. B. tym razem do dokonania kserokopii zwolnienia lekarskiego Skarżą‐
+cej. Zdaniem Skarżącej data widniejąca na upoważnieniu, tj. 4 maja 2016 r., nie jest
+faktyczną datą jego wystawienia.
+Skarżąca ponownie wskazała, że wizyta Pani B. B. pod drzwiami mieszkania miała na
+celu wyłącznie skontrolowanie zasadności korzystania przez Skarżącą ze zwolnienia
+lekarskiego, ponieważ cyt.: „Pani B. (…) na drugi dzień przyszła po zwolnienie lekarskie
+[Skarżącej] do działu kadr”, a ponadto cyt.: „Zakład Ubezpieczeń Społecznych w lipcu
+2016 r. wystąpił z pismem do (…) przychodni [Skarżącej] o przesłanie kartoteki z historią
+choroby, gdyż wpłynął wniosek od pracodawcy w sprawie kontroli zasadności
+wykorzystania zwolnienia lekarskiego”.
+Skarżąca dodała, że z art. 219 ustawy z dnia 15 września 2000 r. Kodeks spółek
+handlowych (Dz.U. 2020 poz. 1526 ze. zm.), zwanej dalej „K.s.h.”, nie wynika, aby Pani
+B. B. mogła cyt. „przyjść do mojego mieszkania z jakąkolwiek korespondencją. Nie nale‐
+ży to do wykonywania jej obowiązków, gdyż Rada Nadzorcza sprawuje stały nadzór nad
+działalnością spółki we wszystkich jej dziedzinach działalności”.
+
+Uzasadnienie prawne
+Po ponownym zapoznaniu się z całością zgromadzonego w sprawie materiału dowodo‐
+wego Prezes Urzędu Ochrony Danych Osobowych, zważył co następuje:
+Z dniem 25 maja 2018 r. w życie weszły przepisy ustawy z dnia 10 maja 2018 r. o
+ochronie danych osobowych (Dz. U. z 2018 r., poz. 1000), zwanej dalej „u.o.d.o.”.
+W myśl art. 160 ust. 1-3 u.o.d.o., postępowania prowadzone przez Generalnego Inspek‐
+tora Ochrony Danych Osobowych, wszczęte i niezakończone przed dniem wejścia w ży‐
+cie niniejszej ustawy, prowadzone są przez Prezesa Urzędu Ochrony Danych Osobowych
+na podstawie ustawy na podstawie ustawy z dnia 29 sierpnia 1997 r. o ochronie danych
+osobowych (Dz. U. z 2016 r., poz. 922), zwanej dalej „ustawą z 1997 r.”, zgodnie z zasa‐
+dami określonymi w ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2020 r., poz. 256 ze zm.), zwaną dalej „K.p.a”. Jednocześnie,
+czynności dokonane w postępowaniach, wszczętych i niezakończonych przed dniem
+wejścia w życie przepisów u.o.d.o., pozostają skuteczne.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_25/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.25.2021
+
+Strona 4 z 6
+
+Od dnia 25 maja 2018 r. zastosowanie ma również rozporządzenie Parlamentu Europej‐
+skiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycz‐
+nych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z
+04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2), zwane dalej „Rozporzą‐
+dzeniem 2016/679”.
+Stosownie do art. 57 ust. 1 Rozporządzenia 2016/679, bez uszczerbku dla innych zadań
+określonych na mocy niniejszego rozporządzenia każdy organ nadzorczy na swoim tery‐
+torium monitoruje i egzekwuje stosowanie niniejszego rozporządzenia (lit. a) oraz rozpa‐
+truje skargi wniesione przez osobę, której dane dotyczą, lub przez podmiot, organizację
+lub zrzeszenie zgodnie z art. 80, w odpowiednim zakresie prowadzi postępowania w
+przedmiocie tych skarg i w rozsądnym terminie informuje skarżącego o postępach i wy‐
+nikach tych postępowań, w szczególności jeżeli niezbędne jest dalsze prowadzenie
+postępowań lub koordynacja działań z innym organem nadzorczym (lit. f).
+Uwzględniając powyższe należy stwierdzić, iż niniejsze postępowanie, wszczęte i nieza‐
+kończone przed dniem 25 maja 2018 r., prowadzone jest na podstawie ustawy z 1997 r.
+(w zakresie dotyczącym przepisów regulujących procedurę administracyjną) oraz na
+podstawie Rozporządzenia 2016/679 (w zakresie rozstrzygającym o legalności procesu
+przetwarzania danych osobowych). Wynikający z przepisów prawa sposób prowadzenia
+postępowań w sprawach rozpoczętych i niezakończonych przed dniem wejścia w życie
+nowych regulacji z zakresu ochrony danych osobowych koreluje z ugruntowanym
+stanowiskiem doktryny, zgodnie z którym „organ administracji publicznej ocenia stan
+faktyczny sprawy według chwili wydania decyzji administracyjnej. Reguła ta odnosi się
+także do oceny stanu prawnego sprawy, co oznacza, że organ administracji publicznej
+wydaje decyzję administracyjną na podstawie przepisów prawa obowiązujących w chwili
+jej wydania” (Komentarz do K.p.a – Dz. U. 00.98.1071, M. Jaśkowska, A. Wróbel, Lex., el/
+2012).
+Zgodnie z art. 219 § 1 K.s.h. rada nadzorcza sprawuje stały nadzór nad działalnością
+spółki we wszystkich dziedzinach jej działalności. Oznacza to, że może nadzorować
+cząstkowe aktywności, niektóre działy czy też pracę członków zarządu. Stały nadzór nad
+działalnością spółki jest prawem i obowiązkiem rady nadzorczej. Oznacza to, że sprawo‐
+wanie tego nadzoru musi mieć trwały charakter i odnosić się do całej spółki (por. J. Jacy‐
+szyn, Rady nadzorcze spółek, KPP 1994, z. 3, s. 439). Artykuł 219 k.s.h. wytycza najszer‐
+sze granice dla możliwości nadzorowania. Stały nadzór nad działalnością spółki jest
+skonkretyzowany przykładowymi czynnościami rady nadzorczej, o których mowa w art.
+219 § 4 k.s.h. Dla zrealizowania swoich funkcji rada nadzorcza ma prawo przeglądania
+wszelkich dokumentów spółki dotyczących następujących sfer: finansowych, kadrowych,
+umów i uchwał zarządu (A. Kidyba, Spółka z o.o. Komentarz, 2002, s. 529).
+W związku z powyższym ponownie należy wskazać, że działanie Spółki polegające na
+udostępnieniu danych osobowych Skarżącej Pani B. B. miało swoje umocowanie w wyżej
+wymienionym przepisie, który wypełnił przesłankę legalności przetwarzania danych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_25/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.25.2021
+
+Strona 5 z 6
+
+wskazaną w art. 23 ust. 1 pkt 2 ustawy z 1997 r. Obecnie zaś działanie Spółki byłoby do‐
+puszczalne w związku z treścią art. 6 ust. 1 lit. c) RODO. W dniu 6 lipca 2016 r. Pani B. B.
+legitymowała się upoważnieniem do przetwarzania danych osobowych pracowników
+Spółki, a więc i danych osobowych Skarżącej pełniącej funkcję Zastępcy Prezesa Zarzą‐
+du.
+Przeprowadzone w niniejszej sprawie postępowanie wyjaśniające nie dało podstaw by
+sądzić, iż osobiste dostarczenie zawiadomienia o bliskim terminie posiedzenia zarządu
+przez członka rady nadzorczej podczas przebywania Skarżącej na zwolnieniu lekarskim
+miało na celu sprawdzenie zasadności korzystania przez nią z tego zwolnienia. Gdyby
+jednak przyjąć, że kontrola prawidłowości korzystania przez Skarżącą ze zwolnienia le‐
+karskiego w istocie miała miejsce to podstawa prawna do jej przeprowadzenia została
+wskazana w art. 68 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z
+ubezpieczenia pieniężnego w razie choroby i macierzyństwa (Dz. U. 2021 r., poz. 1133
+ze. zm.). Z ww. przepisu wynika, że do przeprowadzenia kontroli prawidłowości wykorzy‐
+stywania zwolnień od pracy uprawnieni są płatnicy składek (pracodawcy) zgłaszający do
+ubezpieczeniach chorobowego powyżej 20 ubezpieczonych oraz jednostki Zakładu
+Ubezpieczeń Społecznych.
+Odnosząc się natomiast do twierdzeń Skarżącej jakoby Pani B. B. nie posiadała upoważ‐
+nienia do przetwarzania danych osobowych Skarżącej, z uwagi na to, że data upoważnie‐
+nia Pani B. B. nie była faktyczną datą jego wystawienia, należy podkreślić, że Prezes
+Urzędu Ochrony Danych Osobowych nie posiada uprawnień do sprawdzania autentycz‐
+ności jakichkolwiek dokumentów. Jeżeli zdaniem Skarżącej doszło do przestępstwa prze‐
+ciwko wiarygodności dokumentów powinna powiadomić właściwe organy ścigania. Po‐
+dobnie odnosząc się do zarzutu bezprawnego osobistego zawiadomienia Skarżącej przez
+Panią B. B. o terminie posiedzenia zarządu Spółki należy wskazać, że materia dotycząca
+formy takiego zawiadomienia również nie podlega kontroli Prezesa Urzędu Ochrony Da‐
+nych Osobowych. Do kompetencji Prezesa Urzędu Ochrony Danych Osobowych nie nale‐
+ży bowiem badanie organizacji pracy wdrożonej przez pracodawcę. Z przedstawionej
+przez Skarżącą w niniejszym postępowaniu wersji wydarzeń wynika, że tłem zdarzenia
+opisanego w skardze mógł być konflikt, spór pomiędzy Skarżącą a pracodawcą. W tym
+miejscu zatem ponownie należy wskazać, że Prezes Urzędu nie jest właściwy do rozstrzy‐
+gania sporów w tym zakresie. Organem nadzoru i kontroli nad przestrzeganiem prawa
+pracy jest Państwowa Inspekcja Pracy. Swoich praw wynikających z prawa pracy można
+dochodzić również przed sądem powszechnym. Do kompetencji Prezesa Urzędu Ochrony
+Danych Osobowych należy monitorowanie i egzekwowanie stosowania przepisów doty‐
+czących ochrony danych osobowych, a jak wyżej wykazano, zdarzenie będące przedmio‐
+tem skargi nie wiązało się z naruszeniem tych przepisów.
+Ocena dokonywana przez Prezesa Urzędu Ochrony Danych Osobowych w każdym przy‐
+padku służy zbadaniu zasadności skierowania pod adresem określonego podmiotu naka‐
+zu, odpowiadającego dyspozycji art. 18 ust. 1 ustawy z 1997 r. służącego przywróceniu
+stanu zgodnego z prawem, w procesie przetwarzania danych – jest więc ona uzasadnio‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_25/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.25.2021
+
+Strona 6 z 6
+
+na i potrzebna tylko o tyle, o ile nieprawidłowości w procesie przetwarzania danych oso‐
+bowych istnieją. Prezes Urzędu Ochrony Danych Osobowych nie stwierdził nieprawidło‐
+wości w udostępnieniu danych osobowych Skarżącej Pani B. B. Dlatego też, po dokona‐
+niu ponownej analizy materiału zgromadzonego w sprawie, Prezes Urzędu Ochrony Da‐
+nych Osobowych uznał za prawidłowe rozstrzygnięcie zawarte w decyzji z dnia 18 maja
+2017 r. (sygn. DOLiS/DEC-604/17/40572,40578) i podtrzymuje je w całości.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_25/content
+
+2025-09-03 13:42
+

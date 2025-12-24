@@ -1,0 +1,277 @@
+Warszawa, 27 kwietnia 2022
+PRAWOMOCNA
+
+Decyzja
+DS.523.7376.2021
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r. poz. 735 ze zm.) oraz art. 9 ust 1, art. 58 ust. 2 lit. b,
+lit. g Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia
+2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobo‐
+wych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/
+WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz.
+Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pani K. G. (T…),
+na nieprawidłowości w procesie przetwarzania jej danych osobowych przez C. Z. T. Sp. z
+o.o. (T…), polegające na udostępnieniu danych o stanie zdrowia zawartych na drukach
+skierowań na badania kontrolne z (…) i (…) lipca 2021 r. osobom nieupoważnionym i
+przetwarzaniu tych danych bez podstawy prawnej, Prezes Urzędu Ochrony Danych Oso‐
+bowych
+1. udziela upomnienia C. Z. T. Sp. z o.o. (T…) za nieprawidłowości w procesie przetwa‐
+rzania danych osobowych Pani K. G. (T…), polegające na naruszeniu art. 9 ust. 1
+Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia
+2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych oso‐
+bowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy
+95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z
+4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z
+4.03.2021, str. 35) poprzez przetwarzanie jej danych osobowych dotyczących zdro‐
+wia bez podstawy prawnej, w tym udostępnienie tych danych na rzecz osoby nie‐
+uprawnionej, tj. Kierownika Działu Kadr i Płac Spółki, (…);
+2. nakazuje usunięcie danych osobowych Pani K. G. (T…), utrwalonych na drukach
+skierowań na badania profilaktyczne z (…) i (…) lipca 2021 r. poprzez
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7376/content
+
+2025-09-03 13:40
+
+Decyzja DS.523.7376.2021
+
+Strona 2 z 6
+
+zanonimizowanie informacji „Pracownik podaje, że przebywał na zwolnieniu z powo‐
+du niezdolności do pracy spowodowanej złym stanem psychicznym (zwolnienie wy‐
+stawione przez lekarza psychiatrę). Proszę o skierowanie pracownika na konsultację
+psychologiczną (psychiatryczną)”.
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pani K. G. (T…) [dalej Skarżą‐
+ca], na nieprawidłowości w procesie przetwarzania jej danych osobowych przez C. Z. T.
+Sp. z o.o. (T…) [dalej Spółka], polegające na udostępnieniu danych o stanie zdrowia
+Skarżącej zawartych na drukach skierowań na badania kontrolne z (…) i (…) lipca 2021 r.
+osobom nieupoważnionym i przetwarzaniu tych danych bez podstawy prawnej.
+W związku z powyższym, Skarżąca wniosła o cyt.: „(…) podjęcie działań w celu usunięcia
+moich danych wrażliwych z dokumentacji kadrowej, oraz, w związku z zignorowaniem w/
+w zawiadomienia do Inspektora Danych Osobowych, wnoszę o nałożenie adekwatnej
+kary na Administratora Danych Osobowych”.
+W toku prowadzonego postępowania administracyjnego, Prezes Urzędu Ochrony Danych
+Osobowych ustalił następujący stan faktyczny.
+1. Skarżąca jest pracownikiem Spółki i w dacie skierowań na badania lekarskie kontrol‐
+ne zatrudniona była na stanowisku (…) – dowód: pismo Spółki z (…) grudnia 2021 r.,
+pismo Skarżącej z (…) listopada 2021 r. wraz z załącznikami.
+2. Skarżąca w 2021 r. przebywała na zwolnieniu chorobowym trwającym ponad 30 dni,
+w związku z czym po ustaniu niezdolności do pracy (na podstawie art. 229 § 2 ko‐
+deksu pracy) została skierowana przez pracodawcę na kontrolne badania lekarskie –
+dowód: pismo Spółki z (…) grudnia 2021 r.
+3. Skierowania na badania lekarskie z (…) i (…) lipca 2021 r. zawierają adnotację cyt.
+„Pracownik podaje, że przebywał na zwolnieniu z powodu niezdolności do pracy spo‐
+wodowanej złym stanem psychicznym (zwolnienie wystawione przez lekarza psy‐
+chiatrę). Proszę o skierowanie pracownika na konsultację psychologiczną (psychia‐
+tryczną)” [dalej adnotacja] – dowód: pismo Skarżącej z (…) listopada 2021 r. wraz z
+załącznikami.
+4. Spółka w swoich wyjaśnianiach wskazała, że adnotacja zawarta na drukach skiero‐
+wań na badania kontrolne z (…) i (…) lipca 2021 r. wynikała z informacji przekazy‐
+wanych przez Skarżącą w trakcie jej przebywania na zwolnieniu lekarskim, w trakcie
+którego z własnej inicjatywy informowała zarówno pracodawcę, jak i współpracowni‐
+ków o swoim stanie zdrowia, podając m.in. z jakiego rodzaju leczenia specjalistycz‐
+nego korzysta i że z uwagi na zły stan psychiczny nie jest w stanie wykonywać pra‐
+cy. Spółka w swoich wyjaśnieniach wskazała, że Skarżąca poinformowała ją także, że
+z powodu złego stanu zdrowia składa rezygnację z pracy na stanowisku (…). Stad
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7376/content
+
+2025-09-03 13:40
+
+Decyzja DS.523.7376.2021
+
+5.
+
+6.
+
+Strona 3 z 6
+
+też Spółka uznała, że celowość przeprowadzenia konsultacji lekarskiej była uzasad‐
+niona, także rodzajem zadań i zakresem odpowiedzialności wiążących się z zajmo‐
+wanym przez nią stanowiskiem – pismo Spółki z (…) grudnia 2021 r.
+Spółka w swoich wyjaśnieniach wskazała, że czynności formalno-prawne Spółki do‐
+tyczące pracowników Spółki są wykonywane za pośrednictwem Działu (…). Skiero‐
+wanie na badania kontrolne Skarżącej zostało wystawione przez Spółkę i przekazane
+Skarżącej przez kierownika ww. Działu (…) (dalej: Kierownik) – dowód: pismo z (…)
+lutego 2022 r.
+Kierownikowi (…) maja 2018 r. wydane zostało przez Spółkę upoważnienie do prze‐
+twarzania danych osobowych nr (…), które obejmuje uprawnienie do przetwarzania
+danych pracowników i osób współpracujących dostępnych w zasobach elektronicz‐
+nych Spółki jak również w aktach osobowych – dowód: pismo Spółki z (…) lutego
+2022 r. wraz z załącznikiem.
+
+Po zapoznaniu się ze zgromadzonym materiałem dowodowym Prezes Urzędu Ochrony
+Danych Osobowych zważył, co następuje.
+Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016
+r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i
+w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+(ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz.
+Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35) [dalej;
+RODO] określa obowiązki administratora, do których należy przetwarzanie danych oso‐
+bowych z zachowaniem przesłanek określonych w tym rozporządzeniu. Przepisem
+uprawniającym administratorów do przetwarzania danych osób fizycznych jest art. 6 ust.
+1 RODO, zgodnie z którym, przetwarzanie danych jest dopuszczalne tylko wtedy, gdy
+spełniona jest jedna z przesłanek wskazanych w tym przepisie. Natomiast przesłanki le‐
+galności przetwarzania szczególnych kategorii danych osobowych, w tym danych osobo‐
+wych dotyczących zdrowia, określone zostały w art. 9 ust. 2 RODO. Katalog przesłanek
+wymienionych w art. 6 ust. 1 i art. 9 ust. 2 RODO, jest zamknięty. Każda z przesłanek le‐
+galizujących proces przetwarzania danych osobowych ma charakter autonomiczny i nie‐
+zależny. Oznacza to, że przesłanki te co do zasady są równoprawne, a wobec tego speł‐
+nienie co najmniej jednej z nich stanowi o zgodnym z prawem przetwarzaniu danych
+osobowych. W konsekwencji zgoda osoby, której dane dotyczą nie jest jedyną podstawą
+przetwarzania danych osobowych, bowiem proces przetwarzania danych będzie zgodny
+z RODO również wówczas, gdy administrator wykaże spełnienie innej z wyżej wymienio‐
+nych przesłanek. Ponadto zgodnie z art. 5 ust. 1 lit. a RODO, dane osobowe muszą być
+przetwarzane zgodnie z prawem, rzetelnie i w sposób przejrzysty dla osoby, której dane
+dotyczą („zgodność z prawem, rzetelność i przejrzystość”).
+Przedmiotem niniejszego postepowania jest udostępnienie szczególnej kategorii danych
+osobowych Skarżącej przez Spółkę na rzecz osób nieuprawnionych, tj. informacji doty‐
+czących poddania się badaniom z zakresu medycyny pracy i przetwarzaniu tych danych
+przez Spółkę bez podstawy prawnej.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7376/content
+
+2025-09-03 13:40
+
+Decyzja DS.523.7376.2021
+
+Strona 4 z 6
+
+Odnosząc się do aspektu przetwarzania danych osobowych Skarżącej na druku skierowa‐
+nia na badania profilaktyczne z (…) i (…) lipca 2021 r., wskazać należy, że kwestia pra‐
+cowniczych badań profilaktycznych unormowana została m.in. w przepisach ustawy z
+dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2020 r. poz. 1320, z późn. zm) [dalej: k.p]
+oraz w rozporządzeniu Ministra Zdrowia i Opieki Społecznej z dnia 30 maja 1996 r. w
+sprawie przeprowadzania badań lekarskich pracowników, zakresu profilaktycznej opieki
+zdrowotnej nad pracownikami oraz orzeczeń lekarskich wydawanych do celów
+przewidzianych w Kodeksie pracy (Dz.U. 2016 poz. 2067 ze zm.) [dalej: r.b.l.p.]. Należy
+wskazać, że art. 229 k.p., zobowiązuje pracodawcę do kierowania pracowników na
+wstępne, okresowe i kontrolne badania lekarskie. Pracodawca, zgodnie art. 229 § 4 k.p.,
+nie może dopuścić do pracy pracownika bez aktualnego orzeczenia lekarskiego stwier‐
+dzającego brak przeciwwskazań do pracy na określonym stanowisku w warunkach pracy
+opisanych w skierowaniu na badania lekarskie, które jak wynika z art. 229 § 4a k.p.,
+przeprowadza się na podstawie skierowania wydanego przez pracodawcę.
+Wskazać należy, że zakres wstępnych, okresowych i kontrolnych badań lekarskich pra‐
+cowników, tryb ich przeprowadzania oraz sposób dokumentowania i kontroli tych badań
+określony został w przepisach r.b.l.p. Zgodnie z § 4 ust 1 r.b.l.p. badanie profilaktyczne
+przeprowadza się na podstawie skierowania wydanego przez pracodawcę. Skierowanie,
+o którym mowa w ust. 1, jest wydawane w dwóch egzemplarzach, z których jeden otrzy‐
+muje osoba kierowana na badania. Skierowanie, zgodnie z ust. 2 tego przepisu, powinno
+zawierać: określenie rodzaju badania profilaktycznego, jakie ma być wykonane (pkt 1), w
+przypadku osób przyjmowanych do pracy lub pracowników przenoszonych na inne sta‐
+nowiska pracy - określenie stanowiska pracy, na którym osoba ta ma być zatrudniona; w
+tym przypadku pracodawca może wskazać w skierowaniu dwa lub więcej stanowisk pra‐
+cy, w kolejności odpowiadającej potrzebom zakładu (pkt 2), w przypadku pracowników określenie stanowiska pracy, na którym pracownik jest zatrudniony (pkt 3), opis warun‐
+ków pracy uwzględniający informacje o występowaniu na stanowisku lub stanowiskach
+pracy, o których mowa w pkt 2 i 3, czynników niebezpiecznych, szkodliwych dla zdrowia
+lub czynników uciążliwych i innych wynikających ze sposobu wykonywania pracy, z po‐
+daniem wielkości narażenia oraz aktualnych wyników badań i pomiarów czynników szko‐
+dliwych dla zdrowia, wykonanych na tych stanowiskach (pkt 4). Wzór skierowania na ba‐
+dania profilaktyczne (wstępne, okresowe, kontrolne), określony został w Załączniku nr 3a
+do r.b.l.p. (§ 4 ust. 3 r.b.l.p.).
+Należy zaznaczyć, że zakres danych, które należy wskazać w treści ww. załącznika nie
+obejmuje informacji o stanie zdrowia (w tym o stanie zdrowia psychicznego) kierowane‐
+go pracownika. Podkreślić należy, że dane dotyczące rodzaju badań profilaktycznych sta‐
+nowią dane nadmiarowe dla pracodawcy, do przetwarzania których nie jest on uprawnio‐
+ny. Należy zaznaczyć, że przepisy (m.in. art. 229 k.p.) nie uprawniają pracodawcy do we‐
+ryfikowania rodzaju przeprowadzanych badań czy wyników tych badań. Stąd też za bez‐
+podstawne uznać należy działanie Spółki polegające na zamieszczeniu na skierowaniu
+na badania profilaktyczne adnotacji dotyczącej podejrzewanej u Skarżącej choroby psy‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7376/content
+
+2025-09-03 13:40
+
+Decyzja DS.523.7376.2021
+
+Strona 5 z 6
+
+chicznej, na okoliczność której wystawione zostało zwolnienie przez lekarza psychiatrę.
+Wprawdzie pracodawca nie może dopuścić do pracy pracownika bez aktualnego orze‐
+czenia lekarskiego stwierdzającego brak przeciwwskazań do pracy na określonym stano‐
+wisku w warunkach pracy opisanych w skierowaniu na badania lekarskie, jednak przepi‐
+sy k.p. zezwalają tylko na wydanie pracodawcy zaświadczenia o braku przeciwwskazań
+lub też o przeciwwskazaniach zdrowotnych danego pracownika do pracy na określonym
+stanowisku. Tym samym niedopuszczalne jest przetwarzanie (w tym pozyskiwanie) przez
+pracodawcę innych informacji na temat pracownika, a w szczególności danych dotyczą‐
+cych jego stanu zdrowia/badań, w sytuacji takiej jak miała miejsce w omawianej sprawie,
+tj. w szczególności, gdy nie jest to uzasadnione rodzajem i zakresem świadczonej pracy,
+ponieważ pracodawca nie jest do tego uprawniony. Stąd też stwierdzić należy, że Spółka
+przy kierowaniu Skarżącej na badania profilaktyczne nie miała dowolności w zakresie
+kształtowania treści dokumentu skierowania. Podkreślić tym samym należy, że działanie
+Spółki polegające na umieszczeniu kwestionowanych przez Skarżącą adnotacji na dru‐
+kach skierowań nie znajdowało uzasadnienia w przepisach RODO i stanowiło naruszenie
+art. 9 ust. 2 RODO w zw. z art. 5 ust. 1 lit. a RODO.
+Odnosząc się natomiast do kwestii dostępu i upoważnienia dla osób do przetwarzania
+danych osobowych Skarżącej dotyczących jej stanu zdrowia, wskazać należy, że RODO
+nie wyłącza możliwości przetwarzania danych osobowych przez osobę fizyczną działają‐
+cą z ramienia administratora, niemniej przetwarzanie w tym wypadku musi być oparte
+na stosownym upoważnieniu. W niniejszej sprawie organ uznał za naruszające przepisy o
+ochronie danych osobowych przetwarzanie danych dotyczących zdrowia Skarżącej przez
+Kierownika (…) Pracodawcy, będącego osobą upoważnioną do działania w imieniu admi‐
+nistratora, w granicach przyznanego jej upoważnienia dla realizacji celów realizowanych
+przez tego administratora. Z materiału dowodowego zebranego w niniejszej sprawie wy‐
+nika, że (…) – Kierownik (…) nie była, w zakresie rozpatrywanej sprawy, uprawniona do
+przetwarzania danych osobowych Skarżącej dotyczących jej stanu zdrowia, które za‐
+mieszczone zostały na drukach skierowań z (…) i (…) lipca 2021 r. Stąd też, stwierdzić
+należy, że działanie Spółki polegające na udostępnieniu Pani K(…) S(…) danych o stanie
+zdrowia Skarżącej w kwestionowany przez nią sposób nie znajduje uzasadnienia w kon‐
+tekście art. 29 RODO, zgodnie z którym każda osoba działająca z upoważnienia admini‐
+stratora i mająca dostęp do danych osobowych przetwarza je wyłącznie na polecenie ad‐
+ministratora. Z udzielonego upoważnienia powinien wprost wynikać zakres przetwarza‐
+nych danych osobowych oraz cel przetwarzania, co znajduje potwierdzenie w komenta‐
+rzu P. Fajgielskiego do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem
+danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE [komentarz do art. 29 RODO] „Skoro określona osoba może działać
+z upoważnienia, to aby móc ustalić zakres tego upoważnienia, konieczne wydaje się jego
+sprecyzowanie. Prowadzi to do wniosku, że komentowany przepis może być odczytywa‐
+ny jako źródło obowiązku nadawania upoważnień osobom, które mają przetwarzać
+dane.”
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7376/content
+
+2025-09-03 13:40
+
+Decyzja DS.523.7376.2021
+
+Strona 6 z 6
+
+W niniejszej sprawie Pani K(…) S(…) nie była upoważniona na podstawie art. 29 RODO
+do przetwarzania danych osobowych Skarżącej, dotyczących jej stanu zdrowia w zakre‐
+sie informacji zamieszczonych na skierowaniach na badania profilaktyczne z (…) i (…)
+lipca 2021 r. Jednocześnie, jak już zostało stwierdzone, w zakresie rozpatrywanej sprawy,
+do przetwarzania tych danych nie była uprawniona również sama Spółka jako pracodaw‐
+ca Skarżącej, co sprawia, że upoważnienie nadane przez Spółkę, jako administratora nie
+stanowi o zgodnym z prawem przetwarzaniu danych osobowych Skarżącej przez osobę
+działającą z jego ramienia.
+Mając na uwadze powyższe, zarzut Skarżącej odnośnie udostępnienia danych dotyczą‐
+cych jej stanu zdrowia na rzecz osoby nieuprawnionej znajduje potwierdzenie w
+zebranym materiale dowodowym i stanowi naruszenie art. 9 ust. 1 RODO.
+Podsumowując należy wskazać, że zgromadzony w niniejszej sprawie materiał dowodo‐
+wy, w tym w szczególności wyjaśnienia Spółki nie wykazał, że legitymuje się ona jakąkol‐
+wiek z wymienionych w art. 9 ust. 2 RODO przesłanek legalności przetwarzania. Mając
+powyższe na względzie, podnieść należy, że ocena dokonywana przez Prezesa UODO w
+każdym przypadku służy zbadaniu zasadności skierowania pod adresem określonego
+podmiotu nakazu odpowiadającego dyspozycji art. 58 ust. 2 RODO służącego przywróce‐
+niu stanu zgodnego z prawem w procesie przetwarzania danych - jest więc ona uzasad‐
+niona i potrzebna tylko o tyle, o ile nieprawidłowości w procesie przetwarzania danych
+osobowych istnieją. W przedmiotowej sprawie w ocenie Prezesa Urzędu Spółka nieprawi‐
+dłowo przetwarza dane osobowe Skarżącej w zakresie informacji dotyczących jej stanu
+zdrowia. W konsekwencji Prezes Urzędu uznał, iż w realiach niniejszej sprawy właściwe
+jest zastosowanie wobec Spółki uprawnień naprawczych poprzez nakazanie usunięcia
+danych osobowych Skarżącej, utrwalonych na druku skierowania na badania profilak‐
+tyczne z (…) oraz (…) lipca 2021 r., a także udzielenia Spółce upomnienia za naruszenie
+art. 9 ust. 1 RODO, polegające na przetwarzaniu danych osobowych Skarżącej dotyczą‐
+cych zdrowia bez podstawy prawnej, w tym ich udostępnieniu na rzecz osoby nieupraw‐
+nionej.
+W tym stanie faktycznym i prawnym, Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_7376/content
+
+2025-09-03 13:40
+

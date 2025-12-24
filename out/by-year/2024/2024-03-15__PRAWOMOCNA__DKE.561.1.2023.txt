@@ -1,0 +1,565 @@
+Warszawa, 15 marca 2024
+PRAWOMOCNA
+
+Decyzja
+DKE.561.1.2023
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2023 r., poz. 775 ze zm.) w związku z art. 7 ust. 1 i 2, art. 60
+ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781
+t.j.) oraz na podstawie art. 57 ust. 1 lit. a) i h), art. 58 ust. 2 lit. b) w związku z art. 31
+oraz art. 58 ust. 1 lit. a) i e) Rozporządzenia Parlamentu Europejskiego i Rady UE
+2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz.
+UE L 119 z 4 maja 2016, str. 1, ze zmianami ogłoszonymi w Dz. Urz. UE L 127 z 23 maja
+2018, str. 2, oraz w Dz. Urz. UE L 74 z 4 marca 2021, str. 35), zwanego dalej „Rozporzą‐
+dzeniem 2016/679”,
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w przedmio‐
+cie nałożenia administracyjnej kary pieniężnej na H. Sp. z o.o. z siedzibą we W. przy ul.
+(…), Prezes Urzędu Ochrony Danych Osobowych,
+udziela H. Sp. z o.o. z siedzibą we W. przy ul. (…) upomnienia za naruszenie przepisów
+art. 31 oraz art. 58 ust. 1 lit. a) i e) Rozporządzenia 2016/679, polegające na braku
+współpracy z Prezesem Urzędu Ochrony Danych Osobowych w ramach wykonywania
+przez niego jego zadań oraz na niezapewnieniu Prezesowi Urzędu Ochrony Danych Oso‐
+bowych dostępu do danych osobowych i informacji niezbędnych do realizacji jego zadań
+w postępowaniach o sygn. (…). (…), (…), (…).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 2 z 12
+
+Uzasadnienie
+
+Stan faktyczny
+Do Prezesa Urzędu Ochrony Danych Osobowych (zwanego dalej „Prezesem UODO”, „Or‐
+ganem”) w dniu 25 października 2022 r. wpłynęła skarga Pana A. K., zam. w W. przy (…)
+(zwanego dalej „Skarżącym”) na nieprawidłowości w procesie przetwarzania jego da‐
+nych osobowych przez H. Sp. z o.o. z siedzibą w W. przy ul. (…) (zwanej dalej „Spółką”)
+polegające na opublikowaniu danych osobowych Skarżącego na internetowej giełdzie
+wierzytelności bez podstawy prawnej. W związku z powyższym, celem rozpatrzenia za‐
+rzutów podnoszonych przez Skarżącego, Prezes UODO wszczął postępowanie
+wyjaśniające o sygn. (…).
+W ramach wyżej wskazanego postępowania – działając na podstawie art. 58 ust. 1 lit. a)
+i e) Rozporządzenia 2016/679 – Prezes UODO pismem z 9 listopada 2022 r. wezwał
+Spółkę do wskazania:
+„
+1) czy, a jeżeli tak, to kiedy, na jakiej podstawie prawnej (proszę o wskazanie kon‐
+kretnego przepisu/-ów prawa), w jakim celu oraz zakresie Spółka pozyskała
+dane osobowe Skarżącego;
+2) czy, a jeśli tak, to na jakiej podstawie prawnej (proszę o wskazanie konkretnych
+przepisów prawa), w jakim celu oraz zakresie Spółka aktualnie przetwarza dane
+Skarżącego (należy przesłać kopię dokumentacji wykazującej uprawnienie do
+przetwarzania danych osobowych Skarżącego, w wersji niezawierającej informa‐
+cji stanowiących tajemnicę przedsiębiorstwa). Uwaga: Jeżeli dane osobowe
+przetwarzane są na podstawie art. 6 ust. 1 lit. c) RODO należy wskazać konkret‐
+ny przepis prawa, z którego wynika obowiązek przetwarzania danych;
+3) czy, a jeżeli tak, to kiedy, na jakiej podstawie prawnej (proszę o wskazanie kon‐
+kretnego przepisu/-ów prawa), w jakim celu oraz zakresie Spółka opublikowała
+dane osobowe Skarżącego na internetowej giełdzie długów;
+4) czy Skarżący zwrócił się do Spółki z wnioskiem o usunięcie jego danych osobo‐
+wych opublikowanych na internetowej giełdzie wierzytelności, a jeżeli tak, to w
+jaki sposób Spółka ustosunkowała się do powyższego (należy załączyć pełną
+korespondencję w tym zakresie).”
+Wezwanie to skierowane zostało na adres siedziby Spółki ujawniony w Krajowym Reje‐
+strze Sądowym, tj. ul. (…) W. i zostało jej doręczone w dniu 14 listopada 2022 r. Pomimo
+powzięcia informacji przez Spółkę o toczącym się postępowaniu o sygn. (…), Spółka nie
+udzieliła odpowiedzi na ww. wezwanie Prezesa UODO.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 3 z 12
+
+W związku z powyższym Prezes UODO ponownie – pismem z 6 grudnia 2022 r. – zwrócił
+się do Spółki do ustosunkowania się do treści skargi i do złożenia wyjaśnień w sprawie o
+sygn. (…) w postaci udzielenia odpowiedzi na pytania zawarte w wezwaniu z 9 listopada
+2022 r. (zob. pkt 2 uzasadnienia niniejszej decyzji). Pismem tym Spółka została pouczo‐
+na o konsekwencjach złożenia niewyczerpujących wyjaśnień w sprawie, czyli o możliwo‐
+ści nałożenia na nią administracyjnej kary pieniężnej zgodnie z art. 83 ust. 4 lit. a) oraz
+art. 83 ust. 5 lit. e) Rozporządzenia 2016/679. Analogicznie jak w przypadku pierwszego
+wezwania, wezwanie z 6 grudnia 2022 r. zostało doręczone na adres siedziby Spółki w
+dniu 12 grudnia 2022 r.
+W odpowiedzi na powyższe wezwanie pismem z 21 listopada 2022 r., które wpłynęło w
+dniu 18 stycznia 2023 r. do Urzędu Ochrony Danych Osobowych, Spółka udzieliła wyja‐
+śnień. W ich treści wskazała skąd pozyskała dane osobowe Skarżącego, a także poinfor‐
+mowała Prezesa UODO w jakim celu oraz na jakiej podstawie przetwarza dane osobowe
+Skarżącego. Na niniejszym piśmie widniała pieczęć Prezesa Zarządu Spółki – Pana (…),
+lecz pismo to nie zostało opatrzone podpisem osoby uprawnionej do jej reprezentacji.
+W odpowiedzi na powyższe pismo Spółki (zob. pkt 4 uzasadnienia niniejszej decyzji) Pre‐
+zes UODO wezwał Spółkę pismem z 19 stycznia 2023 r. na podstawie art. 64 § 2 ustawy
+z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r., poz.
+775 ze zm.) (zwanej dalej „k.p.a.”) do usunięcia braków formalnych podania w postaci
+braku podpisu oraz ponownie wezwał Spółkę do ustosunkowania się do treści skargi oraz
+do złożenia wyjaśnień w postaci udzielenia odpowiedzi na pytania zawarte w wezwa‐
+niach Organu z 9 listopada 2022 r. i 6 grudnia 2022 r. (zob. pkt 2 – 3 uzasadnienia niniej‐
+szej decyzji), a także do przedłożenia dokumentacji, o której Spółka wspomniała w wyja‐
+śnieniach z 21 listopada 2022 r. W ramach niniejszego wezwania Spółka została poinfor‐
+mowana, że nieuzupełnienie podpisu spowoduje nieuwzględnienie jej wyjaśnień z 21 li‐
+stopada 2022 r. oraz została pouczona o treści art. 83 ust. 4 lit. a) oraz art. 83 ust. 5 lit.
+e) Rozporządzenia 2016/679 (zob. pkt 3 uzasadnienia niniejszej decyzji).
+Wezwanie to zostało skierowane na adres siedziby Spółki i zostało jej doręczone w dniu
+23 stycznia 2023 r. Powyższe nie doprowadziło do usunięcia przez Spółkę braków
+formalnych podania, do czego Spółka była wzywana.
+Ponadto do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pana B. G., Pana K. W.
+oraz Pana M. C. (zwanych razem: „Skarżącymi”), na nieprawidłowości w procesie prze‐
+twarzania ich danych osobowych przez Spółkę, polegające na niespełnieniu wobec nich
+obowiązku informacyjnego wynikającego z art. 15 Rozporządzenia 2016/679. W związku
+z powyższym, Prezes UODO wszczął postępowania wyjaśniające o sygn. (…), (…) oraz
+(…).
+W ramach wyżej wskazanych postępowań, w których Skarżącymi są odpowiednio: Pan M.
+C., Pan K. W. oraz Pan B. G., Prezes UODO zwrócił się do Spółki w dniu 17 grudnia 2021
+r., wzywając ją do ustosunkowania do treści skargi oraz do złożenia wyjaśnień poprzez
+udzielenie odpowiedzi na następujące pytania:
+„
+1)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 4 z 12
+
+kiedy (proszę wskazać dokładną datę), na jakiej podstawie prawnej (proszę o
+wskazanie konkretnego przepisu/-ów prawa), w jakim celu i w jakim zakresie
+(proszę wymienić kategorie/rodzaje danych) H. pozyskał dane osobowe Skarżą‐
+cego;
+2) czy, a jeśli tak, to na jakiej podstawie prawnej (proszę o wskazanie konkretnego
+przepisu/-ów prawa), w jakim celu, w jakim zakresie (proszę wymienić katego‐
+rie/rodzaje danych), H. aktualnie przetwarza dane osobowe Skarżącego;
+3) czy Skarżący zwracał się do H. z żądaniem spełnienia wobec niego obowiązku
+informacyjnego wynikającego z art. 15 RODO, a jeśli tak, to jaka była odpowiedź
+H. (proszę o przesłanie korespondencji prowadzonej ze Skarżącym w ww. zakre‐
+sie)”.
+Niniejsze wezwania skierowane zostały na adres siedziby Spółki i zostały jej doręczone w
+dniu 22 grudnia 2021 r.
+Do Urzędu Ochrony Danych Osobowych wpłynęły w dniu 10 stycznia 2022 r. odpowiedzi
+Spółki, w ramach których Spółka w sposób lakoniczny wskazała skąd pozyskała dane
+osobowe Skarżących, oświadczając jednocześnie, że Spółka nie przetwarza ich danych
+osobowych, a także poinformowała o przesłaniu w dniu 9 czerwca 2021 r. Skarżącym
+klauzuli informacyjnej, która była załączona do wezwania do zapłaty. Do powyższej kore‐
+spondencji Spółka nie załączyła dowodów w postaci pocztowych potwierdzeń nadania
+korespondencji, pomimo wykazania w treści wyjaśnień takiego załącznika.
+Wobec powyższego w dniu 19 grudnia 2022 r. Prezes UODO skierował do Spółki wezwa‐
+nia do uzupełnienia wyjaśnień i ustosunkowania się do treści skargi, w szczególności po‐
+przez udzielenie odpowiedzi na pytania nr 1) – 3) (zob. pkt 7 uzasadnienia niniejszej
+decyzji) oraz do przesłania „pocztowego potwierdzenia nadania” oraz klauzuli informa‐
+cyjnej, o których Spółka wspomniała w wyjaśnieniach z 23 grudnia 2021 r. (zob. pkt 8
+uzasadnienia niniejszej decyzji). Niniejszymi pismami Spółka została pouczona o treści
+art. 83 ust. 4 lit. a) oraz art. 83 ust. 5 lit. e) Rozporządzenia 2016/679 w sytuacji złożenia
+niewyczerpujących wyjaśnień (zob. pkt 3 i 5 uzasadnienia niniejszej decyzji).
+Wezwania te zostały skierowane na adres siedziby Spółki (zob. pkt 2 – 3 uzasadnienia ni‐
+niejszej decyzji) i po bezskutecznej awizacji zostały zwrócone do Urzędu Ochrony Danych
+Osobowych w dniu 16 stycznia 2023 r. (w przypadku postępowań o sygn. (…) i (…)) oraz
+w dniu 17 stycznia 2023 r. (w przypadku postępowania o sygn. (…)) z adnotacją
+„ZWROT, nie podjęto w terminie”, a zatem zostały uznane za prawidłowo doręczone
+Spółce stosownie do brzmienia art. 44 k.p.a.
+Wobec braku odpowiedzi Spółki na pisma z 19 grudnia 2022 r., Prezes UODO w dniu 19
+stycznia 2023 r. ponownie skierował do Spółki wezwania do ustosunkowania się do treści
+skargi oraz do uzupełnienia wyjaśnień poprzez udzielenie odpowiedzi na pytania zawarte
+w pismach z 19 grudnia 2022 r. (zob. pkt 9 uzasadnienia niniejszej decyzji). Analogicznie
+jak w przypadku pism z 19 grudnia 2022 r. Spółka została pouczona o treści art. 83 ust. 4
+lit. a ) oraz art. 83 ust. 5 lit. e) Rozporządzenia 2016/679 (zob. pkt 9 uzasadnienia niniej‐
+szej decyzji). Powyższa korespondencja została doręczona Spółce pod aktualnym adre‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 5 z 12
+
+sem jej siedziby w dniu 23 stycznia 2023 r., lecz nie doprowadziła do złożenia przez
+Spółkę wyjaśnień w niniejszych postępowaniach.
+Okoliczności stanu faktycznego Prezes UODO ustalił na podstawie całokształtu korespon‐
+dencji urzędowej, którą Prezes UODO kierował do Spółki, która znajduje się w aktach
+sprawy o sygn. (…), (…), (…) oraz (…). Korespondencja ta dokumentuje w sposób pełny i
+wyczerpujący całokształt prób uzyskania przez Prezesa UODO dostępu do danych osobo‐
+wych i informacji potrzebnych do realizacji swoich zadań – w tym przypadku do rozpa‐
+trzenia spraw o sygn. (…), (…), (…) oraz (…), a z drugiej strony odzwierciedla brak
+reakcji Spółki na żądania Prezesa UODO.
+
+Postępowanie
+W związku z nieudzieleniem przez Spółkę informacji niezbędnych do rozstrzygnięcia
+sprawy o sygn. (…), Prezes UODO wszczął wobec niej z urzędu – na podstawie art. 83
+ust. 4 lit. a) oraz 83 ust. 5 lit. e) Rozporządzenia 2016/679 – niniejsze postępowanie ad‐
+ministracyjne o sygn. DKE.561.1.2023 w przedmiocie nałożenia na Spółkę administracyj‐
+nej kary pieniężnej za naruszenie art. 31 oraz art. 58 ust. 1 lit. a) i e) Rozporządzenia
+2016/679. O wszczęciu postępowania Spółka poinformowana została pismem z 16 lutego
+2023 r. (znak: DKE.561.1.2023). Korespondencja ta, skierowana na adres siedziby Spółki
+została doręczona w dniu 20 lutego 2023 r. Pismem tym Spółka wezwana została, celem
+ustalenia podstawy wymiaru administracyjnej kary pieniężnej w oparciu o art. 101a ust.
+1 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz.
+1781 t.j., zwanej dalej „u.o.d.o.”), do przedstawienia sprawozdania finansowego lub in‐
+nego dokumentu przedstawiającego wysokość obrotu i wyniku finansowego osiągniętego
+przez nią w roku 2022. Spółka poinformowana została, na czym polega zarzucane jej na‐
+ruszenie; została również pouczona o sankcjach grożących za to naruszenie, a także o
+istniejącej nadal możliwości złożenia wyjaśnień, których żądał od niej Prezes UODO w po‐
+stępowaniu o sygn. (…), co mogłoby wpłynąć łagodząco na wymiar administracyjnej
+kary pieniężnej orzeczonej w niniejszej sprawie. Ponadto Spółka poinformowana została
+o możliwości wypowiedzenia się – przed wydaniem decyzji administracyjnej, co do
+zebranych dowodów i materiałów oraz zgłoszonych żądań.
+Natomiast nieudzielenie przez Spółkę informacji niezbędnych do rozstrzygnięcia spraw
+rozpoznawanych pod sygn. (…), (…) oraz (…) doprowadziło do rozszerzenia przez Preze‐
+sa UODO przedmiotu postępowania administracyjnego o sygn. DKE.561.1.2023 o postę‐
+powania administracyjne rozpoznawane pod sygn. (…), (…) oraz (…). O powyższym
+Spółka została poinformowana pismem z 21 marca 2023 r., które zostało doręczone na
+adres jej siedziby w dniu 27 marca 2023 r. Analogicznie jak w przypadku informacji o
+wszczęciu postępowania i o zgromadzeniu materiału dowodowego z 16 lutego 2023 r.
+(zob. pkt 12 uzasadnienia niniejszej decyzji), pismem z 21 marca 2023 r. Spółka wezwa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 6 z 12
+
+na została, celem ustalenia podstawy wymiaru administracyjnej kary pieniężnej w opar‐
+ciu o art. 101a ust. 1 u.o.d.o., do przedstawienia sprawozdania finansowego lub innego
+dokumentu przedstawiającego wysokość obrotu i wyniku finansowego osiągniętego
+przez nią w roku 2022. Ponadto poinformowana została na czym polega zarzucane jej
+naruszenie, pouczona została o sankcjach grożących za to naruszenie, a także o istnieją‐
+cej nadal możliwości złożenia wyjaśnień, których żądał od niej Prezes UODO w postępo‐
+waniach o sygn. (…), (…) oraz (…), co mogłoby wpłynąć łagodząco na wymiar admini‐
+stracyjnej kary pieniężnej orzeczonej w niniejszej sprawie. Spółka poinformowana zosta‐
+ła również o możliwości wypowiedzenia się – przed wydaniem decyzji administracyjnej,
+co do zebranych dowodów i materiałów oraz zgłoszonych żądań.
+W związku z brakiem odpowiedzi Spółki zarówno na pismo z 16 lutego 2023 r., jak i na
+pismo z 21 marca 2023 r., w dniu 10 maja 2023 r. pracownik Departamentu (…) Urzędu
+Ochrony Danych Osobowych skierował – za pośrednictwem poczty elektronicznej na ad‐
+res: (…) – wiadomość do Spółki z prośbą o pilny kontakt w sprawie o sygn. DKE.
+561.1.2023. Powyższa czynność doprowadziła do kontaktu pracownika Spółki z Urzędem
+Ochrony Danych Osobowych, w ramach którego pracownik Spółki zobowiązał się w jej
+imieniu do niezwłocznej odpowiedzi na niniejszą korespondencję w postępowaniu o
+sygn. DKE.561.1.2023. Odpowiedź ta wpłynęła do Urzędu Ochrony Danych Osobowych
+dopiero w dniu 2 czerwca 2023 r., po ponagleniu pracownika Departamentu (…) Urzędu
+Ochrony Danych Osobowych skierowanym w dniu 24 maja 2023 r. za pośrednictwem
+poczty elektronicznej. Wyjaśnienia Spółki stanowiły odpowiedź jedynie na informację o
+rozszerzeniu przedmiotu postępowania i o zgromadzeniu materiału dowodowego z 21
+marca 2023 r. (zob. pkt 13 uzasadnienia niniejszej decyzji). W ramach wyjaśnień Spółka
+poinformowała Prezesa UODO skąd pozyskała dane osobowe Skarżących, w jakim celu
+zostały powierzone jej dane osobowe Skarżących, wskazała podstawę prawną oraz okre‐
+śliła ramy czasowe przetwarzania danych osobowych Skarżących. Ponadto Spółka
+oświadczyła, że spełniła obowiązek informacyjny podczas rozmowy telefonicznej pracow‐
+nika Spółki ze Skarżącymi. W ramach niniejszej odpowiedzi Spółka podjęła próbę uspra‐
+wiedliwienia swojego zachowania polegającego na braku współpracy z organem
+nadzorczym, wskazując, że nastąpiło „(…) przeoczenie pracownika, który pod wpływem
+długofalowych zmian kadrowych nie wywiązał się ze swoich obowiązków”. Do niniejszych
+wyjaśnień Spółka załączyła kopię umowy (…) z dnia 2 czerwca 2021 r. oraz w celu speł‐
+nienia obowiązku wynikającego z art. 101a ust. 1 u.o.d.o. załączyła kopię sprawozdania
+finansowego za rok obrotowy 2022.
+Wobec niepełnych wyjaśnień Spółki, które wpłynęły do Urzędu Ochrony Danych Osobo‐
+wych w dniu 2 czerwca 2023 r. (zob. pkt 14 uzasadnienia niniejszej decyzji) Prezes UODO
+wezwał ją w dniu 12 czerwca 2023 r. do uzupełnienia wyjaśnień, w szczególności do
+udzielenia odpowiedzi na pytania o nr 3) zadane w wezwaniach do złożenia wyjaśnień z
+17 grudnia 2021 r. (zob. pkt 7 uzasadnienia niniejszej decyzji) oraz do przedłożenia do‐
+wodów, co do których Spółka wypowiedziała się w pismach z 23 grudnia 2021 r. (zob.
+pkt 8 – 9 uzasadnienia niniejszej decyzji). Ponadto w związku z brakiem wyjaśnień Spółki
+w sprawie o sygn. (…), Organ wezwał ją do uzupełnienia wyjaśnień w postaci udzielenia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 7 z 12
+
+odpowiedzi na pytania zadane w piśmie Prezesa UODO z 9 listopada 2022 r. (zob. pkt 2
+uzasadnienia niniejszej decyzji) w terminie 7 dni od dnia otrzymania niniejszego
+wezwania do uzupełnienia wyjaśnień.
+Wezwanie to zostało doręczone Spółce pod adresem jej siedziby w dniu 15 czerwca 2023
+r.
+W dniu 26 czerwca 2023 r. wpłynęły do Urzędu Ochrony Danych Osobowych wyjaśnienia
+Spółki, w ramach których Spółka wskazała, że spełniła wobec Skarżących obowiązek in‐
+formacyjny poprzez skierowanie do Skarżących wezwania do zapłaty wraz z klauzulą in‐
+formacyjną. Z uwagi na nadanie niniejszych pism w dniu 9 czerwca 2021 r. Spółka
+oświadczyła, że nie ma możliwości wygenerowania potwierdzenia nadania ww. korespon‐
+dencji. Ponadto Spółka poinformowała, że wpłynęły do niej żądania Skarżących w przed‐
+miocie spełnienia obowiązku informacyjnego. W celu uprawdopodobnienia swoich twier‐
+dzeń Spółka załączyła do wyjaśnień kopię wezwania do zapłaty z 8 czerwca 2021 r. wraz
+z klauzulą informacyjną, wydruk korespondencji e-mail przeprowadzonej z pracownikiem
+Poczty Polskiej S.A. oraz kopię wniosków Skarżących skierowanych w dniu 20 lipca 2021
+r. do H. Sp. z o.o. z siedzibą we W. Ponadto do niniejszego pisma Spółka przedłożyła wy‐
+jaśnienia, które wpłynęły w dniu 28 czerwca 2023 r. do sprawy o sygn. (…). W treści tych
+wyjaśnień Spółka wskazała, że pozyskała dane osobowe Skarżącego na podstawie Ogól‐
+nych Warunków Umowy (…) z dnia 18 lipca 2022 r. W ramach niniejszej umowy Skarżący
+zlecił H. Sp. z o.o. z siedzibą we W. dochodzenie swoich roszczeń. Spółka przedstawiła na
+jakiej podstawie przetwarza dane osobowe Skarżącego, poinformowała, że spełniła obo‐
+wiązek informacyjny wobec Skarżącego za pośrednictwem wezwania do zapłaty z dnia
+19 października 2022 r. oraz wskazała, że Skarżący zwrócił się do niej wiadomością email z 19 października 2022 r. z wnioskiem w przedmiocie usunięcia jego danych osobo‐
+wych opublikowanych na internetowej giełdzie wierzytelności. Do niniejszych wyjaśnień
+została załączona kopia umowy (…) z dnia 18 lipca 2022 r., kopia (…) z dnia 29 lipca
+2022 r., wydruk korespondencji e-mail z dnia 11 sierpnia 2022 r., kopia faktury o nr (…),
+kopia (…) z dnia 19 października 2022 r. oraz wydruk czynności systemowych
+prowadzonych w sprawie Skarżącego.
+W dniu 3 lipca 2023 r. Spółka została wezwana do złożenia wyjaśnień w sprawie o sygn.
+(…) w postaci udzielenia odpowiedzi na następujące pytania:
+„
+1) jaką rolę w procesie przetwarzania danych osobowych Skarżącego pełnią Spółka
+oraz H. Sp. z o.o. z siedzibą we W. przy ul. (…);
+2) w jaki sposób ww. podmioty uregulowały między sobą zasady przetwarzania
+danych osobowych klientów.”
+Wezwanie to skierowane zostało na adres siedziby Spółki i zostało jej doręczone w dniu
+10 lipca 2023 r. Pomimo wcześniej wyrażonej przez Spółkę woli współpracy z organem
+nadzorczym, wezwanie z 3 lipca 2023 r. pozostało bez odpowiedzi.
+Wobec powyższego, pracownik Departamentu (…) Urzędu Ochrony Danych Osobowych
+w okresie od 14 września 2023 r. do 19 października 2023 r. regularnie kontaktował się z
+pracownikiem Spółki w celu uzyskania wyjaśnień Spółki, stanowiących odpowiedź na we‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 8 z 12
+
+zwanie Prezesa UODO z 3 lipca 2023 r. (zob. pkt 17 uzasadnienia niniejszej decyzji). Po‐
+wyższe czynności doprowadziły do udzielenia przez Spółkę odpowiedzi, która wpłynęła
+do Urzędu Ochrony Danych Osobowych w dniu 20 października 2023 r. Wyjaśnienia te
+nie stanowiły odpowiedzi na zadane przez organ nadzorczy pytania w wezwaniu do zło‐
+żenia wyjaśnień z 3 lipca 2023 r. (zob. pkt 17 uzasadnienia niniejszej decyzji). Jednakże
+w dniu 17 listopada 2023 r. r.pr. A. K. – umocowany do reprezentacji Spółki w postępowa‐
+niu o sygn. (…) – zajął w imieniu Spółki stanowisko w sprawie, które w sposób wyczerpu‐
+jący odnosiło się do pytań zadanych przez organ nadzorczy w tym postępowaniu. W
+szczególności wyjaśnił rolę, jaką pełni H. Sp. z o.o. z siedzibą we W. w procesie przetwa‐
+rzania danych osobowych Skarżącego, a na potwierdzenie swoich twierdzeń załączył do‐
+wód w postaci kopii umowy powierzenia przetwarzania danych z dnia 1 września 2021 r.
+Jednocześnie w postępowaniu administracyjnym rozpoznawanym pod sygn. DKE.
+561.1.2023 pełnomocnik Spółki zajął stanowisko w sprawie, w którym wskazał, że stan
+faktyczny w niniejszym postępowaniu uległ zmianie, tj. od momentu wszczęcia postępo‐
+wania o sygn. DKE.561.1.2023 oraz rozszerzenia przedmiotu tego postępowania Spółka
+składała wyjaśnienia na wezwania organu nadzorczego. Pan r.pr. A. K. wyraził w imieniu
+Spółki wolę współpracy i uzupełnienia wyjaśnień w wymaganym przez Prezesa UODO za‐
+kresie. Do niniejszego pisma pełnomocnik Spółki załączył dowody w postaci kopii odpo‐
+wiedzi Spółki z 13 grudnia 2023 r. na wezwania organu nadzorczego w sprawach rozpo‐
+znawanych pod sygn. (…), (…) oraz (…) oraz kopię korespondencji datowaną na 21 grud‐
+nia 2023 r., która stanowi odpowiedź na wniosek Skarżących w przedmiocie spełnienia
+obowiązku informacyjnego określonego w art. 15 Rozporządzenia 2016/679.
+Po rozpatrzeniu całości materiału dowodowego zebranego w sprawie, Prezes Urzędu
+Ochrony Danych Osobowych zważył, co następuje.
+
+Przepisy prawne
+Zgodnie z art. 57 ust. 1 lit. a) Rozporządzenia 2016/679, Prezes UODO, jako organ nad‐
+zorczy w rozumieniu art. 51 Rozporządzenia 2016/679 na swoim terytorium monitoruje i
+egzekwuje stosowanie tego rozporządzenia. W ramach swoich kompetencji Prezes UODO
+m.in. rozpatruje skargi wniesione przez osobę, której dane dotyczą, lub przez podmiot,
+organizację lub zrzeszenie zgodnie z art. 80, w odpowiednim zakresie prowadzi postępo‐
+wania w przedmiocie tych skarg i w rozsądnym terminie informuje skarżącego o postę‐
+pach i wynikach tych postępowań (art. 57 ust. 1 lit. f) Rozporządzenia 2016/679) oraz
+prowadzi postępowania w sprawie stosowania niniejszego rozporządzenia, w tym na
+podstawie informacji otrzymanych od innego organu nadzorczego lub innego organu
+publicznego (art. 57 ust. 1 lit. h) Rozporządzenia 2016/679).
+Dla umożliwienia realizacji tak określonych zadań, Prezesowi UODO przysługuje szereg
+określonych w art. 58 ust. 1 Rozporządzenia 2016/679 uprawnień w zakresie prowadzo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 9 z 12
+
+nych postępowań, w tym uprawnienie do nakazania administratorowi i podmiotowi prze‐
+twarzającemu dostarczenia wszelkich informacji potrzebnych do realizacji swoich zadań
+(art. 58 ust. 1 lit. a) Rozporządzenia 2016/679) oraz uprawnienie do uzyskania od admi‐
+nistratora i podmiotu przetwarzającego dostępu do wszelkich danych osobowych i infor‐
+macji niezbędnych do realizacji swoich zadań (art. 58 ust. 1 lit. e) Rozporządzenia
+2016/679).
+Naruszenie przepisów Rozporządzenia 2016/679 polegające na niezapewnieniu przez ad‐
+ministratora lub podmiot przetwarzający dostępu do danych osobowych i informacji
+skutkujące naruszeniem uprawnień organu określonych w art. 58 ust. 1 tego aktu praw‐
+nego, podlega – zgodnie z art. 83 ust. 5 lit. e) in fine Rozporządzenia 2016/679 – admini‐
+stracyjnej karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębior‐
+stwa – w wysokości do 4% jego całkowitego rocznego światowego obrotu z poprzedniego
+roku obrotowego, przy czym zastosowanie ma kwota wyższa.
+Dodatkowo zarówno administrator jak i podmiot przetwarzający obowiązani są na żąda‐
+nie organu nadzorczego współpracować z nim w ramach wykonywania przez niego jego
+zadań, o czym stanowi art. 31 Rozporządzenia 2016/679. Niewywiązanie się z tego obo‐
+wiązku zagrożone jest – zgodnie z art. 83 ust. 4 lit. a) Rozporządzenia 2016/679 – admi‐
+nistracyjną karą pieniężną w wysokości do 10 000 000 EUR, a w przypadku przedsiębior‐
+stwa – w wysokości do 2% jego całkowitego rocznego światowego obrotu z poprzedniego
+roku obrotowego, przy czym zastosowanie ma kwota wyższa.
+Prezesowi UODO przysługuje ponadto szereg określonych w art. 58 ust. 2 Rozporządze‐
+nia 2016/679 uprawnień naprawczych, w tym prawo udzielenia upomnienia administra‐
+torowi lub podmiotowi przetwarzającemu w przypadku naruszenia przepisów Rozporzą‐
+dzenia 2016/679 przez operacje przetwarzania. Zgodnie z motywem 148 Rozporządze‐
+nia 2016/679, aby egzekwowanie przepisów Rozporządzenia 2016/679 było skuteczniej‐
+sze, należy za jego naruszenie nakładać sankcje, w tym administracyjne kary pieniężne –
+oprócz lub zamiast odpowiednich środków nakładanych na mocy Rozporządzenia
+2016/679 przez organ nadzorczy. Jeżeli naruszenie jest niewielkie, karę pieniężną można
+zastąpić upomnieniem. Powinno się jednak zwrócić uwagę na charakter, wagę oraz czas
+trwania naruszenia, na to, czy naruszenie nie było umyślne, na działania podjęte przez
+administratora dla zminimalizowania szkody, na stopień odpowiedzialności lub wszelkie
+mające znaczenie wcześniejsze naruszenia, na sposób, w jaki organ nadzorczy dowie‐
+dział się o naruszeniu, na przestrzeganie środków nałożonych na administratora lub pod‐
+miot przetwarzający, na stosowanie kodeksów postępowania oraz wszelkie inne czynniki
+obciążające lub łagodzące.
+Stosowanie do art. 60 u.o.d.o. postępowanie w sprawie naruszenia przepisów o ochronie
+danych osobowych jest prowadzone przez Prezesa UODO. Z kolei art. 7 ust. 1 u.o.d.o.
+stanowi, że w sprawach nieuregulowanych w tej ustawie do postępowań administracyj‐
+nych przed Prezesem UODO (w tym w postępowaniach w przedmiocie nałożenia admini‐
+stracyjnej kary pieniężnej, o których mowa w Rozdziale 11 u.o.d.o.) stosuje się przepisy
+ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 10 z 12
+
+2023 r. poz. 775 ze zm.). Zgodnie z art. 7 ust. 2 u.o.d.o. postępowania te są
+postępowaniami jednoinstancyjnymi.
+Zgodnie z brzmieniem art. 44 § 4 k.p.a. w związku z art. 44 § 1 k.p.a., fikcja doręczenia
+zachodzi z upływem ostatniego dnia okresu, to jest 14 dni, w przypadku doręczenia pi‐
+sma osobie fizycznej w jej mieszkaniu lub miejscu pracy przez operatora pocztowego, a
+pismo pozostawia się w aktach sprawy.
+
+Ocena prawna
+Odnosząc przytoczone powyżej przepisy Rozporządzenia 2016/679 do ustalonego w ni‐
+niejszej sprawie stanu faktycznego należy przyjąć, że Prezes UODO uprawniony był –
+zgodnie z art. 31 oraz art. 58 ust. 1 lit. a) i e) Rozporządzenia 2016/679 – do żądania od
+Spółki dostarczenia danych osobowych i informacji, niezbędnych do realizacji jego za‐
+dań, w tym przypadku do merytorycznego rozpatrzenia spraw o sygn. (…), (…), (…) oraz
+(…), zaś Spółka na tej samej podstawie prawnej była zobowiązana takie informacje
+przedstawić. Zatem Spółka naruszyła obowiązek zapewnienia Prezesowi UODO dostępu
+do danych osobowych i informacji niezbędnych do realizacji jego zadań.
+Podkreślenia wymaga, że Prezes UODO celem ustalenia stanu faktycznego sprawy o
+sygn. (…) kilkakrotnie – pismami z 9 listopada 2022 r., 6 grudnia 2022 r., 19 stycznia
+2023 r. oraz 3 lipca 2023 r. – zwracał się do Spółki z wezwaniem do złożenia wyjaśnień
+poprzez udzielnie odpowiedzi na szczegółowe pytania dotyczące sprawy. Niniejsza kore‐
+spondencja została doręczona Spółce, lecz nie doprowadziła do jej odpowiedzi w termi‐
+nie zakreślonym przez organ nadzorczy, co uniemożliwiło Prezesowi UODO wszechstron‐
+ne zbadanie zarzutów podnoszonych przez Skarżącego. Dopiero po wszczęciu postępo‐
+wania administracyjnego o sygn. DKE.561.1.2023, bezpośredni kontakt telefoniczny pra‐
+cownika Departamentu (…) Urzędu Ochrony Danych Osobowych z pracownikiem Spółki
+doprowadził do realizacji obowiązku, jaki ciążył na Spółce w postaci udzielenia dostępu
+Prezesowi UODO do danych osobowych i informacji niezbędnych do realizacji jego zadań.
+W tym miejscu należy zauważyć, że Spółka w wyjaśnieniach datowanych na 12 maja
+2023 r. nie udzieliła odpowiedzi na pytania zadane przez organ nadzorczy w sprawie o
+sygn. (…), a dopiero po wezwaniu jej do uzupełnienia wyjaśnień Prezes UODO uzyskał
+odpowiedź na zadane pytania w tym postępowaniu. Powyższe wyjaśnienia doprowadziły
+do kolejnych pytań organu nadzorczego, które umożliwiłyby ustalenie stanu faktycznego
+sprawy o sygn. (…), stąd Spółka w dniu 3 lipca 2023 r. została wezwana do ich uzupeł‐
+nienia, a następnie z powodu braku odpowiedzi na tę korespondencję, pracownik Depar‐
+tamentu (…) Urzędu Ochrony Danych Osobowych regularnie kontaktował się z pracowni‐
+kiem Spółki w celu uzyskania wyjaśnień. Kontakt ten miał miejsce od 14 września 2023 r.
+do 19 października 2023 r. i doprowadził do odpowiedzi Spółki, która wpłynęła do Urzędu
+Ochrony Danych Osobowych w dniu 20 października 2023 r. (zob. pkt 18 uzasadnienia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 11 z 12
+
+niniejszej decyzji). W tym miejscu podkreślenia wymaga fakt, że niewyczerpujące wyja‐
+śnienia składane przez Spółkę doprowadziły do dalszego przedłużania postępowania w
+celu ustalenia stanu faktycznego sprawy. Powyższe działanie – choć z pozoru może
+świadczyć o aktywnym jej udziale w postępowaniu – nie może być oceniane pozytywnie
+z punktu widzenia należytej współpracy z organem nadzorczym.
+Podobne okoliczności stwierdzono w postępowaniach administracyjnych rozpoznawa‐
+nych pod sygn. (…), (…) oraz (…). Do Spółki skierowane zostały wezwania do złożenia
+wyjaśnień datowane na 17 grudnia 2021 r., 19 grudnia 2022 r. i 19 stycznia 2023 r. Spół‐
+ka złożyła odpowiedź jedynie na wezwania z 17 grudnia 2021 r., lecz w sposób niewy‐
+czerpujący odnosiła się do zadanych przez Prezesa UODO pytań, co przyczyniło się do
+przedłużenia postępowań o sygn. (…), (…) oraz (…) w celu ustalenia stanu faktycznego.
+Analogicznie jak w przypadku sprawy rozpoznawanej pod sygn. (…), Spółka złożyła wyja‐
+śnienia dopiero po podjętym kontakcie telefonicznym pracownika Departamentu (…)
+Urzędu Ochrony Danych Osobowych, który miał miejsce po wszczęciu przez Prezesa
+UODO postępowania administracyjnego w przedmiocie nałożenia na Spółkę administra‐
+cyjnej kary pieniężnej o sygn. DKE.561.1.2023 (zob. pkt 14 uzasadnienia niniejszej decy‐
+zji).
+Po wszczęciu przez Prezesa UODO postępowania administracyjnego w przedmiocie nało‐
+żenia na Spółkę administracyjnej kary pieniężnej rozpoznawanego pod sygn. DKE.
+561.1.2023, Spółka w wyjaśnieniach z 12 maja 2023 r. uzasadniała brak odpowiedzi na
+wezwania organu nadzorczego jako zaniedbanie swojego pracownika, który w wyniku
+zmian kadrowych nie wywiązał się ze swoich obowiązków służbowych (zob. pkt 14 uza‐
+sadnienia niniejszej decyzji). W ocenie Prezesa UODO przedstawione przez Spółkę ww.
+uzasadnienie, jakkolwiek wiarygodne, nie stanowi przesłanki wyłączającej odpowiedzial‐
+ności Spółki za stwierdzone naruszenie. W interesie Spółki jest zapewnienie właściwego
+obiegu korespondencji, który powinien odbywać się w sposób ciągły i niezakłócony, a
+także wywiązywanie się z obowiązku jaki na niej ciąży w postaci dostarczenia Prezesowi
+UODO, na jego żądanie i w terminie przez niego wyznaczonym, wszelkich informacji nie‐
+zbędnych do realizacji jego zadań. Pomimo wyrażonej przez Spółkę woli współpracy z or‐
+ganem nadzorczym (zob. pkt 14 uzasadnienia niniejszej decyzji), Spółka w toku postępo‐
+wania administracyjnego o sygn. DKE.561.1.2023 nie wywiązywała się z ciążących na
+niej obowiązków, naruszając tym samym art. 58 ust. 1 lit. a) i e) oraz art. 31 Rozporzą‐
+dzenia 2016/679 (zob. pkt 17 – 18 uzasadnienia niniejszej decyzji). Niniejszy stan trwał
+od momentu upływu 7-dniowego terminu wyznaczonego przez organ nadzorczy do zło‐
+żenia wyjaśnień w sprawie o sygn. (…), tj. od 18 lipca 2023 r. do dnia wpływu do Urzędu
+Ochrony Danych Osobowych wyjaśnień Spółki, czyli do 20 października 2023 r. (zob. pkt
+17 – 18 uzasadnienia niniejszej decyzji). Wyżej opisane zachowanie świadczy o lekcewa‐
+żeniu obowiązków związanych z tą współpracą, lecz stan ten uległ zmianie po umocowa‐
+niu przez Spółkę pełnomocnika (zob. pkt 18 – 19 uzasadnienia niniejszej decyzji) do jej
+reprezentacji w postępowaniach przed Prezesem UODO. Od tego momentu Spółka w
+sposób wyczerpujący i w wyznaczonym przez organ nadzorczy terminie składała wyja‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+
+Decyzja DKE.561.1.2023
+
+Strona 12 z 12
+
+śnienia i przedstawiała swoje stanowisko, co przyczyniło się do ustalenia stanu
+faktycznego ww. postępowań administracyjnych.
+W ocenie Prezesa UODO zachowanie Spółki polegające na nieprzedstawianiu wyjaśnień,
+co do których Spółka została wezwana (zob. pkt 2, 5, 9 – 10, 12 – 13, 17 uzasadnienia ni‐
+niejszej decyzji), a także składanie niewyczerpujących wyjaśnień (odpowiedzi lakoniczne,
+wymijające na konkretne i niewymagające specjalistycznej wiedzy z zakresu ochrony da‐
+nych osobowych pytania organu nadzorczego) (zob. pkt 8 i 15 uzasadnienia niniejszej
+decyzji), które nie przyczyniły się do ustalenia stanu faktycznego spraw rozpoznawanych
+pod sygn. (…), (…), (…) oraz (…), co w następstwie doprowadziło do przedłużenia po‐
+wyższych postępowań w celu ustalenia przebiegu zdarzeń, stanowią oczywiste zaniedba‐
+nie po stronie Spółki. Zaniedbanie to doprowadziło do naruszenia art. 58 ust. 1 lit. a) i e)
+oraz art. 31 Rozporządzenia 2016/679. Zdaniem Prezesa UODO niniejsze naruszenie ma
+charakter umyślny, a za tym przemawia przede wszystkim fakt, że Spółka po powzięciu
+informacji o toczącym się postępowaniu administracyjnym o sygn. DKE.561.1.2023 skła‐
+dała niewyczerpujące wyjaśnienia na zadane przez organ nadzorczy pytania (zob. 15 pkt
+uzasadnienia niniejszej decyzji) oraz nie składała wyjaśnień w wyznaczonym przez Pre‐
+zesa UODO terminie (zob. pkt 17 uzasadnienia niniejszej decyzji). Ponadto złożone przez
+Spółkę wyjaśnienia, które wpłynęły do Urzędu Ochrony Danych Osobowych w dniu 20
+października 2023 r. były efektem regularnych ponagleń pracownika Urzędu Ochrony Da‐
+nych Osobowych (zob.18 pkt uzasadnienia niniejszej decyzji), co jest oceniane negatyw‐
+nie przez organ nadzorczy i świadczy o lekceważącym stosunku Spółki do obowiązków
+wynikających z art. 58 ust. 1 lit. a) i e) oraz art. 31 Rozporządzenia 2016/679. Jednakże z
+uwagi na składane przez Spółkę od dnia 17 listopada 2023 r. wyczerpujące wyjaśnienia,
+które przyczyniły się do ustalenia stanu faktycznego w sprawach rozpoznawanych pod
+sygn. (…), (…), (…) oraz (…), należy uznać, że stan naruszenia będący przedmiotem
+niniejszego postępowania został usunięty.
+Mając na uwadze powyższe, Prezes UODO uznał za uzasadnione udzielenie Spółce upo‐
+mnienia w zakresie stwierdzonego naruszenia art. 58 ust. 1 lit. a) i e) oraz art. 31 Rozpo‐
+rządzenia 2016/679, przyjmując jednocześnie, że w świetle kryteriów określonych w art.
+83 ust. 2 Rozporządzenia 2016/679 będzie ono skuteczne i wystarczające. Należy jednak
+zauważyć, że w przypadku zaistnienia podobnego zdarzenia w przyszłości, każde upo‐
+mnienie wydane przez Prezesa UODO wobec Spółki będzie uwzględnione przy ocenie
+przesłanek warunkujących zasadność wymierzenia kary administracyjnej, zgodnie z za‐
+sadami określonymi w art. 83 ust. 2 Rozporządzenia 2016/679 i poczytywane będzie na
+jej niekorzyść.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął jak w sentencji niniejszej
+decyzji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dke_561_1/content
+
+2025-09-03 13:26
+

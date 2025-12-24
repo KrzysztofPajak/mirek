@@ -1,0 +1,294 @@
+Warszawa, 2 września 2021
+PRAWOMOCNA
+
+Decyzja
+DKE.561.21.2021
+
+Na podstawie art. 104 § l ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r., poz. 735 ze zm.) w związku z art. 7 i art. 60 ustawy
+z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781) oraz
+na podstawie art. 31, art. 58 ust. 1 lit. a) i lit. e) oraz art. 58 ust. 2 lit. b) rozporządzenia
+Parlamentu Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie
+ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne
+rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, ze zmianami
+ogłoszonymi w Dz. Urz. UE L 127 z 23.05.2018, str.2, oraz w Dz. Urz. UE L 74 z
+04.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w przedmiocie nałożenia admini‐
+stracyjnej kary pieniężnej na Szpital Wojewódzki w P. z siedzibą w P. przy ul. (…), Prezes
+Urzędu Ochrony Danych Osobowych,
+udziela upomnienia Szpitalowi Wojewódzkiemu w P. z siedzibą w P. przy ul. (…), za naru‐
+szenie przepisów art. 31 oraz art. 58 ust. 1 lit. a) i lit. e) Rozporządzenia Parlamentu Eu‐
+ropejskiego i Rady UE 2016/679 i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w spra‐
+wie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne
+rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, ze zmianami
+ogłoszonymi w Dz. Urz. UE L 127 z 23.05.2018, str. 2, oraz w Dz. Urz. UE L 74 z
+04.03.2021, str. 35), polegające na braku współpracy z Prezesem Urzędu Ochrony Da‐
+nych Osobowych w ramach wykonywania przez niego swoich zadań oraz niezapewnieniu
+Prezesowi Urzędu Ochrony Danych Osobowych dostępu do danych osobowych i
+informacji niezbędnych do realizacji jego zadań.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_21/content
+
+2025-09-03 13:43
+
+Decyzja DKE.561.21.2021
+
+Strona 2 z 7
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pana M. G., zamieszkałego w W.
+przy ul. (…) (zwanego dalej „Skarżącym”), na nieprawidłowości w procesie przetwarza‐
+nia jego danych osobowych przez Szpital Wojewódzki w P. z siedzibą w P. przy ul. (…)
+(zwany dalej „Administratorem”), polegające na udostępnieniu osobie trzeciej danych
+osobowych Skarżącego zawartych w skierowanym do Szpitala wniosku z dnia 2 lipca
+2020 r. o dostęp do dokumentacji medycznej zmarłego ojca Skarżącego.
+Prezes Urzędu Ochrony Danych Osobowych (dalej także: „Prezes UODO”) w ramach wsz‐
+czętego postępowania administracyjnego, prowadzonego celem rozpatrzenia wniesionej
+skargi (sygn. DS.523.5866.2020) zwrócił się do Administratora pismem z 18 listopada
+2020 r. o ustosunkowanie się do treści skargi oraz o udzielenie odpowiedzi na
+następujące, szczegółowe pytania dotyczące sprawy:
+1) czy, a jeżeli tak to na jakiej podstawie prawnej, w jakim celu i zakresie Administrator
+aktualnie przetwarza dane osobowe Skarżącego,
+2) czy, a jeżeli tak, to kiedy, w jakim celu, na jakiej podstawie prawnej i w jakim zakre‐
+sie Administrator udostępnił dane osobowe Skarżącego zawarte we wniosku z dnia 2
+lipca 2020 r. osobie trzeciej.
+W odpowiedzi na powyższe, pismem z 26 listopada 2021 r. przesłanym za pośrednic‐
+twem elektronicznej Platformy Usług Administracji Publicznej (ePUAP), Administrator
+udzielił wyczerpujących wyjaśnień w sprawie wskazując, że dane osobowe Skarżącego
+były przetwarzane jednorazowo na potrzebę rozpatrzenia wniosku o udostępnienie doku‐
+mentacji medycznej pacjenta (zmarłego ojca Skarżącego). Administrator udostępnił
+dane osobowe Skarżącego w postaci imienia i nazwiska osobie upoważnionej do doku‐
+mentacji medycznej ojca Skarżącego w dniu 15 lipca 2020 r. na podstawie art. 26 ust. 2
+ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta, celem
+weryfikacji wniosku Skarżącego o udostępnienie dokumentacji medycznej osoby zmarłej.
+Wskazane wyjaśnienia, nadesłane w formie skanu pisma, opatrzone zostały podpisem
+Dyrektora Szpitala Wojewódzkiego w P., Pana P. N.
+Mając na uwadze, że pismo Administratora z 26 listopada 2020 r. było skanem dokumen‐
+tu, i nie zawierało oryginalnego podpisu osoby upoważnionej do jego reprezentowania,
+Prezes UODO, uznając ww. korespondencję za niespełniającą wymogów określonych w
+art. 63 k.p.a., pismem z 8 grudnia 2020 r. wezwał Administratora do usunięcia – w termi‐
+nie 7 dni od daty doręczenia wezwania – braków formalnych pisma i ponowne
+nadesłanie wyjaśnień w sprawie o sygn. DS.523.5866.2020 w jeden ze wskazanych
+poniżej sposobów:
+a) jeżeli pismo będzie miało formę papierową, poprzez opatrzenie go czytelnym, wła‐
+snoręcznym podpisem osoby uprawnionej do reprezentowania Administratora lub,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_21/content
+
+2025-09-03 13:43
+
+Decyzja DKE.561.21.2021
+
+b)
+
+Strona 3 z 7
+
+jeżeli pismo zostanie przesłane za pomocą środków komunikacji elektronicznej, po‐
+przez opatrzenie go kwalifikowanym podpisem elektronicznym, podpisem zaufanym
+albo podpisem osobistym, bądź też poprzez uwierzytelnienie go w sposób zapewnia‐
+jący możliwość potwierdzenia pochodzenia i integralności weryfikowanych danych w
+postaci elektronicznej.
+
+Wzmiankowane wezwanie do usunięcia braków formalnych, przesłane za pośrednictwem
+platformy ePUAP na adres indywidualnej skrzynki podawczej Administratora, tj. ePUAP:
+(…), zostało prawidłowo doręczone Administratorowi 8 grudnia 2020 r. o godz. 14:00, co
+potwierdza wygenerowane automatycznie przez system urzędowe poświadczenie
+przedłożenia (UPP) korespondencji.
+Pomimo prawidłowości doręczenia wezwania, Administrator nie udzielił na nie żadnej od‐
+powiedzi, wobec czego Prezes UODO ponownie pismami z 17 lutego 2021 r. oraz 19
+maja 2021 r. zwrócił się do niego o usunięcia braków formalnych wyjaśnień z 26 listopa‐
+da 2020 r., zakreślając każdorazowo 7-dniowy termin na ustosunkowanie się do tak sfor‐
+mułowanego żądania. Jednocześnie, Administratora pouczono o tym, że brak udzielenia
+odpowiedzi na przedmiotowe wezwania skutkować może nałożeniem administracyjnej
+kary pieniężnej na podstawie przepisów Rozporządzenia 2016/679. Oba ww. pisma, dorę‐
+czone Administratorowi za pośrednictwem platformy ePUAP w dniach: 17 lutego 2021 r.
+o godz. 13:21 oraz 19 maja 2021 r. o godz. 14:54, pozostały bez reakcji ze strony Admi‐
+nistratora.
+W związku z nieudzieleniem przez Administratora wyjaśnień niezbędnych do
+rozstrzygnięcia sprawy o sygnaturze DS.523.5866.2020, Prezes Urzędu Ochrony Danych
+Osobowych wszczął wobec niego z urzędu – w oparciu o art. 83 ust. 5 lit. e) Rozporzą‐
+dzenia 2016/679 – niniejsze postępowanie administracyjne w przedmiocie nałożenia ad‐
+ministracyjnej kary pieniężnej, w związku z naruszeniem art. 31 oraz art. 58 ust. 1 lit. a) i
+e) Rozporządzenia 2016/679. O wszczęciu postępowania Administrator poinformowany
+został pismem z 18 sierpnia 2021 r., doręczonym mu prawidłowo za pośrednictwem
+platformy ePUAP.
+W reakcji na informację o wszczęciu postępowania administracyjnego o sygn. DKE.
+561.21.2021, Administrator skierował do Prezesa UODO pismo z 26 sierpnia 2021 r., w
+którym ponownie złożył wyjaśnienia do sprawy o sygn. DS.523.5866.2020, opatrzone
+kwalifikowanym podpisem elektronicznym Dyrektora Szpitala Wojewódzkiego w P., Pana
+P. N. – zezwalające Prezesowi UODO na dalsze procedowanie w postępowaniu wszczętym
+ze skargi Pana M. G. Administrator wyjaśnił również przyczyny zaniechania usunięcia
+wad pisma z 26 listopada 2020 r. w terminie pierwotnie zakreślonym przez organ ochro‐
+ny danych. Jak wskazał, opóźnienie powodowane było brakami kadrowymi w strukturach
+Administratora, wywołanymi epidemią SARS-CoV-2. Deklarując chęć dalszej współpracy,
+Administrator wniósł jednocześnie o odstąpienie od wymierzenia administracyjnej kary
+pieniężnej z uwagi na fakt, iż sama treść wyjaśnień złożonych w sprawie o sygn. DS.
+523.5866.2020 była znana organowi nadzorczemu już 26 listopada 2020 r., natomiast
+stwierdzony brak dotyczył wyłącznie niewłaściwej formy złożenia podpisu.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_21/content
+
+2025-09-03 13:43
+
+Decyzja DKE.561.21.2021
+
+Strona 4 z 7
+
+Po zapoznaniu się z całością materiału dowodowego zebranego w sprawie Prezes Urzędu
+Ochrony Danych Osobowych zważył, co następuje.
+Zgodnie z art. 57 ust. 1 lit. a) Rozporządzenia 2016/679, Prezes UODO – jako organ nad‐
+zorczy w rozumieniu art. 51 Rozporządzenia 2016/679 – na swoim terytorium monitoruje
+i egzekwuje stosowanie tego rozporządzenia. W ramach swoich kompetencji Prezes
+UODO rozpatruje m.in. skargi wniesione przez osoby, których dane dotyczą, w odpowied‐
+nim zakresie prowadzi postępowania w przedmiocie tych skarg i w rozsądnym terminie
+informuje skarżącego o postępach i wynikach tych postępowań (art. 57 ust. 1 lit. f)). Dla
+umożliwienia realizacji tak określonych zadań, Prezesowi UODO przysługuje szereg okre‐
+ślonych w art. 58 ust. 1 Rozporządzenia 2016/679 uprawnień w zakresie prowadzonych
+postępowań, w tym uprawnienie do nakazania administratorowi i podmiotowi przetwa‐
+rzającemu dostarczenia wszelkich informacji potrzebnych do realizacji jego zadań (art.
+58 ust. 1 lit. a)) oraz uprawnienie do uzyskania od administratora i podmiotu przetwarza‐
+jącego dostępu do wszelkich danych osobowych i informacji niezbędnych do realizacji
+jego zadań (art. 58 ust. 1 lit. e)). Wskazać należy ponadto, że administrator i podmiot
+przetwarzający obowiązani są współpracować z organem nadzorczym, o czym stanowi
+art. 31 Rozporządzenia 2016/679. Naruszenie przepisów Rozporządzenia 2016/679, pole‐
+gające na niezapewnieniu przez administratora lub podmiot przetwarzający dostępu do
+danych i informacji, o których mowa powyżej, skutkujące naruszeniem uprawnień orga‐
+nu określonych w art. 58 ust. 1, podlega zaś – zgodnie z art. 83 ust. 5 lit. e) in fine Roz‐
+porządzenia 2016/679 w związku z art. 102 ust. 1 i 3 ustawy z dnia 10 maja 2018 r. o
+ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781), zwanej dalej „u.o.d.o.” – admi‐
+nistracyjnej karze pieniężnej w wysokości do 100 000 złotych.
+Ponadto, Prezesowi UODO przysługuje szereg określonych w art. 58 ust. 2 uprawnień na‐
+prawczych, w tym udzielanie upomnień administratorowi lub podmiotowi przetwarzają‐
+cemu w przypadku naruszenia przepisów Rozporządzenia 2016/679 przez operacje prze‐
+twarzania. Prezes UODO, działając na podstawie art. 58 ust. 2 lit. b) Rozporządzenia
+2016/679, może uznać za uzasadnione udzielenie Administratorowi upomnienia w zakre‐
+sie stwierdzonego naruszenia przepisów art. 31 oraz art. 58 ust. 1 lit. a) i e) Rozporzą‐
+dzenia 2016/679. Zgodnie z motywem 148 Rozporządzenia 2016/679, aby egzekwowa‐
+nie przepisów rozporządzenia było skuteczniejsze, należy za jego naruszenie nakładać
+sankcje, w tym administracyjne kary pieniężne – oprócz lub zamiast odpowiednich środ‐
+ków nakładanych na mocy niniejszego rozporządzenia przez organ nadzorczy. Jeżeli na‐
+ruszenie jest niewielkie, karę pieniężną można zastąpić upomnieniem. Powinno się jed‐
+nak zwrócić należytą uwagę na charakter, wagę oraz czas trwania naruszenia, na to, czy
+naruszenie nie było umyślne, na działania podjęte przez administratora dla zminimalizo‐
+wania szkody, na stopień odpowiedzialności lub wszelkie mające znaczenie wcześniejsze
+naruszenia, na sposób, w jaki organ nadzorczy dowiedział się o naruszeniu, na przestrze‐
+ganie środków nałożonych na administratora lub podmiot przetwarzający, na stosowanie
+kodeksów postępowania oraz wszelkie inne czynniki obciążające lub łagodzące.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_21/content
+
+2025-09-03 13:43
+
+Decyzja DKE.561.21.2021
+
+Strona 5 z 7
+
+Odnosząc przytoczone powyżej przepisy Rozporządzenia 2016/679 do ustalonego w ni‐
+niejszej sprawie stanu faktycznego stwierdzić należy, że Administrator jako strona
+postępowania o sygn. DS.523.5866.2020, poprzez brak udzielenia odpowiedzi na we‐
+zwania Prezesa UODO do usunięcia braków formalnych wyjaśnień z 26 listopada 2020 r,
+naruszył obowiązek współpracy z organem nadzorczym oraz obowiązek zapewnienia Pre‐
+zesowi UODO dostępu do informacji niezbędnych do realizacji jego zadań wynikający z
+art. 31 oraz 58 ust. 1. lit. a) i lit. e) Rozporządzenia 2016/679. Wskazać bowiem należy
+(wbrew argumentacji przytoczonej przez Administratora w piśmie z 26 sierpnia 2021 r.),
+że sam fakt odnotowania przez organ nadzorczy wpływu wyjaśnień Administratora nie
+spowodował możliwości wykorzystania ich treści do celów dowodowych. Zgodnie bo‐
+wiem z brzmieniem art. 63 k.p.a., wyjaśnienia wniesione pisemnie powinny być podpisa‐
+ne przez wnoszącego (§ 3), zaś wyjaśnienia wniesione w formie dokumentu elektronicz‐
+nego powinny być opatrzone kwalifikowanym podpisem elektronicznym, podpisem za‐
+ufanym albo podpisem osobistym, lub uwierzytelniane w sposób zapewniający możli‐
+wość potwierdzenia pochodzenia i integralności weryfikowanych danych w postaci elek‐
+tronicznej (§ 4). Brak takiego podpisu stanowi brak formalny, który powinien być usunię‐
+ty w trybie art. 64 § 2 k.p.a., w myśl którego jeżeli wyjaśnienia nie spełniają innych wy‐
+magań ustalonych w przepisach prawa (w tym wymagań dotyczących formy podpisu),
+należy wezwać wnoszącego do usunięcia braków w wyznaczonym terminie, nie krótszym
+niż siedem dni, z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie
+pisma bez rozpoznania.
+Jak wynika z powyższego, spełniający zadość wymogom ustawowym podpis osoby upo‐
+ważnionej do reprezentowania Administratora jest elementem obligatoryjnym, warunku‐
+jącym możliwość uznania wyjaśnień przez organ administracji publicznej. Tym samym do
+chwili uzyskania kwalifikowanego podpisu elektronicznego Dyrektora Szpitala Wojewódz‐
+kiego w P., Pana P. N., wyjaśnienia Administratora z 26 listopada 2020 r. złożone w
+postępowaniu o sygn. DS.523.5866.2020, Prezes UODO zobowiązany był traktować jako
+niebyłe. Stwierdzone zaniechanie Administratora stało na przeszkodzie wnikliwemu roz‐
+patrzeniu sprawy i skutkowało przedłużaniem postępowania, co stoi z kolei w sprzeczno‐
+ści z podstawowymi zasadami rządzącymi postępowaniem administracyjnym – określo‐
+nymi w art. 12 ust. 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r., poz. 735 ze zm.) zasadami wnikliwości i szybkości
+postępowania.
+Prezes UODO trzykrotnie wezwał Administratora do uzupełnienia braków formalnych
+wniesionego przez niego pisma. Pierwsze z tych wezwań zostało doręczone Administra‐
+torowi 8 grudnia 2020 r., drugie 17 lutego 2021 r., trzecie zaś 19 maja 2021 r. Żadne z
+pism nie doczekało się odpowiedzi w zakreślonych terminach 7 dni od daty ich doręcze‐
+nia. Ta opieszałość Administratora, naruszająca przepisy Rozporządzenia 2016/679, spo‐
+wodowała konieczność wszczęcia niniejszego postępowania w przedmiocie nałożenia ad‐
+ministracyjnej kary pieniężnej, w rezultacie którego dopiero Administrator wznowił
+współpracę z organem nadzorczym.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_21/content
+
+2025-09-03 13:43
+
+Decyzja DKE.561.21.2021
+
+Strona 6 z 7
+
+Zdaniem Prezesa UODO, przedstawione przez Administratora uzasadnienie braku odpo‐
+wiedzi na wezwania Prezesa UODO, choć wiarygodne, nie zdejmuje z niego odpowie‐
+dzialności za stwierdzone zaniechanie. Na Administratorze spoczywa bowiem ciężar pro‐
+wadzenia odpowiedniej polityki kadrowej oraz zapewnienia takiego obiegu koresponden‐
+cji, który zezwoli na efektywne oraz terminowe wywiązywanie się nałożonych obowiąz‐
+ków, w tym obowiązków wynikających z przepisów o ochronie danych osobowych. Rów‐
+nolegle jednak, Prezes UODO uwzględnił ww. wyjaśnienia, jako mające istotny wpływ na
+ocenę zachowania Administratora, w kontekście wyboru zastosowanej wobec niego w ni‐
+niejszym postępowaniu sankcji. W ocenie Prezesa UODO, brak reakcji Administratora na
+kierowane do niego wezwania do usunięcia braków formalnych pisma z 26 listopada
+2020 r. mógł faktycznie wynikać z dezorganizacji pracy Administratora, powodowanej
+brakami kadrowymi. Rozprzestrzenianie się koronawirusa SARS-CoV-2, szczególnie bo‐
+wiem dotknęło pracodawców takich jak placówki opieki zdrowotnej, a to z uwagi na
+charakter prowadzonej przez nie działalności.
+W przedmiotowym stanie faktycznym, oprócz braku odpowiedzi na wezwania do
+usunięcia braków formalnych złożonych w postępowaniu o sygn. DS.523.5866.2020 wy‐
+jaśnień – który to brak został uzupełniony przez Administratora w toku niniejszego postę‐
+powania – nie stwierdzono innych przesłanek wskazujących na brak woli współpracy Ad‐
+ministratora z Prezesem UODO. Okoliczności sprawy, a w szczególności późniejsza po‐
+stawa Administratora pozwalają wnioskować, że jego początkowa bezczynność nie wyni‐
+kała ze złej woli osób uprawnionych do reprezentowania Administratora, ani nie miała na
+celu świadomego utrudnienia postępowania. Następcza, aktywna postawa Administrato‐
+ra wskazuje bowiem na gotowość do dalszego współdziałania z Prezesem UODO w reali‐
+zacji jego zadań. W ocenie organu nadzorczego, samo już wszczęcie postępowania w
+przedmiocie nałożenia administracyjnej kary pieniężnej oraz realna perspektywa wymie‐
+rzenia kary finansowej stały się dla Administratora wyraźnym sygnałem tego, iż dalsze
+uchylanie się od obowiązków nałożonych przepisami Rozporządzenia 2016/679, nie‐
+uchronnie prowadziło będzie do zastosowania wobec niego najsurowszych,
+przewidzianych tymi przepisami sankcji.
+Mając powyższe na uwadze, działając na podstawie art. 58 ust. 2 lit. b) Rozporządzenia
+2016/679, zgodnie z którym każdemu organowi nadzorczemu przysługuje w zakresie
+prowadzonych postępowań uprawnienie do udzielania upomnienia administratorowi lub
+podmiotowi przetwarzającemu, w przypadku naruszenia przepisów niniejszego rozporzą‐
+dzenia przez operacje przetwarzania, Prezes UODO uznał za uzasadnione udzielenie Ad‐
+ministratorowi upomnienia w zakresie stwierdzonego naruszenia przepisów art. 31 oraz
+art. 58 ust. 1 lit. a) i lit. e) Rozporządzenia 2016/679 przyjmując, że w świetle kryteriów
+określonych w art. 83 ust. 2 Rozporządzenia 2016/679 będzie ono skuteczne i wystarcza‐
+jące. Należy jednakże zauważyć, że w przypadku zaistnienia podobnego zdarzenia w
+przyszłości, każde upomnienie wydane przez Prezesa UODO wobec Administratora bę‐
+dzie brane pod uwagę przy ocenie przesłanek ewentualnego wymierzenia kary admini‐
+stracyjnej, zgodnie z zasadami określonymi w art. 83 ust. 2 Rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_21/content
+
+2025-09-03 13:43
+
+Decyzja DKE.561.21.2021
+
+Strona 7 z 7
+
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął, jak w sentencji
+niniejszej decyzji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_21/content
+
+2025-09-03 13:43
+

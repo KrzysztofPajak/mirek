@@ -1,0 +1,771 @@
+Warszawa, 2 kwietnia 2025
+PRAWOMOCNA
+
+Decyzja
+DKN.5110.16.2022
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2024 r. poz. 572), art. 7 ust. 1 i 2 oraz art. 60 ustawy z dnia
+10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781), art. 57 ust. 1
+lit. a) i h), art. 58 ust. 2 lit. b) i d) w związku z art. 38 ust. 6 rozporządzenia Parlamentu
+Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fi‐
+zycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego prze‐
+pływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o
+ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 ze zm.), zwanego dalej rozpo‐
+rządzeniem 2016/679,
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w sprawie
+naruszenia przepisów o ochronie danych osobowych przez Uniwersytet (…) w siedzibą w
+D. przy ul. (…), Prezes Urzędu Ochrony Danych Osobowych
+stwierdzając naruszenie przez Uniwersytet (…) w siedzibą w D. przy ul. (…) przepisu art.
+38 ust. 6 rozporządzenia 2016/679 polegające na niezapewnieniu, że na inspektora
+ochrony danych nie są nakładane zadania i obowiązki mogące powodować konflikt inte‐
+resów,
+a) udziela upomnienia Uniwersytetowi (…) z siedzibą w D. przy ul. (…),
+b) nakazuje Uniwersytetowi (…) w siedzibą w D. przy ul. (…) dostosowanie operacji
+przetwarzania do przepisów rozporządzenia 2016/679 poprzez wdrożenie środków
+mających na celu zapewnienie, że na inspektora ochrony danych nie będą nakłada‐
+ne zadania i obowiązki mogące powodować konflikt interesów, w terminie 60 dni od
+dnia doręczenia niniejszej decyzji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 2 z 16
+
+Uzasadnienie
+Uniwersytet (…) w D., zwany dalej również „Administratorem”, jest akademicką uczelnią
+publiczną. Jako samorządna uczelnia działa m.in. na podstawie ustawy z dnia 20 lipca
+2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571 ze zm.), Statu‐
+tu Uniwersytetu (…) uchwalonego przez Senat Uniwersytetu (…) (ze zm.) oraz Regulami‐
+nu Organizacyjnego Uniwersytetu (…) wprowadzonego zarządzeniem nr (…) Rektora Uni‐
+wersytetu (…) (ze zm.). W związku z tym, że Administrator jest podmiotem publicznym w
+rozumieniu art. 13 ust. 1 pkt 1 ustawy Prawo o szkolnictwie wyższym i nauce, to zgodnie
+z art. 37 ust. 1 lit. a) rozporządzenia 2016/679 spoczywa na nim obowiązek wyznaczenia
+inspektora ochrony danych, zwanego dalej także „IOD”.
+Pismem z 16 marca 2022 r. (sygn. (…)) Prezes Urzędu Ochrony Danych Osobowych,
+zwany dalej „Prezesem UODO”, działając na podstawie art. 58 ust. 1 lit. a), lit. b) i lit. e)
+rozporządzenia 2016/679, zwrócił się do Administratora o złożenie następujących wyja‐
+śnień:
+1) Czy w Uniwersytecie (…) w D. został wyznaczony IOD?
+2) Czy na Administratorze ciąży obowiązek wyznaczenia IOD (jeżeli tak, to na jakiej
+podstawie prawnej) czy też IOD został wyznaczony mimo braku takiego obowiązku?
+3) Czy Administrator opublikował imię i nazwisko oraz kontakt do IOD na swojej stronie
+internetowej lub – jeżeli nie prowadzi swojej strony internetowej, w sposób ogólnie
+dostępny w miejscu prowadzenia swojej działalności?
+4) Czy ww. informacje znajdują się w ogólnie dostępnym miejscu (proszę wskazać to
+miejsce, w przypadku strony internetowej proszę wskazać jej adres oraz link do tej
+informacji).
+5) Czy Inspektor Ochrony Danych jest pracownikiem Administratora, a jeśli nie, to na
+jakiej podstawie prawnej wykonuje swoje obowiązki?
+6) Czy IOD został powołany na wyłączność u Administratora, czy wykonuje obowiązki
+inspektorskie również u innych administratorów?
+7) Na podstawie jakich kwalifikacji Administrator wyznaczył IOD (np. wykształcenie,
+doświadczenie, wiedza)?
+8) Jakie niezbędne zasoby, o których mowa w art. 38 ust. 2 rozporządzenia 2016/679
+Administrator zapewnia IOD?
+9) W jaki sposób Administrator zapewnia zasoby na utrzymanie wiedzy fachowej IOD?
+10) Jakie stanowisko zajmuje IOD i komu podlega w strukturze organizacyjnej Admini‐
+stratora?
+11) Czy Administrator powołał zastępcę IOD, jeżeli tak, to kiedy?
+12) Czy u Administratora funkcjonuje zespół IOD lub inna forma stałego wsparcia IOD w
+zakresie wykonywania jego zadań?
+13)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+14)
+15)
+
+16)
+17)
+18)
+
+19)
+20)
+
+21)
+22)
+
+23)
+24)
+
+25)
+
+Strona 3 z 16
+
+W jaki sposób Administrator zapewnia by IOD był właściwie i niezwłocznie włączany
+we wszystkie sprawy dotyczące ochrony danych osobowych (np. czy zostały opra‐
+cowane zasady dotyczące tego, jakie sprawy mają być konsultowane z IOD, kto i w
+jakich sytuacjach powinien zgłaszać się w celu uzyskania konsultacji IOD, czy i na
+jakich zasadach IOD bierze udział w naradach kierownictwa?)
+W jaki sposób Administrator zapewnia IOD dostęp do danych osobowych i operacji
+przetwarzania?
+Czy Administrator przyjął jakiekolwiek regulacje wewnętrzne dotyczące funkcjono‐
+wania IOD (w szczególności zapewnienia poszanowania gwarancji jego niezależno‐
+ści oraz jego uprawnień w zakresie dostępu do danych osobowych i operacji prze‐
+twarzania, włączania we wszystkie sprawy dotyczące ochrony danych osobowych,
+unikania konfliktu interesów), a jeżeli tak, to w jakim akcie wewnętrznym zostały
+one przewidziane?
+W jaki sposób Administrator zapewnia, aby IOD nie były wydawane instrukcje co do
+wykonywania zdań przez IOD?
+W jaki sposób Administrator zapewnia, aby IOD nie były karany i odwoływany za
+wykonywanie swoich zadań?
+W jaki sposób Administrator postępuje w przypadku, gdy nie uwzględnia wskazówek
+lub rekomendacji IOD, np. czy dokumentuje powody niezastosowania tych wskazó‐
+wek?
+W jaki sposób osoby, których dane dotyczą, mogą kontaktować się z inspektorem
+ochrony danych zgodnie z art. 38 ust. 4 rozporządzenia 2016/679?
+Czy Inspektor Ochrony Danych wykonuje również inne obowiązki lub sprawuje inną
+funkcję poza obowiązkami związanymi z ochroną danych osobowych, jeżeli tak to:
+a) jakie oraz w jakim wymiarze czasu pełni funkcję IOD, a w jakim inne zadania,
+b) w jaki sposób Administrator ocenił, że w przypadku każdego z tych zadań nie
+występuje konflikt interesów, o którym mowa w art. 38 ust 6 rozporządzenia
+2016/679 ?
+c) Czy w zakresie wykonywania innych zadań IOD podlega innym osobom niż
+najwyższe kierownictwo administratora?
+Czy Administrator opracował politykę zarządzania konfliktem interesów lub wprowa‐
+dził inny mechanizm zapewniający niewystępowanie konfliktu interesów?
+Czy IOD wykonuje swoje zadania jedynie w siedzibie Administratora, a jeżeli nie, to
+w jakim miejscu i w jaki sposób zapewniona jest stała dostępność IOD dla
+kierownictwa i pracowników Administratora?
+Czy IOD opracował (systematycznie opracowuje) plan swojej pracy np. w zakresie
+szkoleń, audytów?
+Czy taki plan był prezentowany Administratorowi w celu umożliwienia dokonania
+oceny czy IOD dysponuje wystarczającymi zasobami i uprawnieniami w obszarach,
+które IOD obejmuje swoimi zadaniami?
+Jak często i w jaki sposób IOD przekazuje Administratorowi wyniki
+przeprowadzonych audytów?
+
+26)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 4 z 16
+
+Czy Administrator występował do IOD o udzielenie zaleceń co do oceny skutków dla
+ochrony danych, a jeśli tak, to w jakich sytuacjach?
+27) Czy administrator kontroluje pracę inspektora, jeżeli tak, to w jaki sposób?
+
+I. Ustalenia stanu faktycznego
+W związku z tym, że złożone przez Uniwersytet (…) wyjaśnienia w piśmie z 1 kwietnia
+2022 r. (nr (…)) nie pozwalały na dokonanie prawidłowej oceny stopnia przestrzegania
+przez niego przepisów rozporządzenia 2016/679 odnoszących się do inspektora ochrony
+danych, Prezes UODO uznał za konieczne ponowne zwrócenie się do Administratora o
+złożenie uzupełniających wyjaśnień w sprawie, co uczynił w piśmie z 30 maja 2022 r. Ad‐
+ministrator udzielił stosownej odpowiedzi w piśmie z 8 czerwca 2022 r. (nr (…)). Po prze‐
+analizowaniu zebranego w sprawie materiału dowodowego, w związku z istnieniem dal‐
+szych wątpliwości co do prawidłowego przestrzegania przepisów rozporządzenia
+2016/679 dotyczących inspektora ochrony danych, Prezes UODO zwrócił się do Admini‐
+stratora w piśmie z 25 września 2024 r. o złożenie dodatkowych wyjaśnień. Administrator
+uczynił to w piśmie z 8 października 2024 r. (nr (…)).
+Na podstawie wyjaśnień Administratora zawartych w pismach z 1 kwietnia 2022 r., 8
+czerwca 2022 r. i 8 października 2024 r. oraz nadesłanych dowodów, w tym także załą‐
+czonych do pisma z 7 marca 2025 r., poczyniono następujące ustalenia:
+1. Administrator przyjął model wewnętrznego IOD, co oznacza, że jest on członkiem
+personelu administratora danych. IOD w Uniwersytecie (…) został wyznaczony na
+podstawie zarządzenia nr (…) Rektora Uniwersytetu (…) w sprawie (…) zawartego w
+piśmie z (…) IOD zatrudniony jest u Administratora w oparciu o umowę o pracę. Za‐
+kres zadań IOD został zawarty w zarządzeniu nr (…) Rektora Uniwersytetu (…) z (…)
+w sprawie (…) w Uniwersytecie (…) oraz załącznikach do tego aktu, a także zakresie
+czynności i odpowiedzialności pracownika.
+2. Administrator w celu wsparcia IOD w wykonywaniu jego obowiązków powołał Za‐
+stępcę Inspektora, który wspomaga IOD merytorycznie w bieżących czynnościach
+oraz zastępuje IOD podczas jego nieobecności. W Uniwersytecie (…) nie został
+powołany odrębny, stały zespół wspierający pracę IOD.
+3. Zgodnie z pismem Administratora z 1 kwietnia 2022 r., „Uniwersytet (…) nie posiada
+polityki zarządzania konfliktem interesów rozumianej jako odrębne, pisemne zarzą‐
+dzenie Rektora (…). W ramach uczelni funkcjonują utrwalone w praktyce zasady
+przeciwdziałania konfliktowi interesów. Działania związane z jego wystąpieniem i
+prewencją podejmowane są na bieżąco, każdorazowo oceniając zaistnienie tego
+konfliktu i możliwości działania w danej sprawie. Z uwagi na prowadzoną politykę
+kadrową kwestia konfliktu interesów jest każdorazowo analizowana przed przyzna‐
+niem danej osobie funkcji czy zadań – podobnie jak w przypadku przydzielenia IOD
+funkcji (…)”. „Nie została wyznaczona do prowadzania takich analiz odrębna osoba
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+4.
+
+5.
+
+6.
+
+7.
+
+Strona 5 z 16
+
+czy jednostka organizacyjna (…). W takim przypadku stosuje się zasady ogólne w
+zakresie decydowania o istotnych dla działalności uczelni kwestiach, w tym poddaje
+się je pod dyskusję gremiom decyzyjnym. W szczególności sprawy wysokiej wagi
+dyskutowane są przez Kolegium (…)”. Na potwierdzenie powyższego Administrator
+nie przedstawił jakichkolwiek dowodów wskazujących na fakt stosowania w praktyce
+zasad mających na celu przeciwdziałanie ryzyku konfliktu interesów, jak również na
+fakt dokonania analizy zakresu dodatkowych zdań powierzonych IOD pod kątem
+ryzyka wystąpienia konfliktu interesów.
+(…) Z. G., (…) w Uniwersytecie (…) funkcję IOD, zostały powierzone również obo‐
+wiązki (…) Biuletynu Informacji Publicznej Uniwersytetu (…), na podstawie (…) w
+sprawie (…) z dniem (…) Zakres zadań na ww. stanowisku obejmuje m.in. opracowa‐
+nie regulaminu określającego zasady wprowadzania informacji do Biuletynu Infor‐
+macji Publicznej Uniwersytetu (…) oraz przekazywanie wiedzy na ten temat człon‐
+kom zespołu redakcyjnego Biuletynu Informacji Publicznej oraz członkom „zespołu
+(…)”, nadzór nad prawidłowym funkcjonowaniem Biuletynu Informacji Publicznej
+Uniwersytetu (…), w tym stały nadzór nad wprowadzaniem informacji do tego Biule‐
+tynu, organizowanie spotkań i szkoleń dla zespołu redakcyjnego Biuletynu Informacji
+Publicznej Uniwersytetu (…) oraz „zespołu (…)”.
+Inspektorowi ochrony danych, oprócz obowiązków opisanych powyżej, zostały po‐
+wierzone z dniem (…) także obowiązki członka zespołu do sprawy przyjmowania
+zgłoszeń od sygnalistów, na podstawie decyzji nr (…) Rektora Uniwersytetu (…) z
+(…) w sprawie (…). W skład zespołu, który jest dwuosobowy, wchodzi także Zastęp‐
+ca IOD. Do zadań ww. zespołu należało w szczególności opracowanie regulaminu i
+wdrożenie procedury (…), przyjmowanie od sygnalistów zgłoszeń naruszeń oraz ich
+weryfikacja, prowadzenie rejestru zgłoszeń, rozpoznawanie spraw i podejmowanie
+działań następczych, współpraca w zakresie rozpatrywania zgłoszeń z właściwymi
+kompetencyjnie jednostkami organizacyjnymi Uniwersytetu (…), koordynowanie po‐
+stępowań wyjaśniających, implementowanie wiedzy w zakresie dyrektywy Parla‐
+mentu Europejskiego i Rady (UE) 2019/1937 z dnia 23 października 2019 r. w spra‐
+wie ochrony osób zgłaszających naruszenia prawa Unii, prowadzenie okresowych
+konsultacji dla kierowników jednostek organizacyjnych (…) oraz planowanie i
+koordynowanie pracy zespołu.
+Na podstawie Decyzji nr (…) Rektora Uniwersytetu (…) z (…) w sprawie (…) oraz
+zmiany decyzji nr (…) Rektora Uniwersytetu (…) z dnia (…) w sprawie (…), załączo‐
+nej do pisma Administratora z 7 marca 2025 r., IOD został odwołany z pełnienia
+funkcji członka Zespołu ds. rozpatrywania zgłoszeń od sygnalistów w Uniwersytecie
+(…) z dniem (…)
+Administrator w odpowiedzi na pytanie Prezesa UODO dotyczące wyjaśnienia, w jaki
+sposób ocenił, że w przypadku dodatkowych zadań przydzielonych IOD nie występu‐
+je konflikt interesów, o którym mowa w art. 38 ust 6 rozporządzenia 2016/679,
+wyjaśnił, że:
+a. Funkcja (…) BIP „po części jest zbieżna z zadaniami IOD, przede wszystkim w
+zakresie zgodnego z prawem publikowania danych osobowych w (…) oraz ich
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+b.
+
+c.
+
+d.
+
+e.
+
+f.
+
+Strona 6 z 16
+
+retencji” (pismo z 1 kwietnia 2022 r.) i zapewnia „większą kontrolę nad procesa‐
+mi przetwarzania danych oraz usprawnienie tych procesów” (pismo z 8 paź‐
+dziernika 2024 r.).
+„Pomiędzy obowiązkami (…) BIP i zadaniami IOD nie występują sprzeczności,
+które mogłyby wpłynąć na ich realizację, a wręcz występuje spójność tych za‐
+dań. Co więcej, funkcja te nie wymaga determinowania celów i sposobów prze‐
+twarzania danych osobowych, jako że te w zakresie funkcjonowania BIP wynika‐
+ją bezpośrednio z regulujących to aktów prawnych i zadań uczelni wyższej” (pi‐
+smo z 1 kwietnia 2022 r.). „IOD (…) tylko koordynuje działania w ramach BIP
+(…), nie wykonuje zdań technicznych związanych z zamieszczaniem informacji
+w BIP (…)” (pismo z 8 października 2024 r.).
+„Wykonywanie Funkcji (…) BIP (…) tygodniowo w zależności od natężenia wpły‐
+wających spraw zajmuje od kilku do kilkunastu godzin. W zakresie wykonywania
+tej funkcji IOD (…) koordynuje zespołem 70 osób, nie będąc jednak
+kierownikiem jednostki” (pismo z 1 kwietnia 2022 r.).
+Administrator „ocenił także, że również w zakresie przyjmowania zgłoszeń sy‐
+gnalistów IOD nie będzie decydował o celach i sposobach przetwarzania danych
+osobowych jako, że ADO określi szczegółowo procedurę postępowania w tych
+sprawach w aktach wewnętrznych, a cele przetwarzania tych danych wynikają z
+ustawodawstwa unijnego” (pismo z 1 kwietnia 2022 r.). W odniesieniu zaś do
+czasu poświęconego na dodatkowe obowiązki, Administrator wskazał, że będzie
+na bieżąco monitorował czas poświęcany przez IOD na to zadanie w stosunku
+do liczby wpływających zgłoszeń od sygnalistów (pismo Administratora z 8
+października 2024 r.).
+W zakresie obydwu przydzielonych IOD funkcji „nie zachodzi także konflikt inte‐
+resów w wymiarze czasowym, tj. w zakresie niemożności pogodzenia obowiąz‐
+ków z uwagi na brak czasu koniecznego do ich realizacji” (pismo Administratora
+z 1 kwietnia 2022 r.).
+IOD w ramach wszystkich przydzielonych obowiązków podlega służbowo bezpo‐
+średnio Rektorowi Uniwersytetu (…) (pismo Administratora z 1 kwietnia 2022 r.).
+
+Poczynione powyżej ustalenia, świadczące o niewypełnianiu przez Administratora obo‐
+wiązku określonego w art. 38 ust. 6 rozporządzenia 2016/679 stanowiły podstawę wsz‐
+częcia z urzędu przez Prezesa UODO postępowania administracyjnego w przedmiocie na‐
+ruszenia przepisów o ochronie danych osobowych poprzez niezapewnienie, że na inspek‐
+tora ochrony danych nie są nakładane zadania i obowiązki mogące powodować konflikt
+interesów (pismo z 16 grudnia 2024 r., znak: (…)). W zakresie pozostałych kwestii będą‐
+cych przedmiotem pytań zawartych w piśmie Prezesa UODO z 16 marca 2022 r. (sygn.
+(…)) skierowanym do Administratora nie stwierdzono naruszeń przepisów
+rozporządzenia 2016/679.
+Uniwersytet (…) w D. w piśmie z 30 grudnia 2024 r. nie zgodził się zarzutem naruszenia
+przepisu art. 38 ust. 6 rozporządzenia 2016/679, o którym mowa w zawiadomieniu o
+wszczęciu postępowania administracyjnego z 16 grudnia 2024 r. (sygn. (…)). W swoim
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 7 z 16
+
+piśmie Administrator podniósł, że Uniwersytet (…) nie ma obowiązku prawnego wdroże‐
+nia polityki zarządzania konfliktem interesów lub innego dokumentu potwierdzającego
+wdrożenie zasad zapewniających niewystępowanie konfliktu interesów. Ponadto Admini‐
+strator w przywołanym piśmie powiela argumentację zawartą w nadesłanych w niniejszej
+sprawie pismach, podkreślając, że:
+1. Uniwersytet (…) „przed powołaniem (…) Z. G. do pełnienia funkcji (…) Biuletynu In‐
+formacji Publicznej zbadał, czy nie wystąpi w tym przypadku konflikt interesów. Ana‐
+lizując to powołanie Administrator nie stwierdził w tym przypadku konfliktu intere‐
+sów, a wręcz większą kontrolę nad procesami przetwarzania danych oraz usprawnie‐
+nie tych procesów. Uniwersytet (…) stwierdził, że pomiędzy obowiązkami (…) BIP i
+zadaniami IOD nie występują sprzeczności, które mogłyby wpłynąć na ich realizację,
+a wręcz występuje spójność tych zadań”.
+2. Funkcja (…) Biuletynu Informacji Publicznej „nie wymaga determinowania celów i
+sposobów przetwarzania danych osobowych, jako że te w zakresie funkcjonowania
+Biuletynu Informacji Publicznej wynikają bezpośrednio z regulujących to aktów praw‐
+nych i zadań uczelni wyższej. Z regulaminu organizacyjnego wynika, że (…) Z. G.
+jako (…) Biuletynu Informacji Publicznej nie jest kierownikiem jednostki organizacyj‐
+nej”, a ponadto „jedynie koordynuje pracę redaktorów zapewniających obsługę or‐
+ganizacyjną procesów zamieszczania dokumentów w Biuletynie Informacji Publicz‐
+nej, które to dokumenty są przekazywane przez właściwe jednostki Uniwersytetu
+(…)”.
+3. Powołanie IOD do zespołu ds. przyjmowania zgłoszeń od sygnalistów „wynikało z
+jego niezależności, bezstronności, podległości bezpośredniej Rektorowi (…), umiejęt‐
+ności rozpatrywania spraw w poufności, a także, znajomości zagadnień z zakresu
+ochrony danych osobowych i poufności”.
+4. Procedura dotycząca przyjmowania zgłoszeń od sygnalistów obowiązująca w
+Uniwersytecie (…) „przewiduje przyjęcie zgłoszenia przez Zespół ds. przyjmowania
+zgłoszeń od sygnalistów, którego członkiem jest IOD i w przypadku stwierdzenia, że
+zgłoszenie ma charakter naruszenia prawa, powołanie, do jego rozpatrzenia, przez
+Rektora Komisji (…) składającej się z minimum trzech pracowników Uniwersytetu
+(…), z wyłączeniem IOD z jej składu osobowego”.
+5. Członkowie zespołu ds. przyjmowania zgłoszeń stanowią „wsparcie administracyjne
+oraz organizacyjne dla Komisji (…) oraz są gwarancją zapewniania sygnaliście pouf‐
+ności”.
+6. Zadania polegające na przyjmowaniu zgłoszeń od sygnalistów nie wiążą się z okre‐
+ślaniem celów i sposobów przetwarzania danych osobowych, gdyż „sprowadzają się
+do czynności przygotowawczych – administracyjnych i organizacyjnych. Działania
+następcze związane z naruszeniem wykonywane są już przez inne podmioty”.
+7. Mając na względzie kwestie organizacyjne, związane z funkcjonowaniem
+Uniwersytetu (…), „w najbliższym czasie IOD zostanie odwołany przez Rektora (…) i
+nie będzie członkiem Zespołu ds. przyjmowana zgłoszeń od sygnalistów”.
+8. Każdorazowo kwestia powierzenia określonych zadań IOD była analizowana w
+realiach działania Uniwersytetu (…), „uwzględniając praktyczne względy wykonywa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 8 z 16
+
+nia obowiązków (…) Biuletynu Informacji Publicznej oraz członka zespołu ds. przyj‐
+mowania zgłoszeń od sygnalistów, a także zderzając te zadania ze strukturą organi‐
+zacyjną Uniwersytetu (…). Powierzając te obowiązki, Administrator dopilnował, aby
+nie wykraczały one poza wsparcie administracyjno-organizacyjne, nie miały
+charakteru decyzyjnego i zarządczego”. IOD został pouczony przez Administratora o
+pierwszeństwie wykonywania obowiązków inspektorskich.
+
+II. Ocena prawna ustalonego stanu faktycznego
+Zgodnie z art. 34 ustawy o ochronie danych osobowych, Prezes UODO jest organem wła‐
+ściwym w sprawie ochrony danych i organem nadzorczym w rozumieniu rozporządzenia
+2016/679. Stosownie do art. 57 ust. 1 lit. a) i h) rozporządzenia 2016/679, bez uszczerb‐
+ku dla innych zadań określonych na mocy tego rozporządzenia, każdy organ nadzorczy
+na swoim terytorium monitoruje i egzekwuje stosowanie rozporządzenia oraz prowadzi
+postępowania w sprawie naruszenia rozporządzenia. Zgodnie z art. 58 ust. 2 lit. d) roz‐
+porządzenia 2016/679, każdemu organowi nadzorczemu przysługują uprawnienia na‐
+prawcze, w tym nakazanie administratorowi dostosowania operacji przetwarzania do
+przepisów tego rozporządzenia, a w stosownych przypadkach wskazanie sposobu i ter‐
+minu.
+Rozporządzenie 2016/679 w art. 37 – 39 nakłada na administratorów konkretne obowiąz‐
+ki związane nie tylko z wyznaczaniem inspektora ochrony danych, posiadania przez nie‐
+go właściwych kwalifikacji i gwarancji niezależności, ale też skutecznego zapewnienia,
+aby wyznaczony inspektor mógł prawidłowo realizować swoje zadania.
+W niniejszym postępowaniu Prezes Urzędu Ochrony Danych Osobowych stwierdził naru‐
+szenie przez Uniwersytet (…) w D. art. 38 ust. 6 rozporządzenia 2016/679, polegające na
+niezapewnieniu, że na inspektora ochrony danych nie są nakładane zadania mogące
+powodować konflikt interesów.
+Zgodnie z art. 38 ust. 6 rozporządzenia 2016/679, IOD może wykonywać inne zadania i
+obowiązki, przy czym administrator lub podmiot przetwarzający powinni zapewnić, by ta‐
+kie zadania i obowiązki nie powodowały konfliktu interesów. Wymóg niepowodowania
+konfliktu interesów jest ściśle związany z wymogiem wykonywania zadań przez IOD w
+sposób niezależny.
+Określenie „zapewnić” użyte na gruncie omawianego przepisu rozporządzenia 2016/679
+statuuje obowiązek podjęcia przez kierownictwo podmiotu będącego administratorem
+konkretnych, realnych i dających się wykazać środków (działań) zmierzających do osią‐
+gnięcia celu wyznaczonego przez ten przepis. Według Słownika języka polskiego „zapew‐
+nić” to: „1. oświadczyć komuś, że coś jest lub będzie na pewno, 2. sprawić, że coś się
+stanie lub ktoś uzyska coś”. W związku z powyższym, „zapewnieniem” na gruncie prze‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 9 z 16
+
+pisu art. 38 ust. 6 rozporządzenia 2016/679 mogłyby być zatem odpowiednio dobrane w
+danej sytuacji działania Administratora polegające np. na przyjęciu takich rozwiązań we‐
+wnętrznych, które zapewnią warunki do identyfikacji, zapobiegania i zarządzania
+konfliktem interesów. W tym znaczeniu „zapewnienie” to następnie także kontrolowanie
+przyjętych rozwiązań w kontekście ich efektywności i w razie potrzeby podejmowanie w
+tym zakresie korygujących działań.
+Innymi słowy prawidłowa realizacja obowiązku wynikającego z ww. przepisu rozporządze‐
+nia 2016/679 wymaga zatem od administratora zarządzania konfliktem interesów w celu
+unikania sytuacji, które mogłyby doprowadzić do powstania konfliktu interesów w związ‐
+ku z powierzeniem IOD wykonywania innych zadań i obowiązków, poprzez opracowanie i
+wdrożenie rozwiązań o charakterze organizacyjnym, proceduralnym, mających elimino‐
+wać ryzyko wystąpienia takiego konfliktu. Rolą administratora jest bowiem monitorowa‐
+nie sytuacji mogących stanowić zagrożenie zasady zapobiegania konfliktowi interesów.
+Grupa Robocza art. 29 w Wytycznych dotyczących inspektora ochrony danych rekomen‐
+duje, w ramach dobrych praktyk dla administratorów, przykładowo opracowanie we‐
+wnętrznych zasad pozwalających uniknąć konfliktu interesów, określenie stanowisk nie‐
+zgodnych z funkcją IOD, zapewnienie bardziej ogólnego wyjaśnienia dotyczącego konflik‐
+tów interesów, zadeklarowanie, że IOD nie ma konfliktu interesów w odniesieniu do peł‐
+nionej przez siebie funkcji, celem zwiększenia świadomości na temat tego wymogu.
+Nawiązując do brzmienia powołanego przepisu art. 38 ust. 6 rozporządzenia 2016/679
+podkreślić należy, że zasada rozliczalności wymaga w szczególności, aby administrato‐
+rzy wykazywali logikę, na której oparli swoje decyzje, i potrafili uzasadnić, dlaczego przy‐
+jęli określone rozwiązania. Zasada ta na gruncie analizowanego przepisu rozporządzenia
+2016/679 ulega wzmocnieniu z uwagi na zobowiązanie administratora do tego, aby za‐
+pewnił, że inne zadania lub obowiązki nałożone na IOD nie będą generowały konfliktu in‐
+teresów z zadaniami i obowiązkami inspektora ochrony danych. Nie ulega zatem wątpli‐
+wości, że w celu prawidłowego wykonania tego obowiązku Administrator musi przyjąć
+określone zasady i sposoby postępowania swojego personelu, np. w postaci wprowadze‐
+nia regulacji wewnętrznych dotyczących przeciwdziałaniu konfliktowi interesów lub inne‐
+go środka o charakterze organizacyjnym, za pomocą którego będzie mógł wykazać
+przyjęcie i wdrożenie odpowiednich rozwiązań w tym zakresie.
+Wymóg niepowodowania konfliktu interesów ściśle związany jest z wykonywaniem zadań
+przez IOD w sposób niezależny i implikuje niemożność powierzenia IOD stanowiska w or‐
+ganizacji, które zapewniałoby mu dostęp do informacji pozwalających mu ustalić cele i
+sposoby przetwarzania danych osobowych.
+W Wytycznych dotyczących inspektora ochrony danych Grupa Robocza art. 29 wskazała
+stanowiska w organizacji, w przypadku których dochodzi do konfliktu interesów. Należą
+do nich stanowiska w strukturze kadry kierowniczej wyższego szczebla (takie jak dyrek‐
+tor generalny, dyrektor ds. operacyjnych, dyrektor ds. finansowych, dyrektor ds. me‐
+dycznych, kierownik departamentu marketingu, kierownik działu kadr lub kierownik de‐
+partamentów IT), ale również inne stanowiska na niższych szczeblach struktury organi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 10 z 16
+
+zacyjnej, jeżeli piastowanie tych stanowisk lub pełnienie tych funkcji zapewnia możli‐
+wość ustalenia celów i sposobów przetwarzania. Sednem powyższego stanowiska jest,
+że IOD nie może realizować obowiązków administratora, ponieważ – zgodnie z przepisa‐
+mi prawa – zadaniem IOD jest ocenianie (monitorowanie), czy obowiązki te są
+realizowane zgodnie z prawem.
+Mając powyższe na uwadze, wskazać należy, że ocena, czy w przypadku konkretnej oso‐
+by i wykonywanych przez nią zadań nie występuje konflikt interesów, powinna być
+dokonywana indywidualnie z uwzględnieniem konkretnych okoliczności.
+Dla przykładu Belgijski Urząd Ochrony Danych (DPA) w decyzji z 28 kwietnia 2020 r., na‐
+kładającej administracyjną karę pieniężną za naruszenie art. 38 ust. 6 rozporządzenia
+2016/679, rozpatruje konflikt interesów nawiązując do podejścia w Niemczech i doktryny
+prawnej, która odwołuje się do kryteriów takich jak: istnienie lub brak samokontroli przez
+osobę pełniącą wiodącą funkcję w przedsiębiorstwie, istnienie lub brak wewnętrznych
+przepisów dotyczących konfliktów interesów oraz ponoszenie znaczącej odpowiedzialno‐
+ści operacyjnej mającej wpływ na dane osobowe[1].
+W tej materii wypowiedział się także TSUE, który w wyroku z 9 lutego 2023 r. zauważył,
+że „(…) zgodnie z celem realizowanym przez art. 38 ust. 6 RODO nie można powierzyć
+osobie będącej IOD wykonywania zadań lub obowiązków, które mogłyby zaszkodzić
+pełnieniu funkcji, które wykonuje jako IOD”[2]. W konsekwencji, identyfikacja potencjal‐
+nego konfliktu interesu następować powinna w ścisłym nawiązaniu do wyznaczonych
+ww. przepisami rozporządzenia 2016/679 zadań i obowiązków IOD.
+Ponadto możliwość zaistnienia konfliktu powinna być stale monitorowana, ponieważ
+przyczyny zaistnienia takiego konfliktu mogą występować również w późniejszym czasie,
+po rozpoczęciu pełnienia funkcji przez IOD. Administrator powinien przy dokonywaniu ta‐
+kiej oceny uwzględnić m.in. kryteria organizacyjne, merytoryczne oraz czasowe.
+Kryterium organizacyjne oznacza, że w przypadku jednoczesnego pełnienia przez tę
+samą osobę funkcji IOD i wykonywania przez nią innych zadań na rzecz administratora
+wymagane jest, aby w obu przypadkach podlegała ona bezpośrednio najwyższemu kie‐
+rownictwu w rozumieniu art. 38 ust. 3 rozporządzenia 2016/679. Kryterium merytorycz‐
+ne warunkuje z kolei, aby inne obowiązki przydzielone IOD nie wpływały w sposób nega‐
+tywny na niezależne wykonywanie zadań IOD. Natomiast kryterium czasowe zakłada, że
+IOD pełniący jednocześnie inną funkcję powinien dysponować czasem pozwalającym mu
+na prawidłowe realizowanie wszystkich zadań. Uwzględnienie powyższego kryterium po‐
+winno obejmować analizę, czy IOD pełniący jednocześnie inną funkcję będzie w stanie
+rzetelnie wykonywać swoje obowiązki we właściwy sposób, biorąc pod uwagę w
+szczególności stopień skomplikowania i liczbę innych zadań.
+W związku z powyższym Administrator przed powierzeniem IOD wykonywania innych za‐
+dań powinien dokonać analizy, z uwzględnieniem powyższych kryteriów, czy IOD będzie
+w stanie w sposób efektywny wykonywać swoje obowiązki przy pełnieniu wszystkich
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 11 z 16
+
+funkcji jednocześnie. Nieprzeprowadzenie analizy w tym zakresie może w konsekwencji
+spowodować naruszenie przepisów o ochronie danych osobowych.
+Dokumentowanie analizy oceniającej istnienie konfliktu interesów rekomenduje także
+francuski organ nadzorczy w rozumieniu rozporządzenia 2016/679, tj. Krajowa Komisja
+ds. Informatyki oraz Wolności (CNIL), która w opublikowanym poradniku zawierającym
+wytyczne dotyczące roli IOD wskazuje, że organizacja, która wyznaczyła IOD musi być w
+stanie udowodnić, że IOD spełnia wymagania zawarte w rozporządzeniu 2016/679. Przy‐
+kładowo wskazuje na wymóg braku występowania konfliktu interesów. Zgodnie z zasadą
+rozliczalności podmiot ten musi zgromadzić dokumentację wewnętrzną, aby potwierdzić
+spełnianie tych wymogów, gdyż w przypadku kontroli podmiot może zostać poproszony
+o przedstawienie np. pisemnej analizy braku konfliktu interesów[3].
+Administrator w odpowiedzi na zawiadomienie o wszczęcie postępowania administracyj‐
+nego, a także w uprzednio nadesłanych pismach wyjaśnił, że przed powierzeniem IOD
+funkcji (…) Biuletynu Informacji Publicznej i zadań członka zespołu ds. przyjmowania
+zgłoszeń od sygnalistów dokonał analizy pod kątem możliwości wystąpienia konfliktu in‐
+teresów w zakresie dodatkowych zadań IOD i w tym przedmiocie nie stwierdził sprzecz‐
+ności. Powyższe wywiódł przede wszystkim ze sposobu ukształtowania obowiązków (…)
+Biuletynu Informacji Publicznej i członków zespołu do spraw przyjmowania zgłoszeń od
+sygnalistów, których istota, w ocenie Administratora, sprowadza się do wsparcia admini‐
+stracyjno-organizacyjnego i nie zakłada determinowania celów i sposobów przetwarzania
+danych osobowych oraz braku konfliktu czasowego pomiędzy tymi dodatkowymi
+zadaniami a zadaniami IOD, rozumianego przez Administratora jako: „niemożności pogo‐
+dzenia obowiązków z uwagi na brak czasu koniecznego do ich realizacji”.
+Na potwierdzenie powyższych wyjaśnień Administrator nie przedstawił jednak, pomimo
+wezwania, w żadnym z nadesłanych w sprawie pism, jakichkolwiek dowodów potwier‐
+dzających kto, kiedy (w jakich okolicznościach), w jakim zakresie, w jaki sposób i na ja‐
+kiej podstawie przeprowadził analizę możliwości wystąpienia konfliktu interesów w za‐
+kresie powierzenia IOD obowiązków (…) Biuletynu Informacji Publicznej i członka zespołu
+do spraw przyjmowania zgłoszeń od sygnalistów. Powyższe w konsekwencji uniemożliwia
+odniesienie się do twierdzeń przedstawionych w tym zakresie przez Administratora i do‐
+konanie oceny spełnienia wymagań określonych w rozporządzeniu 2016/679, a także po‐
+twierdza, jak ważne jest wdrożenie w organizacji zasad zarządzania konfliktem intere‐
+sów.
+Jak podkreślono powyżej, powierzenie IOD dodatkowych obowiązków i zadań w organiza‐
+cji powinno być poprzedzone szczegółową analizą z uwzględnieniem kryterium meryto‐
+rycznego, organizacyjnego i czasowego w celu wykazania zapewnienia IOD warunków do
+prawidłowego wykonywania jego roli i braku konfliktu interesów.
+W tym aspekcie, nawet gdyby przyjąć wyjaśnienia Administratora za wiarygodne i
+uznać, iż dokonał on analizy, nawet w sposób nieformalny, w przedmiocie możliwości
+wystąpienia konfliktu interesów w zakresie powierzenia IOD obowiązków (…) Biuletynu
+Informacji Publicznej i zadań członka zespołu ds. przyjmowania zgłoszeń od sygnalistów,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 12 z 16
+
+to Administrator nie odniósł się w swoich wyjaśnieniach do np. czasu, jaki IOD poświęcił‐
+by na wykonywanie dodatkowych zadań polegających m.in. na opracowaniu regulaminu
+i wdrożeniu procedury (…), a także na opracowaniu regulaminu określającego zasady
+wprowadzania informacji do Biuletynu Informacji Publicznej i organizowaniu spotkań i
+szkoleń dla zespołu redakcyjnego BIP w Uniwersytecie (…) oraz „zespołu (…)”.
+Podkreślić należy, że w ocenie Prezesa UODO ryzyko konfliktu interesów powoduje przy‐
+pisanie IOD zadań (…) Biuletynu Informacji Publicznej, na podstawie Komunikatu (…) z
+(…), polegających na opracowaniu i wdrożeniu regulaminu określającego zasady wpro‐
+wadzania informacji do Biuletynu Informacji Publicznej Uniwersytetu (…), gdyż wiążą się
+z ryzykiem określania przez IOD celów i sposobów przetwarzania, a także nadzorze nad
+prawidłowym funkcjonowaniem Biuletynu Informacji Publicznej Uniwersytetu (…), w tym
+stałym nadzorze nad wprowadzaniem informacji do tego Biuletynu. Ogólnie rzecz ujmu‐
+jąc, zadania polegające na nadzorze obejmują ciąg czynności, na które składają się za‐
+równo czynności kontrolne, jak i egzekwowanie poleceń, co wynika z samej istoty nadzo‐
+ru. Innymi słowy nadzór obejmuje element kontroli (czyli obserwację, ocenę i sformuło‐
+wanie wniosków) oraz możliwość wiążącego oddziaływania i władczej ingerencji w działa‐
+nie podmiotu w celu skorygowania jej w określonym kierunku. Przypisanie IOD upraw‐
+nień władczych wykracza poza zakres obowiązków wyrażonych w art. 39 rozporządzenia
+2016/679 i narusza zasady sprawowania funkcji IOD. Tymczasem zaangażowanie IOD w
+proces tworzenia i publikowania informacji w Biuletynie Informacji Publicznej powinien
+sprowadzać się do roli opiniodawczo – doradczej.
+Ponadto, w ocenie Prezesa UODO, ryzyko konfliktu interesów powodowało także powie‐
+rzenie przed dniem (…) IOD zadań członka zespołu ds. przyjmowania zgłoszeń od sygna‐
+listów, na podstawie decyzji nr (…) Rektora Uniwersytetu (…) z (…) w sprawie (…), pole‐
+gających m.in. na opracowaniu regulaminu i wdrożeniu procedury (…), przyjmowanie od
+sygnalistów zgłoszeń naruszeń oraz ich weryfikacja, rozpoznawanie spraw i podejmowa‐
+nie działań następczych, współpraca w zakresie rozpatrywania zgłoszeń z właściwymi
+kompetencyjnie jednostkami organizacyjnymi Uniwersytetu (…), koordynowanie postę‐
+powań wyjaśniających. Taki sposób ukształtowania dodatkowych obowiązków i zadań
+IOD wiąże się, wbrew twierdzeniu Administratora, z ryzykiem określania przez IOD spo‐
+sobów i celów przetwarzania, czyli decydowaniem dlaczego i jak dane osobowe będą
+przetwarzane, a w konsekwencji prowadzi do konfliktu interesów ze względu na fakt
+sprawowania przez IOD nadzoru nad własną działalnością. W sytuacji, gdy IOD wykonuje
+określoną czynność, a następnie monitoruje prawidłowość jej wykonania dochodzi do
+konfliktu interesów, ponieważ w ten sposób IOD jest obciążony zadaniem administratora,
+którego realizację (pod względem jej zgodności z przepisami o ochronie danych osobo‐
+wych) ma oceniać. W ten sposób występuje w podwójnej roli i może być zainteresowany
+pozytywnym recenzowaniem swoich działań, kosztem obiektywnego wskazywania
+kwestii wymagających korekty.
+Zaangażowanie IOD w proces ochrony danych osobowych sygnalistów powinien sprowa‐
+dzać się do opiniowania procedur, rekomendowania określonych rozwiązań pod kątem
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 13 z 16
+
+zgodności z przepisami o ochronie danych osobowych. IOD nie powinien natomiast po‐
+dejmować działań związanych z opracowaniem procedur, przyjmowaniem, weryfikacją i
+rozpatrywaniem zgłoszeń sygnalistów obejmujących naruszenia prawa. Funkcja IOD na
+tym etapie powinna sprowadzać się zatem do pełnienia roli doradczej w przypadku zaist‐
+nienia wątpliwości związanych np. z ochroną danych osobowych sygnalisty. W przeciw‐
+nym wypadku IOD realizuje obowiązki administratora, podczas, gdy jego rolą jest
+monitorowanie, czy obowiązki te są realizowane zgodnie z prawem.
+Jednocześnie wskazania wymaga, że w piśmie z 30 grudnia 2024 r. Administrator
+oświadczył, że „w najbliższym czasie IOD zostanie odwołany przez Rektora (…) i nie bę‐
+dzie członkiem Zespołu ds. przyjmowana zgłoszeń od sygnalistów”. Następnie do pisma
+z 7 marca 2025 r. Administrator załączył treść Decyzji nr (…) Rektora Uniwersytetu (…) z
+(…) w sprawie (…) oraz zmiany decyzji nr (…) Rektora Uniwersytetu (…) z dnia (…) w
+sprawie (…), z której m.in. wynika, że (…) Z. G. (…) funkcję IOD (…) z pełnienia funkcji
+członka Zespołu ds. rozpatrywania zgłoszeń od sygnalistów w Uniwersytecie (…) z dniem
+(…) Powyższe świadczy o powzięciu przez Administratora wątpliwości związanych z pra‐
+widłowością powierzenia IOD obowiązków członka zespołu do spraw przyjmowania
+zgłoszeń od sygnalistów.
+Podkreślenia wymaga, że z uwagi na charakter zadań IOD skupiających się na doradza‐
+niu oraz monitorowaniu działalności administratora pod kątem zgodności operacji prze‐
+twarzania danych osobowych z przepisami o ochronie danych osobowych oraz wymóg
+sprawowania tej funkcji w sposób niezależny, Administrator nie powinien nakładać na
+IOD zadań, które zgodnie z przepisami rozporządzenia 2016/679 należą do administrato‐
+ra, a które mogą powodować konflikt interesów. Przyjęcie odmiennego założenia, w któ‐
+rym IOD byłby odpowiedzialny za wykonanie określonego zadania administratora, dopro‐
+wadziłoby w efekcie do sytuacji, gdzie IOD sprawowałby de facto nadzór nad własną
+działalnością, a więc do konfliktu interesów. Taka sytuacja uniemożliwia pogodzenie pra‐
+widłowego wykonywania zadań inspektora ochrony danych, przypisanych mu w art. 38
+ust. 4 oraz art. 39 rozporządzenia 2016/679, z realizacją innych zadań, gdyż pomiędzy
+zadaniami występuje sprzeczność, uniemożliwiająca odpowiednią ich realizację (wystę‐
+powanie IOD jednocześnie w dwóch rolach lub podejmowanie przez niego działań lub de‐
+cyzji, które następnie muszą podlegać jego ocenie zgodnie z art. 39 ust. 1 lit. a) rozpo‐
+rządzenia 2016/679). Ponadto trudno o rzetelną i obiektywną ocenę przez inspektora
+ochrony danych własnych działań, podjętych wcześniej na etapie wdrażania w organiza‐
+cji Administratora przykładowo regulacji wewnętrznych służących ochronie sygnalistów.
+W konsekwencji powyższego IOD może nie być zainteresowany wykazywaniem niezgod‐
+ności z przepisami rozporządzenia 2016/679, ponieważ uderzałoby to w niego jako tego,
+który za to wdrożenie odpowiadał. Takie podejście, oprócz generowania konfliktu intere‐
+sów, powoduje także osłabienie systemu ochrony danych osobowych funkcjonującego w
+takiej organizacji, gdyż nikt (a najmniej IOD) nie dąży do jego weryfikacji pod kątem sku‐
+teczności przyjętych rozwiązań oraz godzi w same fundamenty instytucji IOD, opartej w
+pierwszym rzędzie na niezależności jego funkcjonowania.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 14 z 16
+
+Ponadto IOD, w przypadku powierzenia mu także innych zadań i obowiązków, powinien
+mieć zagwarantowany odpowiedni czas pozwalający mu na prawidłowe i efektywne re‐
+alizowanie swojej roli, z uwzględnieniem w szczególności stopnia skomplikowania i liczby
+innych zadań, a także podlegać bezpośrednio najwyższemu kierownictwu Administratora
+w ramach wszystkich pełnionych obowiązków.
+Ponownie podkreślić należy, że administrator stosownie do zasady rozliczalności wyrażo‐
+nej w art. 5 ust. 2 rozporządzenia 2016/679 jest zobowiązany wykazać, że spełnia wymo‐
+gi rozporządzenia 2016/679 poprzez wykazanie, że opracował i stosuje środki mające na
+celu przestrzeganie przepisów o ochronie danych osobowych, w tym przypadku, że przy‐
+jął wewnętrzne rozwiązania mające na celu rzeczywiste zapewnienie, że inspektor ochro‐
+ny danych nie będzie realizował zadań i obowiązków, które powodują konflikt interesów.
+Jak wspomniano powyżej, opracowanie takich zasad rekomenduje Grupa Robocza art. 29
+w swoich wytycznych.
+Administrator w swoich wyjaśnieniach zawartych m.in. w piśmie z 1 kwietnia 2022 r. wy‐
+jaśnił jedynie, że w Uniwersytecie (…) funkcjonują utrwalone w praktyce zasady przeciw‐
+działania konfliktowi interesów, jednakże nie przedstawił w tym zakresie jakiegokolwiek
+dowodu potwierdzającego ten fakt.
+Mając na uwadze powyższe oraz zgromadzony w sprawie materiał dowodowy, Prezes
+UODO stwierdził, że Administrator nie spełnia wymogów art. 38 ust. 6 rozporządzenia
+2016/679 w zakresie wdrożenia środków zapewniających, by na inspektora ochrony da‐
+nych nie były nakładane obowiązki i zadania mogące powodować konflikt interesów.
+
+III. Uzasadnienie udzielenia upomnienia.
+W związku z powyższym, działając na podstawie art. 58 ust. 2 lit. b) rozporządzenia
+2016/679, zgodnie z którym każdemu organowi nadzorczemu przysługuje w zakresie
+prowadzonych postępowań uprawnienie do udzielania upomnienia administratorowi, w
+przypadku naruszenia przepisów niniejszego rozporządzenia przez operacje przetwarza‐
+nia, Prezes UODO uznaje za uzasadnione udzielenie Administratorowi upomnienia w za‐
+kresie stwierdzonego naruszenia przepisu art. 38 ust. 6 rozporządzenia 2016/679.
+Motyw 148 rozporządzenia 2016/679 stanowi, że aby egzekwowanie przepisów rozporzą‐
+dzenia było skuteczniejsze, należy za jego naruszenie nakładać sankcje, w tym admini‐
+stracyjne kary pieniężne – oprócz lub zamiast odpowiednich środków nakładanych na
+mocy niniejszego rozporządzenia przez organ nadzorczy. Jeżeli naruszenie jest niewiel‐
+kie, karę pieniężną można zastąpić upomnieniem. Powinno się jednak zwrócić należytą
+uwagę na charakter, wagę oraz czas trwania naruszenia, na to, czy naruszenie nie było
+umyślne, na działania podjęte dla zminimalizowania szkody, na stopień odpowiedzialno‐
+ści lub wszelkie mające znaczenie wcześniejsze naruszenia, na sposób, w jaki organ nad‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 15 z 16
+
+zorczy dowiedział się o naruszeniu, na przestrzeganie środków nałożonych na admini‐
+stratora lub podmiot przetwarzający, na stosowanie kodeksów postępowania oraz
+wszelkie inne czynniki obciążające lub łagodzące.
+Prezes UODO uznał, że w ustalonych okolicznościach niniejszej sprawy wystarczającym
+środkiem jest udzielenie Administratorowi upomnienia. Za okoliczność łagodzącą, która,
+między innymi, za tym przemawia, Prezes UODO uznał stosunkowo niewielkie ryzyko
+bezpośredniego naruszenia praw lub wolności osób, których dane dotyczą w rezultacie
+stwierdzonych naruszeń przepisów przez Administratora. Należy bowiem podnieść, że
+Administrator wykazał przed Prezesem UODO, że co do zasady wdrożył najważniejsze
+środki organizacyjne służące należytemu uregulowaniu działania IOD w organizacji i
+współpracy z nim. Ponadto, biorąc pod uwagę okoliczności przedmiotowej sprawy i usta‐
+lenia w niej poczynione, brak jest również podstaw do uznania, że osoby, których dane
+dotyczą, poniosły na skutek uchybień Administratora szkodę. Należy także zauważyć, że
+współdziałanie Administratora z Prezesem UODO przy wyjaśnianiu okoliczności sprawy,
+należy określić na zasługujące na aprobatę.
+Powyższe okoliczności oraz niewielka liczba naruszeń przepisów rozporządzenia
+2016/679 w porównaniu do liczby pytań zawartych w piśmie Prezesa UODO z 16 marca
+2022 r., uzasadniają udzielenie Administratorowi upomnienia za stwierdzone naruszenia
+przepisów rozporządzenia 2016/679, mając na względzie możliwość uniknięcia
+podobnych zdarzeń w przyszłości.
+Niezależnie od upomnienia udzielonego Administratorowi niniejszą decyzją, wobec
+stwierdzonych naruszeń przepisów, Prezes UODO zastosował wobec Administratora śro‐
+dek naprawczy w postaci nakazu dostosowania operacji przetwarzania do przepisów roz‐
+porządzenia 2016/679 poprzez wdrożenie środków mających na celu zapewnienie, że na
+inspektora ochrony danych nie będą nakładane zadania i obowiązki mogące powodować
+konflikt interesów, w terminie 60 dni od dnia doręczenia niniejszej decyzji.
+Należy zauważyć, że w przypadku zaistnienia podobnego zdarzenia w przyszłości, każde
+upomnienie wydane przez Prezesa UODO wobec Administratora będzie brane pod uwagę
+przy ocenie przesłanek ewentualnego wymierzenia kary administracyjnej, zgodnie z
+zasadami określonymi w art. 83 ust. 2 rozporządzenia 2016/679.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął, jak w sentencji.
+
+[1] Chambre Contentieuse Décision quant au fond 18/2020 du 28 avril 2020 Numéro
+de dossier : AH-2019-0013 (Objet : Rapport d'inspection relatif à la responsabilité des
+fuites de données et la position du délégué à la protection des donnée), https://
+www.autoriteprotectiondonnees.be/publications/decision-quant-au-fond-n-18-2020.pdf
+[2] Por. Wyrok TSUE z 9 lutego 2023 r., C-453/21, X-Fab Dresden GmbH & Co. KG, pkt
+41.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.16.2022
+
+Strona 16 z 16
+
+[3] Practical Guide GDPR Data Protection Officers Commission Nationale Informatique
+and libertés https://www.cnil.fr/sites/cnil/files/atoms/files/cnilgdpr_practical_guide_data-protection-officers.pdf
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_16/content
+
+2025-09-03 13:18
+

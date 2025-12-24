@@ -1,0 +1,226 @@
+Warszawa, 3 kwietnia 2019
+NIEPRAWOMOCNA
+
+Decyzja
+ZSPU.421.8.2018
+
+Na podstawie art. 104 § 1 i 105 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks
+postępowania administracyjnego (Dz. U. z 2018 r., poz. 2096 z późn. zm.) oraz art. 57
+ust. 1 lit a) i art. 58 ust. 2 lit. d) w zw. z art. 5 ust. 1 lit. e), art. 13 ust. 1 lit. c) i e), art. 13
+ust. 2 lit. a) i e) oraz art. 30 ust. 1 lit. d) rozporządzenia Parlamentu Europejskiego i Rady
+(UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz.
+UE L 119 z 4.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2),
+po przeprowadzeniu postępowania administracyjnego w sprawie przetwarzania danych
+osobowych przez Burmistrza W., Prezes Urzędu Ochrony Danych Osobowych
+I.
+Nakazuje Burmistrzowi W. usunięcie uchybień w procesie przetwarzania danych
+osobowych poprzez:
+1) zapewnienie przechowywania dokumentów zawierających dane osobowe, po‐
+wstałych w związku z prowadzeniem rejestru mieszkańców, przez okres zgodny
+z okresem wynikającym z rozporządzenia Prezesa Rady Ministrów z dnia 18
+stycznia 2011 r. w sprawie instrukcji kancelaryjnej, jednolitych rzeczowych wy‐
+kazów akt oraz instrukcji w sprawie organizacji i zakresu działania archiwów za‐
+kładowych (Dz. U. Nr 14 poz. 67), w terminie do dnia (…) września 2019 r.
+2) wskazanie w klauzuli informacyjnej dla osób realizujących obowiązek meldunko‐
+wy podmiotu świadczącego usługi serwisowe systemu informatycznego o na‐
+zwie A, przy użyciu którego prowadzony jest rejestr mieszkańców, tj. A. Sp. z
+o.o.
+II. W pozostałym zakresie umarza postępowanie.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspu_421_8/content
+
+2025-09-03 14:00
+
+Decyzja ZSPU.421.8.2018
+
+Strona 2 z 5
+
+Uzasadnienie
+Upoważnieni przez Prezesa Urzędu Ochrony Danych Osobowych kontrolujący przeprowa‐
+dzili u Burmistrza W. kontrolę zgodności przetwarzania danych osobowych z przepisami
+o ochronie danych osobowych, tj. z rozporządzeniem Parlamentu Europejskiego i Rady
+(UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz.
+UE L 119 z 4.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2) oraz ustawą z
+dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2018 r., poz. 1000 z późn.
+zm.). Zakresem kontroli objęty został sposób prowadzenia i zabezpieczenia przez Burmi‐
+strza W. rejestru mieszkańców. W toku kontroli odebrano od pracowników Urzędu Miej‐
+skiego w W. ustne wyjaśnienia, skontrolowano system informatyczny służący do prze‐
+twarzania danych osobowych oraz dokonano oględzin pomieszczeń, w których odbywa
+się przetwarzanie danych osobowych. Stan faktyczny został szczegółowo opisany w
+protokole kontroli, który został podpisany przez Burmistrza W.
+Na podstawie tak zgromadzonego materiału dowodowego ustalono, że w procesie prze‐
+twarzania danych osobowych Burmistrz W., jako administrator danych, naruszył przepisy
+o ochronie danych osobowych. Uchybienia te polegały na:
+1. Opracowaniu w Urzędzie Miejskim w W. klauzuli informacyjnej dla osób realizujących
+obowiązek meldunkowy, która nie zawierała wszystkich informacji określonych w
+art. 13 ogólnego rozporządzenia o ochronie danych, w szczególności informacji o
+wszystkich odbiorcach danych oraz nie wskazywała terminu usunięcia danych. Po‐
+nadto, w klauzuli nie wskazano, które z wymienionych celów przetwarzania danych
+były realizowane przez Burmistrza W. oraz nie wymieniono skutków niepodania
+danych osobowych.
+2. Przechowywaniu dokumentów z realizacji zadań związanych z prowadzeniem reje‐
+stru mieszkańców przez okres dłuższy, niż wynikający z rozporządzenia Prezesa
+Rady Ministrów z dnia 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej, jednoli‐
+tych rzeczowych wykazów akt oraz instrukcji w sprawie organizacji i zakresu
+działania archiwów zakładowych (Dz. U. Nr 14 poz. 67).
+3. Nie ujęciu w rejestrze czynności przetwarzania informacji o stronach i uczestnikach
+postępowań administracyjnych prowadzonych w sprawach meldunkowych jako od‐
+biorcach danych przetwarzanych w związku z prowadzeniem rejestru mieszkańców.
+W związku z powyższym w dniu (…) stycznia 2019 r. Prezes Urzędu Ochrony Danych
+Osobowych wszczął z urzędu postępowanie administracyjne w celu wyjaśnienia
+okoliczności niniejszej sprawy (sygn. pisma (…)).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspu_421_8/content
+
+2025-09-03 14:00
+
+Decyzja ZSPU.421.8.2018
+
+Strona 3 z 5
+
+W odpowiedzi na zawiadomienie o wszczęciu postępowania administracyjnego, Bur‐
+mistrz W. pismem z dnia (…) stycznia 2019 r., nr (…), przesłał wyjaśnienia w zakresie
+stwierdzonych uchybień oraz pozostałe dowody potwierdzające ich usunięcie, z których
+wynika, że:
+1. Klauzula informacyjna dla osób realizujących obowiązek meldunkowy została uzu‐
+pełniona o informacje o odbiorcach danych osobowych, tj. stronach i uczestnikach
+postępowań administracyjnych oraz podmiotach serwisujących użytkowane systemu
+informatyczne, bez wskazywania konkretnych podmiotów, z którymi zawarte są ta‐
+kie umowy. Ponadto, w klauzuli informacyjnej wskazano planowany termin usunięcia
+danych, konsekwencje niepodania danych osobowych oraz wskazano, które cele
+przetwarzania danych osobowych realizowane są przez Burmistrza W.
+2. Dokumentacja z lat 2001-2010 została przekazana z archiwum Wydziału Spraw Oby‐
+watelskich do Archiwum Zakładowego Urzędu Miejskiego w W. Ze względu na obo‐
+wiązujące procedury związane z koniecznością uzyskania zezwolenia na brakowanie
+z Archiwum Państwowego wskazano, że przewidywany termin zniszczenia
+dokumentów to przełom drugiego i trzeciego kwartału 2019 r.
+3. W rejestrze czynności przetwarzania dla czynności „Prowadzenie postępowań admi‐
+nistracyjnych o zameldowanie/wymeldowanie/uchylenie materialno-technicznej
+czynności zameldowania” ujęto jako odbiorców danych osobowych strony oraz
+uczestników postępowań w sprawach o wymeldowanie/zameldowanie.
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje:
+Zgodnie z art. 13 ust. 1 lit. e) ogólnego rozporządzenia o ochronie danych osobowych,
+jeżeli dane osobowe osoby, której dane dotyczą, zbierane są od tej osoby, administrator
+podczas pozyskiwania danych osobowych podaje jej informacje o odbiorcach danych
+osobowych lub o kategoriach odbiorców, jeżeli istnieją. Ponadto, zgodnie z art. 12 ust. 1
+ogólnego rozporządzenia o ochronie danych, administrator podejmuje odpowiednie środ‐
+ki, aby w zwięzłej, przejrzystej, zrozumiałej i łatwo dostępnej formie, jasnym i prostym
+językiem – w szczególności gdy informacje są kierowane do dziecka – udzielić osobie,
+której dane dotyczą, wszelkich informacji, o których mowa w art. 13 i 14, oraz prowadzić
+z nią wszelką komunikację na mocy art. 15–22 i 34 w sprawie przetwarzania.
+W przesłanej przez Burmistrza W., pismem z dnia (…) stycznia 2019 r., nr (…), klauzuli
+informacyjnej dla osób realizujących obowiązek meldunkowy, ujęta została informacja,
+że odbiorcą danych osobowych są podmioty, z którymi administrator zawarł umowę na
+świadczenie usług serwisowych dla użytkowanych w Urzędzie Miejskim w W. systemów
+informatycznych, natomiast nie zostały wskazane dane identyfikujące podmioty, z który‐
+mi zawarte są takie umowy, tj. ich nazwy i adresy siedziby. W toku kontroli ustalono, że
+w celu prowadzenia rejestru mieszkańców wdrożony został w Urzędzie Miejskim w W. je‐
+den system informatyczny o nazwie A. W celu świadczenia usług serwisowych systemu
+A, Burmistrz W. zawarł w dniu (…) stycznia 2018 roku umowę nr (…) z A. Sp. z o.o.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspu_421_8/content
+
+2025-09-03 14:00
+
+Decyzja ZSPU.421.8.2018
+
+Strona 4 z 5
+
+Wynikająca z ogólnego rozporządzenia o ochronie danych osobowych zasada przejrzy‐
+stości wymaga, aby w treści klauzuli informacyjnej administrator danych wskazywał
+nazwy i adresy siedzib odbiorców danych. Jak wskazuje się w piśmiennictwie „Słuszność
+przyjęcia zasady przejrzystości wydaje się nie budzić zastrzeżeń. Stanowi ona w istocie
+wyraz troski, jaką prawodawca europejski przywiązuje do wzmocnienia pozycji podmiotu
+danych poprzez zapewnienie należytej realizacji przysługujących mu uprawnień, w tym
+także tych o charakterze informacyjnym. (…) Dysponowanie odpowiednim zasobem in‐
+formacji przez osoby, których dane dotyczą, jest warunkiem niezbędnym sprawowania
+faktycznej kontroli nad tym, kto, kiedy, w jaki sposób i w jakim celu pozyskuje informacje
+na ich temat, zmniejsza ryzyko nadużyć ze strony administratorów, a także pozwala na
+realne korzystanie z narzędzi ochrony prawnej. Otrzymanie przez podmiot danych okre‐
+ślonego komunikatu zawierającego wszystkie niezbędne informacje jest w tym procesie
+równie istotne co możliwość jego zrozumienia i przyswojenia jego treści”. (J. Łuczak [w:]
+red. E. Bielak-Jomaa, D. Lubasz RODO. Ogólne rozporządzenie o ochronie danych.
+Komentarz, Warszawa 2018, Wolters Kluwer, s. 467).
+Informacja o podmiocie, któremu Burmistrz W. powierzył przetwarzanie danych osobo‐
+wych, w związku z prowadzeniem rejestru mieszkańców w systemie informatycznym A,
+w zakresie nazwy i adresu siedziby tego podmiotu powinna zostać przekazana osobie,
+której dane dotyczą, w związku z zasadą przejrzystego informowania.
+Wobec powyższego należy uznać, że Burmistrz W. nie zawarł w klauzuli informacyjnej dla
+osób realizujących obowiązek meldunkowy, informacji o wszystkich odbiorcach danych
+osobowych stosownie do art. 13 ust. 1 lit. e) ogólnego rozporządzenia o ochronie da‐
+nych.
+Zgodnie z art. 5 ust. 1 lit. e) ogólnego rozporządzenia o ochronie danych, dane osobowe
+muszą być przechowywane w formie umożliwiającej identyfikację osoby, której dane do‐
+tyczą, przez okres nie dłuższy, niż jest to niezbędne do celów, w których dane te są prze‐
+twarzane; dane osobowe można przechowywać przez okres dłuższy, o ile będą one prze‐
+twarzane wyłącznie do celów archiwalnych w interesie publicznym, do celów badań na‐
+ukowych lub historycznych lub do celów statystycznych na mocy art. 89 ust. 1, z za‐
+strzeżeniem że wdrożone zostaną odpowiednie środki techniczne i organizacyjne wyma‐
+gane na mocy niniejszego rozporządzenia w celu ochrony praw i wolności osób, których
+dane dotyczą („ograniczenie przechowywania”).
+W rozporządzeniu Prezesa Rady Ministrów z dnia 18 stycznia 2011 r. w sprawie instrukcji
+kancelaryjnej, jednolitych rzeczowych wykazów akt oraz instrukcji w sprawie organizacji i
+zakresu działania archiwów zakładowych (Dz. U. Nr 14 poz. 67) został określony 10 letni
+okres przechowywania dokumentów dotyczących spraw meldunkowych. Tymczasem w
+toku kontroli ustalono, że Burmistrz W. przetwarza dane osobowe zawarte w dokumen‐
+tach dotyczących postępowań w sprawach meldunkowych, przez okres dłuższy, niż
+wynikający z ww. rozporządzenia Prezesa Rady Ministrów.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspu_421_8/content
+
+2025-09-03 14:00
+
+Decyzja ZSPU.421.8.2018
+
+Strona 5 z 5
+
+W odpowiedzi na zawiadomienie o wszczęciu postępowania, Burmistrz W. pismem z dnia
+(…) stycznia 2019 r., nr (…) wskazał, że dokumentacja z lat 2001-2010 została przekaza‐
+na spisami zdawczo-odbiorczymi nr (…) z dnia (…) grudnia 2018 r. oraz nr (…) z dnia (…)
+stycznia 2019 r. z archiwum Wydziału Spraw Obywatelskich do Archiwum Zakładowego
+Urzędu Miejskiego w W. Ze względu na obowiązujące przepisy wymagające uzyskanie z
+Archiwum Państwowego zezwolenia na brakowanie dokumentów, przewidywany termin
+zniszczenia dokumentów wskazany przez Burmistrza W. to przełom drugiego i trzeciego
+kwartału 2019 r. Podjęcie działań przez Burmistrza W., zmierzających do uzyskania ze‐
+zwolenia na wybrakowanie dokumentów, nie może jednak stanowić podstawy do uzna‐
+nia, że w ww. zakresie przywrócony został stan zgodny z prawem. Burmistrz W. nadal
+przechowuje dokumenty zawierające dane osobowe, związane z realizacją obowiązku
+meldunkowego, przez okres dłuższy, niż jest to niezbędne do celów, w których dane te
+są przetwarzane, co stanowi naruszenie art. 5 ust. 1 lit. e) ogólnego rozporządzenia o
+ochronie danych. Biorąc jednakże pod uwagę obowiązujące przepisy związane z brako‐
+waniem dokumentów, należy uwzględnić zaproponowany przez Burmistrza W. termin
+usunięcia stwierdzonych w toku kontroli uchybień w tym zakresie.
+Jednocześnie, na podstawie złożonych przez Burmistrza W. wyjaśnień oraz innych przed‐
+stawionych dowodów należy uznać, że w toku postępowania usunięte zostały pozostałe
+uchybienia w procesie przetwarzania danych osobowych, stanowiące przedmiot
+postępowania, tj.:
+1. W klauzuli informacyjnej dla osób realizujących obowiązek meldunkowy, ujęto infor‐
+mację o stronach i uczestnikach postępowań administracyjnych w sprawach o wy‐
+meldowanie/zameldowanie będących odbiorcami danych, wskazano planowany ter‐
+min usunięcia danych, konsekwencje niepodania danych osobowych oraz cele prze‐
+twarzania danych osobowych realizowane przez Burmistrza W.
+2. W rejestrze czynności przetwarzania ujęto jako odbiorców danych osobowych strony
+oraz uczestników postępowań w sprawach o wymeldowanie/zameldowanie.
+Stosownie do art. 105 § 1 Kodeksu postępowania administracyjnego, gdy postępowanie
+z jakiejkolwiek przyczyny stało się bezprzedmiotowe w całości albo w części, organ ad‐
+ministracji publicznej wydaje decyzję o umorzeniu postępowania odpowiednio w całości
+albo w części. Przesłanką umorzenia postępowania, na podstawie art. 105 § 1 Kodeksu
+postępowania administracyjnego jest bezprzedmiotowość postępowania „z jakiejkolwiek
+przyczyny”, czyli z każdej przyczyny powodującej brak jednego z elementów materialne‐
+go stosunku prawnego w odniesieniu do jego strony podmiotowej lub przedmiotowej
+(wyrok NSA z dnia 21 stycznia 1999 r., SA/Sz1029/97).
+Z uwagi na to, że usunięte zostały pozostałe uchybienia w procesie przetwarzania da‐
+nych osobowych, będące przedmiotem niniejszego postępowania administracyjnego,
+postępowanie należało w tym zakresie umorzyć.
+Wobec powyższego, Prezes Urzędu Ochrony Danych Osobowych rozstrzygnął, jak w sen‐
+tencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspu_421_8/content
+
+2025-09-03 14:00
+

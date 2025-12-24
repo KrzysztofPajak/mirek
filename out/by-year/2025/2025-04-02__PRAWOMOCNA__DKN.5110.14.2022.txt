@@ -1,0 +1,1054 @@
+Warszawa, 2 kwietnia 2025
+PRAWOMOCNA
+
+Decyzja
+DKN.5110.14.2022
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2024 r. poz. 572) w związku z art. 7 i art. 60 ustawy z dnia
+10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781), a także art.
+57 ust. 1 lit. a) i h) oraz art. 58 ust. 2 lit. b) w związku z art. 38 ust. 1, 2, 3 i 6 oraz art. 39
+ust. 1 rozporządzenia Parlamentu Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia
+2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobo‐
+wych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/
+WE (ogólne rozporządzenia o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1,
+ze zm.), zwanego dalej „rozporządzeniem 2016/679”,
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w sprawie
+naruszenia przepisów o ochronie danych osobowych przez (…) w K. z siedzibą w K. przy
+ul. (…), Prezes Urzędu Ochrony Danych Osobowych,
+stwierdzając naruszenie przez (…) w K. z siedzibą w K. przy ul. (…), zwaną dalej także
+„Uczelnią” lub „Administratorem”, następujących przepisów rozporządzenia 2016/679:
+1) art. 38 ust. 1 rozporządzenia 2016/679, polegające na niezapewnieniu przed dniem
+(…) 2023 r., aby inspektor ochrony danych (zwany dalej również „IOD”) był właści‐
+wie i niezwłocznie włączany we wszystkie sprawy dotyczące ochrony danych osobo‐
+wych,
+2) art. 38 ust. 2 rozporządzenia 2016/679, polegające na niezapewnieniu IOD przed
+dniem (…) 2023 r. zasobów niezbędnych do utrzymania jego wiedzy fachowej,
+3) art. 38 ust. 3 rozporządzenia 2016/679, polegające na niezapewnieniu przed dniem
+(…) 2023 r., aby w związku z wykonywaniem swoich zadań IOD nie otrzymywał in‐
+strukcji dotyczących ich wykonywania oraz nie był odwoływany i karany za
+wykonywanie tych zadań,
+4)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+5)
+
+Strona 2 z 22
+
+art. 38 ust. 6 rozporządzenia 2016/679, polegające na niezapewnieniu, że na IOD
+nie będą nakładane zadania mogące powodować konflikt interesów,
+art. 39 ust. 1 rozporządzenia 2016/679, polegające na niewdrożeniu przed dniem
+(…) 2023 r. środków organizacyjnych lub technicznych, pozwalających na rozliczanie
+przez Uczelnię IOD z wykonania jego zadań wynikających z przepisów
+rozporządzenia 2016/679,
+
+Udziela (…) w K. z siedzibą w K. przy ul. (…) upomnienia.
+
+Uzasadnienie
+Na podstawie art. 57 ust. 1 lit. a) i h) rozporządzenia 2016/679, realizując zadanie moni‐
+torowania i egzekwowania stosowania przepisów rozporządzenia 2016/679 dotyczących
+inspektora ochrony danych, Prezes Urzędu Ochrony Danych Osobowych, zwany dalej
+także „Prezesem UODO”, zwrócił się pismem z dnia 16 marca 2022 r. (sygn. (…)) do
+Uczelni jako administratora, celem uzyskania od niej informacji niezbędnych do realizacji
+ww. zadania.
+W treści ww. pisma, Prezes UODO zwrócił się do Uczelni z następującymi pytaniami:
+1) czy w Uczelni został wyznaczony IOD?
+2) czy na Uczelni jako administratorze ciąży obowiązek wyznaczenia IOD (jeżeli tak, to
+na jakiej podstawie prawnej) czy też IOD został wyznaczony mimo braku takiego
+obowiązku?
+3) Czy Uczelnia opublikowała imię i nazwisko oraz kontakt do IOD na swojej stronie in‐
+ternetowej lub – jeżeli nie prowadzi swojej strony internetowej, w sposób ogólnie
+dostępny w miejscu prowadzenia swojej działalności?
+4) czy informacje, o których mowa w pkt 3, znajdują się w ogólnie dostępnym miejscu?
+5) czy IOD jest pracownikiem Uczelni, a jeżeli nie, to na jakiej podstawie prawnej
+wykonuje swoje obowiązki?
+6) czy IOD został powołany w Uczelni na wyłączność, czy wykonuje obowiązki
+inspektorskie również u innych administratorów?
+7) na podstawie jakich kwalifikacji Uczelnia wyznaczył IOD (np. wykształcenie,
+doświadczenie, wiedza)?
+8) jakie niezbędne zasoby, o których mowa w art. 38 ust. 2 rozporządzenia 2016/679,
+Uczelnia zapewnia IOD?
+9) w jaki sposób Uczelnia zapewnia zasoby na utrzymanie wiedzy fachowej IOD?
+10) jakie stanowisko w Uczelni zajmuje IOD i komu podlega w strukturze organizacyjnej
+administratora?
+11) czy Uczelnia powołała zastępcę IOD, a jeżeli tak, to kiedy?
+12) czy w Uczelni funkcjonuje zespół IOD lub inna forma stałego wsparcia IOD w
+zakresie wykonywania jego zadań?
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 3 z 22
+
+13) w jaki sposób Uczelnia zapewnia by IOD był właściwie i niezwłocznie włączany we
+wszystkie sprawy dotyczące ochrony danych osobowych (np. czy zostały opracowa‐
+ne zasady dotyczące tego, jakie sprawy mają być konsultowane z IOD, kto i w jakich
+sytuacjach powinien zgłaszać się w celu uzyskania konsultacji IOD, czy i na jakich
+zasadach IOD bierze udział w naradach kierownictwa)?
+14) w jaki sposób Uczelnia zapewnia IOD dostęp do danych osobowych i operacji prze‐
+twarzania?
+15) czy Uczelnia przyjęła regulacje wewnętrzne dotyczące funkcjonowania IOD (w
+szczególności zapewnienia poszanowania gwarancji jego niezależności oraz jego
+uprawnień w zakresie dostępu do danych osobowych i operacji przetwarzania, włą‐
+czania we wszystkie sprawy dotyczące ochrony danych osobowych, unikania kon‐
+fliktu interesów), a jeżeli tak, to w jakim akcie wewnętrznym zostały one przewi‐
+dziane?
+16) w jaki sposób Uczelnia zapewnia, aby IOD nie były wydawane instrukcje co do
+wykonywania przez niego zadań?
+17) w jaki sposób Uczelnia zapewnia, aby IOD nie był karany i odwoływany za
+wykonywanie swoich zadań?
+18) w jaki sposób Uczelnia postępuje w przypadku, gdy nie uwzględnia wskazówek lub
+rekomendacji IOD, np. czy dokumentuje powody niezastosowania tych wskazówek?
+19) w jaki sposób osoby, których dane dotyczą, mogą kontaktować się z inspektorem
+ochrony danych zgodnie z art. 38 ust. 4 rozporządzenia 2016/679?
+20) czy IOD wykonuje również inne obowiązki lub sprawuje inną funkcję poza obowiąz‐
+kami związanymi z ochroną danych osobowych, jeżeli tak to:
+a) jakie oraz w jakim wymiarze czasu pełni funkcję IOD, a w jakim inne zadania,
+b) w jaki sposób Uczelnia oceniła, że w przypadku każdego z tych zadań nie wy‐
+stępuje konflikt interesów, o którym mowa w art. 38 ust 6 rozporządzenia
+2016/679 ?
+c) czy w zakresie wykonywania innych zadań IOD podlega innym osobom niż
+najwyższe kierownictwo Uczelni?
+21) czy Uczelnia opracowała politykę zarządzania konfliktem interesów lub wprowadziła
+inny mechanizm zapewniający niewystępowanie konfliktu interesów?
+22) czy IOD wykonuje swoje zadania jedynie w siedzibie Uczelni, a jeżeli nie, to w jakim
+miejscu i w jaki sposób zapewniona jest stała dostępność IOD dla kierownictwa i
+pracowników Uczelni?
+23) czy IOD opracował (systematycznie opracowuje) plan swojej pracy np. w zakresie
+szkoleń, audytów?
+24) czy taki plan był prezentowany Uczelni w celu umożliwienia dokonania oceny czy
+IOD dysponuje wystarczającymi zasobami i uprawnieniami w obszarach, które IOD
+obejmuje swoimi zadaniami?
+25) jak często i w jaki sposób IOD przekazuje Uczelni wyniki przeprowadzonych audy‐
+tów?
+26) czy Uczelnia występowała do IOD o udzielenie zaleceń co do oceny skutków dla
+ochrony danych, a jeśli tak, to w jakich sytuacjach?
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 4 z 22
+
+27) czy Uczelnia kontroluje pracę IOD, jeżeli tak, to w jaki sposób?
+
+I. Wyjaśnienia udzielone przez Uczelnię.
+Uzyskane od Uczelni wyjaśnienia w odpowiedzi na ww. pytania nie pozwoliły na dokona‐
+nie pełnej oceny realizacji przez Administratora przepisów rozporządzenia 2016/679 od‐
+noszących się do IOD. W związku z tym zachodziła konieczność skierowania do Uczelni,
+oprócz ww. pisma z dnia 16 marca 2022 r, także pism z dnia 30 maja 2022 r. (znak: (…))
+i 22 maja 2024 r. (znak: (…)), w których Prezes UODO zwrócił się do Uczelni do udziele‐
+nia adekwatnych i precyzyjnych w treści informacji. W wyjaśnieniach uzyskanych w od‐
+powiedzi na powyższe wezwania, zawartych w pismach Administratora z dnia 31 marca
+2022 r., 7 czerwca 2022 r. oraz 3 czerwca 2024 r. Uczelnia oświadczyła m.in., że:
+1) wyznaczyła inspektora ochrony danych i zgłosiła go do Urzędu Ochrony Danych
+Osobowych, a osoba pełniąca w Uczelni funkcję IOD wykonuje ją na podstawie
+umowy zlecenia i podlega (…),
+2) IOD nie ma obowiązku raportowania działań dotyczących spraw związanych z
+przetwarzaniem danych osobowych,
+3) uregulowania dotyczące statusu IOD w Uczelni znajdują się w umowie zawartej z
+IOD,
+4) Uczelnia zapewnia inspektorowi ochrony danych miejsce pracy, tj. dedykowany IOD
+pokój, laptop oraz telefon; ponadto Uczelnia sfinansowała studia podyplomowe IOD
+z zakresu ochrony danych osobowych i bezpieczeństwa informacji oraz finansuje
+szkolenia z tematyki ochrony danych osobowych, a także zapewnia dostęp do
+serwisu LEX, w tym jego modułu „Ochrona Danych Osobowych”,
+5) zapewnienie przez Uczelnię zasobów inspektorowi ochrony danych jest oparte o
+treść § (…) zawartej z nim w dniu (…) 2020 r. umowy zlecenia oraz o uregulowania
+Polityki Ochrony Danych Osobowych; ponadto, zgodnie z uregulowaniami § (…) Re‐
+gulaminu (…) wprowadzonego w życie zarządzeniem (…) z dnia (…) 2023 r. nr (…),
+Administrator jest zobowiązany do wspierania IOD poprzez zapewnienie mu zaso‐
+bów niezbędnych do wykonania jego zadań, zgodnie z art. 38 ust. 2 rozporządzenia
+2016/679;
+6) w Polityce Ochrony Danych Osobowych zawarta jest procedura postępowania z incy‐
+dentami, w ramach której IOD musi być poinformowany o stwierdzeniu podatności
+lub wystąpieniu incydentu przez osobę upoważnioną do przetwarzania danych
+osobowych w imieniu Uczelni,
+7) IOD wykonuje zadania na podstawie planu określonego w związku z celami, które
+zostały przedstawione Uczelni w dokumencie „(…)”,
+8) kwestie konfliktu interesów zostały uregulowane w Kodeksie (…); ponadto, zgodnie z
+treścią rozdziału (…) ww. Polityki Ochrony Danych Osobowych, aby nie zachodził
+konflikt interesów funkcji IOD nie można łączyć na Uczelni z wykonywaniem zadań
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 5 z 22
+
+na stanowiskach kierowniczych, w szczególności: Dyrektora (…), Dyrektora (…),
+Kwestora, Kierownika (…) i Dyrektora (…),
+9) informacja dotycząca wykonania celów jest składana Uczelni w formie raportu (ra‐
+port z zadań i celów do realizacji), bezpośrednio do (…), raz do roku, zaś informacja
+dotycząca przeprowadzania audytu zawarta jest w załączniku nr (…) do Polityki
+Ochrony Danych Osobowych – „Procedura (…)”,
+10) audyty są przeprowadzane w Uczelni przez IOD na bieżąco, na podstawie działań
+monitorujących, a następnie dokonywane są ich aktualizacje, jeżeli jest to wymaga‐
+ne. Działania te wykonywane są na podstawie planu zawartego w dokumencie
+„(…)”, a uzgodnienia dotyczące planowanych działań IOD są przeprowadzane z (…),
+który akceptuje raport z działań IOD; bieżącą kontrolę pracy IOD sprawuje (…) po‐
+przez akceptację wykonania umowy zlecenia, zgodnie z § (…) umowy zlecenia za‐
+wartej przez Uczelnię w dniu (…) 2020 r. z osobą pełniącą funkcję IOD,
+11) według postanowień rozdziału (…) obowiązującej na Uczelni Polityki Ochrony Da‐
+nych Osobowych, IOD ma zapewnione uczestnictwo w spotkaniach oraz konsulta‐
+cjach związanych z zadaniami Uczelni jako administratora danych, które mogą mieć
+związek z ochroną danych osobowych. W myśl ust. (…) w rozdziale (…) Polityki
+Ochrony Danych Osobowych, IOD współpracuje z Administratorem we wdrażaniu
+wymogów rozporządzenia 2016/679 i utrzymaniu zgodności przetwarzania danych
+osobowych z ww. aktem prawnym, w tym w zakresie zasad przetwarzania, realizacji
+praw osób, których dane dotyczą, ochrony danych w fazie projektowania, rejestru
+czynności przetwarzania danych osobowych, zgłaszania naruszeń związanych z
+ochroną danych osobowych oraz stosowania zasady domyślnej ochrony danych. Z
+kolei, zgodnie z treścią § (…) ((…)) Regulaminu (…) wprowadzonego w życie zarzą‐
+dzeniem (…) z dnia (…) 2023 r., Administrator ponosi odpowiedzialność za właściwe
+i niezwłoczne włączanie IOD we wszystkie sprawy dotyczące ochrony danych oso‐
+bowych od najwcześniejszego etapu, tak by ułatwić zapewnienie zgodności z
+rozporządzeniem 2016/679.
+Ponadto, Uczelnia w piśmie z dnia 3 czerwca 2024 r. wskazała na postanowienia Polityki
+Ochrony Danych Osobowych oraz Regulaminu (…), z których treści wynika, iż po wdroże‐
+niu Regulaminu (…) zarządzeniem (…) z dnia (…) 2023 r. nr (…), kwestie współpracy
+Uczelni z IOD, w tym także unikania konfliktu interesów, włączania IOD we wszelkie spra‐
+wy związane z przetwarzaniem danych itp. zostały w większości uwzględnione w
+wewnętrznej dokumentacji Uczelni.
+W związku z powyżej wskazaną wymianą korespondencji pomiędzy Prezesem UODO a
+Uczelnią, ustalono następujący stan faktyczny:
+1. W okresie od 25 maja 2018 r. do (…) 2023 r. Uczelnia nie zapewniła, aby IOD był
+właściwie i niezwłocznie włączany we wszystkie sprawy dotyczące ochrony danych
+osobowych, ponieważ nie wdrożyła w tym zakresie jakichkolwiek skonkretyzowa‐
+nych rozwiązań, np. w Polityce ochrony danych lub w innych wewnętrznych regula‐
+cjach. Wskazane przez Uczelnię w wyjaśnieniach z dnia 31 marca 2022 r. postano‐
+wienia umowy z dnia (…) 2020 r. zawartej przez Uczelnię z IOD oraz Regulaminu or‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+2.
+
+3.
+
+4.
+
+5.
+
+Strona 6 z 22
+
+ganizacyjnego (zarządzenie Rektora z dnia (…) 2019 r. nr (…)) nie zawierały posta‐
+nowień zapewniających właściwe i niezwłoczne włączanie IOD we wszystkie sprawy
+dotyczące ochrony danych osobowych. W ww. aktach prawnych Uczelni brak było
+skonkretyzowanych regulacji odnoszących się do kwestii właściwego i niezwłoczne‐
+go włączania IOD we wszystkie sprawy dotyczące ochrony danych osobowych; po‐
+nadto, po nowelizacji treści Polityki Ochrony Danych Osobowych obowiązującej w
+Uczelni od dnia (…) 2023 r. nadal brak było konkretnych rozwiązań regulacyjnych w
+ww. zakresie. Dopiero we wdrożonym zarządzeniem (…) Uczelni nr (…) z dnia (…)
+2023 r. Regulaminie (…) jako wewnętrznej regulacji Uczelni, uwzględniono wyraźnie
+wyartykułowany obowiązek konsultowania się z IOD przed przystąpieniem do reali‐
+zacji projektów wiążących się z przetwarzaniem danych osobowych.
+Uczelnia nie wdrożyła przed dniem (…) 2023 r. rozwiązań organizacyjnych lub in‐
+nych, służących zapewnieniu IOD zasobów niezbędnych do utrzymania jego wiedzy
+fachowej; przed ww. dniem Uczelnia nie wdrożyła zarówno w treści umowy zawartej
+z osobą świadczącą usługi IOD, jak i w innych wewnętrznych aktach prawnych regu‐
+lacji w ww. zakresie; powyższa kwestia została uwzględniona w skonkretyzowany
+sposób dopiero we wdrożonym zarządzeniem (…) Uczelni nr (…) z dnia (…) 2023 r.
+Regulaminie (…) jako wewnętrznej regulacji Uczelni.
+Uczelnia nie wdrożyła przed dniem (…) 2023 r. rozwiązań organizacyjnych lub in‐
+nych, służących zapewnieniu, aby w związku z wykonywaniem zadań IOD nie otrzy‐
+mywał instrukcji dotyczących wykonywania tych zadań; Uczelnia nie wdrożyła rów‐
+nież przed dniem (…) 2023 r. w obowiązujących u niej wewnętrznych aktach praw‐
+nych stosownych, kompleksowych i skonkretyzowanych regulacji zapobiegających
+kierowaniu wobec IOD instrukcji co do sposobu wykonywania zadań oraz jego odwo‐
+ływaniu i karaniu za wykonywanie tych zadań; powyższa kwestia została uwzględ‐
+niona dopiero we wdrożonym zarządzeniem (…) Uczelni nr (…) z dnia (…) 2023 r.
+Regulaminie (…) jako wewnętrznej regulacji Uczelni.
+Uczelnia do dnia (…) 2023 r. nie wdrożyła jakichkolwiek rozwiązań zapewniających,
+by inne zadania i obowiązki wykonywane przez IOD nie powodowały konfliktu intere‐
+sów. Dopiero nowelizacja przepisów Polityki Ochrony Danych Osobowych z dnia (…)
+2023 r. (rozdział (…)), a następnie wdrożenie przepisów Regulaminu (…) (§ (…))
+wprowadzonego zarządzeniem nr (…) z dnia (…) 2023 r., zmieniły ww. stan faktycz‐
+ny. W treści znowelizowanej Polityki Ochrony Danych Osobowych uwzględniono w
+szczególności postanowienie, zgodnie z którym, aby nie zachodził konflikt interesów,
+funkcji IOD nie można łączyć z wykonywaniem zadań na stanowiskach kierowni‐
+czych, w szczególności: Dyrektora (…), Dyrektora (…), Kwestora, Kierownika (…) i
+Dyrektora (…). Ponadto, w myśl nowych przepisów Regulaminu (…) (§ (…)), IOD nie
+może być osobą spokrewnioną z osobami, które kierują lub zarządzają Uczelnią, a
+przy wyznaczaniu IOD, w tym jego zastępcy, konieczna jest analiza i ocena, czy
+określone relacje pokrewieństwa nie będą miały wpływu na wykonywanie zadań i
+obowiązków IOD w sposób niezależny i nie będą powodować konfliktu interesów.
+Uczelnia nie wdrożyła przed dniem (…) 2023 r. rozwiązań organizacyjnych lub in‐
+nych, służących zapewnieniu kontroli prawidłowego wykonywania całokształtu za‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 7 z 22
+
+dań przez IOD, np. regulacji dotyczących planu pracy IOD (w tym planu audytów)
+lub innego rozwiązania, na podstawie którego taka kontrola mogłaby być realizowa‐
+na. Powyższa kwestia została uwzględniona dopiero we wdrożonym zarządzeniem
+(…) Uczelni nr (…) z dnia (…) 2023 r. Regulaminie (…) jako wewnętrznej regulacji
+Uczelni. Na Uczelni obowiązywały, co prawda, niektóre dokumenty, których postano‐
+wienia można by uznać w pewnym stopniu za wyraz uregulowania kwestii kontroli
+pracy IOD (np. dokument „(…)”), jednak regulacje te były fragmentaryczne i nieod‐
+noszące się kompleksowo do kontroli wykonania całokształtu zadań IOD
+przewidzianych w przepisach rozporządzenia 2016/679.
+Opisane wyżej ustalenia świadczące o niewypełnieniu przez Uczelnię obowiązków admi‐
+nistratora określonych w art. 38 ust. 1, 2, 3 i 6 oraz art. 39 ust. 1 rozporządzenia
+2016/679 uzasadniały wszczęcie z urzędu przez Prezesa UODO postępowania admini‐
+stracyjnego, o którym to wszczęciu Uczelnia została powiadomiona pismem z dnia 3 paź‐
+dziernika 2024 r., znak: (…). W zakresie pozostałych kwestii będących przedmiotem py‐
+tań zawartych w piśmie Prezesa UODO do Uczelni z dnia 16 marca 2022 r. (sygn. (…)),
+nie stwierdzono naruszeń przepisów rozporządzenia 2016/679.
+W odpowiedzi na zawiadomienie o wszczęciu postępowania administracyjnego, Uczelnia,
+pismem z dnia 18 października 2024 r. skierowanym do Prezesa UODO złożyła wyjaśnie‐
+nia, w których wskazała, między innymi, że w jej ocenie:
+1) w sposób właściwy wypełnia obowiązek wynikający z art. 38 ust. 1 rozporządzenia
+2016/679, ponieważ IOD jest właściwie i niezwłocznie włączany we wszystkie spra‐
+wy dotyczące ochrony danych osobowych. IOD jest włączany przez Uczelnię we
+wszystkie ww. sprawy, między innymi, na podstawie postanowień Polityki Ochrony
+Danych Osobowych ((…)) oraz postanowień Regulaminu (…) wdrożonego
+zarządzeniem (…) nr (…) z dnia (…) 2023 r.;
+2) zapewnienie przez Uczelnię udziału IOD we wszystkich sprawach dotyczących
+ochrony danych osobowych jest przez nią realizowane poprzez m.in. czynności
+sprawdzające w jednostkach organizacyjnych Uczelni, w zakresie zgodności prze‐
+twarzania danych osobowych z przepisami o ochronie danych osobowych i analizo‐
+wania sprawozdań z tych czynności. Na dowód powyższego, Uczelnia dostarczyła do
+akt postępowania:
+–
+sprawozdanie ze sprawdzenia zgodności przetwarzania danych osobowych z
+przepisami o ich ochronie w (…) z dnia (…) 2024 r.,
+–
+sprawozdanie ze sprawdzenia zgodności przetwarzania danych osobowych z
+przepisami o ich ochronie w Wydziale (…) oraz Wydziale (…) z dnia (…) 2024 r.,
+–
+sprawozdanie ze sprawdzenia zgodności przetwarzania danych osobowych z
+przepisami o ich ochronie na stronie internetowej pod adresem: www.(…).pl z
+dnia (…) 2024 r.,
+–
+sprawozdanie ze sprawdzenia zgodności przetwarzania danych osobowych z
+przepisami o ich ochronie na stronie internetowej pod adresem: www.(…).pl z
+dnia (…) 2024 r.,
+–
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+3)
+
+4)
+
+5)
+
+6)
+
+Strona 8 z 22
+
+sprawozdanie ze sprawdzenia zgodności przetwarzania danych osobowych z
+przepisami o ich ochronie w Dziale (…) z dnia (…) 2024 r.;
+–
+Plan (…) na rok 2024;
+właściwie wypełnia obowiązek wynikający z art. 38 ust. 2 rozporządzenia 2016/679,
+tzn. zapewnia wsparcie IOD w wypełnianiu przez niego zadań wynikających z art. 39
+ust. 1 rozporządzenia 2016/679, w tym zasoby niezbędne do wykonywania tych za‐
+dań i utrzymania wiedzy fachowej oraz dostępu IOD do danych osobowych i operacji
+przetwarzania. Podstawą ww. wsparcia są postanowienia obowiązującego w Uczelni
+Regulaminu (…) wdrożonego zarządzeniem (…) nr (…) z dnia (…) 2023 r., a także
+postanowienia zawartej z IOD umowy zlecenia z dnia (…) 2020 r. Ponadto Uczelnia
+podniosła, że IOD ukończył organizowane przez Uczelnię studia podyplomowe z za‐
+kresu ochrony danych osobowych i zarządzania bezpieczeństwem informacji,
+uczestniczy w licznych konferencjach organizowanych przez Uczelnię, w tym przez
+Instytut (…), ma zapewniony pakiet dostępowy do produktów „Lex online” z pakie‐
+tem imiennym: ochrona danych osobowych, dzięki czemu uczestniczy w szkoleniach
+w tej dziedzinie;
+właściwie wypełnia obowiązek wynikający z art. 38 ust. 3 rozporządzenia 2016/679,
+bowiem zapewnienie IOD niezależności wynika z obowiązujących w Uczelni przepi‐
+sów: Regulaminu (…) (zarządzenie (…) nr (…) z dnia (…) 2023 r.), Regulaminu (…),
+wdrożonego do stosowania zarządzeniem Rektora nr (…) z dnia (…) 2019 r., zgodnie
+z którym IOD jest zatrudniony na samodzielnym stanowisku pracy ((…)), przypo‐
+rządkowanym organizacyjnie Rektorowi, co ma swoje odzwierciedlenie w treści
+schematu organizacyjnego Uczeni (załącznik nr (…) do Regulaminu (…), Schemat
+graficzny jednostek organizacyjnych Uczelni); kopie obu ww. dokumentów zostały
+przez Uczelnię przedłożone do akt postępowania;
+właściwie wypełnia obowiązek wynikający z art. 38 ust. 6 rozporządzenia 2016/679,
+co ma znajdować swoje potwierdzenie w treści obowiązującego na Uczelni
+Regulaminu (…) (zarządzenie (…) nr (…) z dnia (…) 2023 r.);
+spełnia wymogi wynikające z art. 39 ust. 1 rozporządzenia 2016/679; spełnienie ww.
+wymogów wynika m.in. ze sprawozdań ze sprawdzenia zgodności przetwarzania da‐
+nych osobowych z przepisami o ich ochronie, audytów wewnętrznych realizowanych
+w jednostkach organizacyjnych Uczelni (zgodnie z ustalonym Planem (…) na dany
+rok); ponadto, spełnienie ww. wymogów dokonywane jest przy pomocy cyklicznie
+wydawanego biuletynu (…), tj. poprzez porady i konsultacje udzielane na bieżąco
+pracownikom Uczelni w poszczególnych wydaniach ww. biuletynu; wydania ww.
+biuletynu zostały przez Uczelnię przedłożone do akt sprawy.
+
+II. Ocena prawna ustalonego stanu faktycznego.
+W takim stanie faktycznym i prawnym Prezes UODO zważył, co następuje:
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 9 z 22
+
+1.
+W myśl art. 38 ust. 1 rozporządzenia 2016/679, administrator oraz podmiot przetwarza‐
+jący zapewniają, by inspektor ochrony danych był właściwie i niezwłocznie włączany we
+wszystkie sprawy dotyczące ochrony danych osobowych. Uczelnia, nie wdrażając przed
+dniem (…) 2023 r. w wewnętrznych aktach prawnych stosownych, kompleksowych i
+skonkretyzowanych regulacji, służących zapewnieniu włączania IOD w ww. sprawy,
+naruszyła art. 38 ust. 1 rozporządzenia 2016/679.
+Podkreślić na wstępie należy, że IOD ma swoją wiedzą, doświadczeniem i umiejętnościa‐
+mi wspierać administratora w zapewnieniu zgodności przetwarzania danych z przepisa‐
+mi o ochronie danych osobowych. Aby IOD mógł efektywnie realizować ten cel w art. 38
+ust. 1 rozporządzenia 2016/679 na administratora został nałożony obowiązek zapewnie‐
+nia, by inspektor ochrony danych był właściwie i niezwłocznie włączany we wszystkie
+sprawy dotyczące ochrony danych osobowych. Określenie „właściwie” odnosić należy do
+właściwości rzeczowej inspektora ochrony danych, która obejmuje wszelkie kwestie
+związane z przetwarzaniem i ochroną danych osobowych, natomiast sformułowanie „nie‐
+zwłocznie” wskazuje, że IOD powinien być angażowany w te sprawy w najkrótszym moż‐
+liwym czasie. W Wytycznych Grupy Roboczej art. 29 ds. Ochrony Danych dotyczących
+inspektorów ochrony danych („DPO”), zwanymi dalej Wytycznymi WP 243[1], na str.
+14-15 wskazano, że
+„
+organizacja powinna zapewnić między innymi:
+–
+Udział DPO (IOD – uwaga wł. Prezesa UODO) w spotkaniach przedstawicieli
+wyższego i średniego szczebla organizacji;
+–
+Uczestnictwo DPO przy podejmowaniu decyzji dotyczących przetwarzania da‐
+nych osobowych. Niezbędne informacje powinny zostać udostępnione DPO
+odpowiednio wcześniej, umożliwiając DPO zajęcie stanowiska;
+–
+Stanowisko DPO powinno być zawsze brane pod uwagę. GR Art. 29 zaleca, w ra‐
+mach dobrych praktyk, dokumentowanie przypadków i powodów postępowania
+niezgodnego z zaleceniem DPO;
+–
+W przypadku stwierdzenia naruszenia albo innego zdarzenia związanego z
+danymi osobowymi należy natychmiast skonsultować się z DPO.
+W określonych przypadkach administrator lub podmiot przetwarzający powinni
+stworzyć wytyczne ochrony danych osobowych, które wskazywałyby przypadki
+wymagające konsultacji z DPO.”
+W piśmiennictwie przedmiotu także wskazuje się, że określenie „właściwie” powinno być
+rozumiane jako wymóg, by obowiązek włączenia IOD do działań był wykonany w sposób,
+który umożliwi mu aktywne działanie[2]. Również M. Sakowska-Baryła opowiada się za
+rozumieniem określenia „właściwie” jako „adekwatne, odpowiednie, w sposób zapewnia‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 10 z 22
+
+jący możliwie kompleksowe zapoznanie się IOD z okolicznościami przetwarzania danych
+osobowych – kontekstem, celami, zakresem, charakterem, uwarunkowaniami
+czasowymi, technicznymi, prawnymi”[3].
+Reasumując powyższe, wymóg właściwego włączania IOD we wszystkie sprawy dotyczą‐
+ce ochrony danych osobowych oznacza odpowiednie zapewnienie inspektorowi możliwo‐
+ści udziału w działaniach przy jednoczesnym poszanowaniu jego właściwości. Jak wska‐
+zał Wojewódzki Sąd Administracyjny w Warszawie w wyroku z dnia 5 października 2023
+r., sygn. akt II SA/Wa 502/23, „Administrator danych osobowych jest odpowiedzialny tak‐
+że za to, aby inspektor ochrony danych (…) był właściwie i niezwłocznie włączany we
+wszystkie sprawy dotyczące ochrony danych osobowych (art. 38 ust. 1 rozporządzenia)”.
+Podobnie sąd ten wypowiedział się w wyroku z dnia 17 kwietnia 2024 r., sygn. akt II SA/
+Wa 1342/23.
+Administrator w swojej organizacji powinien zatem po pierwsze przyjąć odpowiednie roz‐
+wiązania organizacyjne, których celem byłoby zapewnienie, by inspektor ochrony da‐
+nych był właściwie i niezwłocznie włączany we wszystkie sprawy dotyczące ochrony da‐
+nych osobowych, a po drugie zapewnić skuteczną realizację tych rozwiązań poprzez rze‐
+czywiste włączanie IOD w każdym przypadku, w którym określone zagadnienie związane
+jest z przetwarzaniem danych osobowych.
+W toku czynności wyjaśniających podjętych przez Prezesa UODO, Uczelnia nie wskazała
+żadnych konkretnych, odnoszących się do ww. kwestii postanowień w treści obowiązują‐
+cych u niej przed dniem (…) 2023 r. wewnętrznych aktów prawnych. Po wdrożeniu nowe‐
+lizacji Polityki Ochrony Danych Osobowych w dniu (…) 2023 r., w systemie wewnętrz‐
+nych regulacji Uczelni zaczęły obowiązywać ujęte ogólnikowo i deklaratywnie postano‐
+wienia, zmierzające do zapewnienia właściwego i niezwłocznego włączania IOD we
+wszystkie sprawy dotyczące ochrony danych osobowych. Postanowienia te były jednak
+dalece niewystarczające, ze względu na brak konkretnych rozwiązań proceduralnych
+albo realnych zasad porządkujących ww. materię. W ww. dokumencie nie uwzględniono
+wyraźnie wyartykułowanego obowiązku konsultowania się z IOD przed przystąpieniem
+do realizacji projektów wiążących się z przetwarzaniem danych osobowych. Ponadto,
+brak było procedury w zakresie inicjatywy w zwracaniu się do IOD przy projektach zwią‐
+zanych z ochroną danych oraz w jakim terminie, w jakich okolicznościach, w jaki sposób i
+przez kogo ma nastąpić zwrócenie się do IOD.
+Uczelnia w swoich wyjaśnieniach z dnia 3 czerwca 2024 r. powołała się na przepis (…)
+Polityki Ochrony Danych Osobowych, zgodnie z którym IOD „ma zapewnione uczestnic‐
+two w spotkaniach oraz konsultacjach związanych z zadaniami ADO, (…).” Jednak
+powyższej regulacji nie można uznać za wystarczającą, aby na jej podstawie, zgodnie z
+dyspozycją art. 38 ust. 1 rozporządzenia 2016/679, uznać, że IOD był właściwie włącza‐
+ny we wszystkie sprawy dotyczące ochrony danych osobowych. Samo zapewnienie
+„uczestnictwa” IOD w spotkaniach dotyczących spraw przetwarzania danych nie zapew‐
+nia IOD możliwości wyrażenia swojego zdania w ww. kwestii, bowiem samo uczestnictwo
+w spotkaniach i konsultacjach nie oznacza, że zdanie IOD będzie w ogóle brane pod uwa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 11 z 22
+
+gę przy realizacji działań związanych z przetwarzaniem danych (niezależnie od okolicz‐
+ności, czy będzie uwzględnione). Z powyższej regulacji nie wynikało również, aby przed
+takimi spotkaniami czy konsultacjami IOD były przekazywane niezbędne informacje
+umożliwiające mu zajęcie stanowiska w sprawie będącej przedmiotem takiego spotkania
+czy konsultacji.
+Podobnie należy ocenić powołany przez Uczelnię w wyjaśnieniach przepis Polityki
+Ochrony Danych Osobowych (…), zgodnie z którym „Administrator może zapewnić zaso‐
+by kadrowe w postaci zastępcy na wypadek nieobecności Inspektora Ochrony Danych”.
+Skonkretyzowanie postanowień Polityki Ochrony Danych Osobowych w ww. zakresie na‐
+stąpiło dopiero po wdrożeniu stosownych postanowień Regulaminu (…) (zarządzenie (…)
+Uczelni nr (…) z dnia (…) 2023 r.).
+Uznać należy zatem, że konkretne, kompleksowe i jednoznaczne rozwiązania organiza‐
+cyjne i regulacyjne, dotyczące właściwego i niezwłocznego włączania IOD we wszystkie
+sprawy dotyczące ochrony danych osobowych, Uczelnia wdrożyła dopiero zarządzeniem
+nr (…) z dnia (…) 2023 r., dotyczącym wprowadzenia Regulaminu (…).
+W § (…) ww. Regulaminu ustanowiono, że Uczelnia jako administrator „ponosi odpowie‐
+dzialność za właściwie i niezwłocznie włączanie IOD we wszystkie sprawy dotyczące
+ochrony danych osobowych od najwcześniejszego etapu”, tak by ułatwić zapewnienie
+zgodności z rozporządzeniem 2016/679, a w szczególności za:
+–
+zapewnienie udziału IOD z głosem doradczym w spotkaniach przedstawicieli kadry
+kierowniczej wyższego i średniego szczebla oraz uczestnictwa w podejmowaniu
+decyzji mających wpływ na ochronę danych,
+–
+udostępnienie IOD niezbędnych informacji odpowiednio wcześniej, umożliwiając mu
+zajęcie stanowiska w sprawach związanych z przetwarzaniem danych,
+–
+uwzględnianie opinii IOD, w szczególności w ocenie ryzyka związanego z przetwa‐
+rzaniem oraz jego oceny w zakresie źródła, charakteru, prawdopodobieństwa i wagi
+zagrożenia oraz najlepszych praktyk pozwalających zminimalizować to ryzyko,
+–
+udzielanie IOD pisemnej informacji, w przypadku braku uwzględnienia przez
+Uczelnię zaleceń przekazanych przez IOD.
+Ponadto, w Regulaminie (…) ustanowiono, że niezwłoczna konsultacja z IOD powinna na‐
+stępować w sytuacji, gdy: dojdzie do stwierdzenia naruszenia ochrony danych lub innego
+zdarzenia związanego z danymi osobowymi, uruchamiane są nowe procesy lub systemy,
+dokonywane są zmiany w istniejących procesach lub systemach lub zaistniała koniecz‐
+ność zaangażowania przez Uczelnię podmiotów przetwarzających.
+Reasumując, należy uznać, że do dnia (…) 2023 r., w którym wszedł w życie w Uczelni
+Regulamin (…), Uczelnia nie wdrożyła odpowiednich środków zapewniających właściwe i
+niezwłoczne włączanie IOD we wszystkie sprawy dotyczące ochrony danych osobowych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 12 z 22
+
+2.
+Zgodnie z treścią przepisu art. 38 ust. 2 rozporządzenia 2016/679, administrator oraz
+podmiot przetwarzający wspierają inspektora ochrony danych w wypełnianiu przez niego
+zadań, o których mowa w art. 39, zapewniając mu zasoby niezbędne do wykonania tych
+zadań oraz dostęp do danych osobowych i operacji przetwarzania, a także zasoby
+niezbędne do utrzymania jego wiedzy fachowej.
+Przepisy rozporządzenia 2016/679 nie wskazują, jakie konkretnie środki i w jaki konkret‐
+nie sposób administrator – korzystający ze wsparcia IOD – powinien zapewnić, aby wy‐
+wiązać się z obowiązku określonego w art. 38 ust. 2 rozporządzenia 2016/679. Niemniej
+jednak określenie „zapewnić” na gruncie tego przepisu należy odczytywać jako obowią‐
+zek podjęcia przez kierownictwo podmiotu będącego administratorem konkretnych, real‐
+nych i dających się wykazać środków (działań) zmierzających do osiągnięcia celu wyzna‐
+czonego przez ten przepis. Według słownika języka polskiego określenie „zapewnić”
+oznacza: „1. oświadczyć komuś, że coś jest lub będzie na pewno, 2. sprawić, że coś się
+stanie lub ktoś uzyska coś”. Zapewnieniem zasobów zgodnie z art. 38 ust. 2 rozporzą‐
+dzenia 2016/679 mogłyby być zatem odpowiednio dobrane w danej sytuacji działania
+administratora polegające np. na przyjęciu w wewnętrznych regulacjach lub umowie z
+zewnętrznym inspektorem ochrony danych konkretnych postanowień dotyczących
+utrzymania poziomu wiedzy fachowej IOD. W tym znaczeniu „zapewnienie” to następnie
+także kontrolowanie, czy przyjęte rozwiązania są efektywne i w razie potrzeby podejmo‐
+wanie w tym zakresie korygujących decyzji. Grupa Robocza art. 29 w Wytycznych WP
+243 wskazała, że „DPO (IOD – uwaga wł. Prezesa UODO) powinien mieć możliwość cią‐
+głego aktualizowania wiedzy z zakresu ochrony danych osobowych. Celem powinno być
+zwiększanie wiedzy DPO i zachęcanie go do udziału w szkoleniach, warsztatach, forach
+poświęconych ochronie danych etc.”
+W nawiązaniu do powyższego stwierdzić należy, że przed dniem (…) 2023 r. Uczelnia nie
+posiadała jakichkolwiek rozwiązań (zarówno w treści umowy zawartej z osobą świadczą‐
+cą usługi IOD, jak i w wewnętrznych regulacjach) w ww. zakresie, tj. zapewniających IOD
+zasoby na utrzymanie wiedzy fachowej, czym naruszyła art. 38 ust. 2 rozporządzenia
+2016/679.
+Uregulowanie w ww. zakresie Uczelnia, jak wyjaśniła w piśmie z dnia 3 czerwca 2024 r.,
+wdrożyła dopiero od dnia (…) 2023 r. zarządzeniem (…) dotyczącym wejścia w życie Re‐
+gulaminu (…). W § (…) ((…)) ww. regulaminu wskazano, że administrator jest zobowiąza‐
+ny do wspierania IOD poprzez zapewnienie mu zasobów niezbędnych do wykonania jego
+zadań, zgodnie z art. 38 ust. 2 rozporządzenia 2016/679, przy czym przez ww. zasoby ro‐
+zumie się: aktywne wsparcie IOD ze strony kadry kierowniczej (m.in. poprzez cykliczne
+spotkania), ustalenie wymiaru czasu, który umożliwi IOD wykonywanie zadań oraz zobo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 13 z 22
+
+wiązanie pracowników jednostek organizacyjnych Uczelni do udzielania IOD niezbędnych
+informacji dotyczących operacji przetwarzania danych osobowych. Z kolei w § (…) ww.
+aktu ustanowiono, że przez ww. zasoby rozumie się, między innymi, „wspomaganie do‐
+skonalenia zawodowego przez zapewnienie zasobów finansowych, niezbędnych do
+utrzymania i rozwoju wiedzy fachowej”. Następnie, w ramach pisemnych wyjaśnień
+Uczelnia wykazała, że w ślad za ww. postanowieniem § (…) Regulaminu (…), zrealizowała
+szereg działań służących zapewnieniu inspektorowi ochrony danych odpowiednich zaso‐
+bów na utrzymanie wiedzy, tj.: zapewniła IOD ukończenie studiów podyplomowych w
+przedmiocie ochrony danych osobowych i zarządzania bezpieczeństwem informacji, re‐
+alizowanych przez Uczelnię w ramach jej działalności edukacyjnej, zapewniła IOD uczest‐
+nictwo w konferencjach organizowanych przez Uczelnię, w tym Instytut (…), a także pa‐
+kiet dostępowy do produktów (…) obejmujący tematykę ochrony danych osobowych,
+dzięki któremu IOD ma możliwość uczestniczenia w szkoleniach organizowanych przez
+podmiot świadczący m.in. usługi edukacyjne, tj. (…)
+
+3.
+Zgodnie z treścią przepisu art. 38 ust. 3 rozporządzenia 2016/679, administrator oraz
+podmiot przetwarzający zapewniają, by inspektor ochrony danych nie otrzymywał in‐
+strukcji dotyczących wykonywania tych zadań. Nie jest on odwoływany ani karany przez
+administratora ani podmiot przetwarzający za wypełnianie swoich zadań. Inspektor
+ochrony danych bezpośrednio podlega najwyższemu kierownictwu administratora lub
+podmiotu przetwarzającego.
+Należy podnieść, że w Wytycznych WP 243 Grupa Robocza art. 29 wskazuje, że art. 38
+ust. 3 rozporządzenia 2016/679 wyznacza pewien zakres gwarancji, których celem jest
+umożliwianie IOD wykonywania obowiązków z odpowiednim stopniem niezależności w
+ramach organizacji. Administrator lub podmiot przetwarzający mają w szczególności za‐
+pewnić „by inspektor ochrony danych nie otrzymywał instrukcji dotyczących
+wykonywania tych zadań”. W motywie 97 rozporządzenia 2016/679 z kolei stwierdzono,
+iż „inspektorzy ochrony danych – bez względu na to, czy są pracownikami administratora
+– powinni być w stanie wykonywać swoje obowiązki i zadania w sposób niezależny”.
+W Wytycznych WP 243 wskazano także, że zakaz wydawania instrukcji inspektorowi
+ochrony danych oznacza, że w ramach wypełniania swoich zadań IOD nie może m.in.
+otrzymywać poleceń dotyczących sposobu załatwienia sprawy, środków, jakie mają zo‐
+stać podjęte, czy też celu, jaki powinien zostać osiągnięty. IOD nie może również zostać
+zobligowany do przyjęcia określonego stanowiska w sprawie z zakresu prawa ochrony
+danych, w tym określonej wykładni przepisów.
+W nawiązaniu do powyższego należy stwierdzić, że Uczelnia do dnia (…) 2023 r. nie
+wdrożyła rozwiązań (np. w Polityce ochrony danych lub w innych wewnętrznych regula‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 14 z 22
+
+cjach) skonkretyzowanych zasad zapobiegających kierowaniu wobec IOD instrukcji co do
+sposobu wykonywania jego zadań oraz jego odwoływaniu i karaniu za wykonywanie tych
+zadań.
+Należy zatem stwierdzić, że Uczelnia nie posiadała rozwiązań organizacyjnych przyjętych
+w wykonaniu obowiązku wskazanego w art. 38 ust. 3 rozporządzenia 2016/2024 w okre‐
+sie od 25 maja 2018 r. do (…) 2023 r., kiedy to Uczelnia wdrożyła takie rozwiązania,
+wprowadzając w życie postanowienia Regulaminu (…).
+W § (…) ww. aktu prawnego ustanowiono, że przez działania niedozwolone wobec IOD
+rozumie się m.in.:
+–
+próby wywierania nacisku na IOD przez wydawanie instrukcji dotyczących wykony‐
+wania jego zadań (w szczególności: instrukcji dotyczących wyników, jakie IOD ma
+osiągnąć, sposobu rozpatrywania skargi lub tego, czy należy przeprowadzić
+konsultacje z organem nadzorczym);
+–
+próby obligowania IOD do przyjęcia określonego stanowiska w sprawie przepisów
+dotyczących ochrony danych np. określonej wykładni przepisów;
+–
+odwoływanie lub karanie IOD za wypełnianie swoich zadań, np. za dokonanie zgło‐
+szenia incydentu naruszenia ochrony danych osobowych do organu nadzorczego
+mimo sprzeciwu administratora.
+Ponadto, w myśl § (…) oraz § (…) Regulaminu (…), gwarancją niezależności IOD jest,
+między innymi, zakaz wydawania IOD instrukcji i poleceń w zakresie wykonywanych
+przez niego zadań, który oznacza, że w ramach wypełniania swoich zadań IOD nie może
+otrzymywać poleceń dotyczących sposobu załatwienia sprawy, które określałyby sposób
+przekazywania wyników swojej pracy w związku z przeprowadzonym sprawdzeniem (au‐
+dytem), środki jakie mają zostać podjęte, cel jaki powinien zostać osiągnięty oraz czy
+należy przeprowadzić konsultacje z organem nadzorczym.
+W ocenie Prezesa UODO dopiero wprowadzone przez Uczelnię od dnia (…) 2023 r. (Regu‐
+lamin (…)) regulacje wewnętrzne pozwoliły Uczelni zapewnić systemowo i kompleksowo
+w konkretny sposób, by inspektor ochrony danych nie otrzymywał instrukcji dotyczących
+wykonywania swoich zadań oraz żeby nie był on odwoływany ani karany przez
+Administratora za wypełnianie swoich zadań.
+W zakresie obowiązku zapewnienia podlegania IOD najwyższemu kierownictwu Admini‐
+stratora, także przed ww. datami, Uczelnia spełniała wymogi art. 38 ust. 3 rozporządze‐
+nia 2016/679, przede wszystkim na podstawie uregulowań obowiązującego w niej regu‐
+laminu organizacyjnego oraz schematu organizacyjnego Uczelni. Zgodnie bowiem z §
+(…) Regulaminu (…), nadanego zarządzeniem Rektora nr (…) z dnia (…) 2019 r., IOD jest
+samodzielnym stanowiskiem pracy przyporządkowanym organizacyjnie Rektorowi. W
+związku z powyższym, w zakresie kwestii podlegania IOD najwyższemu kierownictwu Ad‐
+ministratora, Prezes UODO nie znalazł przesłanek do sformułowania wobec Uczelni za‐
+rzutu.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 15 z 22
+
+4.
+Według treści art. 38 ust. 6 rozporządzenia 2016/679, inspektor ochrony danych może
+wykonywać inne zadania i obowiązki. Administrator lub podmiot przetwarzający zapew‐
+niają, by takie zadania i obowiązki nie powodowały konfliktu interesów.
+Nawiązując do brzmienia ww. przepisu należy podkreślić, że Prezes UODO konsekwent‐
+nie prezentuje stanowisko, zgodnie z którym administrator, zgodnie z zasadą rozliczalno‐
+ści, jest zobowiązany wykazać, że wdrożył środki mające na celu przestrzeganie przepi‐
+sów o ochronie danych osobowych, w tym przypadku wewnętrznych rozwiązań mających
+na celu rzeczywiste zapewnienie, że inspektor nie będzie realizował zadań, które taki
+konflikt interesów powodują (także w przypadku IOD spoza organizacji). Jednym z takich
+rozwiązań jest opracowanie wewnętrznej polityki przeciwdziałania konfliktowi interesów
+(zarządzania konfliktem) inspektora ochrony danych. W polityce takiej należy określić,
+czym jest konflikt interesów oraz w jakich sytuacjach może wystąpić. Należy także wy‐
+mienić stanowiska, jakich nie należy łączyć z funkcją IOD, oraz określić zadania, których
+wykonywanie może taki konflikt powodować, a także wprowadzić procedury zgłaszania
+wystąpienia konfliktu oraz postępowania w celu jego rozwiązania.
+Prezes UODO zwracał również uwagę, że ocena występowania konfliktu interesów powin‐
+na być dokonywana indywidualnie w odniesieniu do konkretnych okoliczności. One jed‐
+nak mogą się zmieniać, więc możliwość pojawienia się konfliktu powinna być stale moni‐
+torowana. Proces zarządzania konfliktami interesów zakłada unikanie sytuacji, które mo‐
+głyby doprowadzić do powstania potencjalnego konfliktu interesów, poprzez opracowy‐
+wanie i wdrożenie u Administratora rozwiązań o charakterze organizacyjnym i procedu‐
+ralnym, mających eliminować ryzyko wystąpienia konfliktu interesów. Rolą Administrato‐
+ra jest bowiem monitorowanie sytuacji mogących stanowić zagrożenie zasady zapobie‐
+gania konfliktowi interesów. Administrator musi także mieć instrumenty, dzięki którym
+będzie mógł podejmować odpowiednie działania w sytuacjach ewentualnego wystąpie‐
+nia konfliktu interesów, jak również w sytuacji zagrożenia wystąpienia tego zjawiska.
+Rozwiązania w powyższym zakresie powinny pozwalać na identyfikację, zapobieganie
+oraz zarządzaniem konfliktem interesów. Administrator jest zobligowany zapewnić w ra‐
+mach swojej organizacji te rozwiązania, bez względu na to, czy IOD jest jego pracowni‐
+kiem, czy też jest to podmiot zewnętrzny. Jeżeli Administrator nie wprowadził rozwiązań
+dotyczących zarządzenia konfliktem interesów, to oznacza to, iż zignorował zagrożenia i
+negatywne konsekwencje dla jego organizacji, jakie mogą wypłynąć wskutek zaistnienia
+konfliktu interesów w związku np. z nałożeniem na inspektora ochrony danych zadań
+przypisanych w świetle przepisów rozporządzenia 2016/679 Administratorowi.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 16 z 22
+
+W nawiązaniu do powyższego należy stwierdzić, że Uczelnia w okresie od dnia 25 maja
+2018 r. do dnia (…) 2023 r., tj. dnia wejścia w życie nowelizacji Polityki Ochrony Danych
+Osobowych, nie opracowała wystarczających skonkretyzowanych rozwiązań zapewniają‐
+cych, by zadania i obowiązki wykonywane przez IOD nie powodowały konfliktu interesów.
+Zgodnie z treścią rozdziału (…) zmodyfikowanej Polityki Ochrony Danych Osobowych
+obowiązującej w Uczelni, funkcji IOD, aby nie zachodził konflikt interesów, nie można łą‐
+czyć z wykonywaniem zadań na stanowiskach kierowniczych, w szczególności: Dyrektora
+(…), Dyrektora (…), Kwestora, Kierownika (…) i Dyrektora (…). Należy jednak zwrócić
+uwagę, że powyższa regulacja obowiązuje dopiero od dnia (…) 2023 r., tj. po wprowadze‐
+niu zmian do ww. dokumentu, przez co należy stwierdzić, że stan wymagany przez prze‐
+pis art. 38 ust. 6 rozporządzenia 2016/679 został w Uczelni osiągnięty dopiero od ww.
+daty.
+Natomiast zgodnie z uregulowaniem § (…) Regulaminu (…) wprowadzonego zarządze‐
+niem nr (…) z dnia (…) 2023 r., IOD nie może być osobą spokrewnioną z osobami, które
+kierują lub zarządzają Uczelnią, a przy wyznaczaniu IOD, w tym jego zastępcy, konieczna
+jest analiza i ocena, czy określone relacje pokrewieństwa nie będą miały wpływu na wy‐
+konywanie zadań i obowiązków IOD w sposób niezależny i nie będą powodować konfliktu
+interesów.
+Ponadto, w myśl ww. regulacji, do stanowisk, których nie można łączyć z pełnieniem
+funkcji IOD, które powodują konflikt interesów, należą funkcje i stanowiska administra‐
+cyjne wchodzące w skład kadry zarządzającej, jak i kierownicze niższego szczebla, o któ‐
+rych mowa w przepisach wewnętrznych Uczelni, właściwych do spraw organizacyjnych i
+zatrudnienia, a w szczególności stanowiska lub funkcje pełnione w organach zarząd‐
+czych Uczelni, tj.: Dyrektora (…), Dyrektora (…), Kwestora i Kierownika (…).
+Z kolei, zgodnie z treścią § (…) Regulaminu (…), konflikt interesów, o którym mowa w §
+(…) Regulaminu, następuje w sytuacji, gdy nie można pogodzić prawidłowego wykony‐
+wania zadań inspektora określonych w art. 38 ust. 4 oraz art. 39 rozporządzenia
+2016/679, z realizacją innych zadań, pomiędzy którymi występuje sprzeczność, unie‐
+możliwiająca odpowiednią ich realizację. Sprzeczność może wynikać z występowania
+przez IOD jednocześnie w dwóch rolach lub podejmowania przez IOD działań lub decyzji,
+które następnie muszą podlegać jego ocenie w zakresie art. 39 ust. 1 lit. a) rozporządze‐
+nia 2016/679, zwłaszcza w sytuacji, gdy IOD jest obciążany obowiązkami, które przepisy
+nakładają na Uczelnię.
+W odniesieniu do powyższego należy stwierdzić, że Uczelnia do dnia (…) 2023 r. nie za‐
+pewniała spełniania wymogów art. 38 ust. 6 rozporządzenia w zakresie wdrożenia środ‐
+ków zapewniających uniknięcie konfliktu interesów w związku z wykonywaniem przez
+IOD jego zadań w Uczelni. Po wejściu w życie w ww. dniu regulacji Polityki Ochrony Da‐
+nych Osobowych, a następnie, w dniu (…) 2023 r., Regulaminu (…), należy uznać, że
+Uczelnia przedmiotowe środki opracowała i uwzględniła w wewnętrznych aktach praw‐
+nych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 17 z 22
+
+Podkreślić należy, że w sytuacji gdy IOD wykonuje określoną czynność, a następnie mo‐
+nitoruje prawidłowość jej wykonania – zgodnie z art. 39 ust. 1 rozporządzenia 2016/679 –
+dochodzi do konfliktu interesów, ponieważ w ten sposób IOD jest obciążony zadaniem
+administratora, którego realizację (pod względem jej zgodności z przepisami o ochronie
+danych osobowych) ma oceniać. W ten sposób występuje w podwójnej roli i może być
+zainteresowany pozytywnym recenzowaniem swoich działań, kosztem obiektywnego
+wskazywania kwestii wymagających korekty. Sytuacja, w której określona osoba sama
+ocenia (weryfikuje) wykonanie określonych obowiązków, jest zaprzeczeniem idei nieza‐
+leżnego stania na straży przestrzegania prawa i sprawowania rzeczywistej kontroli nad
+wykonywaniem określonych zadań lub obowiązków.
+
+5.
+W myśl art. 39 ust. 1 rozporządzenia 2016/679, inspektor ochrony danych ma
+następujące zadania:
+a) informowanie administratora, podmiotu przetwarzającego oraz pracowników, którzy
+przetwarzają dane osobowe, o obowiązkach spoczywających na nich na mocy niniej‐
+szego rozporządzenia oraz innych przepisów Unii lub państw członkowskich o
+ochronie danych i doradzanie im w tej sprawie;
+b) monitorowanie przestrzegania niniejszego rozporządzenia, innych przepisów Unii lub
+państw członkowskich o ochronie danych oraz polityk administratora lub podmiotu
+przetwarzającego w dziedzinie ochrony danych osobowych, w tym podział obowiąz‐
+ków, działania zwiększające świadomość, szkolenia personelu uczestniczącego w
+operacjach przetwarzania oraz powiązane z tym audyty;
+c) udzielanie na żądanie zaleceń co do oceny skutków dla ochrony danych oraz
+monitorowanie jej wykonania zgodnie z art. 35;
+d) współpraca z organem nadzorczym;
+e) pełnienie funkcji punktu kontaktowego dla organu nadzorczego w kwestiach związa‐
+nych z przetwarzaniem, w tym z uprzednimi konsultacjami, o których mowa w art.
+36, oraz w stosownych przypadkach prowadzenie konsultacji we wszelkich innych
+sprawach.
+W świetle wyżej przywołanego przepisu wymaga podkreślenia, że Administrator ponosi
+pełną odpowiedzialność za zgodne z przepisami ochrony danych osobowych przetwarza‐
+nie danych w jego organizacji. Inspektor ochrony danych podlega bezpośrednio Admini‐
+stratorowi i w związku z tym sposób wykonywania funkcji przez IOD musi podlegać kon‐
+troli Administratora. Pamiętając o konieczności zapewnienia niezależności IOD, Admini‐
+strator powinien przyjąć takie rozwiązania w swojej organizacji, które zapewnią skutecz‐
+ną kontrolę realizowania przez inspektora ochrony danych jego zadań. Administrator
+musi mieć bowiem świadomość, czy wyznaczony przez niego IOD w ogóle te zadania wy‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 18 z 22
+
+konuje, z jaką częstotliwością i w jakim obszarze, a także jakie są rezultaty tych działań.
+Z tego powodu istotne jest, aby IOD przedstawiał Administratorowi okresowy plan pracy.
+Plan ten będzie bowiem stanowił dla Administratora punkt wyjścia dla takiej kontroli.
+Odnosząc się do powyższego wskazać należy, że zaplanowanie np. audytów – zwłaszcza,
+gdy IOD monitoruje przestrzeganie przepisów w dużej organizacji – jest niezbędne, aby
+IOD mógł wywiązywać się z powyższego zadania. Taki plan powinien uwzględniać wiele
+czynników zależnych od specyfiki danego administratora i prowadzonych przez niego
+procesów przetwarzania danych. Konieczne jest jego dostosowanie do przeprowadzonej
+w organizacji oceny ryzyka, bowiem do tego zobowiązuje IOD art. 39 ust. 2 rozporządze‐
+nia 2016/679, i przypisanie wyższego priorytetu obszarom, które mają szczególne zna‐
+czenie dla systemu ochrony danych u administratora. Aby prawidłowo realizować zada‐
+nie z art. 39 ust. 1 lit. b) rozporządzenia 2016/679, IOD powinien swoje działania zapla‐
+nować, co wymaga posiadania opracowanego planu, np. odnoszącego się do zaplanowa‐
+nych audytów. Plan ten ułatwia jak najlepsze i realne wykorzystanie zasobów, którymi
+IOD dysponuje. Tworzenie planu pomaga ustalić, czy zasoby te są wystarczające, a tak‐
+że, czy we wszystkich monitorowanych obszarach IOD ma zapewnione przez administra‐
+tora współdziałanie ze strony osób przetwarzających dane osobowe.
+Zatem odnosząc brzmienie art. 39 ust. 1 rozporządzenia 2016/679 do stanu faktycznego
+stwierdzonego przez Prezesa UODO w przedmiotowej sprawie, należy stwierdzić, że
+Uczelnia naruszyła ww. przepis w ten sposób, że nie zapewniła kontroli prawidłowego
+wykonywania zadań w nim określonych przez inspektora ochrony danych, z uwagi na
+niewdrożenie przez Uczelnię np. wewnętrznych regulacji dotyczących planu pracy IOD
+(w tym planu audytów), na podstawie którego mógłby on być rozliczany przez Uczelnię z
+wykonania swoich zadań. Powyższy stan naruszenia przepisów rozporządzenia 2016/679
+zmieniło dopiero wdrożenie przez Uczelnię stosownych postanowień Regulaminu (…)
+(zarządzenie (…) Uczelni nr (…) z dnia (…) 2023 r.).
+W swoich wyjaśnieniach z dnia 3 czerwca 2024 r. Uczelnia wskazała również, że
+wdrożony przez nią do stosowania wewnętrzny dokument „(…)” jest składany jako raport
+z pełnienia obowiązków, między innymi, przez IOD, ale także przez inne osoby świadczą‐
+ce usługi na rzecz Uczelni na podstawie umowy zlecenia. Ww. raport jest składany naj‐
+częściej przy złożeniu rachunku lub doraźnie bądź na wyraźne wskazanie władz Uczelni i
+nie można powyższego środka uznać za systemowe i, co ważne, całościowe rozwiązanie
+kontrolne odnoszące się do całokształtu wykonywanych przez IOD obowiązków. Należy
+bowiem zwrócić uwagę na fakt, że, jak przyznała sama Uczelnia w złożonych wyjaśnie‐
+niach, ww. dokument był przedkładany Uczelni głównie przy okazji wystawienia doku‐
+mentu finansowego (np. rachunku) za wykonanie przez IOD usług w określonym okresie
+współpracy bądź jedynie doraźnie na wyraźne życzenie Uczelni. Z powyższego, a także z
+przedłożonych w toku wyjaśnień przez Uczelnię dokumentów wynika, że dokument „(…)”
+nie zawiera w swej treści wnikliwej analizy działań IOD, w tym np. analiz dotyczących
+stanu ochrony danych osobowych w Uczelni, pozwalających na należytą kontrolę pracy
+IOD przez Uczelnię. Jest to dokument zawierający jedynie ogólne zestawienie prac wyko‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 19 z 22
+
+nanych przez IOD, mający znaczenie bardziej dla celów wzajemnych rozliczeń finanso‐
+wych pomiędzy IOD i Uczelnią, niż dla rzeczowego, kompleksowego raportowania
+audytów czy innych działań przeprowadzonych przez IOD.
+Poza tym, sporządzanie i przedkładanie Uczelni dokumentu „(…)” jedynie „na życzenie”
+(poza okolicznością składania przez IOD rachunku za wykonanie określonych czynności),
+świadczyło o braku przyjęcia przez Uczelnię środka gwarantującego regularność i auto‐
+matyzm raportowania przez IOD na temat wykonanych przez niego prac, a także, co
+ważne, o stanie ochrony danych w Uczelni. Należyte kontrolowanie pracy IOD nie może
+bowiem polegać wyłącznie na potencjalnej możliwości domagania się przez Uczelnię
+przedłożenia jej raportu z wykonania prac. Raportowanie działań IOD powinno być jego
+obowiązkiem, uwzględnionym np. w wewnętrznym akcie prawnym Uczelni jako stosowny
+środek organizacyjny determinujący inicjatywę IOD w ww. zakresie. Raportowanie pracy
+przez IOD nie może być dokonywane w przypadkowych terminach („na życzenie”), ale
+regularnie i z uwzględnieniem stanu ochrony danych u Administratora, a także
+priorytetów określonych działań.
+Nie można zatem uznać, że dokument „(…)” zapewniał należytą kontrolę pracy IOD
+przez Uczelnię, przy uwzględnieniu wszystkich ww. uwarunkowań wiążących się z
+prawidłowością, w tym kompleksowością raportowania.
+Podobnie należy ocenić treść załącznika nr (…) do Polityki Ochrony Danych Osobowych
+„(…)”, który nie jest planem działań szkoleniowych IOD sensu stricto, a jedynie tema‐
+tycznym zestawieniem zagadnień związanych ze szkoleniami. Dokument ten nie zawiera
+oznaczenia terminów szkoleń, przez co już choćby z tego powodu, pomimo jego nazwy,
+nie może być traktowany jako plan, bowiem zgodnie z definicją plan pracy, jak i każdy
+inny plan, to działanie podejmowane z odpowiednim wyprzedzeniem, polegające na
+ustaleniu harmonogramu określonych działań i sposobu ich przeprowadzenia, mających
+na celu osiągnięcie określonego rezultatu. Planowanie z definicji powinno też dotyczyć
+zdefiniowanego okresu (terminów), w którym planowane czynności mają zostać wykona‐
+ne.
+Zatem sporządzenie planu polega na odpowiednio wcześniejszym (przed terminami re‐
+alizacji) określeniu zakresu działań wraz z opisem (wyszczególnieniem) tych czynności i
+zdefiniowaniu terminów i sposobów ich wykonania. Uczelnia w swoich wyjaśnieniach nie
+wskazała dowodów wskazujących na to, że wyżej wspomniane elementy procesu plano‐
+wania pracy IOD u niej zachodzą. Wobec powyższego, trudno uznać, że generowanie do‐
+kumentu „(…)” oraz plan szkoleń, o którym wyżej mowa, stanowiły przejaw komplekso‐
+wego podejścia do kwestii planowania pracy IOD. Działania te były w określonym stopniu
+planowaniem pracy IOD, jednak w ograniczonym zakresie, bez możliwości zapewnienia
+regularności planowania i regularnej kontroli pracy IOD.
+Uczelnia podniosła, że zgodnie z uregulowaniem § (…) ((…)) Regulaminu (…) (zarządze‐
+nie nr (…) z dnia (…) 2023 r.), IOD prowadzi pisemną dokumentację swoich czynności, w
+tym sporządza dla administratora pisemne sprawozdania z wykonania zadań z zakresu
+ochrony i sposobu przetwarzania danych osobowych w wyniku prowadzonych sprawdzeń
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 20 z 22
+
+i analiz stanu faktycznego przetwarzania danych osobowych oraz przekazuje Administra‐
+torowi sprawozdanie, o którym mowa w pkt 1, nie rzadziej niż raz w roku, w sposób unie‐
+możliwiający zapoznanie się z jego treścią osobom nieupoważnionym.
+Także w myśl uregulowania § (…) ((…)) Regulaminu (…), audytor monitoruje również
+działania podejmowane przez IOD w zakresie prawidłowości wykonywania przez niego
+obowiązków, mając na uwadze gwarancję niezależności IOD, o której mowa w § (…) ww.
+Regulaminu.
+Na podstawie udzielonych przez Uczelnię wyjaśnień popartych dołączonymi kopiami
+obowiązujących w niej wewnętrznych aktów prawnych, należy zatem uznać, że Uczelnia
+wprowadziła do obowiązywania stosowne regulacje odnośnie kontroli pracy IOD, ale do‐
+piero od dnia (…) 2023 r. (w związku z wdrożeniem w tym dniu regulującego te kwestie
+Regulaminu (…)), natomiast przed tym dniem kontrola ta nie była zapewniona w sposób
+kompleksowy (systemowy) w systemie środków wdrożonych przez Uczelnię, mających
+zapewniać bezpieczeństwo przetwarzania danych. Prezes UODO uwzględnił także w
+wyjaśnieniach Uczelni przedłożony „Plan (…) na rok 2024”, spełniający co do zasady wa‐
+runki definicji planu, o której wyżej mowa. Należy zatem jeszcze raz podkreślić, że Uczel‐
+nia przed dniem (…) 2023 r. nie dysponowała narzędziem, które zapewniałoby monitoro‐
+wanie przez nią w systemowy i ustandaryzowany sposób wykonywania przez IOD swoich
+zadań zgodnie z przepisami rozporządzenia 2016/679, przez co naruszyła art. 39 ust. 1
+tego aktu prawnego.
+Wobec powyższych wyjaśnień Uczelni oraz przedłożonych przez nią dowodów stwierdzić
+należy, że w Uczelni stwierdzone zostały nieprawidłowości stanowiące naruszenie prze‐
+pisów rozporządzenia 2016/679, o których mowa powyżej w treści decyzji. Naruszenie
+przez Uczelnię przepisów rozporządzenia 2016/679 stwierdzone w niniejszej decyzji,
+skutkuje z kolei nałożeniem na Uczelnię przez Prezesa UODO stosownej, przewidzianej
+nimi sankcji.
+W związku z powyższym, działając na podstawie art. 58 ust. 2 lit. b) rozporządzenia
+2016/679, zgodnie z którym każdemu organowi nadzorczemu przysługuje w zakresie
+prowadzonych postępowań uprawnienie do udzielania upomnienia administratorowi, w
+przypadku naruszenia przepisów niniejszego rozporządzenia przez operacje przetwarza‐
+nia, Prezes UODO uznaje za uzasadnione udzielenie Uczelni upomnienia w zakresie
+stwierdzonego naruszenia przepisów art. 38 ust. 1, 2, 3 i 6 oraz art. 39 ust. 1
+rozporządzenia 2016/679.
+Motyw 148 rozporządzenia 2016/679 stanowi, że aby egzekwowanie przepisów rozporzą‐
+dzenia było skuteczniejsze, należy za jego naruszenie nakładać sankcje, w tym admini‐
+stracyjne kary pieniężne – oprócz lub zamiast odpowiednich środków nakładanych na
+mocy niniejszego rozporządzenia przez organ nadzorczy. Jeżeli naruszenie jest niewiel‐
+kie, karę pieniężną można zastąpić upomnieniem. Powinno się jednak zwrócić należytą
+uwagę na charakter, wagę oraz czas trwania naruszenia, na to, czy naruszenie nie było
+umyślne, na działania podjęte dla zminimalizowania szkody, na stopień odpowiedzialno‐
+ści lub wszelkie mające znaczenie wcześniejsze naruszenia, na sposób, w jaki organ nad‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 21 z 22
+
+zorczy dowiedział się o naruszeniu, na przestrzeganie środków nałożonych na admini‐
+stratora lub podmiot przetwarzający, na stosowanie kodeksów postępowania oraz
+wszelkie inne czynniki obciążające lub łagodzące.
+Prezes UODO uznał, że w ustalonych okolicznościach niniejszej sprawy wystarczającym
+środkiem jest udzielenie Uczelni upomnienia. Za okoliczność łagodzącą, która, między
+innymi, za tym przemawia, Prezes UODO uznał stosunkowo niewielkie ryzyko bezpośred‐
+niego naruszenia praw lub wolności osób, których dane dotyczą w rezultacie stwierdzo‐
+nych naruszeń przepisów rozporządzenia 2016/679 przez Uczelnię. Należy bowiem pod‐
+nieść, że Uczelnia wykazała przez Prezesem UODO, iż co do zasady przedsięwzięła i
+wdrożyła najważniejsze środki organizacyjne służące należytemu uregulowaniu działania
+IOD i współpracy z nim, np. Politykę Ochrony Danych Osobowych oraz Regulamin (…).
+Ponadto, biorąc pod uwagę okoliczności przedmiotowej sprawy i ustalenia w niej poczy‐
+nione, brak jest również podstaw do uznania, że osoby, których dane dotyczą, poniosły
+na skutek naruszenia przez Uczelnię ww. przepisów rozporządzenia 2016/679 szkodę.
+Ponadto, współdziałanie Uczelni z Prezesem UODO przy wyjaśnianiu okoliczności jej
+współpracy z osobą wykonującą obowiązki IOD, należy, choć nie bez zastrzeżeń, określić
+jako ogólnie zasługujące na aprobatę. Biorąc pod uwagę całokształt okoliczności sprawy,
+w tym także zakres stwierdzonych przez Prezesa UODO naruszeń przepisów rozporzą‐
+dzenia 2016/679 w ww. obszarze względem zakresu sprawdzania, w jaki sposób Uczelnia
+zapewnia realizację przepisów rozporządzenia odnoszących się do IOD, należy uznać, że
+przedmiotowe naruszenia nie powodowały niemożności albo szczególnego utrudnienia w
+prawidłowym wykonywaniu przez niego swoich zadań, przez co okoliczność ta wpływa
+łagodząco na ogólną ocenę stanu przestrzegania ww. przepisów przez Uczelnię.
+Dodatkowo, w trakcie prowadzenia przez Prezesa UODO czynności wyjaśniających w
+sprawie, Uczelnia wykazała, że po ich rozpoczęciu wdrożyła nowe lub zmodyfikowała od‐
+powiednio dotychczasowe środki służące bezpieczeństwu przetwarzania danych tak, aby
+spełnić wymogi przepisów rozporządzenia 2016/679.
+Powyższe okoliczności uzasadniają zatem udzielenie Uczelni upomnienia za stwierdzone
+naruszenia przepisów rozporządzenia 2016/679 popełnione przed wprowadzeniem przez
+nią nowych rozwiązań organizacyjno-prawnych wdrażanych przez nią stopniowo pomię‐
+dzy (…) 2023 r. a (…) 2023 r., mając na względzie możliwość uniknięcia podobnych
+zdarzeń w przyszłości.
+Należy zauważyć, że w przypadku zaistnienia podobnego zdarzenia w przyszłości, każde
+upomnienie wydane przez Prezesa UODO wobec Uczelni będzie brane pod uwagę przy
+ocenie przesłanek ewentualnego wymierzenia kary administracyjnej, zgodnie z zasadami
+określonymi w art. 83 ust. 2 rozporządzenia 2016/679.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+
+Decyzja DKN.5110.14.2022
+
+Strona 22 z 22
+
+[1] 16/EN; WP 243 rew.01
+[2] P. Barta, M. Kawecki, P. Litwiński, Komentarz do art. 38, teza 1 pkt 3 [w:] P. Litwiński
+(red.), Ogólne rozporządzenie o ochronie danych..., s. 403.
+[3] A. Nerka, Komentarz do art. 38, teza 5 pkt 1 [w]: M. Sakowska-Baryła, Ogólne
+rozporządzenie o ochronie danych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5110_14/content
+
+2025-09-03 13:18
+

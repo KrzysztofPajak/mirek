@@ -1,0 +1,921 @@
+Warszawa, 10 grudnia 2021
+PRAWOMOCNA
+
+Decyzja
+DKE.523.19.2021
+
+Na podstawie art. 138 § 1 pkt 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r. poz. 735 ze zm.) w związku z art. 22 ustawy z dnia
+29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 ze zm.), art.
+160 ust. 1, 2 i 3 ustawy z 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r.
+poz. 1781) oraz art. 6 ust. 1, art. 57 ust. 1 lit. a) i lit. f) Rozporządzenia Parlamentu Euro‐
+pejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fi‐
+zycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego prze‐
+pływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o
+ochronie danych osobowych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1 oraz Dz. Urz. UE L
+127 z 23.05.2018 str. 2),
+po przeprowadzeniu postępowania administracyjnego w sprawie wniosku Pana A. S.,
+zam. w K., Os. (…), o ponowne rozpatrzenie sprawy zakończonej decyzją Prezesa Urzędu
+Ochrony Danych Osobowych z dnia 22 kwietnia 2021 r. o sygn. DKE.523.19.2021 na
+przetwarzanie jego danych osobowych przez G. Bank S.A. z siedzibą w W. przy ul. (…),
+Prezes Urzędu Ochrony Danych Osobowych,
+utrzymuje w mocy zaskarżoną decyzję
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 2 z 19
+
+Uzasadnienie
+
+Stan faktyczny
+Do Biura Generalnego Inspektora Ochrony Danych Osobowych (aktualnie: Urzędu Ochro‐
+ny Danych Osobowych) wpłynęła za pismem z 29 listopada 2012 r. skarga Pana A. S.
+(zam. Os. (…), K.)), zwanego dalej także „Skarżącym”, na przetwarzanie jego danych
+osobowych przez G. Bank S.A. z siedzibą w W. (zwanej dalej także „Bankiem” lub „Admi‐
+nistratorem”).
+W treści skargi Skarżący podniósł, że pismem z 28 listopada 2011 r., którego kopia sta‐
+nowiła załącznik do skargi, zażądał od Banku usunięcia jego danych osobowych z uwagi
+na to, że nie jest on zainteresowany żadną formą współpracy z Bankiem. Skarżący
+wskazał, że mimo jego żądania, co najmniej dwukrotnie był „nękany telefonicznie propo‐
+zycjami ze strony tego banku” oraz otrzymywał propozycje reklamowe drogą mailową.
+Skarga zawierała tabelę z 57 wierszami, w której zamieszczone zostały tytuły oraz daty i
+godziny wiadomości email, które zdaniem Skarżącego otrzymał od Banku. Daty wiado‐
+mości obejmowały okres od 22 lutego 2012 r. do 27 listopada 2012 r.
+Skarżący wniósł o wszczęcie wobec Banku postępowania na podstawie art. 18, art. 49 i
+50 ustawy z 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922
+ze zm.), zwanej dalej także: „ustawa o ochronie danych osobowych z 1997 r.”
+Skarga zawierała braki formalne, które zostały uzupełnione przez Skarżącego w czerwcu
+2013 r.
+Prezes Urzędu Ochrony Danych Osobowych (dalej również: „Prezes UODO” lub „organ
+ochrony danych osobowych”) przeprowadził w niniejszej sprawie postępowanie admini‐
+stracyjne, w toku, którego ustalił następujący stan faktyczny.
+1. Pismem z 28 czerwca 2013 r., Prezes UODO wezwał Bank do ustosunkowania się do
+treści skargi oraz udzielenia odpowiedzi na pytania związane z pozyskaniem danych
+osobowych Skarżącego.
+2. Pismem z 8 lipca 2013 r., Bank złożył pisemne wyjaśnienia w sprawie, w których
+wskazał:
+1) Bank pozyskał dane osobowe Skarżącego bezpośrednio od Skarżącego w celu
+realizacji umowy rachunku bankowego oraz umów lokat bankowych z produk‐
+tem inwestycyjnym, zawartych 25 maja 2011 r., (których kopie załączono do pi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+3.
+
+Strona 3 z 19
+
+sma) i przetwarzał te dane na podstawie art. 23 ust. 1 pkt 3 ustawy o ochronie
+danych osobowych z 1997 r.;
+2) Bank nie pozyskał numeru telefonu Skarżącego, który Skarżący podaje w skar‐
+dze (…). Bank nie odnotował także żadnych połączeń z tym numerem telefonu;
+3) Bank nie przetwarzał danej o adresie poczty elektronicznej Skarżącego, to jest:
+(…). Bank nie przetwarzał także żadnego innego adresu email Skarżącego. Bank
+nie posiadając żadnego adresu poczty elektronicznej Skarżącego nie mógł prze‐
+syłać i nie przesyłał Skarżącemu żadnej korespondencji marketingowej drogą
+mailową;
+4) Bank wskazał, że nie odnotował wniosku Skarżącego z 28 listopada 2011 r. o za‐
+przestanie przetwarzania danych osobowych, przy czym nie mógłby pozytywnie
+rozpatrzeć takiego wniosku z uwagi na aktywną w tym czasie umowę rachunku
+bankowego z 25 maja 2011 r. zawartą pomiędzy Bankiem a Skarżącym. Jednak‐
+że skargę skierowaną przez Skarżącego do Prezesa UODO Bank potraktował,
+jako sprzeciw wobec przetwarzania dotyczących go danych osobowych na po‐
+trzeby marketingu i odnotował ten sprzeciw w systemie informatycznym Banku;
+5) Bank poinformował, że w celu kompleksowego wyjaśnienia skargi, zwrócił się do
+portalu (…) - któremu zlecał akcje marketingowe G. Bank S.A. a w którym (zgod‐
+nie z informacją ze Skargi) Skarżący posiada konto mailowe - o listę akcji marke‐
+tingowych prowadzonych na zlecenie Banku w okresie, w którym Skarżący
+otrzymywał korespondencję marketingową z ofertą G. Banku S.A. Bank wskazał,
+że na podstawie informacji od W. (wykaz akcji marketingowych (…) dla G. Bank
+S.A. stanowił załącznik do pisma) można przypuszczać, że Skarżący otrzymywał
+korespondencję kierowaną do użytkowników poczty (…). Bank podniósł, że nie
+jest on administratorem danych osób, do których jest kierowana przez W. taka
+oferta marketingowa.
+Ponadto, pismem z 16 grudnia 2013 r. stanowiącym konkretyzację skargi z 29 listo‐
+pada 2012 r., pełnomocnik Skarżącego, zwróciła się do Prezesa UODO o usunięcie
+przez Bank uchybień w procesie przetwarzania danych osobowych Skarżonego pole‐
+gających na natarczywym wysyłaniu reklam przez Bank na adres mailowy
+Skarżącego: (…) oraz telefonach do Skarżącego poprzez:
+1) zobowiązanie Administratora do zaprzestania kontaktów ze Skarżącym i wysyła‐
+nia do niego jakichkolwiek ofert i informacji handlowych;
+2) usunięcie danych osobowych Skarżącego przez Bank;
+3) dopuszczenie i przeprowadzenie dowodów z dokumentów załączonych do wnio‐
+sku - na okoliczność, że Bank bez zgody wnioskodawcy przetwarza jego dane
+osobowe, w sposób uporczywy i nachalny przesyła na jego adres mailowy infor‐
+macje handlowe bądź oferuje zawarcie umowy drogą telefoniczną.
+
+W uzasadnieniu wniosku pełnomocnik Skarżącego wskazała, że:
+1) Bank nie jest podmiotem uprawnionym do przetwarzania danych osobowych Skar‐
+żącego oraz że Bank nie ustaje w przesyłaniu do Skarżącego ofert i informacji han‐
+dlowych,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+2)
+
+3)
+
+4)
+
+Strona 4 z 19
+
+nieprawdą jest jakoby Bank przetwarzał dane osobowe Skarżącego w celu realizacji
+aktywnej umowy rachunku bankowego z 25 maja 2011 r., gdyż umowa ta została
+wypowiedziana pismem Skarżącego z 28 listopada 2011 r., co spowodowało, że
+rachunek ten nie jest aktywny,
+przed wypowiedzeniem umowy, maile kierowane przez Bank nie pozostawały w
+związku z zawartą umową rachunku bankowego, gdyż dotyczyły akcji promocyjnych
+Banku typu: „Otwórz konto! Odbierz tablet” oraz ofert zawarcia umowy pożyczki,
+które to działania nie były podyktowane koniecznością realizacji zawartej umowy,
+mimo twierdzenia Banku jakoby 8 lipca 2013 r. odnotował sprzeciw Skarżącego wo‐
+bec przetwarzania jego danych osobowych do celów marketingowych, to jednak
+ciągle kieruje do niego informacje handlowe.
+
+Do pisma z 16 grudnia 2013 r. Skarżący załączył skargę z 28 listopada 2011 r. wniesioną
+do Banku wraz wydrukami wiadomości email skierowanych do niego w dniach od 9 lipca
+2013 r. do 3 grudnia 2013 r., których przedmiotem była reklama produktów i usług
+Banku. Załączonych zostało trzydzieści osiem (38) ofert marketingowych.
+4. Pismem z 18 czerwca 2014 r. organ ochrony danych osobowych zwrócił się do Ban‐
+ku z wezwaniem do ustosunkowania się do skonkretyzowanej przez pełnomocnika
+Skarżącego skargi.
+5. Pismem z 1 lipca 2014 r. Bank potwierdził poprzednio złożone wyjaśnienia dodając,
+że:
+1) umowa rachunku bankowego z 25 maja 2011 r., zawarta pomiędzy Bankiem a
+Skarżącym, została wypowiedziana przez Skarżącego 21 listopada 2013 r. (na
+potwierdzenie załączono kopię wypowiedzenia);
+2) Bank obecnie przetwarza dane osobowe Skarżącego w celach archiwalnych na
+podstawie ustawy z 14 lipca 1983 r. o narodowym zasobie archiwalnym oraz
+archiwach (Dz. U. z 2020 r. poz. 164), art. 74 ustawy z 29 września 1004 r. o
+rachunkowości (Dz. U. z 2021 r. poz. 217) oraz rozporządzenia Ministra Finan‐
+sów z 10 grudnia 2001 r. w sprawie szczególnych zasad rachunkowości banków
+(Dz. U. Nr 149, poz. 1673 z późn. zm.);
+3) danych osobowych Skarżącego do celów marketingowych Bank nigdy nie
+przetwarzał i nie przetwarza;
+4) Bank podkreślił, że nie jest ani właścicielem ani dysponentem adresów email, z
+których Skarżący otrzymywał korespondencję zawierającą materiały
+marketingowe Banku;
+5) Bank oświadczył, że nie posiada dostępu do adresów (skrzynek) mailowych wy‐
+szczególnionych w piśmie pełnomocnika Skarżącego z 16 grudnia 2013 r., w
+związku, z czym nie prowadzi za pomocą tych adresów żadnej korespondencji;
+6) Administrator zaznaczył, że zgodnie z jego wiedzą, adresy te należą do podmio‐
+tów świadczących usługi marketingowe dla agencji reklamowych, z którymi
+Bank współpracuje, a są to odpowiednio: (…); (…); (…); (…); (…); (…); (…); (…);
+(…);
+7)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+6.
+
+7.
+
+Strona 5 z 19
+
+Bank wyjaśnił, że nie przekazał w żaden sposób ani nie powierzył przetwarzania
+danych Skarżącego tym podmiotom.
+8) Bank zaznaczył, że przekazuje agencji reklamowej jedynie wkład marketingowy
+natomiast korespondencja rozsyłana jest przez współpracujące z tą agencją
+podmioty, które posiadają własne bazy danych odbiorców.
+9) Bank nie kierował nigdy korespondencji marketingowej na wskazany przez Skar‐
+żącego adres email a otrzymywana przez Skarżącego korespondencja kierowa‐
+na jest do niego przez inne podmioty, które we własnym celu przetwarzają jego
+dane osobowe.
+Pismem z 6 listopada 2019 r. Prezes UODO wezwał Bank do uzupełnienia wyjaśnień,
+to jest, czy z uwagi na upływ terminu 5 lat na przetwarzanie danych osobowych
+Skarżącego w celach archiwalnych od momentu wniesienia sprzeciwu wobec tego
+przetwarzania usunął on dane osobowe Skarżącego a jeśli nie, to podanie, do jakich
+konkretnych celów, w jakim zakresie i na jakiej podstawie prawnej aktualnie
+przetwarza te dane.
+Pismem z 19 listopada 2019 r. Bank udzielił odpowiedzi na ww. wezwanie
+oświadczając, że:
+1) na dzień sporządzenia pisma Skarżący nie posiada żadnych aktywnych umów o
+produkty lub usługi świadczone przez Bank a datą zamknięcia ostatniego
+nieaktywnego produktu jest 1 lipca 2014 r.;
+2) obecnie dane osobowe Skarżącego Bank przetwarza na podstawie art. 6 ust. 1
+lit. c) i lit. f) rozporządzenia 2016/679;
+3) Bank przetwarzał dane osobowe Skarżącego w czasie trwania umowy i przez
+okres 5 pełnych lat po zakończeniu umowy w celach archiwalnych – na
+podstawie art. 74 ust. 2 pkt 8 ustawy o rachunkowości;
+4) z tytułu obrony przed potencjalnymi roszczeniami Bank może zgodnie z prawem
+przetwarzać dane osobowe klientów przez okres wynikający z terminów
+przedawnienia wynikających z art. 118 ustawy Kodeks cywilny. W przypadku
+Skarżącego, termin ten upłynie 1 lipca 2024 r.
+
+Na podstawie zgromadzonego w sprawie materiału dowodowego Prezes UODO uznał, że
+Bank przetwarzał dane Skarżącego w związku z zawartą umową rachunku bankowego
+oraz umów lokat bankowych, zawartych w dniu 25 maja 2011 r. jedynie w celu realizacji
+prawnie usprawiedliwionych (uzasadnionych) interesów administratora. Bank nie prze‐
+twarzał danych osobowych Skarżącego, zarówno adresu poczty elektronicznej: (…), jak i
+numeru telefonu (…) w celu działalności marketingowej. Bank danych tych nie posiadał,
+zatem nie mógł się nimi posługiwać.
+W tym stanie faktycznym Prezes UODO wydał decyzję administracyjną z dnia 22 kwiet‐
+nia 2021 r. znak: DKE.523.19.2021, mocą, której odmówił uwzględnienia wniosku w spra‐
+wie skargi Pana A. S. Decyzja doręczona została pełnomocnikowi Skarżącego w dniu 28
+kwietnia 2021 r., zaś Bankowi 27 kwietnia 2021 r. (zwrotne potwierdzenia odbioru w
+aktach sprawy).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 6 z 19
+
+W ustawowym terminie Skarżący złożył wniosek o ponowne rozpatrzenie sprawy zakoń‐
+czonej wyżej wskazaną decyzją. W uzasadnieniu do wniosku Skarżący nie przedstawił
+jednak żadnych nowych okoliczności, to jest innych względem tych, które zgłosił dotych‐
+czas w sprawie mającej wpływ na rozstrzygnięcie zawarte w ww. decyzji wydanej przez
+Prezesa UODO.
+Wskazanej decyzji Skarżący zarzucił:
+1. Nieuwzględnienie przez Prezesa UODO, niezwykle ważnych aspektów sprawy, ponie‐
+waż przyjął niemal wyłącznie punkt widzenia i interes Banku, ignorując zaprezento‐
+wane przez Skarżącego dowody i wyjaśnienia. Zdaniem Skarżącego, Prezes UODO
+wyraźnie faworyzował Bank.
+2. Skarżący wskazał, że swoje oświadczenie o zaprzestaniu przetwarzania danych oso‐
+bowych złożył w obecności upoważnionego pracownika/przedstawiciela Banku w
+dniu 28 listopada 2011 r., co zostało potwierdzone podpisem. Przedstawiony przez
+Skarżącego dowód w postaci jednoznacznego zastrzeżenia o zaprzestaniu przetwa‐
+rzania przez Bank jego danych osobowych oraz zaprzestaniu przesyłania do niego
+jakichkolwiek reklam nie dotarł do Banku. Bank natomiast wskazał, że nie odnotował
+wniesienia przez Skarżącego tego oświadczenia. Zdaniem Skarżącego, Bank nie jest
+w stanie sprostać wymaganiom określonym w przepisach o ochronie danych osobo‐
+wych oraz innych przepisach skoro nie panuje nad korespondencją wpływającą do
+Banku. Bank nie wykazuje absolutnie żadnej staranności w tym zakresie. W związku
+z cyt. „totalnym bałaganem” w Banku dotyczącym procesu przetwarzania danych
+osobowych, Skarżący zawnioskował o cyt. „gruntowną” kontrolę w Banku zarówno w
+zakresie przetwarzania danych osobowych klientów, jak i pracowników Banku.
+3. Jeżeli chodzi o nękanie Skarżącego telefoniczną reklamą, to zdaniem Skarżącego
+Prezes UODO dał Bankowi wiarę jedynie na podstawie oświadczenia, że cyt. „G.
+Bank nie odnotował żadnych połączeń z tym numerem”. Bank nie przedstawił
+natomiast cyt. „oświadczeń/dowodów potwierdzonych przez upoważnionych przed‐
+stawicieli operatorów telefonii stacjonarnej i komórkowej”. Zdaniem Skarżącego,
+ustawa o ochronie danych osobowych nakłada na każdego Administratora także
+nadzór nad tymi danymi, które są przetwarzane u innych, współpracujących z nim
+osób, instytucji, firm itp. Skoro Skarżący złożył tak jasne, jednoznaczne i kategorycz‐
+ne zastrzeżenie, to Bank zobligowany był do przekazania tego zastrzeżenia do
+wszystkich osób i podmiotów z nim współpracujących („... podmioty świadczące
+usługi marketingowe...”). Bank nie wykazał należytej, a właściwie żadnej, absolutnie
+żadnej staranności w tym zakresie.
+4. W kwestii oświadczenia i zapewnienia przez Bank, że maile nie są przesyłane przez
+G. Bank S.A., tylko wyłącznie przez firmy marketingowe, Prezes UODO także zawie‐
+rzył wyłącznie oświadczeniu i zapewnieniu złożonemu przez Bank. Natomiast, zda‐
+niem Skarżącego takie adresy mailowe jak: (…), (…), (…), (…), (…), to chyba rzeczy‐
+wiście wynajęci usługodawcy, ale pozostałe, to według Skarżącego adresy
+wykorzystywane bezpośrednio przez Bank.
+5.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+6.
+
+7.
+
+8.
+
+Strona 7 z 19
+
+Skarżący wskazał, że poniżej wymienione adresy poczty elektronicznej nadawcy
+świadczą o tym, że maile wysyłane były bezpośrednio z Banku.
+–
+adres/nadawca: G. Bank - stopka maila:
+G. Bank SA z siedzibą w W., ul. (…), wpisana do rejestru przedsiębiorców
+prowadzonego przez Sąd Rejonowy dla m. st. Warszawy, XIII Wydział Gospo‐
+darczy Krajowego Rejestru Sądowego pod numerem KRS (…), NIP (…), RE‐
+GON (…), której kapitał zakładowy wynosi (…) (w pełni wpłacony) (…)
+–
+adres/nadawca: G. Bank - stopka maila:
+G. Bank Spółka Akcyjna z siedzibą w W., przy ulicy (…), wpisana do rejestru
+przedsiębiorców prowadzonego przez Sąd Rejonowy dla m.st. Warszawy, XIII
+Wydział Gospodarczy Krajowego Rejestru Sądowego, pod numerem KRS
+(…), NIP (…), REGON (…), wysokość kapitału zakładowego (…) (opłacony w
+całości).
+–
+adres/nadawca: G. Bank SA - stopka maila:
+Szczegółowe warunki oferty w Oddziałach. Jesteśmy częścią G. Bank SA Sąd
+Rejonowy dla m. st. Warszawy XIII Wydział Gospodarczy Krajowego Rejestru
+Sądowego Nr KRS: (…) REGON: (…) NIP: (…) Wysokość kapitału
+zakładowego: (…) (wpłacony w całości).
+Zdaniem Skarżącego, Prezes UODO powinien zażądać od Banku dowodu dotyczące‐
+go powiązań organizacyjnych i kapitałowych tych firm z Bankiem? Skarżący wskazał
+także, że cyt. „oczywiście jest możliwe, że jacyś oszuści, gangsterzy, bez wiedzy
+Banku przesyłają korespondencję w sobie wiadomym celu, a Bank w żaden sposób
+tego nie kontroluje”.
+W związku z powyższym Skarżący wniósł o uwzględnienie wszystkich dowodów i wy‐
+jaśnień każdej strony oraz ponowne rozpatrzenie jego skargi. Skarżący oczekuje rze‐
+czowej i absolutnie bezstronnej analizy wykonanej tym razem przez kompetentne i
+profesjonalne osoby, niemającej wcześniej ani aktualnie żadnych powiązań ani
+sympatii wobec Banku, ani żadnych uprzedzeń wobec Skarżącego.
+Skarżący poprosił o kierowanie wszelkiej korespondencji nie na adres pełnomocnika
+Skarżącego, tylko na jego adres domowy, to jest: Os. (…) K.
+
+Okoliczności faktyczne
+Prezes Urzędu Ochrony Danych Osobowych dokonał ponownej analizy materiału dowo‐
+dowego zgromadzonego w niniejszej sprawie, ustalając następujące okoliczności faktycz‐
+ne.
+1. Pismem z 29 listopada 2012 r. Pan A. S. wniósł do organu ochrony danych osobo‐
+wych skargę, na przetwarzanie jego danych osobowych przez Bank. W treści skargi
+Skarżący podniósł, że pismem z 28 listopada 2011 r. skierował do Banku reklamację/
+skargę informując Bank, że 18 listopada 2011 r. zrezygnował z usług Banku, poprzez
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+2.
+
+3.
+
+4.
+
+5.
+6.
+
+Strona 8 z 19
+
+likwidację „kwartalnych zysków” z uwagi na to, że Bank nie zapewnił mu obiecanych
+przez pracownika Banku w momencie zakładania lokaty spodziewanych z tej lokaty
+zysków. Podważył rzetelność i kwalifikacje pracowników Banku informując, że nie
+omieszka on podzielić się informacjami o tym Banku „gdzie i jak tylko się da”. Skar‐
+żący zażądał wydania jego pieniędzy oraz usunięcia jego wszelkich danych
+osobowych z tego Banku, cyt. „gdyż nie jest zainteresowany żadną formą współpra‐
+cy”. Skarżący wskazał także, że mimo jego żądania, co do usunięcia jego danych
+osobowych, co najmniej dwukrotnie był „nękany telefonicznie propozycjami ze
+strony tego banku” oraz otrzymywał propozycje reklamowe drogą mailową. Do pi‐
+sma z 16 grudnia 2013 r. Skarżący załączył dowód potwierdzający otrzymywanie w
+jego ocenie z Banku ofert marketingowych, to jest trzydzieści osiem (38) takich ofert
+marketingowych. Oferty te przesyłane były do Skarżącego w okresie od 9 lipca 2013
+r. do 3 grudnia 2013 r.
+Bank pozyskał dane osobowe Skarżącego bezpośrednio od Skarżącego w celu reali‐
+zacji umowy rachunku bankowego oraz umów lokat bankowych, zawartych 25 maja
+2011 r. i przetwarzał te dane na podstawie art. 23 ust. 1 pkt 3 ustawy o ochronie
+danych osobowych z 1997 r.;
+Bank nie odnotował wniosku Skarżącego z 28 listopada 2011 r. o zaprzestanie prze‐
+twarzania danych osobowych, jednakże uwzględnił sprzeciw Skarżącego, co do
+przetwarzania jego danych osobowych w celach marketingowych na podstawie skar‐
+gi wniesionej przez Skarżącego do organu ochrony danych osobowych i 8 lipca 2013
+r. odnotował ten sprzeciw w systemie informatycznym Banku.
+Bank nie przetwarzał danych o numerze telefonu Skarżącego (…), jak i o adresie
+poczty elektronicznej (…). Bank nie pozyskał ww. danych zarówno od samego Skar‐
+żącego, jak i z innych źródeł. Zatem, nie będąc w posiadaniu tych danych nie mógł
+się nimi posługiwać.
+Bank używa domeny (…) bądź (…).
+Poniżej przedstawiono analizę materiału dowodowego zgromadzonego w niniejszej
+sprawie, to jest w szczególności przesłanych przez Skarżącego za pismem z 16
+grudnia 2013 r. kopii trzydziestu ośmiu (38) ofert marketingowych skierowanych do
+Skarżącego, jego zdaniem przez Bank. Oferty te przesłane zostały do Skarżącego w
+okresie od 9 lipca 2013 r. do 3 grudnia 2013 r. z niżej wymienionych adresów:
+1) G. Bank (…) (9.07.2013)
+Temat: Szybka Pożyczka. Sprawdź w 5 minut ile gotówki dostaniesz!
+2) G. Bank (…) (9.07.2013)
+Temat: Na wakacje nowym samochodem? Nie czekaj! Sprawdź!
+3) G. Bank (…) (23.07.2013)
+Temat: Szybka Pożyczka. Sprawdź w 5 minut ile gotówki dostaniesz!
+4) G. (…) (26.07.2013)
+Temat: Uwaga! Wysokie oprocentowanie na lokacie na 1, 2 lub 3 miesiące.
+Sprawdź
+5) G. Bank (…) (27.07.2013)
+Temat: Na wakacje nowym samochodem? Nie czekaj! Sprawdź!
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 9 z 19
+
+6)
+
+G. (…) (29.07.2013)
+Temat: Uwaga! Wysokie oprocentowanie na lokacie na 1, 2 lub 3 miesiące.
+Sprawdź
+7) G. Bank (…) (2.08.2013)
+Temat: 3,95 zł za litr paliwa! Nietypowa promocja…
+8) G. Bank (…) (5.08.2013)
+Temat: Sprawdź ile gotówki dostaniesz. Nawet 150 000 zł.
+9) G. (…) (7.08.2013)
+Temat: Hit! Konto z 10% zwrotu za zakupy. Sprawdź teraz
+10) G. Bank (…) (13.08.2013)
+Temat: Sprawdź ile gotówki dostaniesz! Nawet 150 000 zł…
+11) G. Bank (…) (19.08.2013)
+Temat: 3,95 zł za litr paliwa! Nietypowa promocja…
+12) G. (…) (20.08.2013)
+Temat: Uwaga! Wysokie oprocentowanie na lokacie na 1, 2 lub 3 miesiące.
+Sprawdź
+13) G. (…) (20.08.2013)
+Temat: Hit! Konto z 10% zwrotu za zakupy. Sprawdź teraz
+14) G. Bank (…) (21.08.2013)
+Temat: Na wakacje nowym samochodem? Nie czekaj! Sprawdź!
+15) G. Bank (…) (21.08.2013)
+Temat: Nowy samochód? Sprawdź na jaki Cię stać
+16) G. Bank (…) (3.09.2013)
+Temat: Zmień samochód na większy. Decyzja w 2h!
+17) G. (…) (3.09.2013)
+Temat: Zacznij zarabiać na lokacie 1, 2 lub 3 mies. SPRAWDŹ!
+18) G. (…) (5.09.2013)
+Temat: Hit! Konto za 10% zwrotu za zakupy. Sprawdź teraz
+19) G. Bank SA (…) (11.09.2013)
+Temat: Promocyjne oprocentowanie i minimum formalności. Sprawdź!
+20) G. (…) (16.09.2013)
+Temat: Hit! Wysokie oprocentowanie na lokacie na 1, 2 lub 3 miesiące.
+Sprawdź
+21) G. (…) (18.09.2013)
+Temat: Odbierz tablet! Sprawdź nowe konto w G.
+22) G. Bank (…) (24.09.2013)
+Temat: Gotówka od ręki? To możliwe! Sprawdź jak…
+23) G. Bank (…) (25.09.2013)
+Temat: 3, 95 zł za litr paliwa! Nietypowa promocja…
+24) G. Bank (…) (2.10.2013)
+Temat: 3, 95 zł za litr paliwa. Nietypowa promocja.
+25) G. Bank (…) (2.10.2013)
+Temat: 3, 95 zł za litr paliwa. Nietypowa promocja.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 10 z 19
+
+26) G. (…) (3.10.2013)
+Temat: To ważne! Tablet Lenovo może być Twój. Otwórz konto. SPRAWDŹ
+27) G. bank (…) (7.10.2013)
+Temat: Sprawdź na jaki samochód Cię stać.
+28) G. Bank (…) (8.10.2013)
+Temat: Gotówka od ręki? To możliwe! Sprawdź jak…
+29) G. Bank (…) (11.10.2013)
+Temat: Ile pieniędzy potrzebujesz? Poznaj ofertę dla Ciebie.
+30) G. Bank (…) (11.10.2013)
+Temat: Ile pieniędzy potrzebujesz? Poznaj ofertę dla Ciebie.
+31) G. (…) (15.10.2013)
+Temat: Nie prześpij okazji! TABLET za 0 zł do konta czeka na Ciebie.
+32) G. (…) (6.11.2013)
+Temat: Rozdajemy tablety do konta! SPRAWDŹ
+33) G. Bank (…) (6.11.2013)
+Temat: Ile pieniędzy potrzebujesz? Poznaj ofertę dla Ciebie.
+34) G. (…) (13.11.2013)
+Temat: Lokata z oprocentowaniem nawet 4, 25%! Otwórz on-line
+35) G. (…) (20.11.2013)
+Temat: Nie masz tabletu? Nic prostszego! Otwórz konto. Odbierz nagrodę…
+36) G. Bank (…) (21.11.2013)
+Temat: Gotówka od ręki? To możliwe! Sprawdź jak…
+37) G. (…) (26.11.2013)
+Temat: Rozdajemy tablety do konta! SPRAWDŹ
+38) G. (…) (3.12.2013)
+Temat: Rozdajemy tablety do konta! SPRAWDŹ
+Analiza materiału dowodowego wykazała, że według danych zawartych na ww. wydru‐
+kach, wiadomości nadawane były z następujących adresów email: (…); (…); (…); (…);
+(…); (…); (…); (…); (…).
+Ponadto, część załączonych wydruków wiadomości, obok pola z adresem email ww.
+nadawców, zawierała nazwy zgodne częściowo z nazwą Banku, w postaci: (…) lub (…).
+Wskazane wydruki wiadomości email z konta pocztowego Skarżącego, ukazują także ba‐
+nery reklamowe, zintegrowane z aplikacją pocztową, po lewej i prawej stronie okna tej
+aplikacji, stanowiące odrębną treść niż zawartość wiadomości z reklamą G. Bank S.A.,
+która była przedmiotem skargi.
+Jak wiadomo, elementem wiadomości email jest nazwa wyświetlana obok adresu email.
+Adres email jest elementem stałym, identyfikującym nadawcę wiadomości, natomiast
+nazwa wyświetlana obok tego adresu może być modyfikowana przez nadawcę. Zatem,
+każdy nadawca wiadomości, skierowanej do Skarżącego ze swojego adresu email np.
+(…) mógł wysłać korespondencję wpisując np. (…), jako nazwę wyświetlaną obok tego
+adresu, a następnie użyć tego samego adresu email do innego rodzaju korespondencji,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 11 z 19
+
+modyfikując nazwę wyświetlaną G. na dowolną inną nazwę bądź pozostawić to pole pu‐
+ste. Edycja nazwy wyświetlanej obok adresu email jest powszechnie dostępną
+funkcjonalnością kont pocztowych.
+W tym miejscu warto także podkreślić, że sam Skarżący przyznaje, że adresy mailowe
+takie jak: (…), (…), (…), (…), (…), „to chyba rzeczywiście wynajęci usługodawcy”, ale po‐
+zostałe, to według Skarżącego adresy wykorzystywane bezpośrednio przez Bank. Skarżą‐
+cy w tym miejscu wymienia te meile, w których w stopce zamieszczone są publiczne
+informacje o Banku z KRS: (…), to jest (cyt.) „adres/nadawca: G. Bank - stopka maila: G.
+Bank SA z siedzibą w W., ul. (…), W., wpisana do rejestru przedsiębiorców prowadzonego
+przez Sąd Rejonowy dla m. st. Warszawy, XIII Wydział Gospodarczy Krajowego Rejestru
+Sądowego pod numerem KRS (…), NIP (…), REGON (…), której kapitał zakładowy wynosi
+(…) (w pełni wpłacony)”.
+Jak wyżej wskazano, Bank przekazuje agencji reklamowej jedynie wkład marketingowy
+natomiast korespondencja rozsyłana jest przez współpracujące z tą agencją podmioty,
+które posiadają własne bazy danych odbiorców. W tym przypadku informacje o Banku z
+publicznego rejestru KRS stanowią wkład marketingowy wklejany do stopki maila przez
+podmiot, który reklamuje produkty Banku poprzez ich wysyłkę pocztą elektroniczną do
+swoich klientów.
+Decyzja z dnia 22 kwietnia 2021 r. (znak: DKE.523.19.2021) zawiera szczegółowe wyja‐
+śnienie zależności istniejących między reklamami, które dotarły na adres email Skarżą‐
+cego (…) a regułami korzystania z usług bezpłatnej poczty elektronicznej W., w ramach,
+której ww. adres funkcjonował.
+Zatem, ocena ww. materiału dowodowego zgromadzonego w niniejszej sprawie dała
+podstawę do stwierdzenia, że dowody te świadczą o tym, że żaden z adresów email, z
+których skarżący otrzymywał oferty reklamowe Banku, nie należał do używanej przez
+ten Bank domeny (…) bądź (…).
+1. Dane osobowe Skarżącego wynikające z umowy rachunku bankowego oraz umów
+lokat bankowych, zawartych w dniu 25 maja 2011 r. w chwili wydania decyzji z 22
+kwietnia 2021 r. znak: DKE.523.19.2021), Bank przetwarzał wyłącznie w celach do‐
+wodowych, wynikających z okresu przedawnienia roszczeń. Tym samym podstawę
+przetwarzania danych osobowych Skarżącego przez Bank stanowi art. 6 ust. 1 lit f)
+rozporządzenia 2016/679 w związku z art. 118 ustawy Kodeks cywilny. Natomiast,
+danych osobowych dotyczących numeru telefonu Skarżącego (…) oraz adresu pocz‐
+ty elektronicznej (…) Bank nie pozyskał zarówno od samego Skarżącego, jak i z in‐
+nych źródeł. Zatem, nie będąc w posiadaniu tych danych nie mógł się nimi posługi‐
+wać.
+Po zapoznaniu się z całością materiału dowodowego zgromadzonego w niniejszej spra‐
+wie Prezes Urzędu Ochrony Danych Osobowych, zwany dalej również Prezesem Urzędu,
+zważył, co następuje.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 12 z 19
+
+Z dniem 25 maja 2018 r. w krajach członkowskich Unii Europejskiej zaczęły być stosowa‐
+ne w przedmiocie ochrony danych osobowych przepisy rozporządzenia Parlamentu Euro‐
+pejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycz‐
+nych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepły‐
+wu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie
+danych) (Dz. Urz. UE L 119 z dnia 04.05.2016, str. 1, ze zmianą ogłoszoną w Dz. Urz. UE
+L 127 z dnia 23.05.2018, str. 2), zwane dalej „rozporządzeniem 2016/679”. Również z
+dniem 25 maja 2018 r. weszła w życie na terytorium Rzeczpospolitej Polskiej ustawa z
+dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781), zwana
+dalej „ustawa o ochronie danych osobowych z 2018 r.”.
+W myśl art. 160 ust. 1 i 2 ustawy o ochronie danych osobowych z 2018 r., postępowania
+prowadzone przez Generalnego Inspektora Ochrony Danych Osobowych, wszczęte i nie‐
+zakończone przed dniem wejścia w życie tej ustawy, prowadzone są przez Prezesa Urzę‐
+du Ochrony Danych Osobowych na podstawie ustawy o ochronie danych osobowych z
+1997 r., zgodnie z zasadami określonymi w ustawie z dnia 14 czerwca 1960 r. Kodeks
+postępowania administracyjnego (Dz. U. z 2021 r. poz. 735), zwanej także k.p.a. Jedno‐
+cześnie, zgodnie z art. 160 ust. 3 ustawy o ochronie danych osobowych z 2018 r., czyn‐
+ności dokonane w postępowaniach, wszczętych i niezakończonych przed dniem wejścia
+w życie jej przepisów, pozostają skuteczne.
+Uwzględniając powyższe regulacje prawne stwierdzić, zatem należy, iż niniejsze postę‐
+powanie, wszczęte i niezakończone przed 25 maja 2018 r., prowadzone jest – w zakresie
+obejmującym przepisy regulujące procedurę postępowania – w oparciu o przepisy usta‐
+wy o ochronie danych osobowych z 1997 r. oraz k.p.a. Natomiast materialnoprawna oce‐
+na legalności i zgodności z prawem procesu przetwarzania danych osobowych powinna
+nastąpić w oparciu o przepisy rozporządzenia 2016/679. Powyższe stwierdzenie zgodne
+jest z ugruntowanym stanowiskiem doktryny, zgodnie z którym „organ administracji pu‐
+blicznej ocenia stan faktyczny sprawy według chwili wydania decyzji administracyjnej.
+Reguła ta odnosi się także do oceny stanu prawnego sprawy, co oznacza, że organ admi‐
+nistracji publicznej wydaje decyzję administracyjną na podstawie przepisów prawa
+obowiązujących w chwili jej wydania” (Komentarz do ustawy z dnia 14 czerwca 1960 r.
+Kodeks postępowania administracyjnego (Dz. U. 00.98.1071) M. Jaśkowska, A. Wróbel,
+Lex., el/2012). Jak stwierdził zaś Naczelny Sąd Administracyjny w wyroku z dnia 7 maja
+2008 r. w sprawie o sygn. akt I OSK 761/07 cyt.: „badając (…) legalność przetwarzania
+danych osobowych, GIODO ma obowiązek ustalenia, czy na datę wydawania rozstrzy‐
+gnięcia w sprawie dane konkretnego podmiotu są przetwarzane oraz czy czynione to jest
+w sposób zgodny z prawem”.
+Stosownie do art. 57 ust. 1 rozporządzenia 2016/679, bez uszczerbku dla innych zadań
+określonych na mocy niniejszego rozporządzenia każdy organ nadzorczy na swoim tery‐
+torium monitoruje i egzekwuje stosowanie niniejszego rozporządzenia (lit. a) oraz rozpa‐
+truje skargi wniesione przez osobę, której dane dotyczą, lub przez podmiot, organizację
+lub zrzeszenie zgodnie z art. 80, w odpowiednim zakresie prowadzi postępowania w
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 13 z 19
+
+przedmiocie tych skarg i w rozsądnym terminie informuje skarżącego o postępach i wy‐
+nikach tych postępowań, w szczególności jeżeli niezbędne jest dalsze prowadzenie
+postępowań lub koordynacja działań z innym organem nadzorczym (lit. f).
+Rozporządzenie 2016/679 stanowi przepisy o ochronie osób fizycznych w związku z prze‐
+twarzaniem danych osobowych oraz przepisy o swobodnym przepływie danych osobo‐
+wych oraz chroni podstawowe prawa i wolności osób fizycznych, w szczególności ich pra‐
+wo do ochrony danych osobowych (art. 1 ust. 1 i 2 rozporządzenia 2016/679). Odpowied‐
+nio regulował tę kwestię art. 2 ust. 1 ustawy o ochronie danych osobowych z 1997 r. W
+świetle przepisów powołanego aktu prawnego, przetwarzanie danych osobowych jest
+uprawnione, gdy spełniona zostanie którakolwiek z przesłanek wymienionych w art. 6
+ust. 1 rozporządzenia 2016/679 (uprzednio art. 23 ust. 1 ustawy o ochronie danych oso‐
+bowych z 1997 r.). Przesłanki te odnoszą się do wszelkich form przetwarzania danych
+wymienionych w art. 4 pkt 2 rozporządzenia 2016/679 (uprzednio art. 7 pkt 2 ustawy o
+ochronie danych osobowych z 1997 r.). Warunki te są także względem siebie równopraw‐
+ne, co oznacza, że dla legalności procesu przetwarzania danych wystarczające jest
+spełnienie jednej z nich.
+Zgodnie z brzmieniem przepisu art. 23 ust. 1 ustawy o ochronie danych osobowych z
+1997 r., obowiązującej w okresie, którego dotyczyła skarga, przetwarzanie danych oso‐
+bowych było dopuszczalne, gdy: osoba, której dane dotyczą, wyraziła na to zgodę, chy‐
+ba, że chodziło o usunięcie dotyczących jej danych (pkt 1), było to niezbędne dla zreali‐
+zowania uprawnienia lub spełnienia obowiązku wynikającego z przepisu prawa (pkt 2),
+było to konieczne do realizacji umowy, gdy osoba, której dane dotyczą, była jej stroną
+lub gdy było to niezbędne do podjęcia działań przed zawarciem umowy na żądanie oso‐
+by, której dane dotyczą (pkt 3), było to niezbędne do wykonania określonych prawem
+zadań realizowanych dla dobra publicznego (pkt 4) lub było to niezbędne dla wypełnie‐
+nia prawnie usprawiedliwionych celów realizowanych przez administratorów danych albo
+odbiorców danych, a przetwarzanie nie naruszało praw i wolności osoby, której dane do‐
+tyczą (pkt 5). Przepis art. 23 ust. 4 ustawy o ochronie danych osobowych z 1997 r.
+stanowił zaś, że za „prawnie usprawiedliwiony cel”, o którym mowa w art. 23 ust. 1 pkt
+5, uważa się w szczególności marketing bezpośredni własnych produktów lub usług
+administratora danych.
+Zgodnie z obecnie obowiązującym stanem prawnym (tj. od dnia 25 maja 2018 r., w któ‐
+rym rozpoczęto stosowanie przepisów rozporządzenia 2016/679) przetwarzanie danych
+osobowych jest zgodne z prawem, gdy administrator danych legitymuje się, co najmniej
+jedną z określonych w art. 6 ust. 1 rozporządzenia 2016/679, materialnych przesłanek
+przetwarzania danych osobowych. Według wyżej wskazanego przepisu, przetwarzanie
+danych osobowych jest zgodne z prawem wyłącznie, gdy zostanie spełniony jeden z
+wymienionych warunków:
+a) osoba, której dane dotyczą wyraziła zgodę na przetwarzanie swoich danych
+osobowych w jednym lub większej liczbie określonych celów;
+b)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+c)
+d)
+e)
+
+f)
+
+Strona 14 z 19
+
+przetwarzanie jest niezbędne do wykonywania umowy, której stroną jest osoba, któ‐
+rej dane dotyczą, lub do podjęcia działań na żądanie osoby, której dane dotyczą,
+przed zawarciem umowy;
+przetwarzanie jest niezbędne do wypełnienia obowiązku prawnego ciążącego na ad‐
+ministratorze;
+przetwarzanie jest niezbędne do ochrony żywotnych interesów osoby, której dane
+dotyczą, lub innej osoby fizycznej;
+przetwarzanie jest niezbędne do wykonania zadania realizowanego w interesie pu‐
+blicznym lub w ramach sprawowania władzy publicznej powierzonej administratoro‐
+wi
+przetwarzanie jest niezbędne do celów wynikających z prawnie uzasadnionych inte‐
+resów realizowanych przez administratora lub przez stronę trzecią, z wyjątkiem sy‐
+tuacji, w których nadrzędny charakter wobec tych interesów mają interesy lub pod‐
+stawowe prawa i wolności osoby, której dane dotyczą, wymagające ochrony danych
+osobowych, w szczególności, gdy osoba, której dane dotyczą, jest dzieckiem.
+
+Art. 32 ust. 1 pkt 8 ustawy o ochronie danych osobowych z 1997 r. przyznawał osobie,
+której dane dotyczą, uprawnienie do wniesienia sprzeciwu wobec przetwarzania jej da‐
+nych osobowych w przypadkach wymienionych w art. 23 ust. 1 pkt 4 i 5. Oznacza to, że
+osoba, której dane dotyczą, mogła wnieść do administratora danych sprzeciw wobec
+przetwarzania jej danych osobowych w celu marketingowym. Jednocześnie z dyspozycji
+art. 32 ust. 3 ustawy o ochronie danych osobowych z 1997 r. wynikało, że po odnotowa‐
+niu takiego sprzeciwu dalsze przetwarzanie kwestionowanych danych było niedopusz‐
+czalne.
+Z kolei przepisy art. 6 ust. 1-3 rozporządzenia 2016/679, analogicznie do uprzednio obo‐
+wiązującej regulacji art. 32 ust. 1 pkt 8 i art. 32 ust. 3 ustawy o ochronie danych osobo‐
+wych z 1997 r., przewidują prawo wniesienia przez osobę, której dane dotyczą, sprzeci‐
+wu wobec przetwarzania jej danych osobowych na potrzeby marketingu bezpośredniego
+administratora, skutkującego niedopuszczalnością dalszego przetwarzania w tym celu.
+W świetle motywu 47 rozporządzenia 2016/679 za działanie wykonywane w prawnie uza‐
+sadnionym interesie, o którym mowa w jego art. 6 ust. 1 lit. f), należy uznać między
+innymi przetwarzanie danych osobowych do celów marketingu bezpośredniego.
+W stanie faktycznym niniejszej sprawy ustalono, że Bank wprawdzie nie odnotował wnio‐
+sku Skarżącego z 28 listopada 2011 r. o zaprzestanie przetwarzania danych osobowych,
+jednakże skargę Skarżącego skierowaną przez Skarżącego do organu ochrony danych
+osobowych Bank potraktował, jako sprzeciw, co do przetwarzania jego danych osobo‐
+wych i odnotował ten sprzeciw w systemie informatycznym Banku. Natomiast odrębną
+kwestią było zbadanie ewentualnego pozyskania przez Bank danych osobowych Skarżą‐
+cego o numerze telefonu (…) i adresie poczty elektronicznej (…), w celu ich ewentualne‐
+go wykorzystania do celów marketingowych. Ustalenia w tym zakresie wykazały, że ani
+Skarżący nie przekazał Bankowi ww. danych ani Bank nie pozyskał tych danych z innych
+źródeł. Organ ochrony danych osobowych dokonał tych ustaleń w oparciu o kilkukrotne,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 15 z 19
+
+konsekwentne wyjaśnienia Banku złożone w postępowaniu (pismami z: 8 lipca 2013 r., 1
+lipca 2014 r., z 19 listopada 2019 r.). Wyjaśnienia Banku w tym zakresie (nieprzetwarza‐
+nia danych osobowych Skarżącego w celach marketingowych) Prezes Urzędu Ochrony
+Danych Osobowych uznał za wiarygodne, w szczególności w świetle faktu, że Skarżący
+ani w trakcie postępowania zakończonego wydaniem zaskarżonej decyzji, ani we wnio‐
+sku o ponowne rozpatrzenie sprawy, ani także w toku niniejszego postępowania, nie
+wskazał na jakiekolwiek, mające miejsce po roku 2013 połączenia telefoniczne do niego
+kierowane, jak również na jego adres poczty elektronicznej: (…) stanowiące przedmiot
+skargi, przesłanki wskazujące na przetwarzanie jego danych osobowych przez Bank w
+celu marketingowym. W szczególności Skarżący nie podniósł, że ze strony Banku miały
+miejsce kolejne połączenia telefoniczne na jego numer telefonu bądź oferty kierowane
+na jego adres poczty elektronicznej.
+Natomiast, zgodnie z art. 17 ust. 3) rozporządzenia 2016/679, osoba, której dane doty‐
+czą, ma prawo żądania od administratora niezwłocznego usunięcia dotyczących jej da‐
+nych osobowych, a administrator ma obowiązek bez zbędnej zwłoki usunąć dane
+osobowe, chyba, że przetwarzanie tych danych jest niezbędne:
+a) do korzystania z prawa do wolności wypowiedzi i informacji;
+b) do wywiązania się z prawnego obowiązku wymagającego przetwarzania na mocy
+prawa Unii lub prawa państwa członkowskiego, któremu podlega administrator, lub
+do wykonania zadania realizowanego w interesie publicznym lub w ramach
+sprawowania władzy publicznej powierzonej administratorowi;
+c) z uwagi na względy interesu publicznego w dziedzinie zdrowia publicznego zgodnie
+z art. 9 ust. 2 lit. h) oraz i) i art. 9 ust. 3;
+d) do celów archiwalnych w interesie publicznym, do celów badań naukowych lub hi‐
+storycznych lub do celów statystycznych zgodnie z art. 89 ust. 1, o ile prawdopo‐
+dobne jest, że prawo, o którym mowa w ust. 1, uniemożliwi lub poważnie utrudni
+realizację celów takiego przetwarzania; lub
+e) do ustalenia, dochodzenia lub obrony roszczeń.
+Zaś zgodnie z art. 21 ust. 1 rozporządzenia 2016/679 osoba, której dane dotyczą, ma
+prawo w dowolnym momencie wnieść sprzeciw - z przyczyn związanych z jej szczególną
+sytuacją - wobec przetwarzania dotyczących jej danych osobowych opartego na art. 6
+ust. 1 lit. e) lub f), w tym profilowania na podstawie tych przepisów. Administratorowi nie
+wolno już przetwarzać tych danych osobowych, chyba że wykaże on istnienie ważnych
+prawnie uzasadnionych podstaw do przetwarzania, nadrzędnych wobec interesów, praw
+i wolności osoby, której dane dotyczą, lub podstaw do ustalenia, dochodzenia lub obrony
+roszczeń.
+Zgodnie z art. 118 ustawy Kodeks cywilny, jeżeli przepis szczególny nie stanowi inaczej,
+termin przedawnienia wynosi sześć lat, a dla roszczeń o świadczenia okresowe oraz rosz‐
+czeń związanych z prowadzeniem działalności gospodarczej - trzy lata. Jednakże koniec
+terminu przedawnienia przypada na ostatni dzień roku kalendarzowego, chyba że termin
+przedawnienia jest krótszy niż dwa lata. Zaś zgodnie z art. 5 ust. 3 ustawy z dnia 13
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 16 z 19
+
+kwietnia 2018 r. o zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw (Dz. U.
+poz. 1104), do przysługujących konsumentowi roszczeń powstałych przed dniem wejścia
+w życie niniejszej ustawy i w tym dniu jeszcze nieprzedawnionych, których terminy
+przedawnienia są określone w art. 118 zmienianej ustawy, stosuje się przepisy tej usta‐
+wy w brzmieniu sprzed nowelizacji, tj. ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny
+(Dz. U. z 2018 r. poz. 1025), stanowiącej, że jeżeli przepis szczególny nie stanowi ina‐
+czej, termin przedawnienia wynosi lat dziesięć, a dla roszczeń o świadczenia okresowe
+oraz roszczeń związanych z prowadzeniem działalności gospodarczej - trzy lata.
+Zgodnie z art. 74 ust. 2 pkt 8 ustawy o rachunkowości, pozostałe dowody księgowe i
+sprawozdania, których obowiązek sporządzenia wynika z ustawy – 5 lat. Zgodnie z ust. 3
+powołanego przepisu okresy przechowywania ustalone w ust. 2 oblicza się od początku
+roku następującego po roku obrotowym, którego dane zbiory dotyczą.
+
+Ocena prawna
+Odnosząc przytoczone wyżej przepisy do ustalonego w niniejszej sprawie stanu faktycz‐
+nego należy stwierdzić, że przetwarzanie przez Bank danych osobowych Skarżącego,
+znajdowało uzasadnienie zarówno w przepisach ustawy o ochronie danych osobowych z
+1997 r., jak i w obecnie obowiązującym rozporządzeniu 2016/679. Bank pozyskał dane
+osobowe Skarżącego bezpośrednio od Skarżącego i przetwarzał je na podstawie art. 23
+ust. 1 pkt 3 ustawy o ochronie danych osobowych z 1997 r. w celu realizacji umowy ra‐
+chunku bankowego oraz umów lokat bankowych, zawartych 25 maja 2011 r. Natomiast,
+po zakończeniu ww. umów, podstawę prawną dalszego przetwarzania przez Bank da‐
+nych osobowych Skarżącego stanowił art. 23 ust. 1 pkt 2 ustawy o ochronie danych oso‐
+bowych z 1997 r. zgodnie, z którym, przetwarzanie danych jest dopuszczalne tylko wte‐
+dy, gdy jest to niezbędne dla zrealizowania uprawnienia lub spełnienia obowiązku wyni‐
+kającego z przepisu prawa. Obowiązek przetwarzania przez Bank danych osobowych
+Skarżącego wynikał m.in. z przepisów ustawy z 14 lipca 1983 r. o narodowym zasobie
+archiwalnym oraz archiwach (Dz. U. z 2002 r. Nr 171, poz. 1396 z późn. zm.), art. 74
+ustawy z 29 września 1004 r. o rachunkowości (Dz. U. z 2002 r. Nr 76 poz. 694 z późn.
+zm.), rozporządzenia Ministra Finansów z 10 grudnia 2001 r. w sprawie szczególnych
+zasad rachunkowości banków (Dz. U. Nr 149, poz. 1673 z późn. zm.).
+Odnosząc się natomiast do stanu istniejącego w chwili obecnej, należy wyjaśnić, iż wo‐
+bec przetwarzania danych osobowych Skarżącego wynikających z umów lokat banko‐
+wych, zawartych 25 maja 2011 r., Bank przetwarza dane osobowe Skarżącego w celu
+obrony przed roszczeniami, które są lub mogą być w przyszłości kierowane przez niego
+wobec Banku. Jest to prawnie uzasadniony interes administratora w rozumieniu przyto‐
+czonych wcześniej art. 6 ust 1 lit f), art. 17 ust. 3, oraz art. 21 ust 1 rozporządzenia
+2016/679. Obrona przed roszczeniami i przetwarzanie w tym celu adekwatnych danych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 17 z 19
+
+osobowych nie stanowi nieproporcjonalnego ograniczenia praw i wolności osoby, której
+dane dotyczą. Bank może w tym celu przetwarzać dane osobowe zgodnie z prawem,
+przez okres wynikający z terminów przedawnienia wynikających z art. 118 ustawy Ko‐
+deks cywilny, z uwzględnieniem zmian intertemporalnych, wynikających z ustawy o
+zmianie ustawy - Kodeks cywilny oraz niektórych innych ustaw. Wobec stwierdzenia ist‐
+nienia przesłanki legalizującej przetwarzanie danych osobowych Skarżącego, zarzuty
+podnoszone przez Skarżącego w skardze należy, zatem uznać za bezzasadne.
+W tym miejscu przytoczyć należy także stanowisko Naczelnego Sądu Administracyjnego,
+który w wyroku z dnia 6 czerwca 2005 r. (sygn. akt I OPS 2/05) uznał, że prawnie uspra‐
+wiedliwiony cel administratora danych, o którym mowa w art. 23 ust. 1 pkt 5 ustawy,
+może być oparty na przepisach prawa cywilnego. Jak słusznie wskazał NSA, za taki praw‐
+nie usprawiedliwiony cel już sama ustawa o ochronie danych osobowych z 1997 r. uznaje
+dochodzenie roszczeń z tytułu prowadzonej działalności gospodarczej.
+Wskazać należy, iż aktualnie – to jest zarówno w stanie faktycznym przed wydaniem de‐
+cyzji z dnia 22 kwietnia 2021 r. (znak: DKE.523.19.2021), jak i w stanie faktycznym ist‐
+niejącym w chwili wydania niniejszej decyzji – Bank przetwarza dane osobowe Skarżące‐
+go na podstawie art. 6 ust. 1 lit. f) rozporządzenia 2016/679, poprzez przechowywanie
+ww. danych wyłącznie do celów wynikających z prawnie uzasadnionych interesów reali‐
+zowanych przez Bank, zwłaszcza w celu dochodzenia roszczeń związanych z zawartą
+umową oraz w celu obrony przed roszczeniami kierowanymi wobec Banku. Bank może
+przetwarzać dane osobowe przez okres wynikający z terminów wskazanych w art. 118
+ustawy Kodeks cywilny. Planowany termin usunięcia przez Bank danych osobowych
+Skarżącego przypada na dzień 1 lipca 2024 r.
+Odnosząc się do zarzutu nieuwzględnienia wniosków dowodowych Skarżącego (np. zażą‐
+danie od Banku dowodu dotyczącego powiązań organizacyjnych i kapitałowych z pod‐
+miotami, z którymi Bank współpracuje w ramach akcji marketingowych), należy uznać
+niecelowość przeprowadzenia tych dowodów na okoliczność aktualnego przetwarzania
+przez Bank danych osobowych Skarżącego. Oczywistym jest, że dane osobowe Skarżą‐
+cego przetwarzane w celu marketingowym, o ile znajdowały się zdaniem Skarżącego w
+systemie informatycznym Banku, w każdej chwili mogły zostać z niego usunięte; oświad‐
+czenie Banku o nieprzetwarzaniu danych Skarżącego, złożone Prezesowi Urzędu Ochrony
+Danych Osobowych, potwierdziłoby w takiej sytuacji jedynie okoliczność już ustaloną (na
+podstawie pisemnych wyjaśnień Banku). Wobec takiego oświadczenia dalsze prowadze‐
+nie postępowania dowodowego, nakierowanego na ocenę stanu faktycznego mającego
+miejsce w przeszłości (badanie, czy w systemie informatycznym Banku w przeszłości
+dane osobowe Skarżącego były przetwarzane w celu marketingowym, przesłuchanie
+osób reprezentujących Bank celem ustalenia okoliczności zdarzenia, które miało miejsce
+w przeszłości), byłoby już niezasadne. Ograniczenie uprawnienia strony postępowania
+administracyjnego do składania wniosków dowodowych względami celowości potwier‐
+dzone jest w orzecznictwie sądów administracyjnych, np. w przytoczonym w uzasadnie‐
+niu zaskarżonej decyzji wyroku NSA z 1 lipca 2016 r., sygn. akt II GSK 470/15.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 18 z 19
+
+Natomiast, w odniesieniu do żądania Skarżącego dotyczącego przeprowadzenia przez
+Prezesa Urzędu Ochrony Danych Osobowych w Banku kontroli zgodności przetwarzania
+jego danych osobowych z przepisami o ochronie danych osobowych i to kontroli zarówno
+klientów, jak i pracowników banku, wskazać należy, że czynności w sprawie ogólnych
+praktyk stosowanych przez administratorów danych nie są podejmowane na wniosek
+osoby zainteresowanej. Kontrola zgodności przetwarzania danych z przepisami ustawy o
+ochronie danych osobowych (obecnie zgodności z przepisami rozporządzenia 2016/679)
+należy, bowiem do autonomicznych kompetencji Prezesa Urzędu Ochrony Danych Oso‐
+bowych, w związku, z czym nie jest realizowana na wniosek osoby zainteresowanej. W
+niniejszej sprawie organ nie dopatrzył się naruszenia, które stałoby się powodem wsz‐
+częcia postępowania z urzędu. Jednocześnie informuję, że jeżeli w ocenie Skarżącego do‐
+szło do popełnienia czynu zabronionego na jego szkodę, Skarżący może zwrócić się bez‐
+pośrednio do organów ścigania ze stosownym zawiadomieniem o możliwości popełnienia
+przestępstwa i dochodzić ochrony swoich praw w drodze postępowania przed organami
+ścigania a następnie przed sądem powszechnym.
+Odnosząc się do zarzutu Skarżącego dotyczącego nie zbadania przez organ ochrony
+danych osobowych sposobu sprawowania przez Ban nadzoru nad „danymi, które są
+przetwarzane u innych, współpracujących z nim osób, instytucji, firm itp.” wskazać nale‐
+ży, że nie mamy tutaj do czynienia z powierzeniem przetwarzania danych osobowych, o
+którym mowa w art. 28 rozporządzenia 2016/679. Jak wyżej wykazano, czynności na da‐
+nych osobowych wykonywane przez administratorów związane z wysyłaniem do Skarżą‐
+cego ofert marketingowych nie były czynione w imieniu i na rzecz Banku.
+Za bezzasadne uznać należy również zarzuty Skarżącego kwestionujące prawidłowość
+przeprowadzonego postępowania administracyjnego, poprzez niewskazanie w wydanym
+rozstrzygnięciu faktów i wszystkich dowodów, na których je oparto oraz przyczyn, dla
+których innym dowodom odmówiono wiarygodności i mocy dowodowej. Podniesiono, że
+niniejsze postępowanie przeprowadzone zostało zgodnie z zasadami określonymi w prze‐
+pisach ustawy Kodeks postępowania administracyjnego, w tym również zgodnie z zasadą
+z art. 7 k.p.a. Przedmiot postępowania został rzetelnie oceniony przez Prezesa Urzędu
+Ochrony Danych Osobowych przez pryzmat przepisów o ochronie danych osobowych, po
+dokonaniu kompleksowej analizy całości zebranego w postępowaniu materiału dowodo‐
+wego i z uwzględnieniem zakresu prowadzonego postępowania administracyjnego.
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych, organ ochrony danych osobo‐
+wych po dokonaniu ponownej analizy materiału zgromadzonego w sprawie wyjaśnił oko‐
+liczności faktyczne w takim stopniu, w jakim wymagało tego rozstrzygnięcie sprawy. W
+konsekwencji prawidłowego ustalenia stanu faktycznego sprawy, wydał prawidłowe roz‐
+strzygnięcie, zawarte w skarżonej decyzji z dnia 22 kwietnia 2021 r. o sygn. DKE.
+523.19.2021) i podtrzymuje je w całości.
+Tym samym w sprawie brak było podstaw do zastosowania przez organ art. 18 ust. 1
+ustawy o ochronie danych osobowych z 2018 r. ze względu na brak dowodów potwier‐
+dzających, że doszło do naruszenia przepisów tej ustawy.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.19.2021
+
+Strona 19 z 19
+
+Dlatego też zaskarżona ww. decyzja z dnia 22 kwietnia 2021 r. zostaje utrzymana w
+mocy, jako odpowiadająca prawu.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_19/content
+
+2025-09-03 13:42
+

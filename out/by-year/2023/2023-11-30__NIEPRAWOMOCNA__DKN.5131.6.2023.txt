@@ -1,0 +1,1139 @@
+Warszawa, 30 listopada 2023
+NIEPRAWOMOCNA
+
+Decyzja
+DKN.5131.6.2023
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2023 r., poz. 775, ze zm.), art. 7 ust. 1 oraz art. 60, art. 101 i
+art. 103 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r.,
+poz. 1781), a także art. 57 ust. 1 lit. a) i h), art. 58 ust. 2 lit. e) oraz i), art. 83 ust. 1 i ust.
+2, art. 83 ust. 4 lit. a) w związku z art. 33 ust. 1 oraz art. 34 ust. 1, 2 i 4 rozporządzenia
+Parlamentu Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie
+ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne
+rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, Dz. Urz. UE L
+127 z 23.05.2018, str.2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35), zwanego dalej „rozpo‐
+rządzeniem 2016/679”,
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w sprawie
+naruszenia przepisów o ochronie danych osobowych przez V. S.A. z siedzibą w P. ul. (…)
+Prezes Urzędu Ochrony Danych Osobowych,
+1) stwierdzając naruszenie przez V. S.A. z siedzibą w P. ul. (…) przepisów:
+a) art. 33 ust. 1 rozporządzenia 2016/679, polegające na niezgłoszeniu Prezesowi
+Urzędu Ochrony Danych Osobowych naruszenia ochrony danych osobowych bez
+zbędnej zwłoki, nie później niż w terminie 72 godzin po stwierdzeniu naruszenia,
+b) art. 34 ust. 1 rozporządzenia 2016/679, polegające na niezawiadomieniu o na‐
+ruszeniu ochrony danych osobowych, bez zbędnej zwłoki osoby, której dane do‐
+tyczą,
+nakłada na V. S.A. z siedzibą w P. ul. (…) administracyjną karę pieniężną w wy‐
+sokości 282.960,- PLN (słownie: dwieście osiemdziesiąt dwa tysiące dziewięćset
+sześćdziesiąt złotych),
+2)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 2 z 23
+
+nakazuje V. S.A. z siedzibą w P. ul. (…) zawiadomienie - w terminie 3 dni od dnia do‐
+ręczenia niniejszej decyzji - osoby, której dane zostały ujawnione w związku z prze‐
+słaniem umowy nr (…) niewłaściwemu odbiorcy, o naruszeniu ochrony danych oso‐
+bowych w celu przekazania jej informacji wymaganych zgodnie z art. 34 ust. 2
+rozporządzenia 2016/679, tj.:
+a) opisu charakteru naruszenia ochrony danych osobowych;
+b) imienia i nazwiska oraz danych kontaktowych inspektora ochrony danych lub
+oznaczenia innego punktu kontaktowego, od którego można uzyskać więcej in‐
+formacji;
+c) opisu możliwych konsekwencji naruszenia ochrony danych osobowych;
+d) opisu środków zastosowanych lub proponowanych przez administratora w celu
+zaradzenia naruszeniu - w tym środków w celu zminimalizowania jego
+ewentualnych negatywnych skutków.
+
+Uzasadnienie
+Do Prezesa Urzędu Ochrony Danych Osobowych, zwanego dalej również „Prezesem
+UODO” lub „organem nadzorczym”, w dniu (…) stycznia 2023 r. wpłynęło pismo z Sądu
+Okręgowego w P. zawierające informację o toczącej się w nim sprawie z powództwa oso‐
+by fizycznej (dalej Podmiot Danych lub Klientka Spółki) przeciwko V. S.A. z siedzibą w P.,
+zwanej dalej również „Spółką” lub „Administratorem”, o roszczenie z tytułu naruszenia
+przepisów o ochronie danych osobowych. Z ww. pisma wynika, że naruszenie polegało
+na wysłaniu korespondencji zawierającej umowę łączącą strony z dnia (…) marca 2020 r.
+na nieprawidłowy adres, co skutkowało ujawnieniem osobie nieuprawnionej, która
+odebrała korespondencję, danych osobowych Klientki Spółki.
+W związku z powyższym, pismem z 31 stycznia 2023 r. Prezes UODO, na podstawie art.
+58 ust. 1 lit. a) i e) rozporządzenia 2016/679, zwrócił się do Spółki o wyjaśnienie, czy w
+związku z wysyłką wyżej opisanej umowy do nieuprawnionego odbiorcy została dokona‐
+na analiza zdarzenia pod kątem ryzyka naruszenia praw i wolności osób fizycznych nie‐
+zbędna do oceny, czy doszło do naruszenia ochrony danych skutkującego koniecznością
+zawiadomienia Prezesa UODO oraz osoby, której dotyczy naruszenie. W piśmie tym za‐
+warto również informację o treści art. 33 ust. 1 i 3 rozporządzenia 2016/679 oraz o moż‐
+liwych sposobach dokonania zgłoszenia naruszenia ochrony danych osobowych. Ponadto
+Spółka została poinformowana o obowiązku zawiadomienia o naruszeniu osoby, której
+dane dotyczą, wynikającym z art. 34 ust. 1 rozporządzenia 2016/679. W odpowiedzi na
+powyższe, Spółka pismem z 21 lutego 2023 r. o sygn. (…) potwierdziła, że naruszenie
+ochrony danych osobowych polegające na skierowaniu przesyłki zawierającej podpisaną
+przez Podmiot Danych umowę nr (…) na adres innego klienta Spółki miało miejsce. Infor‐
+mację o wystąpieniu ww. zdarzenia Spółka powzięła (…) listopada 2020 r., kiedy to zo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 3 z 23
+
+stało jej doręczone pismo pełnomocnika Klientki Spółki. W wyniku powyższego zdarzenia
+doszło do naruszenia poufności danych jednej osoby w zakresie: imienia, nazwiska, nr
+PESEL, danych teleadresowych oraz adresu e-mail. Osobą, która omyłkowo wysłała kore‐
+spondencję zawierającą dane osobowe Klientki Spółki na niewłaściwy adres (jak wynika z
+wyjaśnień Spółki) był pracownik podmiotu przetwarzającego, tj. W. Sp. z o.o., która
+świadczy na rzecz V. S.A. usługę wysyłki umów. Ponadto, Spółka wskazała, że na podsta‐
+wie informacji zebranych w toku czynności wyjaśniających została dokonana ocena pod
+kątem ryzyka naruszenia praw i wolności osób fizycznych. Na jej podstawie Spółka za‐
+kwalifikowała ww. zdarzenie jako cechujące się małym prawdopodobieństwem wystąpie‐
+nia skutków w postaci ryzyka naruszenia praw lub wolności osób fizycznych, w związku z
+czym odstąpiono od zgłoszenia naruszenia ochrony danych osobowych do Prezesa
+UODO. Dodatkowo Spółka zaznaczyła, że podjęła wszelkie możliwe działania w celu wy‐
+kluczenia narażenia Klientki Spółki na jakiekolwiek niebezpieczeństwo, tj. skontaktowała
+się z nieuprawnionym odbiorcą przesyłki i podjęła czynności, które miały zapobiec wyko‐
+rzystaniu lub przekazaniu danych osobowych Klientki Spółki zawartych w umowie. W dal‐
+szej części pisma z 21 lutego 2023 r. Spółka zapewniła, że w procesie wysyłki umów sto‐
+suje szereg rozwiązań technicznych i organizacyjnych, które mają na celu minimalizowa‐
+nie ryzyka pomyłki mogącej skutkować naruszeniem ochrony danych osobowych. Z uwa‐
+gi na fakt, że rozwiązania te obowiązują również w podmiocie przetwarzającym, Spółka
+zleciła przeprowadzenie audytu w zakresie stosowania się do wewnętrznej regulacji
+Grupy V. przez pracowników (…) W., w którym doszło do naruszenia.
+Z powodu braku zgłoszenia naruszenia ochrony danych osobowych organowi nadzorcze‐
+mu oraz braku zawiadomienia o naruszeniu ochrony danych osobowych osoby, której da‐
+nych dotyczyło naruszenie, 9 marca 2023 r. Prezes UODO wszczął z urzędu wobec V. S.A.
+postępowanie administracyjne w tym przedmiocie. W zawiadomieniu o wszczęciu postę‐
+powania dodatkowo zwrócono się do Spółki o przedłożenie analizy ryzyka przeprowadzo‐
+nej dla naruszenia ochrony danych osobowych Podmiotu Danych oraz wskazanie, na ja‐
+kiej podstawie Spółka uznała, że zaistniałe naruszenie nie wymaga zgłoszenia do organu
+nadzorczego ani nie skutkuje koniecznością zawiadomienia osoby, której danych dotyczy
+zdarzenie.
+Z odpowiedzi, której V. S.A. udzieliła pismem z 22 marca 2023 r., wynika, że wysyłka
+umowy zawartej przez Podmiot Danych ze Spółką na adres nieuprawnionej osoby miała
+miejsce (…) lipca 2020 r. Spółka powzięła informację o zdarzeniu (…) listopada 2020 r.,
+kiedy otrzymała pismo pełnomocnika Klientki Spółki, w którym wskazano, że nieupraw‐
+niony odbiorca poinformował Klientkę Spółki o odebraniu przesyłki zawierającej umowę,
+jak również przekazał jej otrzymany egzemplarz umowy. Na podstawie ww. okoliczności
+Spółka oceniła, że jest mało prawdopodobne, aby przesłanie umowy Klientki Spółki na
+adres osoby trzeciej, która sama ujawniła swoją tożsamość oraz dane kontaktowe, „wy‐
+wołało dalsze ryzyko (oprócz samego zapoznania się Odbiorcy z danymi Klientki) naru‐
+szenia praw lub wolności Klientki. Z tych samych względów Spółka uznała, że tym
+bardziej nie zachodzi wysokie ryzyko naruszenia praw i wolności Klientki”. Jednocześnie
+V. S.A. oświadczyła, że dysponuje kopią nagrania rozmowy, w trakcie której nieuprawnio‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 4 z 23
+
+ny odbiorca złożył oświadczenie o zachowaniu w poufności danych, które omyłkowo zo‐
+stały mu udostępnione oraz, że nie przekazał tych danych innym osobom ani nie posiada
+kopii dokumentów zawierających dane osobowe Klientki Spółki.
+Po zapoznaniu się z całością materiału dowodowego zebranego w sprawie Prezes Urzędu
+Ochrony Danych Osobowych zważył, co następuje:
+Zgodnie z definicją zawartą w art. 4 pkt 12 rozporządzenia 2016/679, „naruszenie ochro‐
+ny danych osobowych” jest naruszeniem bezpieczeństwa prowadzącym do przypadko‐
+wego lub niezgodnego z prawem zniszczenia, utracenia, zmodyfikowania, nieuprawnio‐
+nego ujawnienia lub nieuprawnionego dostępu do danych osobowych przesyłanych,
+przechowywanych lub w inny sposób przetwarzanych.
+Art. 33 ust. 1 i 3 rozporządzenia 2016/679 stanowi, że w przypadku naruszenia ochrony
+danych osobowych, administrator bez zbędnej zwłoki - w miarę możliwości, nie później
+niż w terminie 72 godzin po stwierdzeniu naruszenia - zgłasza je organowi nadzorczemu
+właściwemu zgodnie z art. 55, chyba że jest mało prawdopodobne, by naruszenie to
+skutkowało ryzykiem naruszenia praw lub wolności osób fizycznych. Do zgłoszenia prze‐
+kazanego organowi nadzorczemu po upływie 72 godzin dołącza się wyjaśnienie przyczyn
+opóźnienia. Zgłoszenie, o którym mowa w ust. 1, musi co najmniej:
+a) opisywać charakter naruszenia ochrony danych osobowych, w tym w miarę możli‐
+wości wskazywać kategorie i przybliżoną liczbę osób, których dane dotyczą, oraz ka‐
+tegorie i przybliżoną liczbę wpisów danych osobowych, których dotyczy naruszenie;
+b) zawierać imię i nazwisko oraz dane kontaktowe inspektora ochrony danych lub
+oznaczenie innego punktu kontaktowego, od którego można uzyskać więcej infor‐
+macji;
+c) opisywać możliwe konsekwencje naruszenia ochrony danych osobowych;
+d) opisywać środki zastosowane lub proponowane przez administratora w celu zara‐
+dzenia naruszeniu ochrony danych osobowych, w tym w stosownych przypadkach
+środki w celu zminimalizowania jego ewentualnych negatywnych skutków.
+Z kolei na podstawie art. 34 ust. 1 rozporządzenia 2016/679, w sytuacji gdy istnieje moż‐
+liwość wystąpienia wysokiego ryzyka naruszenia praw lub wolności osób fizycznych, ad‐
+ministrator jest zobowiązany bez zbędnej zwłoki zawiadomić o naruszeniu osobę, której
+dane dotyczą. Art. 34 ust. 2 rozporządzenia 2016/679 stanowi, że prawidłowe
+zawiadomienie powinno:
+1) jasnym i prostym językiem opisywać charakter naruszenia ochrony danych osobo‐
+wych;
+2) zawierać przynajmniej informacje i środki, o których mowa w art. 33 ust. 3 lit. b), c) i
+d) rozporządzenia 2016/679, tj.:
+a) imię i nazwisko oraz dane kontaktowe inspektora ochrony danych lub oznacze‐
+nie innego punktu kontaktowego, od którego można uzyskać więcej informacji;
+b) opis możliwych konsekwencji naruszenia ochrony danych osobowych;
+c) opis środków zastosowanych lub proponowanych przez administratora w celu
+zaradzenia naruszeniu ochrony danych osobowych, w tym w stosownych przy‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 5 z 23
+
+padkach środków w celu zminimalizowania jego ewentualnych negatywnych
+skutków.
+Z analizy ww. przepisów wynika zatem, że w zależności od tego, z jakim poziomem ryzy‐
+ka naruszenia praw lub wolności osób fizycznych administrator ma do czynienia, inaczej
+kształtują się jego obowiązki w stosunku do organu nadzorczego, a także osób, których
+dane dotyczą. Jeżeli w wyniku analizy administrator stwierdził, że prawdopodobieństwo
+zaistnienia ryzyka naruszenia praw lub wolności osób fizycznych jest małe, nie jest on
+zobligowany do zgłoszenia naruszenia Prezesowi Urzędu Ochrony Danych Osobowych.
+Wskazane naruszenie musi jedynie wpisać do wewnętrznej ewidencji naruszeń. W przy‐
+padku stwierdzenia ryzyka naruszenia praw lub wolności osób fizycznych, obowiązkiem
+administratora jest zgłoszenie naruszenia ochrony danych Prezesowi UODO, jak również
+umieszczenie wpisu w wewnętrznej ewidencji naruszeń. Wystąpienie wysokiego ryzyka
+naruszenia praw lub wolności osób fizycznych, oprócz wpisu w ewidencji naruszeń, wy‐
+maga od administratora podjęcia odpowiednich działań, zarówno wobec organu nadzor‐
+czego (zgłoszenie naruszenia ochrony danych), ale także również wobec osób, których
+dane dotyczą. W przypadku naruszeń ochrony danych osobowych, które mogą powodo‐
+wać wysokie ryzyko naruszenia praw lub wolności osoby, której dane dotyczą, rozporzą‐
+dzenie 2016/679 wprowadza bowiem dodatkowy obowiązek niezwłocznego zawiadomie‐
+nia podmiotu danych przez administratora, chyba że ten podjął działania prewencyjne
+przed zaistnieniem naruszenia albo działania zaradcze po wystąpieniu naruszenia (art.
+34 ust. 3 rozporządzenia 2016/679).
+Jak wynika z powyższego, w przypadku wykrycia przez administratora naruszenia ochro‐
+ny danych osobowych, w pierwszej kolejności konieczne jest dokonanie analizy pod ką‐
+tem wystąpienia ryzyka naruszenia praw lub wolności osób fizycznych. Administrator
+zwolniony jest z obowiązku powiadamiania organu nadzorczego o naruszeniu, jeśli prze‐
+prowadzone badanie wykaże, że istnieje co najwyżej małe prawdopodobieństwo wystą‐
+pienia ryzyka naruszenia praw lub wolności osób fizycznych. Należy jednak mieć na
+względzie fakt, iż organ nadzorczy będzie mógł zwrócić się do administratora o uzasad‐
+nienie decyzji o niezgłaszaniu naruszenia, w związku z tym wnioski z przeprowadzonej
+analizy należy odnotować w wewnętrznej ewidencji naruszeń. Warto przy tym przypo‐
+mnieć, że w Wytycznych Europejskiej Rady Ochrony Danych (EROD) nr 9/2022[1] przyję‐
+tych 28 marca 2023 r., zwanych dalej Wytycznymi 9/2022, znajdują się rekomendacje
+dotyczące zgłaszania naruszeń ochrony danych osobowych organowi nadzorczemu.
+Należy podkreślić, że oceny ryzyka naruszenia praw lub wolności osoby fizycznej powin‐
+no się dokonać przez pryzmat osoby zagrożonej, a nie interesów administratora. Jest to
+szczególnie ważne, ponieważ w oparciu o zawiadomienie o naruszeniu ochrony danych
+osobowych osoba fizyczna może sama dokonać oceny, czy w jej opinii incydent bezpie‐
+czeństwa może powodować dla niej negatywne konsekwencje i podjąć odpowiednie dzia‐
+łania zaradcze. Również w oparciu o informacje przekazane przez administratora doty‐
+czące opisu charakteru naruszenia i zastosowanych lub proponowanych środkach w celu
+zaradzenia naruszeniu, osoba fizyczna może dokonać oceny, czy po zaistniałym narusze‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 6 z 23
+
+niu administrator danych nadal daje rękojmię należytego przetwarzania jej danych oso‐
+bowych w sposób zapewniający ich bezpieczeństwo. Brak zawiadomienia o naruszeniu
+ochrony danych osobowych osoby fizycznej w przypadku wystąpienia wysokiego ryzyka
+naruszenia jej praw lub wolności pozbawia ją nie tylko możliwości odpowiedniej reakcji
+na naruszenie, ale również możliwości dokonania samodzielnej oceny naruszenia, które
+przecież dotyczy jej danych osobowych i może powodować dla niej poważne konsekwen‐
+cje. Natomiast brak zgłoszenia naruszenia ochrony danych osobowych pozbawia organ
+nadzorczy możliwości odpowiedniej reakcji na naruszenie, która polega nie tylko na oce‐
+nie ryzyka naruszenia dla praw lub wolności osoby fizycznej, ale również w szczególności
+na weryfikacji, czy administrator zastosował właściwe środki w celu zaradzenia narusze‐
+niu i zminimalizowania negatywnych skutków dla osób, których dane dotyczą, jak rów‐
+nież, czy zastosował odpowiednie środki bezpieczeństwa w celu zminimalizowania
+ryzyka ponownego wystąpienia naruszenia.
+Zgłaszanie naruszeń ochrony danych osobowych przez administratorów stanowi zatem
+skuteczne narzędzie przyczyniające się do realnej poprawy bezpieczeństwa przetwarza‐
+nia danych osobowych. Zgłaszając naruszenie organowi nadzorczemu, administratorzy
+informują Prezesa UODO, czy w ich ocenie wystąpiło wysokie ryzyko naruszenia praw lub
+wolności osób, których dane dotyczą oraz - jeśli takie ryzyko wystąpiło - to czy przekazali
+stosowne informacje osobom fizycznym, na które naruszenie wywiera wpływ. W uzasad‐
+nionych przypadkach mogą również przekazać informację, że powiadomienie w ich oce‐
+nie nie jest konieczne ze względu na spełnienie warunków określonych w art. 34 ust. 3
+lit. a) i b) rozporządzenia 2016/679. Prezes UODO dokonuje weryfikacji oceny dokonanej
+przez administratora i może - jeżeli administrator nie zawiadomił osób, których dane do‐
+tyczą - zażądać od niego takiego zawiadomienia. Zgłoszenia naruszenia ochrony danych
+osobowych pozwalają organowi nadzorczemu na właściwą reakcję mogącą ograniczyć
+skutki takich naruszeń, bowiem administrator ma obowiązek podjęcia skutecznych dzia‐
+łań zapewniających ochronę osobom fizycznym i ich danym osobowym, które z jednej
+strony pozwolą na kontrolę skuteczności dotychczasowych rozwiązań, a z drugiej ocenę
+modyfikacji i usprawnień służących zapobieżeniu nieprawidłowościom analogicznym do
+objętych naruszeniem. Natomiast zawiadomienie osób fizycznych o naruszeniu zapewnia
+możliwość przekazania tym osobom informacji na temat ryzyka związanego z narusze‐
+niem oraz wskazania działań, jakie osoby te mogą podjąć, aby uchronić się przed poten‐
+cjalnymi negatywnymi skutkami naruszenia (umożliwia to osobie fizycznej dokonanie sa‐
+modzielnej oceny naruszenia w kontekście możliwości materializacji negatywnych kon‐
+sekwencji dla takiej osoby i podjęcia decyzji o zastosowaniu lub braku zastosowania
+działań zaradczych).
+V. S.A., z uwagi na skalę i przedmiot swojej działalności tj. handel i wytwarzanie energii
+elektrycznej, przetwarza dane osobowe bardzo dużej ilości klientów, z którymi zawiera
+m.in. umowy sprzedaży energii elektrycznej. W rozpatrywanym przypadku z danymi oso‐
+bowymi Klientki Spółki zawartymi w umowie łączącej strony, tj.: numerem PESEL, imie‐
+niem i nazwiskiem, danymi teleadresowymi oraz adresem e-mail, zapoznała się osoba
+nieuprawniona. Nie ulega więc wątpliwości, że w oparciu o ujawnione dane można łatwo
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 7 z 23
+
+zidentyfikować Podmiot Danych. Ponadto, ujawnione zostały dane związane z faktem
+zawarcia umowy i jej treścią.
+W konsekwencji, sama ocena naruszenia przeprowadzona przez administratora pod ką‐
+tem ryzyka naruszenia praw lub wolności osób fizycznych niezbędna do stwierdzenia,
+czy doszło do naruszenia ochrony danych skutkującego koniecznością zawiadomienia
+Prezesa UODO (art. 33 ust. 1 i 3 rozporządzenia 2016/679) oraz osób, których dotyczy
+naruszenie (art. 34 ust. 1 i 2 rozporządzenia 2016/679), powinna być, jak należy raz
+jeszcze podkreślić, dokonana przez pryzmat osoby dotkniętej naruszeniem. Przypadkowe
+ujawnienie danych osobowych nawet jednej zidentyfikowanej osobie może prowadzić do
+zwiększenia skali naruszenia i tym samym ryzyka naruszenia praw lub wolności osoby,
+której dane dotyczą. Jednocześnie Administrator nie wykazał, zgodnie z zasadą rozliczal‐
+ności, o której mowa w art. 5 ust. 2 rozporządzenia 2016/679, że jego klient, na adres
+którego została wysłana umowa z danymi Klientki Spółki, może zostać uznany za tzw. za‐
+ufanego odbiorcę. Z wyjaśnień, których Spółka udzieliła pismem z dnia 22 marca 2023 r.
+wynika, że odstąpiła od zgłoszenia przedmiotowego naruszenia do organu nadzorczego,
+ponieważ „zakwalifikowała naruszenie jako cechujące się małym prawdopodobieństwem
+wystąpienia skutków w postaci ryzyka naruszenia praw lub wolności osób fizycznych”.
+Dokonaną ocenę ryzyka oparto na przekonaniu, że osoba, która weszła w posiadanie
+umowy jest tzw. „uczciwym znalazcą”, gdyż „wykazała się świadomością ochrony danych
+osobowych, inicjatywą w celu skontaktowania się z Klientką, a także podała swoją
+tożsamość i dane kontaktowe.” Biorąc powyższe pod uwagę, Spółka oceniła, „że jest
+mało prawdopodobne aby przesłanie umowy Klientki na adres Odbiorcy wywołało dalsze
+ryzyko (oprócz samego zapoznania się Odbiorcy z danymi Klientki) naruszenia praw lub
+wolności Klientki.”
+Dla lepszego zobrazowania przypadków naruszeń ochrony danych osobowych, w wyniku
+których doszło do przypadkowego ujawnienia danych osobie nieuprawnionej, należy
+odnieść się do Wytycznych 9/2022, gdzie wskazano przypadek naruszenia dotyczącego
+poufności danych polegający na omyłkowym ujawnieniu danych osobowych stronie trze‐
+ciej lub innemu odbiorcy w sytuacji, gdy dane te zostaną przypadkowo wysłane do nie‐
+właściwego działu organizacji lub do organizacji dostawców, z której usług administrator
+korzysta. Administrator ma podstawy, aby wówczas uznać nieuprawnionego odbiorcę za
+zaufanego, ponieważ pozostaje z takim podmiotem w stałych stosunkach, zna stosowa‐
+ne u niego procedury i może ufać odbiorcy na tyle aby móc racjonalnie oczekiwać, że
+odbiorca nie odczyta omyłkowo wysłanych danych lub nie uzyska wglądu do nich, jak
+również wypełni polecenie ich odesłania. Nawet w sytuacji, gdy do danych uzyskany zo‐
+stał wgląd, administrator nadal może mieć zaufanie do odbiorcy, że nie podejmie on żad‐
+nych nieodpowiednich działań i zwróci dane niezwłocznie do administratora. Jak wskazu‐
+je dalej EROD, w opisanym wyżej przypadku administrator w ocenie ryzyka przeprowa‐
+dzonej w następstwie naruszenia może uwzględnić fakt, że odbiorca jest osobą zaufaną.
+Taka sytuacja nie zachodzi jednak w omawianym przypadku. Inny klient Spółki, do które‐
+go omyłkowo została skierowana korespondencja z umową zawierającą dane osobowe
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 8 z 23
+
+Podmiotu Danych, nie pozostaje ze Spółką w relacjach pozwalających na przyjęcie, że
+jest on zaufanym odbiorcą, stosownie do powyższego stanowiska EROD.
+Odnosząc się do powyższego wskazać należy, że niezrozumiałe jest stanowisko Spółki,
+że już z treści pisma pełnomocnika Klientki wywnioskowano, że odbiorca jest „uczciwym
+znalazcą” i w oparciu o to przekonanie dokonano oceny ryzyka zupełnie bagatelizując
+fakt, że doszło do ujawnienia nieuprawnionej osobie danych osobowych Klientki Spółki.
+Bez znaczenia jest również fakt, że dane zostały udostępnione tylko jednej zidentyfiko‐
+wanej osobie. W sytuacji dostarczenia omyłkowej korespondencji osobie znanej Admini‐
+stratorowi, np. innemu klientowi, który poinformował Podmiot Danych o pomyłce Spółki,
+brak jest gwarancji, że intencje tej osoby nie ulegną zmianie. Nie bez znaczenia jest tutaj
+również czas, jaki upłynął od dnia, w którym miało miejsce zdarzenie do momentu
+stwierdzenia naruszenia. Między datą wysyłki umowy z danymi osobowymi Klientki Spół‐
+ki na adres nieuprawnionej osoby ((…) lipca 2020 r.) a zawiadomieniem otrzymanym od
+pełnomocnika Klientki ((…) listopada 2020 r.) upłynęły ponad 4 miesiące, w trakcie któ‐
+rych możliwe było bezprawne użycie tych danych osobowych w celach naruszających jej
+prawa i interesy.
+Na powyższą ocenę nie ma także wpływu fakt uzyskania oświadczenia niewłaściwego
+odbiorcy o zachowaniu w poufności danych Klientki Spółki oraz, że nie przekazał ich oso‐
+bom trzecim, ani nie posiada kopii tych danych. Nie ma bowiem pewności, czy przed na‐
+graniem oświadczenia osoba ta nie wykonała kopii lub też nie utrwaliła zawartych w tre‐
+ści umowy danych osobowych w inny sposób, np. poprzez ich spisanie. Również Spółka
+nie ma możliwości faktycznej weryfikacji oświadczenia, że nieuprawniony odbiorca nie
+przekazał danych Klientki Spółki osobom trzecim ani nie posiada kopii tych danych. Z
+wyjaśnień Spółki wynika, że na etykiecie przesyłki prawidłowo oznaczono imię i nazwisko
+Klientki Spółki, więc osoba, na której adres skierowana została ta przesyłka, mogła się
+zorientować, że korespondencja nie jest przeznaczona dla niej, a mimo to otworzyła ko‐
+pertę i zapoznała się z jej zawartością. Podobnie wypowiedział się Wojewódzki Sąd Admi‐
+nistracyjny w Warszawie, który w wyroku z dnia 21 stycznia 2022 r., sygn. akt II SA/Wa
+1353/21, wskazał, że „(…) nie ma bowiem pewności, że przed tymi czynnościami osoba
+ta nie wykonała np. kserokopii lub też nie utrwaliła danych osobowych zawartych w tre‐
+ści dokumentu w inny sposób, np. poprzez ich spisanie. Samo dokonanie czynności
+wskazanych w oświadczeniach złożonych przez Osobę trzecią - nieuprawnionego odbior‐
+cę - nie daje gwarancji, że intencje takiej osoby obecnie lub w przyszłości nie zmienią
+się, a ewentualne konsekwencje posłużenia się takimi kategoriami danych mogą być
+znaczące dla osób, których dane objęte zostały naruszeniem”. Należy jeszcze raz pod‐
+kreślić, że oświadczenie złożone przez nieuprawnionego adresata nie przesądza o tym,
+że jest mało prawdopodobne, by naruszenie to skutkowało ryzykiem naruszenia praw lub
+wolności osób fizycznych oraz nie wyklucza przyjęcia, że wystąpiło wysokie ryzyko naru‐
+szenia praw lub wolności osoby, której dane dotyczą. Należy jeszcze raz wskazać, że
+dane osobowe zostały udostępnione nieuprawnionemu odbiorcy, co oznacza, że nastąpi‐
+ło naruszenie bezpieczeństwa prowadzące do nieuprawnionego ujawnienia danych
+osobowych, nieuprawnionego odbiorcy nie można uznać za „odbiorcę zaufanego”, a za‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 9 z 23
+
+kres tych danych przesądza o tym, że wystąpiło wysokie ryzyko naruszenia praw lub
+wolności osób fizycznych. Z pisma z dnia (…) stycznia 2023 r., które Sąd Okręgowy w P.
+skierował do Prezesa UODO wynika, że Klientka Spółki wystąpiła z roszczeniem odszko‐
+dowawczym z tytułu naruszenia przepisów o ochronie danych osobowych przez Spółkę.
+Wystąpienie Podmiotu Danych z roszczeniem zapłaty odszkodowania za poniesioną szko‐
+dę w opinii Prezesa UODO potwierdza, że przedstawiona w pismach Spółki ocena ryzyka
+dokonana w przedmiotowej sprawie nie uwzględnia perspektywy Klientki Spółki, która w
+wyniku naruszenia ochrony jej danych osobowych, z wysokim prawdopodobieństwem,
+poniosła szkodę niemajątkową.
+Jak wskazują Wytyczne 9/2022, naruszenie ochrony danych osobowych może potencjal‐
+nie wywołać szereg negatywnych skutków dla osób fizycznych, których dane są przed‐
+miotem naruszenia. Wśród możliwych skutków naruszenia EROD wymienia: uszczerbek
+fizyczny, szkody materialne lub niemajątkowe. Jako przykłady takich szkód wymienione
+są m.in.: dyskryminacja, kradzież tożsamości lub oszustwo dotyczące tożsamości, straty
+finansowe, naruszenie dobrego imienia, naruszenie poufności danych osobowych oraz
+znaczna szkoda gospodarcza lub społeczna. W niniejszej sprawie nie ulega wątpliwości,
+że z uwagi na zakres danych objęty przedmiotowym naruszeniem ochrony danych oso‐
+bowych, w tym numer ewidencyjny PESEL wraz z imieniem i nazwiskiem, istnieje
+wysokie prawdopodobieństwo wystąpienia wymienionych powyżej szkód.
+Przede wszystkim należy podkreślić, że zaistniałe naruszenie ochrony danych osobowych
+dotyczyło numeru ewidencyjnego PESEL, czyli jedenastocyfrowego symbolu numerycz‐
+nego, który jednoznacznie identyfikuje osobę fizyczną, zawierającego m.in.: datę urodze‐
+nia oraz oznaczenie płci, a więc ściśle powiązanego ze sferą prywatną osoby fizycznej
+oraz podlegającego również, jako krajowy numer identyfikacyjny, wyjątkowej ochronie
+na gruncie art. 87 rozporządzenia 2016/679 - będącego daną o szczególnym charakterze
+i takiej szczególnej ochrony wymagającego. Nr PESEL służy jako dana identyfikująca każ‐
+dą osobę i jest powszechnie używany w kontaktach z różnymi instytucjami oraz w obiegu
+prawnym. Nr PESEL wraz z imieniem i nazwiskiem w sposób jednoznaczny identyfikuje
+osobę fizyczną, w sposób pozwalający przypisać negatywne skutki naruszenia (np. kra‐
+dzież tożsamości, wyłudzenie pożyczki) tej konkretnej osobie. Ponadto należy wziąć pod
+uwagę, że w wyniku przedmiotowego naruszenia ochrony danych osobowych doszło do
+udostępnienia osobie nieuprawnionej tego numeru ewidencyjnego wraz z imieniem i na‐
+zwiskiem Klientki Spółki, które to zestawienie danych bywa wystarczające do „podszycia
+się” pod podmiot tych danych i zaciągnięcia w imieniu i na szkodę takiego podmiotu np.
+zobowiązań pieniężnych (vide: https://www.bik.pl/poradnik-bik/wyludzenie-kredytu-takdzialaja-oszusci - gdzie opisano przypadek, w którym: „Tylko imię, nazwisko i numer PE‐
+SEL wystarczyły oszustom, by wyłudzić kilkanaście kredytów w sumie na dziesiątki tysię‐
+cy złotych. Nic więcej się nie zgadzało: ani numer dowodu osobistego, ani adres za‐
+mieszkania”).Nie sposób również pominąć, że analizowane naruszenie ochrony danych
+osobowych dotyczyło także danych teleadresowych, które jak powszechnie się przyjmuje
+obejmują adres zamieszkania lub pobytu i numer telefonu Klientki Spółki oraz jej adres
+e-mail. W ocenie ryzyka kluczowym czynnikiem jest rodzaj i wrażliwość danych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 10 z 23
+
+osobowych ujawnionych w wyniku naruszenia. W Wytycznych 9/2022 podkreślono, że
+zbiór różnych danych osobowych ma zazwyczaj bardziej wrażliwy charakter niż
+pojedyncze dane.
+Warto w tym miejscu przytoczyć jeden z przykładów znajdujących się w Wytycznych
+Europejskiej Rady Ochrony Danych 01/2021[2] (przypadek nr 14, s. 31), odnoszący się
+do sytuacji „wysłania pocztą przez pomyłkę wysoce poufnych danych osobowych”. W
+opisanym w ww. wytycznych przypadku doszło do ujawnienia numeru ubezpieczenia
+społecznego, będącego odpowiednikiem stosowanego w Polsce numeru PESEL. W przy‐
+padku tym EROD nie miała wątpliwości, że ujawnione dane w zakresie: imię i nazwisko,
+adres e-mail, adres pocztowy, numer ubezpieczenia społecznego, wskazują na wysokie
+ryzyko naruszenia praw lub wolności osób fizycznych („zaangażowanie ich [osób poszko‐
+dowanych] numeru ubezpieczenia społecznego, a także innych, bardziej podstawowych
+danych osobowych, dodatkowo zwiększa ryzyko, które można określić jako wysokie”).
+EROD dostrzega wagę krajowych numerów identyfikacyjnych (w tym przypadku numeru
+PESEL), podkreślając jednocześnie, że tego typu naruszenie ochrony danych osobowych,
+a więc obejmujące swym zakresem dane w postaci: imienia i nazwiska, adresu e-mail,
+adresu korespondencyjnego oraz numeru ubezpieczenia społecznego, wymaga realizacji
+działań, tj.: powiadomienia organu nadzorczego oraz zawiadomienia o naruszeniu osób,
+których dane dotyczą.
+Europejska Rada Ochrony Danych nie ma najmniejszych wątpliwości, że indywidualnie
+nadany numer jednoznacznie identyfikujący osobę fizyczną powinien podlegać szczegól‐
+nej ochronie, a jego ujawnienie nieuprawnionym podmiotom może wiązać się z wysokim
+ryzykiem naruszenia praw lub wolności osób fizycznych.
+Na fakt, że dane jednoznacznie identyfikujące osobę fizyczną mogą powodować wysokie
+ryzyko naruszenia praw lub wolności EROD wskazuje również w innych przykładach
+podanych w Wytycznych 01/2021. W pkt 65 i 66 Wytycznych 01/2021 wskazano: „(…)
+Naruszone dane pozwalają na jednoznaczną identyfikację osób, których dane dotyczą, i
+zawierają inne informacje na ich temat (w tym płeć, datę i miejsce urodzenia), ponadto
+mogą być wykorzystywane przez atakującego do odgadnięcia haseł klientów lub do
+przeprowadzenia kampanii spear phishingowej skierowanej do klientów banku. Z tych
+powodów uznano, że naruszenie ochrony danych prawdopodobnie spowoduje wysokie
+ryzyko naruszenia praw i wolności wszystkich osób, których dane dotyczą. W związku z
+tym możliwe jest wystąpienie szkód materialnych (np. strat finansowych) i
+niematerialnych (np. kradzieży tożsamości lub oszustwa)”.
+Podobnych wątpliwości (że ujawnienie numeru PESEL wraz z innymi danymi osobowymi
+może powodować wysokie ryzyko naruszenia praw lub wolności osób fizycznych) nie
+miał również Wojewódzki Sąd Administracyjny w Warszawie, który w wyroku z dnia 22
+września 2021 r., sygn. akt II SA/Wa 791/21, stwierdził, że „Nie ulega wątpliwości, że
+przywołane w wytycznych przykłady szkód mogą wystąpić w przypadku osób, których
+dane osobowe – w niektórych przypadkach łącznie z numerem ewidencyjnym Pesel lub
+serią i nr dowodu osobistego – zostały utrwalone na udostępnionych nagraniach. Nie bez
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 11 z 23
+
+znaczenia dla takiej oceny jest możliwość w oparciu o ujawnione dane identyfikacji osób,
+których dane zostały objęte naruszeniem.”. Dalej Sąd w przywołanym orzeczeniu
+wskazał, że „Dane zostały bowiem udostępnione nieuprawnionym osobom, co oznacza,
+że nastąpiło naruszenie bezpieczeństwa prowadzące do nieuprawnionego ujawnienia da‐
+nych osobowych, a zakres tych danych obejmujących w niektórych przypadkach również
+numer ewidencyjny PESEL lub serię i nr dowodu osobistego przesądza o tym, że wystąpi‐
+ło wysokie ryzyko naruszenia praw lub wolności osób fizycznych.” Rozważając powyższe
+kwestie należy przywołać również stanowisko Wojewódzkiego Sądu Administracyjnego w
+Warszawie wyrażone w wyroku z dnia 1 lipca 2022 r. wydanym w sprawie o sygn. II SA/
+Wa 4143/21. W uzasadnieniu tego wyroku Sąd stwierdził, iż: „Należy zgodzić się z Preze‐
+sem UODO, że utrata poufności numeru PESEL w połączeniu z danymi osobowymi, taki‐
+mi jak: imię i nazwisko, adres zameldowania, numery rachunków bankowych oraz numer
+identyfikacyjny nadawany klientom Banku - numer CIF, wiąże się z wysokim ryzykiem
+naruszenia praw lub wolności osób fizycznych. W przypadku naruszenia takich danych,
+jak imię, nazwisko oraz numer PESEL, możliwa jest bowiem kradzież lub sfałszowanie
+tożsamości skutkująca negatywnymi konsekwencjami dla osób, których dane dotyczą.
+Dlatego też Bank w przedmiotowej sprawie powinien był bez zbędnej zwłoki, stosownie
+do art. 34 ust. 1 RODO, zawiadomić osoby, których dane dotyczą, o naruszeniu ochrony
+danych osobowych, tak aby umożliwić im podjęcie niezbędnych działań zapobiegaw‐
+czych” (podkreślenie własne). Wskazać również należy na wyrok z dnia 31 sierpnia 2022
+r., sygn. akt II SA/Wa 2993/21, w którym Wojewódzki Sąd Administracyjny w Warszawie
+podkreślił, że „(…) organ trafnie przyjął, iż wystąpiło wysokie ryzyko naruszenia praw i
+wolności osób objętych przedmiotowym naruszeniem z uwagi na możliwość łatwej, w
+oparciu o ujawnione dane, identyfikacji osób, których dane zostały objęte naruszeniem.
+Dane te bowiem to imię i nazwisko, adres do korespondencji, numer telefonu, numer PE‐
+SEL osób posiadających polskie obywatelstwo. W tej sytuacji administrator zobowiązany
+był do zawiadomienia bez zbędnej zwłoki osób, których dane dotyczą, o naruszeniu”. Po‐
+dobnie wypowiedział się Wojewódzki Sąd Administracyjny w Warszawie w wyrokach z
+dnia 15 listopada 2022 r., sygn. akt II SA/Wa 546/22, oraz 21 czerwca 2023 r., sygn. akt II
+SA/Wa 150/23.
+Z ostatniego raportu infoDOK[3] (który przygotowywany jest w ramach prowadzenia spo‐
+łecznej Kampanii Informacyjnej Systemu DOKUMENTY ZASTRZEŻONE, organizowanej
+przez Związek Banków Polskich i niektóre banki, pod patronatem Ministerstwa Spraw
+Wewnętrznych i Administracji i we współpracy m.in. z Policją oraz Federacją Konsumen‐
+tów), wynika, że w III kwartale 2022 r. odnotowano 2089 prób wyłudzeń kredytów i poży‐
+czek. W całym 2020 r. odnotowano 6884 próby wyłudzeń na kwotę 253,8 mln zł, zaś w
+całym 2021 r. odnotowano 8096 prób wyłudzeń kredytów na łączną kwotę 336,6 mln zł.
+Oznacza to, że cały rok 2021 r. pod względem liczby prób wyłudzeń oraz ich kwot był
+znacząco bardziej niebezpieczny od poprzedniego: nastąpił 17-procentowy wzrost liczby
+prób wyłudzeń i 32-procentowy wzrost łącznej kwoty tych prób wyłudzeń.
+Ponadto, jak wynika z orzecznictwa, wyroki w sprawach wyłudzeń kredytów nie są rzad‐
+kością i są wydawane przez polskie sądy w podobnych sprawach od dawna - tytułem
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 12 z 23
+
+przykładu można wskazać na wyrok Sądu Rejonowego w Łęczycy z dnia 27 lipca 2016 r.
+(sygn. akt I C 566/15), w którym oszuści biorący pożyczkę na cudze dane posłużyli się nr
+PESEL, zmyślonym adresem oraz niewłaściwym numerem dowodu (nieważnym). W
+uzasadnieniu ww. wyroku Sąd stwierdził, że:
+„
+W przedmiotowej sprawie powód (…) z siedzibą we W. nabył wierzytelność od (…)
+Spółka z ograniczoną odpowiedzialnością S.K.A. z siedzibą w W. Stroną umowy po‐
+życzki z dnia 5 maja 2014 r. była osoba, która w nieuprawniony sposób użyła da‐
+nych J. R. (…) Spółka z ograniczoną odpowiedzialnością S.K.A. z siedzibą w W.
+przelała na wskazany rachunek bankowy kwotę 500 zł.
+Kwestią kluczową w niniejszej sprawie było ustalenie, iż pozwana nie zawarła umo‐
+wy pożyczki, co było zarzutem podnoszonym przez pozwaną w toku całego postępo‐
+wania.
+Przeprowadzone postępowanie dowodowe oraz analiza dokumentów, załączonych
+przez stronę powodową, skutkuje tym, iż można jednoznacznie stwierdzić, że w roz‐
+poznawanej sprawie pozwana nie była stroną umowy pożyczki, zawartej w dniu 5
+maja 2014 r. Wprawdzie przy jej zawarciu posłużono numerem PESEL pozwanej J. R.,
+lecz wskazane miejsce zamieszkania nie odpowiada miejscu zamieszkania pozwa‐
+nej. Pozwana J. R. nigdy nie mieszkała w W. Kwota pożyczki została przelana na kon‐
+to, którego posiadaczem nie była pozwana. W dacie zawarcia umowy pożyczki do‐
+wód osobisty nr (…) utracił ważność z dniem 15 marca 2014 r. Nie jest zgodny także
+numer telefonu komórkowego, wskazany na umowie pożyczki i jej załącznikach z
+faktycznymi numerami telefonów, jakimi posługiwała się i posługuje pozwana.
+W realiach rozpoznawanej sprawy, Sąd uznał, iż strona pozwana wykazała, że nie
+była stroną umowy pożyczki będącej przedmiotem niniejszego postępowania. Umo‐
+wy zawierane za pomocą środków porozumiewania się na odległość winny wymagać
+szczegółowej, wnikliwej weryfikacji i taka weryfikacja dokonana w przedmiotowej
+sprawie prowadzi do wniosku, że stroną umowy pożyczki nie była pozwana”.
+Trzeba również mieć na uwadze, że wykonanie przez Administratora jego obowiązku wni‐
+kającego z art. 34 ust. 1 rozporządzenia 2016/679 nie może być uzależniane od zaistnie‐
+nia naruszenia praw lub wolności osób fizycznych, których danych dotyczy naruszenie
+ochrony danych osobowych. Podobnie jest w przypadku obowiązku wynikającego z art.
+33 ust. 1 rozporządzenia 2016/679 - jak stwierdził Wojewódzki Sąd Administracyjny w
+Warszawie w wyroku z dnia 22 września 2021 r. wydanym w sprawie o sygn. II SA/Wa
+791/21: „Podkreślić należy, że możliwe konsekwencje zaistniałego zdarzenia nie muszą
+się zmaterializować. W treści art. 33 ust. 1 rozporządzenia 2016/679 wskazano, że samo
+wystąpienie naruszenia ochrony danych osobowych, z którym wiąże się ryzyko narusze‐
+nia praw lub wolności osób fizycznych, implikuje obowiązek zgłoszenia naruszenia wła‐
+ściwemu organowi nadzorczemu, chyba że jest mało prawdopodobne, by naruszenie to
+skutkowało ryzykiem naruszenia praw lub wolności osób fizycznych” (przy czym Sąd ten
+podobnie orzekł we wcześniej przywoływanym wyroku z dnia 1 lipca 2022 r. wydanym w
+sprawie o sygn. akt II SA/Wa 4143/21 oraz w wyrokach z dnia 31 sierpnia 2022 r., sygn.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 13 z 23
+
+akt II SA/Wa 2993/21, z dnia 15 listopada 2022 r., sygn. akt II SA/Wa 546/22 i z dnia 26
+kwietnia 2023 r., sygn. akt II SA/Wa 1272/22).
+Stosując przepisy rozporządzenia 2016/679 należy mieć na uwadze cel tego rozporzą‐
+dzenia (wyrażony w art. 1 ust. 2), którym jest ochrona podstawowych praw i wolności
+osób fizycznych, w szczególności ich prawa do ochrony danych osobowych.
+Z kolei ochrona osób fizycznych w związku z przetwarzaniem danych osobowych jest
+jednym z praw podstawowych (zdanie pierwsze motywu 1 preambuły). W przypadku ja‐
+kichkolwiek wątpliwości np. co do wykonania obowiązków przez administratorów - w tym
+również w sytuacji, gdy doszło do naruszenia ochrony danych osobowych - należy w
+pierwszej kolejności brać pod uwagę te wartości.
+Warto podkreślić, że dokonując oceny pod kątem ryzyka naruszenia praw lub wolności
+osób fizycznych, od której uzależnione jest dokonanie zgłoszenia naruszenia ochrony da‐
+nych osobowych oraz zawiadomienie o naruszeniu osoby, której dane dotyczą, należy
+łącznie uwzględnić czynnik prawdopodobieństwa i wagę potencjalnych negatywnych
+skutków. Wysoki poziom któregokolwiek z tych czynników ma wpływ na wysokość ogól‐
+nej oceny, od której uzależnione jest wypełnienie obowiązków określonych w art. 33 ust.
+1 i art. 34 ust. 1 rozporządzenia 2016/679. Mając na uwadze, że ze względu na zakres
+ujawnionych danych osobowych w analizowanym przypadku wystąpiła możliwość zmate‐
+rializowania się poważnych negatywnych konsekwencji dla osoby, której dane dotyczą
+(jak wyżej wykazano), to wagę potencjalnego wpływu na prawa lub wolności osoby fi‐
+zycznej należy uznać za wysoką. Jednocześnie prawdopodobieństwo wystąpienia wyso‐
+kiego ryzyka w następstwie przedmiotowego naruszenia nie jest małe i nie zostało wyeli‐
+minowane. Tym samym stwierdzić należy, że w związku z przedmiotowym naruszeniem
+wystąpiło wysokie ryzyko naruszenia praw lub wolności osoby, której dane dotyczą, co w
+konsekwencji determinuje obowiązek dokonania zgłoszenia naruszenia ochrony danych
+osobowych organowi nadzorczemu oraz zawiadomienia o naruszeniu Podmiotu Danych.
+W Wytycznych 9/2022 EROD wskazując czynniki, które należy wziąć pod uwagę przy
+ocenie ryzyka, odsyła do motywów 75 i 76 rozporządzenia 2016/679, które sugerują, że
+administrator powinien uwzględnić zarówno prawdopodobieństwo wystąpienia, jak i po‐
+wagę zagrożenia praw lub wolności osoby, której dane dotyczą. W przypadku naruszenia
+ochrony danych osobowych administrator powinien skupić swoją uwagę na wynikającym
+z faktu naruszenia ryzyku wpływu naruszenia na osobę fizyczną. Zatem, oceniając ryzy‐
+ko dla osoby fizycznej powstałe w wyniku naruszenia ochrony danych osobowych, admi‐
+nistrator powinien wziąć pod uwagę konkretne okoliczności naruszenia, w tym dotkli‐
+wość potencjalnego wpływu oraz prawdopodobieństwo jego wystąpienia. W związku z
+powyższym, przy ocenie ryzyka, EROD zaleca uwzględnienie takich kryteriów, jak: rodzaj
+naruszenia, charakter, wrażliwość i ilość danych osobowych, a także łatwość identyfika‐
+cji, ponieważ mogą one mieć wpływ na poziom ryzyka dla osób fizycznych. Ryzyko
+naruszenia praw i wolności osoby fizycznej zgodnie z Wytycznymi 9/2022 będzie więk‐
+sze, gdy konsekwencje naruszenia są poważniejsze, jak również wtedy, gdy wzrasta
+prawdopodobieństwo ich wystąpienia. Wytyczne wskazują aby, w przypadku jakichkol‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 14 z 23
+
+wiek wątpliwości administrator zgłosił naruszenie, nawet jeśli taka ostrożność mogłaby
+się okazać nadmierna.
+Podsumowując powyższe rozważania należy stwierdzić, że w przedmiotowym przypadku
+występuje wysokie ryzyko naruszenia praw lub wolności osoby objętej przedmiotowym
+naruszeniem, co z kolei skutkuje powstaniem po stronie Spółki obowiązku zgłoszenia na‐
+ruszenia ochrony danych osobowych organowi nadzorczemu, zgodnie z art. 33 ust. 1
+rozporządzenia 2016/679, w którym muszą się znaleźć informacje określone w art. 33
+ust. 3 rozporządzenia 2016/679 oraz zawiadomienia tej osoby o naruszeniu, zgodnie z
+art. 34 ust. 1 rozporządzenia 2016/679, w którym muszą się znaleźć informacje określo‐
+ne w art. 34 ust. 2 rozporządzenia 2016/679. Spółka, która z uwagi na charakter swojej
+działalności przetwarza dane osobowe na masową skalę, powinna mieć wiedzę o wynika‐
+jących z przepisów prawa obowiązkach związanych ze stwierdzeniem naruszenia ochro‐
+ny danych osobowych. Informowanie Administratora o spoczywających na nim obowiąz‐
+kach w zakresie ochrony danych osobowych, jak również doradzanie Administratorowi,
+należy również do zadań powołanego w Spółce inspektora ochrony danych. Wiedzę w
+tym zakresie Spółka powinna także posiadać z uwagi na wcześniej wydaną wobec niej
+decyzję nakładającą administracyjną karę pieniężną za naruszenie art. 33 ust. 1 rozpo‐
+rządzenia 2016/679, polegające na niezgłoszeniu naruszenia ochrony danych osobowych
+Prezesowi UODO (decyzja z dnia 11 lutego 2021 r., sygn. DKN.5131.7.2020.111638), tym
+bardziej, że skarga Administratora na tę decyzję została oddalona prawomocnym wyro‐
+kiem Wojewódzkiego Sądu Administracyjnego w W. z dnia (…) stycznia 2022 r. (sygn. akt
+II SA/Wa 1353/21).
+Odnosząc się do obowiązku Administratora określonego w art. 34 ust. 2 rozporządzenia
+2016/679, Prezes UODO stwierdził, iż Administrator (biorąc pod uwagę charakter naru‐
+szenia oraz kategorie danych, które uległy naruszeniu) powinien wskazać osobie, której
+dane dotyczą, najbardziej prawdopodobne, negatywne konsekwencje naruszenia jej da‐
+nych osobowych. Z całą pewnością w przypadku naruszenia takich danych, jak imię, na‐
+zwisko oraz numer ewidencyjny PESEL, należy wskazać przede wszystkim na możliwą
+kradzież lub sfałszowanie tożsamości poprzez uzyskanie przez osoby trzecie, na szkodę
+osoby, której dane naruszono, pożyczek w instytucjach pozabankowych bądź wyłudzenia
+ubezpieczenia lub środków z ubezpieczenia, co może spowodować negatywne konse‐
+kwencje związane z próbą przypisania osobie, której dane dotyczą, odpowiedzialności za
+dokonanie takiego oszustwa. Opis możliwych konsekwencji powinien bowiem odzwiercie‐
+dlać ryzyko naruszenia praw lub wolności tej osoby, tak aby umożliwić jej podjęcie
+niezbędnych działań zapobiegawczych.
+W sytuacji, gdy na skutek naruszenia ochrony danych osobowych, występuje wysokie ry‐
+zyko naruszenia praw lub wolności osób fizycznych administrator zobowiązany jest wdro‐
+żyć wszelkie odpowiednie środki techniczne i organizacyjne, by od razu stwierdzić naru‐
+szenie ochrony danych osobowych i szybko poinformować organ nadzorczy, jak również
+osoby, których dane dotyczą. Administrator powinien zrealizować przedmiotowy
+obowiązek możliwie najszybciej.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 15 z 23
+
+W motywie 85 preambuły rozporządzenia 2016/679 wyjaśniono: „Przy braku odpowied‐
+niej i szybkiej reakcji naruszenie ochrony danych osobowych może skutkować powsta‐
+niem uszczerbku fizycznego, szkód majątkowych lub niemajątkowych u osób fizycznych,
+takich jak utrata kontroli nad własnymi danymi osobowymi lub ograniczenie praw, dys‐
+kryminacja, kradzież lub sfałszowanie tożsamości, strata finansowa, nieuprawnione od‐
+wrócenie pseudonimizacji, naruszenie dobrego imienia, naruszenie poufności danych
+osobowych chronionych tajemnicą zawodową lub wszelkie inne znaczne szkody gospo‐
+darcze lub społeczne. Dlatego natychmiast po stwierdzeniu naruszenia ochrony danych
+osobowych administrator powinien zgłosić je organowi nadzorczemu bez zbędnej zwłoki,
+jeżeli to wykonalne, nie później niż w terminie 72 godzin po stwierdzeniu naruszenia,
+chyba że administrator jest w stanie wykazać zgodnie z zasadą rozliczalności, że jest
+mało prawdopodobne, by naruszenie to mogło powodować ryzyko naruszenia praw lub
+wolności osób fizycznych. Jeżeli nie można dokonać zgłoszenia w terminie 72 godzin,
+zgłoszeniu powinno towarzyszyć wyjaśnienie przyczyn opóźnienia, a informacje mogą
+być przekazywane stopniowo, bez dalszej zbędnej zwłoki”.
+Z kolei w motywie 86 preambuły rozporządzenia 2016/679 wskazano: „Administrator po‐
+winien bez zbędnej zwłoki poinformować osobę, której dane dotyczą, o naruszeniu
+ochrony danych osobowych, jeżeli może ono powodować wysokie ryzyko naruszenia
+praw lub wolności tej osoby, tak aby umożliwić tej osobie podjęcie niezbędnych działań
+zapobiegawczych. Informacja taka powinna zawierać opis charakteru naruszenia ochro‐
+ny danych osobowych oraz zalecenia dla danej osoby fizycznej co do minimalizacji po‐
+tencjalnych niekorzystnych skutków. Informacje należy przekazywać osobom, których
+dane dotyczą, tak szybko, jak jest to rozsądnie możliwe, w ścisłej współpracy z organem
+nadzorczym, z poszanowaniem wskazówek przekazanych przez ten organ lub inne odpo‐
+wiednie organy, takie jak organy ścigania. Na przykład potrzeba zminimalizowania bez‐
+pośredniego ryzyka wystąpienia szkody będzie wymagać niezwłocznego poinformowania
+osób, których dane dotyczą, natomiast wdrożenie odpowiednich środków przeciwko ta‐
+kim samym lub podobnym naruszeniom ochrony danych może uzasadniać późniejsze
+poinformowanie”.
+Zawiadamiając bez zbędnej zwłoki podmiot danych, administrator umożliwia osobie pod‐
+jęcie niezbędnych działań zapobiegawczych w celu ochrony praw lub wolności przed ne‐
+gatywnymi skutkami naruszenia. Art. 34 ust. 1 i 2 rozporządzenia 2016/679 ma na celu
+nie tylko zapewnienie możliwie najskuteczniejszej ochrony podstawowych praw lub wol‐
+ności podmiotów danych, ale także realizację zasady przejrzystości, która wynika z art. 5
+ust. 1 lit. a) rozporządzenia 2016/679 (por. Witold Chomiczewski [w:] RODO. Ogólne roz‐
+porządzenie o ochronie danych. Komentarz. red. E. Bielak-Jomaa, D. Lubasz, Warszawa
+2018). Właściwe wywiązanie się z obowiązku określonego w art. 34 rozporządzenia
+2016/679 ma zapewnić osobom, których dane dotyczą - szybką i przejrzystą informację
+o naruszeniu ochrony ich danych osobowych wraz z opisem możliwych konsekwencji na‐
+ruszenia ochrony danych osobowych oraz środków, które mogą one podjąć w celu zmini‐
+malizowania jego ewentualnych negatywnych skutków. Postępując zgodnie z prawem i
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 16 z 23
+
+wykazując dbałość o interesy osób, których dane dotyczą, administrator powinien był
+bez zbędnej zwłoki zapewnić osobom, których dane dotyczą, możliwość jak najlepszej
+ochrony danych osobowych. Dla osiągnięcia tego celu niezbędne jest przynajmniej wska‐
+zanie tych informacji, które wymienione są w art. 34 ust. 2 rozporządzenia 2016/679, z
+którego to obowiązku administrator nie wywiązał się. Administrator podejmując zatem
+decyzję o niezawiadomieniu o naruszeniu organu nadzorczego, jak i osoby, której dane
+dotyczą, w praktyce pozbawił Podmiot Danych, przekazanej bez zbędnej zwłoki, rzetelnej
+informacji o naruszeniu ochrony danych osobowych i możliwości przeciwdziałania
+potencjalnym szkodom.
+W konsekwencji należy stwierdzić, że Administrator nie dokonał zgłoszenia naruszenia
+ochrony danych osobowych organowi nadzorczemu w wykonaniu obowiązku z art. 33
+ust. 1 rozporządzenia 2016/679 oraz nie zawiadomił bez zbędnej zwłoki osoby, której
+dane dotyczą, o naruszeniu ochrony jej danych, zgodnie z art. 34 ust. 1 rozporządzenia
+2016/679, co oznacza naruszenie przez Administratora tych przepisów.
+W tym miejscu należy zaznaczyć, że zgodnie z art. 34 ust. 4 rozporządzenia 2016/679,
+jeżeli administrator nie zawiadomił jeszcze osoby, której dane dotyczą, o naruszeniu
+ochrony danych osobowych, organ nadzorczy - biorąc pod uwagę prawdopodobieństwo,
+że to naruszenie ochrony danych osobowych spowoduje wysokie ryzyko - może od niego
+tego zażądać lub może stwierdzić, że spełniony został jeden z warunków, o których
+mowa w ust. 3. Z kolei z treści art. 58 ust. 2 lit. e) rozporządzenia 2016/679 wynika, że
+każdemu organowi nadzorczemu przysługuje uprawnienie naprawcze w postaci nakaza‐
+nia administratorowi zawiadomienia osoby, której dane dotyczą, o naruszeniu ochrony
+danych.
+Zgodnie z art. 58 ust. 2 lit. i) rozporządzenia 2016/679, każdemu organowi nadzorczemu
+przysługuje uprawnienie do zastosowania, oprócz lub zamiast innych środków napraw‐
+czych przewidzianych w art. 58 ust. 2 rozporządzenia 2016/679, administracyjnej kary
+pieniężnej na mocy art. 83 rozporządzenia 2016/679, zależnie od okoliczności konkretnej
+sprawy. Prezes UODO stwierdza, że w rozpatrywanej sprawie zaistniały przesłanki uza‐
+sadniające nałożenie na Spółkę administracyjnej kary pieniężnej w oparciu o art. 83 ust.
+4 lit. a) rozporządzenia 2016/679 stanowiący m.in., że naruszenie obowiązków admini‐
+stratora, o których mowa w art. 33 i 34 rozporządzenia 2016/679, podlega administracyj‐
+nej karze pieniężnej w wysokości do 10 000 000 EURO, a w przypadku przedsiębiorstwa w wysokości do 2% jego całkowitego rocznego światowego obrotu z poprzedniego roku
+obrotowego, przy czym zastosowanie ma kwota wyższa.
+Stosownie do treści art. 83 ust. 2 rozporządzenia 2016/679, administracyjne kary pie‐
+niężne nakłada się, zależnie od okoliczności każdego indywidualnego przypadku, oprócz
+lub zamiast środków, o których mowa w art. 58 ust. 2 lit. a) - h) oraz lit. j) rozporządzenia
+2016/679. Decydując o nałożeniu na Spółkę administracyjnej kary pieniężnej Prezes
+UODO - stosownie do treści art. 83 ust. 2 lit. a) - k) rozporządzenia 2016/679 - wziął pod
+uwagę następujące okoliczności sprawy, stanowiące o konieczności zastosowania w ni‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 17 z 23
+
+niejszej sprawie tego rodzaju sankcji oraz wpływające obciążająco na wymiar nałożonej
+administracyjnej kary pieniężnej:
+1. Charakter, wagę i czas trwania naruszenia przy uwzględnieniu charakteru, zakresu
+lub celu danego przetwarzania, liczby poszkodowanych osób, których dane dotyczą,
+oraz rozmiaru poniesionej przez nie szkody (art. 83 ust. 2 lit. a rozporządzenia
+2016/679).
+W niniejszej sprawie stwierdzono naruszenie przepisu art. 33 ust. 1 rozporzą‐
+dzenia 2016/679 (polegające na niezgłoszeniu Prezesowi Urzędu Ochrony Da‐
+nych Osobowych naruszenia ochrony danych osobowych bez zbędnej zwłoki,
+nie później niż w terminie 72 godzin po stwierdzeniu naruszenia) oraz art. 34
+ust. 1 rozporządzenia 2016/679 (polegające na niezawiadomieniu o naruszeniu
+ochrony danych osobowych, bez zbędnej zwłoki osoby, której dane dotyczą).
+Związane są one ze zdarzeniem polegającym na udostępnieniu osobie nie‐
+uprawnionej umowy zawierającej dane osobowe Klientki Spółki w postaci: nu‐
+meru PESEL wraz z imieniem i nazwiskiem oraz danymi teleadresowymi, a także
+adresem e-mail, co sprawia, że ma ono znaczną wagę i poważny charakter, po‐
+nieważ zdarzenie to może doprowadzić do szkód majątkowych lub niemajątko‐
+wych dla osoby, której dane zostały naruszone, a prawdopodobieństwo ich wy‐
+stąpienia jest wysokie. Podkreślić również należy, że z pisma z dnia (…) stycznia
+2023 r., które Sąd Okręgowy w P. skierował do Prezesa UODO wynika, że Klient‐
+ka Spółki wystąpiła z roszczeniem odszkodowawczym z tytułu naruszenia prze‐
+pisów o ochronie danych osobowych przez Spółkę. Wystąpienie Podmiotu Da‐
+nych z roszczeniem zapłaty odszkodowania za poniesioną szkodę w opinii Preze‐
+sa UODO jedynie potwierdza, że przedstawiona w pismach Spółki ocena ryzyka
+dokonana w przedmiotowej sprawie uwzględnia jedynie perspektywę Admini‐
+stratora, a to oznacza, że nie uwzględnia perspektywy Klientki Spółki, która w
+wyniku naruszenia ochrony jej danych osobowych, z wysokim prawdopodobień‐
+stwem, poniosła szkodę niemajątkową.
+W niniejszej sprawie ustalono, że naruszenie dotyczyło danych osobowych jed‐
+nej osoby. Taką liczbę osób dotkniętych naruszeniem, szczególnie wobec faktu,
+że Spółka – w związku ze skalą i zakresem swojej działalności - przetwarza dane
+osobowe bardzo dużej liczby klientów, należy uznać za niewielką, co niewątpli‐
+wie przemawia na korzyść Administratora. Nie wpływa to jednak na dokonaną,
+całościową ocenę wpływu tej przesłanki – jako obciążającej - na wymiar
+nakładanej kary.
+Za okoliczność obciążającą Prezes UODO uznaje długi czas trwania naruszenia
+przez Spółkę przepisów rozporządzenia 2016/679. Od powzięcia przez Admini‐
+stratora informacji o naruszeniu, tj. (…) listopada 2020 r., kiedy to zostało mu
+doręczone pismo pełnomocnika Klientki Spółki, do dnia wydania niniejszej decy‐
+zji upłynęły niemal trzy lata, w trakcie których ryzyko naruszenia praw lub wol‐
+ności osoby dotkniętej naruszeniem mogło się zrealizować, a czemu osoba ta
+nie mogła przeciwdziałać ze względu na niewywiązanie się przez Spółkę z obo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+2.
+
+3.
+
+Strona 18 z 23
+
+wiązku zgłoszenia naruszenia ochrony danych osobowych Prezesowi UODO oraz
+z obowiązku powiadomienia o nim osoby, której dane dotyczą.
+Umyślny charakter naruszenia (art. 83 ust. 2 lit. b rozporządzenia 2016/679).
+Zgodnie z Wytycznymi Grupy Roboczej Art. 29 w sprawie stosowania i ustalania
+administracyjnych kar pieniężnych do celów rozporządzenia nr 2016/679 WP253
+(przyjętymi w dniu 3 października 2017 r., zatwierdzonymi przez EROD w dniu
+25 maja 2018 r.), umyślność „obejmuje zarówno wiedzę, jak i celowe działanie,
+w związku z cechami charakterystycznymi czynu zabronionego”. Spółka podjęła
+świadomą decyzję, by nie zawiadamiać o naruszeniu Prezesa UODO, jak i osoby,
+której dane dotyczą. Nie ulega wątpliwości, że Spółka, przetwarzając dane oso‐
+bowe na masową skalę, musi mieć wiedzę w zakresie ochrony danych osobo‐
+wych, obejmującą wiedzę o konsekwencjach stwierdzenia naruszenia ochrony
+danych osobowych skutkującego wysokim ryzykiem naruszenia praw lub wolno‐
+ści osób fizycznych (a wiedzy tej wymagać można nie tylko od administratora
+lecz również od powołanego przez niego inspektora ochrony danych). Niewątpli‐
+wie źródłem wiedzy dla Spółki w zakresie obowiązków związanych z narusze‐
+niem ochrony danych osobowych jest również decyzja Prezesa Urzędu Ochrony
+Danych Osobowych z dnia 11 lutego 2021 r. (opisana poniżej, w punkcie 3), na
+którą skarga Spółki została oddalona prawomocnym wyrokiem Wojewódzkiego
+Sądu Administracyjnego w Warszawie z dnia 21 stycznia 2022 r. (sygn. akt II SA/
+Wa 1353/21). Nałożona ww. decyzją administracyjna kara pieniężna wraz z ob‐
+szernym uzasadnieniem, w którym Prezes UODO powołał obowiązujące przepisy
+i wytyczne, zawiera niezbędne informacje o obowiązkach Administratora zwią‐
+zanych ze stwierdzonym naruszeniem ochrony danych osobowych. Można więc
+uznać, że Administrator, będąc świadomym ciążącej na nim odpowiedzialności,
+zlekceważył swoje obowiązki związane z naruszeniem ochrony danych i zanie‐
+chał zgłoszenia naruszenia ochrony danych osobowych Prezesowi UODO oraz
+zawiadomienia osoby, której dane dotyczą, o naruszeniu. W końcu samo wsz‐
+częcie przez Prezesa UODO niniejszego postępowania w przedmiocie obowiązku
+zgłoszenia naruszenia ochrony danych osobowych organowi nadzorczemu i za‐
+wiadomienia o naruszeniu osoby, której dane dotyczą, powinno nasunąć Admi‐
+nistratorowi co najmniej wątpliwości, co do słuszności przyjętego przez niego
+stanowiska.
+Wszelkie stosowne wcześniejsze naruszenia ze strony administratora lub podmiotu
+przetwarzającego (art. 83 ust. 2 lit. e rozporządzenia 2016/679).
+Prezes UODO prowadził już wcześniej postępowanie administracyjne wobec
+Spółki (opisane dalej w niniejszym punkcie) w przedmiocie naruszenia obowiąz‐
+ku wynikającego z art. 33 ust. 1 rozporządzenia 2016/679 z uwagi na niezawia‐
+domienie organu nadzorczego o naruszeniu ochrony danych osobowych w ter‐
+minie 72 godzin od jego stwierdzenia. Decyzją z dnia 11 lutego 2021 r., sygn.
+DKN.5131.7.2020.111638, Prezes UODO nałożył na Spółkę administracyjną karę
+pieniężną w wysokości 136.437,- PLN za naruszenie tego przepisu rozporządze‐
+nia 2016/679. Powyższa decyzja, jak wspomniano w punkcie 2, została utrzyma‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+4.
+
+5.
+
+Strona 19 z 23
+
+na w mocy wyrokiem Wojewódzkiego Sądu Administracyjnego w W. z dnia (…)
+stycznia 2022 r., oddalającym skargę. Ponowne naruszenie przepisów rozporzą‐
+dzenia 2016/679 poprzez zaniechanie zawiadomienia Prezesa UODO o stwier‐
+dzonym naruszeniu ochrony danych osobowych świadczy o lekceważącym po‐
+dejściu Spółki do obowiązków związanych z przetwarzaniem danych osobowych,
+bagatelizowaniu incydentu i niedostrzeganiu jego skutku dla Podmiotu Danych.
+Naruszenie przepisów rozporządzenia 2016/679, będące przedmiotem niniejsze‐
+go postępowania, nie będące jak wskazano jednorazowym przypadkiem, zasłu‐
+guje na negatywną ocenę, której wyrazem jest nałożenie na Spółkę
+administracyjnej kary pieniężnej.
+Stopień współpracy z organem nadzorczym w celu usunięcia naruszenia oraz złago‐
+dzenia jego ewentualnych negatywnych skutków (art. 83 ust. 2 lit. f rozporządzenia
+2016/679).
+W niniejszej sprawie Prezes UODO uznał za niezadowalającą współpracę z nim
+ze strony Spółki. Ocena ta dotyczy reakcji Administratora na pisma Prezesa
+UODO informujące o obowiązkach ciążących na administratorze w związku z na‐
+ruszeniem ochrony danych, czy wreszcie wobec wszczęcia postępowania admi‐
+nistracyjnego w przedmiocie obowiązku zgłoszenia naruszenia ochrony danych
+osobowych i zawiadomienia o naruszeniu osoby, której dane dotyczą. Prawidło‐
+we w ocenie Prezesa UODO działania (zgłoszenie naruszenia Prezesowi UODO i
+zawiadomienie o nim osoby, której dotyczyło naruszenie) nie zostały podjęte
+przez Spółkę nawet po wszczęciu przez Prezesa UODO postępowania
+administracyjnego w sprawie.
+Kategorie danych osobowych, których dotyczyło naruszenie (art. 83 ust. 2 lit. g
+rozporządzenia 2016/679).
+Dane osobowe udostępnione osobie nieuprawnionej nie należą do szczególnych
+kategorii danych osobowych, o których mowa w art. 9 rozporządzenia
+2016/679, jednakże fakt, iż w udostępnionej umowie łączącej strony zawarto
+szeroki ich zakres (imię i nazwisko, dane teleadresowe, adres e-mail, numer
+ewidencyjny PESEL oraz dane związane z faktem zawarcia umowy i jej treścią),
+wiąże się z wysokim ryzykiem naruszenia praw lub wolności osób fizycznych.
+Numer PESEL, czyli jedenastocyfrowy symbol numeryczny, jednoznacznie iden‐
+tyfikujący osobę fizyczną, zawierający datę urodzenia, numer porządkowy,
+oznaczenie płci oraz liczbę kontrolną, a więc ściśle powiązany ze sferą prywatną
+osoby fizycznej oraz podlegający również, jako krajowy numer identyfikacyjny,
+wyjątkowej ochronie na gruncie art. 87 rozporządzenia 2016/679, jest daną o
+szczególnym charakterze i takiej szczególnej ochrony wymaga. Nie ma innej,
+tak konkretnej danej, która by w sposób jednoznaczny identyfikowała osobę fi‐
+zyczną. Nie bez powodu numer PESEL służy jako dana identyfikująca każdą oso‐
+bę i jest powszechnie używany w kontaktach z różnymi instytucjami oraz w
+obiegu prawnym. Numer PESEL wraz z imieniem i nazwiskiem w sposób jedno‐
+znaczny identyfikuje osobę fizyczną, w sposób pozwalający przypisać negatyw‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 20 z 23
+
+ne skutki naruszenia (np. kradzież tożsamości, wyłudzenie pożyczki) tej
+konkretnej osobie.
+Ustalając wysokość administracyjnej kary pieniężnej, Prezes UODO nie znalazł podstaw
+do uwzględnienia okoliczności łagodzących, mających wpływ na ostateczny wymiar kary.
+Wszystkie przesłanki wymienione w art. 83 ust. 2 lit. a)-j) rozporządzenia 2016/679 w
+ocenie organu nadzorczego stanowią albo przesłanki obciążające albo jedynie neutralne.
+Również stosując przesłankę wymienioną w art. 83 ust. 2 lit. k) rozporządzenia 2016/679
+(nakazującą wzięcie pod uwagę wszelkich innych obciążających lub łagodzących czynni‐
+ków mających zastosowanie do okoliczności sprawy) nie znaleziono żadnych okoliczności
+łagodzących, a jedynie neutralne (co zostało odnotowane poniżej w pkt 6 dotyczącym
+osiągniętych bezpośrednio lub pośrednio w związku z naruszeniem korzyści finansowych
+lub unikniętych strat.
+Inne, niżej wskazane okoliczności, o których mowa w art. 83 ust. 2 rozporządzenia
+2016/679, po dokonaniu oceny ich wpływu na stwierdzone w niniejszej sprawie narusze‐
+nie, zostały przez Prezesa UODO uznane za neutralne w jego ocenie, to znaczy nie mają‐
+ce ani obciążającego ani łagodzącego wpływu na wymiar orzeczonej administracyjnej
+kary pieniężnej:
+1. Działania podjęte przez administratora w celu zminimalizowania szkody poniesionej
+przez osoby, których dane dotyczą (art. 83 ust. 2 lit. c rozporządzenia 2016/679).
+Na postawie zgromadzonego w sprawie materiału dowodowego nie stwierdzono
+podjęcia przez Administratora takich działań.
+2. Stopień odpowiedzialności administratora z uwzględnieniem środków technicznych i
+organizacyjnych wdrożonych przez niego na mocy art. 25 i 32 (art. 83 ust. 2 lit. d
+rozporządzenia 2016/679).
+Naruszenie przepisów rozporządzenia 2016/679 oceniane w niniejszym postępo‐
+waniu (niezgłoszenie Prezesowi UODO naruszenia ochrony danych osobowych
+oraz niezawiadomienie o naruszeniu ochrony danych osobowych osób, których
+dane dotyczą) nie ma związku ze stosowanymi przez administratora środkami
+technicznymi i organizacyjnymi.
+3. Sposób w jaki organ nadzorczy dowiedział się o naruszeniu (art. 83 ust. 2 lit. h
+rozporządzenia 2016/679).
+Prezes UODO nie został poinformowany o naruszeniu ochrony danych osobo‐
+wych stanowiącym przedmiot niniejszej sprawy zgodnie z przewidzianą dla ta‐
+kich sytuacji procedurą określoną w art. 33 rozporządzenia 2016/679.
+O zaistnieniu przedmiotowego naruszenia związanego ze zdarzeniem polegają‐
+cym na udostępnieniu przez Administratora umowy zawierającej dane osobowe
+nieuprawnionemu odbiorcy, Prezes UODO został poinformowany przez Sąd
+Okręgowy w P., przed którym toczy się postępowanie z powództwa Klientki Spół‐
+ki w sprawie o roszczenie z tytułu naruszenia przepisów o ochronie danych oso‐
+bowych. Brak zgłoszenia organowi nadzorczemu naruszenia ochrony danych
+osobowych oraz zawiadomienia osoby, której dane dotyczą, o naruszeniu ochro‐
+ny danych osobowych, jest jedynym przedmiotem niniejszego postępowania i w
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+4.
+
+5.
+
+6.
+
+Strona 21 z 23
+
+okolicznościach rozważanego stanu faktycznego organ nadzorczy przyjął, że
+przesłanki tej nie potraktuje jako okoliczności obciążającej.
+Przestrzeganie wcześniej zastosowanych w tej samej sprawie środków, o których
+mowa w art. 58 ust. 2 rozporządzenia 2016/679 (art. 83 ust. 2 lit. i rozporządzenia
+2016/679).
+Przed wydaniem niniejszej decyzji Prezes UODO nie stosował wobec Administra‐
+tora w rozpatrywanej sprawie żadnych środków wymienionych w art. 58 ust. 2
+rozporządzenia 2016/679, w związku z czym Administrator nie miał obowiązku
+podejmowania żadnych działań związanych z ich stosowaniem, a które to dzia‐
+łania, poddane ocenie Prezesa UODO, mogłyby mieć obciążający lub łagodzący
+wpływ na ocenę stwierdzonego naruszenia.
+Stosowanie zatwierdzonych kodeksów postępowania na mocy art. 40 rozporządze‐
+nia 2016/679 lub zatwierdzonych mechanizmów certyfikacji na mocy art. 42 rozpo‐
+rządzenia 2016/679 (art. 83 ust 2 lit. j rozporządzenia 2016/679).
+Administrator nie stosuje instrumentów, o których mowa w art. 40 i art. 42 roz‐
+porządzenia 2016/679. Ich przyjęcie, wdrożenie i stosowanie nie jest jednak jak stanowią przepisy rozporządzenia 2016/679 - obowiązkowe dla administra‐
+torów i podmiotów przetwarzających, w związku z czym okoliczność ich niesto‐
+sowania nie może być w niniejszej sprawie poczytana na niekorzyść Administra‐
+tora. Na korzyść Administratora natomiast mogłaby być uwzględniona okolicz‐
+ność przyjęcia i stosowania tego rodzaju instrumentów jako środków gwarantu‐
+jących wyższy niż standardowy poziom ochrony przetwarzanych danych osobo‐
+wych.
+Osiągnięte bezpośrednio lub pośrednio w związku z naruszeniem korzyści finansowe
+lub uniknięte straty (art. 83 ust. 2 lit. k rozporządzenia 2016/679).
+Prezes UODO nie stwierdził, żeby Administrator w związku z naruszeniem od‐
+niósł jakiekolwiek korzyści finansowe lub uniknął tego rodzaju strat. Brak jest
+więc podstaw do traktowania tej okoliczności jako obciążającej Administratora.
+Stwierdzenie zaistnienia wymiernych korzyści finansowych wynikających z naru‐
+szenia przepisów rozporządzenia 2016/679 należałoby ocenić zdecydowanie ne‐
+gatywnie. Natomiast nieosiągnięcie przez Administratora takich korzyści, jako
+stan naturalny, niezależny od naruszenia i jego skutków, jest okolicznością, któ‐
+ra z istoty rzeczy nie może być łagodzącą dla Administratora. Potwierdza to
+samo sformułowanie przepisu art. 83 ust. 2 lit. k) rozporządzenia 2016/679,
+który nakazuje organowi nadzorczemu zwrócić należytą uwagę na korzyści
+„osiągnięte” - zaistniałe po stronie podmiotu dokonującego naruszenia.
+
+Prezes UODO nie dostrzega innych obciążających lub łagodzących czynników mających
+zastosowanie do okoliczności niniejszej sprawy.
+W ocenie Prezesa UODO zastosowana administracyjna kara pieniężna spełnia w ustalo‐
+nych okolicznościach niniejszej sprawy funkcje, o których mowa w art. 83 ust. 1 rozpo‐
+rządzenia 2016/679, tzn. jest w tym indywidualnym przypadku skuteczna,
+proporcjonalna i odstraszająca.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 22 z 23
+
+Biorąc pod uwagę administracyjną karę pieniężną nałożoną na Spółkę poprzednią
+decyzją Prezesa Urzędu Ochrony Danych Osobowych (sygn. DKN.5131.7.2020), należy
+przyjąć, że jej wysokość nie była skuteczna, dlatego Prezes UODO zdecydował się na
+zwiększenie wysokości kary nałożonej niniejszą decyzją. Kara będzie skuteczna, jeżeli jej
+nałożenie doprowadzi do tego, że Spółka, profesjonalnie i na skalę masową przetwarza‐
+jąca dane osobowe, w przyszłości będzie wywiązywała się ze swoich obowiązków z za‐
+kresu ochrony danych osobowych, w szczególności w zakresie zgłaszania naruszenia
+ochrony danych osobowych Prezesowi UODO oraz zawiadamiania o naruszeniu ochrony
+danych osobowych osób, których dotyczyło naruszenie.
+W ocenie Prezesa UODO administracyjna kara pieniężna spełni funkcję represyjną, jako
+że stanowić będzie odpowiedź na naruszenie przez Spółkę przepisów rozporządzenia
+2016/679. Będzie również spełniać funkcję prewencyjną; w ocenie Prezesa UODO wskaże
+bowiem zarówno Spółce, jak i innym administratorom danych, na naganność lekceważe‐
+nia obowiązków administratorów związanych z zaistnieniem naruszenia ochrony danych
+osobowych, a mających na celu przecież zapobieżenie jego negatywnym i często dotkli‐
+wym dla osób, których naruszenie dotyczy, skutkom, a także usunięcie tych skutków lub
+przynajmniej ograniczenie.
+Stosownie do treści art. 103 ustawy z dnia 10 maja 2018 r. o ochronie danych
+osobowych (Dz. U. z 2019 r., poz. 1781), zwanej dalej „uodo”, równowartość wyrażonych
+w euro kwot, o których mowa w art. 83 rozporządzenia 2016/679, oblicza się w złotych
+według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów
+na dzień 28 stycznia każdego roku, a w przypadku gdy w danym roku Narodowy Bank
+Polski nie ogłasza średniego kursu euro w dniu 28 stycznia - według średniego kursu
+euro ogłoszonego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego.
+Mając powyższe na uwadze, Prezes UODO, na podstawie art. 83 ust. 4 lit. a) w związku z
+art. 103 uodo, za naruszenie opisane w sentencji niniejszej decyzji, nałożył na Spółkę stosując średni kurs euro z dnia 30 stycznia 2023 r. (1 EUR = 4,7160 PLN)
+–
+administracyjną karę pieniężną w kwocie 282.960,-PLN (co stanowi równowartość
+60.000,-EUR).
+W ocenie Prezesa UODO, zastosowana kara pieniężna w wysokości 282.960,- PLN (słow‐
+nie: dwieście osiemdziesiąt dwa tysiące dziewięćset sześćdziesiąt złotych), spełnia w
+ustalonych okolicznościach niniejszej sprawy przesłanki, o których mowa w art. 83 ust. 1
+rozporządzenia 2016/679 ze względu na powagę stwierdzonego naruszenia w kontekście
+podstawowego celu rozporządzenia 2016/679 - ochrony podstawowych praw i wolności
+osób fizycznych, w szczególności prawa do ochrony danych osobowych. Odnosząc się do
+wysokości wymierzonej Spółce administracyjnej kary pieniężnej, Prezes UODO uznał, iż
+jest ona proporcjonalna do sytuacji finansowej Administratora i nie będzie stanowiła dla
+niego nadmiernego obciążenia. Z przedstawionego przez Administratora sprawozdania
+finansowego wynika, że przychody Spółki ze sprzedaży netto w 2022 r. wyniosły (…)
+PLN, w związku z czym kwota nałożonej w niniejszej sprawie administracyjnej kary pie‐
+niężnej stanowi ok. (…) % ww. kwoty wpływów. Jednocześnie warto podkreślić, że kwota
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.6.2023
+
+Strona 23 z 23
+
+nałożonej kary 282.960,00 PLN to jedynie ok. 0,11% maksymalnej wysokości kary, którą
+Prezes UODO mógł - stosując zgodnie z art. 83 ust. 4 rozporządzenia 2016/679 maksi‐
+mum kary w wysokości do 2% całkowitego rocznego obrotu z poprzedniego roku obroto‐
+wego (tj. 247.917.120,- PLN) - nałożyć na Spółkę za stwierdzone w niniejszej sprawie na‐
+ruszenia.
+Wysokość kary została bowiem określona na takim poziomie, aby z jednej strony stano‐
+wiła adekwatną reakcję organu nadzorczego na stopień naruszenia obowiązków admini‐
+stratora, z drugiej jednak strony nie powodowała sytuacji, w której konieczność uiszcze‐
+nia kary finansowej pociągnie za sobą negatywne następstwa, w postaci znaczącej re‐
+dukcji zatrudnienia bądź istotnego spadku obrotów Spółki. Zdaniem Prezesa UODO, Spół‐
+ka powinna i jest w stanie ponieść konsekwencje swoich zaniedbań w sferze ochrony da‐
+nych, o czym świadczy chociażby sprawozdanie finansowe Spółki, przesłane do Prezesa
+UODO w dniu 26 maja 2023 r.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+[1] Ww. wytyczne zaktualizowały i uzupełniły Wytyczne Grupy Roboczej Art. 29 doty‐
+czące zgłaszania naruszeń ochrony danych osobowych zgodnie z rozporządzeniem
+2016/679 (Wp250 rev.01), przyjęte w dniu 3 października 2017 r.
+[2] Wytyczne Europejskiej Rady Ochrony Danych 01/2021 w sprawie przykładów doty‐
+czących powiadomienia o naruszeniu danych osobowych przyjęte w dniu 14 grudnia
+2021 r., wersja 2.0 (dalej „Wytyczne EROD 01/2021”).
+[3] https://www.zbp.pl/getmedia/731d1b29-3b2d-4dcf-9310-20aec2923725/
+infodok-2022-07-09-wydanie-51-sklad-221025-gk06
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_6/content
+
+2025-09-03 13:29
+

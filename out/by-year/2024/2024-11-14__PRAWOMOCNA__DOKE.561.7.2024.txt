@@ -1,0 +1,343 @@
+Warszawa, 14 listopada 2024
+PRAWOMOCNA
+
+Decyzja
+DOKE.561.7.2024
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. 2024 r., poz. 572) w związku z art. 7 ust. 1 i 2 oraz art. 60
+ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz.
+1781) oraz na oraz na podstawie art. 57 ust. 1 lit. a) i lit. h), art. 58 ust. 2 lit. b) w
+związku z art. 31 oraz art. 58 ust. 1 lit. a) i lit. e) rozporządzenia Parlamentu Europejskie‐
+go i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)
+(Dz. Urz. UE L 119 z 4 maja 2016 r., str. 1, ze zmianami ogłoszonymi w Dz. Urz. UE L 127
+z 23 maja 2018 r., str. 2, oraz w Dz. Urz. UE L 74 z 4 marca 2021 r., str. 35), dalej jako:
+„rozporządzenie 2016/679”,
+po przeprowadzeniu postępowania administracyjnego w przedmiocie nałożenia admini‐
+stracyjnej kary pieniężnej na Samodzielny Publiczny Zakład Opieki Zdrowotnej w R. z
+siedzibą w R. przy ul. (…), Prezes Urzędu Ochrony Danych Osobowych
+udziela upomnienia Samodzielnemu Publicznemu Zakładowi Opieki Zdrowotnej w R. z
+siedzibą w R. przy ul. (…) za naruszenie przepisów art. 31 oraz art. 58 ust. 1 lit. a) i lit. e)
+rozporządzenia 2016/679, polegające na braku współpracy z Prezesem Urzędu Ochrony
+Danych Osobowych w ramach wykonywania przez niego jego zadań oraz niezapewnieniu
+Prezesowi Urzędu Ochrony Danych Osobowych dostępu do danych osobowych i informa‐
+cji niezbędnych do realizacji jego zadań w postępowaniu o sygn. (…).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2024:doke_561_7/content
+
+2025-09-03 13:21
+
+Decyzja DOKE.561.7.2024
+
+Strona 2 z 8
+
+Uzasadnienie
+
+Stan faktyczny
+Do Prezesa Urzędu Ochrony Danych Osobowych (dalej jako: „Prezes UODO”) w dniu 31
+sierpnia 2023 r. wpłynęło wstępne zgłoszenie naruszenia ochrony danych osobowych do‐
+konane przez Samodzielny Publiczny Zakład Opieki Zdrowotnej w R. z siedzibą w R. przy
+ul. (…) (dalej jako: „Administrator” lub „SP ZOZ”). Zgodnie z treścią zgłoszenia narusze‐
+nie polegało na omyłkowym załączeniu plików zawierających dane osobowe (…) zatrud‐
+nionych na podstawie (…) w SP ZOZ w pakiecie instalacyjnym systemu, którego dostaw‐
+cą jest S. S.A. z siedzibą w W. (podmiot przetwarzający). Wyjaśnienie tej kwestii wyma‐
+gało podjęcia dodatkowych działań, w szczególności pozyskania informacji o celach wy‐
+korzystywania systemu dostarczonego przez S. S.A., kategorii danych przetwarzanych w
+tym systemie, ilości osób w nim przetwarzanych, informacji, czy system ten jest użytko‐
+wany do chwili obecnej oraz czy Administrator uzyskał od S. S.A. precyzyjne informacje
+na temat konkretnych plików lub danych osobowych, które na skutek niezamierzonego
+pobierania do pakietu instalacyjnego systemu, zostały następnie ujawnione na rzecz
+podmiotu trzeciego (innego użytkownika systemu). W związku z tym, Prezes UODO trzy‐
+krotnie zwracał się do Administratora – pismami z: 12 października 2023 r., 21 listopada
+2023 r., 10 stycznia 2024 r. z żądaniem złożenia wyjaśnień w ww. zakresie. Ww. pisma,
+wysłane na adres siedziby Administratora ujawniony w Rejestrze Stowarzyszeń, Innych
+Organizacji Społecznych i Zawodowych, Fundacji oraz Samodzielnych Publicznych Zakła‐
+dów Opieki Zdrowotnej (tj. ul. (…), R.), zostały odebrane przez adresata – odpowiednio:
+19 października 2023 r., 24 listopada 2023 r., 15 stycznia 2024 r.
+Na wezwania organu nadzorczego zawarte w pismach z: 12 października 2023 r., 21 li‐
+stopada 2023 r. oraz 10 stycznia 2024 r. Administrator wprawdzie złożył wyjaśnienia
+pismami, które wpłynęły do Urzędu Ochrony Danych Osobowych (dalej jako „UODO”) 3
+listopada 2023 r. oraz 26 lutego 2024 r., jednakże wyjaśnienia te nie pozwoliły organowi
+nadzorczemu na wszechstronną ocenę zgłoszonego incydentu. Uwzględniając otrzymane
+informacje oraz potrzebę dokonania wszechstronnej oceny zgłoszonego incydentu, Pre‐
+zes UODO ponownie – pismami z 16 kwietnia 2024 r. i z 18 czerwca 2024 r. – zwrócił się
+do Administratora z żądaniem podjęcie stosownych działań mających na celu:
+1) ponowne i prawidłowe zawiadomienie osoby, której dane dotyczą o naruszeniu
+ochrony jej danych osobowych,
+2)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2024:doke_561_7/content
+
+2025-09-03 13:21
+
+Decyzja DOKE.561.7.2024
+
+3)
+4)
+
+Strona 3 z 8
+
+wskazanie imienia i nazwiska oraz danych kontaktowych inspektora ochrony danych
+lub oznaczenie innego punktu kontaktowego, od którego można uzyskać więcej in‐
+formacji,
+przekazanie tej osobie szczegółowych informacji dotyczących opisu możliwych
+konsekwencji naruszenia ochrony danych osobowych,
+wyeliminowanie podobnych nieprawidłowości w przyszłości.
+
+Wezwania te, skierowane na adres rejestrowy Administratora, zostały odebrane przez
+niego – odpowiednio: 19 kwietnia 2024 r. oraz 25 czerwca 2024 r. Mimo odbioru kore‐
+spondencji Administrator nie przedstawił żadnych wyjaśnień umożliwiających organowi
+dalsze procedowanie w sprawie, a także nie uzasadnił w żaden sposób zaistniałego po
+jego stronie zaniechania.
+Każde z ww. skierowanych do Administratora pism Prezesa UODO zawierało pouczenie o
+tym, że brak złożenia wyjaśnień w żądanym przez organ nadzorczy zakresie może skut‐
+kować nałożeniem na Administratora administracyjnej kary pieniężnej zgodnie z art. 83
+ust. 5 lit. e) rozporządzenia 2016/679.
+Powyższe okoliczności stanu faktycznego Prezes UODO ustalił na podstawie całokształtu
+korespondencji urzędowej, wystosowanej przez Prezesa UODO do Administratora, znaj‐
+dującej się w aktach postępowania o sygn. (…).Korespondencja ta odzwierciedla cało‐
+kształt prób uzyskania przez Prezesa UODO dostępu do danych osobowych i informacji
+niezbędnych do realizacji jego zadań – to jest do rozpatrzenia sprawy o sygn. (…).Z dru‐
+giej zaś strony, stanowi bezpośredni dowód braku współpracy Administratora z Prezesem
+UODO w ramach wykonywania przez niego jego zadań.
+
+Postępowanie
+W związku z nieudzieleniem przez Administratora wyczerpujących informacji niezbęd‐
+nych do zbadania sprawy o sygn. (…), Prezes UODO wszczął z urzędu – na podstawie art.
+83 ust. 5 lit. e) rozporządzenia 2016/679 – niniejsze postępowanie administracyjne o
+sygn. DOKE.561.7.2024, w przedmiocie nałożenia na Administratora administracyjnej
+kary pieniężnej, w związku z naruszeniem art. 31 oraz art. 58 ust. 1 lit. a) i lit. e) rozpo‐
+rządzenia 2016/679. O wszczęciu postępowania Administrator został poinformowany pi‐
+smem z 01 października 2024 r. (sygn. DOKE.561.7.2024), doręczonym Administratorowi
+3 października 2024 r. Pismem tym, Administrator został poinformowany, że okoliczność
+złożenia wyczerpujących wyjaśnień, o które Prezes UODO uprzednio zwracał się do niego
+w postępowaniu o sygn. (…), może wpłynąć łagodząco na wymiar wymierzonej w niniej‐
+szym postępowaniu administracyjnej kary pieniężnej bądź spowodować odstąpienie od
+jej nałożenia.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2024:doke_561_7/content
+
+2025-09-03 13:21
+
+Decyzja DOKE.561.7.2024
+
+Strona 4 z 8
+
+W odpowiedzi na informację o wszczęciu przez Prezesa UODO postępowania w przed‐
+miocie nałożenia administracyjnej kary pieniężnej – pismem z 17 października 2024 r.
+oraz pismem z 30 października 2024 r. – pełnomocnik Administratora (pełnomocnictwo w
+aktach sprawy o sygn. DOKE.561.7.2024) uzupełnił złożone wcześniej wyjaśnienia, m.in.
+o informację o ponownym zawiadomieniu osoby, której dane dotyczą o naruszeniu jej
+danych osobowych. Osoba ta zawiadomiona została o naruszeniu jej danych osobowych
+pismem z 18 kwietnia 2024 r., które doręczone zostało jej osobiście na spotkaniu w SP
+ZOZ. Dodatkowo inspektor ochrony danych osobowych obecny na tym spotkaniu wytłu‐
+maczył osobie, której dane zostały naruszone na czym polegało naruszenie jej danych
+osobowych, wskazał potencjalne zagrożenia wynikające z naruszenia, a także jakie kroki
+należy podjąć w celu zabezpieczenia się przed negatywnymi skutkami tego incydentu.
+Ponadto, pełnomocnik Administratora złożył dodatkowe wyjaśnienia dotyczące m.in.
+podstawy współpracy SP ZOZ z S. S.A. z siedzibą w W. (podmiot przetwarzający), tj.
+dostawcą systemu, którego naruszenie dotyczyło.
+W kwestii naruszenia art. 31 oraz art. 58 ust. 1 lit. a) i lit. e) rozporządzenia 2016/679,
+pełnomocnik Administratora oświadczył, że brak właściwej współpracy z Prezesem
+UODO, spowodowany był jedynie względami technicznymi, które zaistniały w SP ZOZ.
+Pełnomocnik SP ZOZ przygotowujący treść odpowiedzi na wezwania Prezesa UODO z 16
+kwietnia 2024 r. oraz z 18 czerwca 2024 r. przesłał je drogą elektroniczną (e-mail) na
+skrzynkę odbiorczą Administratora w postaci pliku. Filtr ochronny stosowany przez pełno‐
+mocnika spowodował, że Microsoft Outlook zablokował do niego dostęp jako potencjalnie
+niebezpiecznego. Administrator ma świadomość, że ww. okoliczność nie stanowi wytłu‐
+maczenia „bierności” SP ZOZ na wezwania Prezesa UODO ale pokazuje, że w zachowa‐
+niu Administratora nie zaistniał świadomy i celowy brak woli współpracy w zapewnieniu
+organowi nadzorczemu dostępu do wszelkich informacji niezbędnych do rozstrzygnięcia
+sprawy. Administrator wyjaśnił także, że w odpowiedzi na wezwanie Prezesa UODO z 16
+kwietnia 2024 r. (sygn. (…)) nakazujące ponowne zawiadomienie osoby, której dane do‐
+tyczą, o naruszeniu ochrony jej danych osobowych zostało niezwłocznie przez SP ZOZ
+wykonane (dowód: pismo z 18 kwietnia 2024 r. doręczone osobie, której dane dotyczą, o
+naruszeniu ochrony jej danych osobowych). Oznacza to, że Administrator poprzez ww.
+zachowanie przejawiał wolę wywiązania się z ciążących na nim obowiązków. Administra‐
+tor ma świadomość, że niezłożenie wyjaśnień Prezesowi UODO na wezwanie z 16 kwiet‐
+nia 2024 r. oraz z 18 czerwca 2024 r. we wskazanym przez niego terminie stanowi naru‐
+szenie art. 31 rozporządzenia 2016/679. Jednak podjęta przez niego współpraca wyklu‐
+cza lekceważący stosunek do prowadzonego przez organ ochrony danych postępowania
+(sygn. (…)). Obecnie SP ZOZ udzielił Prezesowi UODO odpowiedzi na wszystkie wezwa‐
+nia do niego skierowane. W związku z tym, że Administrator podjął współpracę z orga‐
+nem nadzorczym poprzez udzielenie odpowiedzi na wszystkie ww. wezwania, wyrażając
+czynny żal wniósł prośbę do Prezesa UODO o odstąpienie od nałożenia na niego admini‐
+stracyjnej kary pieniężnej za uchybienie obowiązkom wynikającym z art. 31 oraz art. 58
+ust. 1 lit. a) i lit. e) rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2024:doke_561_7/content
+
+2025-09-03 13:21
+
+Decyzja DOKE.561.7.2024
+
+Strona 5 z 8
+
+Po zapoznaniu się z całością materiału dowodowego zebranego w sprawie, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+
+Przepisy prawne
+Zgodnie z art. 57 ust. 1 lit. a) rozporządzenia 2016/679, Prezes UODO, jako organ nad‐
+zorczy w rozumieniu art. 51 rozporządzenia 2016/679, na swoim terytorium monitoruje i
+egzekwuje stosowanie tego rozporządzenia. W ramach swoich kompetencji Prezes UODO
+m. in. prowadzi postępowania w sprawie stosowania niniejszego rozporządzenia, w tym
+na podstawie informacji otrzymanych od innego organu nadzorczego lub innego organu
+publicznego (art. 57 ust. 1 lit. h) rozporządzenia 2016/679).
+Dla umożliwienia realizacji tak określonych zadań Prezesowi UODO przysługuje szereg
+określonych w art. 58 ust. 1 rozporządzenia 2016/679 uprawnień w zakresie prowadzo‐
+nych postępowań, w tym uprawnienie do nakazania administratorowi i podmiotowi prze‐
+twarzającemu dostarczenia wszelkich informacji potrzebnych do realizacji jego zadań
+(art. 58 ust. 1 lit. a) rozporządzenia 2016/679) oraz uprawnienie do uzyskania od admini‐
+stratora i podmiotu przetwarzającego dostępu do wszelkich danych osobowych i wszel‐
+kich informacji niezbędnych do realizacji jego zadań (art. 58 ust. 1 lit. e) rozporządzenia
+2016/679).
+Naruszenie przepisów rozporządzenia 2016/679, polegające na niezapewnieniu przez or‐
+gan publiczny będący administratorem lub podmiotem przetwarzającym dostępu do da‐
+nych i informacji, o których mowa powyżej, skutkującym naruszeniem uprawnień organu
+określonych w art. 58 ust. 1 rozporządzenia 2016/679 (w tym uprawnień do uzyskania
+danych osobowych i informacji niezbędnych do realizacji jego zadań oraz do uzyskania
+dostępu do pomieszczeń, sprzętu i środków służących do przetwarzania danych), podle‐
+gać zaś może – zgodnie z art. 83 ust. 5 lit e) in fine rozporządzenia 2016/679 w związku
+z art. 102 ust. 1 i 3 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U.
+z 2019 r. poz. 1781), zwanej dalej „u.o.d.o.” – administracyjnej karze pieniężnej w wyso‐
+kości do 100 000 złotych. Wskazać należy ponadto, że administrator i podmiot przetwa‐
+rzający obowiązani są współpracować z organem nadzorczym w ramach wykonywania
+przez niego zadań, o czym stanowi art. 31 rozporządzenia 2016/679. Niewywiązanie się
+z tego obowiązku również zagrożone jest - zgodnie z art. 83 ust. 4 lit. a) rozporządzenia
+2016/679 w związku z art. 102 ust. 1 i 3 u.o.d.o. – administracyjną karą pieniężną w
+wysokości do 100 000 złotych.
+Prezesowi UODO przysługuje ponadto szereg określonych w art. 58 ust. 2 rozporządzenia
+2016/679 uprawnień naprawczych, w tym prawo udzielenia upomnienia administratoro‐
+wi lub podmiotowi przetwarzającemu w przypadku naruszenia przepisów rozporządzenia
+2016/679 przez operacje przetwarzania. Zgodnie z motywem 148 rozporządzenia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2024:doke_561_7/content
+
+2025-09-03 13:21
+
+Decyzja DOKE.561.7.2024
+
+Strona 6 z 8
+
+2016/679, aby egzekwowanie jego przepisów było skuteczniejsze, należy za jego naru‐
+szenie nakładać sankcje, w tym administracyjne kary pieniężne – oprócz lub zamiast od‐
+powiednich środków nakładanych na mocy rozporządzenia 2016/679 przez organ nad‐
+zorczy. Jeżeli naruszenie jest niewielkie, karę pieniężną można zastąpić upomnieniem.
+Powinno się jednak zwrócić uwagę na charakter, wagę oraz czas trwania naruszenia, na
+to, czy naruszenie nie było umyślne, na działania podjęte przez administratora dla zmini‐
+malizowania szkody, na stopień odpowiedzialności lub wszelkie mające znaczenie wcze‐
+śniejsze naruszenia, na sposób, w jaki organ nadzorczy dowiedział się o naruszeniu, na
+przestrzeganie środków nałożonych na administratora lub podmiot przetwarzający, na
+stosowanie kodeksów postępowania oraz wszelkie inne czynniki obciążające lub łagodzą‐
+ce.
+Stosownie do art. 60 u.o.d.o. postępowanie w sprawie naruszenia przepisów o ochronie
+danych osobowych jest prowadzone przez Prezesa UODO. Z kolei art. 7 ust. 1 u.o.d.o.
+stanowi, że w sprawach nieuregulowanych w tej ustawie do postępowań administracyj‐
+nych przed Prezesem UODO (w tym w postępowaniach w przedmiocie nałożenia admini‐
+stracyjnej kary pieniężnej, o których mowa w Rozdziale 11 u.o.d.o.) stosuje się przepisy
+ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. 2024
+r., poz. 572), zwanej dalej: „k.p.a.”. Zgodnie z art. 7 ust. 2 u.o.d.o. postępowania te są
+postępowaniami jednoinstancyjnymi.
+
+Ocena prawna
+Odnosząc przytoczone powyżej przepisy rozporządzenia 2016/679 do ustalonego w ni‐
+niejszej sprawie stanu faktycznego stwierdzić należy, że Administrator, jako strona po‐
+stępowania o sygn. (…), poprzez brak udzielenia merytorycznej odpowiedzi na wezwania
+(pisma z 16 kwietnia 2024 r. i z 18 czerwca 2024 r.) Prezesa UODO do złożenia wyjaśnień
+naruszył obowiązek współpracy z organem nadzorczym oraz obowiązek zapewnienia Pre‐
+zesowi UODO dostępu do informacji niezbędnych do realizacji jego zadań – wynikające z
+art. 31 oraz 58 ust. 1. lit. a) i lit. e) rozporządzenia 2016/679.
+Uniemożliwianie uzyskania dostępu do wszystkich informacji, których Prezes UODO żądał
+od Administratora, a które niewątpliwie były w jego posiadaniu, stało na przeszkodzie
+wnikliwemu rozpatrzeniu sprawy i skutkowało nieuzasadnionym przedłużaniem postępo‐
+wania, co stoi z kolei w sprzeczności z podstawowymi zasadami rządzącymi postępowa‐
+niem administracyjnym – określonymi w art. 12 ust. 1 k.p.a. zasadami wnikliwości i
+szybkości postępowania.
+W toku postępowania o sygn. (…) Prezes UODO kilkakrotnie wzywał Administratora do
+przedłożenia informacji niezbędnych do dokonania oceny zgłoszonego naruszenia. Pierw‐
+sze trzy pisma spośród wystosowanych do Administratora pism, doręczone mu odpo‐
+wiednio w dniach: 19października 2023 r., 24 listopada 2023 r. oraz 15 stycznia 2024 r.,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2024:doke_561_7/content
+
+2025-09-03 13:21
+
+Decyzja DOKE.561.7.2024
+
+Strona 7 z 8
+
+zawierały wezwanie do złożenia wyjaśnień dotyczących wstępnego zgłoszenia narusze‐
+nia ochrony danych osobowych. Administrator wprawdzie złożył wyjaśnienia pismami,
+które wpłynęły do UODO 3 listopada 2023 r. oraz 26 lutego 2024 r., jednakże wyjaśnienia
+te nie pozwoliły organowi nadzorczemu na wszechstronną ocenę zgłoszonego incydentu.
+Kolejnymi dwoma pismami: z 16 kwietnia 2024 r. i z 18 czerwca 2024 r. wystosowanymi
+w sprawie Prezes UODO zwrócił się do Administratora z żądaniem uzupełnienia złożo‐
+nych wyjaśnień. Pisma te – doręczone Administratorowi odpowiednio 19 kwietnia 2024 r.
+oraz 25 czerwca 2024 r. – pozostały bez żadnej reakcji z jego strony. Okoliczność dorę‐
+czenia ww. korespondencji uzasadnia przekonanie, że Administrator miał obiektywną
+możliwość zapoznania się z treścią kierowanych do niego pism oraz udzielenia na nie od‐
+powiedzi w zakreślonym przez organ nadzorczy terminie. Opisywane zaniechanie Admi‐
+nistratora, bezsporne wobec zgromadzonego w niniejszej sprawie materiału dowodowe‐
+go, spowodowało konieczność wszczęcia niniejszego postępowania w przedmiocie nało‐
+żenia administracyjnej kary pieniężnej. Dopiero bezpośredni kontakt telefoniczny zaini‐
+cjowany przez pracownika UODO spowodował, że Administrator wznowił współpracę z
+Prezesem UODO i pismem z 17października 2024 r. oraz pismem z 30 października 2024
+r. pełnomocnik Administratora udzielił żądanych wyjaśnień – co pozwoliło Prezesowi
+UODO na dalsze prowadzenie czynności w ww.sprawie.
+Uwzględniając powyższe ustalenia nie budzi wątpliwości fakt, że Administrator swoim za‐
+chowaniem dopuścił się naruszenia przepisów rozporządzenia 2016/679. Przedstawione
+przez pełnomocnika Administratora uzasadnienie braku odpowiedzi na wezwania Preze‐
+sa UODO, choć wiarygodne oraz mające istotny wpływ na ocenę zachowania Administra‐
+tora w kontekście wyboru zastosowanej wobec niego w niniejszym postępowaniu sankcji,
+nie zdejmuje bowiem z niego odpowiedzialności za stwierdzone zaniechanie. Wynika to z
+faktu, że na Administratorze spoczywa ciężar zapewnienia takiego obiegu koresponden‐
+cji przesyłanej także za pomocą elektronicznej poczty wewnątrz organizacji Administra‐
+tora, który zezwoli na efektywne oraz terminowe wywiązywanie się z nałożonych na nie‐
+go obowiązków, w tym przypadku udzielenia odpowiedzi na wezwanie Prezesa UODO w
+ramach postępowania o sygn. (…).
+Mimo oczywistego zaniedbania po stronie Administratora, Prezes UODO stanął na stano‐
+wisku, że stwierdzone naruszenie, polegające na braku współpracy z Prezesem UODO w
+ramach wykonywania przez niego jego zadań oraz niezapewnieniu Prezesowi UODO do‐
+stępu do danych osobowych i informacji niezbędnych do realizacji jego zadań – jakkol‐
+wiek wysoce naganne – zostało przez Administratora usunięte niezwłocznie po powzięciu
+informacji o niniejszym postepowaniu w przedmiocie nałożenia administracyjnej kary
+pieniężnej, tj. z chwilą wpłynięcia do UODO w dniu 17 października 2024 r. oraz 30 paź‐
+dziernika 2024 r. kolejnych wyjaśnień Administratora. Składając szczegółowe wyjaśnie‐
+nia, Administrator wykazał aktywną postawę oraz gotowość do dalszej współpracy z or‐
+ganem nadzorczym, zarówno w niniejszym postępowaniu, jak i w ewentualnych przy‐
+szłych postępowaniach wszczętych przez Prezesa UODO, których Administrator byłby
+stroną. Prowadzi to do wniosku, że brak odpowiedzi Administratora na wezwania Prezesa
+UODO nie wynikał ze złej woli Administratora i nie miał na celu świadomego utrudniania
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2024:doke_561_7/content
+
+2025-09-03 13:21
+
+Decyzja DOKE.561.7.2024
+
+Strona 8 z 8
+
+prowadzonego przez organ nadzorczy postępowania. W ocenie Prezesa UODO, samo już
+wszczęcie postępowania w przedmiocie nałożenia administracyjnej kary pieniężnej oraz
+realna perspektywa wymierzenia kary finansowej stały się dla Administratora wyraźnym
+sygnałem tego, iż dalsze uchylanie się od obowiązków nałożonych przepisami rozporzą‐
+dzenia 2016/679, nieuchronnie prowadziło będzie do zastosowania wobec niego
+najsurowszych, przewidzianych tymi przepisami sankcji.
+Mając powyższe na uwadze, Prezes UODO uznał za uzasadnione udzielenie Administrato‐
+rowi upomnienia w zakresie stwierdzonego naruszenia art. 31 oraz art. 58 ust. 1 lit. a) i
+lit. e) rozporządzenia 2016/679, przyjmując jednocześnie, że w świetle kryteriów określo‐
+nych w art. 83 ust. 2 rozporządzenia 2016/679 będzie ono skuteczne i wystarczające.
+Należy jednak zauważyć, że w przypadku zaistnienia podobnego zdarzenia w przyszłości,
+każde upomnienie wydane przez Prezesa UODO wobec Administratora będzie uwzględ‐
+nione przy ocenie przesłanek warunkujących zasadność wymierzenia kary administracyj‐
+nej, zgodnie z zasadami określonymi w art. 83 ust. 2 rozporządzenia 2016/679 i
+poczytywane będzie na jego niekorzyść.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął jak w sentencji niniejszej
+decyzji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2024:doke_561_7/content
+
+2025-09-03 13:21
+

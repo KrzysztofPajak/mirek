@@ -1,0 +1,1483 @@
+Warszawa, 30 listopada 2023
+NIEPRAWOMOCNA
+
+Decyzja
+DKN.5131.26.2023
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania
+administracyjnego (Dz.U. z 2023 r. poz. 775) w związku z art. 7 ust. 1, art. 60 oraz art.
+102 ust. 1 pkt 1 i ust. 3 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych
+(Dz.U. z 2019 r. poz. 1781), zwanej dalej „ustawą z dnia 10 maja 2018 r.”, a także art. 57
+ust. 1 lit. a) i h), art. 58 ust. 2 lit. i), art. 83 ust. 1 – 3, art. 83 ust. 4 lit. a) w związku z art.
+24 ust. 1, art. 25 ust. 1, art. 32 ust. 1 i 2 oraz art. 83 ust. 5 lit. a) w związku z art. 5 ust. 1
+lit. f) i art. 5 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia
+27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem da‐
+nych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z
+04.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z
+04.03.2021, str. 35), zwanego dalej „rozporządzeniem 2016/679”,
+po przeprowadzeniu wszczętego w urzędu postępowania administracyjnego w sprawie
+naruszenia przepisów o ochronie danych osobowych przez Szkołę (…) w K. z siedzibą w
+K. przy al. (…), Prezes Urzędu Ochrony Danych Osobowych,
+stwierdzając naruszenie przez Szkołę (…) w K. z siedzibą w K. przy al. (…) przepisów art.
+5 ust. 1 lit. f) i ust. 2, art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia
+2016/679, polegające na niewdrożeniu:
+1) odpowiednich środków technicznych i organizacyjnych zapewniających bezpieczeń‐
+stwo danych osobowych przetwarzanych w aplikacji I., będącej modułem systemu
+informatycznego R., oraz ochronę praw osób, których dane dotyczą;
+2) odpowiednich środków technicznych i organizacyjnych w celu zapewnienia regular‐
+nego testowania, mierzenia i oceniania skuteczności środków technicznych i organi‐
+zacyjnych mających zapewnić bezpieczeństwo danych osobowych przetwarzanych
+w aplikacji I., będącej modułem systemu informatycznego R., w szczególności w za‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 2 z 29
+
+kresie podatności, błędów oraz ich możliwych skutków dla tych systemów oraz pod‐
+jętych działań minimalizujących ryzyko ich wystąpienia, skutkującym naruszeniem
+zasady integralności i poufności (art. 5 ust. 1 lit. f) rozporządzenia 2016/679) oraz
+zasady rozliczalności (art. 5 ust. 2 rozporządzenia 2016/679),
+nakłada na Szkołę (…) w K. z siedzibą w K. przy al. (…), za naruszenie przepisów art. 5
+ust. 1 lit. f) i ust. 2, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679, admini‐
+stracyjną karę pieniężną w kwocie 35 000 PLN (słownie: trzydziestu pięciu tysięcy zło‐
+tych).
+
+Uzasadnienie
+Szkoła (…) w K. z siedzibą w K. przy al. (…), zwana dalej także „XYZ” lub „Uczelnią”, jest
+publiczną uczelnią akademicką w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o
+szkolnictwie wyższym i nauce (Dz.U. z 2022 r. poz. 574), działającą na podstawie Statutu
+Szkoły (…) w K., którego tekst jednolity stanowi załącznik do obwieszczenia nr (…)
+Rektora Szkoły (…) w K. z dnia (…) kwietnia 2022 r.
+W dniu 18 września 2022 r. do Prezesa Urzędu Ochrony Danych Osobowych, zwanego
+dalej także „Prezesem UODO” lub „organem nadzorczym”, wpłynęło wstępne zgłoszenie
+naruszenia ochrony danych osobowych, o którym mowa w art. 4 pkt 12 rozporządzenia
+2016/679, dokonane w trybie art. 33 rozporządzenia 2016/679 przez XYZ, jako admini‐
+stratora w rozumieniu art. 4 pkt 7 rozporządzenia 2016/679, które zostało
+zarejestrowane pod sygnaturą DKN.5130.10053.2022. W dniu 23 września 2022 r. Uczel‐
+nia dokonała zgłoszenia uzupełniającego, uszczegóławiając przedłożone wstępnie wyja‐
+śnienia. Naruszenie ochrony danych osobowych polegało na niezamierzonym ujawnieniu
+w sieci Internet informacji zgromadzonych w zasobach zarządzanej przez Uczelnię apli‐
+kacji I., będącej modułem systemu informatycznego R., skutkującym naruszeniem ich
+poufności oraz – w konsekwencji – uzyskaniem przez osoby trzecie nieuprawnionego do‐
+stępu do przetwarzanych w ten sposób danych osobowych dotyczących (…) studentów,
+absolwentów i byłych studentów (osób skreślonych z listy studentów) XYZ.
+Do naruszenia ochrony danych osobowych doszło w następstwie błędu popełnionego w
+ramach prac programistycznych, mających na celu przeniesienie systemu R. na nowy
+serwer produkcyjny, podczas których kontrola dostępu do przetwarzanych w systemie
+danych osobowych została wyłączona. XYZ wyjaśniła w treści zgłoszenia, że „w momen‐
+cie rozpoczęcia prac programistycznych nie była jeszcze odpowiednio skonfigurowana
+usługa L. Aby prace mogły być prowadzone dopuszczono na serwerze deweloperskim
+możliwość nieautoryzowanego wywoływania podstron panelu administratora w module
+I.”, jednakże zmiana ta „została przeoczona i wprowadzona na serwer produkcyjny, a
+wykonane testy nie wykazały błędnego działania systemu”. Incydent doprowadził do za‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 3 z 29
+
+indeksowania niezabezpieczonych danych przez wyszukiwarkę internetową Z., stwarza‐
+jąc możliwość niezgodnego z prawem przetwarzania ich przez osoby trzecie.
+Naruszenie ochrony danych osobowych objęło następujące kategorie danych osobo‐
+wych: imię, nazwisko, imiona rodziców, data urodzenia, płeć, adres zamieszkania lub po‐
+bytu, numer ewidencyjny PESEL, adres e-mail, nazwisko rodowe matki, numer telefonu,
+login, numer albumu, informacje o dowodzie osobistym lub paszporcie (seria i numer do‐
+kumentu, kraj wydania, organ wydający, data wydania, data ważności), obywatelstwo,
+narodowość, fakt posiadania Karty Polaka, tryb, poziom i kierunek studiów, poziom
+znajomości języka obcego, średnia ocen, liczba uzyskanych punktów.
+W dniu 5 października 2022 r., działając na podstawie art. 58 ust. 1 lit. a) i e) rozporzą‐
+dzenia 2016/679, Prezes UODO skierował do Uczelni wezwanie do złożenia dodatkowych
+wyjaśnień w sprawie, tj. m.in. wskazania, na czym polegały testy zmian wprowadzonych
+na serwer produkcyjny oraz kto – i w oparciu o jakie procedury – je realizował, czy przed
+wystąpieniem naruszenia ochrony danych osobowych, jak i po jego wystąpieniu, Uczel‐
+nia przeprowadzała analizę ryzyka dla operacji przetwarzania danych, w ramach których
+doszło do naruszenia ochrony danych osobowych, a także w jaki sposób wyszukiwarka Z.
+zaindeksowała dane zgromadzone w zasobach aplikacji I.
+Pismem z dnia 3 listopada 2022 r. XYZ udzieliła odpowiedzi na zadane pytania,
+wskazując m.in., że ww. zmiany testował „sam programista”, zaś „druga osoba z zespołu
+(…) sprawdziła, czy aplikacja działa poprawnie”, a także deklarując, iż „przygotowywana
+jest w tej chwili procedura wykonywania testów” oraz „wprowadzane jest code review
+wykonywane przez innego programistę przed przekazaniem na produkcję nowych wersji
+systemów”. Uczelnia poinformowała także, że „[p]rzed wystąpieniem naruszenia analiza
+ryzyka nie była prowadzona w sposób sformalizowany”, jednocześnie przedkładając w
+załączeniu „Raport (…)” z dnia (…) listopada 2022 r., przygotowany po wystąpieniu naru‐
+szenia ochrony danych osobowych, XYZ przekazała również wyjaśnienia otrzymane od
+operatora wyszukiwarki Z.
+W związku z powyższym, celem dokonania dodatkowych ustaleń w sprawie, w dniach
+14-18 listopada 2022 r., na podstawie art. 78 ust. 1, art. 79 ust. 1 oraz art. 84 ust. 1 pkt
+1 ustawy z dnia 10 maja 2018 r. w związku z art. 57 ust. 1 lit. a) i h) oraz art. 58 ust. 1 lit.
+b), e) i f) rozporządzenia 2016/679, na Uczelni przeprowadzona została kontrola zgodno‐
+ści przetwarzania danych osobowych z przepisami o ochronie danych osobowych, tj. z
+rozporządzeniem 2016/679 i ustawą z dnia 10 maja 2018 r., która została
+zarejestrowana pod sygnaturą DKN.5112.37.2022. Zakresem kontroli objęto przetwarza‐
+nie przez XYZ danych osobowych w związku z naruszeniem ochrony danych osobowych
+zgłoszonym organowi nadzorczemu. W toku kontroli odebrano od pracowników Uczelni
+ustne wyjaśnienia, a także dokonano oględzin systemu informatycznego R. oraz aplikacji
+I. Poczynione ustalenia szczegółowo opisano w protokole kontroli podpisanym przez
+kanclerza XYZ, tj. osobę upoważnioną do reprezentowania Uczelni.
+W związku z dokonanymi ustaleniami w dniu 9 sierpnia 2023 r. Prezes UODO wszczął z
+urzędu postępowanie administracyjne w przedmiocie możliwości naruszenia przez Uczel‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 4 z 29
+
+nię, jako administratora danych, przepisów art. 5 ust. 1 lit. f) i ust. 2, art. 24 ust. 1, art.
+25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679. Postępowanie w sprawie
+zostało zarejestrowane pod sygnaturą DKN.5131.26.2023.
+Jednocześnie, pismem z dnia 9 sierpnia 2023 r., Prezes UODO zwrócił się do XYZ o
+przedłożenie wyników „zewnętrznego audytu bezpieczeństwa kodu aplikacji” przeprowa‐
+dzonego w 2020 r., o którym Uczelnia poinformowała w treści zgłoszenia naruszenia
+ochrony danych osobowych, a także o wskazanie, czy dane dotyczące zdrowia (niepełno‐
+sprawności), zbierane przez XYZ na etapie przedwyjazdowym w związku z rejestracją
+studentów na wyjazdy organizowane w ramach międzynarodowej wymiany studenckiej
+w celu realizacji przysługujących im świadczeń, przetwarzane były za pośrednictwem
+aplikacji I., a jeśli tak – czy dane te zostały objęte przedmiotowym naruszeniem ochrony
+danych osobowych.
+W piśmie z dnia 31 sierpnia 2023 r. Uczelnia wyjaśniła, że „(…) moduł ten nigdy nie był
+wykorzystywany przez XYZ na etapie przedwyjazdowym (który jest etapem chronolo‐
+gicznie późniejszym niż etap rekrutacji) w celu zbierania danych o stanie zdrowia. (…)
+XYZ nigdy nie przetwarzała, w tym nie zbierała w przeszłości i nie przetwarza obecnie
+danych osobowych o niepełnosprawności na etapie rekrutacji na wyjazd na studia za
+granicą za pomocą modułu I.”, w związku z czym „(…) dane osobowe o niepełnospraw‐
+ności nie były objęte naruszeniem będącym przedmiotem niniejszego postępowania
+(…)”. Ponadto Uczelnia przekazała Prezesowi UODO „kopię raportu z zewnętrznego au‐
+dytu bezpieczeństwa kodu aplikacji w zakresie odnoszącym się do modułu I.”.
+Pismem z dnia 28 września 2023 r. organ nadzorczy ponownie wezwał XYZ do złożenia
+dodatkowych wyjaśnień w sprawie, tj. ponownego przedstawienia liczby osób objętych
+przedmiotowym naruszeniem ochrony danych osobowych oraz wskazania, w jaki sposób
+i na jakiej podstawie Uczelnia dokonała ustaleń w tym zakresie. W odpowiedzi, w ramach
+pisma z dnia 9 października 2023 r., Uczelnia podtrzymała przedstawione w zgłoszeniu
+uzupełniającym stanowisko dotyczące liczby osób objętych przedmiotowym narusze‐
+niem ochrony danych osobowych, wskazując, iż liczbę tę ustalono na podstawie „analizy
+logów będących zapisem ruchu sieciowego oraz aplikacyjnego”, którą „prowadziły dwa
+niezależne zespoły, na podstawie numerów rekrutacji, których adresy URL były otwiera‐
+ne, co świadczyło o potencjalnym dostępie do wszystkich danych znajdujących się w
+danej rekrutacji”. Uczelnia wyjaśniła, że „dostęp do danych był bezpośrednio na stronie
+systemu lub w eksportowanym pliku z danej rekrutacji, jeżeli w logach nie było informa‐
+cji o dostępie do rekrutacji, dane w niej zawarte nie zostały odczytane. Nie było bezpo‐
+średniego dostępu do bazy danych czy jej kopii zapasowej. Analiza trwała od momentu
+wystąpienia zdarzenia do przekazania zgłoszenia uzupełniającego, analizowano zapisy w
+systemie S. (…) oraz lokalne logi aplikacji I. i urządzeń sieciowych”.
+Ponadto w treści ww. pisma XYZ przedstawiła swoje stanowisko wobec otrzymanego za‐
+wiadomienia o wszczęciu postępowania administracyjnego z dnia 9 sierpnia 2023 r.
+Organ nadzorczy dokonał oceny materiału dowodowego pod kątem zbadania jego wiary‐
+godności i mocy dowodowej. Prezes UODO uznał całość przedłożonych przez Uczelnię
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 5 z 29
+
+dowodów za wiarygodne. Za powyższym przemawia fakt, iż poszczególne wyjaśnienia
+przedłożone przez Uczelnię są logiczne, spójne i korelują z całością materiału dowodowe‐
+go.
+W oparciu o materiał dowodowy zgromadzony w ramach postępowania wyjaśniającego
+oraz postępowania administracyjnego, a także w toku przeprowadzonej kontroli, organ
+nadzorczy dokonał następujących ustaleń w zakresie stanu faktycznego:
+1. Charakter, zakres, kontekst i cele przetwarzania.
+–
+Uczelnia oferuje swoim studentom możliwość wzięcia udziału w programach
+międzynarodowej wymiany studenckiej, takich jak CEMS Master’s in Internatio‐
+nal Management (CEMS MIM), Erasmus+, The Partnership in International Mana‐
+gement (PIM) oraz innych, opartych na umowach bilateralnych. Zgodnie z Regu‐
+laminem (…), stanowiącym załącznik do Zarządzenia Rektora nr (…) z dnia (…)
+grudnia 2020 r., jednostką administracyjną Uczelni odpowiedzialną za organiza‐
+cję i rozwój międzynarodowej wymiany studentów, doktorantów i pracowników
+XYZ jest Centrum Współpracy Międzynarodowej.
+–
+W celu wsparcia procesu rejestracji studentów XYZ na wyjazdy organizowane w
+ramach wymiany międzynarodowej Uczelnia opracowała aplikację I., będącą
+modułem systemu informatycznego R. System ten został opracowany oraz
+wdrożony przez pracowników XYZ. Działał on od 2014 r. w oparciu o serwer pro‐
+dukcyjny M. Aplikacja I. funkcjonowała od 2015 r., jednakże w dniu 15 września
+2022 r. – na skutek stwierdzenia naruszenia ochrony danych osobowych –
+została na stałe wyłączona z użytkowania.
+–
+Baza danych przetwarzanych w ramach aplikacji I. pracowała pod kontrolą sys‐
+temu bazodanowego P., natomiast dostęp do niej uzyskiwany był zdalnie przy
+pomocy komputera pracującego pod kontrolą systemu operacyjnego X. Dostęp
+do zasobów był autoryzowany. W procesie logowania zarówno do komputera,
+jak i bazy danych, wymagane było wprowadzenie nazwy użytkownika oraz ha‐
+sła.
+–
+Kandydaci wprowadzali do systemu dane osobowe obejmujące następujące ka‐
+tegorie: imię, nazwisko, imiona rodziców, data urodzenia, płeć, adres zamiesz‐
+kania lub pobytu, adres e-mail, nazwisko rodowe matki, numer telefonu, numer
+albumu, informacje o dowodzie osobistym lub paszporcie (seria i numer doku‐
+mentu, kraj wydania, organ wydający, data wydania, data ważności), obywatel‐
+stwo, narodowość, fakt posiadania Karty Polaka, tryb, poziom i kierunek stu‐
+diów, poziom znajomości języka obcego, średnia ocen oraz liczba uzyskanych
+punktów. Dane osobowe obejmujące login oraz numer ewidencyjny PESEL po‐
+bierane były przez aplikację automatycznie z Uniwersyteckiego Systemu
+Obsługi Studiów (USOS).
+–
+Zakres danych wprowadzanych do aplikacji I. został określony na podstawie wy‐
+mogów wewnętrznych przewidzianych w regulaminach XYZ oraz uczelni part‐
+nerskich (np. nazwisko rodowe matki wymagane jest przez uczelnie węgierskie,
+natomiast informacje dotyczące dokumentów tożsamości mają znaczenie przy
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+2.
+
+Strona 6 z 29
+
+wyjazdach odbywających się zarówno wewnątrz strefy Schengen, jak i poza
+nią).
+Środki techniczne i organizacyjne stosowane dotychczas w celu nadania
+przetwarzaniu niezbędnych zabezpieczeń.
+–
+Zarządzeniem Rektora nr (…) z dnia (…) maja 2018 r. w sprawie ochrony da‐
+nych osobowych w Szkole (…) w K. na Uczelni wprowadzona została „Polityka
+(…)”, której celem jest ochrona danych osobowych przetwarzanych w XYZ po‐
+przez zapewnienie ich poufności, integralności oraz dostępności. „Polityka (…)”
+określa zasady ochrony danych osobowych i obejmuje swoim zakresem wszyst‐
+kie osoby biorące udział w procesie przetwarzania danych osobowych na Uczel‐
+ni, jak również zawiera wewnętrzne regulacje dotyczące przetwarzania danych
+osobowych, w skład których wchodzą:
+–
+załącznik nr (…): „Instrukcja (…)”, obejmująca postanowienia ogólne, definicje,
+procedury nadawania uprawnień do przetwarzania danych osobowych i rejestro‐
+wania tych uprawnień w systemach informatycznych, metody i środki uwierzy‐
+telnienia oraz zarządzania nimi, procedury rozpoczęcia, zawieszenia i zakończe‐
+nia pracy przez użytkowników systemów informatycznych, procedury tworzenia
+kopii zapasowych zbiorów danych osobowych oraz programów i narzędzi służą‐
+cych do ich przetwarzania, sposób, miejsce i okres przechowywania elektronicz‐
+nych nośników informacji zawierających dane osobowe oraz kopii zapasowych,
+sposób zabezpieczenia systemu informatycznego przed działalnością wirusów
+komputerowych, nieuprawnionym dostępem oraz awarią zasilania, procedury
+wykonywania przeglądów i konserwacji systemów oraz nośników informacji słu‐
+żących do przetwarzania danych osobowych oraz sposoby realizacji w systemie
+wymogów dotyczących przetwarzania danych;
+–
+załącznik nr (…): „Obowiązki (…)”;
+–
+załącznik nr (…): „Instrukcja (…)”;
+–
+załącznik nr (…): „Instrukcja (…)”;
+–
+załącznik nr (…): „Zasady (…)”.
+–
+Zarządzeniem Rektora nr (…) z dnia (…) września 2020 r. na Uczelni
+wprowadzona została „Procedura (…)”.
+–
+Zarządzeniem Rektora nr (…) z dnia (…) maja 2021 r. na Uczelni wprowadzona
+została „Instrukcja (…)”. Metodyka oceny ryzyka naruszenia praw lub wolności
+osób, których dane dotyczą, stanowi załącznik nr (…) do ww. dokumentu. Uczel‐
+nia prowadzi także rejestr naruszeń ochrony danych osobowych.
+–
+Wszystkie osoby, w przypadku których rodzaj wykonywanej pracy wiąże się z
+dostępem do danych osobowych, przed przystąpieniem do pracy mają obowią‐
+zek zapoznać się z przepisami prawa dotyczącymi ochrony danych osobowych
+oraz wewnętrznymi przepisami w tym zakresie, w tym w szczególności z przepi‐
+sami „Polityki (…)” oraz „Instrukcji (…)”. Ponadto pracownicy Uczelni zobowią‐
+zują się do zachowania w tajemnicy danych osobowych, do których mają dostęp
+oraz sposobów ich zabezpieczania.
+–
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+3.
+
+Strona 7 z 29
+
+Pracownicy Uczelni odbywają szkolenia z zakresu ochrony danych osobowych.
+Zarządzeniem Rektora nr (…) z dnia (…) maja 2018 r. na Uczelni uruchomione
+zostało obowiązkowe szkolenie „RODO – ochrona danych osobowych”, prowa‐
+dzone w formie samokształcenia kierowanego (e-learning).
+–
+Kanclerz XYZ podejmuje także dodatkowe działania mające na celu zwiększenie
+świadomości pracowników w obszarze bezpieczeństwa przetwarzania danych
+osobowych.
+–
+Wśród dotychczas stosowanych przez Uczelnię technicznych i organizacyjnych
+środków bezpieczeństwa, wskazała ona, co następuje: „Środki bezpieczeństwa
+opisane w Polityce (…) wprowadzonej zarządzeniem Rektora nr (…) z 2018 r.
+(…). Środki bezpieczeństwa systemu (…)”.
+–
+Inne środki bezpieczeństwa w organizacji, pośrednio związane z systemem: (…).
+Charakter i przebieg naruszenia ochrony danych osobowych.
+–
+W związku z planowanym wyłączeniem serwera M., XYZ stanęła przed koniecz‐
+nością przeniesienia systemu R. na nowy serwer produkcyjny (Uczelnia
+wskazała, że „(…) koniecznie było dostosowanie aplikacji »R.« do działania na
+najnowszej stabilnej wersji PHP dostępnej na tamten czas (koniec kwietnia
+2022)”). Podczas przygotowań do przeniesienia systemu – na potrzeby prac
+programistycznych – „dopuszczono na serwerze developerskim możliwość nie‐
+autoryzowanego wywoływania podstron panelu administratora w module I.”. W
+wyniku błędu popełnionego przez pracowników XYZ zmiana ta została przypad‐
+kowo włączona do repozytorium kodu SVN (tj. systemu kontroli wersji, który
+umożliwia zarządzanie i śledzenie zmian w plikach i kodzie źródłowym projektu)
+i finalnie wdrożona na serwerze produkcyjnym. Uczelnia wskazała, że została
+ona „przeoczona” oraz podkreśliła, że „przeprowadzone testy nie wykazały
+błędnego działania systemu”.
+–
+W piśmie z dnia 3 listopada 2022 r. XYZ wyjaśniła, iż zmiany wprowadzone na
+serwerze deweloperskim testował „sam programista”, zaś po umieszczeniu ich
+w repozytorium „druga osoba z zespołu (…) sprawdziła, czy aplikacja działa po‐
+prawnie”. Odpowiadając na zapytanie organu nadzorczego, w oparciu o jakie
+procedury pracownik realizował ww. testy, Uczelnia nie odwołała się do żadnych
+obowiązujących wówczas metod postępowania, podkreślając jedynie, że „przy‐
+gotowywana jest (…) procedura wykonywania testów wraz z przygotowaniem
+scenariuszy testowych, wprowadzane jest code review wykonywane przez inne‐
+go programistę przed przekazaniem na produkcję nowych wersji systemów”.
+–
+W treści tego samego pisma XYZ poinformowała Prezesa UODO, że analiza ryzy‐
+ka dla operacji przetwarzania danych, w ramach których doszło do naruszenia
+ochrony danych osobowych, uwzględniająca m.in. podatności, zagrożenia, moż‐
+liwe skutki naruszenia oraz środki bezpieczeństwa mające na celu zapewnienie
+poufności, integralności i dostępności przetwarzanych danych osobowych, zo‐
+stała przeprowadzona dopiero po wystąpieniu naruszenia, wcześniej natomiast
+„nie była prowadzona w sposób sformalizowany”.
+–
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+–
+
+–
+
+–
+
+Strona 8 z 29
+
+Z informacji uzyskanych przez Uczelnię wynika, że w przypadku domyślnie akty‐
+wowanej w systemie X. funkcjonalności wysyłania opcjonalnych danych diagno‐
+stycznych do firmy Y. przeglądarka Q. przekazuje odwiedzane przez użytkownika
+adresy URL do mechanizmów indeksujących wykorzystywanych przez wyszuki‐
+warkę Z. W związku z tym, iż kontrola dostępu do zgromadzonych przez XYZ da‐
+nych osobowych została wyłączona na skutek opisanego wyżej błędu, prowa‐
+dzący do nich adres URL stał się ogólnodostępny ze względu na możliwość od‐
+nalezienia go w zasobach sieci Internet, udostępnianych przez wyszukiwarkę Z.
+Po odwiedzeniu aplikacji I. za pomocą przeglądarki Q. przez jednego z pracowni‐
+ków XYZ prowadzący do danych osobowych adres URL został przekazany do wy‐
+szukiwarki Z. i w efekcie – zaindeksowany. Dane objęte naruszeniem ochrony
+danych osobowych zostały zaindeksowane wyłącznie przez wyszukiwarkę Z. i
+nie zidentyfikowano możliwości uzyskania dostępu do nich za pośrednictwem
+innych wyszukiwarek, takich jak m.in. wyszukiwarka A.
+Uzyskanie dostępu do ujawnionych w ten sposób danych możliwe było poprzez
+wpisanie w wyszukiwarce Z. imienia i nazwiska lub numeru albumu studenta.
+Wyszukiwarka proponowała wówczas wyniki w postaci hiperłączy (linków) pro‐
+wadzących do szerszego zakresu danych. Na podstawie wyświetlonych propozy‐
+cji możliwe było zapoznanie się z danymi obejmującymi imię, nazwisko oraz nu‐
+mer albumu. Po wyszukaniu danych studenta i kliknięciu w hiperłącze możliwe
+było zapoznanie się z danymi obejmującymi imię, drugie imię, nazwisko, imiona
+rodziców, datę urodzenia, płeć, adres zamieszkania lub pobytu, numer ewiden‐
+cyjny PESEL, adres e-mail, nazwisko rodowe matki, numer telefonu, login, nu‐
+mer albumu, informacje o dowodzie osobistym lub paszporcie (seria i numer do‐
+kumentu, kraj wydania, organ wydający, data wydania, data ważności), obywa‐
+telstwo, narodowość, fakt posiadania Karty Polaka, tryb, poziom i kierunek
+studiów, poziom znajomości języka, średnią ocen oraz liczbę punktów.
+Jako datę zaistnienia naruszenia ochrony danych osobowych Uczelnia wskazała
+dzień (…) sierpnia 2022 r. Incydent został wykryty przez studenta XYZ i zgłoszo‐
+ny Samorządowi Studentów XYZ, a następnie władzom Uczelni w dniu (…) wrze‐
+śnia 2022 r.ok. godziny 13:00. O godzinie 13:30 tego samego dnia XYZ stwier‐
+dziła naruszenie ochrony danych osobowych. W następstwie powzięcia ww. in‐
+formacji Uczelnia podjęła działania w celu zaradzenia naruszeniu, w wyniku któ‐
+rych system został niezwłocznie odłączony od sieci Internet. Naruszenie ochro‐
+ny danych osobowych utrzymywało się zatem przez okres 27 dni (wliczając
+dzień jego zakończenia).
+W dniu 18 września 2022 r. XYZ zgłosiła Prezesowi UODO naruszenie ochrony
+danych osobowych, które zostało zarejestrowane pod sygnaturą DKN.
+5130.10053.2022. Zgłoszenie zostało uzupełnione przez Uczelnię o dodatkowe
+informacje w dniu 23 września 2022 r. W treści zgłoszenia wskazano, że naru‐
+szenie ochrony danych osobowych polegało na niezamierzonej publikacji oraz
+nieuprawnionym uzyskaniu dostępu do bazy danych zawierającej dane osobowe
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+4.
+
+Strona 9 z 29
+
+(…) osób, tj. studentów, absolwentów i byłych studentów (osób skreślonych z
+listy studentów) XYZ.
+–
+W toku czynności wyjaśniających Uczelnia przeprowadziła analizę logowań do
+systemu R. Analiza ta pozwala na stwierdzenie, że w okresie trwania naruszenia
+ochrony danych osobowych dostęp do danych uzyskało (…) osób: (…) z nich,
+będące studentami XYZ, odnalazły informacje poprzez wyszukiwarkę Z., wpisu‐
+jąc w niej słowa kluczowe w postaci imienia i nazwiska; (…) z nich, będąca prze‐
+wodniczącą Samorządu Studentów XYZ, dokonała wyszukania w celu potwier‐
+dzenia zaistnienia przedmiotowego incydentu. Liczbę odczytów danych opraco‐
+wano na podstawie analizy logów zebranych przez W. (…).
+Środki zastosowane w celu zaradzenia naruszeniu ochrony danych osobowych, zmi‐
+nimalizowania jego ewentualnych negatywnych skutków oraz zminimalizowania
+ryzyka jego ponownego wystąpienia.
+–
+Jako środki zastosowane w celu zaradzenia naruszeniu ochrony danych osobo‐
+wych i zminimalizowania jego negatywnych skutków dla osób, których dane
+dotyczą, Uczelnia wskazała następujące działania:
+–
+„Zablokowanie dostępu do aplikacji z sieci publicznej”;
+–
+„Wysłanie do operatora przeglądarki Z. żądania usunięcia informacji z wyników
+wyszukiwania”;
+–
+„Poinformowanie o naruszeniu osób, których dane dotyczą, zalecenie ostrożno‐
+ści oraz zaoferowanie przez uczelnię rocznego abonamentu na usługę Alerty BIK
+(…)” – należy podkreślić, że XYZ poinformowała także, iż „(…) umożliwiła oso‐
+bom dotkniętym naruszeniem skorzystanie z abonamentu na alerty BIK, oraz
+zapewniła pokrycie kosztów wymiany dokumentów i wykonania aktualnej foto‐
+grafii do dokumentu. Z możliwości skorzystania z alertów BIK skorzystało ponad
+(…) studentów. Ponadto (…) osób dokonało wymiany dokumentów na koszt
+Uczelni, który wyniósł PLN 6726”;
+–
+„Polecenie studentom usunięcia danych”;
+–
+Jako środki bezpieczeństwa zastosowane w celu zminimalizowania ryzyka po‐
+nownego wystąpienia naruszenia ochrony danych osobowych, Uczelnia
+wskazała następujące działania:
+–
+„(…)”.
+
+W tym stanie faktycznym, po zapoznaniu się z całością zgromadzonego w sprawie mate‐
+riału dowodowego, Prezes Urzędu Ochrony Danych Osobowych zważył, co następuje:
+Zgodnie z art. 34 ust. 1 i 2 ustawy z dnia 10 maja 2018 r. Prezes UODO jest organem
+właściwym w sprawie ochrony danych osobowych oraz organem nadzorczym w rozumie‐
+niu rozporządzenia 2016/679, natomiast stosownie do art. 57 ust. 1 lit. a) i h) rozporzą‐
+dzenia 2016/679, bez uszczerbku dla innych zadań określonych na mocy tego rozporzą‐
+dzenia, każdy organ nadzorczy na swoim terytorium monitoruje i egzekwuje jego stoso‐
+wanie oraz prowadzi postępowania w sprawie jego stosowania, w tym na podstawie in‐
+formacji otrzymanych od innego organu nadzorczego lub innego organu publicznego.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 10 z 29
+
+Art. 5 rozporządzenia 2016/679 formułuje zasady dotyczące przetwarzania danych oso‐
+bowych, które muszą być respektowane przez wszystkich administratorów, tj. podmioty,
+które samodzielnie lub wspólnie z innymi ustalają cele i sposoby przetwarzania danych
+osobowych. Wedle art. 5 ust. 1 lit. f) rozporządzenia 2016/679 dane osobowe muszą być
+przetwarzane w sposób zapewniający odpowiednie ich bezpieczeństwo, w tym ochronę
+przed niedozwolonym lub niezgodnym z prawem przetwarzaniem oraz przypadkową
+utratą, zniszczeniem lub uszkodzeniem, za pomocą odpowiednich środków technicznych
+lub organizacyjnych („integralność i poufność”). Zgodnie zaś z art. 5 ust. 2 rozporządze‐
+nia 2016/679 administrator jest odpowiedzialny za przestrzeganie przepisów ust. 1 i
+musi być w stanie wykazać ich przestrzeganie („rozliczalność”). Konkretyzację zasady in‐
+tegralności i poufności, o której mowa w art. 5 ust. 1 lit. f) rozporządzenia 2016/679, a
+także zasady rozliczalności, o której mowa w art. 5 ust. 2 rozporządzenia 2016/679,
+stanowią dalsze przepisy tego aktu prawnego.
+Stosownie do art. 24 ust. 1 rozporządzenia 2016/679, uwzględniając charakter, zakres,
+kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych
+o różnym prawdopodobieństwie i wadze, administrator wdraża odpowiednie środki tech‐
+niczne i organizacyjne, aby przetwarzanie odbywało się zgodnie z rozporządzeniem
+2016/679 i aby móc to wykazać. Oznacza to, że przy dokonywaniu oceny adekwatności
+zastosowanych rozwiązań administrator powinien wziąć pod uwagę szereg określonych
+czynników i okoliczności dotyczących przetwarzania, a także ryzyko, jakie się z nim wią‐
+że. W literaturze wskazuje się (P. Barta, P. Litwiński, M. Kawecki, Komentarz do art. 24, w:
+Ogólne rozporządzenie o ochronie danych osobowych. Ustawa o ochronie danych osobo‐
+wych. Wybrane przepisy sektorowe. Komentarz, red. P. Litwiński, Legalis 2021), że ww.
+przepis „(…) stanowi m.in. emanację jednej z podstawowych zasad przetwarzania
+danych – integralności i poufności (…)”, a także podkreśla, iż „(…) obowiązki z art. 24
+[rozporządzenia 2016/679] mają charakter szerszy, gdyż zastosowane przez administra‐
+tora środki mają zapewnić, by całość (procesu) przetwarzania danych była zgodna z [roz‐
+porządzeniem 2016/679]. Rezultatem zaś zastosowania ww. środków powinno być osią‐
+gnięcie stanu zgodności działań administratora z przepisami [rozporządzenia 2016/679]
+– pośrednio więc też, choć nie wyłącznie, ich odpowiednie zabezpieczenie ze względu na
+poziom ryzyka (art. 32 ust. 1 [rozporządzenia 2016/679]). Zastosowane środki powinny
+być bowiem skuteczne, zgodnie z art. 24 rozporządzenia 2016/679”.
+Jednocześnie administrator ma obowiązek wykazania przed organem nadzorczym, że
+wdrożył odpowiednie środki techniczne i organizacyjne, aby przetwarzanie nie wykracza‐
+ło poza ustanowione ramy prawne, co należy utożsamiać z urzeczywistnieniem zasady
+rozliczalności, o której mowa w art. 5 ust. 2 rozporządzenia 2016/679.
+Należy podkreślić, iż prawodawca uzupełnia treść normy zawartej w art. 24 ust. 1 rozpo‐
+rządzenia 2016/679, dodając, że środki te powinny być w razie potrzeby poddawane
+przeglądom i uaktualniane. Wdrażanie odpowiednich środków technicznych i organiza‐
+cyjnych powinno polegać zatem nie tylko na doraźnym zaimplementowaniu przez admi‐
+nistratora należytych zasad, procedur i praktyk dotyczących przetwarzania, ale także na
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 11 z 29
+
+dokonywaniu regularnych rewizji zastosowanych rozwiązań i w stosownych przypadkach
+– ich udoskonalaniu. Zapewnienie przez administratora bezpieczeństwa przetwarzanych
+danych ma bowiem charakter dynamicznego, ciągłego procesu.
+Zgodnie z art. 25 ust. 1 rozporządzenia 2016/679, uwzględniając stan wiedzy technicz‐
+nej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko
+naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpie‐
+nia i wadze wynikające z przetwarzania, administrator – zarówno przy określaniu sposo‐
+bów przetwarzania, jak i w czasie samego przetwarzania – wdraża odpowiednie środki
+techniczne i organizacyjne, takie jak pseudonimizacja, zaprojektowane w celu skutecznej
+realizacji zasad ochrony danych, takich jak minimalizacja danych, oraz w celu nadania
+przetwarzaniu niezbędnych zabezpieczeń, tak by spełnić wymogi rozporządzenia
+2016/679 oraz chronić prawa osób, których dane dotyczą.
+Jak wskazała Europejska Rada Ochrony Danych (EROD) (Wytyczne nr 4/2019 dotyczące
+artykułu 25, Uwzględnianie ochrony danych w fazie projektowania oraz domyślna ochro‐
+na danych, Wersja 2.0, str. 4), art. 25 ust. 1 rozporządzenia 2016/679 stanowi, że „(…)
+administratorzy powinni uwzględnić ochronę danych w fazie projektowania oraz domyśl‐
+ną ochronę danych odpowiednio wcześnie, na etapie planowania kolejnej operacji prze‐
+twarzania. Wdrażają oni ochronę danych w fazie projektowania oraz domyślną ochronę
+danych przed przetwarzaniem, a także w sposób ciągły podczas przetwarzania, dokonu‐
+jąc regularnych przeglądów skuteczności wybranych środków i zabezpieczeń. Ochronę
+danych w fazie projektowania oraz domyślną ochronę danych stosuje się również do
+istniejących systemów, które przetwarzają dane osobowe”. Oznacza to, że dotychczaso‐
+we systemy zaprojektowane przed wejściem w życie rozporządzenia 2016/679 należy
+poddawać przeglądom i konserwacji, aby zapewnić wdrożenie środków i zabezpieczeń,
+które w skuteczny sposób wdrażają zasady i prawa osób, których dane dotyczą, jak
+określono w niniejszych wytycznych.
+W myśl art. 32 ust. 1 rozporządzenia 2016/679 administrator, uwzględniając stan wiedzy
+technicznej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz
+ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie i
+wadze, zobowiązany jest do wdrożenia odpowiednich środków technicznych i organiza‐
+cyjnych, aby zapewnić stopień bezpieczeństwa odpowiadający temu ryzyku, w tym
+między innymi w stosownym przypadku:
+a) pseudonimizację i szyfrowanie danych osobowych;
+b) zdolność do ciągłego zapewnienia poufności, integralności, dostępności i odporności
+systemów i usług przetwarzania;
+c) zdolność do szybkiego przywrócenia dostępności danych osobowych i dostępu do
+nich w razie incydentu fizycznego lub technicznego;
+d) regularne testowanie, mierzenie i ocenianie skuteczności środków technicznych i
+organizacyjnych mających zapewnić bezpieczeństwo przetwarzania.
+Art. 32 ust. 2 rozporządzenia 2016/679 wskazuje zaś, iż oceniając, czy stopień bezpie‐
+czeństwa jest odpowiedni, uwzględnia się w szczególności ryzyko wiążące się z przetwa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 12 z 29
+
+rzaniem, w szczególności wynikające z przypadkowego lub niezgodnego z prawem znisz‐
+czenia, utraty, modyfikacji, nieuprawnionego ujawnienia lub nieuprawnionego dostępu
+do danych osobowych przesyłanych, przechowywanych lub w inny sposób przetwarza‐
+nych.
+Z przytoczonych powyżej przepisów wynika, że podejście oparte na zarządzaniu ochroną
+danych osobowych od strony ryzyka (tzw. risk-based approach) stanowi fundamentalną
+koncepcję stojącą u podstaw rozporządzenia 2016/679. Oznacza to, iż koniecznością sta‐
+je się możliwość udowodnienia przed organem nadzorczym, że zastosowane rozwiąza‐
+nia, mające na celu zapewnienie bezpieczeństwa danych osobowych, są adekwatne do
+poziomu ryzyka oraz uwzględniają charakter danej organizacji i wykorzystywanych me‐
+chanizmów przetwarzania danych. Konsekwencją takiej orientacji jest rezygnacja z na‐
+rzucanych przez prawodawcę list wymagań dotyczących bezpieczeństwa na rzecz samo‐
+dzielnego doboru zabezpieczeń w oparciu o analizę zagrożeń. Administratorom nie wska‐
+zuje się konkretnych środków i procedur w zakresie bezpieczeństwa, a ich ustalenie po‐
+winno dokonać się w procesie dwuetapowym. W pierwszej kolejności konieczne jest za‐
+tem określenie przez administratora poziomu ryzyka naruszenia praw lub wolności osób
+fizycznych, jakie wiąże się z przetwarzaniem ich danych osobowych, następnie zaś usta‐
+lenie, jakie środki techniczne i organizacyjne będą odpowiednie, aby zapewnić stopień
+bezpieczeństwa odpowiadający temu ryzyku oraz osiągnąć stan zgodności z przepisami
+rozporządzenia 2016/679.
+Zgodnie z motywem 75 preambuły do rozporządzenia 2016/679 ryzyko naruszenia praw
+lub wolności osób fizycznych o różnym prawdopodobieństwie i wadze może wynikać z
+przetwarzania danych osobowych mogącego prowadzić do uszczerbku fizycznego lub
+szkód majątkowych lub niemajątkowych, w szczególności: jeżeli przetwarzanie może po‐
+skutkować dyskryminacją, kradzieżą tożsamości lub oszustwem dotyczącym tożsamości,
+stratą finansową, naruszeniem dobrego imienia, naruszeniem poufności danych osobo‐
+wych chronionych tajemnicą zawodową, nieuprawnionym odwróceniem pseudonimizacji
+lub wszelką inną znaczną szkodą gospodarczą lub społeczną; jeżeli osoby, których dane
+dotyczą mogą zostać pozbawione przysługujących im praw i wolności lub możliwości
+sprawowania kontroli nad swoimi danymi osobowymi; jeżeli przetwarzane są dane oso‐
+bowe ujawniające pochodzenie rasowe lub etniczne, poglądy polityczne, wyznanie lub
+przekonania światopoglądowe, lub przynależność do związków zawodowych oraz jeżeli
+przetwarzane są dane genetyczne, dane dotyczące zdrowia lub dane dotyczące seksual‐
+ności lub wyroków skazujących i czynów zabronionych lub związanych z tym środków
+bezpieczeństwa; jeżeli oceniane są czynniki osobowe, w szczególności analizowane lub
+prognozowane aspekty dotyczące efektów pracy, sytuacji ekonomicznej, zdrowia, osobi‐
+stych preferencji lub zainteresowań, wiarygodności lub zachowania, lokalizacji lub prze‐
+mieszczania się – w celu tworzenia lub wykorzystywania profili osobistych; lub jeżeli
+przetwarzane są dane osób wymagających szczególnej opieki, w szczególności dzieci
+oraz jeżeli przetwarzanie dotyczy dużej ilości danych osobowych i wpływa na dużą liczbę
+osób, których dane dotyczą.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 13 z 29
+
+Prawodawca sygnalizuje poprzez motyw 76 preambuły do rozporządzenia 2016/679, że
+prawdopodobieństwo i powagę ryzyka naruszenia praw lub wolności osoby, której dane
+dotyczą, należy określić poprzez odniesienie się do charakteru, zakresu, kontekstu i ce‐
+lów przetwarzania danych. Ryzyko należy oszacować na podstawie obiektywnej oceny, w
+ramach której stwierdza się, czy z operacjami przetwarzania danych wiąże się ryzyko lub
+wysokie ryzyko.
+Motyw 83 preambuły do rozporządzenia 2016/679 wskazuje natomiast, iż w celu zacho‐
+wania bezpieczeństwa i zapobiegania przetwarzaniu niezgodnemu z rozporządzeniem
+2016/679 administrator powinien oszacować ryzyko właściwe dla przetwarzania oraz
+wdrożyć środki – takie jak szyfrowanie – minimalizujące to ryzyko. Oceniając ryzyko w
+zakresie bezpieczeństwa danych, należy wziąć pod uwagę ryzyko związane z przetwa‐
+rzaniem danych osobowych – takie jak przypadkowe lub niezgodne z prawem zniszcze‐
+nie, utracenie, zmodyfikowanie, nieuprawnione ujawnienie lub nieuprawniony dostęp do
+danych osobowych przesyłanych, przechowywanych lub w inny sposób przetwarzanych
+– i mogące w szczególności prowadzić do uszczerbku fizycznego, szkód majątkowych lub
+niemajątkowych.
+Biorąc pod uwagę w szczególności szeroki zakres danych osobowych przetwarzanych
+przez XYZ za pośrednictwem aplikacji I., a także m.in. liczbę osób, których dane dotyczą,
+w celu prawidłowego wywiązania się z obowiązków wynikających z przepisów rozporzą‐
+dzenia 2016/679 Uczelnia zobowiązana była do podjęcia działań gwarantujących właści‐
+wy poziom ochrony danych osobowych poprzez wdrożenie odpowiednich środków tech‐
+nicznych i organizacyjnych mających zapewnić bezpieczeństwo ich przetwarzania, a tak‐
+że do regularnego testowania, mierzenia i oceniania skuteczności ww. środków. Decyzje
+o charakterze, rodzajach czy intensywności takich działań powinny zaś znaleźć oparcie
+we wnioskach wynikających z analizy ryzyka przeprowadzonej dla dokonywanych opera‐
+cji przetwarzania, uwzględniającej m.in. podatności, zagrożenia, możliwe skutki narusze‐
+nia oraz środki bezpieczeństwa mające na celu zapewnienie poufności, integralności i
+dostępności przetwarzanych danych osobowych.
+Tymczasem ze zgromadzonego materiału dowodowego wynika, że Uczelnia zarządzała
+systemem informatycznym, za pośrednictwem którego przetwarzała dane osobowe swo‐
+ich studentów, byłych studentów i absolwentów, nie dokonując uprzedniej analizy wiążą‐
+cego się z tym ryzyka. W piśmie z dnia 3 listopada 2022 r. XYZ poinformowała wprost, że
+„przed wystąpieniem naruszenia analiza ryzyka nie była prowadzona w sposób sformali‐
+zowany”. W ocenie organu nadzorczego taki sposób działania Uczelni nie zapewniał na‐
+leżytej kontroli nad ww. procesem w kontekście zagwarantowania bezpieczeństwa
+uczestniczących w nim danych osobowych, jak również możliwości wykazania jego zgod‐
+ności z przepisami rozporządzenia 2016/679, stosownie do zasady rozliczalności
+wynikającej z art. 5 ust. 2 rozporządzenia 2016/679.
+Jak podnoszono już w literaturze (P. Barta, P. Litwiński, M. Kawecki, Komentarz do art. 5,
+w: Ogólne rozporządzenie o ochronie danych osobowych. Ustawa o ochronie danych oso‐
+bowych. Wybrane przepisy sektorowe. Komentarz, red. P. Litwiński, Legalis 2021),
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+„
+
+Strona 14 z 29
+
+rozliczalność, czyli w szczególności obowiązek wykazania zgodności z przepisami
+prawa, składa się w opinii Grupy Roboczej Art. 29 [Opinia z 13.7.2010 r. 3/2010 w
+sprawie zasady rozliczalności (WP 173), (…)] z następujących obowiązków cząstko‐
+wych:
+1) obowiązek wdrożenia środków (w tym wewnętrznych procedur) gwarantujących
+przestrzeganie przepisów o ochronie danych w związku z operacjami ich prze‐
+twarzania;
+2) obowiązek sporządzenia dokumentacji, która wskazuje osobom, których dane
+dotyczą, oraz organom nadzorczym, jakie środki podjęto, aby zapewnić
+przestrzeganie przepisów o ochronie danych osobowych.
+(…) W tym sensie rozliczalność powinna być więc rozumiana jako pewna właściwość
+czynności przetwarzania, pozwalająca na dowodzenie zgodności z przepisami prawa
+operacji na danych osobowych, w szczególności za pomocą dokumentacji ochrony
+danych osobowych. Konsekwencją zasady rozliczalności jest to, że w razie sporu z
+osobą, której dane dotyczą, albo z organem nadzorczym administrator powinien być
+w stanie przedstawić dowody na to, że przestrzega przepisów o ochronie danych
+osobowych. Dowodami takimi mogą być przede wszystkim dokumenty opisujące
+zasady przetwarzania i ochrony danych osobowych”.
+
+Wobec nieprzeprowadzenia analizy ryzyka wiążącego się z przetwarzaniem w sposób
+sformalizowany, a więc udokumentowany lub w inny sposób utrwalony oraz ujęty w po‐
+staci ściśle określonych, precyzyjnych formuł wyjaśniających i porządkujących przebieg
+tego procesu, XYZ nie była zdolna wykazać, że wdrażając środki techniczne i organiza‐
+cyjne mające zapewnić zgodność przetwarzania z rozporządzeniem 2016/679, a także
+oceniając, czy stopień bezpieczeństwa danych osobowych jest odpowiedni, rzeczywiście
+uwzględniła kryteria opisane w art. 32 ust. 1 rozporządzenia 2016/679, w tym ryzyko na‐
+ruszenia praw lub wolności osób fizycznych, oraz ryzyko wiążące się z przetwarzaniem,
+w szczególności wynikające z przypadkowego lub niezgodnego z prawem zniszczenia,
+utraty, modyfikacji, nieuprawnionego ujawnienia lub nieuprawnionego dostępu do da‐
+nych osobowych, zgodnie z obowiązkiem wynikającym z art. 32 ust. 2 rozporządzenia
+2016/679.
+Z poczynionych ustaleń wynika, iż Uczelnia nie przeprowadziła takiej analizy przez cały
+okres funkcjonowania systemu, począwszy od 2014 r. (od 2015 r. w przypadku aplikacji
+I.), poprzez dzień 25 maja 2018 r., tj. dzień rozpoczęcia stosowania rozporządzenia
+2016/679, aż do dnia (…) listopada 2022 r., tj. dnia, na który datowane jest opracowanie
+„Raportu (…)”, bazującego na dokumencie „Arkusz (…)”, przygotowanym przez Uczelnię
+dopiero po wystąpieniu przedmiotowego naruszenia ochrony danych osobowych.
+Podkreślenia wymaga, że przeprowadzone przez Uczelnię w sierpniu 2022 r. prace pro‐
+gramistyczne mające na celu przeniesienie systemu R. na nowy serwer produkcyjny rów‐
+nież nie zostały poprzedzone odpowiednią analizą wiążącego się z tym ryzyka.
+Takie postępowanie stoi w oczywistej sprzeczności z normami sformułowanymi w treści
+rozporządzenia 2016/679, które na każdym etapie implementowania systemu informa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 15 z 29
+
+tycznego służącego przetwarzaniu – zarówno w fazie projektowania, wdrażania, utrzymy‐
+wania czy modyfikacji – przewidują uwzględnianie związanego z tymi operacjami ryzyka
+naruszenia praw lub wolności osób fizycznych. W swoich wytycznych EROD wskazuje
+(Wytyczne nr 4/2019 dotyczące artykułu 25, Uwzględnianie ochrony danych w fazie pro‐
+jektowania oraz domyślna ochrona danych, Wersja 2.0, str. 29), że „ocena zagrożeń dla
+bezpieczeństwa danych polegająca na analizie wpływu na prawa osób fizycznych i
+przeciwdziałaniu zidentyfikowanym zagrożeniom”, „uwzględnianie wymogów bezpie‐
+czeństwa na jak najwcześniejszym etapie projektowania i rozwoju systemu oraz ciągła
+integracja i wykonywanie odpowiednich testów” czy „regularny przegląd i testowanie
+oprogramowania, sprzętu, systemów i usług itp. w celu wykrycia słabych punktów
+systemów wspomagających przetwarzanie” to jedne z kluczowych elementów uwzględ‐
+niania ochrony danych w fazie projektowania i domyślnej ochrony danych w stosunku do
+zasady integralności i poufności danych.
+Należy zaznaczyć, iż w treści sekcji 9A formularza zgłoszenia naruszenia ochrony danych
+osobowych XYZ przedstawiła opis technicznych środków bezpieczeństwa dotychczas
+stosowanych, deklarując, że jako „środki bezpieczeństwa systemu” wykorzystywała ona
+środki bezpieczeństwa opisane w „Polityce (…)” oraz inne rozwiązania, takie jak (…). Po‐
+nadto – jako pozostałe środki bezpieczeństwa, jednakże jedynie pośrednio związane z
+systemem R. – Uczelnia wskazała (…).
+Środki te – zdaniem Prezesa UODO – nie mogą jednak zostać uznane za odpowiednie wo‐
+bec ryzyk związanych z przetwarzaniem danych osobowych dokonywanym w ramach
+aplikacji I., w tym w szczególności przetwarzaniem mającym miejsce w trakcie – i w na‐
+stępstwie – przeniesienia tego systemu na nowy serwer produkcyjny. Nie bez znaczenia
+pozostaje fakt, iż to właśnie podczas tej operacji pracownik Uczelni popełnił błąd, w wy‐
+niku którego doszło do uzyskania przez osoby trzecie nieuprawnionego dostępu do da‐
+nych osobowych zgromadzonych w zasobach aplikacji I. Jak wynika bowiem z dokona‐
+nych ustaleń, XYZ nie zapewniła pracownikom odpowiednich procedur regulujących ww.
+działania, uwzględniających m.in. zasady postępowania ze zgromadzonymi w systemie
+danymi osobowymi oraz metodykę testowania wprowadzonych zmian w kontekście za‐
+gwarantowania bezpieczeństwa przetwarzania. Jak wskazywano wcześniej, programista
+sam testował dokonane zmiany, podczas gdy inny pracownik sprawdzał jedynie, czy apli‐
+kacja działa poprawnie. Wdrożenie odpowiednich środków organizacyjnych w tym zakre‐
+sie XYZ zadeklarowała dopiero w piśmie z dnia 3 listopada 2022 r., a więc kilka miesięcy
+po wystąpieniu naruszenia ochrony danych osobowych.
+W piśmie z dnia 9 października 2023 r. Uczelnia zwróciła uwagę, iż w jej ocenie „niemoż‐
+liwym jest (…) zapewnienie zabezpieczeń systemów, które nigdy nie mogą zostać prze‐
+łamane, czy jak w niniejszej sprawie, niemożliwym jest zabezpieczenie się przed
+wszelkimi błędami ludzkimi”. W ślad za wypowiedzią Wojewódzkiego Sądu Administra‐
+cyjnego w Warszawie zawartą w wyroku z dnia 19 stycznia 2021 r. (sygn. II SA/Wa
+702/20, Legalis nr 2821108) należy jednak podkreślić, że „(…) administrator danych po‐
+winien odpowiednio zabezpieczyć dane osobowe przed ich przypadkową utratą za pomo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 16 z 29
+
+cą odpowiednich środków technicznych i organizacyjnych. Dane osobowe powinny być
+bowiem przetwarzane w sposób zapewniający im odpowiednie bezpieczeństwo i odpo‐
+wiednią poufność, w tym ochronę przed nieuprawnionym dostępem do nich i do sprzętu
+służącego ich przetwarzaniu oraz przed nieuprawnionym korzystaniem z tych danych i z
+tego sprzętu (motyw 39 rozporządzenia 2016/679). (…) administrator danych jest odpo‐
+wiedzialny nie tylko za działania swoich pracowników, ale także za przetwarzanie danych
+w systemie informatycznym, z którego korzysta”. Naruszenie przez XYZ przepisów roz‐
+porządzenia 2016/679 nie wynikało zatem z braku zapewnienia przez nią środków
+niezawodnych, ale z niewdrożenia środków odpowiednich.
+W ramach ww. pisma Uczelnia wskazała także, iż „(…) uwzględniając stan wiedzy tech‐
+nicznej, którą Uczelnia dysponowała w czasie, w którym doszło do niniejszego zdarzenia
+przyjęte i stosowane przez nią rozwiązania techniczne były na poziomie odpowiadającym
+ryzyku związanym z dokonywanymi operacjami na danych osobowych”. W ocenie orga‐
+nu nadzorczego wdrożenie przez Uczelnię ww. środków technicznych z pominięciem ana‐
+lizy ryzyka wiążącego się z dokonywanym przetwarzaniem na żadnym etapie nie dawało
+odpowiedniej gwarancji, że środki te będą odpowiednie, adekwatne i że w sposób sku‐
+teczny zminimalizują ryzyko naruszenia praw lub wolności osób, których dane dotyczą.
+Powyższe stanowisko organu nadzorczego znajduje także odzwierciedlenie w wyroku Wo‐
+jewódzkiego Sądu Administracyjnego w Warszawie z dnia 26 sierpnia 2020 r. (sygn. II
+SA/Wa 2826/19, Legalis nr 2480051), w którym to Sąd stwierdził, iż art. 32 ust. 1
+rozporządzenia 2016/679 „(…) nie wymaga od administratora danych wdrożenia jakich‐
+kolwiek środków technicznych i organizacyjnych, które mają stanowić środki ochrony da‐
+nych osobowych, ale wymaga wdrożenia środków adekwatnych. Taką adekwatność oce‐
+niać należy pod kątem sposobu i celu, w jakim dane osobowe są przetwarzane, ale też
+należy brać pod uwagę ryzyko związane z przetwarzaniem tych danych osobowych,
+które to ryzyko charakteryzować się może różną wysokością”. Jednocześnie Sąd podkre‐
+ślił, że „przyjęte środki powinny mieć charakter skuteczny, w konkretnych przypadkach
+niektóre środki będą musiały być środkami o charakterze niwelującym ryzyko niskie,
+inne – muszą niwelować ryzyko wysokie, ważne jednak jest, aby wszystkie środki (a
+także każdy z osobna) były adekwatne i proporcjonalne do stopnia ryzyka”. Z kolei w wy‐
+roku z dnia 13 maja 2021 r., sygn. II SA/Wa 2129/20, Wojewódzki Sąd Administracyjny w
+Warszawie wskazał, że „Administrator danych powinien (…) przeprowadzić analizę ryzy‐
+ka i ocenić, z jakimi zagrożeniami ma do czynienia”.
+Co równie istotne, XYZ miała pełną świadomość obowiązków spoczywających na niej w
+tym zakresie. Świadczą o tym m.in. postanowienia zawarte w „Polityce (…)”, w której
+przeczytać można, że „celem Polityki (…) (…) jest ochrona danych osobowych przetwa‐
+rzanych w XYZ poprzez zapewnienie danym osobowym właściwości: 1) poufności – wła‐
+ściwości zapewniającej dostęp wyłącznie dla osób uprawnionych; (…)”, „dane osobowe
+są przetwarzane w sposób zapewniający im odpowiednie bezpieczeństwo, w tym ochro‐
+nę, za pomocą odpowiednich środków technicznych lub organizacyjnych, przed niedo‐
+zwolonym lub niezgodnym z prawem przetwarzaniem oraz przypadkową utratą,
+zniszczeniem lub uszkodzeniem” oraz iż „[ś]rodki ochrony technicznej obejmują: (…)”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 17 z 29
+
+Ponadto w „Instrukcji (…)” zdefiniowano „zabezpieczenie danych w systemie informa‐
+tycznym” jako „wdrożenie i eksploatacja odpowiednich środków technicznych i organiza‐
+cyjnych zapewniających ochronę danych osobowych przed ich nieuprawnionym
+przetwarzaniem na terenie XYZ” oraz wskazano m.in., że „system informatyczny, w któ‐
+rym przetwarza się dane osobowe, jest wyposażony w mechanizmy uwierzytelnienia
+użytkownika oraz kontroli dostępu do zasobów (autoryzacji)”.
+Jednocześnie, jak wynika z treści § (…) ust. (…) „Obowiązków (…)”, „za realizację prze‐
+strzegania przepisów prawnych oraz zapewnienie odpowiednich środków technicznych i
+organizacyjnych dotyczących przetwarzania danych osobowych w poszczególnych ob‐
+szarach funkcjonowania Uczelni odpowiedzialne są osoby kierujące jednostkami
+organizacyjnymi, zgodnie ze strukturą organizacyjną Uczelni”. Zapis sformułowany w §
+(…) ust. (…) pkt (…) ww. dokumentu wskazuje natomiast, że „[o]soby, o których mowa w
+ust. (…) są odpowiedzialne za: (…) 7) przeprowadzanie, na żądanie Administratora, ana‐
+liz ryzyka ochrony danych osobowych oraz przedstawianie na ich podstawie propozycji w
+zakresie stosowania środków technicznych i przedsięwzięć organizacyjnych w celu
+zapewnienia skutecznej ochrony przetwarzania danych”.
+Analiza powyższych dokumentów pozwala stwierdzić, iż brak przeprowadzenia przez XYZ
+formalnej oceny ryzyka stanowił nie tylko naruszenie przepisów rozporządzenia
+2016/679, ale również wewnętrznych regulacji służących zapewnieniu prawidłowego i
+bezpiecznego przetwarzania danych osobowych w organizacji.
+Wobec powyższego uznać należy, że Uczelnia nie wykazała, aby którykolwiek z wdrożo‐
+nych przez nią środków bezpieczeństwa zabezpieczał dane przetwarzane za pośrednic‐
+twem aplikacji I. przed ryzykiem, jakie ostatecznie zmaterializowało się w postaci zaist‐
+niałego incydentu skutkującego naruszeniem ochrony danych osobowych. W tym kon‐
+tekście warto przywołać informacje przedstawione przez Uczelnię w dokumencie „Arkusz
+(…)” (który – co podkreślono wcześniej – opracowany został dopiero po wystąpieniu na‐
+ruszenia ochrony danych osobowych). Autorzy analizy wyróżnili w nim szereg podatności
+związanych z obsługą aplikacji I., wskazując wśród nich m.in. podatność opisaną jako
+„Zaindeksowanie zasobów przez roboty wyszukiwarek internetowych, błąd w aplikacji”.
+Podatność ta, czyli – jak określili autorzy – potencjalny czynnik sprzyjający wystąpieniu
+zagrożenia, scharakteryzowana została w następujący sposób:
+–
+„(…)”
+Jak wynika z przytoczonego fragmentu, ww. podatność, będąca czynnikiem mającym
+istotny wpływ na wystąpienie przedmiotowego incydentu, stanowiła realne zagrożenie,
+wobec którego Uczelnia mogła – i powinna była – podjąć adekwatne działania w celu
+jego zneutralizowania bądź zminimalizowania. Przeprowadzona analiza ryzyka (po naru‐
+szeniu ochrony danych osobowych) skłoniła XYZ do określenia bazowego ryzyka
+wiążącego się z istnieniem tej podatności jako „krytyczne” (czyli najwyższe w przyjętej
+pięciostopniowej skali, przewidującej ryzyka pomijalne, niskie, średnie, wysokie i krytycz‐
+ne) i mające wpływ na poufność danych osobowych, natomiast po wprowadzeniu przez
+Uczelnię zabezpieczeń zmniejszających prawdopodobieństwo wystąpienia zagrożenia,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 18 z 29
+
+takich jak m.in. wdrożenie do systemów XYZ mechanizmów ograniczających potencjalne
+indeksowanie zgromadzonych w nich zasobów przez wyszukiwarki internetowe ((…)),
+ryzyko to zostało zaklasyfikowane jako „średnie”. Należy zauważyć, że to właśnie te
+działania Uczelnia uznała – po przeprowadzeniu analizy ryzyka – za odpowiednie, aby za‐
+pewnić stopień bezpieczeństwa odpowiadający temu ryzyku, jednakże podjęła je dopiero
+po zaistnieniu naruszenia ochrony danych osobowych, a zatem zbyt późno, by móc mu
+zapobiec.
+W tym kontekście podkreślenia wymaga również fakt, iż kontrola dostępu jest podstawo‐
+wym elementem bezpieczeństwa informacji, wspierającym ochronę aktywów organizacji
+wchodzących w skład administrowanych systemów informatycznych. Przy odpowiedniej
+konfiguracji pomaga ona m.in. zapewnić poufność danych, gwarantując, że te będą do‐
+stępne wyłącznie dla uprawnionych osób, a także umożliwiając monitorowanie oraz reje‐
+strowanie działań poszczególnych użytkowników. Brak odpowiedniej kontroli dostępu
+często wskazuje się jako jedno z głównych zagrożeń dla aplikacji i systemów, czego do‐
+wodzą liczne publikacje na ten temat. W popularnym raporcie OWASP Top 10 z 2021 r.
+klasa podatności Broken Access Control wymieniona została jako pierwsze z dziesięciu
+najważniejszych ryzyk dla bezpieczeństwa aplikacji internetowych, natomiast autorzy li‐
+sty HackerOne Top 10 z 2020 r., wyróżniającej najczęściej zgłaszane i najbardziej kry‐
+tyczne luki w zabezpieczeniach, zidentyfikowane przez globalną społeczność badaczy
+bezpieczeństwa, na piątym miejscu zestawienia umieścili związaną z niekontrolowanym
+dostępem do danych podatność IDOR (ang. Insecure Direct Object Reference).
+Dokonane ustalenia nie dają zatem dostatecznej podstawy do stwierdzenia, że środki
+stosowane przez XYZ w celu zapewnienia bezpieczeństwa przetwarzanych danych oso‐
+bowych były adekwatne do stanu wiedzy technicznej, kosztów wdrażania oraz charakte‐
+ru, zakresu, kontekstu i celów przetwarzania, a także ryzyka naruszenia praw lub wolno‐
+ści osób fizycznych o różnym prawdopodobieństwie i wadze, co w rezultacie nie gwaran‐
+towało skutecznej realizacji zasad ochrony danych, w tym zapewnienia poufności danych
+osobowych przetwarzanych za pośrednictwem aplikacji I. W tym miejscu należy powołać
+się także na konkluzje sformułowane przez Uczelnię w treści „Raportu (…)” z dnia (…) li‐
+stopada 2022 r., w którym to stwierdzono, iż „z przeprowadzonej analizy ryzyka dla apli‐
+kacji I., która była elementem systemu R., wynika, że istnieje wiele zagrożeń, na które
+Uczelnia aktualnie posiada środki pozwalające ograniczyć prawdopodobieństwo ich wy‐
+stąpienia – zabezpieczenia informatyczne, techniczne i organizacyjne. Natomiast trzeba
+podkreślić fakt, że dla części zidentyfikowanych zagrożeń i podatności istniejące zabez‐
+pieczenia nie są jeszcze wystarczające lub wymagają zabezpieczeń w celu ograniczenia
+prawdopodobieństwa ich materializacji”.
+Z ww. raportu wynika, że w ramach przeprowadzonej analizy ryzyka zidentyfikowano
+łącznie 201 zagrożeń, zaś 78 spośród nich uznano za nieakceptowalne i wymagające
+postępowania z ryzykiem. Według autorów raportu „(…) najwięcej zagrożeń stwierdzono
+w obszarze: nieuprawnionego dostępu do aplikacji, naruszenia zasad przetwarzania
+danych, nieuprawnionego dostępu do danych, utraty danych”. W tym kontekście warto
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 19 z 29
+
+zwrócić uwagę, iż – jak wskazano w raporcie – w następstwie przeprowadzonej analizy
+Uczelnia podjęła decyzję o całkowitym wyłączeniu aplikacji I.
+Podkreślić należy, że fakt wprowadzenia przez XYZ po wystąpieniu naruszenia ochrony
+danych osobowych zmian w obszarze zabezpieczeń systemów informatycznych nie
+zmienia negatywnej oceny organu nadzorczego w przedmiotowym zakresie, stanowiąc
+jedynie przesłankę odstąpienia od nakazania Uczelni dokonania zmian w tym obszarze
+celem dostosowania operacji przetwarzania danych do wymogów rozporządzenia
+2016/679.
+Jak wykazano wcześniej, zapewnienie bezpieczeństwa przetwarzanych danych stanowi
+podstawowy obowiązek administratora, będący przejawem realizacji ogólnej zasady
+przetwarzania danych, tj. zasady integralności i poufności, określonej w art. 5 ust. 1 lit. f)
+rozporządzenia 2016/679. W literaturze wskazuje się (P. Barta, P. Litwiński, M. Kawecki,
+Komentarz do art. 32, w: Ogólne rozporządzenie o ochronie danych osobowych. Ustawa
+o ochronie danych osobowych. Wybrane przepisy sektorowe. Komentarz, red. P.
+Litwiński, Legalis 2021), że zasada ta „(…) nakłada na administratora danych lub pod‐
+miot przetwarzający obowiązek zabezpieczenia danych, w szczególności przed niedo‐
+zwolonym lub niezgodnym z prawem przetwarzaniem oraz przypadkową utratą, znisz‐
+czeniem, lub uszkodzeniem danych. Należy go więc rozumieć również jako
+uniemożliwienie dostępu do danych osobom nieupoważnionym”.
+Należy mieć na uwadze, że administratorzy zobligowani są nie tylko do osiągnięcia zgod‐
+ności z wytycznymi rozporządzenia 2016/679 poprzez jednorazowe wdrożenie technicz‐
+nych i organizacyjnych środków bezpieczeństwa, ale także do zapewnienia ciągłości mo‐
+nitorowania skali zagrożeń oraz rozliczalności w zakresie poziomu i adekwatności wpro‐
+wadzonych zabezpieczeń. Autorzy przywołanego komentarza podkreślają, że „(…) obo‐
+wiązek w zakresie zapewnienia odpowiednich środków technicznych i organizacyjnych, o
+których mowa w art. 32 ust. 1 [rozporządzenia 2016/679], ma charakter dynamiczny
+(…), gdyż ustawodawca unijny wymaga regularnego testowania, mierzenia i oceniania
+skuteczności zastosowanych środków dla zapewnienia bezpieczeństwa w stopniu,
+odpowiadającym ryzyku”.
+Podkreślenia wymaga, iż ww. testowanie, mierzenie i ocenianie środków technicznych i
+organizacyjnych mających zapewnić bezpieczeństwo przetwarzania, aby stanowiło reali‐
+zację wymogu wynikającego z art. 32 ust. 1 lit. d) rozporządzenia 2016/679, musi być
+dokonywane w sposób regularny, co oznacza świadome zaplanowanie i zorganizowanie,
+a także udokumentowanie tego typu działań w określonych przedziałach czasowych, nie‐
+zależnie od zmian w organizacji i przebiegu procesów przetwarzania danych (w związku
+z zasadą rozliczalności, o której mowa w art. 5 ust. 2 rozporządzenia 2016/679). Tym
+samym, przedłożona przez XYZ w załączniku do pisma z dnia 31 sierpnia 2023 r. „kopia
+raportu z zewnętrznego audytu bezpieczeństwa kodu aplikacji w zakresie odnoszącym
+się do modułu I.” (wykonanego w kwietniu 2020 r.) nie przesądza zdaniem Prezesa
+UODO o spełnieniu ww. wymogów. Świadczy ona bowiem wyłącznie o jednorazowym
+charakterze działań podjętych przez Uczelnię w tym zakresie.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 20 z 29
+
+Ponadto, w toku czynności wyjaśniających, pismem z dnia 4 października 2022 r., organ
+nadzorczy zwrócił się do Uczelni m.in. z prośbą o wyjaśnienie, „na czym polegały i kto
+wykonywał testy zmian wprowadzonych na serwer produkcyjny, o których mowa w pkt
+4a wstępnego zgłoszenia naruszenia ochrony danych osobowych z dnia 18 września
+2022 r.”, a także „w oparciu o jakie procedury administratora ww. testy były realizowa‐
+ne”. W odpowiedzi, pismem z dnia 3 listopada 2022 r., XYZ poinformowała, iż „po wpro‐
+wadzeniu zmian na serwerze developerskim testował je sam programista. Następnie
+umieścił zmiany w repozytorium, które pobrała druga osoba z zespołu i sprawdziła, czy
+aplikacja działa poprawnie” oraz dodała, że „[p]rzygotowywana jest w tej chwili procedu‐
+ra wykonywania testów, wraz z przygotowaniem scenariuszy testowych, wprowadzana
+jest code review wykonywane przez innego programistę przed przekazaniem na
+produkcję nowych wersji systemów”.
+Z przedstawionych wyjaśnień wynika, że działania zmierzające do zapewnienia regular‐
+nego testowania, mierzenia i oceniania skuteczności środków technicznych i organizacyj‐
+nych mających zapewnić bezpieczeństwo przetwarzania Uczelnia podjęła dopiero po wy‐
+stąpieniu naruszenia ochrony danych osobowych. Administrator zobowiązany jest zaś do
+weryfikacji zarówno doboru, jak i poziomu skuteczności stosowanych rozwiązań na każ‐
+dym etapie przetwarzania. Kompleksowość tej weryfikacji powinna być oceniana przez
+pryzmat adekwatności do ryzyk oraz proporcjonalności w stosunku do stanu wiedzy
+technicznej, kosztów wdrażania oraz charakteru, zakresu, kontekstu i celów przetwarza‐
+nia. W przedmiotowym stanie faktycznym trzeba zatem uznać, że Uczelnia nie
+wywiązywała się z ww. obowiązku.
+W związku z powyższym zaznaczyć należy, iż funkcjonowanie jakiejkolwiek organizacji,
+zwłaszcza w sferze ochrony danych osobowych, nie może opierać się na nierzetelnych
+bądź nierealnych podstawach, zaś lekceważenie wartości podstawowych informacji wy‐
+wołać może fałszywe poczucie bezpieczeństwa, prowadzące do niepodjęcia przez admi‐
+nistratora działań, do których jest zobligowany, co z kolei skutkować może, jak w przed‐
+miotowym przypadku, naruszeniem ochrony danych osobowych, powodującym – ze
+względu na zakres danych osobowych podlegających naruszeniu – wysokie ryzyko
+naruszenia praw lub wolności osób fizycznych.
+Brak analizy ryzyka skutkujący doborem nieskutecznych środków bezpieczeństwa oraz
+brak regularnego testowania, mierzenia i oceniania przez Uczelnię skuteczności wdrożo‐
+nych środków technicznych i organizacyjnych mających zapewnić bezpieczeństwo prze‐
+twarzania nie tylko doprowadził do naruszenia ochrony danych osobowych, o którym
+mowa w art. 4 pkt 12 rozporządzenia 2016/679, ale przesądził też o naruszeniu przez
+XYZ obowiązków spoczywających na administratorze danych, wynikających z art. 24 ust.
+1, art. 25 ust. 1, art. 32 ust. 1 oraz art. 32 ust. 2 rozporządzenia 2016/679, a w konse‐
+kwencji również zasady poufności wyrażonej w art. 5 ust. 1 lit. f) rozporządzenia
+2016/679. Efektem zaś naruszenia zasady poufności jest naruszenie art. 5 ust. 2 rozpo‐
+rządzenia 2016/679. Jak bowiem wskazał Wojewódzki Sąd Administracyjny w Warszawie
+w wyroku z dnia 10 lutego 2021 r. (sygn. II SA/Wa 2378/20, Legalis nr 2579568), „(…)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 21 z 29
+
+administrator danych jest odpowiedzialny za przestrzeganie wszystkich zasad przy prze‐
+twarzaniu danych osobowych (wymienionych w art. 5 ust. 1) i musi być w stanie wyka‐
+zać ich przestrzeganie. Zasada rozliczalności bazuje więc na prawnej odpowiedzialności
+administratora za właściwe wypełnianie obowiązków i nakłada na niego obowiązek wyka‐
+zania zarówno przed organem nadzorczym, jak i przed podmiotem danych, dowodów na
+przestrzeganie wszystkich zasad przetwarzania danych”. Podobnie kwestię tę zinterpre‐
+tował Wojewódzki Sądu Administracyjny w Warszawie z dnia 26 sierpnia 2020 r. (sygn. II
+SA/Wa 2826/19, Legalis nr 2480051), stwierdzając, iż „biorąc pod uwagę całość norm
+rozporządzenia 2016/679, podkreślić należy, że administrator ma znaczną swobodę w
+zakresie stosowanych zabezpieczeń, jednocześnie jednak ponosi odpowiedzialność za
+naruszenie przepisów o ochronie danych osobowych. Z zasady rozliczalności wprost wy‐
+nika, że to administrator powinien wykazać, a zatem udowodnić, że przestrzega
+przepisów określonych w art. 5 ust. 1 rozporządzenia 2016/679”.
+Wobec braku zastosowania przez XYZ adekwatnych rozwiązań mających zapewnić pouf‐
+ność danych osobowych przetwarzanych za pośrednictwem aplikacji I., w szczególności
+w ramach operacji przetwarzania polegającej na przeniesieniu systemu R. na nowy ser‐
+wer produkcyjny, stwierdzić należy, że przed wystąpieniem naruszenia ochrony danych
+osobowych Uczelnia nie zapewniła odpowiedniego poziomu zabezpieczenia przetwarza‐
+nych w ten sposób danych. Przesądza to o niewdrożeniu przez XYZ odpowiednich środ‐
+ków technicznych i organizacyjnych, aby przetwarzanie to odbywało się zgodnie z rozpo‐
+rządzeniem 2016/679 oraz w celu nadania przetwarzaniu niezbędnych zabezpieczeń, do
+czego była zobowiązana na podstawie art. 24 ust. 1 i 25 ust. 1 rozporządzenia 2016/679,
+jak również o niewdrożeniu środków technicznych i organizacyjnych zapewniających sto‐
+pień bezpieczeństwa odpowiadający ryzyku naruszenia praw lub wolności osób fizycz‐
+nych, w tym m.in. zdolność do ciągłego zapewnienia poufności, integralności, dostępno‐
+ści i odporności systemów i usług przetwarzania, do czego zobowiązuje Uczelnię art. 32
+ust. 1 lit. b) rozporządzenia 2016/679, a także nieuwzględnieniu ryzyka wiążącego się z
+przetwarzaniem danych osobowych, o którym mowa w art. 32 ust. 2 rozporządzenia
+2016/679, a w konsekwencji o naruszeniu zasady integralności i poufności wyrażonej w
+art. 5 ust. 1 lit. f) rozporządzenia 2016/679, którego następstwem jest naruszenie
+zasady rozliczalności, o której mowa w art. 5 ust. 2 rozporządzenia 2016/679.
+Zgodnie z art. 58 ust. 2 lit. i) rozporządzenia 2016/679 każdemu organowi nadzorczemu
+przysługuje uprawnienie do zastosowania, oprócz lub zamiast środków, o których mowa
+w art. 58 ust. 2 rozporządzenia 2016/679, administracyjnej kary pieniężnej na mocy art.
+83 rozporządzenia 2016/679, zależnie od okoliczności konkretnej sprawy. Mając na uwa‐
+dze ustalenia stanu faktycznego, Prezes UODO, korzystając z przysługującego mu
+uprawnienia określonego w ww. przepisie, stwierdził, że w rozpatrywanej sprawie zaist‐
+niały przesłanki uzasadniające nałożenie na Szkołę (…) w K. z siedzibą w K. przy al. (…)
+administracyjnej kary pieniężnej.
+Wedle art. 83 ust. 4 lit. a) rozporządzenia 2016/679 naruszenia przepisów kształtujących
+obowiązki administratora i podmiotu przetwarzającego, o których mowa w art. 8, 11,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 22 z 29
+
+25-39 oraz 42 i 43, podlegają zgodnie z ust. 2 administracyjnej karze pieniężnej w wyso‐
+kości do 10 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 2% jego cał‐
+kowitego rocznego światowego obrotu z poprzedniego roku obrotowego, przy czym
+zastosowanie ma kwota wyższa.
+Stosownie do art. 83 ust. 5 lit. a) rozporządzenia 2016/679 naruszenia przepisów doty‐
+czących podstawowych zasad przetwarzania, w tym warunków zgody, o których to zasa‐
+dach i warunkach mowa w art. 5, 6, 7 oraz 9, podlegają zgodnie z ust. 2 administracyjnej
+karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w
+wysokości do 4% jego całkowitego rocznego światowego obrotu z poprzedniego roku
+obrotowego, przy czym zastosowanie ma kwota wyższa.
+Z kolei art. 83 ust. 3 rozporządzenia 2016/679 stanowi, iż jeżeli administrator lub pod‐
+miot przetwarzający narusza umyślnie lub nieumyślnie w ramach tych samych lub po‐
+wiązanych operacji przetwarzania kilka przepisów rozporządzenia 2016/679, całkowita
+wysokość administracyjnej kary pieniężnej nie przekracza wysokości kary za
+najpoważniejsze naruszenie.
+W niniejszym postępowaniu administracyjna kara pieniężna wobec XYZ nałożona została
+za naruszenie art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679 na podstawie
+przytoczonego wyżej art. 83 ust. 4 lit. a) rozporządzenia 2016/679, natomiast za naru‐
+szenie art. 5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia 2016/679 na podstawie art. 83 ust.
+5 lit. a) rozporządzenia 2016/679. Jednocześnie kara nałożona na Uczelnię łącznie za na‐
+ruszenie wszystkich powyższych przepisów, stosownie do art. 83 ust. 3 rozporządzenia
+2016/679, nie przekracza wysokości kary za najpoważniejsze stwierdzone w toku postę‐
+powania naruszenie, tj. naruszenie art. 5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia
+2016/679, które zgodnie z art. 83 ust. 5 lit. a) rozporządzenia 2016/679 podlega admini‐
+stracyjnej karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębior‐
+stwa – w wysokości do 4% jego całkowitego światowego obrotu z poprzedniego roku ob‐
+rotowego.
+Decydując o nałożeniu administracyjnej kary pieniężnej Prezes UODO – w myśl art. 83
+ust. 2 lit. a) – k) rozporządzenia 2016/679 – wziął pod uwagę następujące okoliczności
+sprawy, stanowiące o konieczności zastosowania w niniejszej sprawie tego rodzaju sank‐
+cji oraz wpływające obciążająco na wymiar nałożonej administracyjnej kary pieniężnej:
+1. Charakter, wagę i czas trwania naruszenia przy uwzględnieniu charakteru, zakresu
+lub celu danego przetwarzania, liczby poszkodowanych osób, których dane dotyczą,
+oraz rozmiaru poniesionej przez nie szkody (art. 83 ust. 2 lit. a) rozporządzenia
+2016/679).
+Stwierdzone w niniejszej sprawie naruszenie przepisów o ochronie danych oso‐
+bowych, którego skutkiem była możliwość uzyskania przez osoby trzecie nie‐
+uprawnionego dostępu do przetwarzanych przez Uczelnię danych osobowych
+zgromadzonych w bazie danych aplikacji I., ma poważny charakter i znaczną
+wagę, stwarza bowiem wysokie ryzyko wystąpienia negatywnych skutków praw‐
+nych dla 1461 osób. Niewywiązanie się przez XYZ z obowiązku zastosowania od‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+2.
+
+Strona 23 z 29
+
+powiednich środków zabezpieczających przetwarzane dane przed nieuprawnio‐
+nym ujawnieniem pociąga za sobą nie tylko potencjalną, ale również realną
+możliwość wykorzystania ich przed podmioty trzecie niezgodnie z przepisami
+rozporządzenia 2016/679 bez wiedzy i wbrew woli osób, których dane dotyczą,
+np. w celu nawiązania stosunków prawnych lub zaciągnięcia zobowiązań w ich
+imieniu.
+W niniejszej sprawie brak jest dowodów wskazujących na to, że studenci, absol‐
+wenci i byli studenci XYZ, do których danych uzyskały dostęp osoby trzecie, do‐
+znali szkody majątkowej, niemniej samo naruszenie poufności ich danych stano‐
+wi dla nich szkodę niemajątkową (krzywdę). Osoby fizyczne, których dane pozy‐
+skano w sposób nieuprawniony mogą bowiem co najmniej odczuwać obawę
+przed utratą kontroli nad swoimi danymi osobowymi, kradzieżą tożsamości lub
+oszustwem dotyczącym tożsamości, dyskryminacją czy wreszcie – stratą finan‐
+sową.
+Podkreślić należy również długi czas trwania naruszenia przepisów rozporządze‐
+nia 2016/679, trzeba bowiem przyjąć, iż stan ten rozpoczął się w dniu 25 maja
+2018 r., tj. w dniu rozpoczęcia stosowania przepisów rozporządzenia 2016/679,
+a zakończył się w dniu (…) września 2022 r. wraz z chwilą odłączenia aplikacji I.
+od sieci Internet. Pomimo faktu, że do przypadkowego ujawnienia danych, w
+konsekwencji którego doszło do nieuprawnionego przetwarzania ich przez osoby
+trzecie, doszło w dniu (…) sierpnia 2022 r. (w wyniku niezastosowania przez
+Uczelnię odpowiednich środków bezpieczeństwa), XYZ zobowiązana była dosto‐
+sować procesy przetwarzania danych do wymogów rozporządzenia 2016/679 od
+momentu rozpoczęcia jego stosowania.
+Umyślny charakter naruszenia (art. 83 ust. 2 lit. b) rozporządzenia 2016/679).
+Nieuprawniony dostęp do zgromadzonych w zasobach aplikacji I. danych osobo‐
+wych studentów, absolwentów i byłych studentów XYZ stał się możliwy na sku‐
+tek niedochowania przez Uczelnię należytej staranności, co w ocenie organu
+nadzorczego świadczy o umyślnym charakterze naruszenia. Uczelnia była świa‐
+doma, że w przypadku dopuszczenia przetwarzania danych osobowych o tak
+szerokim zakresie powinna zapewnić tym danym odpowiednie bezpieczeństwo,
+w tym ochronę przed niedozwolonym lub niezgodnym z prawem przetwarza‐
+niem, za pomocą odpowiednich środków technicznych i organizacyjnych, a więc
+w taki sposób, aby przetwarzanie to odbywało się zgodnie z zasadą integralno‐
+ści i poufności wyrażonej w art. 5 ust. 1 lit. f) rozporządzenia 2016/679.
+Jak wykazano wcześniej, analiza przyjętych przez Uczelnię regulacji wewnętrz‐
+nych przesądza o jej świadomości w zakresie potencjalnych zagrożeń wynikają‐
+cych z przetwarzania danych osobowych za pośrednictwem systemów informa‐
+tycznych. Znając charakter i specyfikę tego typu procesów, XYZ nie powinna
+była wykluczać możliwości ewentualnego wystąpienia naruszenia ochrony da‐
+nych osobowych ze względu na specyfikę działania systemów informatycznych,
+w których błąd ludzki należy zawsze brać pod uwagę. Mimo przyjętej praktyki
+wykorzystywania takich systemów do przetwarzania danych osobowych Uczel‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+3.
+
+Strona 24 z 29
+
+nia nie przeprowadziła analizy ryzyka w obszarze objętym naruszeniem ochrony
+danych osobowych aż do momentu jego wystąpienia, kiedy to podjęła ona opi‐
+sane wyżej czynności o charakterze techniczno-organizacyjnym, mające zagwa‐
+rantować bezpieczeństwo przetwarzania. W działaniach XYZ uwidoczniona zo‐
+stała świadomość co do braku zapewnienia odpowiedniego stopnia bezpieczeń‐
+stwa danych osobowych przetwarzanych za pośrednictwem aplikacji I. W oma‐
+wianym przypadku Uczelnia powinna była mieć na względzie, że przyjęte roz‐
+wiązania nie zapewnią adekwatnego poziomu bezpieczeństwa danych osobo‐
+wych, co prowadzić może do naruszenia przepisów o ochronie danych osobo‐
+wych.
+Biorąc pod uwagę ustalenia w sprawie będącej przedmiotem rozstrzygnięcia ni‐
+niejszej decyzji należy stwierdzić, że XYZ – mimo świadomości – dopuściła się
+rażącego zaniedbania, skutkującego wystąpieniem naruszenia poufności prze‐
+twarzanych danych, co stanowi istotną okoliczność wpływającą obciążająco na
+wysokość administracyjnej kary pieniężnej.
+Kategorie danych osobowych, których dotyczyło naruszenie (art. 83 ust. 2 lit. g)
+rozporządzenia 2016/679).
+Dane osobowe zgromadzone w zasobach aplikacji I. nie należały do szczegól‐
+nych kategorii danych osobowych, o których mowa w art. 9 rozporządzenia
+2016/679, jednakże ich zakres, tj. imię, nazwisko, imiona rodziców, data urodze‐
+nia, płeć, adres zamieszkania lub pobytu, numer ewidencyjny PESEL, adres email, nazwisko rodowe matki, numer telefonu, login, numer albumu, informacje
+o dowodzie osobistym lub paszporcie (seria i numer dokumentu, kraj wydania,
+organ wydający, data wydania, data ważności), obywatelstwo, narodowość, fakt
+posiadania Karty Polaka, tryb, poziom i kierunek studiów, poziom znajomości ję‐
+zyka obcego, średnia ocen, liczba uzyskanych punktów, wiąże się z wysokim ry‐
+zykiem naruszenia praw lub wolności osób fizycznych dotkniętych naruszeniem
+ochrony ich danych osobowych. Należy podkreślić, że w szczególności nie‐
+uprawnione ujawnienie takich kategorii danych, jak numer ewidencyjny PESEL
+wraz z imieniem i nazwiskiem, które jednoznacznie identyfikują osobę fizyczną,
+może realnie i negatywnie wpływać na ochronę praw lub wolności tej osoby. Jak
+bowiem wskazał Wojewódzki Sąd Administracyjny w Warszawie w wyroku z dnia
+1 lipca 2022 r. (sygn. II SA/Wa 4143/21, Legalis nr 2760091), „w przypadku na‐
+ruszenia takich danych, jak imię, nazwisko oraz nr PESEL, możliwa jest kradzież
+lub sfałszowanie tożsamości poprzez uzyskanie przez osoby trzecie, na szkodę
+osób, których dane naruszono, pożyczek w instytucjach pozabankowych bądź
+wyłudzenia ubezpieczenia lub środków z ubezpieczenia, co może spowodować
+negatywne konsekwencje związane z próbą przypisania osobom, których dane
+dotyczą, odpowiedzialności za dokonanie takiego oszustwa”.
+Uznać zatem należy, że numer ewidencyjny PESEL, czyli jedenastocyfrowy sym‐
+bol numeryczny, jednoznacznie identyfikujący osobę fizyczną, zawierający m.in.
+datę urodzenia oraz oznaczenie płci, a więc ściśle powiązany ze sferą prywatną
+osoby fizycznej oraz podlegający również, jako krajowy numer identyfikacyjny,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 25 z 29
+
+ochronie na gruncie art. 87 rozporządzenia 2016/679, jest daną o szczególnym
+charakterze i jako taka – wymaga równie szczególnej ochrony. Szczególnej
+ochrony danych osobowych, w tym przede wszystkim numeru ewidencyjnego
+PESEL, wymaga się także od instytucji publicznych, do których bez wątpienia
+zaliczyć można stronę przedmiotowego postępowania.
+Decydując o nałożeniu administracyjnej kary pieniężnej Prezes UODO wziął pod uwagę
+następujące okoliczności sprawy, stanowiące o konieczności zastosowania w niniejszej
+sprawie tego rodzaju sankcji oraz wpływające łagodząco na wymiar nałożonej
+administracyjnej kary pieniężnej:
+1. Działania podjęte przez administratora w celu zminimalizowania szkody poniesionej
+przez osoby, których dane dotyczą (art. 83 ust. 2 lit. c) rozporządzenia 2016/679).
+Podkreślenia wymaga, iż XYZ podjęła działania mające na celu zminimalizowa‐
+nie ewentualnych negatywnych skutków naruszenia ochrony danych osobo‐
+wych, w tym m.in. ograniczenie potencjalnych szkód poniesionych przez osoby,
+których dane dotyczą. W piśmie z dnia 9 listopada 2023 r. Uczelnia
+poinformowała, że „(…) umożliwiła osobom dotkniętym naruszeniem skorzysta‐
+nie z abonamentu na alerty BIK, oraz zapewniła pokrycie kosztów wymiany do‐
+kumentów i wykonania aktualnej fotografii do dokumentu. Z możliwości skorzy‐
+stania z alertów BIK skorzystało ponad (…) studentów. Ponadto (…) osób doko‐
+nało wymiany dokumentów na koszt Uczelni, który wyniósł PLN 6726”.
+2. Stopień współpracy z organem nadzorczym w celu usunięcia naruszenia oraz złago‐
+dzenia jego ewentualnych negatywnych skutków (art. 83 ust. 2 lit. f) rozporządzenia
+2016/679).
+Należy zaznaczyć, iż poza prawidłowym wywiązywaniem się z ciążących na XYZ
+obowiązków procesowych w trakcie postępowania administracyjnego zakończo‐
+nego wydaniem niniejszej decyzji, Uczelnia w pełnym zakresie zrealizowała za‐
+lecenia Prezesa UODO dotyczące uzupełnienia zawiadomienia osób, których
+dane dotyczą, o zaistniałym naruszeniu ochrony ich danych osobowych. Po
+stwierdzeniu naruszenia ochrony danych osobowych Uczelnia podjęła również
+konkretne i szybkie działania, których efektem było zminimalizowanie skutków
+naruszenia oraz wyeliminowanie możliwości jego ponownego wystąpienia, takie
+jak odłączenie aplikacji I. od sieci publicznej i wycofanie jej z eksploatacji, do‐
+prowadzenie do usunięcia przez pomoc techniczną firmy Y. ujawnionych infor‐
+macji z zasobów wyszukiwarki Z. oraz uzyskanie pisemnych potwierdzeń trwałe‐
+go usunięcia pobranych danych (lub wykasowania pamięci podręcznej przeglą‐
+darki w przypadku jedynie ich przeglądania) przez wszystkie osoby, które w
+wyniku przedmiotowego incydentu uzyskały do nich nieuprawniony dostęp.
+Inne, niżej wskazane okoliczności, o których mowa w art. 83 ust. 2 rozporządzenia
+2016/679, po dokonaniu oceny ich wpływu na stwierdzone w niniejszej sprawie narusze‐
+nie, zostały przez Prezesa UODO uznane za neutralne w jego ocenie, to znaczy nie mają‐
+ce ani obciążającego ani łagodzącego wpływu na wymiar orzeczonej administracyjnej
+kary pieniężnej.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+1.
+
+2.
+
+3.
+
+Strona 26 z 29
+
+Stopień odpowiedzialności administratora z uwzględnieniem środków technicznych i
+organizacyjnych wdrożonych przez niego na mocy art. 25 i 32 (art. 83 ust. 2 lit. d)
+rozporządzenia 2016/679).
+Jak wskazała Grupa Robocza Art. 29 (Wytyczne w sprawie stosowania i ustalania
+administracyjnych kar pieniężnych do celów rozporządzenia nr 2016/679 przyję‐
+te w dniu 3 października 2017 r., 17/PL, WP 253, zwane dalej „Wytycznymi WP
+253”), rozpatrując ww. przesłankę „organ nadzorczy musi odpowiedzieć na py‐
+tanie, w jakim stopniu administrator »zrobił wszystko, czego można by było
+oczekiwać«, zważywszy na charakter, cele lub zakres przetwarzania oraz w
+świetle obowiązków nałożonych na niego przez rozporządzenie”.
+Organ nadzorczy stwierdził w niniejszej sprawie naruszenie przez XYZ przepisów
+art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679. W jego ocenie na
+Uczelni ciąży w wysokim stopniu odpowiedzialność za niewdrożenie odpowied‐
+nich środków technicznych i organizacyjnych, które mogłyby zapobiec narusze‐
+niu ochrony danych osobowych. Oczywistym jest, że w rozważanym kontekście
+charakteru, celu i zakresu przetwarzania danych osobowych XYZ nie zrobiła
+wszystkiego, czego można by było oczekiwać, nie wywiązując się tym samym z
+obowiązków nałożonych na nią mocy art. 25 i 32 rozporządzenia 2016/679.
+W niniejszej sprawie okoliczność ta stanowi jednak o istocie samego naruszenia
+– nie jest zaś jedynie czynnikiem wpływającym – obciążająco lub łagodząco – na
+jego ocenę. Z tego też powodu brak odpowiednich środków technicznych i orga‐
+nizacyjnych, o których mowa w art. 25 i 32 rozporządzenia 2016/679, nie może
+zostać uznany w niniejszej sprawie za okoliczność mogącą dodatkowo wpłynąć
+na ocenę naruszenia i wymiar nałożonej na Uczelnię administracyjnej kary pie‐
+niężnej.
+Wszelkie stosowne wcześniejsze naruszenia ze strony administratora (art. 83 ust. 2
+lit. e) rozporządzenia 2016/679).
+Prezes UODO nie stwierdził po stronie XYZ jakichkolwiek wcześniejszych naru‐
+szeń przepisów o ochronie danych osobowych, w związku z czym brak jest pod‐
+staw do traktowania tej okoliczności jako obciążającej. Obowiązkiem każdego
+administratora jest przestrzeganie przepisów prawa, a zatem brak wcześniej‐
+szych naruszeń nie może być również okolicznością łagodzącą przy wymierzaniu
+sankcji.
+Sposób, w jaki organ nadzorczy dowiedział się o naruszeniu, w szczególności, czy i w
+jakim zakresie administrator zgłosił naruszenie (art. 83 ust. 2 lit. h) rozporządzenia
+2016/679).
+Prezes UODO stwierdził naruszenie przez XYZ przepisów o ochronie danych oso‐
+bowych w wyniku zgłoszenia naruszenia ochrony danych osobowych dokonane‐
+go przez Uczelnię. XYZ, dokonując zgłoszenia, realizowała ciążący na niej obo‐
+wiązek prawny, brak jest zatem podstaw do uznania, że fakt ten stanowi oko‐
+liczność łagodzącą. Grupa Robocza Art. 29 wskazuje w Wytycznych WP 253, że
+„organ nadzorczy może dowiedzieć się o naruszeniu w wyniku postępowania,
+skarg, artykułów w prasie, anonimowych wskazówek lub powiadomienia przez
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+4.
+
+5.
+
+6.
+
+Strona 27 z 29
+
+administratora danych. Zgodnie z rozporządzeniem administrator ma obowią‐
+zek zawiadomić organ nadzorczy o naruszeniu ochrony danych. Zwykłe dopeł‐
+nienie tego obowiązku przez administratora nie może być interpretowane jako
+czynnik osłabiający/łagodzący”.
+Jeżeli wobec administratora, którego sprawa dotyczy, zostały wcześniej zastosowa‐
+ne w tej samej sprawie środki, o których mowa w art. 58 ust. 2 – przestrzeganie tych
+środków (art. 83 ust. 2 lit. i) rozporządzenia 2016/679).
+Przed wydaniem niniejszej decyzji Prezes UODO nie stosował wobec XYZ w roz‐
+patrywanej sprawie żadnych środków wymienionych w art. 58 ust. 2 rozporzą‐
+dzenia 2016/679, w związku z czym Uczelnia nie miała obowiązku podejmowa‐
+nia żadnych działań związanych z ich stosowaniem, a które to działania, podda‐
+ne ocenie organu nadzorczego, mogłyby mieć obciążający lub łagodzący wpływ
+na ocenę stwierdzonego naruszenia.
+Stosowanie zatwierdzonych kodeksów postępowania na mocy art. 40 lub zatwier‐
+dzonych mechanizmów certyfikacji na moc art. 42 (art. 83 ust. 2 lit. j)
+rozporządzenia 2016/679).
+XYZ nie stosuje zatwierdzonych kodeksów postępowania ani zatwierdzonych
+mechanizmów certyfikacji, o których mowa w przepisach rozporządzenia
+2016/679. Ich przyjęcie, wdrożenie i stosowanie nie jest jednak – jak stanowią
+przepisy rozporządzenia 2016/679 – obowiązkowe dla administratorów, w związ‐
+ku z czym okoliczność ich niestosowania nie może być w niniejszej sprawie po‐
+czytana na niekorzyść Uczelni. Na jej korzyść mogłaby być natomiast uwzględ‐
+niona okoliczność przyjęcia i stosowania tego rodzaju instrumentów, jako środ‐
+ków gwarantujących wyższy niż standardowy poziom ochrony przetwarzania
+danych osobowych.
+Wszelkie inne obciążające lub łagodzące czynniki mające zastosowanie do okolicz‐
+ności sprawy, takie jak osiągnięte bezpośrednio lub pośrednio w związku z narusze‐
+niem korzyści finansowe lub uniknięcie straty (art. 83 ust. 2 lit. k) rozporządzenia
+2016/679).
+Prezes UODO nie stwierdził, aby w związku z naruszeniem XYZ odniosła jakiekol‐
+wiek korzyści finansowe lub uniknęła tego rodzaju strat. Brak jest więc podstaw
+do traktowania tej okoliczności jako obciążającej Uczelnię. Stwierdzenie zaist‐
+nienia wymiernych korzyści finansowych wynikających z naruszenia przepisów
+rozporządzenia 2016/679 należałoby ocenić zdecydowanie negatywnie. Nieosią‐
+gnięcie zaś przez XYZ takich korzyści, jako stan naturalny, niezależny od naru‐
+szenia i jego skutków, jest okolicznością, która z istoty rzeczy nie może być ła‐
+godząca dla Uczelni. Interpretację tę potwierdza już samo sformułowanie prze‐
+pisu art. 83 ust. 2 lit. k) rozporządzenia 2016/679, który nakazuje organowi
+nadzorczemu zwrócić należytą uwagę na korzyści „osiągnięte” – zaistniałe po
+stronie podmiotu dokonującego naruszenia.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 28 z 29
+
+Prezes UODO, wszechstronnie rozpatrując przedmiotową sprawę, nie odnotował okolicz‐
+ności innych, niż powyżej opisane, mogących wpłynąć na ocenę naruszenia i wysokość
+orzeczonej administracyjnej kary pieniężnej.
+Uwzględniając wszystkie omówione wyżej okoliczności, Prezes UODO uznał, iż nałożenie
+administracyjnej kary pieniężnej na XYZ jest konieczne i uzasadnione wagą, charakte‐
+rem oraz zakresem zarzucanych Uczelni naruszeń. Stwierdzić należy, że zastosowanie
+wobec XYZ jakiegokolwiek innego środka naprawczego przewidzianego w art. 58 ust 2
+rozporządzenia 2016/679, w szczególności zaś poprzestanie na upomnieniu (art. 58 ust.
+2 lit. b) rozporządzenia 2016/679), nie byłoby proporcjonalne do stwierdzonych nieprawi‐
+dłowości w procesie przetwarzania danych osobowych oraz nie gwarantowałoby tego, że
+Uczelnia w przyszłości nie dopuści się kolejnych zaniedbań.
+Odnosząc się do wysokości wymierzonej XYZ administracyjnej kary pieniężnej wskazać
+należy, iż w ustalonych okolicznościach niniejszej sprawy, wobec stwierdzenia narusze‐
+nia kilku przepisów rozporządzenia 2016/679, tj. zasady integralności i poufności da‐
+nych, wyrażonej w art. 5 ust. 1 lit. f) rozporządzenia 2016/679, a odzwierciedlonej w po‐
+staci obowiązków określonych w art. 25 ust. 1, art. 32 ust. 1 oraz art. 32 ust. 2 rozporzą‐
+dzenia 2016/679, a w konsekwencji również art. 5 ust. 2 rozporządzenia 2016/679, sta‐
+nowiącego emanację zasady rozliczalności, a także faktu, iż Uczelnia jest organem jed‐
+nostki sektora finansów publicznych, zastosowanie znajdzie art. 102 ustawy z dnia 10
+maja 2018 r., z którego wynika ograniczenie wysokości administracyjnej kary pieniężnej,
+jaka może zostać nałożona na jednostkę sektora finansów publicznych, do kwoty 100
+000 PLN (słownie: stu tysięcy złotych).
+W ocenie organu nadzorczego zastosowana administracyjna kara pieniężna spełnia w
+ustalonych okolicznościach niniejszej sprawy funkcje, o których mowa w art. 83 ust. 1
+rozporządzenia 2016/679, tzn. będzie w tym indywidualnym przypadku skuteczna,
+proporcjonalna i odstraszająca.
+Zdaniem Prezesa UODO nałożona na XYZ kara będzie skuteczna, ponieważ doprowadzi
+do stanu, w którym Uczelnia stosowała będzie takie środki techniczne i organizacyjne,
+które zapewnią przetwarzanym danym stopień bezpieczeństwa odpowiadający ryzyku
+naruszenia praw i wolności osób, których dane dotyczą, oraz wadze zagrożeń towarzy‐
+szących procesom przetwarzania tych danych osobowych. Skuteczność kary równoważ‐
+na jest zatem gwarancji tego, że XYZ od momentu zakończenia niniejszego postępowa‐
+nia będzie z najwyższą starannością podchodzić do wymogów stawianych przez przepisy
+o ochronie danych osobowych.
+Zastosowana administracyjna kara pieniężna jest również proporcjonalna do stwierdzo‐
+nego naruszenia, w tym w szczególności jego wagi, skutku, kręgu dotkniętych nim osób
+fizycznych oraz wysokiego ryzyka negatywnych konsekwencji, jakie w związku z naru‐
+szeniem mogą one ponieść. W ocenie Prezesa UODO nałożona na Uczelnię administra‐
+cyjna kara pieniężna nie będzie stanowiła nadmiernego dla niej obciążenia. Wysokość
+kary została bowiem określona na takim poziomie, aby z jednej strony stanowiła ade‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+
+Decyzja DKN.5131.26.2023
+
+Strona 29 z 29
+
+kwatną reakcję organu nadzorczego na stopień naruszenia obowiązków przez XYZ, nie
+powodując z drugiej strony sytuacji, w której konieczność jej uiszczenia pociągnie za
+sobą negatywne następstwa w postaci istotnego pogorszenia sytuacji finansowej Uczel‐
+ni. Zdaniem Prezesa UODO XYZ powinna – i jest w stanie – ponieść konsekwencje swoich
+zaniedbań w sferze ochrony danych, w związku z czym uznaje on nałożenie kary w wyso‐
+kości 35 000 PLN (słownie: trzydziestu pięciu tysięcy złotych) za w pełni uzasadnione.
+W ocenie organu nadzorczego administracyjna kara pieniężna spełni także w tych kon‐
+kretnych okolicznościach funkcję represyjną, jako że stanowić będzie odpowiedź na na‐
+ruszenie przez XYZ przepisów rozporządzenia 2016/679, ale i prewencyjną, przyczynia‐
+jąc się do zapobiegania w przyszłości naruszeniom obowiązków Uczelni wynikających z
+przepisów o ochronie danych osobowych.
+Zdaniem Prezesa UODO zastosowana administracyjna kara pieniężna spełnia w ustalo‐
+nych okolicznościach niniejszej sprawy przesłanki, o których mowa w art. 83 rozporzą‐
+dzenia 2016/679, ze względu na wagę stwierdzonych naruszeń w kontekście podstawo‐
+wych wymogów i zasad rozporządzenia 2016/679, w tym w szczególności zasady inte‐
+gralności i poufności wyrażonej w art. 5 ust. 1 lit. f) rozporządzenia 2016/679.
+Celem nałożonej kary jest doprowadzenie do przestrzegania w przyszłości przez XYZ
+przepisów rozporządzenia 2016/679.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_26/content
+
+2025-09-03 13:29
+

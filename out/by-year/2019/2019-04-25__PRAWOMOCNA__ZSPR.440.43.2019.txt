@@ -1,0 +1,550 @@
+Warszawa, 25 kwietnia 2019
+PRAWOMOCNA
+
+Decyzja
+ZSPR.440.43.2019
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r. poz. 2096, z późn. zm.) oraz art. 7 ust. 1 i 2, art. 60,
+art. 101, art. 103 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z
+2018 r. poz. 1000, z późn. zm.) w związku z art. 5 ust. 1 lit. f, art. 32 ust. 1 lit. b i art. 32
+ust. 2, art. 58 ust. 2 lit. i oraz z art. 83 ust. 3, art. 83 ust. 4 lit. a, art. 83 ust. 5 lit. a
+rozporządzenia Parlamentu Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r.
+w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w
+sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+(ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, ze
+zmianą ogłoszoną w Dz. Urz. UE L 127 z 23.05.2018, str. 2),
+po przeprowadzeniu postępowania administracyjnego w sprawie przetwarzania danych
+osobowych przez E. z siedzibą w O. przy ul. (…), Prezes Urzędu Ochrony Danych Osobo‐
+wych
+stwierdzając naruszenie przez E. z siedzibą w O. przy ul. (…), przepisów art. 5 ust. 1 lit. f,
+art. 32 ust. 1 lit. b i art. 32 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady UE
+2016/679 i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycz‐
+nych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepły‐
+wu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie
+danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, ze zmianą ogłoszoną w Dz. Urz. UE L 127
+z 23.05.2018, str. 2), polegające na niezapewnieniu bezpieczeństwa i poufności przetwa‐
+rzanych danych osobowych osób, którym przyznano licencje sędziowskie w roku 2015, w
+zakresie numeru PESEL oraz adresu zamieszkania poprzez ich nieuprawnione ujawnienie
+na stronie internetowej E. pod linkiem: (…) w zakładkach „(…)”, „(…)” oraz „(…)”
+nakłada na E. z siedzibą w O. przy ul. (…), administracyjną karę pieniężną w wysokości
+55 750,50 PLN (słownie: pięćdziesiąt pięć tysięcy siedemset pięćdziesiąt złotych pięć‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+
+Decyzja ZSPR.440.43.2019
+
+Strona 2 z 11
+
+dziesiąt groszy), co stanowi równowartość 13.000 EUR, według średniego kursu euro
+ogłoszonego przez Narodowy Bank Polski w tabeli kursów na dzień 28 stycznia 2019 r.
+
+Uzasadnienie
+W dniu (…) lipca 2018 r. E. z siedzibą w O. przy ul. (…), zwany dalej E., zgłosił Prezesowi
+Urzędu Ochrony Danych Osobowych naruszenie ochrony danych osobowych polegające
+na niezamierzonej publikacji danych osobowych osób, którym przyznano licencje sę‐
+dziowskie w roku 2015, w zakresie imienia, nazwiska, numeru PESEL oraz adresu za‐
+mieszkania na stronie internetowej E. pod linkiem: (…) w zakładkach „(…)”, „(…)” oraz
+„(…)”. W powyższym zgłoszeniu E. wskazał, że okres naruszenia trwał od października
+2015 r. do dnia (…) lipca 2018 r. Przyczyną naruszenia były wewnętrzne działania nieza‐
+mierzone. W zawiadomieniu wskazano, że osoby, których dane dotyczą zostaną
+powiadomione o naruszeniu.
+Pismem z dnia (…) sierpnia 2018 r. E. poinformował organ nadzorczy o zakończeniu pro‐
+cesu powiadamiania osób, których dane dotyczą, o naruszeniu ich danych oraz o
+usunięciu tego naruszenia.
+Z uwagi na to, że powiadomienie osób, których dane dotyczą, nie spełniało wymogów
+określonych w art. 34 rozporządzenia 2016/679 w dniu (…) sierpnia 2018 r. Prezes Urzę‐
+du Ochrony Danych Osobowych wystąpił do E. na podstawie art. 52 ust. 1 ustawy z dnia
+10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2018 r. poz. 1000, z późn. zm.),
+zwanej dalej ustawą, o podjęcie działań mających na celu zawiadomienie osób, których
+dane dotyczą, o naruszeniu ich danych, w tym przekazanie zaleceń odnośnie zminimali‐
+zowania potencjalnych negatywnych skutków zaistniałego naruszenia oraz o wyelimino‐
+waniu podobnych nieprawidłowości w przyszłości. W odpowiedzi na powyższe wystąpie‐
+nie E. w zgłoszeniu uzupełniającym z dnia (…) października 2018 r., wskazał, że powia‐
+domił osoby zgodnie z art. 34 rozporządzenia 2016/679 oraz podjął działania mające na
+celu zabezpieczenie przetwarzanych danych, w tym dokonał stosownych zmian w proce‐
+durach zarządzania stroną www (m. in. ustalił procedurę wprowadzania danych na stro‐
+nę poprzez poddanie szczególnemu rygorowi i kontroli ze strony Administratora Danych
+Osobowych i Inspektora Ochrony Danych), objął programem szkoleniowym osoby odpo‐
+wiedzialne za przetwarzanie danych oraz umieścił na stronie internetowej informacje o
+wyznaczeniu Inspektora Ochrony Danych wraz z podaniem kontaktu do Inspektora. Po‐
+nadto, E., jako datę zakończenia naruszenia, ponownie wskazał datę (…) lipca 2018 r.
+Prezes Urzędu Ochrony Danych Osobowych (zwany dalej: „Prezesem UODO”) otrzymał
+skargę od jednej z osób, której dane osobowe zostały udostępnione na stronie interneto‐
+wej E.. Na jej podstawie Prezes UODO dokonał czynności sprawdzających, czy publikacja
+danych osobowych została przez E. usunięta, czy widnieje nadal. W wyniku powyższych
+czynności w dniu (…) stycznia 2019 r. ustalono, że po wpisaniu w wyszukiwarce
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+
+Decyzja ZSPR.440.43.2019
+
+Strona 3 z 11
+
+internetowej adresu strony internetowej (…), w odnośnikach „(…)”, „(…)” oraz „(…)”
+opublikowane są dane osobowe łącznie 585 osób, w zakresie imienia, nazwiska, numeru
+PESEL oraz adresu zamieszkania. Wobec powyższego Prezes Urzędu Ochrony Danych
+Osobowych pismem z dnia (…) stycznia 2019 r. znak: (…), zawiadomił E. o wszczęciu z
+urzędu postępowania administracyjnego w sprawie niezapewnienia bezpieczeństwa i po‐
+ufności przetwarzanych danych osobowych osób, którym przyznano licencje sędziowskie
+w roku 2015, w zakresie imienia, nazwiska, numeru PESEL oraz adresu zamieszkania po‐
+przez ich bezprawną publikacje na stronie internetowej E. pod linkiem: (…) w zakładkach
+„(…)”, „(…)” oraz „(…)”.
+Prezes UODO, na podstawie zebranego materiału dowodowego, ustalił następujący stan
+faktyczny sprawy.
+1. E., jest: związkiem sportowym w rozumieniu obowiązujących przepisów prawa (§ 1
+statutu E.), dobrowolną, samorządną i trwałą organizacją sportu (…), działającą w
+oparciu o zrzeszonych w niej członków (§ 6 statutu E.) oraz o Statut (§ 7 statutu E.).
+Ponadto zgodnie z § 11 ust. 6 statutu E., realizuje on swoje cele m. in. poprzez pro‐
+wadzenie ewidencji, statystyki, dokumentacji i zasobów archiwalnych oraz
+wydawanie komunikatów i materiałów informacyjnych.
+2. Zgodnie z Krajowym Rejestrem Sądowym (nr KRS (…)) E. jest związkiem sportowym,
+którego celem działania jest organizacja, rozwój i popularyzacja sportu (…) w woje‐
+wództwie (…), ochrona praw i interesów oraz koordynacja działań wszystkich człon‐
+ków związku oraz pozyskiwanie środków materiałowych i finansowych z przeznacze‐
+niem ich na prowadzenie swej działalności statutowej.
+3. W związku z zakończeniem procesu przyznawania licencji sędziowskich w 2015 r., na
+podstawie zgłoszeń przesłanych przez kolegium sędziowskie, E. opublikował w paź‐
+dzierniku 2015 r. listę osób, którym przyznano licencje sędziowskie w roku 2015. Pu‐
+blikacja obejmowała: imię, nazwisko, numer PESEL oraz adres zamieszkania. Dane
+te zostały opublikowane na stronie internetowej E. pod linkiem: (…) w zakładkach
+„(…)”, „(…)” oraz „(…)”.
+4. Z wyjaśnień E. wynika, że podjął działania mające na celu: usunięcie plików z dany‐
+mi, powiadomienie dostawców wyszukiwarek, aby usunąć dane z wyników wyszuki‐
+wania. Następnie dane ze strony internetowej zostały usunięte a wskazanie linki:
+(…), (…), (…) oraz (…) zostały zgłoszone do (…) celem usunięcia z indexu. Usunięcie
+miało mieć miejsce (…) lipca 2018 r., na co wskazuje korespondencja e-mailowa po‐
+między E., a firmą sprawującą nadzór informatyczny nad stroną internetową. Jedno‐
+cześnie, E. wskazał, że w sierpniu 2018 r. celem dokonania kontroli stanu realizacji
+usunięcia danych ze strony, sprawdził i ustalił iż dane nie pojawiają się w Internecie,
+wymienił też korespondencję z firmą informatyczną, której odpowiedź potwierdziła
+usunięcie z niej danych.
+5. W dniu (…) stycznia 2019 r., E. otrzymał telefoniczną informację, iż pomimo usunię‐
+cia przedmiotowych danych ze strony internetowej E., są one dostępne w wyszuki‐
+warce (…) i plik z danymi wyświetla się w Internecie. Wobec powyższego E. dokonał
+ponownej analizy strony oraz zwrócił się w tym celu do firmy informatycznej, która
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+
+Decyzja ZSPR.440.43.2019
+
+6.
+
+7.
+
+8.
+
+Strona 4 z 11
+
+sprawuje nadzór nad tą stroną. W dniu (…) stycznia 2019 r. E. otrzymał informacje
+od firmy informatycznej, sprawującej nadzór nad stroną internetową, że dostęp do
+treści strony (zawierającej dane osób, którym przyznano licencje sędziowskie w roku
+2015 w zakresie adresu zamieszkania i numeru PESEL) jest możliwy po wpisaniu w
+wyszukiwarce internetowej adresu url lub po podejrzeniu treści serwera E.. Ponadto,
+firma sprawująca nadzór nad stroną internetową poinformowała E. o usunięciu lin‐
+ków i dodatkowych wykonanych pracach takich jak zupełne wyłączenie indeksowa‐
+nia z treści modułu Media. Na potwierdzenie swoich wyjaśnień E. dołączył
+korespondencję z ww. podmiotem.
+Po wszczęciu postępowania E. usunął ze swojej strony internetowej dane osób, któ‐
+rym przyznano licencje sędziowskie w roku 2015, w zakresie imienia, nazwiska, nu‐
+meru PESEL oraz adresu zamieszkania, w związku z czym po wpisaniu w wyszuki‐
+warce internetowej adresu url strony, na której znajdowały się dane osób, którym
+przyznano licencje sędziowskie w roku 2015 w zakresie imienia, nazwiska, adresu
+zamieszkania i numeru PESEL, w wynikach wyszukiwania nie wyświetla się strona
+zawierająca w swojej treści te dane.
+E. przesłał do organu nadzorczego sprawozdanie finansowe za rok obrotowy kończą‐
+cy się (…) grudnia 2017 r., z którego wynika, że przychody z działalności statutowej
+wynoszą (…) zł.
+Ze sprawozdania finansowego nie wynika, aby w ramach swojej działalności prowa‐
+dził on działalność gospodarczą, zaś przychody z działalności statutowej obejmują
+środki pieniężne i inne aktywa finansowe ze źródeł określonych przepisami prawa
+lub statutem.
+
+Po przeanalizowaniu zgromadzonego w sprawie materiału dowodowego, Prezes Urzędu
+Ochrony Danych Osobowych stwierdza, co następuje.
+Prezes UODO jest organem właściwym w sprawie ochrony danych osobowych (art. 34
+ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych) i organem nadzorczym w
+rozumieniu rozporządzenia Parlamentu Europejskiego i Rady UE 2016/679 z dnia 27
+kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych
+osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy
+95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016,
+str. 1, ze zmianą ogłoszoną w Dz. Urz. UE L 127 z 23.05.2018, str. 2), zwanego dalej roz‐
+porządzeniem 2016/679 (art. 34 ust. 2 ustawy z dnia 10 maja 2018 r. o ochronie danych
+osobowych).
+Stosownie do art. 57 ust. 1 rozporządzenia 2016/679, bez uszczerbku dla innych zadań
+określonych na mocy niniejszego rozporządzenia, każdy organ nadzorczy na swoim tery‐
+torium monitoruje i egzekwuje stosowanie niniejszego rozporządzenia (lit. a), prowadzi
+postępowania w sprawie stosowania niniejszego rozporządzenia (lit. h). Instrumentami
+realizacji zadań, o których mowa w art. 57 rozporządzenia 2016/679 są w szczególności
+uprawnienia naprawcze nadane mocą art. 58 ust. 2, nakazanie administratorowi lub pod‐
+miotowi przetwarzającemu dostosowania operacji przetwarzania do przepisów niniejsze‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+
+Decyzja ZSPR.440.43.2019
+
+Strona 5 z 11
+
+go rozporządzenia, a w stosownych przypadkach wskazanie sposobu i terminu (lit. d) i
+zastosowanie, oprócz lub zamiast środków, o których mowa w niniejszym ustępie, admi‐
+nistracyjnej kary pieniężnej na mocy art. 83, zależnie od okoliczności konkretnej sprawy
+(lit. i).
+Art. 5 rozporządzenia 2016/679, formułuje zasady dotyczące przetwarzania danych oso‐
+bowych, które muszą być respektowane przez wszystkich administratorów tj. podmioty,
+które samodzielnie lub wspólnie z innymi ustalają cele i sposoby przetwarzania danych
+osobowych. Zgodnie z art. 5 ust. 1 lit. f rozporządzenia 2016/679 dane osobowe muszą
+być przetwarzane w sposób zapewniający odpowiednie bezpieczeństwo danych osobo‐
+wych, w tym ochronę przed niedozwolonym lub niezgodnym z prawem przetwarzaniem
+oraz przypadkową utratą, zniszczeniem lub uszkodzeniem, za pomocą odpowiednich
+środków technicznych lub organizacyjnych („integralność i poufność”).
+Stosownie zaś do art. 32 ust. 1 lit. b rozporządzenia 2016/679, uwzględniając stan wie‐
+dzy technicznej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania
+oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobień‐
+stwie wystąpienia i wadze, administrator i podmiot przetwarzający wdrażają odpowied‐
+nie środki techniczne i organizacyjne, aby zapewnić stopień bezpieczeństwa odpowiada‐
+jący temu ryzyku, w tym między innymi w stosownym przypadku zdolność do ciągłego
+zapewnienia poufności, integralności, dostępności i odporności systemów i usług prze‐
+twarzania. W myśl art. 32 ust. 2 rozporządzenia 2016/679, administrator oceniając, czy
+stopień bezpieczeństwa jest odpowiedni, uwzględnia w szczególności ryzyko wiążące się
+z przetwarzaniem, w szczególności wynikające z przypadkowego lub niezgodnego z pra‐
+wem zniszczenia, utraty, modyfikacji, nieuprawnionego ujawnienia lub nieuprawnionego
+dostępu do danych osobowych przesyłanych, przechowywanych lub w inny sposób prze‐
+twarzanych.
+Przepis art. 32 rozporządzenia 2016/679 stanowi również konkretyzację wskazanej w art.
+5 ust. 1 lit. f rozporządzenia 2016/679, zasady integralności i poufności, zgodnie z którą
+dane osobowe muszą być przetwarzane w sposób zapewniający odpowiednie bezpie‐
+czeństwo danych osobowych, w tym ochronę przed niedozwolonym lub niezgodnym z
+prawem przetwarzaniem, oraz przypadkową utratą, zniszczeniem lub uszkodzeniem, za
+pomocą odpowiednich środków technicznych lub organizacyjnych.
+Stosownie do art. 6 ust. 1 lit. f przetwarzanie jest zgodne z prawem wyłącznie w przy‐
+padkach, gdy i w takim zakresie przetwarzanie jest niezbędne do celów wynikających z
+prawnie uzasadnionych interesów realizowanych przez administratora lub przez stronę
+trzecią, z wyjątkiem sytuacji, w których nadrzędny charakter wobec tych interesów mają
+interesy lub podstawowe prawa i wolności osoby, której dane dotyczą, wymagające
+ochrony danych osobowych, w szczególności gdy osoba, której dane dotyczą, jest dziec‐
+kiem.
+E. jako Wojewódzki Związek Piłki Nożnej jest zobowiązany do prowadzenia ewidencji
+przyznanych licencji i ich publikacji na stronie internetowej, co wynika wprost z § 13
+uchwały Zarządu Polskiego Związku Piłki Nożnej z dnia 19 kwietnia 2012 r., nr IV/74, w
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+
+Decyzja ZSPR.440.43.2019
+
+Strona 6 z 11
+
+sprawie licencji dla sędziów piłkarskich (nr VI/90, z dnia 13.05.2015 r., tekst jednolity).
+Co prawda w uchwale tej nie jest wymieniony zakres danych, jakie powinny zostać opu‐
+blikowane, jak również nie ma w tej kwestii przepisów prawa, które regulowałyby to za‐
+gadnienie, zatem należy odnieść się do zasady minimalizacji danych z art. 5 ust. 1 lit. c
+rozporządzenia 2016/679. Zgodnie z powołanym przepisem dane osobowe muszą być
+adekwatne, stosowne oraz ograniczone do tego, co niezbędne do celów, w których są
+przetwarzane („minimalizacja danych”). Ograniczenie do danych niezbędnych oznacza
+takie ukształtowanie zakresu przetwarzania danych, aby przetwarzać tylko takie dane,
+bez których nie da się osiągnąć celu. Przenosząc powyższe na grunt niniejszej sprawy
+należy wskazać, że przetwarzanie danych osób, którym przyznano licencje sędziowskie
+w 2015 r., na stronie internetowej E., powinno odbywać się zgodnie z uwzględnieniem
+ww. zasady minimalizacji danych w celu spełniającym obowiązek wynikający z § 13 ww.
+uchwały. W ocenie Prezesa, o ile udostępnienie na stronie internetowej E. danych osobo‐
+wych osób, którym przyznano licencje sędziowskie w roku 2015 w zakresie ich imion, na‐
+zwisk i miejscowości zamieszkania jest prawnie uzasadnione celem wynikającym z ww.
+uchwały, o tyle udostępnienie adresu zamieszkania i numeru PESEL wykracza poza ten
+cel. Nie jest bowiem konieczne publikowanie tak szczegółowych danych osobowych sę‐
+dziów, którym przyznano licencje sędziowskie. Tak szeroki katalog danych osobowych
+stwarza potencjalne ryzyko wykorzystania ich w celach bezprawnych, np. do zawierania
+stosunków prawnych lub zaciągania zobowiązań w imieniu osób, których dane
+ujawniono, bez ich wiedzy, a także do rozporządzania ich prawami.
+E. zgłaszając Prezesowi UODO naruszenie w dniu (…) lipca 2018 r. miał świadomość, że
+zakres danych jaki został udostępniony na jego stronie internetowej jest nieprawidłowy
+jednak nie wdrożył odpowiednich środków technicznych i organizacyjnych, aby zapewnić
+odpowiedni stopień bezpieczeństwa w procesie przetwarzania tych danych, przez co
+dane te były dostępne na stronie internetowej również po zgłoszeniu naruszenia, tj. po
+(…) lipca 2018 r., mimo, że w zgłoszeniu naruszenia E. zawarł oświadczenie, że stan
+naruszenia trwał do (…) lipca 2018 r.
+Odnosząc się do stanowiska E. dotyczącego usunięcia przedmiotowych danych ze strony
+internetowej w dniu (…) lipca 2018 r., należy stwierdzić, iż skoro stan naruszenia trwał
+nadal to E. w procesie usuwania danych dokonał wyboru nieskutecznych środków tech‐
+nicznych i organizacyjnych zabezpieczających dalsze przetwarzanie tych danych dopro‐
+wadzając do ich udostępnienia nieograniczonej liczbie osób. Tym samym E., jako admini‐
+strator, w procesie przetwarzania na swojej stronie internetowej danych 585 osób, któ‐
+rym przyznano licencje sędziowskie w roku 2015, nie dopełnił ciążących na nim obowiąz‐
+ków przewidzianych w art. 5 ust. 1 lit. f, art. 32 ust. 1 lit. b i art. 32 ust. 2 rozporządzenia
+2016/679, w zakresie ich zabezpieczenia przed ich udostępnieniem nieokreślonej liczbie
+osób.
+W ocenie organu nadzorczego administrator podjął ograniczone działania w celu usunię‐
+cia naruszenia, które okazały się nieskuteczne. E. zlecił podmiotowi zewnętrznemu usu‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+
+Decyzja ZSPR.440.43.2019
+
+Strona 7 z 11
+
+nięcie naruszenia i nie dokonał weryfikacji podjętych przez niego działań. Na skutek
+powyższego dostęp do danych osobowych był nadal możliwy.
+Zgodnie z art. 58 ust. 2 lit. i rozporządzenia 2016/679, każdemu organowi nadzorczemu
+przysługuje uprawnienie do zastosowania, oprócz lub zamiast innych środków napraw‐
+czych przewidzianych w art. 58 ust. 2 tego rozporządzenia, administracyjnej kary pie‐
+niężnej na mocy art. 83 rozporządzenia, zależnie od okoliczności konkretnej sprawy.
+Mając na uwadze powyższe ustalenia, Prezes Urzędu Ochrony Danych Osobowych, ko‐
+rzystając z przysługującego mu uprawnienia określonego w art. 58 ust. 2 lit. i rozporzą‐
+dzenia 2016/679, stwierdza, że w rozpatrywanej sprawie zaistniały przesłanki
+warunkujące nałożenie na E. administracyjnej kary pieniężnej.
+Stosownie do treści art. 83 ust. 2 rozporządzenia 2016/679, administracyjne kary pie‐
+niężne nakłada się, zależnie od okoliczności każdego indywidualnego przypadku, oprócz
+lub zamiast środków, o których mowa w art. 58 ust. 2 lit. a-h oraz lit. j rozporządzenia
+2016/679.
+Zgodnie z art. 83 ust. 1 rozporządzenia 2016/679 – określającym ogólne warunki nakła‐
+dania administracyjnych kar pieniężnych - każdy organ nadzorczy zapewnia, by stosowa‐
+ne na mocy niniejszego artykułu za naruszenia niniejszego rozporządzenia administra‐
+cyjne kary pieniężne, o których mowa w ust. 4, 5 i 6, były w każdym indywidualnym
+przypadku skuteczne, proporcjonalne i odstraszające. Stosownie zaś do art. 83 ust. 2 lit.
+d rozporządzenia 2016/679, organ decydując, czy nałożyć administracyjną karę pienięż‐
+ną oraz ustalając jej wysokość, zwraca w każdym indywidualnym przypadku należytą
+uwagę na stopień odpowiedzialności administratora z uwzględnieniem środków technicz‐
+nych i organizacyjnych wdrożonych na mocy art. 25 i 32 rozporządzenia 2016/679. W
+myśl art. 83 ust. 2 lit. k rozporządzenia 2016/679, organ decydując, czy nałożyć admini‐
+stracyjną karę pieniężną oraz ustalając jej wysokość, zwraca w każdym indywidualnym
+przypadku należytą uwagę na wszelkie inne obciążające lub łagodzące czynniki mające
+zastosowanie do okoliczności sprawy, takie jak osiągnięte bezpośrednio lub pośrednio w
+związku z naruszeniem korzyści finansowe lub uniknięte straty.
+Prezes UODO decydując o nałożeniu na E. administracyjnej kary pieniężnej oraz ustala‐
+jąc jej wysokość, zgodnie z art. 83 ust. 2 lit. a-k rozporządzenia 2016/679 wziął pod
+uwagę następujące okoliczności tej sprawy:
+1. E. nie dopełnił obowiązku zastosowania odpowiednich środków technicznych i orga‐
+nizacyjnych, aby zapewnić stopień bezpieczeństwa odpowiadający ryzyku udostęp‐
+niania danych osobowych na stronie internetowej przez co dane osób, którym przy‐
+znano licencje sędziowskie w roku 2015, w zakresie ich numeru PESEL oraz adresu
+zamieszkania, były dostępne na stronie internetowej E. pod linkiem: (…) w zakład‐
+kach „(…)”, „(…)” oraz „(…)” również w okresie od (…) lipca 2018 r. do stycznia
+2019 r.
+2. stwierdzone w niniejszej sprawie naruszenie ma znaczną wagę i poważny charakter,
+stwarza bowiem prawdopodobieństwo wysokiego ryzyka negatywnych skutków
+prawnych dla 585 osób, których dane zostały ujawnione w Internecie, narusza rów‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+
+Decyzja ZSPR.440.43.2019
+
+3.
+
+4.
+
+5.
+
+6.
+7.
+
+8.
+
+9.
+
+Strona 8 z 11
+
+nież podstawową w odniesieniu do przetwarzania danych osobowych zasadę inte‐
+gralności i poufności (art. 5 ust. 1 lit f rozporządzenia 2016/679). Naruszenie przez
+E. obowiązków zastosowania środków zapewniających bezpieczeństwo przetwarza‐
+nych danych, przed ich udostępnieniem osobom nieupoważnionym (wskazanych w
+art. 5 ust. 1 lit f, art. 32 ust. 1 lit. b i art. 32 ust. 2 rozporządzenia 2016/679), pocią‐
+ga za sobą ryzyko wykorzystania tych danych przez osoby lub podmioty trzecie bez
+wiedzy i wbrew woli osób, których dane dotyczą, niezgodnie z przepisami rozporzą‐
+dzenia 2016/679 np. do zawierania stosunków prawnych lub zaciągania zobowiązań
+w imieniu osób, których dane ujawniono. Takie działania na danych osobowych mo‐
+głyby następować nie tylko bez wiedzy i woli osób, których dane dotyczą, ale mogło‐
+by potencjalnie prowadzić do rozporządzania ich prawami. Wagę naruszenia zwięk‐
+sza również okoliczność, że na E. przetwarzającym dane osobowe w sposób profe‐
+sjonalny, w ramach swojej działalności, ciąży większa odpowiedzialność i większe
+wymagania niż na podmiocie przetwarzającym dane osobowe w ramach działalności
+ubocznej, incydentalnie lub na niewielką skalę;
+organ nie posiada dowodów, aby osoby, których dane dotyczą, doznały szkody ma‐
+jątkowej, niemniej już samo naruszenie poufności danych stanowić może szkodę
+niemajątkową (krzywdę);
+E. ponosi odpowiedzialność za stwierdzone naruszenie, jednakże ma ono charakter
+nieumyślny, a naruszenie art. 5 ust. 1 lit. f, art. 32 ust. 1 lit. b i art. 32 ust. 2 rozpo‐
+rządzenia 2016/679, powstało na skutek niedochowania należytej staranności ze
+strony E., w procesie zastosowania środków, które uniemożliwiałyby dostęp do da‐
+nych 585 osób, którym przyznano licencje sędziowskie w roku 2015, w zakresie
+numeru PESEL oraz adresu zamieszkania;
+pomimo stwierdzonego naruszenia przepisów rozporządzenia 2016/679 przez E. w
+dniu (…) lipca 2018 r. nie zastosował on środków, które uniemożliwiałyby dostęp do
+danych 585 osób, którym przyznano licencje sędziowskie w 2015 r., w zakresie nu‐
+meru PESEL oraz adresu zamieszkania, co skutkowało dalszym udostępnianiem tych
+danych nieokreślonej liczbie osób, tym samym podjął ograniczone działania, które
+nie przyczyniły się do wyeliminowania potencjalnych szkód;
+pomimo podjęcia przez E. działań w celu usunięcia naruszenia nie można tego
+uznać za okoliczność łagodzącą, gdyż działania te okazały się nieskuteczne;
+wpływu na rozstrzygnięcie organu nadzorczego co do odpowiedzialności administra‐
+tora za nieskuteczne działania nie mogą mieć okoliczności, że to nie on podejmował
+te działania a firma zewnętrzna. E. jako administrator tych danych został bezpośred‐
+nio zobowiązany przepisami rozporządzenia 2016/679, do zabezpieczenia przetwa‐
+rzanych danych przed ich udostępnieniem osobom nieuprawnionym;
+E. nie stosuje zatwierdzonych kodeksów postępowania na mocy art. 40 rozporządze‐
+nia 2016/679 lub zatwierdzonych mechanizmów certyfikacji na mocy art. 42 rozpo‐
+rządzenia 2016/679 (stosowanie kodeksów postępowania lub mechanizmów certyfi‐
+kacji);
+samodzielne zgłoszenie przez E. naruszenia ochrony danych osobowych oraz fakt,
+że aktualnie E. na swojej stronie internetowej nie przetwarza danych osobowych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+
+Decyzja ZSPR.440.43.2019
+
+Strona 9 z 11
+
+osób, którym przyznano licencje sędziowskie w roku 2015 nie stanowi okoliczności
+łagodzącej dla przyznania kary, ponieważ działania takie są wymagane przepisami
+prawa; W trakcie trwania niniejszego postępowania E. współpracował z Prezesem
+UODO, w wyznaczonym terminie E. przesłał wyjaśnienia i udzielił odpowiedzi na wy‐
+stąpienie Prezesa UODO, zatem stopień tej współpracy należy ocenić jako pełny;
+10. naruszenie nie dotyczyło szczególnych kategorii danych, lecz ma znaczenie zesta‐
+wienie danych, które ze względu na dokładną identyfikację osoby (imię, nazwisko,
+adresu zamieszkania i numer PESEL), może stwarzać ryzyko naruszenia praw i
+wolności osoby;
+11. o naruszeniu organ nadzorczy dowiedział się od E. ze zgłoszenia naruszenia, a
+następnie ze skargi osoby, której dane zostały ujawnione;
+12. nie zostało stwierdzone, żeby E. uprzednio dopuścił się naruszenia przepisów rozpo‐
+rządzenia 2016/679, które miałoby istotne znaczenie dla niniejszego postepowania;
+13. w tej samej sprawie nie zostały wcześniej zastosowane wobec E. środki, o których
+mowa w art. 58 ust. 2 rozporządzenia 2016/679 (przestrzeganie środków
+nałożonych w tej samej sprawie na administratora);
+14. nie potwierdzono osiągnięcia przez E. korzyści finansowych, jak i uniknięcia strat w
+związku z naruszeniem;
+15. w trakcie postępowania przed organem nadzorczym E. usunął stwierdzone narusze‐
+nie.
+Przy ustalaniu wysokości kary Prezes UODO wziął pod uwagę następujące czynniki mają‐
+ce zastosowanie do okoliczności niniejszej sprawy łagodzące wymiar kary:
+1. dobrą współpracę E. z Prezesem UODO w trakcie trwania niniejszego postępowania;
+2. brak dowodów na osiągnięcie przez E. korzyści finansowych, jak i uniknięcie strat w
+związku z naruszeniem;
+3. usunięcie naruszenia przez E. w trakcie postępowania przed organem nadzorczym;
+4. działalność niezarobkową prowadzoną przez E.;
+5. brak dowodów na istnienie szkód dla osób których dane zostały ujawnione.
+Decydując, czy nałożyć administracyjną karę pieniężną, a także ustalając jej wysokość,
+za najistotniejszy Prezes UODO uznał poważny charakter naruszenia, polegającego na
+tym, że pomimo stwierdzonego przez E. naruszenia polegającego na publikacji danych
+osób, którym przyznano licencje sędziowskie w roku 2015 w zakresie ich numeru PESEL
+oraz adresu zamieszkania na stronie internetowej E. pod linkiem: (…) w zakładkach
+„(…)”, „(…)” oraz „(…)” przez E. w dniu (…) lipca 2018 r., nie zastosował on skutecznych
+środków, które uniemożliwiałyby dostęp do danych 585 osób aż do stycznia 2019 r., po‐
+mimo zapewnienia złożonego przed organem nadzorczym. Także czas trwania narusze‐
+nia ocenić należy negatywnie mając na uwadze moment jego zgłoszenia.
+W sytuacji, gdy naruszenie zostało już usunięte, a co za tym idzie – wydawanie nakazu
+byłoby bezprzedmiotowe, administracyjna kara pieniężna może zostać nałożona zamiast
+zastosowania uprawnień naprawczych przez organ nadzorczy. Wobec powyższego należy
+stwierdzić, że E. nie dochował należytej staranności, poprzez zaniechanie sprawdzenia
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+
+Decyzja ZSPR.440.43.2019
+
+Strona 10 z 11
+
+czy faktycznie ta publikacja została usunięta ze strony internetowej. Administrator nie
+podjął wystarczających działań prowadzących do trwałego usunięcia zawartości pod‐
+stron, mimo oświadczenia złożonego Prezesowi Urzędu Ochrony Danych Osobowych, a
+zatem nie podjął właściwych czynności by dane skutecznie usunąć. Dane zostały
+usunięte dopiero w toku postępowania przed organem nadzorczym.
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych, zastosowana administracyjna
+kara pieniężna spełnia w ustalonych okolicznościach niniejszej sprawy funkcje, o których
+mowa w art. 83 ust. 1 rozporządzenia 2016/679, tzn. jest w tym indywidualnym
+przypadku skuteczna, proporcjonalna i odstraszająca.
+Należy uznać, że kara będzie skuteczna, jeżeli jej nałożenie doprowadzi do tego, że E.
+stosował będzie takie środki techniczne i organizacyjne, które zapewnią przetwarzanym
+danym stopień bezpieczeństwa odpowiadający ryzyku naruszenia praw i wolności osób
+oraz wadze zagrożeń towarzyszącym procesom przetwarzania tych danych osobowych.
+Zastosowanie administracyjnej kary pieniężnej w niniejszym przypadku jest niezbędne
+zważywszy także na to, że E. będąc świadomym istnienia naruszenia, nie sprawdził, czy
+faktycznie firma sprawująca nadzór nad stroną internetową dokonała usunięcia danych,
+tym samym nie zastosował odpowiednich środków technicznych i organizacyjnych, w
+celu trwałego usunięcia naruszenia. Wobec powyższego za czynnik obciążający E. należy
+uznać zaniedbanie w procesie usuwania naruszenia.
+W ocenie Prezesa UODO zastosowana kara pieniężna jest proporcjonalna do stwierdzo‐
+nego naruszenia, szczególnie ze względu na wagę naruszenia, kategorie danych osobo‐
+wych, których dotyczyło naruszenie (numer PESEL oraz adres zamieszkania udostępnio‐
+ne w połączeniu z imieniem i nazwiskiem), liczbę podmiotów danych objętych narusze‐
+niem (585 osób fizycznych) i czas trwania naruszenia (lipiec 2018 - styczeń 2019).
+Odstraszający charakter kary pieniężnej wiąże się z zapobieganiem popełniania naru‐
+szeń w przyszłości. Kara ma odstraszać zarówno E., przed ponownym naruszeniem, jak i
+inne podmioty. Nakładając niniejszą decyzją karę pieniężną za naruszenie przepisów o
+ochronie danych osobowych Prezes Urzędu Ochrony Danych Osobowych wziął pod uwa‐
+gę oba aspekty: po pierwsze – charakter represyjny, E. naruszył przepisy rozporządzenia
+2016/679, po drugie – charakter prewencyjny, zarówno E. jak i inni administratorzy będą
+skutecznie zniechęceni do naruszania w przyszłości prawa ochrony danych osobowych.
+Celem nałożonej kary jest doprowadzenie do właściwego wykonywania przez E. obowiąz‐
+ków przewidzianych w art. 5 ust. 1 lit. f, art. 32 ust. 1 lit. b i art. 32 ust. 2 rozporządzenia
+2016/679, a w konsekwencji do prowadzenia procesów przetwarzania danych zgodnie z
+obowiązującymi przepisami.
+W ustalonych okolicznościach niniejszej sprawy, tj. wobec stwierdzenia naruszenia obo‐
+wiązków wynikających z art. art. 5 ust. 1 lit. f, art. 32 ust. 1 lit. b i art. 32 ust. 2 rozporzą‐
+dzenia 2016/679, zastosowanie znajdzie art. 83 ust. 4 lit. a) rozporządzenia 2016/679,
+zgodnie z którym naruszenia przepisów dotyczących obowiązków administratora, o któ‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+
+Decyzja ZSPR.440.43.2019
+
+Strona 11 z 11
+
+rych mowa w art. 25-39 tego rozporządzenia, podlegają administracyjnej karze
+pieniężnej w wysokości do 20 000 000 EUR.
+Stosownie do treści art. 103 ustawy z dnia 10 maja 2018 r. o ochronie danych
+osobowych (Dz. U. z 2018 r. poz. 1000, z późn. zm.) równowartość wyrażonych w euro
+kwot, o których mowa w art. 83 rozporządzenia 2016/679, oblicza się w złotych według
+średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień
+28 stycznia każdego roku, a w przypadku gdy w danym roku Narodowy Bank Polski nie
+ogłasza średniego kursu euro w dniu 28 stycznia - według średniego kursu euro ogłoszo‐
+nego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego.
+Zgodnie z art. 83 ust. 3 rozporządzenia 2016/679 jeżeli administrator lub podmiot prze‐
+twarzający narusza umyślnie lub nieumyślnie w ramach tych samych lub powiązanych
+operacji przetwarzania kilka przepisów niniejszego rozporządzenia, całkowita wysokość
+administracyjnej kary pieniężnej nie przekracza wysokości kary za najpoważniejsze naru‐
+szenie.
+Stosownie do art. 83 ust. 4 lit. a rozporządzenia 2016/679 naruszenia przepisów podle‐
+gają zgodnie z ust. 2 administracyjnej karze pieniężnej w wysokości do 10 000 000 EUR,
+a w przypadku przedsiębiorstwa - w wysokości do 2 % jego całkowitego rocznego świato‐
+wego obrotu z poprzedniego roku obrotowego, przy czym zastosowanie ma kwota wyż‐
+sza w przypadku naruszenia obowiązków administratora, o których mowa w art. 8, 11,
+25-39 oraz 42 i 43 tego rozporządzenia.
+Stosownie do art. 83 ust. 5 lit. a rozporządzenia 2016/679 naruszenia przepisów podle‐
+gają zgodnie z ust. 2 administracyjnej karze pieniężnej w wysokości do 20 000 000 EUR,
+a w przypadku przedsiębiorstwa - w wysokości do 4 % jego całkowitego rocznego świato‐
+wego obrotu z poprzedniego roku obrotowego, przy czym zastosowanie ma kwota wyż‐
+sza, gdy chodzi o naruszenie podstawowych zasad przetwarzania, w tym warunków zgo‐
+dy, o których to zasadach i warunkach mowa w art. 5, 6, 7 oraz 9 rozporządzenia
+2016/679.
+Prezes Urzędu Ochrony Danych Osobowych, na podstawie art. 83 ust. 3, art. 83 ust. 4 lit.
+a i art. 83 ust. 5 lit. a rozporządzenia 2016/679, w związku z art. 103 Ustawy, za naru‐
+szenie opisane w sentencji niniejszej decyzji, nakłada na E. – stosując średni kurs euro z
+dnia 28 stycznia 2019 r. (1 EUR = 4.2885 PLN) – administracyjną karę pieniężną w
+kwocie 55 750,50 PLN (co stanowi równowartość 13.000 EUR).
+W ocenie Prezesa UODO, zastosowana kara pieniężna spełnia w ustalonych okoliczno‐
+ściach niniejszej sprawy przesłanki, o których mowa w art. 83 ust. 1 rozporządzenia
+2016/679 ze względu na wagę stwierdzonych naruszeń w kontekście podstawowych
+wymogów i zasad rozporządzenia 2016/679 – integralności i poufności.
+Mając powyższe na uwadze Prezes Urzędu Ochrony Danych Osobowych rozstrzygnął jak
+w sentencji niniejszej decyzji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_440_43/content
+
+2025-09-03 13:58
+

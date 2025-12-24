@@ -1,0 +1,273 @@
+Warszawa, 17 lipca 2019
+PRAWOMOCNA
+
+Decyzja
+ZSOŚS.440.64.2019
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r. poz. 2096 z późn. zm.), art. 5 ust. 1 pkt 6 w zw. art.
+12 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w
+związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r., poz. 125, dalej:
+ustawa z 14 grudnia 2018 r.)
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana I. M., zastę‐
+powanego przez pełnomocnika adw. K. Ż. (Kancelaria (…) z siedzibą w W.), na odmowę
+udzielenia informacji o przetwarzaniu jego danych osobowych przez Komendanta Głów‐
+nego Policji w Warszawie (Komenda Główna Policji, ul. (…), (…) Warszawa) w Krajowym
+Systemie Informacyjnym Policji,
+odmawiam uwzględnienia wniosku
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pana I. M. (dalej jako: „Skarżą‐
+cy”) na nieprawidłowości w procesie przetwarzania jego danych osobowych przez
+Komendanta Głównego Policji w Warszawie (dalej jako: „Komendant”), polegające na
+przetwarzaniu jego danych osobowych w Krajowym Systemie Informacyjnym Policji
+(dalej jako: „KSIP”). Skarżący zawarł w skardze wniosek o udzielenie I. M. informacji czy
+w KSIP są przetwarzane jego dane osobowe, udzielenie informacji – w razie gdy w bazie
+KSIP przetwarzane są dane I. M. – o:
+a) celu i podstawie prawnej ich przetwarzania,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_64/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.64.2019
+
+b)
+c)
+
+d)
+e)
+f)
+
+Strona 2 z 6
+
+kategorii danych osobowych i danych, które są przetwarzane,
+odbiorcach lub kategoriach odbiorców, którym dane osobowe zostały ujawnione, w
+szczególności o odbiorcach w państwach trzecich lub organizacjach międzynarodo‐
+wych,
+okresie przechowywania danych osobowych, a gdyby nie było to możliwe, o
+kryteriach służących określeniu tego okresu,
+źródle pochodzenia danych,
+przysługujących I. M. prawach w związku z przetwarzaniem jego danych osobowych
+oraz udzielenie Skarżącemu dostępu do jego danych osobowych poprzez przekaza‐
+nie kopii jego danych osobowych albo wyciągu z tych danych sporządzonego w
+przystępnej formie.
+
+Uzasadniając żądanie Skarżący podniósł, iż podjął działania zmierzające do uzyskania in‐
+formacji o tym, czy jego dane osobowe znajdują się w krajowych bazach danych policji,
+w tym w Polsce, a ostatecznie do ich usunięcia. Podkreślił, iż (…) lutego 2018 r. w drodze
+decyzji Biuro Wywiadu i Informacji Kryminalnych Komendy Głównej Policji odmówiło mu
+udzielenia żądanych informacji. Dodał, iż pismem z (…) marca 2019 r. Komendant Głów‐
+ny Policji odmówił Skarżącemu udzielenia informacji o tym czy przetwarza jego dane
+osobowe, wskazując, że Policja nie jest zobowiązana do informowania osoby, której dane
+osobowe przetwarza, o fakcie przetwarzania tych danych jak również o zakresie prze‐
+twarzania czy też udostępniania danych osobowych. W opinii Skarżącego w sytuacji, gdy
+osoba, której dane dotyczą, wystąpi z żądaniem o realizacji przysługujących jej praw w
+odniesieniu do danych osobowych, które Policja przetwarza, to z wyłączeniem okoliczno‐
+ści przewidzianych w art. 26 ustawy, brak jest podstaw do odmowy przez Policję
+spełnienia jej żądania.
+W toku postępowania zainicjowanego skargą, Prezes Urzędu Ochrony Danych Osobo‐
+wych uzyskał wyjaśnienia odnośnie okoliczności sprawy, zapoznał się z materiałem
+dowodowym i dokonał następujących ustaleń.
+Pismami z (…) maja 2019 r. Prezes Urzędu Ochrony Danych Osobowych poinformował
+Skarżącego oraz Komendanta o wszczęciu postępowania wyjaśniającego w sprawie oraz
+zwrócił się do Komendanta o ustosunkowanie się do treści skargi oraz złożenie
+pisemnych wyjaśnień.
+Pismem z (…) czerwca 2019 r. – (…) (kopia pisma w aktach sprawy) Komendant wskazał,
+iż Zastępca Naczelnika Wydziału Obsługi Informacyjnej Biura Wywiadu i Informacji Kry‐
+minalnych KGP, działając z upoważnienia Komendanta Głównego Policji, udzielił odpo‐
+wiedzi Skarżącemu, wskazując, iż Policja przetwarza dane osobowe zgodnie z art. 20
+ustawy z dnia z 6 kwietnia 1990 r. o Policji (Dz.U. 2019 poz. 161), dalej jako: „ustawa o
+Policji”. W uzasadnieniu stanowiska wskazano Skarżącemu podstawy prawne przetwa‐
+rzania danych osobowych przez Policję, w szczególności art. 20 ust. 1-1d, ust. 2b-2c oraz
+art. 20 ust. 2ad i ust. 2ba ustawy o Policji, ich zakres oraz cel przetwarzania. Ponadto, w
+przedmiotowym piśmie wyraźnie wskazano, iż aktem prawnym określającym zasady i
+tryb gromadzenia oraz udostępniania informacji, w tym danych osobowych jest ustawa o
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_64/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.64.2019
+
+Strona 3 z 6
+
+Policji, w szczególności art. 20 ust. 2a. Skarżący został także poinformowany o odmien‐
+nym trybie i zasadach przetwarzania informacji w KSIP. Dodał, iż dane osobowe zebrane
+zgodnie z przepisami art. 20 ust. 1-1d i 2ad-2c ustawy o Policji, w granicach ustawowych
+uprawnień Policji, dla realizacji zadań w zakresie bezpieczeństwa i porządku publicznego
+przetwarzane bez wiedzy i zgody osoby, której dane dotyczą, a także – w określonych
+przypadkach wynikających z ustawy o Policji – niejawnie, podlegają ograniczeniom w za‐
+kresie dostępu do informacji, w tym do uzyskania informacji o ich przetwarzaniu i do
+usuwania informacji zebranych legalnie przy wykonywaniu ustawowych zadań. W rezul‐
+tacie, zdaniem Komendanta Głównego Policji, udostępnienie wnioskowanych przez Skar‐
+żącego informacji mogłoby naruszyć obowiązek zapewnienia ochrony form i metod reali‐
+zacji zadań oraz informacji. Jednocześnie Komendant wniósł o uznanie, iż jego działanie
+jako administratora w rozumieniu przepisów o ochronie danych osobowych w odniesie‐
+niu do informacji, w tym danych osobowych, przetwarzanych w zbiorach danych KSIP,
+było zgodne z prawem.
+Prezes Urzędu Ochrony Danych Osobowych poinformował pismami z (…) czerwca 2019 r.
+Skarżącego oraz Komendanta Głównego Policji o przeprowadzeniu postępowania admini‐
+stracyjnego, w wyniku którego został zgromadzony materiał dowodowy wystarczający do
+wydania decyzji administracyjnej oraz o możliwości wypowiedzenia się co do zebranych
+dowodów i materiałów oraz zgłoszonych żądań zgodnie z treścią art. 10 § 1 ustawy z
+dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, w terminie 7 dni od
+dnia otrzymania ww. pism.
+Do dnia podjęcia niniejszej decyzji żadna ze stron nie ustosunkowała się do zebranego
+materiału dowodowego.
+W tym stanie faktycznym Prezes Urzędu Ochrony Danych Osobowych zważył, co nastę‐
+puje.
+Skarżący przedmiotem swojej skargi uczynił zarzut nieuprawnionej odmowy udzielenia
+informacji przez Komendanta Głównego Policji na temat jego danych osobowych
+przetwarzanych w KSIP.
+Ustawa z 14 grudnia 2018 r. określa m.in. zasady i warunki ochrony danych osobowych
+przetwarzanych przez właściwe organy w celu rozpoznawania, zapobiegania, wykrywa‐
+nia i zwalczania czynów zabronionych, w tym zagrożeń dla bezpieczeństwa i porządku
+publicznego, a także wykonywania tymczasowego aresztowania, kar, kar porządkowych i
+środków przymusu skutkujących pozbawieniem wolności (art. 1 ust. 1 pkt 1).
+Na podstawie art. 8 ust. 2 ustawy z 14 grudnia 2018 r. w przypadku naruszenia przepi‐
+sów o ochronie danych osobowych zbieranych w celach, o których mowa w art. 1 pkt 1,
+Prezes Urzędu, w drodze decyzji administracyjnej, nakazuje administratorowi lub pod‐
+miotowi przetwarzającemu przywrócenie stanu zgodnego z prawem, a w szczególności:
+1. usunięcie uchybień;
+2. uzupełnienie, uaktualnienie, sprostowanie, udostępnienie lub nieudostępnienie
+danych osobowych;
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_64/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.64.2019
+
+3.
+4.
+5.
+6.
+
+Strona 4 z 6
+
+zastosowanie dodatkowych środków zabezpieczających zgromadzone dane osobo‐
+we;
+zabezpieczenie danych osobowych lub przekazanie ich innym podmiotom;
+usunięcie danych osobowych;
+wprowadzenie czasowych lub stałych ograniczeń przetwarzania i przekazywania, w
+tym zakazu przetwarzania.
+
+W dziedzinie przetwarzania różnego rodzaju informacji, w tym danych osobowych, szcze‐
+gólna jest funkcja Policji, bowiem zbiera ona takie informacje, które podlegają szczegól‐
+nemu reżimowi i ochronie. Znajduje to wyraz w art. 20 ust. 1 i ust. 2a ustawy o Policji na
+podstawie którego Policja, z zachowaniem ograniczeń wynikających z art. 19, może uzy‐
+skiwać informacje, w tym także niejawne, gromadzić je, sprawdzać oraz przetwarzać
+(ust. 1). Policja może pobierać, uzyskiwać, gromadzić, przetwarzać i wykorzystywać w
+celu realizacji zadań ustawowych informacje, w tym dane osobowe, o następujących
+osobach, także bez ich wiedzy i zgody: o osobach podejrzanych o popełnienie prze‐
+stępstw ściganych z oskarżenia publicznego, nieletnich dopuszczających się czynów za‐
+bronionych przez ustawę jako przestępstwa ścigane z oskarżenia publicznego, o osobach
+o nieustalonej tożsamości lub usiłujących ukryć swoją tożsamość, o osobach stwarzają‐
+cych zagrożenie, o których mowa w ustawie z dnia 22 listopada 2013 r. o postępowaniu
+wobec osób z zaburzeniami psychicznymi stwarzających zagrożenie życia, zdrowia lub
+wolności seksualnej innych osób, o osobach poszukiwanych, o osobach zaginionych oraz
+osobach, wobec których zastosowano środki ochrony i pomocy, przewidziane w ustawie
+z dnia 28 listopada 2014 r. o ochronie i pomocy, przewidziane w ustawie z dnia 28
+listopada 2014 r. o ochronie i pomocy dla pokrzywdzonego i świadka (Dz. U. z 2015 r.
+poz. 21) (art. 20 ust. 2a ustawy o Policji).
+Szczegółowe zasady przetwarzania danych osobowych osób wymienionych w art. 20 ust.
+2a ustawy o Policji określa rozporządzenie Ministra Spraw Wewnętrznych i Administracji
+z dnia 24 sierpnia 2018 r. w sprawie przetwarzania informacji przez Policję (Dz. U. 2018
+poz. 1636), zwane dalej „Rozporządzeniem”. Zgodnie z § 10 przedmiotowego rozporzą‐
+dzenia w Policji prowadzi się Krajowy System Informacyjny Policji (KSIP), będący zesta‐
+wem zbiorów danych, w którym gromadzi się, sprawdza, przetwarza i wykorzystuje infor‐
+macje, w tym dane osobowe, o których mowa w art. 20 ust. 2a pkt 1–6, ust. 2ac i ust. 2b
+ustawy o Policji. W KSIP mogą być przetwarzane również informacje, w tym dane osobo‐
+we, do których gromadzenia, uzyskiwania i przetwarzania Policja jest uprawniona na
+podstawie odrębnych ustaw, jeżeli przyczynia się to do koordynacji informacji oraz efek‐
+tywniejszej organizacji i realizacji ustawowych zadań Policji w zakresie wykrywania i ści‐
+gania sprawców przestępstw oraz zapobiegania przestępczości i jej zwalczania, a także
+ochrony życia i zdrowia ludzi (§ 10 ust. 2 rozporządzenia). Należy podkreślić, że kryte‐
+rium niezbędności przetwarzania danych osobowych w KSIP musi być zawsze odnoszone
+do ustawowych zadań Policji, których realizowaniu mają służyć przepisy art. 20 ust. 1,
+ust. 2a i 2b w związku z art. 20 ust. 17 ustawy o Policji. Zgodnie z art. 20 ust. 17b dane
+osobowe o których mowa w ust. 17, usuwa się jeżeli organ Policji powziął wiarygodną in‐
+formację, iż: czynu stanowiącego podstawę wprowadzenia informacji do zbioru nie po‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_64/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.64.2019
+
+Strona 5 z 6
+
+pełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnie‐
+nia; zdarzenie lub okoliczność, w związku z którymi wprowadzono informacje do zbioru
+nie ma znamion czynu zabronionego; osoba, której dane dotyczą, została uniewinniona
+prawomocnym wyrokiem sądu.
+Ponadto w rozdziale 5 Rozporządzenia, wskazano kryteria weryfikacji przechowywania w
+systemie danych osobowych pod kątem ich dalszej przydatności, którymi są m.in. rodzaj
+i charakter popełnionego przestępstwa, rodzaj i charakter naruszonego dobra chronione‐
+go prawem, formy sprawstwa, postać zamiaru, czas, który upłynął od momentu wprowa‐
+dzenia danych do zbioru, aktualność przesłanek legalności oraz niezbędności dalszego
+przetwarzania danych do wykonania zadań ustawowych, wystąpienie okoliczności okre‐
+ślonych w art. 20 ust. 17b i 18 ustawy o Policji, a w przypadku danych daktyloskopijnych
+wystąpienie okoliczności określonych w art. 21l ust. 2 i art. 21m tej ustawy.
+W toku postępowania Prezes Urzędu Ochrony Danych Osobowych ustalił, iż pełnomocnik
+Skarżącego wnosił do Komendanta Głównego Policji o udzielenie informacji czy w KSIP są
+przetwarzane dane osobowe Skarżącego.
+W odpowiedzi na powyższy wniosek, Komendant Główny Policji odmówił pełnomocnikowi
+Skarżącego udzielenia wnioskowanych informacji, wskazując na art. 20 ust. 2a ustawy o
+Policji oraz art. 26 ustawy z 14 grudnia 2018 r.
+W przedmiotowej sprawie na uwadze należy również mieć treść art. 13 ust. 1 ustawy z
+14 grudnia 2018 r., który stanowi, iż właściwe organy przetwarzają dane osobowe wy‐
+łącznie w zakresie niezbędnym dla zrealizowania uprawnienia lub spełnienia obowiązku
+wynikającego z przepisu prawa. Podstawę prawną do przetwarzania danych osobowych
+osób, wobec których były prowadzone postępowania przez organy Policji, stanowi art. 20
+ust. 1 ustawy o Policji, zgodnie z którym Policja, z zachowaniem ograniczeń wynikają‐
+cych z art. 19, może uzyskiwać informacje, w tym także niejawnie, gromadzić je, spraw‐
+dzać oraz przetwarzać. Policja może pobierać, uzyskiwać, gromadzić, przetwarzać i wy‐
+korzystywać w celu realizacji zadań ustawowych informacje, w tym dane osobowe - o
+osobach podejrzanych o popełnienie przestępstw ściganych z oskarżenia publicznego także bez ich wiedzy i zgody (ust. 2a).
+Mając na uwadze powyższe, należy stwierdzić, iż Komendant Główny Policji nie był zobo‐
+wiązany do udzielenia Skarżącemu informacji dotyczących ewentualnego przetwarzania
+jego danych osobowych w KSIP. Wynika to wprost z art. 20 ust. 2a ustawy o Policji. Nadto
+należy zwrócić uwagę na art. 26 ust. 1 ustawy z 14 grudnia 2018 r., w myśl którego nie
+przekazuje się informacji, o których mowa w przepisach rozdziału 4 (prawa osoby, której
+dane dotyczą), oraz nie udostępnia się danych osobowych, jeżeli mogłoby to powodo‐
+wać:
+1. ujawnienie informacji uzyskanych w wyniku czynności operacyjno-rozpoznawczych;
+2. utrudnienie lub uniemożliwienie rozpoznawania, zapobiegania, wykrywania lub
+zwalczania czynów zabronionych;
+3. utrudnienie prowadzenia postępowania karnego, karnego wykonawczego, karnego
+skarbowego lub w sprawach o wykroczenia lub wykroczenia skarbowe;
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_64/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.64.2019
+
+4.
+5.
+6.
+
+Strona 6 z 6
+
+zagrożenie życia, zdrowia ludzkiego lub bezpieczeństwa i porządku publicznego;
+zagrożenie bezpieczeństwa narodowego, w tym obronności lub bezpieczeństwa oraz
+ekonomicznych podstaw funkcjonowania państwa;
+istotne naruszenie dóbr osobistych innych osób.
+
+Powyższy przepis reguluje ograniczenia obowiązków informacyjnych administratora da‐
+nych. Biorąc pod uwagę, iż administratorem danych przetwarzanych w KSIP jest Komen‐
+dant Główny Policji oraz ustawowe zadania Policji, w niniejszym wypadku ujawnienie in‐
+formacji odnośnie przetwarzanych danych w wewnętrznym systemie Policji jakim jest
+KSIP, niewątpliwie może powodować ziszczenie się przesłanek, o których mowa w
+powyższym przepisie.
+Wobec powyższego stwierdzić należy, iż sposób postępowania Policji w omawianym za‐
+kresie nie budzi wątpliwości, a skarga Skarżącego nie zasługuje na uwzględnienie.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak we wstępie.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_64/content
+
+2025-09-03 13:56
+

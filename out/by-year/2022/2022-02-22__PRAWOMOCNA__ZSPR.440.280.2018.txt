@@ -1,0 +1,241 @@
+Warszawa, 22 lutego 2022
+PRAWOMOCNA
+
+Decyzja
+ZSPR.440.280.2018
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (t.j. Dz. U. z 2021 r. poz. 735) w zw. z art. 7 ust. 1 i 2 ustawy z 10
+maja 2018 r. o ochronie danych osobowych (t.j. Dz. U. z 2019 r. poz. 1781) oraz na pod‐
+stawie art. 6 ust. 1 oraz art. 58 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i
+Rady UE 2016/679 z 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L
+127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pani JK, zam. w I.
+przy ul. (…), na nieprawidłowości w procesie przetwarzania jej danych osobowych przez
+(…) S.A. z siedzibą w A. przy ul. (…), polegające na przetwarzaniu danych osobowych
+Skarżącej bez podstawy prawnej oraz nieuwzględnieniu żądania usunięcia jej danych
+osobowych, Prezes Urzędu Ochrony Danych Osobowych:
+udziela upomnienia (…) S.A. z siedzibą w A. przy ul. (…), za naruszenie art. 6 ust. 1 roz‐
+porządzenia Parlamentu Europejskiego i Rady UE 2016/679 z 27 kwietnia 2016 r. w spra‐
+wie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L
+119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z
+4.03.2021, str. 35), polegające na przetwarzaniu danych osobowych Pani JK, zam. w I.
+przy ul. (…), bez podstawy prawnej w okresie od dnia 11 czerwca 2018 r. do dnia 6
+września 2019 r.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_280/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.280.2018
+
+Strona 2 z 6
+
+Uzasadnienie
+Do Prezesa Urzędu Ochrony Danych Osobowych, zwanego dalej również Prezesem
+UODO, wpłynęła skarga Pani JK, zam. w I. przy ul. (…), zwanej dalej Skarżącą, na niepra‐
+widłowości w procesie przetwarzania jej danych osobowych przez (…) S.A. z siedzibą w
+A. przy ul. (…), zwaną dalej Bankiem, polegające na przetwarzaniu danych osobowych
+Skarżącej bez podstawy prawnej oraz nieuwzględnieniu żądania usunięcia jej danych
+osobowych.
+W toku prowadzonego postępowania administracyjnego Prezes Urzędu Ochrony Danych
+Osobowych, ustalił następujący stan faktyczny:
+1. W skardze inicjującej niniejsze postępowanie Skarżąca wskazała, że w dniu 4 czerw‐
+ca 2018 r. złożyła poprzez stronę internetową Banku wniosek o założenie konta
+oszczędnościowego. Skarżąca wskazała, że ostatecznie nie doszło do otwarcia kon‐
+ta, ze względu na to, że Bank nie dostarczył w terminie stosownych dokumentów.
+Wobec powyższego w dniu 11 czerwca 2018 r. Skarżąca złożyła do Banku rezygna‐
+cję z otwarcia konta oraz wycofała zgodę na przetwarzanie jej danych osobowych. W
+odpowiedzi na powyższe Bank wskazał, że nie może zrealizować żądania Skarżącej i
+będzie nadal przetwarzał jej dane dla celów związanych z ustalaniem, dochodze‐
+niem lub obroną przed roszczeniami. Bank wskazał również, że usunie dane Skarżą‐
+cej po upływie okresu przedawnienia roszczeń. (dowód: skarga z dnia 19 czerwca
+2018 r. z załącznikami);
+2. W złożonych wyjaśnieniach Bank wskazał, że pozyskał dane Skarżącej w związku ze
+złożonym przez nią wnioskiem z dnia 4 czerwca 2018 r. numer (…) o otwarcie ra‐
+chunku bankowego. Bank wskazał, że w trakcie składania wniosku Skarżąca otrzy‐
+mała informację o przyjętych w Banku okresach retencji danych. W związku z po‐
+wyższym wnioskiem Bank pozyskał dane osobowe Skarżącej w zakresie: imię, na‐
+zwisko, nazwisko panieńskie matki, nr PESEL, seria i nr dokumentu tożsamości, ad‐
+res zameldowania, adres korespondencyjny, data urodzenia, miejsce urodzenia,
+płeć, adres e-mail, numer telefonu komórkowego. (dowód: wyjaśnienia Banku z dnia
+31 października 2018 r.);
+3. Bank wskazał również, że otrzymał wniosek Skarżącej z dnia 11 czerwca o usunięcie
+jej danych osobowych. Bank wyjaśnił, że zgodnie z przyjętymi okresami retencji,
+dane Skarżącej będzie przetwarzał przez okres 6 miesięcy. Bank wskazał także, że
+dane Skarżącej pozyskane w związku z wnioskiem numer (…) o otwarcie rachunku
+bankowego zostały ostatecznie usunięte 6 września 2019 r. (dowód: wyjaśnienia
+Banku z dnia 31 października 2018 r. oraz z dnia 23 lutego 2021 r.).
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_280/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.280.2018
+
+Strona 3 z 6
+
+Postępowanie administracyjne prowadzone przez Prezesa Urzędu Ochrony Danych Oso‐
+bowych służy kontroli zgodności przetwarzania danych z przepisami o ochronie danych
+osobowych i jest ukierunkowane na przywrócenie stanu zgodnego z prawem poprzez
+wydanie decyzji administracyjnej na podstawie art. 58 ust. 2 RODO.
+Przepisem uprawniającym administratorów danych do przetwarzania zwykłych danych
+osób fizycznych jest art. 6 ust. 1 RODO, zgodnie z którym, przetwarzanie danych jest do‐
+puszczalne tylko wtedy, gdy spełniona jest jedna z przesłanek wskazanych w tym przepi‐
+sie. Katalog przesłanek wymienionych w art. 6 ust. 1 RODO, jest zamknięty. Każda z
+przesłanek legalizujących proces przetwarzania danych osobowych ma charakter auto‐
+nomiczny i niezależny. Oznacza to, że przesłanki te co do zasady są równoprawne, a wo‐
+bec tego spełnienie co najmniej jednej z nich stanowi o zgodnym z prawem przetwarza‐
+niu danych osobowych. W konsekwencji Spółka może przetwarzać dane osobowe Skar‐
+żącej wykazując spełnienie przynajmniej jednej enumeratywnie wskazanej w ww. przepi‐
+sie przesłanki. Zgoda osoby, której dane dotyczą (art. 6 ust. 1 lit. a) nie będzie jedyną
+podstawą zgodności z prawem przetwarzania danych osobowych. Na mocy przepisu
+RODO przetwarzanie danych jest dopuszczalne również wtedy, gdy przetwarzanie jest
+niezbędne do wykonania umowy, której stroną jest osoba, której dane dotyczą, lub do
+podjęcia działań na żądanie osoby, której dane dotyczą, przed zawarciem umowy (art. 6
+ust. 1 lit. b); przetwarzanie jest niezbędne do wypełnienia obowiązku prawnego ciążące‐
+go na administratorze (art. 6 ust. 1 lit. c); przetwarzanie jest niezbędne do ochrony ży‐
+wotnych interesów osoby, której dane dotyczą, lub innej osoby fizycznej (art. 6 ust. 1 lit.
+d); przetwarzanie jest niezbędne do wykonania zadania realizowanego w interesie pu‐
+blicznym lub w ramach sprawowania władzy publicznej powierzonej administratorowi
+(art. 6 ust. 1 lit. e); gdy jest niezbędne do celów wynikających z prawnie uzasadnionych
+interesów realizowanych przez administratora lub przez stronę trzecią, z wyjątkiem sytu‐
+acji, w których nadrzędny charakter wobec tych interesów mają interesy lub podstawo‐
+we prawa i wolności osoby, której dane dotyczą, wymagające ochrony danych osobo‐
+wych, w szczególności gdy osoba, której dane dotyczą, jest dzieckiem (art. 6 ust. 1 lit.
+f ).
+Przytaczając motyw 47 RODO należy wskazać, że podstawą prawną przetwarzania mogą
+być prawnie uzasadnione interesy administratora, w tym administratora, któremu mogą
+zostać ujawnione dane osobowe, lub strony trzeciej, o ile w świetle rozsądnych oczeki‐
+wań osób, których dane dotyczą, opartych na ich powiązaniach z administratorem nad‐
+rzędne nie są interesy lub podstawowe prawa i wolności osoby, której dane dotyczą. Taki
+prawnie uzasadniony interes może istnieć na przykład w przypadkach, gdy zachodzi
+istotny i odpowiedni rodzaj powiązania między osobą, której dane dotyczą, a administra‐
+torem, na przykład gdy osoba, której dane dotyczą, jest klientem administratora lub
+działa na jego rzecz.
+Dodatkowo, proces przetwarzania danych osobowych musi być zgodny z zasadami wyra‐
+żonymi w art. 5 ust. 1 RODO. Jedną z zasad wyrażoną w art. 5 ust. 1 lit. b jest zasada
+ograniczonego celu, zgodnie z którą dane mogą być zbierane w konkretnych, wyraźnych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_280/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.280.2018
+
+Strona 4 z 6
+
+i prawnie uzasadnionych celach i nieprzetwarzane dalej w sposób niezgodny z tymi cela‐
+mi. Natomiast w myśl zasady ograniczenia przechowywania, wyrażonej w art. 5 ust. 1 lit.
+e RODO, dane osobowe powinny być przechowywane w formie umożliwiającej identyfi‐
+kację osoby, której dane dotyczą, przez okres nie dłuższy, niż jest to niezbędne do ce‐
+lów, w których dane te są przetwarzane; dane osobowe można przechowywać przez
+okres dłuższy, o ile będą one przetwarzane wyłącznie do celów archiwalnych w interesie
+publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych
+na mocy art. 89 ust. 1, z zastrzeżeniem że wdrożone zostaną odpowiednie środki tech‐
+niczne i organizacyjne wymagane na mocy niniejszego rozporządzenia w celu ochrony
+praw i wolności osób, których dane dotyczą.
+Z ustalonego w niniejszej sprawie stanu faktycznego wynika, że Bank pozyskał dane oso‐
+bowe Skarżącej bezpośrednio od niej w związku ze złożeniem przez nią wniosku o zało‐
+żenie konta oszczędnościowego. Podstawą prawną pozyskania i przetwarzania tych da‐
+nych był zatem art. 6 ust. 1 lit. b RODO, w związku z podejmowaniem czynności przed
+zawarciem umowy. Skarżąca przekazała Bankowi swoje dane osobowe zawarte w ww.
+wniosku w systemie bankowości elektronicznej Banku, jednakże w niniejszej sprawie
+istotna jest okoliczność, że ostatecznie do założenia konta i zawarcia umowy nie doszło.
+Wskazać należy, że między stronami nie zawiązał się żaden stosunek prawny, w związku
+z tym, odpadła przesłanka legalizująca przetwarzanie danych Skarżącej przez Bank w
+oparciu o ww. podstawę prawną. Ponadto wnioskiem z dnia 11 czerwca 2018 r. Skarżąca
+wycofała wszelkie zgody na przetwarzanie jej danych osobowych przez Bank i zażądała
+ich usunięcia. Pomimo powyższego Bank kontynuował przetwarzanie danych Skarżącej,
+wskazując na podstawę przetwarzania cele związane z ustalaniem, dochodzeniem lub
+obroną przed roszczeniami, co stanowi prawnie uzasadniony interes Banku zgodnie z art.
+6 ust. 1 lit. f RODO.
+Podkreślić należy, że zebrany w sprawie materiał dowodowy nie wykazał, by Skarżąca
+wystąpiła z jakimkolwiek roszczeniem wobec Banku, które uzasadniałyby jego uprawnie
+do zachowania i przetwarzania danych osobowych Skarżącej w związku z ich zabezpie‐
+czeniem i dochodzeniem przez Skarżącą. Do zawarcia umowy pomiędzy Skarżącą a Ban‐
+kiem nie doszło, podmioty te nie pozostają obecnie w żadnych stosunkach gospodar‐
+czych w związku z rezygnacją z zawarcia umowy przez Skarżącą. W ocenie Prezesa
+UODO, brak jest spełnienia wskazywanej przez Bank przesłanki niezbędności do celów
+wynikających z prawnie usprawiedliwionych interesów realizowanych przez administrato‐
+ra odnośnie przetwarzania danych osobowych Skarżącego w ww. zakresie. Wobec po‐
+wyższego, w ocenie Prezesa UODO, Bank nie posiadał podstaw do dalszego przetwarza‐
+nia danych Skarżącej w oparciu o ww. przesłankę. W opinii Prezesa UODO, przesłanka z
+art. 6 ust. 1 lit. f RODO dotyczy sytuacji już istniejącej, w której celem wynikającym z
+prawnie uzasadnionych interesów realizowanych przez administratora jest konieczność
+udowodnienia, potrzeba dochodzenia lub obrony przed roszczeniem istniejącym, nie zaś
+sytuacji, gdy dane są przetwarzane w celu zabezpieczenia się przed ewentualnym rosz‐
+czeniem. W niniejszej sprawie Skarżąca nie kierowała do Banku żadnych roszczeń czy re‐
+klamacji. W związku z tym, od momentu powzięcia informacji, że do zawarcia umowy nie
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_280/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.280.2018
+
+Strona 5 z 6
+
+doszło, co w ocenie organu nastąpiło najpóźniej w dniu dniu 11 czerwca 2018 r. Bank
+przetwarzał jej dane w ww. celu wyłącznie „na zapas”, aby zabezpieczyć się przed ewen‐
+tualnym przyszłymi i niepewnymi roszczeniami Skarżącej. Prezes Urzędu Ochrony Da‐
+nych Osobowych podziela ponadto stanowisko Naczelnego Sądu Administracyjnego w
+Warszawie, wyrażone w wyroku z dnia 6 marca 2019 r. (sygn. I OSK 994/17), w którym
+NSA stwierdził: „zdaniem Naczelnego Sądu Administracyjnego przetwarzanie danych
+osobowych W. L., który cofnął zgodę na ich przetwarzanie, nie jest niezbędne dla wypeł‐
+nienia prawnie usprawiedliwionych celów realizowanych przez E. S.A., a którym jest pra‐
+wo do podjęcia obrony przed ewentualnymi roszczeniami lub zarzutami dotyczącymi
+przetwarzania danych W. L. (…) Prawidłowe jest stanowisko Sądu pierwszej instancji, że
+niedopuszczalne jest przetwarzanie danych osobowych niejako "na zapas" z założeniem,
+że mogą być one ewentualnie przydatne w przyszłości.”
+Z uwagi na to, że Bank nie wskazał roszczenia, którego zaspokojenia domagał się od
+Skarżącej, jak również brak było sporu toczącego się miedzy Skarżącą, a Bankiem, w
+ocenie Prezesa Urzędu Ochrony Danych Osobowych brak było celu uzasadniającego
+przetwarzanie ww. danych osobowych Skarżącej, w rozumieniu art. 6 ust. 1 lit. f RODO.
+Wobec niezawarcia ze Skarżącą umowy, odpadła także przesłanka legalizująca proces
+przetwarzania danych osobowych Skarżącej, o której mowa w art. 6 ust. 1 lit. b RODO,
+ponadto Bank nie wykazał, aby zachodziła którakolwiek inna przesłanka, stanowiąca o
+legalności tego procesu, spośród przesłanek określonych w art. 6 ust. 1 RODO. Wobec
+powyższego, w ocenie Prezesa UODO Bank nie wykazał podstaw prawnych legalizują‐
+cych proces przetwarzania danych osobowych Skarżącej w okresie od dnia 11 czerwca
+2018 r. do dnia 6 września 2019 r.
+Jedynie na marginesie zauważyć należy, że Bank nie dochował wskazanego przez siebie
+okresu retencji danych. Zarówno w odpowiedzi kierowanej do Skarżącej, jak i w wyja‐
+śnieniach kierowanych do Prezesa UODO, Bank wskazywał, że zamierza przetwarzać
+dane Skarżącej pozyskane w związku z wnioskiem numer (…) o otwarcie rachunku ban‐
+kowego przez okres 6 miesięcy. Tymczasem z ustalonego w sprawie stanu faktycznego
+wynika, że Bank usunął dane Skarżącej dopiero w dniu 6 września 2019 r., a zatem już
+po upływie zakreślonego przez siebie terminu.
+Wobec powyższego, w ocenie Prezesa UODO w sprawie doszło do naruszenia przepisów
+o ochronie danych osobowych przez Bank, poprzez przetwarzanie danych osobowych
+Skarżącej bez podstawy prawnej. Ze zgromadzonego w sprawie materiału dowodowego
+wynika, że Bank ostatecznie w dniu 6 września 2019 r. usunął dane osobowe Skarżącej,
+a kwestionowane przetwarzanie nie jest już obecnie kontynuowane. Podkreślić należy, że
+decyzje Prezesa UODO służą przywróceniu stanu zgodnego z prawem na podstawie art.
+58 ust. 2 RODO. Jednakże wobec ustalenia, że od dnia 11 czerwca 2018 r. do dnia 6
+września 2019 r. Bank przetwarzał dane osobowe Skarżącej bez podstawy prawnej, nato‐
+miast obecnie nie kontynuuje tego procesu, Prezes Urzędu Ochrony Danych Osobowych,
+korzystając z przysługującego mu uprawnienia określonego w art. 58 ust. 2 lit. b RODO
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_280/content
+
+2025-09-03 13:41
+
+Decyzja ZSPR.440.280.2018
+
+Strona 6 z 6
+
+udzielił Bankowi upomnienia w zakresie stwierdzonego naruszenia przepisów ochrony
+danych osobowych.
+W tym stanie faktycznym oraz prawnym Prezes Urzędu Ochrony Danych Osobowych
+orzekł, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_280/content
+
+2025-09-03 13:41
+

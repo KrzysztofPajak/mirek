@@ -1,0 +1,1799 @@
+Warszawa, 19 marca 2025
+NIEPRAWOMOCNA
+
+Decyzja
+DS.523.4750.2023
+
+Na podstawie art. 104 § 1 i art. 105 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks
+postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) w związku z art. 7 ust. 1 i
+ust. 2, art. 102 ust. 1 pkt 1 i ust. 3 ustawy z dnia 10 maja 2018 r. o ochronie danych
+osobowych (Dz. U. z 2019 r. poz. 1781) w związku z art. 6 ust. 1, art. 9 ust. 1 i 2, art. 58
+ust. 2 lit. i, art. 83 ust. 1 i 2 oraz art. 83 ust. 5 lit. a rozporządzenia Parlamentu Europej‐
+skiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycz‐
+nych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepły‐
+wu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie
+danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz
+Dz. Urz. UE L 74 z 4.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pani X.Y., zam. ul.
+(…), na nieprawidłowości w procesie przetwarzania Jej danych osobowych przez Komen‐
+danta Głównego Policji z siedzibą w Warszawie (…) przy ul. (…), polegające na udostęp‐
+nieniu podczas konferencji prasowej w dniu (…) r. danych osobowych Pani X.Y. w zakre‐
+sie:
+–
+informacji objętych tajemnicą lekarską, w tym informacji o:
+–
+stanie zdrowia,
+–
+leczeniu (…), w tym, że cierpi na (…),
+–
+ówczesnym stanie zdrowia psychicznego Pani X.Y., tj. m.in. o stanie emocjonalnym,
+o rzekomej (…), o rzekomych (…);
+–
+informacji o aktualnym stanie zdrowia fizycznego Pani X.Y., w tym m.in. informacji o
+przebiegu (…);
+–
+informacji o rozpadzie związku Pani X.Y., a w konsekwencji o Jej orientacji seksualnej;
+–
+informacji o miejscowości zamieszkania Pani X.Y., rodzaju zabudowy mieszkalnej
+obejmującej Jej lokal i tytule prawnym do lokalu, w którym zamieszkiwała;
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 2 z 36
+
+Prezes Urzędu Ochrony Danych Osobowych
+1) stwierdzając naruszenie przez Komendanta Głównego Policji z siedzibą w Warszawie
+(…) przy ul. (…) przepisów:
+a) art. 6 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z prze‐
+twarzaniem danych osobowych i w sprawie swobodnego przepływu takich da‐
+nych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie da‐
+nych), poprzez udostępnienie bez podstawy prawnej podczas konferencji praso‐
+wej w dniu (…) r. danych osobowych Pani X.Y., zam. ul. (…), w zakresie informa‐
+cji o rozpadzie jej związku, miejscowości zamieszkania, rodzaju zabudowy
+mieszkalnej obejmującej Jej lokal i tytule prawnym do lokalu, w którym zamiesz‐
+kiwała;
+b) art. 9 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z prze‐
+twarzaniem danych osobowych i w sprawie swobodnego przepływu takich da‐
+nych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie da‐
+nych), poprzez udostępnienie bez podstawy prawnej podczas konferencji praso‐
+wej w dniu (…) r. danych osobowych Pani X.Y. w zakresie informacji o fakcie jej
+leczenia (…), o tym że cierpi ona na (…), o miejscu przeprowadzenia (…) i infor‐
+macji o jej stanie emocjonalnym - w zakresie informacji o (…) oraz stwierdzeń
+„(…)” i „(…)”;
+nakłada na Komendanta Głównego Policji administracyjną karę pieniężną w wysoko‐
+ści 75.000 zł (słownie: siedemdziesiąt pięć tysięcy złotych) za powyższe naruszenie;
+2) w pozostałym zakresie umarza postępowanie.
+
+Uzasadnienie
+W dniu (…) r. do Prezesa Urzędu Ochrony Danych Osobowych (zwanego dalej: Prezesem
+UODO) wpłynęła skarga Pani X.Y., zam. ul. (…) (zwanej dalej Skarżącą), reprezentowanej
+przez Panią (…) Q.A., na nieprawidłowości w procesie przetwarzania Jej danych osobo‐
+wych przez Prokuraturę Okręgową w Z. oraz przez Komendanta Głównego Policji z siedzi‐
+bą w Warszawie (…) przy ul. (…) (zwanego dalej: Komendantem), polegające na udo‐
+stępnieniu danych osobowych Skarżącej podczas konferencji prasowej w dniu (…) r.
+W treści skargi pełnomocnik Skarżącej wskazała, że cyt.
+„
+I.
+składam skargę na (…) Komendę Główną Policji (…) w związku z:
+1) naruszeniem ochrony danych osobowych w rozumieniu przepisów Rozporzą‐
+dzenia, polegającym na nieuprawnionym ujawnieniu (rozpowszechnieniu)
+danych osobowych Skarżącej, w tym szczególnych kategorii danych osobo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 3 z 36
+
+wych, w treści konferencji prasowej z udziałem Komendanta Głównego
+Policji w dniu (…) r.;
+2) niezgłoszeniem Prezesowi Urzędu Ochrony Danych Osobowych (dalej: "Or‐
+gan") naruszenia ochrony danych osobowych oraz niezawiadomieniem
+Skarżącej o naruszeniu ochrony danych osobowych przez Podmioty
+skarżone, mimo naruszenia praw i wolności Skarżącej:
+II. zarzucam Podmiotom skarżonym naruszenie art. 5 ust. 1 pkt lit. a, c oraz f, art.
+6, art. 9 ust. 1 i 2, art. 32 ust. 1, art. 33 ust. 1 oraz 34 ust. 1 Rozporządzenia;
+III. wnoszę o stwierdzenie naruszenia przez Podmioty skarżone przepisów Rozpo‐
+rządzenia, które jednocześnie uzasadnia nałożenie na każdy z Podmiotów
+skarżących osobno kary pieniężnej w wysokości 100 000 złotych;
+IV. zgodnie z art. 58 ust. 2 lit g Rozporządzenia żądam usunięcia danych osobo‐
+wych przetwarzanych niezgodnie z prawem, w tym podjęcia działań, by poinfor‐
+mować administratorów przetwarzających te dane osobowe, że osoba, które
+dane dotyczą, żąda, by administratorzy ci usunęli wszelkie łącza do tych
+danych, kopie tych danych osobowych lub ich replikacje”.
+Pełnomocnik Skarżącej podniosła, że cyt.
+„
+1. Materiały i wypowiedzi wyemitowane w trakcie Konferencji prasowej zawierały
+informacje objęte tajemnicą lekarską, w tym o stanie zdrowia Skarżącej. Ujaw‐
+niono informacje o leczeniu (…) Skarżącej; o tym, że cierpi na (…) (co, wobec
+tego, że informacje przekazywała lekarka (…), w sposób oczywisty sugeruje
+(…); o rzekomym, ówczesnym stanie zdrowia psychicznego Skarżącej, tj. m.in. o
+stanie emocjonalnym, o rzekomej (…) oraz, co można wywnioskować z wypo‐
+wiedzi Operatora w trakcie pierwszej rozmowy, o rzekomych (…). Wybiórcza
+anonimizacja rozmowa pozwoliła opinii publicznej na nieuprawnioną spekulację
+na temat rodzaju i skali (…) Skarżącej.
+2. Ujawniono także informacje o aktualnym stanie zdrowia fizycznego Skarżącej, w
+tym m.in. informacje o przebiegu (…) na moment wydarzeń z (…) r. Ponadto,
+ujawniono informacje dotyczące życia prywatnego Skarżącej (domniemany
+rozpad związku), a w konsekwencji o jej orientacji seksualnej.
+3. Wobec ewidentnych naruszeń przetwarzania szczególnych kategorii danych
+osobowych, tylko na marginesie trzeba dodać, że ujawniono także informacje o
+miejscowości zamieszkania Skarżącej, informacji o rodzaju zabudowy
+mieszkalnej i tytule prawnym do lokalu
+4. Ujawnienie danych osobowych Skarżącej, w tym szczególnych kategorii danych
+osobowych, podczas Konferencji prasowej naruszało zasady dotyczące przetwa‐
+rzania danych osobowych, w szczególności zasadę zgodności z prawem prze‐
+twarzania danych osobowych (art. 5 ust. 1 lit. a, art. 6 Rozporządzenia)
+(…)
+6. Tylko na marginesie można wskazać, że ujawnienie informacji na temat Skarżą‐
+cej naruszało także zasadę minimalizacji danych (art. 5 ust. 1 lit. c Rozporządze‐
+nia) oraz zasadę integralności i poufności (art. 5 pkt 1 lit. f Rozporządzenia).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 4 z 36
+
+7.
+
+Ponadto, nie zostały spełnione żadne przesłanki uzasadniające zgodność z
+prawem przetwarzania danych Skarżącej
+(…)
+9. Powyższe rozważania prowadzą także do wniosku, że wbrew wymogom art. 32
+ust. 1 Rozporządzenia, Podmioty skarżone nie wdrożyły odpowiednich środków
+technicznych i organizacyjnych, aby zapewnić stopień bezpieczeństwa przetwa‐
+rzania danych, odpowiadający ryzyku naruszenia praw lub wolności Skarżącej.
+10. Ponadto, w sprawie doszło do naruszenia art. 33 ust. 1 oraz art. 34 ust. 1 Roz‐
+porządzenia poprzez niezgłoszenie Organowi przez Podmioty Skarżone narusze‐
+nia ochrony danych osobowych oraz niepoinformowanie Skarżącej o narusze‐
+niu, mimo, że biorąc pod uwagę okoliczności sprawy, występowało ewidentne,
+wysokie ryzyko naruszenia praw lub wolności Skarżącej.
+11. Zakładając, że celem Konferencji prasowej miało w teorii być udzielenie odpo‐
+wiedzi na zarzuty stawiane funkcjonariuszom Policji w materiale dziennikar‐
+skim, czy też poinformowanie opinii publicznej o działaniach prowadzonych w
+sprawie Skarżącej, ujawnienie informacji, o których mowa powyżej, nie było w
+jakimkolwiek zakresie proporcjonalne do wyznaczonego celu ani nie miało ja‐
+kiegokolwiek uzasadnienia merytorycznego. Rzeczywistym celem publikacji ww.
+danych było upokorzenie Skarżącej, zdyskredytowanie jej oczach w opinii pu‐
+blicznej i wymierzenie jej publicznej kary za wypowiedzi o nadużyciach funkcjo‐
+nariuszy Policji. Stanowiło naruszenie prawa Skarżącej do ochrony danych oso‐
+bowych, do poszanowania życia prywatnego i rodzinnego oraz zakazu
+poniżającego traktowania albo karania.”.
+Pełnomocnik Skarżącej podniosła również, że cyt. „Konferencja prasowa lub jej fragmen‐
+ty były publikowane i komentowane przez liczne ogólnopolskie media. Całość nagrań wy‐
+emitowanych w trakcie Konferencji prasowej, jak i pozostała część Konferencji prasowej
+jest dostępna w Internecie, w tym między innymi na portalu E. (…) oraz na stronie
+internetowej (…)”.
+Pismem z (…) r. (karta 17 akt sprawy) Prezes UODO na podstawie art. 66 § 1 ustawy z
+dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz.
+572; dalej jako: Kpa), poinformował pełnomocnik Skarżącej m.in., że:
+–
+podanie dotyczy kilku spraw podlegających załatwieniu przez różne organy;
+–
+Prezes UODO uczyni przedmiotem rozpoznania należącą do jego właściwości sprawę
+dotyczącą skargi Skarżącej na nieprawidłowości w procesie przetwarzania jej
+danych osobowych przez Komendę Główną Policji.
+W toku postępowania wyjaśniającego przeprowadzonego w niniejszej sprawie, Prezes
+UODO ustalił, co następuje:
+Informacje dotyczące Skarżącej zostały uzyskane przez Policję w związku z telefonicz‐
+nym zgłoszeniem alarmowym na numer alarmowy 112 dokonanym przez lekarza Skarżą‐
+cej (…) r., podczas którego poinformował on, że Skarżąca znajduje się w stanie wskazują‐
+cym na możliwość (…) w związku ze złym stanem psychicznym. Zgłoszenie zostało prze‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 5 z 36
+
+kierowane do dyżurnego Komendy Miejskiej Policji w Z. oraz zostało zarejestrowane w A.
+(…) (zwanym dalej A.). Informacje dotyczące Skarżącej zostały również uzyskane przez
+policjantów w związku z czynnościami wykonywanymi w ramach podjętej przez nich in‐
+terwencji w dniach (…) r. w związku ze zdarzeniem w (…) Skarżącej, a następnie w (…)
+Szpitalu (…) w Z. oraz w Szpitalu (…) w Z. Informacje, w tym dane osobowe, w A. Policja
+przetwarza w celu realizacji zadań ustawowych, w tym w szczególności określonych w
+art. 1 ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (zwanej dalej ustawą o Policji) na
+podstawie art. 20 ust. 1-1d i 2b ustawy o Policji (dowód: str. 8-9 wyjaśnień Komendanta z
+30 listopada 2023 r. – karty 37 verte-38 akt sprawy).
+Przetwarzane w A. nagrania rozmów dotyczących Skarżącej z numerem alarmowym 112
+i dyżurnym Komendy Miejskiej Policji w Z. oraz informacje związane z czynnościami wy‐
+konywanymi przez policjantów w sprawie zgłoszenia dotyczącego Skarżącej zostały uzy‐
+skane przez zespół kontrolerów z (…) Komendy Głównej, którzy na polecenie Komendan‐
+ta wykonywali czynności kontrolne w celu dokonania ustaleń z czynności przeprowadzo‐
+nych wobec Skarżącej w dniach (…) r. przez funkcjonariuszy Policji na ul. (…) w Z. oraz w
+(…) Szpitalu (…) w Z. i w Szpitalu (…) w Z. Powyższe czynności kontrolne zostały prze‐
+prowadzone na polecenie Komendanta w trybie § 7 pkt 4 i § 11 zarządzenia nr 30 Ko‐
+mendanta z dnia 16 grudnia 2013 r. w sprawie funkcjonowania organizacji hierarchicznej
+w Policji (Dz. Urz. KGP poz. 99 ze zm.) (dowód: str. 9 wyjaśnień Komendanta z 30
+listopada 2023 r. – karta 38 akt sprawy).
+(…) r. stacja telewizyjna N. wyemitowała w programie informacyjnym „(…)” materiał z
+udziałem Skarżącej, który dotyczył zdarzenia z (…) r. Wskazany wyżej materiał jest do‐
+stępny na stronie internetowej pod adresem (…), jako część opublikowanego (…) r.
+artykułu zatytułowanego: „(…)”. W tym materiale filmowym wskazywane jest imię Skar‐
+żącej, nie jest wskazywane jej nazwisko, widoczna jest jej postać, jej twarz oraz słychać
+jej głos (dowody: notatka służbowa z 26 czerwca 2024 r. z obejrzenia nagrania ww.
+materiału wraz z załącznikami - karty 46-52 akt sprawy).
+(…) r. Skarżąca wystąpiła w stacji telewizyjnej O. w programie „(…)”. Materiały filmowe z
+tego wystąpienia są dostępne na stronie internetowej pod adresem (…), jako część
+opublikowanego (…) r. artykułu zatytułowanego: „(…)”. W tych materiałach filmowych
+podane jest imię Skarżącej, nie jest wskazywane nazwisko Skarżącej, widoczna jest
+twarz oraz słychać jej głos (dowody: notatka służbowa z 27 czerwca 2024 r. z obejrzenia
+ww. materiałów wraz z załącznikami - karty 53-60 akt sprawy).
+W związku ze zdarzeniem z udziałem Skarżącej (…) r. Prokuratura Rejonowa (…) w Z.
+prowadziła śledztwo o sygn. (…) w sprawie o przestępstwo z art. (…) ustawy z dnia 6
+czerwca 1997 r. Kodeks karny (Dz. U. z 2022 r. poz. 1138 ze zm.; dalej jako: Kodeks kar‐
+ny), oraz o przestępstwo z art. (…) Kodeksu karnego (dowód: str. 10 wyjaśnień Komen‐
+danta z 30 listopada 2023 r. – karta 38 verte akt sprawy). Prowadzenie tego śledztwa zo‐
+stało przekazane do Prokuratury Okręgowej w Z., gdzie sprawa została zarejestrowana
+pod sygn. akt (…) (dowód: str. 7 wyjaśnień Komendanta z 13 sierpnia 2024 r. – karta 101
+akt sprawy).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 6 z 36
+
+Naczelnik (…) Komendy Wojewódzkiej Policji w Z. pismem z (…) r. wystąpił do Prokuratu‐
+ry Okręgowej w Z. o wyrażenie zgody na udostępnienie nagrań ze zgłoszonej pod numer
+alarmowy 112 interwencji podjętej (…) r. przez funkcjonariuszy Komisariatu Policji (…) w
+Z. wobec Skarżącej, a także o wyrażenie zgody na ich publikację w środkach masowego
+przekazu (dowody: str. 10 wyjaśnień Komendanta z 30 listopada 2023 r. – karta 38 verte
+akt sprawy i kopia ww. pisma dołączona do wyjaśnień Komendanta z 13 sierpnia 2024 r.
+– karta 103 akt sprawy). W odpowiedzi, Prokurator Okręgowy w Z. w piśmie z (…) r.
+wskazał „(…) wyrażam zgodę na ich publikację w środkach masowego przekazu za wyłą‐
+czeniem tych informacji, które podlegają ochronie danych osobowych, w szczególności
+danych identyfikujących lekarza oraz pacjentkę, a także wszelkich informacji objętych
+tajemnicą podlegającej reżimowi Ustawy z dnia 5 grudnia 1994 r. o zawodach lekarza i
+lekarza dentysty (…) oraz Ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia
+psychicznego (…)” (dowód: dołączona do wyjaśnień Komendanta z 30 listopada 2023 r.
+kopia pisma Prokuratora Okręgowego w Z. z (…) r. – karta 42 akt sprawy).
+(…) r. w Komendzie Głównej Policji odbyła się konferencja prasowa z udziałem Komen‐
+danta Głównego Policji. W trakcie tej konferencji prasowej zostały odtworzone nagrania
+dotyczących Skarżącej rozmów z numerem alarmowym 112 i dyżurnym Komendy Miej‐
+skiej Policji w Z., z usuniętymi fragmentami tych rozmów (dowody: wyjaśnienia Komen‐
+danta z 30 listopada 2023 r., notatka służbowa z 3 lipca 2024 r. z obejrzenia nagrania z
+konferencji prasowej – karty 61-62 akt sprawy). Nagrania te pochodziły z ustaleń (…) Ko‐
+mendy Głównej Policji (dowód: str. 10 wyjaśnień Komendanta z 30 listopada 2023 r. –
+karta 38 verte akt sprawy), z A. (str. 5 wyjaśnień Komendanta z 30 listopada 2023 r.- kar‐
+ta 36 akt sprawy). W pierwszej części swojego wystąpienia podczas ww. konferencji
+Komendant m.in.:
+–
+wskazał, że „(…)”;
+–
+poinformował, że informacje, które przedstawi, to cyt. „(…)”;
+–
+wskazał, że to o czym będzie mowa, cyt. „(…)”.
+Następnie odtworzono nagranie połączenia telefonicznego z dyspozytorem Woje‐
+wódzkiego Centrum Powiadamiania Ratunkowego z (…) r. z godz. (…) o treści m.in.:
+Zgłaszająca: „(…) [dźwięk zagłuszony] (…)”.
+Operator: „(…)”
+Zgłaszająca: „(…) [dźwięk zagłuszony]”
+Operator: „(…)”
+Zgłaszająca: „(…)”.
+Operator: „[dźwięk zagłuszony] (…)”
+Zgłaszająca: „[dźwięk zagłuszony], (…) [dźwięk zagłuszony] (…)”.
+Operator: „(…)”
+Zgłaszająca: „(…) [dźwięk zagłuszony], (…)”.
+Operator: „(…)”
+Zgłaszająca: „(…) [dźwięk zagłuszony]”
+Operator: „(…) [dźwięk zagłuszony], (…) [dźwięk zagłuszony]”
+(…)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 7 z 36
+
+Zgłaszająca: „(…) [dźwięk zagłuszony], (…)”
+Operator: „(…) [niezrozumiałe] (…)”
+Operator: „(…)”
+Zgłaszająca: „(…)”.
+(…)
+Operator: „(…) [dźwięk zagłuszony] (…)”
+Zgłaszająca: „(…)”
+(…).
+Po zakończeniu powyższego nagrania Komendant poinformował m.in. o czynno‐
+ściach przeprowadzonych przez dyspozytora Centrum Powiadamiania Ratunkowego
+i Policję w związku ze zgłoszeniem utrwalonym na tym nagraniu. Na koniec swojej
+wypowiedzi w tej kwestii Komendant poinformował, że Dyżurny Komendy Miejskiej
+Policji w Z. zadzwonił do zgłaszającej i przeprowadził kolejną rozmowę, cyt. „(…)”.
+Następnie odtworzono nagranie o treści m.in.:
+(…)
+Zgłaszająca: „(…)”
+Zgłaszająca: „(…)”
+Dyżurny KMP: „(…) [dźwięk zagłuszony] (…)”
+Zgłaszająca: „(…) [dźwięk zagłuszony], (…) [dźwięk zagłuszony] (…) [dźwięk zagłu‐
+szony]”
+Dyżurny KMP: „(…)”
+Zgłaszająca: [dźwięk zagłuszony]
+Dyżurny KMP: „(…)”
+Zgłaszająca: „(…) [dźwięk zagłuszony].”
+Dyżurny KMP: „(…)”
+Zgłaszająca: „(…)”
+(…)
+Dyżurny KMP: „(…)”
+Zgłaszająca: „[dźwięk zagłuszony] (…) [dźwięk zagłuszony] (…) [dźwięk zagłuszony]
+(…)”.
+Dyżurny KMP: „(…)”.
+Zgłaszająca: „(…)”.
+Dyżurny KMP: „(…)”
+Zgłaszająca: [dźwięk zagłuszony]
+Dyżurny KMP: „[niewyraźnie] (…)”
+(…)
+W trakcie odtwarzania ww. nagrań ich transkrypcja była wyświetlana na ekranie
+znajdującym się za Komendantem. W dalszej części konferencji prasowej Komen‐
+dant m.in. opisał przebieg czynności funkcjonariuszy policji w sprawie i intencje
+działań funkcjonariuszy. W tej części konferencji Komendant wskazał m.in. cyt. „(…)”
+oraz „(…)”. Następnie Komendant odpowiadał na pytania przedstawicieli mediów
+(dowód: notatka służbowa z 3 lipca 2024 r. z obejrzenia nagrania ww. konferencji
+opublikowanego na stronie internetowej o adresie (…) – karty 61-62 akt sprawy).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 8 z 36
+
+W konferencji prasowej Komendanta w dniu (…) r. uczestniczyli przedstawiciele mediów,
+w tym m.in. stacji V., Y., O., Q. Była ona również transmitowana przez Internet (dowód:
+str. 7 wyjaśnień Komendanta z 30 listopada 2023 r. – karta 37 akt sprawy). Przekaz na
+żywo z konferencji był realizowany przez obecnych na miejscu przedstawicieli mediów.
+Konferencja nie była transmitowana na żywo przy użyciu policyjnych kanałów informa‐
+cyjnych (dowód: str. 9 wyjaśnień Komendanta z 13 sierpnia 2024 r. – karta 102 akt spra‐
+wy).
+Komendant w złożonych w sprawie wyjaśnieniach wskazał, że cyt. „W dniu (…) r. w Ko‐
+mendzie Głównej Policji odbył się briefing prasowy z udziałem Komendanta Głównego
+Policji gen. insp. (…) dotyczący przedstawienia autentycznych okoliczności działań funk‐
+cjonariuszy Policji w związku ze zdarzeniem mającym miejsce w dniach (…) r. w (…), cha‐
+rakteru tych działań oraz wyjaśnienia przyczyn podjęcia czynności przez funkcjonariuszy
+Policji w związku z tym zdarzeniem w stosunku do osoby - p. (…), która w związku z
+otrzymaną przez dyżurnego Komendy Miejskiej Policji w (…) na numer alarmowy 112, in‐
+formacją mogła znajdować się w stanie zagrażającym jej życiu lub zdrowiu, w tym w sta‐
+nie, który mógł prowadzić do (…), a także w związku z otrzymaną w ramach tego zdarze‐
+nia informacją o (…), które (…) p. (…) a które mogły zagrażać życiu lub zdrowiu jej samej
+a także stanowić zagrożenie życia i zdrowia innych osób” (str. 1 wyjaśnień Komendanta z
+30 listopada 2023 r. – karta 34 akt sprawy). Ponadto Komendant wskazał, że briefing
+prasowy został zorganizowany cyt. „w związku z zarzutami wobec Policji i atakami na po‐
+licjantów przeprowadzających czynności służbowe w związku ze zdarzeniem w dniach
+(…) r. (…), które sprowadzały się do zarzutów wobec policjantów, iż przeprowadzone
+przez nich czynności dotyczyły (…) oraz były związane z faktem (…), a także zarzutów
+dotyczących utrudniania przez policjantów biorących udział w ww. czynnościach udziela‐
+nia świadczeń zdrowotnych przez lekarzy na Szpitalnym Oddziale Ratunkowym ww. szpi‐
+tali. Zarzuty te i ataki dotyczące policjantów pojawiły się po wyemitowaniu w dniu (…) r.
+przez stację telewizyjną (…) materiału w "(…)" (…). (…) a także w dniu (…) r. przez
+stację telewizyjną (…) w programie "(…)" (…)” (str. 1-2 wyjaśnień Komendanta z 30 listo‐
+pada 2023 r. – karta 34 akt sprawy). Komendant wskazał również, że cyt. „W związku z
+jednostronnym przekazem medialnym opisywanym w ww. materiałach wskazującym na
+fakt, iż działania policjantów miały bezpośrednio związek z (…) co ma jednoznacznie ne‐
+gatywny wydźwięk zważywszy na to, że (…) nie stanowi przestępstwa, oraz mając na
+uwadze w związku z tym, iż wyemitowany ww. materiał negatywnie ukazywał działania
+policjantów, a w konsekwencji znacząco uchybiał wizerunkowi Policji, celom jej działania i
+funkcjonowania oraz podważał służbę Policji społeczeństwu i zapewnieniu bezpieczeń‐
+stwa ludzi, które stanowią podstawę zadań i działań tej formacji, a także mając przy tym
+jednocześnie na uwadze, że ww. materiał i przekaz medialny nie miały oparcia w fak‐
+tach, które w rzeczywistości miały miejsce w związku ze zdarzeniem opisywanym w ww.
+wyemitowanych materiałach przez (…) i (…) oraz były pozbawione autentyczności w za‐
+prezentowanym w tych materiałach opisie przebiegu zdarzenia i prawdziwości w przed‐
+stawionym opisie okoliczności temu towarzyszących, Komendant Główny Policji jako
+przełożony wszystkich funkcjonariuszy Policji oraz organ zarządzający Policją i właściwy
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 9 z 36
+
+w sprawach ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku
+publicznego realizując cele funkcjonowania Policji, o których mowa w art. 1 ust. 1 ustawy
+z dnia 6 kwietnia 1990 r. o Policji (…), zorganizował briefing prasowy w dniu (…) r., na
+którym zostały przedstawione informacje (…) dotyczące przedbiegu zdarzenia w dniach
+(…) r. związanego ze zgłoszeniem na numer alarmowy 112 sytuacji wskazującej na stan
+zagrożenia życia i zdrowia p. (…), w związku z którym policjanci w ramach ustawowych
+zadań Policji podjęli interwencję oraz przeprowadzali czynności wobec p. (…) w jej (…), a
+następnie w (…) Szpitalu (…) w (…) oraz w Szpitalu (…) w (…), rodzaju podejmowanych
+czynności przez policjantów, a także informacje dotyczące celu tych czynności i przyczyn
+podjęcia tych czynności” (str. 3 wyjaśnień Komendanta z 30 listopada 2023 r. – karta 35
+akt sprawy).
+Komendant w złożonych w sprawie wyjaśnieniach podniósł również, że:
+–
+„Dane osobowe Skarżącej, dotyczące jej stanu zdrowia psychicznego i fizycznego,
+dane dotyczące jej życia prywatnego i orientacji seksualnej, o których mowa w skar‐
+dze zostały ujawnione przez samą skarżącą, przez reporterkę (…) w (…) oraz pełno‐
+mocniczkę Skarżącej w materiałach wyemitowanych w dniach (…) i (…) r. w (…) i
+(…) oraz na stronie (…), a zatem przed briefingiem prasowym w dniu (…) r. z
+udziałem Komendanta Głównego Policji (…)” (str. 5 wyjaśnień Komendanta z 30 li‐
+stopada 2023 r. – karta 36 akt sprawy);
+–
+„udostępniony podczas briefingu prasowego w dniu (…) r. materiał, zawierał wyłącz‐
+nie informacje, bez danych osobowych i bez informacji objętych tajemnicą lekarską,
+a zatem informacje o charakterze anonimowym, do których nie ma zastosowania
+rozporządzenie PE i Rady (UE) 2016/679, zgodnie z motywem 26, oraz stanowił ma‐
+teriał prasowy w rozumieniu art. 7 ust. 2 pkt 4 Prawa prasowego i został udostępnio‐
+ny w ramach działalności prasowej Policji na podstawie Prawa prasowego, do które‐
+go zastosowanie ma art. 2 ust. 1 ustawy o ochronie danych osobowych wyłączający
+zastosowanie do takiego materiału m.in. art. 5-9 rozporządzenia PE i Rady (UE)
+2016/679.” (str. 8 wyjaśnień Komendanta z 30 listopada 2023 r. – karta 37 verte akt
+sprawy).
+Komendant wyjaśnił, że „informacje i dane osobowe dotyczące Skarżącej w związku
+zgłoszonym zdarzeniem na numer alarmowy 112 w dniu (…) r. oraz czynnościami wyko‐
+nywanymi przez policjantów dotyczącymi tego zdarzenia i podjętej w związku z tym in‐
+terwencji zarejestrowane i przetwarzane w (…) zostały uzyskane przez zespół kontrole‐
+rów z (…) Komendy Głównej, którzy na polecenie Komendanta Głównego Policji, wykony‐
+wali czynności kontrolne w celu dokonania ustaleń z czynności przeprowadzonych wobec
+(…) w dniach (…) r. przez funkcjonariuszy Policji KP (…) w (…)” (wyjaśnienia Komendanta
+z 30 listopada 2023 r. – karta 38 akt sprawy).
+Skarżąca nie zwracała się do Komendanta z wnioskiem o usunięcie jej danych osobo‐
+wych (dowody: pismo pełnomocnika Skarżącej z 18 lipca 2024 r. – karta 92 akt sprawy,
+str. 11 wyjaśnień Komendanta z 30 listopada 2023 r. – karta 39 akt sprawy). Pełnomocnik
+Skarżącej wyjaśniła (pismo pełnomocnika Skarżącej z 18 lipca 2024 r. – karta 92 akt
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 10 z 36
+
+sprawy), że „Zwrócenie się z powyższym wnioskiem do Komendanta Głównego Policji
+było w ocenie Skarżącej bezcelowe z uwagi na postawę prezentowaną przez Policję w
+stosunku do sprawy Skarżącej. Ponadto, źródłem naruszenia praw i wolności Skarżącej i
+wyrządzonej jej krzywdy nie było i nie jest samo przechowywanie przez Komendę Głów‐
+ną Policji jej danych osobowych, ale ich bezprawne, publiczne ujawnienie w dniu (…) r.
+podczas konferencji prasowej, która była transmitowana przez wszystkie najważniejsze
+stacje telewizyjne, a jej treść powielana przez kilkadziesiąt artykułów prasowych i
+przekazów medialnych.”.
+puje. Po rozpatrzeniu całości zgromadzonego w sprawie materiału dowodowego Prezes
+UODO zważył, co następuje.
+Na wstępie rozstrzygnąć należy, czy kwestionowane przez Skarżącą informacje udostęp‐
+nione w trakcie konferencji prasowej, której dotyczy niniejsze postępowanie, zostały ze‐
+brane przez Policję w celu rozpoznawania, zapobiegania, wykrywania i zwalczania czy‐
+nów zabronionych, w tym zagrożeń dla bezpieczeństwa i porządku publicznego, a także
+wykonywania tymczasowego aresztowania, kar, kar porządkowych i środków przymusu
+skutkujących pozbawieniem wolności, czy też w innych celach. Od tej kwestii uzależnio‐
+ne jest bowiem to, jakie przepisy o ochronie danych osobowych należy zastosować do
+oceny działania Komendanta. Art. 2 ust. 2 lit. d rozporządzenia Parlamentu Europejskie‐
+go i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)
+(Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz.
+UE L 74 z 4.03.2021, str. 35), zwanego dalej RODO, stanowi, że rozporządzenie to nie ma
+zastosowania do przetwarzania danych osobowych przez właściwe organy do celów za‐
+pobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i
+ścigania czynów zabronionych lub wykonywania kar, w tym ochrony przed zagrożeniami
+dla bezpieczeństwa publicznego i zapobiegania takim zagrożeniom. W przypadku da‐
+nych osobowych przetwarzanych w powyższych celach zastosowanie mają natomiast
+przepisy ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych
+w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206),
+zwanej dalej uodo z 14 grudnia 2018 r. To przepisy uodo z 14 grudnia 2018 r. stwarzają
+podstawy stosowania ochrony prawnej w sytuacjach niezgodnego z prawem przetwarza‐
+nia danych osobowych obywateli, poprzez określenie zasad i warunków ochrony danych
+przetwarzanych przez właściwe organy, które dokonują przetwarzania danych osobo‐
+wych w celu określonym w art. 1 pkt 1 uodo z 14 grudnia 2018 r., tj. w celu rozpoznawa‐
+nia, zapobiegania, wykrywania i zwalczania czynów zabronionych, w tym zagrożeń dla
+bezpieczeństwa i porządku publicznego, a także wykonywania tymczasowego aresztowa‐
+nia, kar, kar porządkowych i środków przymusu skutkujących pozbawieniem wolności.
+Jak ustalono w toku postępowania prowadzonego w niniejszej sprawie, Komendant w
+trakcie konferencji prasowej wskazywał co prawda, że to o czym będzie mowa, cyt.
+„(…)”, jednakże z wyjaśnień Komendanta złożonych w niniejszej sprawie wynika także,
+że źródłem informacji, a w szczególności nagrań odtworzonych w trakcie konferencji,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 11 z 36
+
+których upublicznienie jest kwestionowane przez Skarżącą, nie były akta postępowania
+przygotowawczego prowadzonego przez prokuraturę, jak również, że informacje te nie
+zostały zebrane przez Policję w celach określonych w art. 1 pkt 1 uodo z 14 grudnia 2018
+r. Te wyjaśnienia wskazują bowiem, że udostępnione w treści konferencji prasowej w dniu
+(…) r. informacje dotyczące Skarżącej, w tym zanonimizowane treści nagrań, odnoszące
+się do zdarzenia z (…) r., pochodziły z A. i zostały uzyskane przez zespół kontrolerów z
+(…) Komendy Głównej Policji, którzy na polecenie Komendanta, wykonywali czynności
+kontrolne. A. nie jest zaś systemem przetwarzającym informacje wyłącznie do celów
+określonych w art. 1 pkt 1 uodo z 14 grudnia 2018 r.
+Art. 20e ust. 1 ustawy o Policji (Dz. U. z 2024 r. poz. 145) stanowi, że Komendant Główny
+Policji prowadzi System Wspomagania Dowodzenia Policji, zwany dalej "SWD Policji", bę‐
+dący systemem teleinformatycznym wspierającym: (pkt 1) wykonywanie zadań ustawo‐
+wych przez jednostki organizacyjne Policji; (pkt 2) obsługę zgłoszeń alarmowych, o któ‐
+rych mowa w ustawie z dnia 22 listopada 2013 r. o systemie powiadamiania
+ratunkowego (Dz. U. z 2023 r. poz. 748). Z treści nagrań, które zostały odtworzone na
+konferencji prasowej Komendanta w dniu (…) r. wynika, że zgłoszenie zarejestrowane na
+tych nagraniach miało na celu zapobieżenie (…). W tym zatem celu Policja pozyskała za‐
+warte w zgłoszeniu dane osobowe Skarżącej, które zostały utrwalone w A. w formie na‐
+grań oraz przeprowadziła interwencję w miejscu zamieszkania Skarżącej. (…) w czasie
+pozyskania tych danych nie było i aktualnie nie jest czynem zabronionym. W związku z
+tym na samym początku dane osobowe Skarżącej, a w szczególności informacje utrwalo‐
+ne na ww. nagraniach, nie zostały zebrane przez Policję w żadnym z celów określonych
+w art. 1 pkt 1 uodo z 14 grudnia 2018 r. Również udostępnienie tych danych osobowych
+w treści konferencji prasowej w dniu (…) r. nie nastąpiło w żadnym z powyższych celów.
+Z powyższych względów, w ocenie Prezesa UODO, zastosowanie w niniejszej sprawie
+znajdują przepisy RODO.
+Odnosząc się natomiast do podnoszonego w wyjaśnieniach Komendanta argumentu, że
+materiał udostępniony podczas konferencji prasowej w dniu (…) r. stanowił materiał pra‐
+sowy w rozumieniu art. 7 ust. 2 pkt 4 ustawy z dnia 26 stycznia 1984 r. Prawo prasowe
+(Dz. U. z 2018 r. poz. 1914), zwanej dalej Prawem prasowym, i został udostępniony w ra‐
+mach działalności prasowej Policji na podstawie Prawa prasowego, w konsekwencji czego
+zastosowanie ma art. 2 ust. 1 ustawy z dnia 10 maja 2018 r. o ochronie danych
+osobowych (Dz. U. z 2019 r. poz. 1781), zwanej dalej uodo z 10 maja 2018 r., wyłączają‐
+cy zastosowanie w stosunku do takiego materiału m.in. art. 5-9 RODO, wskazać należy,
+że w ocenie Prezesa UODO, ww. konferencja prasowa nie jest działalnością Komendanta
+polegającą na redagowaniu, przygotowywaniu, tworzeniu lub publikowaniu przez niego
+materiałów prasowych. Nie jest zatem działalnością, o której mowa w art. 2 ust. 1 uodo z
+10 maja 2018 r. stanowiącym, że do działalności polegającej na redagowaniu, przygoto‐
+wywaniu, tworzeniu lub publikowaniu materiałów prasowych w rozumieniu Prawa praso‐
+wego, a także do wypowiedzi w ramach działalności literackiej lub artystycznej nie stosu‐
+je się przepisów art. 5-9, art. 11, art. 13-16, art. 18-22, art. 27, art. 28 ust. 2-10 oraz art.
+30 RODO.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 12 z 36
+
+Art. 2 ust. 1 uodo z 10 maja 2018 r. jest przepisem, którego wprowadzenie do prawa pol‐
+skiego, wynika z art. 85 RODO, stanowiącego, że (ust. 1) państwa członkowskie przyjmu‐
+ją przepisy pozwalające pogodzić prawo do ochrony danych osobowych na mocy niniej‐
+szego rozporządzenia z wolnością wypowiedzi i informacji, w tym do przetwarzania dla
+potrzeb dziennikarskich oraz do celów wypowiedzi akademickiej, artystycznej lub literac‐
+kiej, oraz, że (ust. 2) dla przetwarzania do celów dziennikarskich lub do celów wypowie‐
+dzi akademickiej, artystycznej lub literackiej państwa członkowskie określają odstępstwa
+lub wyjątki od rozdziału II (Zasady), rozdziału III (Prawa osoby, której dane dotyczą), roz‐
+działu IV (Administrator i podmiot przetwarzający), rozdziału V (Przekazywanie danych
+osobowych do państw trzecich lub organizacji międzynarodowych), rozdziału VI (Nieza‐
+leżne organy nadzorcze), rozdziału VII (Współpraca i spójność) oraz rozdziału IX (Szcze‐
+gólne sytuacje związane z przetwarzaniem danych), jeżeli są one niezbędne, by pogo‐
+dzić prawo do ochrony danych osobowych z wolnością wypowiedzi i informacji.
+Wskazać w tym miejscu należy, że określenie „briefing” stosowane przez Komendanta
+na określenie spotkania z przedstawicielami mediów, którego dotyczy niniejsze postępo‐
+wanie, oznacza konferencję prasową na jeden temat (definicja zamieszczona w „Słowni‐
+ku języka polskiego PWN” - https://sjp.pwn.pl/sjp/briefing;2552659.html). Z kolei,
+zgodnie z definicją zamieszczoną w tymże „Słowniku języka polskiego PWN” konferencja
+prasowa, to spotkanie, na którym znana osoba odpowiada na pytania dziennikarzy
+(https://sjp.pwn.pl/slowniki/konferencja%20prasowa.html). Bardziej szczegółowo pojęcie
+konferencji prasowej definiuje internetowa encyklopedia Wikipedia stwierdzając, że
+„Konferencja prasowa – wydarzenie medialne, w którym osoby chcące przekazać me‐
+diom pewne informacje zapraszają dziennikarzy do wysłuchania ich oraz, najczęściej,
+zadawania związanych z daną sprawą pytań.” (https://pl.wikipedia.org/wiki/Konferen‐
+cja_prasowa, dostęp 08.08.2024 r., godz. 12:39). Z powołanych powyżej definicji wynika,
+że konferencja prasowa to wydarzenie, na którym osoba je inicjująca przekazuje infor‐
+macje przedstawicielom prasy. Na taki właśnie charakter wydarzenia, którego dotyczy
+niniejsze postępowania, wskazuje jego przebieg opisany we wcześniejszej części uzasad‐
+nienia niniejszej decyzji. Konferencja prasowa (briefing prasowy) z samej definicji nie jest
+wydarzeniem organizowanym przez prasę lub jej przedstawiciela w celu redagowania,
+przygotowywania, tworzenia lub publikowania na nim materiałów prasowych. Już powyż‐
+sze wyklucza możliwość uznania konferencji prasowej zorganizowanej przez Komendanta
+w sprawie Skarżącej za działalność Komendanta jako prasy w rozumieniu art. 7 ust. 2 pkt
+1 Prawa prasowego, stanowiącego, że prasa oznacza publikacje periodyczne, które nie
+tworzą zamkniętej, jednorodnej całości, ukazujące się nie rzadziej niż raz do roku, opa‐
+trzone stałym tytułem albo nazwą, numerem bieżącym i datą, a w szczególności: dzien‐
+niki i czasopisma, serwisy agencyjne, stałe przekazy teleksowe, biuletyny, programy ra‐
+diowe i telewizyjne oraz kroniki filmowe; prasą są także wszelkie istniejące i powstające
+w wyniku postępu technicznego środki masowego przekazywania, w tym także rozgło‐
+śnie oraz tele- i radiowęzły zakładowe, upowszechniające publikacje periodyczne za po‐
+mocą druku, wizji, fonii lub innej techniki rozpowszechniania; prasa obejmuje również
+zespoły ludzi i poszczególne osoby zajmujące się działalnością dziennikarską.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 13 z 36
+
+Niezależnie od powyższego, podkreślić należy, że wynikającym z przytoczonego wcze‐
+śniej art. 85 ust. 1 RODO celem wprowadzenia art. 2 ust. 1 uodo z 10 maja 2018 r. jest
+pogodzenie prawa do ochrony danych osobowych z wolnością wypowiedzi i informacji, w
+tym do przetwarzania dla potrzeb dziennikarskich. Komendant – stosownie do treści art.
+5 ust. 1 ustawy o Policji – jest centralnym organem administracji rządowej, właściwym w
+sprawach ochrony bezpieczeństwa ludzi oraz utrzymania bezpieczeństwa i porządku pu‐
+blicznego. Organy władzy publicznej, a zatem również Komendant, nie są zaś beneficjen‐
+tami wolności prasy i innych środków społecznego przekazu, określonej w art. 14 Konsty‐
+tucji Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz. U. Nr 78 poz. 483 ze zm.),
+zwanej dalej Konstytucją RP, stanowiącym, że Rzeczpospolita Polska zapewnia wolność
+prasy i innych środków społecznego przekazu. Jak bowiem wskazuje się w doktrynie
+prawa, cyt.: „Artykuł 14 konstytucji wyraża przekonanie, że dla funkcjonowania "demo‐
+kratycznego państwa prawnego" (art. 2) składnikiem koniecznym i integralnym z innymi
+elementami (jak np. niezależnymi i autonomicznymi kościołami, swobodnie działającymi
+partiami, w sposób wolny funkcjonującymi innymi organizacjami) – są istniejące w spo‐
+sób możliwie niezależny, zwłaszcza od władzy publicznej i większości rządzącej środki
+społecznego przekazu (podobnie m.in. B. Banaszak, Konstytucja RP. Komentarz, Warsza‐
+wa 2009, s. 103; J. Szymanek, Konstytucyjna zasada wolności słowa w radiofonii i
+telewizji, PiP 2007, z. 8, s. 21)” (L. Garlicki, P. Sarnecki [w:] Konstytucja Rzeczypospolitej
+Polskiej. Komentarz. Tom I, wyd. II, red. M. Zubik, Warszawa 2016, art. 14). Zatem celem
+art. 14 Konstytucji RP jest zagwarantowanie wolności niezależnym od władzy publicznej
+środkom masowego przekazu, a nie zagwarantowanie wolności władzy publicznej.
+Komendant, jako organ władzy publicznej, nie jest również beneficjentem określonej w
+art. 54 ust. 1 Konstytucji RP wolności wyrażania swoich poglądów oraz pozyskiwania i
+rozpowszechniania informacji. Przepis ten znajduje się bowiem w rozdziale II Konstytucji
+RP, zatytułowanym „Wolności, prawa i obowiązki człowieka i obywatela”, a zatem wymie‐
+nione w nim wolności nie są wolnościami organów władzy publicznej. Zatem Komendant,
+jako organ władzy publicznej, nie może korzystać z przywilejów i ułatwień, które przepisy
+prawa przewidują dla prasy. Wobec powyższego, w ocenie Prezesa UODO, prowadzenie
+przez Komendanta polityki informacyjnej – nawet jeżeli ta polityka została określona w
+zarządzeniu Nr 1204 Komendanta z dnia 12 listopada 2007 r. w sprawie form i metod
+działalności prasowo-informacyjnej w Policji (Dz. Urz. KGP z 2018 r. poz. 90) – mianem
+działalności prasowo-informacyjnej (§ 1 ww. zarządzenia) – poprzez udzielanie przez nie‐
+go środkom masowego przekazu na konferencji prasowej informacji o działalności Policji,
+nie jest działalnością, o której mowa w przytoczonym wcześniej art. 2 ust. 1 uodo z 10
+maja 2018 r., wyłączającym zastosowanie m.in. art. 6 i art. 9 RODO.
+Odnosząc się do podniesionego w wyjaśnieniach Komendanta argumentu, że materiał
+udostępniony podczas konferencji prasowej w dniu (…) r. nie zawierał danych osobo‐
+wych, lecz wyłącznie informacje o charakterze anonimowym, do których RODO nie ma
+zastosowania, przytoczyć należy przepisy określające, do przetwarzania jakich informacji
+RODO ma zastosowanie. Art. 1 ust. 1 RODO stanowi, że w niniejszym rozporządzeniu
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 14 z 36
+
+ustanowione zostają przepisy o ochronie osób fizycznych w związku z przetwarzaniem
+danych osobowych oraz przepisy o swobodnym przepływie danych osobowych. Zakres
+stosowania RODO precyzuje art. 2 ust. 1 tego aktu, stanowiący, że niniejsze rozporzą‐
+dzenie ma zastosowanie do przetwarzania danych osobowych w sposób całkowicie lub
+częściowo zautomatyzowany oraz do przetwarzania w sposób inny niż zautomatyzowany
+danych osobowych stanowiących część zbioru danych lub mających stanowić część
+zbioru danych. Zgodnie zaś z art. 4 pkt 1 RODO „dane osobowe” oznaczają wszelkie in‐
+formacje o zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej („osobie,
+której dane dotyczą”); możliwa do zidentyfikowania osoba fizyczna to osoba, którą moż‐
+na bezpośrednio lub pośrednio zidentyfikować, w szczególności na podstawie identyfika‐
+tora takiego jak imię i nazwisko, numer identyfikacyjny, dane o lokalizacji, identyfikator
+internetowy lub jeden bądź kilka szczególnych czynników określających fizyczną, fizjolo‐
+giczną, genetyczną, psychiczną, ekonomiczną, kulturową lub społeczną tożsamość osoby
+fizycznej. Motyw 26 preambuły RODO wyjaśnia z kolei, że:
+–
+aby stwierdzić, czy dana osoba fizyczna jest możliwa do zidentyfikowania, należy
+wziąć pod uwagę wszelkie rozsądnie prawdopodobne sposoby (w tym wyodrębnie‐
+nie wpisów dotyczących tej samej osoby), w stosunku do których istnieje uzasadnio‐
+ne prawdopodobieństwo, iż zostaną wykorzystane przez administratora lub inną
+osobę w celu bezpośredniego lub pośredniego zidentyfikowania osoby fizycznej
+(zdanie 3);
+–
+aby stwierdzić, czy dany sposób może być z uzasadnionym prawdopodobieństwem
+wykorzystany do zidentyfikowania danej osoby, należy wziąć pod uwagę wszelkie
+obiektywne czynniki, takie jak koszt i czas potrzebne do jej zidentyfikowania, oraz
+uwzględnić technologię dostępną w momencie przetwarzania danych, jak i postęp
+technologiczny (zdanie 4);
+–
+zasady ochrony danych nie powinny więc mieć zastosowania do informacji anonimo‐
+wych, czyli informacji, które nie wiążą się ze zidentyfikowaną lub możliwą do ziden‐
+tyfikowania osobą fizyczną, ani do danych osobowych zanonimizowanych w taki
+sposób, że osób, których dane dotyczą, w ogóle nie można zidentyfikować lub już
+nie można zidentyfikować (zdanie 5);
+–
+niniejsze rozporządzenie nie dotyczy więc przetwarzania takich anonimowych infor‐
+macji, w tym przetwarzania do celów statystycznych lub naukowych (zdanie 6).
+Mając powyższe na uwadze, zauważyć należy, że dotyczące Skarżącej informacje udo‐
+stępnione w treści konferencji prasowej Komendanta w dniu (…) r. były udostępnione w
+pewnym kontekście. Ta konferencja prasowa – co wynika z jej treści i wyjaśnień złożo‐
+nych przez Komendanta w niniejszej sprawie – została bowiem przeprowadzona w reakcji
+na materiał wyemitowany (…) r. przez stację telewizyjną N. w „(…)” N. i materiał wyemi‐
+towany (…) r. przez stację telewizyjną O. w programie „(…)”, w związku z podnoszonymi
+w tych materiałach zarzutami dotyczącymi działań podejmowanych przez Policję w sto‐
+sunku do Skarżącej i dotyczyła ww. działań. W ww. materiałach filmowych, z udziałem
+Skarżącej, widoczna była jej postać, jej twarz oraz słychać było jej głos, wskazywane
+było również jej imię. Materiały te zostały też opublikowane przed konferencją prasową
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 15 z 36
+
+Komendanta na ogólnodostępnych stronach internetowych w serwisie (…) jako część ar‐
+tykułów zamieszczonych w tym serwisie (dołączone do notatki służbowej z 26 czerwca
+2024 r. i notatki służbowej z 27 czerwca 2024 r. wydruki artykułów i zrzutów ekranu z
+opublikowanych w nich nagrań znajdują się w aktach sprawy).
+Powyższe prowadzi do wniosku, że dla osób, które obejrzały ww. materiały przed obejrze‐
+niem konferencji prasowej Komendanta, odnoszące się do Skarżącej informacje udostęp‐
+niane podczas tej konferencji, były informacjami o osobie zidentyfikowanej. Natomiast
+osoby, które nie zapoznały się z ww. materiałami przed obejrzeniem konferencji praso‐
+wej Komendanta, mogły i nadal mogą bez trudu do nich dotrzeć (np. przy użyciu wyszu‐
+kiwarki internetowej), powiązując tym samym informacje udostępnione w trakcie konfe‐
+rencji prasowej z osobą Skarżącej. Dla tych osób, odnoszące się do Skarżącej informacje
+udostępnione w trakcie konferencji prasowej Komendanta, stanowią zatem informacje o
+możliwej do zidentyfikowania osobie fizycznej. Z przytoczonych powyżej zdań trzeciego i
+czwartego motywu 26 preambuły RODO wynika bowiem, że dla określenia, czy osoba fi‐
+zyczna jest możliwa do zidentyfikowania istotne jest, czy łatwo na podstawie informacji
+można zidentyfikować osobę fizyczną. W konsekwencji tego odnoszące się do Skarżącej
+informacje udostępnione w trakcie konferencji prasowej Komendanta, w ocenie Prezesa
+UODO, stanowią dane osobowe Skarżącej w rozumieniu art. 4 pkt 1 RODO.
+Mając na uwadze, że w świetle zarzutów podniesionych przez pełnomocnika Skarżącej w
+treści skargi, nieprawidłowości w procesie przetwarzania danych osobowych Skarżącej
+mają polegać na udostępnieniu w treści konferencji prasowej w dniu (…) r. informacji ob‐
+jętych tajemnicą lekarską (w tym informacji o stanie zdrowia Skarżącej, leczeniu (…), w
+tym, że cierpi na (…), ówczesnym stanie zdrowia psychicznego Skarżącej, m.in. o Jej sta‐
+nie emocjonalnym, o rzekomej (…), o rzekomych (…), informacji o aktualnym stanie
+zdrowia fizycznego Skarżącej, w tym m.in. informacji o przebiegu (…), informacji o roz‐
+padzie związku Skarżącej, a w konsekwencji o jej orientacji seksualnej, informacji o miej‐
+scowości zamieszkania Skarżącej, informacji o rodzaju zabudowy mieszkalnej i tytule
+prawnym do lokalu, ocenić w tym miejscu należy, czy informacje w tym zakresie zostały
+udostępnione przez Komendanta w treści ww. konferencji prasowej.
+Materiał dowodowy zebrany w niniejszej sprawie wskazuje, że niewątpliwie doszło do
+udostępnienia przez Komendanta informacji o fakcie leczenia (…) Skarżącej. Na ten fakt
+wprost wskazuje, odtworzone na konferencji w treści nagrania rozmowy z dyspozytorem
+Wojewódzkiego Centrum Powiadamiania Ratunkowego, zdanie: „(…)”. Informacja, że
+Skarżąca cierpi na (…) znajduje się zarówno w treści odtworzonego nagrania z rozmowy
+z dyspozytorem Wojewódzkiego Centrum Powiadamiania Ratunkowego – w zdaniu „(…)”,
+jak i w treści nagrania z rozmowy z Dyżurnym Komendy Miejskiej Policji w Z. – w zdaniu
+„(…)”. W treści odtworzonych nagrań znajdują się również informację o stanie
+emocjonalnym Skarżącej – np. stwierdzenia „(…)” i „(…)”, w tym o (…), np. stwierdzenia
+„(…)”, „(…)”, „(…)”.
+Odnosząc się do kwestii udostępnienia przez Komendanta informacji o przebiegu (…)
+Skarżą‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 16 z 36
+
+cej, wskazać należy, że mimo, iż w odtworzonych na konferencji nagraniach słowo „(…)”
+było zagłuszone, to kontekst konferencji sprawia, że zawarte w tych nagraniach stwier‐
+dzenia „(…)” oraz „(…)”, należy odnosić do (…). Zatem są to informacje o sposobie i
+miejscu przeprowadzenia (…).
+W ocenie Prezesa UODO, wskazane powyżej informacje są informacjami dotyczącymi
+zdrowia w rozumieniu art. 4 pkt 15 RODO, stanowiącego, że „dane dotyczące zdrowia”
+oznaczają dane osobowe o zdrowiu fizycznym lub psychicznym osoby fizycznej – w tym
+o korzystaniu z usług opieki zdrowotnej – ujawniające informacje o stanie jej zdrowia.
+Wobec tego do oceny dopuszczalności udostępnienia tych informacji zastosować należy
+przepisy RODO regulujące przetwarzanie danych dotyczących zdrowia. Danymi dotyczą‐
+cymi zdrowia Skarżącej są również zawarte w wypowiedzi Komendanta podczas konfe‐
+rencji prasowej informacje, że skierowany na miejsce patrol zastał Skarżącą „(…)”
+Odnośnie do udostępnienia informacji o rozpadzie związku Skarżącej, a w konsekwencji o
+jej orientacji seksualnej, wskazać należy, że zawarty w nagraniu odtworzonym na konfe‐
+rencji prasowej fragment rozmowy zgłaszającej z dyżurnym Komendy Miejskiej Policji w
+Z. o treści „(…)” jest informacją o rozpadzie związku Skarżącej. Jednakże, w ocenie Pre‐
+zesa UODO, ww. fragment nie jest informacją o orientacji seksualnej Skarżącej lub jej
+seksualności. Odnośnie do danych osobowych dotyczących seksualności i orientacji
+seksualnej, doktryna prawa zauważa bowiem, że cyt.: „Seksualność jest pojęciem szero‐
+kim, może obejmować informacje dotyczące prowadzonego życia seksualnego bądź abs‐
+tynencji płciowej, informacje dotyczące realizacji zaspokajania popędu płciowego itd.; z
+kolei orientacja seksualna może być rozumiana jako deklarowanie się jako np. hetero-,
+homo- lub biseksualisty.” [M. Sakowska-Baryła (red.), Ogólne rozporządzenie o ochronie
+danych osobowych. Komentarz, Warszawa 2018]. Mając na uwadze powyższe zauważyć
+należy, że informacja o rozstaniu z (…) nie jest informacją o orientacji Skarżącej i Jej sek‐
+sualności. Nie jest też informacją dotyczącą realizacji zaspokajania popędu płciowego.
+Jest to jedynie informacja o zakończeniu wspólnego związku z drugą osobą, nie zaś infor‐
+macją o identyfikowaniu się przez Skarżącą z określoną orientacją seksualną, czy o pro‐
+wadzonym przez nią życiu seksualnym. Wobec powyższego, brak jest podstaw do oce‐
+niania kwestii udostępnienia przez Komendanta informacji o tym, że Skarżącą zostawił
+(…) przez pryzmat wskazanych w art. 9 ust. 2 RODO przesłanek legalizujących przetwa‐
+rzanie danych osobowych dotyczących seksualności i orientacji seksualnej.
+Materiał dowodowy zebrany w niniejszej sprawie wskazuje też, że doszło do udostępnie‐
+nia przez Komendanta informacji o miejscowości zamieszkania Skarżącej – fragmenty
+nagrań o treści „(…)”, „(…)”, „(…)” – oraz informacji o rodzaju zabudowy mieszkalnej i
+tytule prawnym do lokalu - fragment nagrania o treści „(…)”.
+Odnosząc się do kwestii dopuszczalności udostępnienia przez Komendanta w trakcie
+konferencji prasowej w dniu (…) r. informacji, które zgodnie z wcześniejszą częścią uza‐
+sadnienia niniejszej decyzji stanowią dane dotyczące zdrowia Skarżącej, wskazać należy,
+że art. 9 ust. 1 RODO zabrania przetwarzania m.in. danych dotyczących zdrowia. Zgod‐
+nie jednak z art. 9 ust. 2 RODO powyższy zakaz nie ma zastosowania, jeżeli spełniony
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 17 z 36
+
+jest jeden z poniższych warunków: (lit. a) osoba, której dane dotyczą, wyraziła wyraźną
+zgodę na przetwarzanie tych danych osobowych w jednym lub kilku konkretnych celach,
+chyba że prawo Unii lub prawo państwa członkowskiego przewidują, iż osoba, której
+dane dotyczą, nie może uchylić zakazu, o którym mowa w ust. 1; (lit. b) przetwarzanie
+jest niezbędne do wypełnienia obowiązków i wykonywania szczególnych praw przez ad‐
+ministratora lub osobę, której dane dotyczą, w dziedzinie prawa pracy, zabezpieczenia
+społecznego i ochrony socjalnej, o ile jest to dozwolone prawem Unii lub prawem pań‐
+stwa członkowskiego, lub porozumieniem zbiorowym na mocy prawa państwa członkow‐
+skiego przewidującymi odpowiednie zabezpieczenia praw podstawowych i interesów
+osoby, której dane dotyczą; (lit. c) przetwarzanie jest niezbędne do ochrony żywotnych
+interesów osoby, której dane dotyczą, lub innej osoby fizycznej, a osoba, której dane do‐
+tyczą, jest fizycznie lub prawnie niezdolna do wyrażenia zgody; (lit. d) przetwarzania do‐
+konuje się w ramach uprawnionej działalności prowadzonej z zachowaniem odpowied‐
+nich zabezpieczeń przez fundację, stowarzyszenie lub inny niezarobkowy podmiot o ce‐
+lach politycznych, światopoglądowych, religijnych lub związkowych, pod warunkiem że
+przetwarzanie dotyczy wyłącznie członków lub byłych członków tego podmiotu lub osób
+utrzymujących z nim stałe kontakty w związku z jego celami oraz że dane osobowe nie
+są ujawniane poza tym podmiotem bez zgody osób, których dane dotyczą; (lit. e) prze‐
+twarzanie dotyczy danych osobowych w sposób oczywisty upublicznionych przez osobę,
+której dane dotyczą; (lit. f) przetwarzanie jest niezbędne do ustalenia, dochodzenia lub
+obrony roszczeń lub w ramach sprawowania wymiaru sprawiedliwości przez sądy; (lit. g)
+przetwarzanie jest niezbędne ze względów związanych z ważnym interesem publicznym,
+na podstawie prawa Unii lub prawa państwa członkowskiego, które są proporcjonalne do
+wyznaczonego celu, nie naruszają istoty prawa do ochrony danych i przewidują odpo‐
+wiednie i konkretne środki ochrony praw podstawowych i interesów osoby, której dane
+dotyczą; (lit. h) przetwarzanie jest niezbędne do celów profilaktyki zdrowotnej lub medy‐
+cyny pracy, do oceny zdolności pracownika do pracy, diagnozy medycznej, zapewnienia
+opieki zdrowotnej lub zabezpieczenia społecznego, leczenia lub zarządzania systemami i
+usługami opieki zdrowotnej lub zabezpieczenia społecznego na podstawie prawa Unii lub
+prawa państwa członkowskiego lub zgodnie z umową z pracownikiem służby zdrowia i z
+zastrzeżeniem warunków i zabezpieczeń, o których mowa w ust. 3; (lit. i) przetwarzanie
+jest niezbędne ze względów związanych z interesem publicznym w dziedzinie zdrowia
+publicznego, takich jak ochrona przed poważnymi transgranicznymi zagrożeniami zdro‐
+wotnymi lub zapewnienie wysokich standardów jakości i bezpieczeństwa opieki zdrowot‐
+nej oraz produktów leczniczych lub wyrobów medycznych, na podstawie prawa Unii lub
+prawa państwa członkowskiego, które przewidują odpowiednie, konkretne środki ochro‐
+ny praw i wolności osób, których dane dotyczą, w szczególności tajemnicę zawodową;
+(lit. j) przetwarzanie jest niezbędne do celów archiwalnych w interesie publicznym, do
+celów badań naukowych lub historycznych lub do celów statystycznych zgodnie z art. 89
+ust. 1, na podstawie prawa Unii lub prawa państwa członkowskiego, które są proporcjo‐
+nalne do wyznaczonego celu, nie naruszają istoty prawa do ochrony danych i przewidują
+odpowiednie, konkretne środki ochrony praw podstawowych i interesów osoby, której
+dane dotyczą. Jednocześnie, zgodnie z art. 5 ust. 1 lit. b oraz c RODO, dane osobowe
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 18 z 36
+
+muszą być też zbierane w konkretnych, wyraźnych i prawnie uzasadnionych celach i nie‐
+przetwarzane dalej w sposób niezgodny z tymi celami oraz adekwatne, stosowne oraz
+ograniczone do tego, co niezbędne do celów, w których są przetwarzane.
+W niniejszej sprawie oczywiste jest, że do kwestii udostępnienia przez Komendanta w
+treści konferencji prasowej w dniu (…) r. danych dotyczących zdrowia Skarżącej nie będą
+miały zastosowania przesłanki określone w przytoczonych powyżej przepisach art. 9 ust.
+2 lit. a-d, lit. f i lit. h-j RODO. Odnośnie do możliwości oparcia udostępnienia przez Ko‐
+mendanta danych osobowych w tym zakresie o przesłankę określoną w art. 9 ust. 2 lit. e
+RODO, czyli ze względu na to, że przetwarzanie dotyczy danych osobowych w sposób
+oczywisty upublicznionych przez osobę, której dane dotyczą, ustalić należy, czy informa‐
+cje udostępnione przez Komendanta zostały już wcześniej upublicznione przez Skarżącą.
+Komendant w złożonych w sprawie wyjaśnieniach podniósł, że dane osobowe Skarżącej
+m.in. dotyczące jej stanu zdrowia psychicznego i fizycznego zostały ujawnione przez
+samą Skarżącą, przez reporterkę (…) N. oraz pełnomocniczkę Skarżącej w materiałach
+wyemitowanych (…)i (…) r. w N. i O. oraz na stronie (…), a zatem przed briefingiem pra‐
+sowym w dniu (…) r. z udziałem Komendanta. W tym miejscu zauważyć należy, że za‐
+warta w wypowiedzi Komendanta podczas konferencji prasowej informacja, że Skarżąca
+została zastana „(…)” pokrywa się zawartą w wypowiedzi lektorki w materiale filmowym
+wyemitowanym w „(…)” N. (…) r. informacją, że Skarżąca „(…)” (treść tej wypowiedzi
+lektorki znajduje się w notatce służbowej z 26 czerwca 2024 r. - karta 46 akt sprawy).
+Informacja, że Skarżąca „(…)” została powtórzona w artykule opublikowanym (…) r. w
+serwisie internetowym C. wraz z nagraniem programu wyemitowanego w tym dniu w
+programie „(…)” (wydruk artykułu, dołączony do notatki służbowej z 27 czerwca 2024 r.,
+stanowi karty 55-57 akt sprawy). Ponadto informacja o treści „(…)” jest wyświetlana w
+treści materiału filmowego wyemitowanego (…) r. w programie „(…)” i dostępnego w
+serwisie internetowym C. (dołączony do notatki służbowej z 27 czerwca 2024 r. wydruk
+zrzutu ekranu z tym fragmentem nagrania stanowi kartę 58 verte akt sprawy).
+Nie są to co prawda stwierdzenia, które w powyższych materiałach padają bezpośrednio
+z ust Skarżącej, jednakże w ocenie Prezesa UODO, nie ulega wątpliwości, że Skarżąca
+upublicznione w tych materiałach informacje w powyższym zakresie podała mediom wła‐
+śnie w celu przekazania ich przez media do publicznej wiadomości. Kontekst publikacji
+tych informacji w mediach po raz pierwszy (w reportażu wyemitowanym (…) r. w (…) N.),
+wskazuje bowiem, że zostały one przekazane przez Skarżącą autorce reportażu wyemi‐
+towanego w (…) N. w trakcie wywiadu przeprowadzonego na potrzeby przygotowania
+tego reportażu. Z uwagi na to, uznać należy, że informacja o tym, że Skarżąca (…) r.
+była (…) jest informacją w sposób oczywisty upublicznioną przez Skarżącą przed konfe‐
+rencją prasową Komendanta. Również informacja o sposobie przeprowadzenia (…), tj. że
+była to (…), została upubliczniona w materiałach N. i O. przed konferencją prasową
+Komendanta. Lektorka w materiale wyemitowanym w programie „(…)” N. (…) r. mówi
+„(…)”, zaś prowadząca ten program w swojej wypowiedzi wskazuje „(…)”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 19 z 36
+
+Już z samych adresów stron internetowych, pod którymi materiały N. i O. zostały opubli‐
+kowane przed konferencją prasową Komendanta wynika, że Skarżąca (…). Materiały te
+zostały bowiem opublikowane pod adresami (…) i (…). Informacja, że „(…)” znajduje się
+w tytule artykułu opublikowanego pod pierwszym z tych adresów. Zatem również infor‐
+mację o sposobie przeprowadzenia (…) uznać należy za informację w sposób oczywisty
+upublicznioną przez nią przed konferencją prasową Komendanta. Wobec powyższego,
+udostępnienie przez Komendanta na konferencji prasowej informacji, że Skarżąca została
+zastana „(…)” oraz informacji o sposobie przeprowadzenia (…), w ocenie Prezesa UODO,
+było dopuszczalne, jako znajdujące oparcie w przesłance określonej w art. 9 ust. 2 lit. e
+RODO.
+Z materiału dowodowego zgromadzonego w niniejszej sprawie wynika natomiast, że w
+materiałach wyemitowanych (…) i (…) r. w stacjach N. i O. oraz opublikowanych w tych
+dniach w serwisie internetowym C. nie były zawarte informacje o fakcie leczenia (…)
+Skarżącej, o tym, że Skarżąca cierpi na (…), o miejscu przeprowadzenia (…), jak również
+informacje o stanie emocjonalnym Skarżącej – w zakresie informacji o (…) oraz stwier‐
+dzeń „(…)” i „(…)”. Co więcej, wypowiedź Skarżącej zawarta w materiale filmowym z
+programu „(…)” z (…) r. zaprzecza zamiarowi (…). Skarżąca powiedziała bowiem: „(…)”
+Również w treści artykułu opublikowanego w serwisie internetowym C. (…) r., jest mowa,
+o tym, że cyt.:
+–
+„(…)”;
+–
+„(…)”.
+Do udostępnienia przez Komendanta ww. informacji przesłanka określona w art. 9
+ust. 2 lit. e RODO nie będzie miała zatem zastosowania.
+Odnośnie do możliwości oparcia udostępnienia przez Komendanta danych osobowych w
+tym zakresie o przesłankę określoną w art. 9 ust. 2 lit. g RODO, czyli ze względu na to,
+że przetwarzanie jest niezbędne ze względów związanych z ważnym interesem publicz‐
+nym, na podstawie prawa Unii lub prawa państwa członkowskiego, które są proporcjonal‐
+ne do wyznaczonego celu, nie naruszają istoty prawa do ochrony danych i przewidują
+odpowiednie i konkretne środki ochrony praw podstawowych i interesów osoby, której
+dane dotyczą, wskazać należy, że ta przesłanka wymaga istnienia przepisu prawa do‐
+puszczającego przetwarzanie danych, gdy jest to uzasadnione ważnym interesem pu‐
+blicznym. Znajduje to również oparcie w obowiązującej podmioty publiczne zasadzie le‐
+galizmu, wyrażonej w art. 7 Konstytucji RP, zgodnie z którym organy władzy publicznej
+działają na podstawie i w granicach prawa.
+Przepisy regulujące kwestię udostępniania informacji na rzecz prasy są natomiast zawar‐
+te w Prawie prasowym. Wskazać w tym miejscu należy, że w niniejszej sprawie wyklu‐
+czyć należy możliwość zastosowania w stosunku do działania Komendanta art. 5 Prawa
+prasowego, zgodnie z którym (ust. 1) każdy, zgodnie z zasadą wolności słowa i prawem
+do krytyki, może udzielać informacji prasie; (ust. 2) nikt nie może być narażony na
+uszczerbek lub zarzut z powodu udzielenia informacji prasie, jeżeli działał w granicach
+prawem dozwolonych. Jak już bowiem wcześniej wskazano Komendant, jako organ wła‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 20 z 36
+
+dzy publicznej, nie jest beneficjentem określonej w art. 54 ust. 1 Konstytucji RP wolności
+wyrażania swoich poglądów i rozpowszechniania informacji. Również prawo do krytyki, o
+którym mowa w art. 5 ust. 1 Prawa prasowego odnosić należy do obywatela, a nie do or‐
+ganu władzy publicznej. Wynika to z art. 1 Prawa prasowego, zgodnie z którym prasa
+urzeczywistnia prawo obywateli m.in. do kontroli i krytyki społecznej. Sposób odpowiada‐
+nia przez organy państwowe na krytykę prasową został natomiast uregulowany w art. 6
+ust. 2 Prawa prasowego, który stanowi, że organy państwowe, przedsiębiorstwa pań‐
+stwowe i inne państwowe jednostki organizacyjne oraz organizacje spółdzielcze są obo‐
+wiązane do udzielenia odpowiedzi na przekazaną im krytykę prasową bez zbędnej zwło‐
+ki, nie później jednak niż w ciągu miesiąca. Jak wskazuje doktryna prawa, odnośnie do
+art. 6 ust. 2 Prawa prasowego, cyt.; „Przez "przekazanie" należy rozumieć nie samo opu‐
+blikowanie powszechnie dostępnego materiału prasowego, ale jakąkolwiek formę dorę‐
+czenia krytykowanej jednostce treści zawartej w materiale prasowym wraz z zakomuni‐
+kowaniem oczekiwania uzyskania odpowiedzi (zob. J. Sobczak, Prawo prasowe, s. 303; E.
+Ferenc-Szydełko, Prawo prasowe, s. 71; M. Brzozowska-Pasieka, Prawo prasowe, s. 122;
+A. Chajewska, [w:] K. Orlik (red.), Prawo prasowe. Postępowania sądowe w sprawach pra‐
+sowych, Warszawa 2017, s. 156). (…) Odpowiedź powinna zostać utrwalona na piśmie i
+przekazana dowolnym środkiem komunikacji.” (B. Kosmus, G. Kuczyński (red.), Prawo
+prasowe. Komentarz. Wyd. 3, Warszawa 2018).
+Zatem, zastosowanie trybu określonego w art. 6 ust. 2 Prawa prasowego wymaga, aby
+prasa przekazała organowi państwowemu krytyczny materiał i zażądała udzielenia jej
+odpowiedzi na ten materiał. Wobec tego przepis ten nie obejmuje przypadku udzielenia
+na konferencji prasowej, z własnej inicjatywy organu, odpowiedzi na krytyczny materiał
+opublikowany w prasie. Powoduje to, że nie jest on przepisem, który w niniejszej sprawie
+skutkowałby wystąpieniem przesłanki określonej art. 9 ust. 2 lit. g RODO.
+Podkreślić jednocześnie należy, że w niniejszej sprawie udzielona Policji przez Prokurato‐
+ra Okręgowego w Z. zgoda na publikację nagrań w środkach masowego przekazu nie po‐
+woduje wystąpienia po stronie Komendanta którejkolwiek z przesłanek określonych w
+art. 9 ust. 2 RODO. Zgoda taka jedynie pozwala na uniknięcie odpowiedzialności karnej
+określonej w art. 241 § 1 Kodeksu karnego, zgodnie z którym, kto bez zezwolenia rozpo‐
+wszechnia publicznie wiadomości z postępowania przygotowawczego, zanim zostały
+ujawnione w postępowaniu sądowym, podlega grzywnie, karze ograniczenia wolności
+albo pozbawienia wolności do lat 2. Jak bowiem wskazuje doktryna prawa, cyt.: „Nie sta‐
+nowi przestępstwa rozpowszechnianie publicznie wiadomości z postępowania przygoto‐
+wawczego w przypadku, gdy sprawca posiadał odpowiednie zezwolenie pochodzące od
+uprawnionego organu (w tym przypadku od prokuratora), a po wpłynięciu aktu
+oskarżenia do sądu – od sądu.” (M. Mozgawa [w:] M. Budyn-Kulik, P. Kozłowska-Kalisz, M.
+Kulik, M. Mozgawa, Kodeks karny. Komentarz aktualizowany, LEX/el. 2024, art. 241). Wo‐
+bec powyższego w niniejszej sprawie nie występuje odrębny w stosunku do przepisów
+RODO przepis prawa, który pozwalałby na udostępnienie przez Komendanta, w okolicz‐
+nościach w jakich to nastąpiło, informacji o fakcie leczenia (…) Skarżącej, o tym, że Skar‐
+żąca cierpi na (…), o miejscu przeprowadzenia (…), jak również informacji o stanie
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 21 z 36
+
+emocjonalnym Skarżącej w zakresie informacji o (…) oraz stwierdzeń „(…)” i „(…)”. W
+konsekwencji tego, udostępnienie przez Komendanta ww. danych osobowych nie ma
+oparcia również w przesłance określonej w art. 9 ust. 2 lit. g RODO.
+Odnośnie do kwestii udostępnienia przez Komendanta pozostałych danych osobowych
+Skarżącej, których dotyczy skarga inicjująca niniejsze postępowanie, tj. informacji o roz‐
+padzie związku Skarżącej, miejscowości zamieszkania Skarżącej, rodzaju zabudowy
+mieszkalnej i tytule prawnym do lokalu, wskazać należy, że te informacje, w ocenie Pre‐
+zesa UODO, nie należą do informacji określonych w art. 9 ust. 1 RODO. Wobec tego do‐
+puszczalność udostępnienia tych informacji przez Komendanta oceniać należy przez pry‐
+zmat przesłanek określonych w art. 6 ust. 1 RODO. Powyższy przepis stanowi, że prze‐
+twarzanie jest zgodne z prawem wyłącznie w przypadkach, gdy – i w takim zakresie, w
+jakim – spełniony jest co najmniej jeden z poniższych warunków: (lit. a) osoba, której
+dane dotyczą wyraziła zgodę na przetwarzanie swoich danych osobowych w jednym lub
+większej liczbie określonych celów; (lit. b) przetwarzanie jest niezbędne do wykonania
+umowy, której stroną jest osoba, której dane dotyczą, lub do podjęcia działań na żądanie
+osoby, której dane dotyczą, przed zawarciem umowy; (lit. c) przetwarzanie jest niezbęd‐
+ne do wypełnienia obowiązku prawnego ciążącego na administratorze; (lit. d) przetwa‐
+rzanie jest niezbędne do ochrony żywotnych interesów osoby, której dane dotyczą, lub
+innej osoby fizycznej; (lit. e) przetwarzanie jest niezbędne do wykonania zadania realizo‐
+wanego w interesie publicznym lub w ramach sprawowania władzy publicznej powierzo‐
+nej administratorowi; (lit. f) przetwarzanie jest niezbędne do celów wynikających z praw‐
+nie uzasadnionych interesów realizowanych przez administratora lub przez stronę trze‐
+cią, z wyjątkiem sytuacji, w których nadrzędny charakter wobec tych interesów mają in‐
+teresy lub podstawowe prawa i wolności osoby, której dane dotyczą, wymagające ochro‐
+ny danych osobowych, w szczególności gdy osoba, której dane dotyczą, jest dzieckiem.
+Akapit pierwszy lit. f nie ma zastosowania do przetwarzania, którego dokonują organy
+publiczne w ramach realizacji swoich zadań. Natomiast zgodnie z art. 6 ust. 3 RODO
+podstawa przetwarzania, o której mowa w art. 6 ust. 1 lit. c i lit. e RODO musi być okre‐
+ślona w prawie Unii lub w prawie państwa członkowskiego, któremu podlega administra‐
+tor.
+Wskazać ponadto należy, że również w tym zakresie, zgodnie z art. 5 ust. 1 lit. b oraz c
+RODO, dane osobowe muszą być też zbierane w konkretnych, wyraźnych i prawnie uza‐
+sadnionych celach i nieprzetwarzane dalej w sposób niezgodny z tymi celami oraz ade‐
+kwatne, stosowne oraz ograniczone do tego, co niezbędne do celów, w których są prze‐
+twarzane.
+Jak już wykazano we wcześniejszej części uzasadnienia niniejszej decyzji, wykluczone
+jest zastosowanie w stosunku do udostępnienia przez Komendanta danych osobowych
+Skarżącej art. 5 i art. 6 ust. 2 Prawa prasowego regulujących kwestię udostępniania in‐
+formacji na rzecz prasy. W konsekwencji tego, w niniejszej sprawie brak jest przepisów
+prawa nakładających na Komendanta obowiązek prawny, dla którego wypełnienia nie‐
+zbędne było udostępnienie w treści konferencji prasowej również danych osobowych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 22 z 36
+
+Skarżącej w zakresie informacji o rozpadzie związku Skarżącej, miejscowości zamieszka‐
+nia Skarżącej, rodzaju zabudowy mieszkalnej i tytule prawnym do lokalu. Nie występuje
+zatem przesłanka określona w art. 6 ust. 1 lit. c RODO. W świetle art. 6 ust. 3 RODO nie‐
+wystąpienie określonej w prawie podstawy przetwarzania skutkuje również niewystąpie‐
+niem przesłanki określonej w art. 6 ust. 1 lit. e RODO. Komendant nie legitymował się po‐
+nadto, odnośnie do przedmiotowego udostępnienia, żadną z pozostałych określonych w
+art. 6 ust. 1 RODO przesłanek stanowiących o legalności przetwarzania danych osobo‐
+wych.
+Zatem, w ocenie Prezesa UODO, udostępnienie przez Komendanta w treści konferencji
+prasowej w dniu (…) r.,
+–
+informacji o fakcie leczenia (…) Skarżącej, o tym że Skarżąca cierpi na (…), o miej‐
+scu przeprowadzenia (…), jak również informacji o stanie emocjonalnym Skarżącej w
+zakresie informacji o (…) oraz stwierdzeń „(…)” i „(…)”, naruszyło zakaz przetwarza‐
+nia danych dotyczących zdrowia, określony w art. 9 ust. 1 RODO ;
+–
+informacji o rozpadzie związku Skarżącej, o miejscowości zamieszkania Skarżącej, o
+rodzaju zabudowy mieszkalnej i tytule prawnym do lokalu, naruszyło art. 6 ust. 1
+RODO.
+Biorąc pod uwagę powyższe ustalenia oraz stwierdzone naruszenie przepisów RODO,
+Prezes UODO, korzystając z przysługującego mu uprawnienia określonego w art. 58 ust.
+2 lit. i RODO, zgodnie z którym każdemu organowi nadzorczemu przysługuje uprawnie‐
+nie do zastosowania, oprócz lub zamiast innych środków naprawczych przewidzianych w
+art. 58 ust. 2 lit. a-h oraz lit. j tego rozporządzenia, administracyjnej kary pieniężnej na
+mocy art. 83 ust. 5 lit. a RODO, mając na względzie okoliczności ustalone w przedmioto‐
+wym postępowaniu stwierdził, że w rozpatrywanej sprawie zaistniały przesłanki uzasad‐
+niające nałożenie na Komendanta administracyjnej kary pieniężnej.
+Zgodnie z art. 83 ust. 5 lit. a RODO naruszenia przepisów dotyczących podstawowych
+zasad przetwarzania, w tym warunków zgody, o których to zasadach i warunkach mowa
+w art. 5, 6, 7 oraz 9, podlegają zgodnie z ust. 2 administracyjnej karze pieniężnej w wy‐
+sokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 4 % jego
+całkowitego rocznego światowego obrotu z poprzedniego roku obrotowego, przy czym
+zastosowanie ma kwota wyższa.
+Natomiast z art. 102 ust. 1 pkt 1 uodo z 10 maja 2018 r. wynika, że Prezes UODO może
+nałożyć, w drodze decyzji, administracyjne kary pieniężne w wysokości do 100 000 zło‐
+tych na jednostki sektora finansów publicznych, o których mowa w art. 9 pkt 1-12 i 14
+ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. Z ust. 3 tego artykułu wynika
+ponadto, że administracyjne kary pieniężne, o których mowa między innymi w ust. 1,
+Prezes UODO nakłada na podstawie i na warunkach określonych w art. 83 RODO.
+W niniejszej sprawie administracyjna kara pieniężna na Komendanta nałożona została na
+podstawie art. 83 ust. 5 lit. a RODO za naruszenie art. 6 ust. 1 oraz art. 9 ust. 1 RODO.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 23 z 36
+
+Stosownie do treści art. 83 ust. 2 RODO, administracyjne kary pieniężne nakłada się, za‐
+leżnie od okoliczności każdego indywidualnego przypadku, oprócz lub zamiast środków,
+o których mowa w art. 58 ust. 2 lit. a-h oraz lit. j RODO. Decydując o nałożeniu na Ko‐
+mendanta administracyjnej kary pieniężnej Prezes UODO – stosownie do treści art. 83
+ust. 2 lit. a-k RODO – wziął pod uwagę następujące okoliczności sprawy, stanowiące o
+konieczności zastosowania w niniejszej sprawie tego rodzaju sankcji oraz wpływające
+obciążająco na wymiar nałożonej administracyjnej kary pieniężnej:
+Charakter, waga i czas trwania naruszenia przy uwzględnieniu charakteru, zakresu lub
+celu danego przetwarzania, liczby poszkodowanych osób, których dane dotyczą, oraz
+rozmiaru poniesionej przez nie szkody [art. 83 ust. 2 lit. a RODO].
+Stwierdzone w niniejszej sprawie naruszenie przepisów RODO ma znaczną wagę i po‐
+ważny charakter, ponieważ doszło do publicznego udostępnienia bez podstawy prawnej
+przez Komendanta danych osobowych osoby, której Policja miała udzielić pomocy. Ko‐
+mendant, jako organ właściwy w sprawach ochrony bezpieczeństwa ludzi oraz utrzyma‐
+nia bezpieczeństwa i porządku publicznego i osoba stojąca na czele formacji przeznaczo‐
+nej do realizacji tych zadań, jest podmiotem, który powinien szczególnie dbać o dobro
+takich osób i bezpieczeństwo ich danych osobowych. Udostępnienie przez Komendanta z
+naruszeniem RODO (bez podstawy prawnej) podczas konferencji w dniu (…) r. danych
+osobowych Skarżącej p ociąga za sobą nie tylko potencjalną, ale również realną możli‐
+wość wykorzystania tych danych przez podmioty trzecie bez wiedzy i zgody osoby, któ‐
+rej dane dotyczą, a zatem wiąże się z ryzykiem wystąpienia szkody, w szczególności w
+postaci dyskryminacji, utraty dobrego imienia oraz utraty kontroli nad własnymi danymi.
+Warto w tym miejscu powołać wyrok Sądu Okręgowego w Warszawie z 6 sierpnia 2020
+r., sygn. akt: XXV C 2596/19, w którym sąd stanął na stanowisku, że utrata bezpieczeń‐
+stwa stanowi szkodę niemajątkową wiążącą się z obowiązkiem jej naprawienia.
+Wielka waga naruszenia polegającego na bezprawnym podaniu danych osobowych do
+publicznej wiadomości w trakcie wydarzenia transmitowanego przez media polega rów‐
+nież na tym, że jego negatywne skutki są natychmiastowe i praktycznie nieodwracalne.
+Osobie dotkniętej takim naruszeniem niezwykle trudno odzyskać kontrolę nad swoimi
+danymi osobowymi i wyegzekwować swoje prawo do „bycia zapomnianym”.
+W niniejszej sprawie zostały udostępnione przez Komendanta bez podstawy prawnej
+dane osobowe Skarżącej (w tym jej szczególne kategorie danych) szerokiemu gronu od‐
+biorców, bowiem konferencja prasowa, w czasie której doszło stwierdzonego w niniejszej
+sprawie naruszenia, była transmitowana w ogólnopolskich mediach. Nadal jest możliwe
+odnalezienie w Internecie – również w serwisach policyjnych – nagrań tej konferencji pra‐
+sowej, które można odsłuchać, powielić i rozpowszechniać. Potwierdzeniem powyższego
+jest notatka służbowa z 3 lipca 2024 r. wraz z załącznikami (karty 61-70 akt sprawy) oraz
+notatka służbowa z 5 lipca 2024 r. wraz z załącznikami (karty 72-80 akt sprawy) z któ‐
+rych to materiałów wynika, że nagranie z konferencji prasowej Komendanta jest dostęp‐
+ne na kanale E. V., na profilu (…) na portalu S., na kanale E. (…) oraz na portalu Ł. Ozna‐
+cza to, że choć samo udostępnienie danych podczas konferencji prasowej należy zakwa‐
+lifikować jako jednorazowe, to w jego wyniku nadal można w wielu miejscach odnaleźć
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 24 z 36
+
+nagrania zawierające dane osobowe Skarżącej udostępnione przez Komendanta podczas
+konferencji prasowej z naruszeniem art. 6 ust. 1 i art. 9 ust. 1 RODO, a zatem skutki
+naruszenia nadal występują.
+Przedmiotowe naruszenie ochrony danych osobowych dotyczyło jednej osoby fizycznej.
+Taką liczbę osób dotkniętych naruszeniem, szczególnie wobec faktu, że Komendant prze‐
+twarza dane osobowe wielu osób, należy uznać za niewielką, lecz nie zmienia to jednak
+całościowej oceny, tj. uznania w analizowanej sprawie przesłanki z art. 83 ust. 2 lit. a
+RODO za obciążającą.
+Umyślny charakter naruszenia [art. 83 ust. 2 lit. b RODO].
+Zgodnie z Wytycznymi Grupy Roboczej Art. 29 w sprawie stosowania i ustalania admini‐
+stracyjnych kar pieniężnych do celów rozporządzenia nr 2016/679 (przyjętymi 3 paź‐
+dziernika 2017 r., zatwierdzonymi 25 maja 2018 r. przez Europejską Radę Ochrony
+Danych, zwaną dalej EROD) „umyślność” obejmuje zarówno wiedzę, jak i celowe działa‐
+nie, w związku z cechami charakterystycznymi czynu zabronionego, podczas gdy „nie‐
+umyślność” oznacza brak zamiaru spowodowania naruszenia, pomimo niedopełnienia
+przez administratora/podmiot przetwarzający obowiązku staranności wymaganego pra‐
+wem. Wytyczne te stwierdzają też, że okolicznością wskazującą na umyślne naruszenia
+może być niezgodne z prawem przetwarzanie wyraźnie zatwierdzone przez ścisłe
+kierownictwo administratora.
+Prezes UODO stwierdził w niniejszej sprawie naruszenie przepisów RODO, które odnosi
+się do podstaw prawnych przetwarzania danych osobowych. W ocenie Prezesa UODO
+miało miejsce umyślne naruszenie tych przepisów. Taki wniosek organ przyjął po wnikli‐
+wej analizie nagrania z konferencji prasowej, podczas której Komendant osobiście „zapo‐
+wiadał” odtworzenie nagrań zawierających dotyczące Skarżącej informacje oraz relacjo‐
+nował przebieg dotyczących Skarżącej czynności podejmowanych w związku ze zgłosze‐
+niem utrwalonym na nagraniach. Udostępnienie dotyczących Skarżącej informacji było
+zatem celowe, a Komendant był świadomy jakie informacje zostaną udostępnione w
+trakcie konferencji prasowej. W powyższych okolicznościach to udostępnienie
+dotyczących Skarżącej informacji uznać należy również za „wyraźnie zatwierdzone”
+przez Komendanta jako administratora. Ponadto, osoba pełniąca tak istotne stanowisko
+związane ze stosowaniem prawa, jak Komendant, powinna mieć świadomość swoich
+działań i ich zgodności z przepisami prawa. Niezależnie od tego zauważyć należy, że na
+odtworzonych w trakcie konferencji nagraniach część informacji była zagłuszona i nie
+były one wyświetlane w transkrypcji nagrań na ekranie znajdującym się za Komendan‐
+tem. Zatem przed udostępnieniem dotyczących Skarżącej informacji na konferencji pra‐
+sowej osoby wykonujące zadania z zakresu działania Komendanta analizowały te nagra‐
+nia pod kątem dopuszczalności udostępnienia mediom danych osobowych Skarżącej,
+których dotyczy kara nakładana niniejszą decyzją. To wyklucza możliwość braku zamiaru
+udostępnienia mediom ww. danych osobowych, czyli wystąpienia w niniejszej sprawie
+nieumyślności naruszenia.
+Działania podjęte przez administratora w celu zminimalizowania szkody poniesionej
+przez osoby, których dane dotyczą [art. 83 ust. 2 lit. c RODO].
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 25 z 36
+
+Komendant nie wykazał, aby podjął jakiekolwiek działania w celu zminimalizowania skut‐
+ków naruszenia. W szczególności opublikowane w serwisie internetowym Ł. i innych ser‐
+wisach policyjnych nagrania z konferencji prasowej z udziałem Komendanta w dniu (…) r.
+nie zostały usunięte, czego dowodzą znajdujące się w aktach sprawy notatki służbowe z
+3 lipca 2024 r. (karty 61-62 akt sprawy) i 5 lipca 2024 r. (karta 72 akt sprawy) wraz z za‐
+łącznikami. Nie zostały również podjęte przez Komendanta żadne inne działania minima‐
+lizujące skutki dla Skarżącej, jak np. publiczne przyznanie się do błędu, pisemne przepro‐
+siny, czy zaproponowanie zadośćuczynienia, co mogłoby złagodzić krzywdę osoby do‐
+tkniętej naruszeniem. Działania mające na celu usunięcie skutków naruszenia dóbr oso‐
+bistych znajdują – w ocenie Prezesa UODO – zastosowanie również w odniesieniu do
+czynności możliwych do podjęcia celem naprawienia szkody niemajątkowej (krzywdy)
+wyrządzonej naruszeniem ochrony danych osobowych. Od podmiotu stojącego na straży
+porządku publicznego, jakim jest Komendant, uzasadnione jest oczekiwanie podjęcia
+stosownych działań w tym zakresie.
+Stosowne wcześniejsze naruszenia ze strony administratora [art. 83 ust. 2 lit. e RODO].
+Prezes UODO przy podejmowaniu decyzji o nałożeniu i wysokości administracyjnej kary
+pieniężnej zobowiązany jest do zwrócenia uwagi na wszelkie wcześniejsze naruszenia.
+EROD w Wytycznych 04/2022 w sprawie obliczania administracyjnych kar pieniężnych
+na podstawie RODO (wersja 2.1) wprost wskazuje: „Wystąpienie wcześniejszych naru‐
+szeń może być uznane za okoliczność obciążającą przy obliczaniu wysokości kary pie‐
+niężnej. Waga przypisywana temu czynnikowi powinna być ustalana z uwzględnieniem
+charakteru i częstotliwości wcześniejszych naruszeń. Brak wcześniejszych naruszeń nie
+może jednak zostać uznany za okoliczność łagodzącą, ponieważ przestrzeganie
+przepisów RODO stanowi normę”. I choć jak wskazują ww. wytyczne „większe znaczenie
+należy przypisać naruszeniom dotyczącym tego samego przedmiotu, ponieważ są one
+bliższe naruszeniu będącemu przedmiotem obecnego postępowania, w szczególności
+gdy administrator lub podmiot przetwarzający dopuścili się wcześniej tego samego
+naruszenia (powtarzające się naruszenia)” (pkt 88 wytycznych), to jednak „wszystkie
+wcześniejsze naruszenia mogą stanowić informację o ogólnym podejściu administratora
+lub podmiotu przetwarzającego do przestrzegania przepisów RODO”.
+Prezes UODO stwierdził już we wcześniej wydawanych decyzjach administracyjnych na‐
+ruszenie przez Komendanta następujących przepisów o ochronie danych osobowych:
+1) w decyzji z 7 maja 2020 r. w sprawie o sygn. akt (…) – naruszenie art. 6 ust. 1 lit. a-f
+RODO (udostępnienie danych osobowych bez podstawy prawnej) i art. 13 ust. 1 i 2
+RODO (niespełnienie obowiązku informacyjnego określonego w tych przepisach).
+Prezes UODO w tej decyzji nakazał Komendantowi spełnienie wobec osoby fizycznej
+obowiązku informacyjnego, o którym mowa w art. 13 ust. 1 i 2 RODO oraz udzielił
+mu upomnienia w związku z udostępnieniem danych osobowych tej osoby fizycznej
+z naruszeniem przepisów o ochronie danych osobowych;
+2) w decyzji z 13 kwietnia 2022 r. w sprawie o sygn. akt (…) – Prezes UODO udzielił
+upomnienia Komendantowi za naruszenie art. 5 ust. 1 lit. a i lit. b, art. 5 ust. 2 oraz
+art. 6 ust. 1 RODO, polegające na udostępnieniu danych osobowych trzech osób fi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 26 z 36
+
+zycznych na rzecz osób trzecich, niezgodnie z celem, dla którego dane te zostały
+zebrane i bez podstawy prawnej;
+3) w decyzji z 23 lutego 2021 r. w sprawie o sygn. akt (…) – stwierdzając naruszenie
+art. 22 ust. 4 pkt 4 uodo z 14 grudnia 2018 r. Prezes UODO nakazał Komendantowi
+wykonanie wobec osoby fizycznej obowiązku informacyjnego określonego w art. 22
+ust. 4 pkt 4 uodo z 14 grudnia 2018 r.;
+4) w decyzji z 9 czerwca 2021 r. w sprawie o sygn. akt (…) – Prezes UODO stwierdzając
+naruszenie art. 13 oraz art. 31 ust. 1 pkt 5 uodo z 14 grudnia 2018 r. nakazał Ko‐
+mendantowi wyeliminowanie nieprawidłowości w procesie przetwarzania danych
+osobowych osoby fizycznej poprzez usunięcie jej danych osobowych;
+5) w decyzji z 11 stycznia 2022 r. w sprawie o sygn. akt (…) – Prezes UODO stwierdził
+naruszenie art. 13 uodo z 14 grudnia 2018 r. polegające na dokonaniu sprawdzenia
+danych osobowych osoby fizycznej bez oparcia w żadnej z przesłanek określonych w
+tym przepisie. Prezes UODO odmówił uwzględnienia wniosku skarżącej z uwagi na
+to, że było to zdarzenie jednorazowe oraz nieodwracalne i obecnie proces ten nie
+jest kontynuowany, w związku z czym Prezes UODO nie miał możliwości skorzysta‐
+nia ze swoich uprawnień, o których mowa w art. 8 ust. 2 uodo z 14 grudnia 2018 r.;
+6) w decyzji z 28 marca 2022 r. w sprawie o sygn. akt (…) – Prezes UODO stwierdził na‐
+ruszenie art. 13 uodo z 14 grudnia 2018 r. poprzez wgląd do danych osobowych
+osoby fizycznej, mimo że ta operacja na danych osobowych nie znajdowała oparcia
+w żadnej z przesłanek określonych w tym przepisie. Prezes UODO w tej części odmó‐
+wił uwzględnienia wniosku z uwagi na to, że w związku z jednorazowym i nieodwra‐
+calnym charakterem tego działania nie miał możliwości przywrócenia stanu zgodne‐
+go z prawem tj. skorzystania z uprawnienia, o którym mowa w art. 8 ust. 2 uodo z
+14 grudnia 2018 r.;
+7) w decyzji z 21 grudnia 2022 r. w sprawie o sygn. akt (…) – stwierdzając naruszenie
+art. 13 oraz art. 31 ust. 1 pkt 5 uodo z 14 grudnia 2018 r. Prezes UODO nakazał Ko‐
+mendantowi przywrócenie stanu zgodnego z prawem poprzez usunięcie danych
+osobowych osoby fizycznej;
+8) w decyzji z 21 grudnia 2022 r. w sprawie o sygn. akt (…) – stwierdzając naruszenie
+art. 13 oraz art. 31 ust. 1 pkt 5 uodo z 14 grudnia 2018 r. Prezes UODO nakazał Ko‐
+mendantowi przywrócenie stanu zgodnego z prawem poprzez usunięcie danych
+osobowych osoby fizycznej;
+9) w decyzji z 16 lutego 2023 r. w sprawie o sygn. akt (…) – stwierdzając naruszenie
+art. 13 oraz art. 31 ust. 1 pkt 5 uodo z 14 grudnia 2018 r. Prezes UODO nakazał Ko‐
+mendantowi przywrócenie stanu zgodnego z prawem poprzez usunięcie danych
+osobowych osoby fizycznej;
+10) w decyzji z 22 listopada 2023 r. w sprawie o sygn. akt (…) – stwierdzając naruszenie
+art. 13 oraz art. 31 ust. 1 pkt 5 uodo z 14 grudnia 2018 r. Prezes UODO nakazał Ko‐
+mendantowi przywrócenie stanu zgodnego z prawem poprzez usunięcie danych
+osobowych osoby fizycznej;
+11) w decyzji z 9 lutego 2024 r. w sprawie o sygn. akt (…) – stwierdzając naruszenie art.
+13 oraz art. 31 ust. 1 pkt 5 uodo z 14 grudnia 2018 r. Prezes UODO nakazał Komen‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 27 z 36
+
+dantowi przywrócenie stanu zgodnego z prawem poprzez usunięcie danych
+osobowych osoby fizycznej;
+12) w decyzji z 19 marca 2024 r. w sprawie o sygn. akt (…) – stwierdzając naruszenie
+art. 13 oraz art. 31 ust. 1 pkt 5 uodo z 14 grudnia 2018 r. Prezes UODO nakazał Ko‐
+mendantowi przywrócenie stanu zgodnego z prawem poprzez usunięcie danych
+osobowych osoby fizycznej.
+Liczba wymienionych powyżej wcześniejszych naruszeń świadczy o występowaniu u
+ww. administratora danych problemów z realizacją obowiązków wynikających z
+przepisów o ochronie danych osobowych. Dotyczy to m.in. zapewnienia, aby udo‐
+stępnienie danych osobowych, do których przetwarzania zastosowanie mają przepi‐
+sy RODO, następowało, gdy istnieje podstawa prawna do wykonania takiej operacji
+na danych osobowych. Naruszenia w tym zakresie stwierdzono bowiem w dwóch z
+ww. wcześniejszych decyzji Prezesa UODO. Tej kwestii dotyczy również administra‐
+cyjna kara pieniężna nakładana niniejszą decyzją. Z uwagi na powyższe, w przed‐
+miotowej sprawie należy uznać, że istnieją podstawy do traktowania przesłanki z
+art. 83 ust. 2 lit. e) RODO jako obciążającej.
+Kategorie danych osobowych, których dotyczyło naruszenie [art. 83 ust. 2 lit. g RODO].
+Dane osobowe Skarżącej udostępnione z naruszeniem RODO (bez podstawy prawnej)
+podczas konferencji prasowej w dniu (…) r. obejmują informacje o rozpadzie związku
+Skarżącej, miejscowości jej zamieszkania, rodzaju zabudowy mieszkalnej, tytule praw‐
+nym do lokalu, o fakcie jej leczenia (…), o tym że cierpi ona na (…), o miejscu przepro‐
+wadzenia (…) i informacji o jej stanie emocjonalnym – w zakresie informacji o (…) oraz
+stwierdzeń „(…)” i „(…)”. Spośród nich, informacje o fakcie leczenia (…) Skarżącej, o tym
+że cierpi ona na (…), o miejscu przeprowadzenia (…) i informacji o jej stanie
+emocjonalnym – w zakresie informacji o (…) oraz stwierdzeń „(…)” i „(…)”, stanowią
+dane dotyczące zdrowia, podlegające szczególnej ochronie na gruncie art. 9 ust. 1
+RODO. Nakłada to na administratorów tych danych obowiązek szczególnego traktowania
+tych informacji, także z uwagi na możliwe negatywne konsekwencje dla osób, których te
+dane dotyczą, w przypadku ich udostępnienia osobom nieuprawnionym, włącznie z ich
+dyskryminacją czy też utratą dobrego imienia.
+W tym kontekście należy przywołać wytyczne EROD 04/2022 w sprawie obliczania admi‐
+nistracyjnych kar pieniężnych na podstawie RODO, w których to wskazano: „Jeśli chodzi
+o wymóg uwzględnienia kategorii danych osobowych, których dotyczyło naruszenie (art.
+83 ust. 2 lit. g RODO), w RODO wyraźnie wskazano rodzaje danych, które podlegają
+szczególnej ochronie, a tym samym bardziej rygorystycznej reakcji przy nakładaniu kar
+pieniężnych. Dotyczy to co najmniej rodzajów danych objętych art. 9 i 10 RODO oraz da‐
+nych nieobjętych zakresem tych artykułów, których rozpowszechnianie natychmiast po‐
+woduje szkody lub dyskomfort osoby, której dane dotyczą (np. danych dotyczących loka‐
+lizacji, danych dotyczących komunikacji prywatnej, krajowych numerów identyfikacyj‐
+nych lub danych finansowych, takich jak zestawienia transakcji lub numery kart kredyto‐
+wych). Ogólnie rzecz biorąc, im większej liczby takich kategorii danych dotyczy narusze‐
+nie lub im bardziej wrażliwe są dane, tym większą wagę organ nadzorczy może przypi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 28 z 36
+
+sać temu czynnikowi. Znaczenie ma również ilość danych dotyczących każdej osoby,
+której dane dotyczą, ponieważ wraz z ilością danych dotyczących każdej osoby, której
+dane dotyczą, wzrasta skala naruszenia prawa do prywatności i ochrony danych osobo‐
+wych.”.
+Ustalając wysokość administracyjnej kary pieniężnej, Prezes UODO nie znalazł podstaw
+do uwzględnienia okoliczności łagodzących, mających wpływ na ostateczny wymiar kary.
+Wszystkie przesłanki wymienione w art. 83 ust. 2 lit. a-j RODO w ocenie organu stanowią
+albo przesłanki obciążające albo jedynie neutralne. Również stosując przesłankę wymie‐
+nioną w art. 83 ust. 2 lit. k RODO (nakazującą wzięcie pod uwagę wszelkich innych ob‐
+ciążających lub łagodzących czynników mających zastosowanie do okoliczności sprawy)
+nie znaleziono żadnych okoliczności łagodzących, a jedynie neutralne (co zostało
+odnotowane poniżej w pkt 67).
+Inne, niżej wskazane okoliczności, o których mowa w art. 83 ust. 2 RODO, po dokonaniu
+oceny ich wpływu na stwierdzone w niniejszej sprawie naruszenie, zostały przez Prezesa
+UODO uznane za neutralne w jego ocenie, to znaczy nie mające ani obciążającego ani
+łagodzącego wpływu na wymiar orzeczonej administracyjnej kary pieniężnej.
+Stopień odpowiedzialności administratora z uwzględnieniem środków technicznych i or‐
+ganizacyjnych wdrożonych przez niego na mocy art. 25 i 32 [art. 83 ust. 2 lit. d RODO].
+Naruszenie oceniane w niniejszym postępowaniu (naruszenie przepisów art. 6 ust. 1 i
+art. 9 ust. 1 RODO) nie ma związku ze stosowanymi przez Komendanta środkami
+technicznymi i organizacyjnymi.
+Stopień współpracy z organem nadzorczym w celu usunięcia naruszenia oraz złagodze‐
+nia jego ewentualnych negatywnych skutków [art. 83 ust. 2 lit. f RODO].
+W toku postępowania w niniejszej sprawie Komendant udzielał odpowiedzi na wezwania
+organu nadzorczego. Jednakże fakt udzielania odpowiedzi na wezwania organu nie może
+być potraktowany przez Prezesa UODO jako przesłanka łagodząca, lecz jako wyraz reali‐
+zacji obowiązków prawnych spoczywających na administratorze danych osobowych. Jak
+podkreślono w wytycznych EROD 04/2022 w sprawie obliczania administracyjnych kar
+pieniężnych na podstawie RODO, cyt.: „Należy zatem uznać, że zwykły obowiązek współ‐
+pracy ma charakter obligatoryjny i w związku z tym powinien być uznawany za
+okoliczność neutralną (a nie łagodzącą)”.
+Sposób w jaki organ nadzorczy dowiedział się o naruszeniu [art. 83 ust. 2 lit. h RODO].
+O zaistnieniu naruszenia ochrony danych osobowych, tj. udostępnieniu danych osobo‐
+wych Skarżącej podczas konferencji prasowej, Prezes UODO został poinformowany przez
+pełnomocnika Skarżącej, a nie przez Komendanta. Prezes UODO przyjmuje jednak, że
+przesłanki tej nie potraktuje jako okoliczności obciążającej. O naruszeniu Prezes UODO
+dowiedział się bowiem z wniesionej w niniejszej sprawie skargi, zaś EROD w Wytycznych
+04/2022 w sprawie obliczania administracyjnych kar pieniężnych na podstawie RODO
+wskazuje, że „W przypadku gdy organ nadzorczy dowiedział się o naruszeniu na przykład
+w wyniku skargi lub w toku postępowania, co do zasady element ten należy uznać
+również za okoliczność neutralną.”.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 29 z 36
+
+Przestrzeganie wcześniej zastosowanych w tej samej sprawie środków, o których mowa
+w art. 58 ust. 2 RODO [art. 83 ust. 2 lit. i RODO].
+Przed wydaniem niniejszej decyzji Prezes UODO nie stosował w wobec Komendanta w
+rozpatrywanej sprawie żadnych środków wymienionych w art. 58 ust. 2 RODO, w związ‐
+ku z czym Komendant nie miał obowiązku podejmowania żadnych działań związanych z
+ich stosowaniem, a które to działania, poddane ocenie Prezesa UODO, mogłyby mieć
+obciążający lub łagodzący wpływ na ocenę stwierdzonego naruszenia.
+Stosowanie zatwierdzonych kodeksów postępowania na mocy art. 40 RODO lub zatwier‐
+dzonych mechanizmów certyfikacji na mocy art. 42 RODO [art. 83 ust 2 lit. j RODO].
+Komendant nie stosuje instrumentów, o których mowa w art. 40 i art. 42 RODO. Ich przy‐
+jęcie, wdrożenie i stosowanie nie jest jednak – jak stanowią przepisy RODO – obowiązko‐
+we dla administratorów i podmiotów przetwarzających, w związku z czym okoliczność ich
+niestosowania nie może być w niniejszej sprawie poczytana na niekorzyść Komendanta.
+Na korzyść Komendanta natomiast mogłaby być uwzględniona okoliczność przyjęcia i
+stosowania tego rodzaju instrumentów jako środków gwarantujących wyższy niż
+standardowy poziom ochrony przetwarzanych danych osobowych.
+Osiągnięte bezpośrednio lub pośrednio w związku z naruszeniem korzyści finansowe lub
+uniknięte straty [art. 83 ust. 2 lit. k RODO].
+Prezes UODO nie stwierdził, żeby Komendant w związku z naruszeniem odniósł jakiekol‐
+wiek korzyści finansowe lub uniknął tego rodzaju strat. Brak jest więc podstaw do trakto‐
+wania tej okoliczności jako obciążającej Komendanta. Stwierdzenie zaistnienia wymier‐
+nych korzyści finansowych wynikających z naruszenia przepisów RODO należałoby oce‐
+nić zdecydowanie negatywnie. Natomiast nieosiągnięcie przez Komendanta takich korzy‐
+ści, jako stan naturalny, niezależny od naruszenia i jego skutków, jest okolicznością, któ‐
+ra z istoty rzeczy nie może być łagodzącą dla Komendanta. Potwierdza to samo sformu‐
+łowanie przepisu art. 83 ust. 2 lit. k RODO, który nakazuje organowi nadzorczemu
+zwrócić należytą uwagę na korzyści „osiągnięte” – zaistniałe po stronie podmiotu doko‐
+nującego naruszenia.
+Inne obciążające lub łagodzące czynniki mające zastosowanie do okoliczności sprawy
+[art. 83 ust. 2 lit. k RODO].
+Prezes UODO wszechstronnie rozpatrując sprawę nie odnotował innych niż opisane po‐
+wyżej okoliczności mogące mieć wpływ na ocenę naruszenia i na wysokość orzeczonej
+administracyjnej kary pieniężnej.
+Uwzględniając wszystkie omówione wyżej okoliczności, Prezes UODO uznał, że nałożenie
+administracyjnej kary pieniężnej na Komendanta jest konieczne i uzasadnione wagą,
+charakterem oraz zakresem zarzucanych Komendantowi naruszeń przepisów RODO.
+Stwierdzić należy, że zastosowanie wobec Komendanta jakiegokolwiek innego środka na‐
+prawczego przewidzianego w art. 58 ust. 2 RODO, w szczególności zaś poprzestanie na
+upomnieniu (art. 58 ust. 2 lit. b RODO), nie byłoby proporcjonalne do stwierdzonych nie‐
+prawidłowości w procesie przetwarzania danych osobowych oraz nie gwarantowałoby
+tego, że Komendant w przyszłości nie dopuści się kolejnych zaniedbań.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 30 z 36
+
+Odnosząc się do wysokości wymierzonej Komendantowi administracyjnej kary pienięż‐
+nej, wskazać należy, że wobec faktu, iż Komendant jako centralny organ administracji
+rządowej jest jednostką sektora finansów publicznych, o której mowa w art. 9 pkt 1
+ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530 ze
+zm.) zastosowanie znajdzie art. 102 ust. 1 pkt 1 uodo z 10 maja 2018 r., z którego wyni‐
+ka ograniczenie wysokości (do 100.000 zł) administracyjnej kary pieniężnej, jaka może
+zostać nałożona na jednostkę sektora finansów publicznych.
+Uzasadniając fakt nałożenia na Komendanta administracyjnej kary pieniężnej w wysoko‐
+ści 75.000 zł, wskazać należy, że w ocenie Prezesa UODO kara w niższej wysokości nie
+spełniłaby swojej funkcji odstraszającej, o której m.in. wprost jest mowa w art. 83 ust. 1
+RODO (a jak wskazano niżej kara nałożona w tej konkretnej sprawie ma też charakter
+prewencyjny). W ocenie Prezesa UODO, zastosowana administracyjna kara pieniężna
+spełnia w ustalonych okolicznościach niniejszej sprawy funkcje, o których mowa w art.
+83 ust. 1 RODO, tzn. będzie w tym indywidualnym przypadku skuteczna, proporcjonalna
+i odstraszająca.
+Zdaniem Prezesa UODO nałożona na Komendanta administracyjna kara pieniężna będzie
+skuteczna, albowiem doprowadzi do stanu, w którym Komendant będzie prawidłowo
+chronił dane osobowe przed ich udostępnieniem bez podstawy prawnej. Skuteczność tej
+kary równoważna jest zatem gwarancji tego, że Komendant od momentu zakończenia ni‐
+niejszego postępowania będzie ze starannością podchodzić do wymogów stawianych
+przez przepisy o ochronie danych osobowych.
+Zastosowana administracyjna kara pieniężna jest również proporcjonalna do stwierdzo‐
+nego naruszenia przepisów RODO, w tym zwłaszcza jego wagi, negatywnego skutku dla
+osoby dotkniętej naruszeniem ochrony danych osobowych oraz wysokiego ryzyka nega‐
+tywnych konsekwencji, jakie może ona ponieść. Zdaniem Prezesa UODO, nałożona na
+Komendanta administracyjna kara pieniężna nie stanowi dla niego nadmiernego obciąże‐
+nia, wobec ustawowego ograniczenia jej wysokości w przypadku jednostek sektora finan‐
+sów publicznych. W szczególności jej zapłata nie wpłynie na zdolność Komendanta do
+wywiązywania się przez niego z jego ustawowych zadań. Zdaniem Prezesa UODO, Ko‐
+mendant powinien i jest w stanie ponieść konsekwencje swoich zaniedbań w sferze
+ochrony danych, stąd nałożenie administracyjnej kary pieniężnej w wysokości 75.000
+złotych (słownie: siedemdziesięciu pięciu tysięcy złotych) jest w pełni uzasadnione.
+W ocenie Prezesa UODO, administracyjna kara pieniężna spełni w tych konkretnych oko‐
+licznościach funkcję edukacyjną, ale również i prewencyjną. Wskaże bowiem zarówno
+Komendantowi, jak i innym administratorom danych na odpowiedzialność organów wła‐
+dzy państwowej za bezprawne działania podejmowane przez nie z wykorzystaniem
+swojej władzy oraz możliwości, które ta władza daje.
+Zatem zastosowana administracyjna kara pieniężna spełnia w ustalonych okoliczno‐
+ściach niniejszej sprawy przesłanki, o których mowa w art. 83 ust. 1 RODO, ze względu
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 31 z 36
+
+na wagę stwierdzonych naruszeń w kontekście zgodności przetwarzania danych
+osobowych z prawem.
+W tym miejscu należy zwrócić uwagę na to, że piastun organu władzy publicznej, który
+dopuścił się naruszenia przepisów prawa, w tym przepisów o ochronie danych osobo‐
+wych, może ponieść ewentualną odpowiedzialność karną, np. w związku z przekrocze‐
+niem swoich uprawnień (art. 231 Kodeksu karnego, art. 107 ust. 1 i 2 uodo z 10 maja
+2018 r.). Ponadto art. 2 ustawy z dnia 7 maja 1999 r. o odpowiedzialności majątkowej
+funkcjonariuszy Policji, Straży Granicznej, Straży Marszałkowskiej, Służby Celno-Skarbo‐
+wej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Więziennej, Agencji
+Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego,
+Służby Wywiadu Wojskowego i Centralnego Biura Antykorupcyjnego (Dz. U. z 2018 r.
+poz. 2349), stanowi, że funkcjonariusz, który wskutek niewykonania lub nienależytego
+wykonania obowiązków służbowych ze swojej winy wyrządził szkodę w mieniu, o którym
+mowa w art. 1 ust. 1, ponosi odpowiedzialność majątkową w granicach rzeczywistej stra‐
+ty i tylko za normalne następstwa działania lub zaniechania, chociażby wynikająca z nie‐
+go szkoda powstała po rozwiązaniu stosunku służbowego. Mienie, o którym mowa w art.
+1 pkt 1 ww. ustawy, to mienie Skarbu Państwa znajdujące się w dyspozycji organu lub
+jednostek organizacyjnych podległych, podporządkowanych albo nadzorowanych przez
+ministrów właściwych do spraw wewnętrznych, do spraw finansów publicznych, Ministra
+Obrony Narodowej, Marszałka Sejmu, Ministra Sprawiedliwości, Szefa Agencji Bezpie‐
+czeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Służby Kontrwywiadu Wojskowe‐
+go, Szefa Służby Wywiadu Wojskowego i Szefa Centralnego Biura Antykorupcyjnego.
+Podkreślenia wymaga, że przedmiotowa decyzja związana jest z odpowiedzialnością o
+charakterze administracyjnym ponoszoną przez Komendanta (organu) – administratora
+danych osobowych – za naruszenie przepisów RODO. Komendant ma natomiast możli‐
+wość zastosować środki prawne, które pozwalają mu na dochodzenie odpowiedzialności
+prawnej i finansowej – w szczególności w cywilnoprawnym postępowaniu regresowym,
+tudzież w drodze pociągnięcia osoby winnej naruszenia przepisów o ochronie danych
+osobowych do odpowiedzialności karnej za ich naruszenie. Prezes UODO stoi na stanowi‐
+sku, że dla zapewnienia skutecznej ochrony danych osobowych konieczne są efektywne
+mechanizmy dochodzenia odpowiedzialności za ich naruszenie przez administratorów, w
+tym także w odniesieniu do pracowników lub funkcjonariuszy administratora.
+Odnosząc się do zawartego w skardze żądania cyt. „usunięcia danych osobowych prze‐
+twarzanych niezgodnie z prawem” zauważyć należy, że przedmiotem niniejszego postę‐
+powania jest udostępnienie danych osobowych podczas konferencji prasowej w dniu (…)
+r. To udostępnienie danych jest procesem nieodwracalnym, dlatego – mimo stwierdzenia,
+że udostępnienie nastąpiło bez podstawy prawnej – nie jest możliwe przywrócenie w tej
+sprawie stanu zgodnego z prawem sprzed tego udostępnienia, w szczególności poprzez
+nakazanie usunięcia tych danych osobowych. Prezes UODO w przypadku stwierdzenia
+naruszenia przepisów o ochronie danych osobowych, może skorzystać z uprawnień na‐
+prawczych przyznanych na podstawie art. 58 ust. 2 RODO. W niniejszej sprawie, jakkol‐
+wiek Prezes UODO stwierdził naruszenie przepisów o ochronie danych osobowych, nie
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 32 z 36
+
+ma możliwości przywrócenia stanu zgodnego z prawem poprzez nakazanie Komendanto‐
+wi usunięcia udostępnionych danych osobowych. Powyższe jest konsekwencją faktu, że
+stwierdzone naruszenie przepisów o ochronie danych osobowych ma charakter przeszły i
+nieodwracalny.
+Odnosząc się do zawartego w skardze żądania cyt. „podjęcia działań, by poinformować
+administratorów przetwarzających te dane osobowe, że osoba, które dane dotyczą,
+żąda, by administratorzy ci usunęli wszelkie łącza do tych danych, kopie tych danych
+osobowych lub ich replikacje” wskazać należy, że obowiązek podjęcia ww. działań, wy‐
+maga skorzystania przez osobę, której dane dotyczą, z przysługującego jej prawa do
+usunięcia danych. Wynika on bowiem z art. 17 ust. 2 RODO, który stanowi, że jeżeli ad‐
+ministrator upublicznił dane osobowe, a na mocy ust. 1 ma obowiązek usunąć te dane
+osobowe, to – biorąc pod uwagę dostępną technologię i koszt realizacji – podejmuje roz‐
+sądne działania, w tym środki techniczne, by poinformować administratorów przetwarza‐
+jących te dane osobowe, że osoba, której dane dotyczą, żąda, by administratorzy ci usu‐
+nęli wszelkie łącza do tych danych, kopie tych danych osobowych lub ich replikacje. Art.
+17 ust. 1 RODO przewiduje z kolei, że osoba, której dane dotyczą, ma prawo do żądania
+od administratora niezwłocznego usunięcia dotyczących jej danych osobowych, a admi‐
+nistrator ma obowiązek bez zbędnej zwłoki usunąć dane osobowe, jeżeli zachodzi jedna
+z okoliczności wskazanych w lit. a-f tej jednostki redakcyjnej RODO.
+Zgodnie z treścią art. 58 ust. 2 lit. g RODO, Prezes UODO może nakazać usunięcie uchy‐
+bień poprzez nakazanie administratorowi wykonania obowiązku określonego w art. 17
+ust. 2 RODO, tj. podjęcia działań, aby poinformować innych administratorów przetwarza‐
+jących te dane osobowe, że osoba, której dane dotyczą, żąda, by administratorzy ci usu‐
+nęli wszelkie łącza do tych danych, kopie tych danych osobowych lub ich replikacje.
+Przepis ten przewiduje bowiem, że każdemu organowi nadzorczemu przysługują upraw‐
+nienie naprawcze do nakazania na mocy art. 16, 17 i 18 sprostowania lub usunięcia da‐
+nych osobowych lub ograniczenia ich przetwarzania oraz nakazanie na mocy art. 17 ust.
+2 i art. 19 powiadomienia o tych czynnościach odbiorców, którym dane osobowe ujaw‐
+niono. Jednakże, taki nakaz może zostać wydany jedynie po uprzednim dokonaniu oceny
+zachowania administratora tych danych, który wcześniej otrzymał żądanie osoby, której
+dane dotyczą. Obowiązek określony w art. 17 ust. 2 RODO dotyczy bowiem przekazania
+informacji o żądaniach, osoby której dane dotyczą. Zaznaczyć przy tym należy, że reali‐
+zacja obowiązku, o którym mowa w art. 17 ust. 2 RODO, nie wymaga wniesienia przez
+osobę, której dane dotyczą, do administratora odrębnego żądania poinformowania in‐
+nych administratorów przetwarzających te dane osobowe, że osoba, której dane doty‐
+czą, żąda, by administratorzy ci usunęli wszelkie łącza do tych danych, kopie tych da‐
+nych osobowych lub ich replikacje. Z motywu 66 preambuły RODO wynika bowiem, że
+ten obowiązek jest wzmocnieniem prawa przysługującego osobie, której dane dotyczą,
+na podstawie art. 17 ust. 1 RODO. Motyw ten wyjaśnia, że aby wzmocnić prawo do „by‐
+cia zapomnianym” w Internecie, należy rozszerzyć prawo do usunięcia danych poprzez
+zobowiązanie administratora, który upublicznił te dane osobowe, do poinformowania ad‐
+ministratorów, którzy przetwarzają takie dane osobowe o usunięciu wszelkich łączy do
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 33 z 36
+
+tych danych, kopii tych danych osobowych lub ich replikacji. Spełniając ten obowiązek
+administrator powinien podjąć racjonalne działania z uwzględnieniem dostępnych tech‐
+nologii i dostępnych mu środków, w tym dostępnych środków technicznych, w celu poin‐
+formowania administratorów, którzy przetwarzają dane osobowe, o żądaniu osoby, której
+dane dotyczą. Na to, że realizacja obowiązku, o którym mowa w art. 17 ust. 2 RODO, nie
+wymaga skierowania do administratora przez osobę, której dane dotyczą, innego żąda‐
+nia niż żądanie usunięcia danych osobowych wskazuje również wyrok Trybunału Sprawie‐
+dliwości Unii Europejskiej z 27 października 2022 r. w sprawie C-129/21, w którym wska‐
+zano, że „Artykuł 17 ust. 2 rozporządzenia 2016/679 należy interpretować w ten sposób,
+że: nie sprzeciwia się on temu, aby krajowy organ nadzorczy nakazał dostawcy publicz‐
+nie dostępnych spisów abonentów i usług biura numerów, do którego zwrócono się o za‐
+przestanie publikowania danych określonej osoby, aby podjął on "rozsądne działania", w
+rozumieniu tego przepisu, służące poinformowaniu dostawców wyszukiwarek
+internetowych o tym żądaniu usunięcia danych.” Ponadto, taka interpretacja art. 17 ust.
+2 RODO, jest systemowo spójna z literalnym brzmieniem art. 19 zdanie pierwsze RODO,
+który nie wymaga odrębnego żądania osoby, której dane dotyczą, aby administrator był
+obowiązany do poinformowania odbiorców, którym ujawniono dane osobowe, o usunię‐
+ciu danych dokonanym w wyniku realizacji żądania z art. 17 ust. 1 RODO. Przepis ten
+stanowi bowiem, że administrator informuje o sprostowaniu lub usunięciu danych osobo‐
+wych lub ograniczeniu przetwarzania, których dokonał zgodnie z art. 16, art. 17 ust. 1 i
+art. 18, każdego odbiorcę, któremu ujawniono dane osobowe, chyba że okaże się to
+niemożliwe lub będzie wymagać niewspółmiernie dużego wysiłku.
+Rolą organu w tej konkretnej sprawie jest zatem zbadanie, czy administrator danych
+osobowych, do którego osoba, której dane dotyczą, zwróciła się z konkretnym żądaniem
+usunięcia danych osobowych, właściwie zrealizował związany z tym żądaniem obowią‐
+zek, o którym mowa w art. 17 ust. 2 RODO. Administrator nie może domniemywać ist‐
+nienia żądania usunięcia danych osobowych. Żądanie takie powinno zaistnieć, a więc zo‐
+stać jasno i wyraźnie sformułowane i zakomunikowane administratorowi danych. Brak
+wniosku o usunięcie danych osobowych skierowanego do administratora danych wyklu‐
+cza zaś możliwość nakazania administratorowi przez Prezesa UODO realizacji obowiązku
+określonego w art. 17 ust. 2 RODO. Dla niniejszego rozstrzygnięcia podstawowe znacze‐
+nie ma zatem nie samo żądanie przedstawione przez Skarżącą Prezesowi UODO, ale
+wniosek Skarżącej do Komendanta – administratora jej danych osobowych.
+Ze zgromadzonego w sprawie materiału dowodowego wynika, że Skarżąca nie zwracała
+się do Komendanta z żądaniem usunięcia jej danych osobowych, tj. z wnioskiem, o któ‐
+rym mowa w art. 17 ust. 1 RODO. Jednocześnie należy wskazać, że sprecyzowanie żąda‐
+nia usunięcia danych osobowych we wniosku (skardze) do Prezesa UODO nie konwalidu‐
+je braku wniosku skierowanego przez Skarżącą do administratora danych osobowych. W
+kwestii żądania, którego dotyczy ta część uzasadnienia niniejszej decyzji, organ nie ma
+zatem podstaw do skierowania któregokolwiek z nakazów określonych w art. 58 ust. 2
+RODO, a zwłaszcza wynikającego z art. 58 ust. 2 lit. g) RODO, nakazu na mocy art. 17
+ust. 2 RODO podjęcia działań, by poinformować administratorów przetwarzających te
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 34 z 36
+
+dane osobowe, że osoba, której dane dotyczą, żąda, by administratorzy ci usunęli wszel‐
+kie łącza do tych danych, kopie tych danych osobowych lub ich replikacje. Organ władny
+jest bowiem wydać taką decyzję wyłącznie wtedy, gdy podmiot danych wniósł do admi‐
+nistratora żądanie, korzystając z prawa przysługującego na mocy art. 17 ust. 1 RODO. W
+niniejszej sprawie ustalono zaś, że Skarżąca nie zwróciła się z wnioskiem o usunięcie jej
+danych osobowych do Komendanta.
+Odnośnie do podniesionego w skardze zarzutu naruszenia art. 32 ust. 1, art. 33 ust. 1
+oraz 34 ust. 1 RODO, wskazać należy, że kwestie zgodności działania Komendanta z tymi
+przepisami nie mogą być podstawą do wydania decyzji w indywidualnej sprawie Skarżą‐
+cej.
+Przede wszystkim art. 32 ust. 1 RODO to przepis nakładający na administratora danych
+obowiązek wdrożenia odpowiednich zabezpieczeń w procesie przetwarzania danych oso‐
+bowych. Przewiduje on bowiem, że uwzględniając stan wiedzy technicznej, koszt wdraża‐
+nia oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw
+lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpienia i wadze, admi‐
+nistrator i podmiot przetwarzający wdrażają odpowiednie środki techniczne i organiza‐
+cyjne, aby zapewnić stopień bezpieczeństwa odpowiadający temu ryzyku. Skarga do Pre‐
+zesa UODO nie może zaś służyć dokonywaniu kontroli stosowanych środków technicz‐
+nych i organizacyjnych na wniosek osoby, której dane dotyczą, a służyć ma przywróce‐
+niu stanu zgodnego z prawem w razie stwierdzenia naruszenia praw tej osoby. Również
+Wojewódzki Sąd Administracyjny w Warszawie w wyroku z 7 stycznia 2016 r. (sygn. akt II
+SA/Wa 1238/15) wskazał, że „Sąd podziela stanowisko organu, iż sprawy dotyczące za‐
+bezpieczenia danych osobowych (…) mogą być jedynie przedmiotem postępowania
+wszczętego z urzędu przez Generalnego Inspektora”.
+Określony natomiast w art. 34 ust. 1 RODO obowiązek zawiadomienia osoby, której dane
+dotyczą, o naruszeniu ochrony danych osobowych mogącym powodować wysokie ryzyko
+naruszenia praw lub wolności osób fizycznych związany jest z wynikającym z art. 33 ust.
+1 RODO obowiązkiem zgłoszenia naruszenia przez administratora do organu nadzorcze‐
+go. Zawiadomienia osób, których dane dotyczą, zgodnie z art. 34 ust. 1 RODO admini‐
+strator dokonuje, o ile nie zaistnieją przesłanki, wyłączające taki obowiązek. Obowiąz‐
+kiem administratora jest zatem zawiadomienie osoby, której dane dotyczą o naruszeniu,
+o ile naruszenie to może powodować wysokie ryzyko naruszenia praw i wolności osób fi‐
+zycznych i nie zaistniała jednocześnie jedna z przesłanek określonych w art. 34 ust. 3
+RODO, która zwalnia administratora z obowiązku tego zawiadomienia. Do oceny działa‐
+nia administratora w tym zakresie uprawniony jest zaś tylko organ nadzorczy, który po
+zbadaniu okoliczności związanych ze zgłoszonym mu naruszeniem może zażądać od ad‐
+ministratora zawiadomienia osoby, której dane dotyczą lub stwierdzić, że spełniona zo‐
+stała jedna z przesłanek określonych w art. 34 ust. 3 RODO. Również wyłącznie organ
+nadzorczy jest uprawniony do oceny, czy administrator był obowiązany zgłosić narusze‐
+nie ochrony danych osobowych organowi nadzorczemu. To organ nadzorczy z urzędu we‐
+ryfikuje zatem podjęte przez administratora działania. W związku z tym stroną postępo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 35 z 36
+
+wania dotyczącego zgłoszenia naruszenia ochrony danych osobowych lub zawiadomie‐
+nia o takim naruszeniu może być wyłącznie administrator, zaś Skarżącej nie przysługuje
+prawo do żądania nakazania administratorowi poinformowania Prezesa UODO lub Skar‐
+żącej o naruszeniu ochrony danych osobowych. Podkreślić w tym miejscu należy, że ka‐
+talog uprawnień mogących być skutecznie wyegzekwowanymi przez osobę, której dane
+dotyczą, w postępowaniu prowadzonym z jej skargi przez Prezesa UODO, został
+określony w Rozdziale III RODO, w artykułach 12-22.
+Jednocześnie wskazać należy, że nie potwierdził się zarzut udostępnienia przez Komen‐
+danta informacji o (…) Skarżącej. Z materiału dowodowego wynika, że na odtworzonym
+na konferencji nagraniu pada pytanie „(…)”. Jednakże treść ww. pytania nie ujawnia in‐
+formacji o tym, czy Skarżąca miała (…). Odpowiedź na to pytanie na odtworzonym na‐
+graniu została zaś zagłuszona, a początek następnej wypowiedzi (dyżurnego Komendy
+Miejskiej Policji w Z.), mogący dotyczyć tej kwestii, jest niezrozumiały i nie został ujęty w
+transkrypcji nagrania wyświetlanej na ekranie znajdującym się za Komendantem (dołą‐
+czony do notatki służbowej z 3 lipca 2024 r. wydruk ze zrzutem ekranu z transkrypcją tej
+wypowiedzi stanowi kartę 70 verte akt sprawy). W treści skargi pełnomocnik Skarżącej
+udostępnienia informacji o (…) Skarżącej upatruje w wnioskowaniu tego faktu z wypo‐
+wiedzi operatora w trakcie rozmowy utrwalonej na pierwszym z nagrań odtworzonych na
+konferencji prasowej Komendanta. Jednakże, w ocenie Prezesa UODO, z uwagi na jakość
+odtworzonego nagrania nie jest możliwe ustalenie, do czego odnosi się sformułowanie
+„(…)” zawarte w wypowiedzi operatora, w szczególności, czy jest informacją o wcześniej‐
+szych (…) Skarżącej, czy też jej sensem jest np. udzielenie zgłaszającej wskazówki, aby
+poinformowała Policję o ewentualnych (…) lub też, że stanowi ona informację o połącze‐
+niu z komórką organizacyjną Policji właściwą w sprawie (…). Środkowa część tej
+wypowiedzi, mogąca zawierać kontekst sformułowania „(…)”, jest bowiem niezrozumia‐
+ła, czego dowodem jest treść notatki służbowej z 3 lipca 2024 r. sporządzonej z obejrze‐
+nia nagrania konferencji Komendanta (karta 61 verte akt sprawy) oraz dołączony do tej
+notatki zrzut ekranu (karta 67 akt sprawy) z transkrypcją wypowiedzi wyświetloną pod‐
+czas konferencji. Wobec tego nie można uznać, że na konferencji prasowej Komendanta
+została udostępniona informacja o (…) Skarżącej. Nie można tym samym stwierdzić, że
+ten proces przetwarzania danych osobowych zaistniał, wobec czego w tym zakresie ni‐
+niejsze postępowanie jest bezprzedmiotowe i w związku z tym podlega umorzeniu na
+podstawie art. 105 § 1 Kpa. Zgodnie z ww. przepisem, gdy postępowanie z jakiejkolwiek
+przyczyny stało się bezprzedmiotowe w całości albo w części, organ administracji pu‐
+blicznej wydaje decyzję o umorzeniu postępowania odpowiednio w całości albo w części.
+Brzmienie powołanej regulacji nie pozostawia wątpliwości, że w razie stwierdzenia bez‐
+przedmiotowości postępowania organ prowadzący to postępowanie obligatoryjnie je
+umarza. Jak wskazał Wojewódzki Sąd Administracyjny w Warszawie, cyt.: „bezprzedmio‐
+towość postępowania administracyjnego to brak przedmiotu postępowania. Tym przed‐
+miotem jest zaś konkretna sprawa, w której organ administracji państwowej jest władny i
+jednocześnie zobowiązany rozstrzygnąć na podstawie przepisów prawa materialnego o
+uprawnieniach lub obowiązkach indywidualnego podmiotu” (wyrok z 5 października
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+
+Decyzja DS.523.4750.2023
+
+Strona 36 z 36
+
+2017 r., sygn. akt VI SA/Wa 1093/17). Ustalenie przez organ administracji publicznej za‐
+istnienia przesłanki, o której mowa w art. 105 § 1 Kpa, zobowiązuje go, jak podkreśla się
+w doktrynie i orzecznictwie, do umorzenia postępowania, nie ma bowiem wówczas pod‐
+staw do rozstrzygnięcia sprawy co do istoty, a dalsze prowadzenie postępowania w ta‐
+kim przypadku stanowiłoby o jego wadliwości, mającej istotny wpływ na wynik sprawy.
+W niniejszej sprawie, podzielając stanowisko wyrażone w przytoczonym powyżej wyroku
+sądu, należy stwierdzić, że zaistniała przesłanka bezprzedmiotowości postępowania i
+umorzenia postępowania – w oparciu o art. 105 § 1 Kpa – w zakresie obejmującym udo‐
+stępnienie na konferencji prasowej Komendanta informacji o (…) Skarżącej. Przeprowa‐
+dzone postępowanie nie wykazało bowiem, aby w tym zakresie kwestionowany przez
+Skarżącą proces przetwarzania danych osobowych zaistniał, zatem brak jest w tym
+zakresie przedmiotu postępowania.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął, jak w sentencji
+niniejszej decyzji administracyjnej.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:ds_523_4750/content
+
+2025-09-03 17:14
+

@@ -1,0 +1,173 @@
+Warszawa, 10 marca 2023
+PRAWOMOCNA
+
+Decyzja
+DS.523.2244.2022
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (t.j. Dz. U. z 2022 r. poz. 2000), w zw. z art. 7 ustawy z dnia 10 maja
+2018 r. o ochronie danych osobowych (t.j. Dz. U. z 2019 r. poz. 1781), art. 5 ust. 1 lit. a, c
+i e, art. 6 ust. 1 lit. f, art. 58 ust. 2 lit. c rozporządzenia Parlamentu Europejskiego i Rady
+(UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 4.05.2016, str.1, Dz. Urz. UE L
+127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana A. B. (…) na
+nieprawidłowości w procesie przetwarzania jego danych osobowych przez C. Sp. z o.o.
+(…), polegające na bezprawnym przetwarzaniu jego służbowego adresu e-mail, po usta‐
+niu stosunku zatrudnienia we wskazanej powyżej Spółce, Prezes Urzędu Ochrony Danych
+Osobowych,
+nakazuje C. Sp. z o.o. (…) usunięcie danych osobowych Pana A. B. (…) w zakresie adresu
+e-mail, zawierającego pierwszą literę jego imienia oraz jego nazwisko, tj. (…), z uwagi na
+naruszenie art. 5 ust. 1 lit. a, c i e w związku z art. 6 ust. 1 lit. f rozporządzenia Parla‐
+mentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony
+osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodne‐
+go przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z
+4.05.2016, str.1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021,
+str. 35), poprzez jego wykorzystywanie przez okres dłuższy, niż jest to niezbędne do
+celów, w których dane te są przetwarzanie przez wskazany powyżej podmiot.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:ds_523_2244/content
+
+2025-09-03 13:33
+
+Decyzja DS.523.2244.2022
+
+Strona 2 z 4
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pana A. B. (…) dalej Skarżący,
+na nieprawidłowości w procesie przetwarzania jego danych osobowych przez C. Sp. z
+o.o. (…) dalej Spółka, polegające na bezprawnym przetwarzaniu jego służbowego adresu
+e-mail, po ustaniu stosunku zatrudnienia we wskazanej powyżej Spółce.
+W toku prowadzonego w tej sprawie postępowania administracyjnego Prezes Urzędu
+Ochrony Danych Osobowych, zwany dalej Prezesem UODO, uzyskał wyjaśnienia odno‐
+śnie okoliczności sprawy oraz ustalił następujący stan faktyczny.
+1. Pan A. B. do (…) r. był pracownikiem Spółki. Adres e-mail, którym posługiwał się
+Skarżący w czasie trwania stosunku pracy –(…) został dezaktywowany (…) r. przez
+Spółkę (dowody: pismo Skarżącego z (…), pismo Spółki z (…)).
+2. Spółka wyjaśniła, że wymieniony w pkt. 1 adres e-mail był przekazywany przez Skar‐
+żącego na rzecz potencjalnych kontrahentów oraz klientów Spółki dla celów kontak‐
+towych oraz celów handlowych. W związku z powyższym na ten adres e-mail nadal
+mogą być wysyłane wiadomości od podmiotów trzecich, zainteresowanych podję‐
+ciem współpracy ze Spółką (dowód: pismo Spółki z (…) wraz z załącznikami).
+3. Spółka oświadczyła, że jako administrator skrzynki e-mailowej, tj.: (…) na chwilę
+obecną nie wykorzystuje wskazanego powyżej adresu e-mail dla celów korespon‐
+dencyjnych. Wskazany powyżej adres e-mail został oznaczony przez Spółkę jako
+baza danych, będąca korespondencją, która dotychczas była prowadzona z wymie‐
+nionymi w pkt. 2 podmiotami trzecimi przez Skarżącego w czasie jego zatrudnienia
+w Spółce. Wskazane powyżej rozwiązanie ma istotne znaczenie dla Spółki, ponieważ
+usunięcie ww. adresu e-mail spowodowałoby negatywne konsekwencje, polegające
+na utracie intratnych relacji handlowych z kontrahentami oraz klientami przez
+Spółkę (dowód: pismo Spółki z (…) sierpnia 2022 r. wraz z załącznikami).
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego Prezes
+UODO zważył, co następuje.
+W zakresie oceny legalności przetwarzania danych osobowych Skarżącego przez Spółkę,
+należy wskazać, że przepisy rozporządzenia Parlamentu Europejskiego i Rady (UE)
+2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 4.05.2016, str.1, Dz. Urz. UE L
+127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35), dalej RODO określają
+obowiązki administratora (którym zgodnie z art. 4 pkt. 7 RODO jest Spółka), do których
+należy przetwarzanie danych osobowych z zachowaniem przesłanek, określonych w tym
+rozporządzeniu. Zgodnie z treścią art. 4 ust. 1 RODO dane osobowe oznaczają informa‐
+cje o zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej (osobie, której
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:ds_523_2244/content
+
+2025-09-03 13:33
+
+Decyzja DS.523.2244.2022
+
+Strona 3 z 4
+
+dane dotyczą); możliwa do zidentyfikowania osoba fizyczna to osoba, którą można bez‐
+pośrednio lub pośrednio zidentyfikować, w szczególności na podstawie takiego identyfi‐
+katora jak imię i nazwisko, numer identyfikacyjny, dane o lokalizacji, identyfikator inter‐
+netowy lub jeden, bądź kilka szczególnych czynników określających fizyczną, fizjologicz‐
+ną, genetyczną, psychiczną, kulturową lub społeczną tożsamość osoby fizycznej.
+Przepisem uprawniającym administratorów do przetwarzania danych osób fizycznych
+jest art. 6 ust. 1 RODO, zgodnie z którym przetwarzanie danych jest dopuszczalne tylko
+wtedy, gdy spełniona jest jedna z przesłanek wskazanych w tym przepisie. Katalog prze‐
+słanek wymienionych w art. 6 ust. 1 RODO jest zamknięty. Każda z przesłanek legalizują‐
+cych proces przetwarzania danych osobowych ma charakter autonomiczny i niezależny.
+Oznacza to, że przesłanki te co do zasady są równoprawne, a wobec tego spełnienie co
+najmniej jednej z nich stanowi o zgodnym z prawem przetwarzaniu danych osobowych.
+Należy wskazać, że przetwarzanie jest zgodne z prawem, gdy jest ono niezbędne do ce‐
+lów wynikających z prawnie uzasadnionych interesów realizowanych przez administrato‐
+ra lub przez stronę trzecią, z wyjątkiem sytuacji, w których nadrzędny charakter wobec
+tych interesów lub podstawowe prawa i wolności osoby, której dane dotyczą wymagają‐
+ce ochrony danych osobowych, w szczególności, gdy osoba, której dane dotyczą jest
+dzieckiem (art. 6 ust. 1 lit. f RODO).
+W przedmiotowej sprawie Skarżący kwestionuje zasadność przetwarzania jego danych
+osobowych (adres zawierający pierwszą literę jego imienia i nazwisko, tj. (…)), pomimo
+zakończenia przez niego stosunku pracy w Spółce w (…) r. W ocenie Prezesa UODO,
+wskazane powyżej zastrzeżenia Pana A. B. uznać należy za zasadne.
+Argumentując swoje stanowisko Organ zwraca uwagę, że wskazane w wyjaśnieniach sta‐
+nowisko Spółki, polegające na przetwarzaniu do chwili obecnej danych osobowych Skar‐
+żącego na podstawie art. 6 ust. 1 lit. f RODO w zakresie wymienionym w sentencji niniej‐
+szej decyzji administracyjnej nie zasługuje na uwzględnienie. Podkreślić należy, że Pre‐
+zes UODO nie kwestionuje przysługującego Spółce uprawnienia do przetwarzania danych
+osobowych swojego byłego pracownika (Skarżącego) w ww. zakresie, w celu zapewnie‐
+nia ciągłości spraw służbowych oraz korespondencji handlowej prowadzonej pomiędzy
+Spółką a jej klientami oraz kontrahentami. Jednakże należy zwrócić uwagę, że analiza
+materiału dowodowego wykazała, że stosunek zatrudnienia Pana A. B. w Spółce ustał w
+(…) r. W związku z powyższym, w ocenie Organu, przetwarzanie służbowego adresu email powinno zostać ograniczone przez Spółkę, poprzez stosowanie automatycznej od‐
+powiedzi, kierowanej do klientów oraz kontrahentów Spółki. Z treści wspomnianej odpo‐
+wiedzi powinna wynikać informacja, że (…) nie jest już aktualnym adresem do prowadze‐
+nia korespondencji ze Spółką, wraz z podaniem pod jakiem adresem mailowym ww.
+osoby mogą skontaktować się z przedstawicielami C. Sp. z o.o.
+W wyjaśnieniach z (…) sierpnia 2022 r. Spółka wskazała, że jako administrator skrzynki
+e-mailowej – (…) na chwilę obecną nie wykorzystuje wskazanego powyżej adresu e-mail
+do celów korespondencyjnych. Służbowy adres e-mail Pana A. B. został oznaczony jako
+baza danych, będąca korespondencją, która dotychczas była prowadzona z jej kontra‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:ds_523_2244/content
+
+2025-09-03 13:33
+
+Decyzja DS.523.2244.2022
+
+Strona 4 z 4
+
+hentami oraz klientami przez Skarżącego. Usunięcie wskazanego powyżej adres e-mail
+spowodowałoby negatywne konsekwencje dla Spółki w postaci utraty intratnych relacji
+handlowych z jej klientami oraz kontrahentami. Na podstawie analizy materiału dowodo‐
+wego stwierdzić należy, że Spółka w tej sprawie nie legitymowała się żadną z zasad, wy‐
+mienionych w art. 5 ust. 1 RODO w zakresie przetwarzania do chwili obecnej wskaza‐
+nych powyżej danych osobowych Pana A. B. w celach korespondencyjnych oraz celach
+handlowych.
+Należy wskazać, że proces przetwarzania danych osobowych musi być zgodny z zasada‐
+mi wymienionymi w art. 5 ust. 1 RODO, do których należy zaliczyć między innymi zasadę
+zgodności z prawem, zgodnie z którą przetwarzanie danych osobowych muszą być zgod‐
+ne z prawem, rzetelnie i w sposób przejrzysty dla osoby, której dane dotyczą (art. 5 ust.
+1 lit. a RODO), zasadę ograniczenia przechowywania, której istotą jest to, aby dane oso‐
+bowe były przechowywane w formie umożliwiającej identyfikację osoby, której dane do‐
+tyczą przez okres nie dłuższy, niż jest to niezbędne do celów, w których dane te są prze‐
+twarzane (art. 5 ust. 1 lit. e RODO) oraz zasadę minimalizacji danych, zgodnie z którą
+dane osobowe muszą być adekwatne, stosowne oraz ograniczone do tego, co niezbędne
+do celów, w których są przetwarzane (art. 5 ust. 1 lit. c RODO). W niniejszej sprawie w li‐
+stopadzie 2021 r. ustał cel, który stanowił uzasadnienie do przetwarzania danych osobo‐
+wych Skarżącego w zakresie jego służbowego adresu e-mail przez Spółkę. Wskazać nale‐
+ży również, że przetwarzanie do chwili obecnej wskazanych powyżej danych osobowych
+Pana A. B. nie jest niezbędne do wypełnienia ciążącego na administratorze (Spółce) obo‐
+wiązku prawnego jakim jest zapewnienia kontaktu z kontrahentami oraz klientami Spół‐
+ki, których dotychczas był realizowany przez Skarżącego na pośrednictwem adres e-mail
+(…) W związku z powyższym uznać należy, że Spółka na dzień wydania niniejszej decyzji
+administracyjnej przetwarza wskazane powyżej dane osobowe Skarżącego bez podstawy
+prawnej.
+Reasumując stwierdzić należy, że analiza materiału dowodowego wykazała, że w tej
+sprawie doszło do kwestionowanych przez Skarżącego nieprawidłowości, polegających
+na bezprawnym przetwarzaniu jego służbowego adresu e-mail, po ustaniu jego stosunku
+zatrudnienia w Spółce.
+W związku z powyższym uznać należy za zasadne skorzystanie przez Prezesa UODO z
+przysługującego mu na mocy art. 58 ust. 2 lit. c RODO uprawnienia naprawczego, pole‐
+gającego na nakazaniu Spółce usunięcia danych osobowych Pana A. B. w zakresie
+wymienionym w sentencji niniejszej decyzji administracyjnej.
+W tym stanie faktycznym i prawnym, Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:ds_523_2244/content
+
+2025-09-03 13:33
+

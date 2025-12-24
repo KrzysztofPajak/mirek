@@ -1,0 +1,1487 @@
+Warszawa, 9 marca 2020
+PRAWOMOCNA
+
+Decyzja
+ZSPR.421.19.2019
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2020 r. poz. 256) oraz art. 7 ust 1 i ust. 2, art. 60, art. 101,
+art. 103 ustawy o ochronie danych osobowych z dnia 10 maja 2018 r. (Dz. U. z 2019 r.
+poz. 1781) w związku z art. 31, art. 58 ust 1 lit. e oraz lit. f w związku z art. 83 ust. 1-3
+oraz art. 83 ust. 5 lit. e rozporządzenia Parlamentu Europejskiego i Rady UE 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem
+danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z
+04.05.2016, str. 1, z późn. zm.),
+po przeprowadzeniu postępowania wszczętego z urzędu w sprawie V. Sp. z o.o. w likwi‐
+dacji z siedzibą w Z. przy ul. (…) Prezes Urzędu Ochrony Danych Osobowych,
+stwierdzając naruszenie przez V. Sp. z o.o. w likwidacji z siedzibą w Z. przy ul. (…), prze‐
+pisów art. 31 i art. 58 ust. 1 lit. e oraz lit. f ogólnego rozporządzenia o ochronie danych,
+poprzez niezapewnienie dostępu do danych osobowych i innych informacji oraz pomiesz‐
+czeń, skutkujące uniemożliwieniem Prezesowi Urzędu Ochrony Danych Osobowych prze‐
+prowadzenia czynności kontrolnych niezbędnych do realizacji jego zadań,
+nakłada na V. Sp. z o.o. w likwidacji z siedzibą w Z. przy ul. (…) karę pieniężną w kwocie
+20.000 PLN (słownie: dwadzieścia tysięcy złotych), co stanowi równowartość 4.673.56
+EUR, według średniego kursu euro ogłoszonego przez Narodowy Bank Polski w tabeli
+kursów na dzień 28 stycznia 2020 r.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_19/content
+
+2025-09-03 13:51
+
+Decyzja ZSPR.421.19.2019
+
+Strona 2 z 8
+
+Uzasadnienie
+Na podstawie art. 58 ust. 1 lit. b, lit. e oraz lit. f rozporządzenia Parlamentu Europejskie‐
+go i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)
+(Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2), zwa‐
+nego dalej rozporządzeniem 2016/679, Prezes Urzędu Ochrony Danych Osobowych za‐
+planował przeprowadzenie w V. Sp. z o.o. z siedzibą w Z. przy ul. (…) (zwaną dalej też
+„Spółką”) kontroli zgodności przetwarzania danych z przepisami o ochronie danych oso‐
+bowych. Kontrola miała być przeprowadzona w dniach od 29 lipca 2019 r. do dnia 2
+sierpnia 2019 r.
+Pismem z dnia (…) lipca 2019 r. (znak: (…)) Urząd Ochrony Danych Osobowych za po‐
+średnictwem Poczty Polskiej zawiadomił Spółkę o terminie i zakresie planowanej kontroli.
+Pismo doręczone zostało w dniu (…) lipca 2019 r. na adres siedziby V. Sp. z o.o. (Z., ul.
+(…)), wskazany w Krajowym Rejestrze Sądowym.
+W dniu (…) lipca 2019 r., w celu przeprowadzenia czynności kontrolnych (sygn. kontroli
+ZSPR.421.19.2019) kontrolujący udali się do miejsca wskazanego w KRS jako adres Spół‐
+ki, ale osób reprezentujących Spółkę tam nie zastali. Na miejscu okazało się, że pod tym
+adresem znajduje się Biuro (…) (zwane dalej „Biurem”) prowadzone przez (…). Jak usta‐
+lono Spółka podnajmuje lokal użytkowy położony w Z. przy ul. (…) na tzw. „wirtualne biu‐
+ro”. W przedmiotowym lokalu zastano tylko pracownika Biura. Po przedstawieniu tej oso‐
+bie celu przybycia kontrolujących, pracownik Biura po sprawdzeniu zawartości poczty
+elektronicznej, w celu ustalenia, czy wpłynęła jakaś wiadomość od Spółki w tym zakre‐
+sie, poinformował, że do Biura wpłynęło pismo z dnia (…) lipca 2019 r. od Spółki podpisa‐
+ne przez Pana K. U. – Prezesa Zarządu. Z treści pisma wynikało, że Spółka wypowiada
+umowę najmu na lokal nr 9 położony w Z. przy ul. (…) oraz, że od dnia (…) lipca 2019 r.
+pod ww. adresem podmiot ten nie będzie prowadził działalności. Kopia powołanego
+pisma została przekazana kontrolującym.
+Ponadto, pracownik Biura poinformował kontrolujących, że po odebraniu pisma z dnia
+(…) lipca 2019 r. z Urzędu Ochrony Danych Osobowych, w sprawie zawiadomienia o pla‐
+nowanej kontroli w Spółce, treść przedmiotowego pisma w formie skanu przekazał do
+Spółki. Celem udokumentowania podjętych ustaleń, o których mowa powyżej kontrolują‐
+cy w dniu (…) lipca 2019 r. sporządzili notatkę służbową.
+W związku z zaistniałą sytuacją kontrolujący poprosili by pracownik Biura skontaktował
+się ze Spółką w sprawie ustalenia, czy czynności kontrolne będą mogły być przeprowa‐
+dzone. Kontaktu ze Spółką nie udało się jednak nawiązać. W związku z tym kontrolujący
+poprosił o podanie numeru telefonu do Spółki. Pracownik Biura oświadczył, że dopiero na
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_19/content
+
+2025-09-03 13:51
+
+Decyzja ZSPR.421.19.2019
+
+Strona 3 z 8
+
+pisemny wniosek Prezesa Urzędu Ochrony Danych Osobowych może udostępnić infor‐
+macje w sprawie tego podmiotu (w tym również numer telefonu). Kontrolujący pozosta‐
+wili numer telefonu do kontaktu. Tego samego dnia około godziny 14 do kontrolującego
+zatelefonował mężczyzna, który przedstawił się jako „adwokat (…)” i przekazał informa‐
+cję, iż kontaktuje się w imieniu Spółki, ale nie wie, czy kontrola będzie mogła być prze‐
+prowadzona. W toku rozmowy ww. osoba zobowiązała się, że w terminie do (…) lipca
+2019 r. postara się ustalić, czy kontrola będzie mogła się odbyć.
+Jednocześnie, w dniu (…) lipca 2019 r. na adres poczty elektronicznej Biura, został prze‐
+słany wniosek Prezesa Urzędu Ochrony Danych Osobowych o udostępnienie kopii umowy
+najmu na przedmiotowy lokal oraz o przekazanie informacji kontaktowych do Spółki.
+W dniu (…) lipca 2019 r. kontrolujący ponownie udali się pod adres Spółki, ale również w
+tym dniu osób reprezentujących Spółkę nie zastano. W związku z tym czynności kontrol‐
+ne nie odbyły się. Pracownik Biura przekazał kontrolującym kopię umowy podnajmu na
+przedmiotowy lokal. O godz. 11 do kontrolujących zatelefonowała osoba przedstawiająca
+się jako „adwokat (…)” i przekazał informację, że kontrola się nie odbędzie.
+W związku z powyższym, pismem z (…) sierpnia 2019 r. znak: (…) Prezes Urzędu Ochro‐
+ny Danych Osobowych wszczął z urzędu postępowanie administracyjne w przedmiocie
+nałożenia administracyjnej kary pieniężnej w związku z uniemożliwieniem przeprowadze‐
+nia kontroli w zakresie przestrzegania przez Spółkę przepisów o ochronie danych
+osobowych. Ww. korespondencja została zwrócona z adnotacją „adres nieaktualny”.
+Na podstawie sprawozdania finansowego za okres od 1 stycznia 2018 r. do 31 grudnia
+2018 r. (dostępnego na stronie internetowej Ministerstwa Sprawiedliwości o adresie:
+ekrs.ms.gov.pl) ustalono, że w ww. okresie wysokość przychodów netto Spółki ze
+sprzedaży i zrównanych z nimi wyniosła (…) PLN.
+Po zapoznaniu się z całością materiału dowodowego zebranego w sprawie Prezes Urzędu
+Ochrony Danych Osobowych zważył, co następuje:
+Jak wynika z informacji zawartej w Krajowym Rejestrze Sądowym, 30 lipca 2019 r. podję‐
+to uchwałę o rozwiązaniu Spółki i postawieniu jej w stan likwidacji. Sąd Rejonowy Katowi‐
+ce – Wschód, Wydział VIII Gospodarczy w dniu 23 sierpnia 2019 r. dokonał wpisu do Kra‐
+jowego Rejestru Sądowego o postawieniu Spółki w stan likwidacji. Od tego momentu
+Spółka funkcjonuje pod firmą V. Sp. z o.o. w likwidacji.
+Zgodnie z art. 57 ust. 1 lit. a rozporządzenia 2016/679, każdy organ nadzorczy na swoim
+terenie monitoruje i egzekwuje stosowanie rozporządzenia 2016/679. Ponadto, stosow‐
+nie do art. 58 ust. 1 lit. e oraz lit. f rozporządzenia 2016/679, organowi nadzorczemu
+przysługuje uprawnienie dostępu do wszystkich pomieszczeń administratora i podmiotu
+przetwarzającego, w tym do sprzętu i środków służących do przetwarzania danych,
+zgodnie z procedurami określonymi w prawie unijnym lub w prawie państwa członkow‐
+skiego. Wskazać należy, że w myśl art. 58 ust. 6 rozporządzenia 2016/679, każde pań‐
+stwo członkowskie może przewidzieć w swoich przepisach, że jego organowi nadzorcze‐
+mu przysługują, poza uprawnieniami określonymi w ust. 1, 2 i 3, także inne uprawnienia.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_19/content
+
+2025-09-03 13:51
+
+Decyzja ZSPR.421.19.2019
+
+Strona 4 z 8
+
+Jak stanowi art. 31 rozporządzenia 2016/679, administrator i podmiot przetwarzający
+oraz – gdy ma to zastosowanie – ich przedstawiciele na żądanie współpracują z organem
+nadzorczym w ramach wykonywania przez niego swoich zadań.
+Na podstawie art. 78 ust. 1 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych
+(Dz. U. z 2019 r. poz. 1781), zwanej dalej „ustawą”, Prezes Urzędu Ochrony Danych Oso‐
+bowych przeprowadza kontrolę przestrzegania przepisów o ochronie danych osobowych.
+Zgodnie z art. 79 ust. 1 pkt 1 ustawy, kontrolę przeprowadza upoważniony przez Prezesa
+Urzędu pracownik Urzędu.
+Jak stanowi art. 84 ust. 1 ustawy, kontrolujący ma prawo:
+a) wstępu w godzinach od 6:00 do 22:00 na grunt oraz do budynków, lokali lub innych
+pomieszczeń;
+b) wglądu do dokumentów i informacji mających bezpośredni związek z zakresem
+przedmiotowym kontroli;
+c) przeprowadzania oględzin miejsc, przedmiotów, urządzeń, nośników oraz systemów
+informatycznych lub teleinformatycznych służących do przetwarzania danych;
+d) żądać złożenia pisemnych lub ustnych wyjaśnień oraz przesłuchiwać w charakterze
+świadka osoby w zakresie niezbędnym do ustalenia stanu faktycznego;
+e) zlecać sporządzanie ekspertyz i opinii.
+Istotne znaczenie w niniejszej sprawie ma fakt, że Prezes Urzędu Ochrony Danych Oso‐
+bowych zaplanował przeprowadzenie kontroli w Spółce, w związku z ustaleniami jakie zo‐
+stały dokonane w toku kontroli przeprowadzonej w V. Sp. z o.o. sp. k. z siedzibą w (…). W
+toku kontroli przeprowadzonej w ww. podmiocie ustalono, że prowadzi on działalność te‐
+lemarketingową. W związku z tą działalnością przetwarza dane osobowe (numery telefo‐
+nów stacjonarnych i komórkowych) za pomocą systemu teleinformatycznego dostarczo‐
+nego przez Spółkę. Przedmiotowy system użytkowany jest na podstawie umowy o współ‐
+pracy w zakresie outsourcingu usług telemarketingowych. Umowa została zawarta ze
+Spółką (…) lutego 2017 r. Istotną kwestią jest to, że V. Sp. z o.o. sp. k. nie posiada wła‐
+snej bazy danych, a wszystkie połączenia telefoniczne generowane są wyłącznie przez
+system informatyczny udostępniony przez Spółkę.
+Z treści powołanej umowy wynika m.in., że Spółka posiada rozwiązanie techniczne – sys‐
+tem teleinformatyczny w formie programu komputerowego, którego użycie pozwala na
+wykonywanie połączeń telefonicznych na numery telefonów stacjonarnych i komórko‐
+wych według kryterium lokalizacji. Ponadto, w umowie tej wskazane jest również, że
+funkcjonalność przedmiotowego systemu uniemożliwia V. Sp. z o.o. sp. k. dostęp do ja‐
+kichkolwiek informacji, w tym do wybieranego numeru telefonu. Ponadto, w umowie tej
+Spółka oświadcza, że w przypadku wykorzystania z jakichkolwiek danych osobowych na
+potrzeby wykonania ww. umowy będzie administrowała „ww. danymi zgodnie z obowią‐
+zującymi przepisami prawa polskiego”. W § 3 pkt 2 ww. umowy zawarte jest postanowie‐
+nie o następującej treści: „V. oświadcza, iż w przypadku jakichkolwiek roszczeń osób trze‐
+cich kierowanych wobec V. (…) związanych z funkcjonalnością SYSTEMU (…), zwalnia V. z
+tej odpowiedzialności w zakresie dopuszczalnym przez obowiązujące przepisy prawa i
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_19/content
+
+2025-09-03 13:51
+
+Decyzja ZSPR.421.19.2019
+
+Strona 5 z 8
+
+zobowiązuje się pokryć wszelkie koszty związane z ochroną V. przed takimi roszczenia‐
+mi”.
+Z uwagi na fakt, że V. Sp. z o.o. sp. k. nie posiada dostępu do danych osobowych prze‐
+twarzanych w tym systemie (tj. do informacji o wybieranych numerach telefonów), Pre‐
+zes Urzędu Ochrony Danych Osobowych uznał za konieczne przeprowadzenie czynności
+kontrolnych również w Spółce (tj. w podmiocie, który na podstawie powołanej umowy
+uznaję się za administratora danych). Celem kontroli miało być zbadanie legalności
+przetwarzania danych osobowych przy użyciu przedmiotowego systemu.
+Uniemożliwienie przeprowadzenia kontroli w Spółce w znaczny sposób utrudniło Prezeso‐
+wi Urzędu Ochrony Danych Osobowych zbadanie procesu przetwarzania danych
+osobowych przez V. Sp. z o.o. sp. k.
+Zebrany w sprawie materiał dowodowy wskazuje na to, że działania podjęte przez osoby
+reprezentujące Spółkę zdecydowanie świadczą o braku współpracy z Prezesem Urzędu
+Ochrony Danych Osobowych.
+Na potwierdzenie powyższego stanowiska przywołać należy następujące okoliczności:
+1) po uzyskaniu informacji o planowanej kontroli Prezesa Urzędu Ochrony Danych Oso‐
+bowych (pismo z (…) lipca 2019 r.), w dniu (…) lipca 2019 r. (dwa dni przed rozpo‐
+częciem planowanej kontroli) Spółka skierowała do wynajmującego wniosek o roz‐
+wiązanie umowy najmu na lokal położony w Z. przy ul. (…) (adres Spółki wskazany
+w KRS);
+2) zarówno (…) lipca 2019 r. jak i (…) lipca 2019 r. Spółka udaremniła przeprowadzenie
+czynności kontrolnych, albowiem pod adresem Spółki nie zastano żadnej osoby
+umocowanej do reprezentowania Spółki w toku kontroli;
+3) 30 lipca 2019 r. podjęto uchwałę o rozwiązaniu Spółki i rozpoczęciu postępowania li‐
+kwidacyjnego (informacja ta zawarta jest w Krajowym Rejestrze Sądowym).
+Reasumując, stwierdzić należy, że działania Spółki, o których mowa powyżej, świadczą
+niewątpliwie o tym, że nie realizuje ona obowiązków związanych z przetwarzaniem da‐
+nych osobowych albo co najmniej w sposób zamierzony unika poddania się kontroli orga‐
+nu nadzorczego jakim jest Prezes Urzędu Ochrony Danych Osobowych. Tym samym
+uznać należy, że poprzez uniemożliwienie Prezesowi Urzędu Ochrony Danych Osobo‐
+wych przeprowadzenia kontroli Spółka naruszyła art. 31 w związku z art. 58 ust. 1 lit. e
+oraz lit. f rozporządzenia 2016/679. Wskazać należy, że zgodnie z art. 31 rozporządzenia
+2016/679, administrator i podmiot przetwarzający oraz – gdy ma to zastosowanie – ich
+przedstawiciele na żądanie współpracują z organem nadzorczym w ramach wykonywa‐
+nia przez niego swoich zadań. Obowiązek współpracy polega m.in. na zapewnieniu orga‐
+nowi nadzorczemu możliwości uzyskania od administratora (i podmiotu przetwarzające‐
+go) dostępu do wszystkich danych osobowych oraz wszelkich informacji niezbędnych or‐
+ganowi nadzorczemu do realizacji jego zadań (art. 58 ust. 1 lit. e rozporządzenia
+2016/679), uzyskania dostępu do wszelkich pomieszczeń administratora i podmiotu
+przetwarzającego, w tym do sprzętu i środków służących do przetwarzania danych,
+zgodnie z procedurami określonymi w prawie unijnym lub w prawie państwa członkow‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_19/content
+
+2025-09-03 13:51
+
+Decyzja ZSPR.421.19.2019
+
+Strona 6 z 8
+
+skiego (art. 58 ust. 1 lit. f rozporządzenia 2016/679). To zobowiązanie administratora do
+współpracy jest bowiem skorelowane z zadaniami organu nadzorczego sformułowanymi
+w art. 57 rozporządzenia 2016/679 oraz uprawnieniami wynikającymi z art. 58
+rozporządzenia 2016/679.
+Prezes Urzędu Ochrony Danych Osobowych działając na podstawie art. 108 ust. 1 usta‐
+wy o ochronie danych osobowych powiadomił Prokuraturę Rejonową w (…) o podejrzeniu
+popełnienia przestępstwa polegającego na udaremnieniu przez Spółkę przeprowadzenia
+czynności kontrolnych. W dniu (…) stycznia 2020 r. do Urzędu Ochrony Danych Osobo‐
+wych wpłynęło zawiadomienie (sygn. akt (…)) Prokuratury Rejonowej (…) (…) o przesła‐
+niu aktu oskarżenia przeciwko (…) (…), oskarżonemu o popełnienie przestępstwa z art.
+108 ustawy o ochronie danych osobowych.
+Ponadto, mając na uwadze powyższe ustalenia, Prezes Urzędu Ochrony Danych Osobo‐
+wych, korzystając z przysługującego mu uprawnienia określonego w art. 83 rozporządze‐
+nia 2016/679, stwierdza, że w rozpatrywanej sprawie zaistniały przesłanki warunkujące
+nałożenie na Spółkę administracyjnej kary pieniężnej.
+Stosownie do treści art. 83 ust. 2 rozporządzenia 2016/679, administracyjne kary pie‐
+niężne nakłada się zależnie od okoliczności każdego indywidualnego przypadku.
+Zgodnie z art. 83 rozporządzenia 2016/679 – określającym ogólne warunki nakładania
+administracyjnych kar pieniężnych - każdy organ nadzorczy zapewnia, by stosowane na
+mocy niniejszego artykułu za naruszenia niniejszego rozporządzenia administracyjne
+kary pieniężne, o których mowa w ust. 4, 5 i 6, były w każdym indywidualnym przypadku
+skuteczne, proporcjonalne i odstraszające (ust. 1). Stosownie zaś do art. 83 ust. 2 lit. b
+rozporządzenia 2016/679, organ decydując, czy nałożyć administracyjną karę pieniężną
+oraz ustalając jej wysokość, zwraca w każdym indywidualnym przypadku należytą uwagę
+na umyślny lub nieumyślny charakter naruszenia.
+W myśl art. 83 ust. 2 lit. k rozporządzenia 2016/679, organ decydując, czy nałożyć admi‐
+nistracyjną karę pieniężną oraz ustalając jej wysokość, zwraca w każdym indywidualnym
+przypadku należytą uwagę na wszelkie inne obciążające lub łagodzące czynniki mające
+zastosowanie do okoliczności sprawy, takie jak osiągnięte bezpośrednio lub pośrednio w
+związku z naruszeniem korzyści finansowe lub uniknięte straty.
+Prezes Urzędu Ochrony Danych Osobowych decydując o nałożeniu na Spółkę administra‐
+cyjnej kary pieniężnej oraz ustalając jej wysokość, zgodnie z 83 ust. 2 lit. a-k rozporzą‐
+dzenia 2016/679, wziął pod uwagę następujące okoliczności obciążające:
+1. Stwierdzone w niniejszej sprawie naruszenie ma znaczną wagę i poważny charakter,
+gdyż brak współpracy Spółki z Prezesem Urzędu Ochrony Danych Osobowych spo‐
+wodowało uniemożliwienie temu organowi przeprowadzania kontroli przestrzegania
+przez Spółkę przepisów o ochronie danych osobowych. Działanie Spółki jest nagan‐
+ne. Spółka swoim zaniechaniem uniemożliwiła dokonanie przez Prezesa Urzędu
+Ochrony Danych Osobowych bardzo istotnych ustaleń (dotyczących legalności prze‐
+twarzania danych osobowych), których wyniki niewątpliwie miałyby duży wpływ na
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_19/content
+
+2025-09-03 13:51
+
+Decyzja ZSPR.421.19.2019
+
+2.
+
+Strona 7 z 8
+
+ocenę materiału dowodowego zebranego w toku innej kontroli, która została prze‐
+prowadzona przez Prezesa Urzędu Ochrony Danych Osobowych w V. Sp. z o.o. sp. k.
+(charakter, waga i czas naruszenia).
+Spółka w sposób świadomy udaremniła przeprowadzenie kontroli, a tym samym
+uniemożliwiła Prezesowi Urzędu Ochrony Danych Osobowych wykonanie zadań usta‐
+wowych wynikających z art. 58 ust. 1 lit. e oraz lit. f rozporządzenia 2016/679. Zaist‐
+niała sytuacja rodzi podejrzenie, że udaremnienie przez Spółkę przeprowadzenia
+kontroli miało na celu uniemożliwienie zebrania przez Prezesa Urzędu Ochrony Da‐
+nych Osobowych dowodów potwierdzających niezgodne z prawem przetwarzanie
+przez Spółkę danych osobowych (umyślny lub nieumyślny charakter naruszenia).
+
+Pozostałe przesłanki wymiaru administracyjnej kary pieniężnej wskazane w art. 83. ust.
+2 lit. c – k, ze względu na przedmiot postępowania nie mają zastosowania w niniejszym
+postępowaniu. W konsekwencji nie miały wpływu na ocenę naruszenia i wymiar
+nałożonej kary administracyjnej.
+Ustalając wysokość administracyjnej kary pieniężnej Prezes Urzędu Ochrony Danych
+Osobowych nie dopatrzył się żadnej okoliczności łagodzącej mającej wpływ na
+ostateczny wymiar kary.
+Ustalenie wysokości nałożonej kary pieniężnej wymagało również zdefiniowania celów,
+jakie kara ta pozwoli osiągnąć. Wskazać należy, że kara pieniężna nałożona na Spółkę w
+związku z brakiem współpracy z Prezesem Urzędu Ochrony Danych Osobowych ma cha‐
+rakter represyjny (ma spowodować by Spółka poniosła karę finansową za unikanie kon‐
+troli) oraz prewencyjny (ma zapobiec naruszaniu prawa w przyszłości przez Spółkę, ale i
+przez inne podmioty). Ponadto, kara pieniężna nałożona na Spółkę ma również charakter
+odstraszający i wiąże się z zapobieganiem popełniania naruszeń. Kara ma odstraszać
+zarówno Spółkę przed ponownym naruszeniem, jak i inne podmioty.
+Ponadto Prezes Urzędu Ochrony Danych Osobowych niewątpliwie nie może godzić się z
+sytuacjami, w których podmioty poprzez udaremnienie działań kontrolnych
+uniemożliwiają realizację jego zadań ustawowych.
+Stosownie do treści art. 103 ustawy z dnia 10 maja 2018 r. o ochronie danych
+osobowych (Dz. U. z 2019 r. poz. 1781) równowartość wyrażonych w euro kwot, o któ‐
+rych mowa w art. 83 rozporządzenia 2016/679, oblicza się w złotych według średniego
+kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 28 stycz‐
+nia każdego roku, a w przypadku gdy w danym roku Narodowy Bank Polski nie ogłasza
+średniego kursu euro w dniu 28 stycznia - według średniego kursu euro ogłoszonego w
+najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego.
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych, zastosowana kara pieniężna
+spełnia w ustalonych okolicznościach niniejszej sprawy przesłanki, o których mowa w art.
+83 ust. 1 rozporządzenia 2016/679, ze względu na powagę stwierdzonego naruszenia
+wynikającego z art. 31 w związku z art. 58 ust. 1 lit. e oraz lit. f rozporządzenia
+2016/679, jakim jest niewątpliwie brak współpracy z organem nadzorczym w zakresie
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_19/content
+
+2025-09-03 13:51
+
+Decyzja ZSPR.421.19.2019
+
+Strona 8 z 8
+
+wykonania jego ustawowych uprawnień, w tym uniemożliwienie przeprowadzenia
+czynności kontrolnych.
+Zgodnie z tymi przepisami naruszenie obowiązku administratora, o którym mowa w art.
+31 rozporządzenia 2016/679, podlega administracyjnej karze pieniężnej w wysokości do
+10 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 2 % jego całkowitego
+rocznego światowego obrotu z poprzedniego roku obrotowego, przy czym zastosowanie
+ma kwota wyższa.
+Naruszenie zaś obowiązków administratora, o których mowa w art. 58 ust. 1 lit. e oraz
+lit. f rozporządzenia 2016/679, podlega administracyjnej karze pieniężnej w wysokości
+do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 4 % jego całkowi‐
+tego rocznego światowego obrotu z poprzedniego roku obrotowego, przy czym zastoso‐
+wanie ma kwota wyższa, które Prezes Urzędu Ochrony Danych Osobowych na podstawie
+art. 83 ust. 3 rozporządzenia 2016/679 uznaje za najpoważniejsze naruszenie, a wyso‐
+kość nałożonej niniejszą decyzją kary pieniężnej nie przekracza tej wysokości.
+Mając powyższe na uwadze Prezes Urzędu Ochrony Danych Osobowych rozstrzygnął jak
+w sentencji niniejszej decyzji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_19/content
+
+2025-09-03 13:51
+
+Warszawa, 10 września 2019
+UCHYLONA
+
+Decyzja
+ZSPR.421.2.2019
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r. poz. 2096 ze zm.) oraz art. 7 ust 1 i ust. 2, art. 60,
+art. 101, art. 103 ustawy o ochronie danych osobowych z dnia 10 maja 2018 r. (Dz. U. z
+2018 r. poz. 1000 z późn. zm.) w związku z art. 5 ust. 1 lit. a oraz lit. f, art. 5 ust. 2, art. 6
+ust. 1, art. 7 ust. 1, art. 24 ust. 1, art. 25 ust. 1, art. 32 ust. 1 lit. b, lit. d, art. 32 ust. 2,
+art. 58 ust. 2 lit. i oraz z art. 83 ust. 3, art. 83 ust. 4 lit a, art. 83 ust. 5 lit. a rozporządze‐
+nia Parlamentu Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie
+ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne
+rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz.
+UE L 127 z 23.05.2018, str. 2),
+po przeprowadzeniu postępowania administracyjnego w sprawie przetwarzania danych
+osobowych przez V. Sp. z o.o. z siedzibą w S. przy ul. (…), Prezes Urzędu Ochrony
+Danych Osobowych
+stwierdzając naruszenie przez V. Sp. z o.o. z siedzibą w S. przy ul. (…), przepisów art. 5
+ust. 1 lit. a oraz lit. f, art. 5 ust 2, art. 6 ust. 1, art. 7 ust. 1, art. 24 ust. 1, art. 25 ust. 1,
+art. 32 ust. 1 lit. b, lit. d, art. 32 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady
+UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz.
+UE L 119 z 04.05.2016, str. 1, oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2), dalej: „rozpo‐
+rządzenie 2016/679”
+nakłada na V. Sp. z o.o. z siedzibą w S. przy ul. (…), karę pieniężną w wysokości 2 830
+410 PLN (co stanowi równowartość 660 000 EUR), według średniego kursu euro ogłoszo‐
+nego przez Narodowy Bank Polski w tabeli kursów na dzień 28 stycznia 2019 r.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 2 z 22
+
+Uzasadnienie
+W dniu (…) listopada 2018 r. V. Sp. z o.o. z siedzibą w S. przy ul. (…), (zwana dalej „Spół‐
+ką”), zgłosiła Prezesowi Urzędu Ochrony Danych Osobowych (zwanym dalej także „Pre‐
+zesem UODO”) dwa naruszenia ochrony danych osobowych, które dotyczyły uzyskania
+przez osobę nieuprawnioną dostępu do bazy danych klientów sklepów internetowych
+(…), (…), (…), (…), (…), (…), (…), (…), (…), (…), (…) oraz uzyskania przez osobę nieupo‐
+ważnioną dostępu do (…), a w konsekwencji uzyskania danych osobowych klientów reali‐
+zujących zakupy w ww. sklepach internetowych. Następnie, dnia (…) grudnia 2018 r.,
+Spółka zgłosiła do Prezesa Urzędu Ochrony Danych Osobowych kolejne naruszenie
+polegające na uzyskaniu nieuprawionego dostępu do (…).
+W dniach od (…) do (…) stycznia 2019 r. w celu kontroli zgodności przetwarzania danych
+z przepisami o ochronie danych osobowych dokonano czynności kontrolnych w V. Sp. z
+o.o. z siedzibą w S. przy ul. (…). Zakresem kontroli objęto przetwarzanie danych osobo‐
+wych klientów sklepów internetowych: (…), (…), (…), (…), (…), (…), (…), (…), (…), (…),
+(…), których administratorem jest Spółka.
+Na podstawie zgromadzonego materiału dowodowego ustalono, że w procesie przetwa‐
+rzania danych osobowych Spółka, jako administrator, naruszyła przepisy o ochronie da‐
+nych osobowych. Uchybienia te polegały na: naruszeniu przez Spółkę zasady poufności
+danych wyrażonej w art. 5 ust 1 lit. f rozporządzenia Parlamentu Europejskiego i Rady UE
+2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz.
+UE L 119 z 04.05.2016, str. 1, oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2), zwanego dalej
+„rozporządzeniem 2016/679”, odzwierciedlonej w postaci obowiązków określonych w art.
+24 ust 1, art. 25 ust. 1 oraz art. 32 ust. 1 lit. b oraz d, art. 32 ust. 2 rozporządzenia
+2016/679 polegającym na niezapewnieniu bezpieczeństwa i poufności przetwarzanych
+danych osobowych co spowodowało, że dostęp do danych osobowych klientów Spółki
+uzyskały osoby nieuprawnione oraz na naruszeniu zasady legalności, rzetelności i rozli‐
+czalności wyrażonych w art. 5 ust 1 lit. a oraz art. 5 ust. 2 rozporządzenia 2016/679,
+uszczegółowionych w art. 7 ust. 1 oraz art. 6 ust. 1 rozporządzenia 2016/679, poprzez
+niewykazanie, że dane osobowe z wniosków ratalnych zbierane przed 25 maja 2018 r.
+były przetwarzane przez V. Sp. z o.o. z siedzibą w S. na podstawie zgody osoby, której
+dane dotyczyły.
+Prezes UODO, na podstawie zebranego materiału dowodowego, ustalił następujący stan
+faktyczny sprawy:
+1.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 3 z 22
+
+Przedmiotem działalności Spółki jest sprzedaż detaliczna prowadzona przez domy
+sprzedaży wysyłkowej lub Internet. Spółka prowadzi sklepy internetowe: (…), (…),
+(…), (…), (…), (…), (…), (…), (…), (…), (…).
+2. Spółka w związku z prowadzoną działalnością przetwarza dane osobowe klientów,
+którzy dokonali rejestracji na stronie internetowej (…) (oraz stronach internetowych
+innych sklepów, wymienionych wyżej, których administratorem jest Spółka). Liczba
+osób, których dane są przetwarzane przez Spółkę wynosi ok. 2 200 000 (ok dwa mi‐
+liony dwieście tysięcy). Zakres tych danych obejmuje: imię, nazwisko, adres poczty
+elektronicznej (e-mail), numer telefonu i adres do doręczeń, a dostęp do tych da‐
+nych mają (…). Do grudnia 2018 r. Spółka przetwarzała również dane z wniosków ra‐
+talnych. Zakres tych danych obejmował: imię, nazwisko, adres poczty elektronicznej
+(e-mail), numer telefonu, numer PESEL, seria i numer dokumentu tożsamości, data
+wydania dokumentu tożsamości, data ważności dokumentu tożsamości, wykształce‐
+nie, adres zameldowania, adres do korespondencji, źródło dochodu, miesięczny do‐
+chód netto, koszty utrzymania gospodarstwa domowego, liczba osób na utrzymaniu,
+stan cywilny, wysokość miesięcznych innych zobowiązań w instytucjach finanso‐
+wych, informacja o wysokości zobowiązań alimentacyjnych i innych wynikających z
+wyroków sądowych (gromadzone od 2016 r.). Ich łączna liczba wynosiła ok 35 000
+(…).
+3. (…).
+4. W dniu (…) listopada 2018 r. Spółka została poinformowana przez klientów o otrzy‐
+mywaniu przez nich krótkich widomości tekstowych (sms), informujących o koniecz‐
+ności dokonania dodatkowej opłaty, w wysokości 1 PLN, w celu dokończenia realiza‐
+cji zamówienia. Wiadomość zawierała link do fałszywej bramki płatności elektronicz‐
+nej DotPay. Spółka niezwłocznie powiadomiła o zdarzeniu Policję oraz przystąpiła do
+próby wyjaśnienia tej sprawy.
+5. (…)
+6. Naruszenie ochrony danych osobowych zostało stwierdzone przez Spółkę w dniu (…)
+listopada 2018 roku.
+7. Po przeprowadzeniu działań monitorujących w dniu (…) listopada 2018 r. Spółka
+zgłosiła naruszenie do Prezesa Urzędu Ochrony Danych Osobowych. Ponadto, Spół‐
+ka zamieściła na swojej stronie internetowej informację ostrzegającą o fałszywych
+smsach. Taka sama informacja była przez Spółkę wysyłana do klientów w wiadomo‐
+ściach e-mail oraz sms. Dnia (…) grudnia 2018 r. Spółka ponownie poinformowała
+osoby, których dane dotyczą o naruszeniu, informując m.in. o potencjalnym
+uzyskaniu dostępu do danych z wniosków ratalnych.
+8. Jak wskazano w przesyłanych do Prezesa Urzędu Ochrony Danych Osobowych zgło‐
+szeniach oraz zgłoszeniach uzupełniających, Spółka podjęła prace nad wprowadze‐
+niem dodatkowych środków zabezpieczenia technicznego, m.in. w postaci (…).
+9. W dniu (…) listopada 2018 r. Spółka otrzymała wiadomość e-mail od nieznanej oso‐
+by, informującej o dokonanej przez nią kradzieży bazy danych klientów Spółki.
+10. W dniu (…) listopada 2018 roku Spółka zgłosiła do Prezesa Urzędu Ochrony Danych
+Osobowych naruszenie dot. potencjalnego uzyskania nieuprawnionego dostępu do
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+Strona 4 z 22
+
+bazy danych klientów Spółki. Naruszenie dotyczyło około 2 200 000 (ok. dwóch
+milionów dwustu tysięcy) użytkowników.
+W dniu (…) grudnia 2018 roku Spółka wysłała do klientów 2 200 000 (ok. dwóch mi‐
+lionów dwustu tysięcy) wiadomości mailowych zawierających zawiadomienie o nie‐
+uprawnionym dostępie do bazy danych klientów (treść zawiadomienia osób, których
+dane dotyczą została przesłana do Urzędu w uzupełnieniu zgłoszenia naruszenia).
+W powyższej informacji kierowanej do klientów Spółka poinformowała, że nie
+przetwarza danych pochodzących z wniosków kredytowych.
+W dniu (…) grudnia 2018 r. Spółka zidentyfikowała kolejny nieuprawniony dostęp do
+(…), wykorzystany do ponownej wysyłki fałszywych smsów, o czym zostało poinfor‐
+mowanych 600 osób, do których danych osoba nieuprawniona miała dostęp. (…) W
+dniu (…)grudnia 2018 r. naruszenie to zostało zgłoszone do Prezesa Urzędu Ochrony
+Danych Osobowych.
+Z uwagi na to, że powiadomienie osób, których dane dotyczą, nie spełniało wymo‐
+gów określonych w art. 34 rozporządzenia 2016/679, w dniu (…) stycznia 2019 r.,
+Prezes Urzędu Ochrony Danych Osobowych na podstawie art. 52 ust. 1 ustawy o
+ochronie danych osobowych z dnia 10 maja 2018 r. (Dz. U. z 2018 r. poz. 1000 z
+późn. zm.), skierował do Spółki wystąpienie nakazujące ponowne zawiadomienie
+osób, których dane dotyczą o naruszeniu ich danych osobowych oraz przekazanie
+tym osobom zaleceń odnośnie zminimalizowania potencjalnych skutków naruszenia.
+W odpowiedzi na wystąpienie Prezesa Urzędu Ochrony Danych Osobowych Spółka
+ponownie skierowała zawiadomienie o naruszeniu ochrony danych osobowych do
+35 000 (trzydziestu pięciu tysięcy) osób.
+W celu ustalenia okoliczności naruszeń ochrony danych zgłoszonych przez Spółkę
+oraz ustalenia stosowanych przez Spółkę środków zabezpieczenia technicznego,
+środków zastosowanych w celu zminimalizowania skutków naruszenia oraz zapobie‐
+żenia podobnym zdarzeniom, dnia (…) stycznia 2019 r., Prezes Urzędu Ochrony
+Danych Osobowych skierował do Spółki wezwanie do złożenia wyjaśnień.
+W odpowiedzi na wezwanie z dnia (…) stycznia 2019 r Spółka pismem z dnia (…)
+stycznia 2019 r. przedstawiła obszerne wyjaśnienia, zawierające m.in: opis prowa‐
+dzonych przez Spółkę działań po zaistniałym incydencie, opis stosowanych przez
+Spółkę środków zabezpieczenia technicznego i organizacyjnego, opis procedury
+obsługi żądań osób, których dane dotyczą.
+Do wyjaśnień z dnia (…) stycznia 2019 r. Spółka dołączyła sprawozdanie finansowe
+za rok obrotowy od 01.01.2017 r. do 31.12.2017 r., z którego wynika, że wysokość
+przychodów netto ze sprzedaży i zrównanych z nimi wynosi: (…).
+Jak ustalono w toku kontroli, dokonanie zakupów w sklepach internetowych, których
+administratorem jest Spółka wymaga uprzedniej rejestracji. Niezbędne informacje
+do założenia konta obejmują adres poczty elektronicznej (e-mail) oraz hasło do kon‐
+ta użytkownika, które wprowadza klient sklepu. Po zalogowaniu użytkownik ma
+możliwość wpisania imienia, nazwiska, adresu oraz numeru telefonu (na potrzeby
+ustalenia podstawowych danych niezbędnych do doręczenia zakupionych towarów).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+18.
+
+19.
+20.
+21.
+22.
+
+23.
+
+Strona 5 z 22
+
+Konto użytkownika istnieje w systemie Spółki do czasu wypowiedzenia umowy, tj.
+usunięcia konta przez użytkownika.
+Jak ustalono w toku kontroli, w 2016 r. zaktualizowana została obowiązująca w Spół‐
+ce dokumentacja dot. przetwarzania danych osobowych. W 2017 r. Spółka rozpo‐
+częła prace związane z rozpoczęciem stosowania przepisów rozporządzenia
+2016/679, w zakresie dostosowania strony internetowej, profilu użytkownika, new‐
+slettera, dostosowania dokumentów wewnątrz Spółki, obiegu dokumentów w Spół‐
+ce, środków zabezpieczenia fizycznego i technicznego. Jak wskazano w przyjętych
+podczas kontroli wyjaśnianiach, analiza ryzyka była robiona przez Spółkę doraźnie
+dla poszczególnych procesów, w sposób niesformalizowany.
+W toku kontroli pozyskano kopię dokumentacji wewnętrznej Spółki pt. „Raport po
+wykradzeniu bazy danych” (załącznik B10 do protokołu kontroli), (…).
+(…).
+Jak ustalono w toku kontroli, moduł obsługujący (…) nie zapisuje w bazie danych
+Spółki informacji wprowadzanych przez Klienta. (…)
+Zgodnie z przyjętymi w toku kontroli wyjaśnieniami, Spółka nigdy nie zbierała da‐
+nych w zakresie skanów dowodów tożsamości należących do klientów składających
+(…). Formularz zakupów ratalnych od około (…) października 2018 r. zawierał miej‐
+sce na wpisanie wyłącznie kwoty zobowiązań alimentacyjnych lub kwoty zobowią‐
+zań wynikających z innych orzeczeń sądowych. Spółka nie potwierdza, że takie
+dane były zapisane w bazie usuniętej w grudniu 2018 r.
+Pismem z dnia (…) lutego 2019 r. Spółka zwróciła się do Prezesa Urzędu Ochrony
+Danych Osobowych z wnioskiem o pilne rozpoznanie sprawy wskazując, że ze
+względu na medialny charakter sprawy oraz niepewność wobec sposobu zakończe‐
+nia sprawy przez Prezesa Urzędu Ochrony Danych Osobowych ewentualne długie
+rozpatrywanie sprawy może stanowić zagrożenie dla funkcjonowania Spółki. (…).
+
+W związku z powyższym dnia (…) czerwca 2019 r. pismem znak: ZSPR.
+421.2.2019/43412, Prezes Urzędu Ochrony Danych Osobowych wszczął z urzędu postę‐
+powanie administracyjne w zakresie stwierdzonych uchybień, w celu wyjaśnienia
+okoliczności sprawy.
+W odpowiedzi na zawiadomienie o wszczęciu postępowania administracyjnego, pełno‐
+mocnik Spółki (pełnomocnictwo w aktach sprawy), pismem z dnia (…) lipca 2019 r.,
+złożył wyjaśnienia, w których wskazał m.in., że:
+1. W ocenie Spółki, ustalenia dokonane w toku kontroli nie wskazują, na to, że Spółka
+w procesie przetwarzania danych osobowych naruszyła art. 5 ust. 1 lit. f, art. 24 ust.
+1, art. 25 ust. 1, art. 32 ust. 1 lit. b i d, art. 32 ust. 2 rozporządzenia 2016/679.
+2. Spółka w toku kontroli (zgodnie z żądaniem kontrolujących), przedstawiła treść klau‐
+zuli zgody legalizującej przetwarzanie danych z wniosków ratalnych, w związku z
+tym nie można uznać, że Spółka przetwarzała dane z wniosków ratalnych bez pod‐
+stawy prawnej a w konsekwencji nie jest prawidłowe stwierdzenie Prezesa Urzędu
+Ochrony Danych Osobowych, że w tym zakresie Spółka narusza art. 5 ust. 1 lit. a
+oraz art. 5 ust. 2 rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 6 z 22
+
+3.
+
+Spółka posiadała zabezpieczenia, techniczne oraz organizacyjne, adekwatne do zi‐
+dentyfikowanych zagrożeń, z uwzględnieniem warunków określonych w art. 24 oraz
+w art. 32 rozporządzenia 2016/679.
+4. Spółka na bieżąco dokonywała analizy ryzyka występujących zagrożeń i wdrażała
+nowe i aktualne metody zapewnienia bezpieczeństwa przetwarzanych danych, z
+uwzględnieniem warunków określonych w art. 24 oraz w art. 32 rozporządzenia
+2016/679.
+5. Spółka nie zgadza się z zarzutem, że nie dokonywała na bieżąco oceny oraz nie mo‐
+nitorowała potencjalnych zagrożeń dla praw i wolności osób, których dane przetwa‐
+rza, albowiem Spółka od wielu lat regularnie prowadzi badania, weryfikuje zagroże‐
+nia, wynajmuje firmy zewnętrzne w celu przeprowadzenia audytów bezpieczeństwa.
+Na tę okoliczność Spółka w toku kontroli przekazała szereg dowodów, (…)
+6. Spółka powołała się również na przedłożoną w toku kontroli listę zastosowanych
+środków bezpieczeństwa.
+7. W ocenie Spółki, pośrednim dowodem potwierdzającym fakt bieżącego monitorowa‐
+nia zagrożeń oraz wprowadzania adekwatnych środków bezpieczeństwa jest reakcja
+Spółki na podejrzenie wycieku danych, które miało miejsce w listopadzie 2018 r.
+Spółka zaktualizowała stanowisko w zakresie ryzyka i wdrożyła nowe zabezpieczenia
+(…) oraz wstrzymała proces zbierania danych z formularzy ratalnych. Działania te
+nie miały charakteru jednorazowego (spowodowanego incydentem w obszarze bez‐
+pieczeństwa). Stosowne działania Spółka podejmowała zawsze w sytuacji, gdy z re‐
+komendacji zespołu IT lub IOD wynikała konieczność aktualizacji, modernizacji lub
+rozbudowania zabezpieczeń przetwarzania danych osobowych.
+8. Potwierdzeniem monitorowania zabezpieczeń w Spółce są zlecenia, które
+sporządzane są w celu poprawy zabezpieczeń, (…).
+9. Spółka nie zgadza się również z zarzutem, że potencjalne zagrożenia nie są na bie‐
+żąco monitorowane. Takie twierdzenie nie znajduje potwierdzenia w żadnym dowo‐
+dzie zebranym w toku kontroli. Przeciwnie, w ocenie Spółki zgromadzony materiał
+wskazuje na to, że działania w powyższym zakresie były podejmowane. Prezes
+UODO nie określił w jakim konkretnie zakresie w jego ocenie Spółka uchybiła obo‐
+wiązkowi bieżącego monitorowania zagrożeń, co uniemożliwia precyzyjniejsze od‐
+niesienie się do formułowanego zarzutu oraz sformułowanie dodatkowych wniosków
+dowodowych.
+10. Rozporządzenie 2016/679 nakłada na administratorów obowiązek odpowiednich (do
+zagrożeń) zabezpieczeń, a nie zabezpieczeń skutecznych w każdych okoliczno‐
+ściach. Ryzyko związane z przetwarzaniem zawsze istnieje, niezależnie od zastoso‐
+wanych środków. Zadaniem administratora jest to by je minimalizować, stosując
+środki adekwatne, co Spółka czyniła i czyni.
+11. Wbrew twierdzeniom Prezesa UODO, dotyczącym doboru nieskutecznych środków
+na poziomie monitorowania ruchu sieciowego, Spółka monitoruje ruch sieciowy, o
+czym świadczą przyjęte techniczne środki bezpieczeństwa obejmujące
+monitorowanie ruchu sieciowego tj.; (…).
+12.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+13.
+
+14.
+
+15.
+
+16.
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+Strona 7 z 22
+
+Spółka zwraca również uwagę, że „Raport po wykradzeniu bazy danych” (załącznik
+B10 do protokołu kontroli) nie powstałby, gdyby Spółka nie monitorowała ruchu
+(por. tabela wskazująca poziom ruchu sieciowego).
+W ocenie Spółki brak jest podstaw do stwierdzenia, że Spółka na bieżąco nie badała
+poziomu bezpieczeństwa danych i nie dostosowywała go do zidentyfikowanych za‐
+grożeń.
+W ocenie Spółki zarzut braku oceny ryzyka uzyskania dostępu do (…) nie znajduje
+potwierdzenia w materiale dowodowym zebranym w toku kontroli. Z przeprowadzo‐
+nej przez Spółkę analizy ryzyka wynika, iż dostęp do (…) miały jedynie upoważnione
+osoby (pracownicy Spółki), którym nadano stosowne uprawnienia.
+Spółka zwraca również uwagę, że rozporządzenie 2016/679 nakazuje analizę i oce‐
+nę procesów przetwarzania danych osobowych, a nie poszczególnych systemów in‐
+formatycznych. Systemy IT (i ich zabezpieczenia) są jedynie stosowanymi środkami
+technicznymi, o których mowa np. w art. 24 ust. 1 rozporządzenia 2016/679 lub w
+art. 32 ust. 1 rozporządzenia 2016/679.
+Przeprowadzona analiza stanu faktycznego i ponowna ocena ryzyk spowodowały, że
+zarząd Spółki podjął decyzję o (…).
+Wobec tego, że Prezes UODO podsumowując zarzuty stwierdził, że wcześniejsze
+wdrożenie i wprowadzenie dodatkowych środków mogłoby znacznie zmniejszyć ry‐
+zyko uzyskania nieuprawnionego dostępu, Spółka zwraca uwagę, że teza ta nie zo‐
+stała wsparta żadnymi argumentami, jak również uzasadnieniem dlaczego mając na
+uwadze stosowane przez Spółkę zabezpieczenia były one nieodpowiednie.
+Według oceny Spółki, zastosowane techniczne i organizacyjne środki bezpieczeń‐
+stwa były odpowiednie do ryzyka związanego z przetwarzaniem danych osobowych,
+zgodnie z art. 24 ust. 1 i 32 ust. 1 rozporządzenia 2016/679. W materiale dowodo‐
+wym brak jest podstaw do stawiania przeciwnych tez. Spółka stoi na stanowisku, że
+stosowane techniczne i organizacyjne środki bezpieczeństwa były adekwatne do
+zagrożeń i spełniały warunki określone w przepisach.
+Odnosząc się do zarzutu Prezesa Urzędu Ochrony Danych Osobowych, że Spółka nie
+jest w stanie dokładnie wskazać daty uruchomienia funkcjonalności zapisywania da‐
+nych z wniosków ratalnych, Spółka wskazuje, że treść zgody znajduje się na pierw‐
+szej stronie załącznika A22 oraz załącznika A23 do protokołu kontroli. (…). W związ‐
+ku z tym zarzut Prezesa Urzędu Ochrony Danych Osobowych w powyższym zakresie
+jest błędny i nie ma oparcia w zgromadzonym materiale dowodowym.
+Materiał dowodowy, nie uzasadnia postawionego przez Prezesa Urzędu Ochrony Da‐
+nych Osobowych zarzutu, iż Spółka nie posiada udokumentowanej analizy procesu
+przetwarzania danych w zakresie funkcjonalności zapisywania danych z wniosków
+ratalnych. Z materiału dowodowego wynika, że Spółka na bieżąco weryfikowała,
+oceniała oraz monitorowała proces przetwarzania danych związany z wnioskami ra‐
+talnymi. Przykładem prowadzonej analizy jest (…) ustalający treść zgody, który
+został przygotowany w związku z bieżącą analizą procesu przetwarzania.
+Jako przykład analizy i stosowania odpowiednich (adekwatnych) środków technicz‐
+nych względem danych osobowych związanych z (…). Jedynie sam użytkownik
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+22.
+
+23.
+
+24.
+
+25.
+
+Strona 8 z 22
+
+(klient) sklepu miał możliwość wyświetlenia danych podczas kolejnego wypełniania
+formularza ratalnego (Privacy-by-Default).
+Spółka podniosła, że zgodnie z zasadą rozliczalności administrator ma obowiązek
+wykazać przestrzeganie rozporządzenia 2016/679, jednak może w tym celu posługi‐
+wać się dowolnymi środkami, w tym m.in. logami systemowymi, procedurami (nie‐
+zależnie od tego czy mają formę dokumentu czy też nie). W niniejszej sprawie
+przykładem zapewnienia rozliczalności jest (…).
+Odnosząc się do zarzutu Prezesa Urzędu Ochrony Danych Osobowych, że Spółka
+dane osobowe z wniosków ratalnych usunęła bez szczegółowej analizy, Spółka
+wskazuje, że rozporządzenie 2016/679, pozwala i nakazuje usuwanie danych w mo‐
+mencie, w którym administrator przestanie mieć cel przetwarzania. Spółka zakoń‐
+czyła proces przetwarzania danych, których przetwarzanie było oparte na zgodzie i
+nie miała innych celów przetwarzania, zatem dane zostały usunięte. Zamknięcie
+procesu było umotywowane przeprowadzoną analizą ryzyka, w związku z
+korespondencją prowadzoną z szantażystą.
+Odnosząc się do uwagi Prezesa Urzędu Ochrony Danych Osobowych, że Spółka nie
+udokumentowała usunięcia danych, Spółka wskazuje, że w związku z zamknięciem
+procesu przetwarzania danych, proces został usunięty z Rejestru Czynności Prze‐
+twarzania. Usunięcie bazy danych zostało również udokumentowane (…). Ponadto,
+Prezes Urzędu Ochrony Danych Osobowych nie wskazał przepisu, który Spółka
+miałaby naruszyć w związku z usunięciem bazy danych.
+W ocenie Spółki zebrany w sprawie materiał dowodowy nie uzasadnia twierdzenia
+Prezesa Urzędu Ochrony Danych Osobowych, że Spółka przetwarzała dane osobowe
+z wniosków ratalnych bez podstawy prawnej tj. bez zgody osoby, której dane doty‐
+czą, albowiem treść zbieranych zgód zawarta jest w załączniku A22 oraz załączniku
+A23 do protokołu kontroli.
+
+Ponadto, w piśmie stanowiącym odpowiedź na zawiadomienie o wszczęciu postępowania
+administracyjnego pełnomocnik Spółki zwrócił się do Prezesa Urzędu Ochrony Danych
+Osobowych o:
+1. dopuszczenie i przeprowadzenie dowodu z opinii biegłego w zakresie
+bezpieczeństwa systemów informatycznych w celu:
+a) ustalenia standardów technicznych i organizacyjnych środków bezpieczeństwa
+w działalności gospodarczej przedsiębiorców w obszarze e-commerce o skali i
+charakterze podobnym do skali i charakterze działalności Spółki w 2018 r.;
+b) oceny, czy środki techniczne i organizacyjne stosowane przez Spółkę odpowia‐
+dały standardom środków bezpieczeństwa w działalności gospodarczej przedsię‐
+biorców w obszarze e-commerce o skali i charakterze podobnym do skali i
+charakterze działalności Spółki w 2018 r.;
+c) oceny, czy środki techniczne i organizacyjne stosowane przez Spółkę były odpo‐
+wiednie uwzględniając stan wiedzy technicznej, koszt wdrażania oraz charakter,
+zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+2.
+
+Strona 9 z 22
+
+osób fizycznych o różnym prawdopodobieństwie wystąpienia i wadze zagroże‐
+nia;
+dołączenie do akt postępowania kopii dotychczasowej korespondencji prowadzonej
+pomiędzy UODO a Spółką (pismo Spółki z dnia (…) stycznia 2019 r., pismo Spółki z
+dnia (…) lutego 2019 r., jak również zgłoszeń naruszeń dokonanych przez Spółkę).
+
+Postanowieniem z dnia (…) sierpnia 2019 r. Prezes Urzędu Ochrony Danych Osobowych
+odmówił uwzględnienia wniosku Spółki o dopuszczenie i przeprowadzenie wniosku z
+opinii biegłego.
+W odpowiedzi na postanowienie z dnia (…) sierpnia 2019 r. oraz informację o zebraniu
+materiału dowodowego z dnia (…) sierpnia 2019 r. pełnomocnik Spółki podtrzymał do‐
+tychczasowe stanowisko Spółki oraz wniósł o umorzenie przedmiotowego postępowania
+administracyjnego. W szczególności Spółka podtrzymuje wyrażone wcześniej stanowi‐
+sko, że brak jest dowodów wskazujących na naruszenie przepisów ochrony danych oso‐
+bowych przez Spółkę, w szczególności w zakresie stosowania odpowiednich środków
+bezpieczeństwa oraz nie zgadza się z twierdzeniem Prezesa Urzędu Ochrony Danych za‐
+wartym w zawiadomieniu o wszczęciu postepowania z dnia (…) czerwca 2019 r. o
+naruszeniu przepisów rozporządzenia 2016/679.
+Po zapoznaniu się z całością materiału dowodowego zebranego w sprawie Prezes Urzędu
+Ochrony Danych Osobowych zważył, co następuje:
+1. Art. 5 rozporządzenia 2016/679, formułuje zasady dotyczące przetwarzania danych
+osobowych, które muszą być respektowane przez wszystkich administratorów, tj.
+podmioty, które samodzielnie lub wspólnie z innymi ustalają cele i sposoby przetwa‐
+rzania danych osobowych. Zgodnie z art. 5 ust. 1 lit. f rozporządzenia 2016/679
+dane osobowe muszą być przetwarzane w sposób zapewniający odpowiednie bez‐
+pieczeństwo danych osobowych, w tym ochronę przed niedozwolonym lub niezgod‐
+nym z prawem przetwarzaniem oraz przypadkową utratą, zniszczeniem lub uszko‐
+dzeniem, za pomocą odpowiednich środków technicznych lub organizacyjnych („po‐
+ufność i integralność”).
+Zgodnie z treścią art. 24 ust. 1 rozporządzenia 2016/679 uwzględniając charak‐
+ter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wol‐
+ności osób fizycznych o różnym prawdopodobieństwie i wadze, administrator
+wdraża odpowiednie środki techniczne i organizacyjne, aby przetwarzanie odby‐
+wało się zgodnie z niniejszym rozporządzeniem i aby móc to wykazać. Środki te
+są w razie potrzeby poddawane przeglądom i uaktualniane.
+Zgodnie z art. 25 ust. 1 zarówno przy określaniu sposobów przetwarzania, jak i
+w czasie samego przetwarzania administrator wdraża odpowiednie środki tech‐
+niczne i organizacyjne, zaprojektowane w celu skutecznej realizacji zasad
+ochrony danych (uwzględnianie ochrony danych w fazie projektowania).
+Stosownie do art. 32 ust. 1 lit. b rozporządzenia 2016/679, uwzględniając stan
+wiedzy technicznej, koszt wdrażania oraz charakter, zakres, kontekst i cele
+przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o róż‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 10 z 22
+
+nym prawdopodobieństwie wystąpienia i wadze, administrator i podmiot prze‐
+twarzający wdrażają odpowiednie środki techniczne i organizacyjne, aby zapew‐
+nić stopień bezpieczeństwa odpowiadający temu ryzyku, w tym między innymi
+w stosownym przypadku zdolność do ciągłego zapewnienia poufności, integral‐
+ności, dostępności i odporności systemów i usług przetwarzania oraz stosownie
+do art. 32 ust. 1 lit. d rozporządzenia 2016/679 regularne testowanie, mierzenie
+i ocenianie skuteczności środków technicznych i organizacyjnych mających
+zapewnić bezpieczeństwo przetwarzania.
+W myśl art. 32 ust. 2 rozporządzenia 2016/679, administrator oceniając, czy
+stopień bezpieczeństwa jest odpowiedni, uwzględnia w szczególności ryzyko
+wiążące się z przetwarzaniem, w szczególności wynikające z przypadkowego lub
+niezgodnego z prawem zniszczenia, utraty, modyfikacji, nieuprawnionego ujaw‐
+nienia lub nieuprawnionego dostępu do danych osobowych przesyłanych,
+przechowywanych lub w inny sposób przetwarzanych.
+Przepisy art. 24 ust. 1, art. 25 ust. 1, art. 32 ust. 1 lit b i d oraz art. 32 ust. 2 roz‐
+porządzenia 2016/679 stanowią więc konkretyzację wskazanej w art. 5 ust. 1 lit.
+f rozporządzenia 2016/679, zasady poufności. W związku z tym przedmiotową
+sprawę należy analizować pod kątem spełnienia przesłanek współwyznaczają‐
+cych poziom właściwych do zastosowania środków technicznych i organizacyj‐
+nych.
+Zasada poufności, której prawidłowa realizacja zapewnia, że dane nie są udo‐
+stępniane osobom nieupoważnionym, w stanie faktycznym przedmiotowej spra‐
+wy została naruszona w wyniku dwukrotnego uzyskania dostępu do (…). (…)
+oraz do danych wszystkich klientów z systemu bazodanowego Spółki skutkowa‐
+ło zmaterializowaniem się ryzyka naruszenia praw i wolności osób fizycznych,
+których dane przetwarzane są przez Spółkę, w postaci zastosowania metody
+zwanej phishingiem, mającej na celu wyłudzenie danych, m.in. uwierzytelniają‐
+cych do konta bankowego poprzez podszycie się pod Spółkę w wiadomościach
+SMS i wykorzystanie faktu dokonania zamówienia przez klienta.
+Przedmiotowe naruszenie poufności, w ocenie Prezesa Urzędu Ochrony Danych
+Osobowych, należy rozpatrywać z perspektywy dwóch zdarzeń: uzyskania nie‐
+uprawnionego dostępu do (…) oraz uzyskania danych wszystkich klientów z
+systemu bazodanowego Spółki.
+W stanie faktycznym przedmiotowej sprawy, w ocenie Prezesa Urzędu Ochrony
+Danych Osobowych, nieskuteczny środek uwierzytelniania przyczynił się do
+zdarzenia polegającego na uzyskaniu nieuprawnionego dostępu (…).
+Jak wskazuje Spółka w piśmie z (…) stycznia 2019 r., bezpośrednio po stwierdze‐
+niu naruszenia polegającego na uzyskaniu dostępu (…) przez osobę nieupraw‐
+nioną, podjęto prace nad wprowadzeniem dodatkowych środków zabezpieczenia
+technicznego m.in. w postaci (…).
+Prezes Urzędu Ochrony Danych Osobowych, w zawiadomieniu o wszczęciu po‐
+stępowania administracyjnego, wskazał, że Spółka nie wypełniła obowiązku wy‐
+nikającego z art. 32 ust. 1 i 2 rozporządzenia 2016/679 polegającego na dobo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 11 z 22
+
+rze skutecznych środków technicznych i organizacyjnych na poziomie kontroli
+dostępu i uwierzytelniania. W odpowiedzi Spółka wskazała, że jej pracownicy
+otrzymują stosowne uprawnienia i upoważnienia dostępu do poszczególnych
+systemów informatycznych i baz danych a dostęp ten nadzorowany jest przez
+zespół administratorów. Ponadto wskazała, że zespół IT Spółki, na bieżąco moni‐
+toruje funkcjonowanie (…) i dostosowuje rozwiązania do standardów rynkowych
+oraz zagrożeń a stosowane w Spółce (…) umożliwiały wykrywanie nietypowych
+zachowań.
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych z uwagi na (…). Jak wyni‐
+ka ze zgromadzonego w toku kontroli materiału, Spółka korzystała z zewnętrz‐
+nych audytorów bezpieczeństwa (Załącznik B11 i B12 do protokołu kontroli) i
+wdrażała ich rekomendacje w zakresie zidentyfikowanych podatności w kodzie
+oprogramowania, który służy do przetwarzania danych osobowych. W ocenie or‐
+ganu nadzorczego, w sposób niewystarczający oceniono zdolność do ciągłego
+zapewnienia poufności oraz nie uwzględniono ryzyka związanego z uzyskaniem
+nieuprawnionego dostępu (…). Jak wskazała Spółka w odpowiedzi na zawiado‐
+mienie o wszczęciu postępowania administracyjnego, „nie jest celem omawia‐
+nej regulacji wyeliminowanie ryzyka w pełni, czego uczynić się nie da a jedynie
+wdrożenie rozwiązań technicznych i organizacyjnych odpowiednich i proporcjo‐
+nalnych, przy uwzględnieniu ocenianych kryteriów” oraz, że rozporządzenie
+2016/679 „nakłada na administratorów obowiązek odpowiednich (do zagrożeń)
+zabezpieczeń, a nie zabezpieczeń skutecznych w każdych okolicznościach”.
+W tym miejscu wskazać należy, że kontrola dostępu i uwierzytelnianie to pod‐
+stawowe środki bezpieczeństwa mające na celu ochronę przed nieautoryzowa‐
+nym dostępem do systemu informatycznego wykorzystywanego do przetwarza‐
+nia danych osobowych. Zapewnienie dostępu uprawnionym użytkownikom i za‐
+pobieganie nieuprawnionemu dostępowi do systemów i usług to jeden z wzorco‐
+wych elementów bezpieczeństwa, na którą wskazuje m.in. norma PN-EN ISO/IEC
+27001:2017-06. Jak wynika z art. 32 ust. 1 rozporządzenia 2016/679, jednym z
+czynników jakie należy brać pod uwagę przy doborze właściwych środków tech‐
+nicznych i organizacyjnych, jest stan wiedzy technicznej, który powinno się oce‐
+niać z uwzględnieniem warunków rynkowych, w szczególności dostępności i ak‐
+ceptowalności rynkowej danego rozwiązania technicznego. Wskazówek konkre‐
+tyzujących w tym przedmiocie dostarczają obowiązujące standardy i normy, w
+szczególności normy ISO, które ulegają również ciągłym przeglądom i zmianom
+warunkowanym postępem technologicznym.
+Europejska Agencja ds. Bezpieczeństwa Sieci i Informacji (ENISA) w swoich wy‐
+tycznych dotyczących bezpieczeństwa przetwarzania danych osobowych
+wydanych w 2016 r.[1] z uwzględnieniem ww. normy (w wersji z 2013 r.) oraz
+przepisów rozporządzenia 2016/679, w ramach kontroli dostępu i uwierzytelnia‐
+nia rekomenduje stosowanie mechanizmu uwierzytelnia dwuetapowego dla
+systemów obejmujących dostęp do danych osobowych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 12 z 22
+
+Zgodnie z podejściem opartym na ryzyku, wynikającym m.in. z art. 25 ust. 1
+rozporządzenia 2016/679, wybór odpowiedniego środka uwierzytelniania powi‐
+nien opierać się na ocenie ryzyka realizowanej za jej pomocą transakcji lub
+usługi. Norma PN-ISO/IEC 29115:2017-07 („Technika informatyczna -- Techniki
+bezpieczeństwa -- Ramy uzasadnionej pewności poziomów uwierzytelnienia”),
+podobnie jak motywy 75 czy 85 rozporządzenia 2016/679 wskazuje możliwe
+konsekwencje i skutki niepowodzenia uwierzytelnienia w zależności od zastoso‐
+wanego poziomu m.in. nieuprawnione ujawnienie poufnych informacji czy strata
+finansowa.
+Na zasadność stosowania prawidłowo dobranych środków technicznych w zakre‐
+sie kontroli dostępu i uwierzytelniania wskazują również inne organizacje
+zajmujące się bezpieczeństwem informacji.
+Fundacja OWASP, międzynarodowa organizacja non-profit, której celem jest
+opracowywanie i szerzenie dobrych praktyk kierowanych do twórców
+oprogramowania, w swoim dokumencie „OWASP Top 10 – 2017”[2], przedstawia
+listę największych zagrożeń dla aplikacji internetowych wraz z metodami zapo‐
+biegania im. Jednym z nich jest przełamanie środka uwierzytelniającego (najczę‐
+ściej jednoetapowego). Jako środek zapobiegawczy rekomendowane jest stoso‐
+wanie wieloetapowego uwierzytelniania jako sposób na znaczne zminimalizowa‐
+nie ryzyka przełamania zabezpieczeń.
+Również ten dokument, jak i przytoczona wyżej norma odwołują się do opraco‐
+wania amerykańskiej agencji federalnej - Narodowego Instytutu Standaryzacji i
+Technologii (ang. National Institute of Standards and Technology, NIST)
+dokumentu – „NIST 800-63B: Wytyczne dotyczące tożsamości cyfrowej: uwie‐
+rzytelnianie i zarządzanie cyklem życia aplikacji” (ang. Digital Identity Guideli‐
+nes: Authentication and Lifecycle Management)[3].
+Zarówno norma PN-ISO/IEC 29115:2017 07, dokument NIST 800-63B oraz opra‐
+cowania organizacji OWASP wskazują, że dobór właściwego środka uwierzytel‐
+niającego powinien być poprzedzony analizą ryzyka i być poddawany ciągłym
+przeglądom.
+Ryzyko, w stanie faktycznym przedmiotowej sprawy, dotyczyło zagrożenia pole‐
+gającego na zastosowaniu metody zwanej phishingiem, mającej na celu wyłu‐
+dzenie danych, m.in. uwierzytelniających do konta bankowego poprzez podszy‐
+cie się pod Spółkę w wiadomościach SMS i wykorzystanie faktu dokonania za‐
+mówienia przez klienta. Jak wskazuje się w literaturze, wśród ataków phishingo‐
+wych można wyróżnić ataki ukierunkowane na konkretne grupy osób (tzw. spe‐
+arphishing) a osoba atakując poświęca czas na uzyskanie informacji o celu i
+utworzenie wiadomości spersonalizowanej, związanej z sytuacją danej osoby (w
+przedmiotowej sprawie – osoby, która dokonywała transakcji zakupowej) co
+sprawia, że wiadomości tego typu (w przedmiotowej sprawie - sms wzywający
+do dokonania dodatkowej opłaty w wysokości 1 PLN, w celu dokończenia realiza‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 13 z 22
+
+cji zamówienia wraz z linkiem odsyłającym do fałszywej bramki płatności elek‐
+tronicznej DotPay) mogą być trudne do wykrycia i obrony.
+Jak wynika z raportów rocznych dotyczących działalności CERT Polska za 2016,
+2017 i 2018 rok, phishing to jeden z najczęściej występujących typów incyden‐
+tów i najbardziej wyróżniająca się kategoria na tle pozostałych ataków a odse‐
+tek tego typu incydentów utrzymuje się wciąż na podobnym poziomie (w 2018
+r. ok 44 proc.). Jak wskazuje CERT Polska najbardziej powszechnym motywem
+przestępców jest chęć pozyskania danych uwierzytelniających do różnych serwi‐
+sów internetowych w tym banków. Ponadto scenariusze dotyczące podszywania
+się pod pośredników płatności, co miało miejsce w stanie faktycznym przedmio‐
+towej sprawy, stały się w 2018 r. najpopularniejszym atakiem na użytkowników
+bankowości elektronicznej, powodując znaczne straty finansowe. CERT Polska
+wskazuje, że pierwsze tego typu praktyki miały miejsce już w 2017 r. co
+potwierdzają również doniesienia prasowe.
+W stanie faktycznym przedmiotowej sprawy, w ocenie Prezesa Urzędu Ochrony
+Danych Osobowych, nieskuteczne monitorowanie potencjalnych zagrożeń dla
+praw i wolności, których dane są przetwarzane przez Spółkę, przyczyniło się do
+zdarzenia polegającego na uzyskaniu nieuprawnionego dostępu do danych
+klientów z systemu bazodanowego Spółki.
+Jak wskazuje Spółka w piśmie z (…) lipca 2019 r., wskazanie przez Prezesa Urzę‐
+du Ochrony Danych Osobowych w zawiadomieniu o wszczęciu postępowania
+administracyjnego, że potencjalne zagrożenia nie są na bieżąco monitorowane
+„nie znajduje (…) potwierdzenia w żadnym dowodzie zebranym w trakcie
+przeprowadzonej kontroli”. Ponadto Spółka wskazała, że „wbrew twierdzeniom
+Prezesa UODO dotyczącym doboru nieskutecznych środków”, monitoruje ruch
+sieciowy i wskazała na przyjęte techniczne środki bezpieczeństwa w tym
+zakresie m.in. (…).
+W ocenie Prezesa Urzędu Ochrony Danych mimo zastosowania takiego rozwią‐
+zania Spółka nie była w stanie zareagować na nietypowe zdarzenie w systemie
+monitorującym polegającym zwiększonym przesyle danych. W dokumencie „Ra‐
+port po wykradzeniu bazy danych” (załącznik B10 do protokołu kontroli)
+wskazano, że w (…).
+Przedstawiony stan faktyczny wskazuje, ze Spółka, od października 2018 r. do
+stycznia 2019 r. nie posiadała wiedzy na temat przyczyn zwiększonego przesyłu
+danych. (…). W ocenie Prezesa Urzędu Ochrony Danych Osobowych, przyjęte
+przez Spółkę środki mogłyby być skuteczne gdyby były odpowiednio dostosowa‐
+ne oraz wdrożono procedurę reagowania na zdarzenia niepożądane takie jak
+nietypowy ruch sieciowy. Agencja ENISA, w wytycznych dotyczących bezpie‐
+czeństwa przetwarzania danych osobowych również wskazuje, że monitorowa‐
+nie zdarzeń w systemach informatycznych jest istotnym elementem umożliwia‐
+jącym identyfikację potencjalnych wewnętrznych lub zewnętrznych zagrożeń.
+Zadanie to powinno być realizowane w postaci odpowiednich wdrożonych
+procedur i systemu powiadamiania o zdarzeniach niepożądanych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 14 z 22
+
+Jak podkreśla się w motywie 76 rozporządzenia 2016/679 (motywy zawierają
+uzasadnienie przepisów części normatywnej (artykułów) aktu jakim jest rozpo‐
+rządzenie), ryzyko należy szacować na podstawie obiektywnej oceny, w ramach
+której stwierdza się, czy z operacjami przetwarzania danych wiąże się ryzyko
+lub wysokie ryzyko. Równocześnie należy uwzględniać przyczyny wystąpienia
+ryzyka związane z charakterem danych, zakresem ich przetwarzania, kontek‐
+stem i celami, jak również innymi elementami wskazanymi w motywie 75 rozpo‐
+rządzenia 2016/679, biorąc przy tym pod uwagę art. 32 rozporządzenia
+2016/679, w tym – szczególnie – relację tych przyczyn do bezpieczeństwa da‐
+nych i skutków niezapewnienia tego bezpieczeństwa (art. 32 ust. 2).
+Zgodnie z art. 32 ust. 2 i uwzględniając motyw 83 rozporządzenia 2016/679
+oceniając, czy stopień bezpieczeństwa jest odpowiedni, uwzględnia się w szcze‐
+gólności ryzyko wiążące się z przetwarzaniem (w szczególności wynikające z
+przypadkowego lub niezgodnego z prawem zniszczenia, utraty, modyfikacji, nie‐
+uprawnionego ujawnienia lub nieuprawnionego dostępu do danych osobowych
+przesyłanych, przechowywanych lub w inny sposób przetwarzanych) i mogące
+w szczególności prowadzić do uszczerbku fizycznego, szkód majątkowych lub
+niemajątkowych (motyw 83).
+W stanie faktycznym przedmiotowej sprawy, Spółka przetwarzając dane osobo‐
+we ponad 2 200 000 użytkowników, co należy uznać za przetwarzanie danych
+osobowych na dużą skalę oraz biorąc pod uwagę zakres danych i kontekst prze‐
+twarzania miała obowiązek skuteczniej na bieżąco oceniać i monitorować poten‐
+cjalne zagrożenia dla praw i wolności osób, których dane przetwarza.
+Regularne testowanie, mierzenie i ocenianie skuteczności środków technicznych
+i organizacyjnych mających zapewnić bezpieczeństwo przetwarzania jest obo‐
+wiązkiem każdego administratora oraz podmiotu przetwarzającego wynikają‐
+cym z art. 32 ust 1 lit. d rozporządzenia 2016/679. Administrator zobowiązany
+jest więc do weryfikacji zarówno doboru jak i poziomu skuteczności stosowa‐
+nych środków technicznych. Kompleksowość tej weryfikacji powinna być ocenia‐
+na przez pryzmat adekwatności do ryzyk oraz proporcjonalności w stosunku do
+stanu wiedzy technicznej, kosztów wdrażania oraz charakteru, zakresu,
+kontekstu i celów przetwarzania.
+W stanie faktycznym przedmiotowej sprawy Spółka wywiązywała się z tego obo‐
+wiązku częściowo weryfikując wyłącznie poziom skuteczności wdrożonych za‐
+bezpieczeń pod kątem znanych podatności we wdrożonym oprogramowaniu na co wskazują audyty bezpieczeństwa funkcjonujących już systemów informa‐
+tycznych służących do przetwarzania danych klientów Spółki (…). W ocenie Pre‐
+zesa Urzędu Ochrony Danych Osobowych Spółka tym samym nie podejmowała
+działań mających na celu ocenę doboru środków technicznych i organizacyjnych
+przez pryzmat adekwatności do ryzyk. Dokonywanie przeglądów i aktualizacja
+wdrożonych rozwiązań są także wymogiem sformułowanym wprost w art. 24
+ust. 1 zd. 2 rozporządzenia 2016/679, a także wynikającym z art. 25 ust. 1 roz‐
+porządzenia 2016/679, kreującego obowiązek zapewnienia prywatności w fazie
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+2.
+
+Strona 15 z 22
+
+projektowania (privacy by design) i nakładającego na administratora zobowiąza‐
+nie do wdrożenia odpowiednich środków technicznych zarówno w fazie określa‐
+nia sposobów przetwarzania, jak i w fazie samego przetwarzania. Uwzględniając
+przy tym charakter, zakres, kontekst i cel przetwarzania danych oraz wynikają‐
+ce z nich ryzyka dla praw i wolności osób fizycznych administrator ma obowią‐
+zek wdrażania odpowiednich środków technicznych i organizacyjnych.
+Wskazać należy, że wcześniejsze zastosowanie wdrożonego (…) grudnia 2018 r.
+(…) oraz wdrożona (…) znacząco obniżyłoby ryzyko uzyskania nieuprawnionego
+dostępu przez osobę nieupoważnioną, a tym samym zminimalizowałoby ryzyko
+naruszenia praw lub wolności osób fizycznych, których dane są przez Spółkę
+przetwarzane, czyli udostępnieniu danych nieuprawnionym odbiorcom.
+Reasumując, w ocenie Prezesa Urzędu Ochrony Danych Osobowych Spółka za‐
+stosowała środki techniczne i organizacyjne, które przyczyniły się w ograniczo‐
+nym stopniu do wypełnienia wymogów z art. 32 rozporządzenia 2016/679, gdyż
+przewidywalne ryzyka nie zostały odpowiednio zminimalizowane i ograniczone
+w czasie przetwarzania.
+Wymóg z art. 5 ust. 1 lit. a rozporządzenia 2016/679 nakłada na administratora obo‐
+wiązek przetwarzania danych zgodnie z prawem, rzetelnie i w sposób przejrzysty
+dla osoby, której dotyczą. Wymóg zapewnienia zgodności z prawem operacji prze‐
+twarzania danych oznacza m.in. konieczność spełnienia co najmniej jednej z przesła‐
+nek legalności przetwarzania danych, które zostały określone w art. 6 rozporządze‐
+nia 2016/679 oraz konieczność zapewnienia zgodności z pozostałymi przepisami o
+ochronie danych osobowych.
+Zgodnie z art. 6 ust. 1 lit. a rozporządzenia 2016/679 przetwarzanie jest zgodne
+z prawem w przypadku, gdy osoba, której dane dotyczą wyraziła zgodę na prze‐
+twarzanie swoich danych osobowych w jednym lub większej liczbie określonych
+celów. Jak wynika z art. 4 pkt 11 rozporządzenia 2016/679, zgoda osoby, której
+dane dotyczą oznacza dobrowolne, konkretne, świadome i jednoznaczne okaza‐
+nie woli, którym osoba, której dane dotyczą, w formie oświadczenia lub wyraź‐
+nego działania potwierdzającego, przyzwala na przetwarzanie dotyczących jej
+danych osobowych.
+Natomiast z treści art. 7 ust. 1 rozporządzenia 2016/679 w przypadku, gdy prze‐
+twarzanie odbywa się na podstawie zgody, administrator musi być w stanie wy‐
+kazać, że osoba, której dane dotyczą, wyraziła zgodę na przetwarzanie swoich
+danych osobowych. Administrator powinien wdrożyć środki organizacyjne lub
+techniczne umożliwiające udowodnienie otrzymania zgody podmiotu danych, w
+szczególności w sposób pozwalający na utrwalenie faktu otrzymania zgody.
+Za prawidłowe dla celów dowodowych, związanych ze spoczywającym na admi‐
+nistratorze w myśl art. 7 ust. 1 rozporządzenia 2016/679 ciężarem dowodu,
+uznaje się zbieranie i utrwalanie informacji na temat tego, kto udzielił zgody i
+jaką miała ona treść, kiedy została ona udzielona, jakie informacje otrzymał
+podmiot danych przy składaniu oświadczenia o wyrażeniu zgody, jakie informa‐
+cje zostały udzielone o sposobie wyrażenia zgody, oraz czy zgoda została wyco‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 16 z 22
+
+fana i jeśli tak, to kiedy. Posiadanie przez administratora ww. informacji, na te‐
+mat zgody wyrażonej przez osobę, której dane dotyczą stanowi uszczegółowie‐
+nie ogólnej zasady rozliczalności sformułowanej w art. 5 ust. 2 rozporządzenia
+2016/679. W przypadku gdy administrator nie jest w stanie wykazać, że i jaką
+zgodę na przetwarzanie danych wyraziła osoba, której dane dotyczą, zgoda ta
+może być kwestionowana.
+Jak ustalono w toku kontroli, Spółka pozyskiwała dane z wniosków ratalnych co
+miało ułatwić klientom występowanie z kolejnymi wnioskami o zakupy ratalne
+(autouzupełnianie formularza ratalnego). Jak wskazano w wyjaśnieniach, dane
+te nie były wykorzystywane przez Spółkę w żadnym innym własnym celu. Spół‐
+ka nie jest w stanie dokładnie wskazać daty uruchomienia funkcjonalności zapi‐
+sywania danych z wniosków ratalnych (prawdopodobnie w roku 2016) oraz nie
+posiada w tym zakresie udokumentowanej analizy procesu przetwarzania da‐
+nych. Z materiału dowodowego wynika, że około (…) grudnia 2018 r. Spółka, na
+ustne polecenie (…), usunęła bazę danych zawierającą dane klientów z tzw.
+„wniosków ratalnych”. Nie przeprowadzono w tym zakresie szczegółowej analizy
+oraz nie udokumentowano usunięcia danych.
+Odnosząc się do wyjaśnień dotyczących naruszenia zasady zgodności z pra‐
+wem, rzetelności i rozliczalności przy przetwarzaniu danych osobowych pocho‐
+dzących z wniosków ratalnych, trzeba stanowczo podkreślić, że Spółka nie była
+w stanie wykazać od kiedy zbierała dane osobowe w celu ułatwienia wypełnia‐
+nia przyszłych wniosków (…) i w tym zakresie nie przedstawiła oświadczeń o
+wyrażeniu zgody na takie przetwarzanie. W wydruku (…)znajduje się wyłącznie
+wskazanie, że dopiero w związku z nowelizacją przepisów o ochronie danych
+osobowych („w związku z RODO”) należy dodać dwie zgody na stronie (…).
+Z uwagi na to, że zgody były pozyskiwane po rozpoczęciu obowiązywania rozpo‐
+rządzenia 2016/679, a sam proces trwał od 2016 r. (wyjaśnienia Spółki), należy
+założyć, że w usuniętej bazie danych znajdowały się dane zebrane bez
+podstawy prawnej. (…).
+W toku kontroli Spółka nie przedstawiła klauzul czy wzorów stosowanych zgód
+zbieranych przed rozpoczęciem stosowania rozporządzenia 2016/679, wobec
+powyższego należy stwierdzić, że administrator nie wykazał, że pozyskał odpo‐
+wiednie zgody od osób, których dane zebrał w okresie od roku 2016 (jak wska‐
+zano w wyjaśnieniach - okres, od którego Spółka zaczęła pozyskiwać dane z
+wniosków ratalnych) do maja 2018 r. na przetwarzanie danych z wniosków ratal‐
+nych.
+Z tych względów wyjaśnienia Spółki dotyczące zakończonego procesu przetwa‐
+rzania danych wobec braku innych dowodów, nie są wystarczające aby uznać,
+że samo przetwarzanie odbywało się zgodnie z przepisami prawa, w tym na
+podstawie prawidłowo sformułowanej przesłanki zgody.
+Takie podejście Spółki do procesu przetwarzania danych, pomimo, że sam pro‐
+ces uważany jest za zamknięty (dane zostały usunięte), godzi w podstawowe
+zasady przetwarzania danych w tym zasadę legalności i rzetelności wskazane w
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 17 z 22
+
+art. 5 ust 1 lit. a rozporządzenia 2016/679, bowiem administrator musi zawsze
+być w stanie wykazać, że dane osobowe są przetwarzane zgodnie z prawem.
+Natomiast zasada rozliczalności (art. 5 ust. 2 rozporządzenia 2016/67), wymaga
+aby administrator był w stanie wykazać, że przestrzega swoich obowiązków wy‐
+nikających z przepisów o ochronie danych osobowych. Wymogi te dotyczą
+wszystkich etapów przetwarzania danych, co odnosi się także do sytuacji gdy
+występują naruszenia ochrony danych lub w przetwarzaniu zachodzą istotne
+zmiany. Natomiast rozliczalność ma zastosowanie nie tylko w chwili zbierania
+danych osobowych, ale przez cały czas przetwarzania, bez względu na przeka‐
+zywane informacje lub sposób komunikacji. Spółka wysłała do klientów zawiado‐
+mienie o nieuprawnionym dostępie do bazy danych klientów, w którym poinfor‐
+mowała, że nieuprawniony dostęp nie dotyczył informacji podawanych we wnio‐
+skach ratalnych ponieważ nie gromadzi takich danych, co mogło wprowadzić
+klientów w błąd. Z tych też powodów decyzja administratora o usunięciu da‐
+nych, która nie została poprzedzona utrwaloną analizą świadczy o nierespekto‐
+waniu podstawowych zasad ochrony danych osobowych, o których mowa powy‐
+żej.
+Mając na uwadze powyższe ustalenia, Prezes Urzędu Ochrony Danych Osobowych, ko‐
+rzystając z przysługującego mu uprawnienia określonego w art. 58 ust. 2 lit. i rozporzą‐
+dzenia 2016/679, zgodnie z którym każdemu organowi nadzorczemu przysługuje upraw‐
+nienie do zastosowania, oprócz lub zamiast innych środków naprawczych przewidzia‐
+nych w art. 58 ust. 2 lit. a-h oraz lit. j tego rozporządzenia, administracyjnej kary pienięż‐
+nej na mocy art. 83 rozporządzenia 2016/679, mając na względzie okoliczności ustalone
+w przedmiotowym postepowaniu stwierdził, iż w rozpatrywanej sprawie zaistniały prze‐
+słanki uzasadniające nałożenie na Spółkę administracyjnej kary pieniężnej.
+Decydując o nałożeniu na Spółkę administracyjnej kary pieniężnej Prezes Urzędu Ochro‐
+ny Danych Osobowych – stosownie do treści art. 83 ust. 2 lit. a-k rozporządzenia
+2016/679 – wziął pod uwagę następujące okoliczności sprawy, wpływające obciążająco i
+mające wpływ na wymiar nałożonej kary finansowej:
+a) Spółka nie dopełniła obowiązku zastosowania odpowiednich środków technicznych i
+organizacyjnych, by zapewnić stopień bezpieczeństwa odpowiadający ryzyku nie‐
+uprawnionego dostępu do danych osobowych jej klientów, co skutkowało dwukrot‐
+nym uzyskaniem dostępu do (…) przez osobę bądź osoby nieuprawnione, a w kon‐
+sekwencji również i dostępu do bazy danych wszystkich klientów Spółki w łącznej
+liczbie około 2 200 000 (około dwóch milionów dwustu tysięcy) osób; tym samym,
+poprzedzające wystąpienie naruszenia działania Spółki zmierzające do zapewnienia
+bezpieczeństwa przetwarzania danych należy uznać za nieskuteczne, albowiem nie
+przyczyniły się one do wyeliminowania ryzyka zaistnienia szkód;
+b) stwierdzone w niniejszej sprawie naruszenie art. 5 ust. 1 lit. f w zw. z art. 32 ust. 1
+lit. b i d w zw. z art. 32 ust. 2 rozporządzenia 2016/679 polegające na uzyskaniu nie‐
+uprawnionego dostępu do panelu pracownika Spółki przez osobę bądź osoby nie‐
+uprawnione, a w konsekwencji również i dostępu do bazy danych klientów Spółki,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+c)
+
+d)
+
+Strona 18 z 22
+
+ma znaczną wagę i poważny charakter, stwarza bowiem wysokie ryzyko negatyw‐
+nych skutków prawnych dla około 2 200 000 (około dwóch milionów dwustu tysięcy)
+osób, do których danych dostęp miała osoba bądź osoby nieuprawnione; co istotne,
+wobec dwukrotnego naruszenia poufności systemu informatycznego Spółki, wobec
+600 (sześciuset) osób ryzyko to jest proporcjonalnie większe; naruszenie przez Spół‐
+kę obowiązków zastosowania środków zapewniających bezpieczeństwo przetwarza‐
+nych danych, przed ich udostępnieniem osobom nieupoważnionym, pociąga za sobą
+potencjalną, ale realną możliwość wykorzystania tych danych przez podmioty trze‐
+cie bez wiedzy i wbrew woli osób, których dane dotyczą, niezgodnie z przepisami
+rozporządzenia 2016/679, np. w celu zawarcia stosunków prawnych lub zaciągnięcia
+zobowiązań w imieniu osób, których dane ujawniono; znaczący wpływ na wagę na‐
+ruszenia ma również okoliczność, że na Spółce, przetwarzającej dane osobowe w
+sposób profesjonalny, w ramach jej działalności, ciąży większa odpowiedzialność i
+większe wymagania niż na podmiocie przetwarzającym dane osobowe w ramach
+działalności ubocznej, incydentalnie lub na niewielką skalę; prowadząc działalność
+komercyjną, a przy tym gromadząc dane za pośrednictwem sieci Internet, Spółka
+jako administrator tych danych powinna podjąć wszelkie niezbędne działania i do‐
+chować należytej staranności w doborze środków technicznych i organizacyjnych,
+zapewniających bezpieczeństwo i poufność danych; poczynione przez Prezesa Urzę‐
+du Ochrony Danych Osobowych ustalenia faktyczne dowodzą, iż Spółka w chwili
+wystąpienia stwierdzonych naruszeń zadaniu temu nie sprostała;
+naruszenie art. 5 ust. 1 lit. f, art. 32 ust. 1 lit. b i d oraz art. 32 ust. 2 rozporządzenia
+2016/679, powstało na skutek niedochowania należytej staranności przez Spółkę i
+niewątpliwie miało charakter nieumyślny, niemniej jednak Spółka jako administrator
+ponosi odpowiedzialność za stwierdzone nieprawidłowości w procesie przetwarzania
+danych; na szczególnie naganną ocenę zasługuje przy tym okoliczność, iż Spółka,
+pomimo deklaracji monitorowania systemu sieciowego i reagowania w systemie
+24/7 (dwadzieścia cztery godziny, siedem dni w tygodniu), nie stwierdziła w czasie
+rzeczywistym, tj. w dniach 07.10.2018 - 14.10.2018 r., zwiększonego ruchu na bra‐
+mie sieciowej serwera i nie podjęła w tym czasie żadnych działań zaradczych, celem
+uniemożliwienia dostępu do danych około 2.200.000 (ok. dwóch milinów dwustu ty‐
+sięcy) osób fizycznych, będących klientami Spółki. W tym stanie rzeczy, zaniedbanie
+Spółki należy uznać za rażące;
+naruszenie polegające na niezapewnieniu bezpieczeństwa i poufności danych trwało
+co najmniej od dnia (…) listopada 2018 r. (kiedy to klienci Spółki poinformowali o
+otrzymywaniu widomości sms wzywających do dokonania dodatkowej opłaty w wy‐
+sokości 1 PLN, w celu dokończenia realizacji zamówienia wraz z linkiem odsyłającym
+do fałszywej bramki płatności elektronicznej DotPay) do dnia (…) grudnia 2018 r. (tj.
+wprowadzenia przez Spółkę dodatkowych zabezpieczeń technicznych) – co należy
+uznać za stosunkowo krótki okres; jednakże, okoliczność ta nie może wpływać łago‐
+dząco na rozstrzygnięcie organu nadzorczego, naruszenie to dotyczyło bowiem
+znacznej liczby osób fizycznych; wyciek danych 2.200.000 (ok. dwóch milinów dwu‐
+stu tysięcy) osób – nawet jeśli jest zdarzeniem krótkotrwałym czy jednorazowym –
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 19 z 22
+
+winien być oceniany surowo, ze względu na charakter i duża wagę oraz zakres, a
+także z uwagi na jego możliwe długofalowe następstwa dla podmiotów danych.
+Ustalając wysokość administracyjnej kary pieniężnej, Prezes Urzędu Ochrony Danych
+Osobowych uwzględnił również okoliczności łagodzące, mające wpływ na ostateczny
+wymiar kary, tj.:
+a) podjęcie przez Spółkę wszelkich możliwych działań, mających na celu usunięcie na‐
+ruszenia; jak bowiem ustalono w toku postępowania, następczo w stosunku do
+zgłoszonych naruszeń, wprowadzono w Spółce m.in. (…);
+b) dobrą współpracę ze strony Spółki, która zarówno w toku przeprowadzonej kontroli,
+jak i w trakcie trwania niniejszego postępowania współpracowała z Prezesem Urzędu
+Ochrony Danych Osobowych w celu usunięcia naruszenia oraz złagodzenia jego
+ewentualnych negatywnych skutków; w wyznaczonym terminie Spółka przesłała wy‐
+jaśnienia i udzieliła odpowiedzi na wystąpienie Prezesa Urzędu Ochrony Danych
+Osobowych, zatem stopień tej współpracy należy ocenić jako pełny;
+c) brak dowodów, aby osoby, których dane dotyczą, doznały szkody majątkowej, nie‐
+mniej już samo naruszenie poufności danych stanowi szkodę niemajątkową (krzyw‐
+dę); osoby fizyczne, do których danych dostęp uzyskano w sposób nieuprawniony
+mogą bowiem co najmniej odczuwać strach przed utratą kontroli nad swoimi danymi
+osobowymi, kradzieżą tożsamości lub oszustwem dotyczącym tożsamości, czy
+wreszcie przed stratą finansową;
+d) nie zostało stwierdzone, żeby Spółka uprzednio dopuściła się naruszenia przepisów
+rozporządzenia 2016/679, które miałoby istotne znaczenie dla niniejszego postepo‐
+wania.
+Żadnego wpływu na fakt nałożenia, jak i sam wymiar administracyjnej kary pieniężnej
+nie miały okoliczności, iż:
+a) Spółka nie stosuje zatwierdzonych kodeksów postępowania na mocy art. 40 rozpo‐
+rządzenia 2016/679 lub zatwierdzonych mechanizmów certyfikacji na mocy art. 42
+rozporządzenia 2016/679,
+b) w tej samej sprawie nie zostały wcześniej zastosowane wobec Spółki środki, o
+których mowa w art. 58 ust. 2 rozporządzenia 2016/679,
+c) brak jest dowodów wskazujących na uzyskanie przez Spółkę korzyści finansowych,
+jak i powodujących uniknięcie strat w związku z naruszeniem.
+Uwzględniając wszystkie omówione wyżej okoliczności, Prezes Urzędu Ochrony Danych
+Osobowych uznał, iż nałożenie administracyjnej kary pieniężnej na Spółkę jest konieczne
+i uzasadnione wagą oraz charakterem i zakresem zarzucanych Spółce naruszeń. Stwier‐
+dzić należy, iż zastosowanie wobec Spółki jakiegokolwiek innego środka naprawczego
+przewidzianego w art. 58 ust. 2 rozporządzenia 2016/679, w szczególności zaś poprze‐
+stanie na upomnieniu (art. 58 ust. 2 lit b), nie byłoby proporcjonalne do stwierdzonych
+nieprawidłowości w procesie przetwarzania danych osobowych oraz nie gwarantowałoby
+tego, że Spółka w przyszłości nie dopuści się podobnych, co w sprawie niniejszej zanie‐
+dbań.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 20 z 22
+
+Odnosząc się do wysokości wymierzonej Spółce administracyjnej kary pieniężnej, Prezes
+Urzędu Ochrony Danych Osobowych uznał, iż w ustalonych okolicznościach niniejszej
+sprawy – tj. wobec stwierdzenia naruszenia zasady poufności danych, wyrażonej w art. 5
+ust. 1 lit. f rozporządzenia 2016/679 (a odzwierciedlonej w postaci obowiązków określo‐
+nych w art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 lit. b i d, art. 32 ust. 2 rozporządze‐
+nia 2016/679), a nadto naruszenia zasad legalności, rzetelności i przejrzystości, wyrażo‐
+nych w art. 5 ust. 1 lit. a rozporządzenia 2016/679 oraz zasady rozliczalności, wyrażonej
+w art. 5 ust. 2 (uszczegółowionych w art. 6 oraz 7 rozporządzenia 2016/679) – zastoso‐
+wanie znajdzie art. 83 ust. 5 lit. a rozporządzenia 2016/679, zgodnie z którym narusze‐
+nia podstawowych zasad przetwarzania, w tym warunków zgody, o których to zasadach i
+warunkach mowa m.in. w art. 5, 6, 7 tego rozporządzenia, podlegają administracyjnej
+karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w
+wysokości do 4 % jego całkowitego rocznego światowego obrotu z poprzedniego roku
+obrotowego, przy czym zastosowanie ma kwota wyższa.
+Jednocześnie, wobec stwierdzenia przez Spółkę naruszenia w ramach tych samych lub
+powiązanych operacji przetwarzania kilku przepisów rozporządzenia 2016/679, stosow‐
+nie do treści art. 83 ust. 3 rozporządzenia 2016/679, Prezes Urzędu Ochrony Danych
+Osobowych określił całkowitą wysokość administracyjnej kary pieniężnej w kwocie nie‐
+przekraczającej wysokości kary za najpoważniejsze naruszenie.
+W przedstawionym stanie faktycznym za najpoważniejsze należy uznać naruszenie przez
+Spółkę zasady poufności określonej w art. 5 ust 1 lit. f rozporządzenia 2016/679. Prze‐
+mawia za tym poważny charakter naruszenia oraz krąg osób nim dotkniętych (ok. 2 200
+000 - około dwóch milionów dwustu tysięcy użytkowników sklepów internetowych, któ‐
+rych administratorem jest Spółka). Co istotne, w stosunku do ww. liczby osób w dalszym
+ciągu istnieje wysokie ryzyko niezgodnego z prawem posłużenia się ich danymi osobo‐
+wymi, albowiem nieznany jest cel, dla którego osoba nieuprawniona podjęła działania
+zmierzające do uzyskania dostępu do tychże informacji.
+Naruszenie przez Spółkę zasad legalności i rzetelności wyrażonych w art. 5 ust 1 lit. a
+oraz zasady rozliczalności z art. 5 ust. 2 rozporządzenia 2016/679 należy uznać nato‐
+miast na naruszenie mniejszej wagi. W przypadku drugiego ze stwierdzonych naruszeń,
+krąg osób nim dotkniętych jest znacznie mniejszy (ok. 35 tysięcy – ok. trzydzieści pięć
+tysięcy użytkowników składających wnioski ratalne). Spółka usunęła również te dane
+uznając, że ich dalsze przetwarzanie wiąże się z większym ryzykiem. Zbieranie danych z
+wniosków (…) bez podstawy prawnej, tj. zgody osoby, której dane dotyczą, miało miej‐
+sce przed rozpoczęciem stosowania rozporządzenia 2016/679, zaś po nowelizacji przepi‐
+sów Spółka zbierała dane na podstawie zgody, co udowodniła w toku kontroli i w trakcie
+trwania postępowania.
+Stosownie do treści art. 103 ustawy z dnia 10 maja 2018 r. o ochronie danych
+osobowych (Dz. U. z 2018 r. poz. 1000, z późn. zm.), równowartość wyrażonych w euro
+kwot, o których mowa w art. 83 rozporządzenia 2016/679, oblicza się w złotych według
+średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 21 z 22
+
+28 stycznia każdego roku, a w przypadku gdy w danym roku Narodowy Bank Polski nie
+ogłasza średniego kursu euro w dniu 28 stycznia - według średniego kursu euro ogłoszo‐
+nego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego.
+Mając powyższe na uwadze, Prezes Urzędu Ochrony Danych Osobowych, na podstawie
+art. 83 ust. 3 i art. 83 ust. 5 lit. a rozporządzenia 2016/679, w związku z art. 103 ustawy
+o ochronie danych osobowych z dnia 2018 r., za naruszenia opisane w sentencji niniej‐
+szej decyzji, nałożył na Spółkę – stosując średni kurs euro z dnia 28 stycznia 2019 r. (1
+EUR = 4.2885 PLN) – administracyjną karę pieniężną w kwocie 2 830 410 PLN (co
+stanowi równowartość 660 000 EUR).
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych, zastosowana administracyjna
+kara pieniężna spełnia w ustalonych okolicznościach niniejszej sprawy funkcje, o których
+mowa w art. 83 ust. 1 rozporządzenia 2016/679, tzn. będzie w tym indywidualnym
+przypadku skuteczna, proporcjonalna i odstraszająca.
+Zdaniem Prezesa Urzędu Ochrony Danych Osobowych nałożona na Spółkę kara będzie
+skuteczna, albowiem doprowadzi do stanu, w którym Spółka stosowała będzie takie
+środki techniczne i organizacyjne, które zapewnią przetwarzanym danym stopień bezpie‐
+czeństwa odpowiadający ryzyku naruszenia praw i wolności osób, których dane dotyczą
+oraz wadze zagrożeń towarzyszącym procesom przetwarzania tych danych osobowych.
+Skuteczność kary równoważna jest zatem gwarancji tego, iż Spółka od momentu zakoń‐
+czenia niniejszego postępowania będzie z najwyższą starannością podchodzić do
+wymogów stawianych przez przepisy o ochronie danych osobowych.
+Zastosowana kara pieniężna jest również proporcjonalna do stwierdzonego naruszenia,
+w tym zwłaszcza jego wagi, kręgu dotkniętych nim osób fizycznych oraz ryzyka, jakie w
+związku z naruszeniem ponoszą. Zdaniem Prezesa Urzędu Ochrony Danych Osobowych,
+nałożona na Spółkę kara pieniężna jest również proporcjonalna do jej sytuacji finansowej
+i nie będzie stanowiła nadmiernego dla niej obciążenia. Wysokość kary została bowiem
+określona na takim poziomie, aby z jednej strony stanowiła adekwatną reakcję organu
+nadzorczego na stopień naruszenia obowiązków administratora, z drugiej jednak strony
+nie powodowała sytuacji, w której konieczność uiszczenia kary finansowej pociągnie za
+sobą negatywne następstwa, w postaci znaczącej redukcji zatrudnienia bądź istotnego
+spadku obrotów Spółki. Zdaniem Prezesa Urzędu Ochrony Danych Osobowych, Spółka
+powinna i jest w stanie ponieść konsekwencje swoich zaniedbań w sferze ochrony da‐
+nych, stąd nałożenie kary w wysokości 2 830 410 PLN jest w pełni uzasadnione.
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych, administracyjna kara pieniężna
+spełni w tych konkretnych okolicznościach funkcję represyjną, jako że stanowić będzie
+odpowiedź na naruszenie przez Spółkę przepisów rozporządzenia 2016/679, ale i pre‐
+wencyjną, jako że sama Spółka, jak i inni administratorzy będą skutecznie zniechęceni
+do naruszania przepisów o ochrony danych osobowych w przyszłości.
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych, zastosowana kara pieniężna
+spełnia w ustalonych okolicznościach niniejszej sprawy przesłanki, o których mowa w art.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+
+Decyzja ZSPR.421.2.2019
+
+Strona 22 z 22
+
+83 ust. 1 rozporządzenia 2016/679 ze względu na wagę stwierdzonych naruszeń w kon‐
+tekście podstawowych wymogów i zasad rozporządzenia 2016/679 – zwłaszcza zasady
+poufności wyrażonej w art. 5 ust. 1 lit. f rozporządzenia 2016/679.
+Celem nałożonej kary jest doprowadzenie do właściwego wykonywania przez Spółkę
+obowiązków przewidzianych w art. 5 ust. 1 lit. f, art. 24 ust. 1, art. 25 ust. 1 oraz art. 32
+ust. 1 lit. b i d, art. 32 ust. 2 rozporządzenia 2016/679, a w konsekwencji do prowadzenia
+procesów przetwarzania danych zgodnie z obowiązującymi przepisami prawa.
+Mając powyższe na uwadze Prezes Urzędu Ochrony Danych Osobowych rozstrzygnął jak
+w sentencji niniejszej decyzji.
+
+[1] Guidelines for SMEs on the security of personal data processing - https://
+www.enisa.europa.eu/publications/guidelines-for-smes-on-the-security-of-personaldata-processing
+[2] https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
+[3] https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63b.pdf
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zspr_421_2/content
+
+2025-09-03 13:55
+

@@ -1,0 +1,222 @@
+Warszawa, 2 marca 2022
+PRAWOMOCNA
+
+Decyzja
+DS.523.1235.2021
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz.U. z 2021 r., poz. 735 ze zm.) oraz art. 7 ust. 1 i 2 ustawy z 10
+maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781) oraz art. 6 ust. 1
+i art. 58 ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem
+danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z
+4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z
+4.03.2021, str. 35)
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pani KS zam. w
+E. przy ul. (…), na nieprawidłowości w procesie przetwarzania jej danych osobowych
+przez (…) sp. z o.o. z siedzibą w Z. przy ul. (…), polegające na udostępnieniu tych
+danych osobowych bez podstawy prawnej, Prezes Urzędu Ochrony Danych Osobowych
+udziela upomnienia (…) sp. z o.o. z siedzibą w Z. przy ul. (…) za nieprawidłowości w pro‐
+cesie przetwarzania danych osobowych polegające na naruszeniu art. 6 ust. 1 rozporzą‐
+dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w
+sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w
+sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+(Dz.U.UE.L.2016.119.1 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz.
+Urz. UE L 74 z 4.03.2021, str. 35) poprzez udostępnienie podmiotom nieuprawnionym
+danych osobowych Pani KS zam. w E. przy ul. (…), w zakresie informacji o zadłużeniu
+zamieszczonej na kopercie kierowanej do Skarżącej korespondencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_1235/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.1235.2021
+
+Strona 2 z 5
+
+Uzasadnienie
+Do Prezesa Urzędu Ochrony Danych Osobowych, zwanego dalej także Prezesem UODO,
+wpłynęła skarga Pani KS zam. w E. przy ul. (…), zwanej dalej Skarżącą, na nieprawidło‐
+wości w procesie przetwarzania jego danych osobowych przez (…) sp. z o.o. z siedzibą w
+Z. przy ul. (…), zwaną dalej Spółką, polegające na udostępnieniu tych danych
+osobowych bez podstawy prawnej.
+W toku prowadzonego postępowania administracyjnego, Prezes Urzędu Ochrony Danych
+Osobowych ustalił następujący stan faktyczny.
+1. Skarżąca w treści skargi wskazała, że cyt.: „Firma ta Przysyła korespondencję w ko‐
+pertach na których nadrukowana jest na odwrocie informacja "Dział widykacji, We‐
+zwanie do zapłaty". Jest to związane z prowadzoną moja działalnością gospodarczą.
+Działalność ta zarejestrowana jest w małej miejscowości gdzie wszyscy sie znają.
+Naraziło to mnie osobiście na śmiechy i uwagi mieszkańców, że firma źle funkcjonu‐
+je bo na kopercie jest to napisane. Bardzo proszę o interwencję bo w/g mnie jest to
+niedopuszczalne żeby takie napisy mogły być nadrukowane aby każdy mógł je
+przeczytać.(…)”
+(dowód: skarga z dnia 23 lutego 2021 r. z załącznikami).
+2. Spółka wyjaśniła, że pozyskała dane osobowe Skarżącej bezpośrednio od niej w dniu
+9 października 2018 r., w wyniku złożenia przez Skarżącą Wniosku o finansowanie w
+(…) Sp. z o.o. w celu zawarcia i wykonania umowy najmu samochodu z dnia 16 paź‐
+dziernika 2018 r. Zakres pozyskanych danych osobowych obejmował: imię, nazwi‐
+sko, nr PESEL, obywatelstwo, adres zameldowania, oświadczenie o statusie majątko‐
+wym małżeńskim, nr i seria dowodu osobistego, data wydania dowodu osobistego
+oraz dane związane z prowadzoną przez Skarżącą działalnością gospodarczą takie
+jak pełna nazwa firmy, NIP, REGON, przedmiot działalności, adres prowadzenia dzia‐
+łalności, numer telefonu, adres e-mail, oświadczenie o dochodach i zobowiązaniach
+(związanych z prowadzoną działalnością gospodarczą) numer rachunku bankowego
+wskazany w umowie ustanowienia kaucji do umowy najmu
+(dowód: wyjaśnienia Spółki z dnia 18 marca 2021 r. z załącznikami).
+3. Spółka wskazała, że cyt.: „(…) nie udostępniła podmiotom trzecim danych osobo‐
+wych Skarżącej w związku z prowadzonymi czynnościami windykacyjnymi. Kore‐
+spondencja była wysyłana bezpośrednio przez Spółkę, za pośrednictwem (…) S.A.,
+działającej w oparciu o przepisy ustawy z dnia 23 listopada 2012 r. — Prawo poczto‐
+we ("Prawo Pocztowe"). Zgodnie z art. 41 ust. 1-2 Prawa Pocztowego, informacje
+przekazywane w przesyłkach pocztowych, informacje dotyczące realizowania prze‐
+kazów pocztowych, dane dotyczące podmiotów korzystających z usług pocztowych
+oraz dane dotyczące faktu i okoliczności świadczenia usług pocztowych lub korzy‐
+stania z tych usług, objęte są tajemnica pocztową. Do zachowania tajemnicy poczto‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_1235/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.1235.2021
+
+4.
+
+Strona 3 z 5
+
+wej zobowiązani są zarówno operatorzy pocztowi, jak również osoby, które z racji
+wykonywanej działalności mają dostęp do tajemnicy pocztowej.”
+(dowód: wyjaśnienia Spółki z dnia 18 marca 2021 r. z załącznikami).
+Zgodnie z wyjaśnieniami Spółki cyt.:
+„
+1/ Koperta adresowana do Skarżącej zawierała dane osobowe Skarżącej w za‐
+kresie niezbędnym do jej doręczenia przez operatora pocztowego, tj. imię, na‐
+zwisko oraz adres korespondencyjny. Dane Skarżącej (adresata), jak również
+dane (…) Sp. z o.o. (nadawcy) umieszczone zostały na przedniej stronie koperty.
+Adnotacja "Dział Windykacji. Wezwanie do zapłaty", pisana stosunkowo niewiel‐
+ką czcionką, została umieszczona na tylnej części koperty; nie znajdowała się w
+bezpośrednim sąsiedztwie danych osobowych Skarżącej. Podkreślenia wymaga,
+iż przedmiotowa adnotacja nie zawiera danych osobowych Skarżącej. Informa‐
+cja ta nie odnosiła się do osoby Skarżącej a do oznaczenia konkretnej jednostki
+w Spółce, odpowiedzialnej za przygotowanie dokumentu i prowadzenie kore‐
+spondencji.
+2/ Niniejsza sytuacja nie jest elementem stałej praktyki Spółki, o czym świadczy
+okoliczność, iż adnotacja nie została "nadrukowana" na kopercie, jak to ma
+miejsce w przypadku loga oraz firmy i adresu Spółki (widoczne na przedniej czę‐
+ści koperty). Wskazana wyżej adnotacja została umieszczona w formie pieczątki
+na zaklejonej i gotowej do wysyłki kopercie przez jednego z pracowników Spółki.
+Pracownik chciał w ten sposób dodatkowo oznaczyć jednostkę w Spółce odpo‐
+wiedzialną za przygotowanie pisma; miało to pomóc w ewidencjonowaniu kore‐
+spondencji. Kierownictwo Spółki, niezwłocznie po otrzymaniu informacji o zaist‐
+niałej sytuacji, podjęło decyzję o przeszkoleniu pracowników z zasad
+oznakowania kopert obowiązujących w Spółce.”
+(dowód: wyjaśnienia Spółki z dnia 16 kwietnia 2021 r.).
+
+W tym stanie faktycznym Prezes Urzędu Ochrony Danych Osobowych zważył, co nastę‐
+puje.
+Przedmiotowa sprawa dotyczy danych z zakresu tzw. „danych zwykłych”, których prze‐
+twarzanie regulowane jest w art. 6 ust. 1 rozporządzenia Parlamentu Europejskiego i
+Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w
+związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich
+danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)
+(Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz.
+UE L 74 z 4.03.2021, str. 35), zwanego dalej RODO, zgodnie z którym, przetwarzanie da‐
+nych osobowych jest dopuszczalne tylko wtedy, gdy spełniona jest jedna z przesłanek
+wskazanych w tym przepisie. Katalog przesłanek wymienionych w art. 6 ust. 1 RODO,
+jest zamknięty. Każda z przesłanek legalizujących proces przetwarzania danych osobo‐
+wych ma charakter autonomiczny i niezależny. Oznacza to, że przesłanki te co do zasady
+są równoprawne, a wobec tego spełnienie co najmniej jednej z nich stanowi o zgodnym z
+prawem przetwarzaniu danych osobowych. Dodatkowo, proces przetwarzania danych
+osobowych musi być zgodny z zasadami ustanowionymi w art. 5 ust. 1 RODO. Do zasad
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_1235/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.1235.2021
+
+Strona 4 z 5
+
+tych zalicza się między innymi minimalizacje danych (lit. c), jak również integralność i
+poufność (lit. f). Wspomniane zasady wymagają, by proces przetwarzania był adekwat‐
+ny, stosowny oraz ograniczony do tego, co niezbędne do celów, w których są przetwa‐
+rzane, a także przetwarzane w sposób zapewniający odpowiednie bezpieczeństwo da‐
+nych osobowych, w tym ochronę przed niedozwolonym lub niezgodnym z prawem prze‐
+twarzaniem oraz przypadkową utratą, zniszczeniem lub uszkodzeniem, za pomocą odpo‐
+wiednich środków technicznych lub organizacyjnych. Dodatkowo zgodnie z motywem 39
+RODO, dane osobowe powinny być przetwarzane w sposób zapewniający im odpowied‐
+nie bezpieczeństwo i odpowiednią poufność, w tym między innymi ochronę przed
+nieuprawnionym dostępem do nich.
+Z materiału dowodowego zgromadzonego w niniejszej sprawie wynika, że Spółka skiero‐
+wała do Skarżącej przesyłkę. Na kopercie ww. przesyłki znajdowały się dane osobowe
+Skarżącej w zakresie niezbędnym do doręczenia przesyłki, tj. imię, nazwisko oraz adres
+korespondencyjny, ponadto na odwrocie zaadresowanej do Skarżącej koperty została
+umieszczona adnotacja "Dział Windykacji. Wezwanie do zapłaty".
+W tym miejsce należy powołać się na art. 4 pkt 1 RODO, zgodnie z którego treścią "dane
+osobowe" oznaczają wszelkie informacje o zidentyfikowanej lub możliwej do
+zidentyfikowania osobie fizycznej ("osobie, której dane dotyczą"); możliwa do zidentyfi‐
+kowania osoba fizyczna to osoba, którą można bezpośrednio lub pośrednio zidentyfiko‐
+wać, w szczególności na podstawie identyfikatora takiego jak imię i nazwisko, numer
+identyfikacyjny, dane o lokalizacji, identyfikator internetowy lub jeden bądź kilka szcze‐
+gólnych czynników określających fizyczną, fizjologiczną, genetyczną, psychiczną,
+ekonomiczną, kulturową lub społeczną tożsamość osoby fizycznej.
+Wskazać zatem należy, że przedmiotowa adnotacja zamieszczona na kopercie stanowi
+dane osobowe Skarżącej, ponieważ zamieszczona wraz z imieniem i nazwiskiem oraz ad‐
+resem Skarżącej stanowi informację o zidentyfikowanej osobie fizycznej. Informacja ta
+wskazuje ponadto na posiadanie przez Skarżącą nieuregulowanych należności wobec
+Spółki.
+Podkreślić należy, że w ocenie Prezesa UODO na kopercie powinny być zamieszczone je‐
+dynie te dane osobowe, które są niezbędne do dostarczenia korespondencji – za takie
+dane nie można uznać jednak informacji o zadłużeniu Skarżącej, a na to właśnie wskazu‐
+je adnotacja umieszona na kopercie przesyłki skierowanej do Skarżącej tj. „Dział Windy‐
+kacji. Wezwanie do zapłaty”. Poprzez zamieszczenie ww. adnotacji na kopercie, Spółka
+udostępniła podmiotom nieuprawnionym dane osobowe Skarżącej wskazujące na jej za‐
+dłużenie wobec Spółki. W tym miejscu należy wskazać, że co najmniej pracownicy opera‐
+tora pocztowego doręczającego przesyłkę Skarżącej mieli dostęp do jej danych osobo‐
+wych w kwestionowanym zakresie, co nie znajdowało podstaw prawnych. W ocenie Pre‐
+zesa UODO odnośnie przedmiotowego udostępnienia nie została spełniona jakakolwiek
+przesłanka legalizująca określona w art. 6 ust. 1 RODO. Podkreślić należy, że dane oso‐
+bowych wskazujące na zadłużenie Skarżącej wobec Spółki nie były niezbędne do dorę‐
+czenia Skarżącej korespondencji, a zatem ich udostępnienie, poprzez zamieszczenie ich
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_1235/content
+
+2025-09-03 13:41
+
+Decyzja DS.523.1235.2021
+
+Strona 5 z 5
+
+na kopercie było nadmiarowe i naruszyło także zasady określone w art. 5 ust. 1 lit. c i f
+RODO.
+Prezes UODO nie podziela ponadto stanowiska Spółki, zgodnie z którym usprawiedliwie‐
+niem dla przedmiotowego udostępnienia danych osobowych Skarżącej mogłoby być
+oznaczenie jednostki w Spółce odpowiedzialnej za przygotowanie pisma, w celu ułatwie‐
+nia ewidencjonowania korespondencji. Administrator danych, którym w niniejszej spra‐
+wie jest Spółka powinien zapewnić, aby dane osobowe przetwarzane były w sposób
+zgodny z prawem, w tym zgodnie z zasadami minimalizacji i poufności danych, przy uży‐
+ciu odpowiednich środków organizacyjnych i technicznych. Zatem to administrator odpo‐
+wiada za to, aby wdrożyć takie rozwiązania organizacyjne i techniczne, które będą wy‐
+starczające dla zapewnienia, że dane osobowe przetwarzane są w sposób zgodny z pra‐
+wem, z zachowaniem poufności i w minimalnym zakresie, jaki jest konieczny dla osią‐
+gnięcia celu przetwarzania. W ocenie organu ułatwienia organizacyjne po stronie admini‐
+stratora nie mogą w jakimkolwiek stopniu stanowić usprawiedliwienia dla naruszenia ww.
+przepisów art. 6 ust. 1 i zasad wynikających z RODO.
+Postępowanie administracyjne prowadzone przez Prezesa Urzędu Ochrony Danych Oso‐
+bowych służy kontroli zgodności przetwarzania danych z przepisami o ochronie danych
+osobowych i jest ukierunkowane na wydanie decyzji administracyjnej. Decyzje Prezesa
+UODO służą przywróceniu stanu zgodnego z prawem na podstawie art. 58 ust. 2 lit. b
+RODO między innymi poprzez udzielenie upomnienia administratorowi lub podmiotowi
+przetwarzającemu w przypadku naruszenia przepisów niniejszego rozporządzenia przez
+operację przetwarzania. Spółka udostępniła podmiotom nieuprawnionym dane osobowe
+Skarżącej w zakresie informacji o jej zadłużeniu, jednak ww. przetwarzanie nie jest obec‐
+nie kontynuowane w związku z czym Prezes Urzędu Ochrony Danych Osobowych, korzy‐
+stając z przysługującego mu uprawnienia określonego w art. 58 ust. 2 lit. b RODO
+udzielił Spółce upomnienie.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_1235/content
+
+2025-09-03 13:41
+

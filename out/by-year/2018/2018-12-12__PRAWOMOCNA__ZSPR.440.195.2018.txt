@@ -1,0 +1,328 @@
+Warszawa, 12 grudnia 2018
+PRAWOMOCNA
+
+Decyzja
+ZSPR.440.195.2018
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r. poz. 2096) oraz art. 160 ust. 1 i 2 ustawy o ochronie
+danych osobowych z dnia 10 maja 2018 roku (Dz. U. z 2018 r. poz. 1000 ze zm.) oraz
+art. 18 ust. 1 ustawy z dnia 29 sierpnia 1997 o ochronie danych osobowych (Dz. U. z
+2016 r. poz. 922 oraz z 2018 r. poz. 138), w związku z art. 6 ust. 1 lit. c rozporządzenia
+Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie
+ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie
+swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz. Urz. UE L
+119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2), w związku z art. 105
+ust. 4 i art. 105a ust. 1 i 3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (t.j. Dz. U. z
+2017 r. poz. 1876 ze zm.),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana T. W., repre‐
+zentowanego przez Panią A. G. z Kancelarii Sp. z o.o., na przetwarzanie jego danych oso‐
+bowych przez Bank S.A., oraz przekazanie ich do B. S.A., Prezes Urzędu Ochrony Danych
+Osobowych,
+nakazuje Bankowi S.A., zaprzestania przetwarzania danych osobowych Pana T. W., doty‐
+czących rachunku nr (…) w systemie B. S.A. przetwarzanych na podstawie art. 105a ust.
+3 ustawy Prawo bankowe.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_195/content
+
+2025-09-03 14:03
+
+Decyzja ZSPR.440.195.2018
+
+Strona 2 z 7
+
+Uzasadnienie
+Do Biura Generalnego Inspektora Ochrony Danych Osobowych wpłynęła skarga Pana T.
+W., zwanego dalej Skarżącym, reprezentowanego przez Panią A. G. z Kancelarii Sp.z o.o.,
+na przetwarzanie jego danych osobowych przez Bank S.A., zwany dalej Bank, oraz
+przekazanie ich do B. S.A., zwanego dalej B.
+Skarżący w treści skargi wskazał, że Bank nie spełnił wymagań uprawniających go do
+rozpoczęcia przetwarzania jego danych osobowych w bazie B., w związku z wierzytelno‐
+ścią wynikająca ze zobowiązania z dnia (…) czerwca 2008 r., ponieważ Bank nie spełnił
+łącznie wszystkich warunków z art. 105a ust. 3 ustawy z dnia 29 sierpnia 1997 r. Prawo
+bankowe (Dz. U. z 2016 r. poz. 1988 z późn. zm.), zwanej dalej Prawem bankowym, tzn.
+Bank nigdy nie powiadomił Skarżącego o zamiarze przetwarzania jego danych
+osobowych bez jego zgody w bazie B.
+W toku postępowania przeprowadzonego w niniejszej sprawie Prezes Urzędu Ochrony
+Danych Osobowych ustalił następujący stan faktyczny.
+1. Dane osobowe Skarżącego zostały przez Bank zebrane w związku z zawartą przez
+niego umową pożyczki gotówkowej z dnia (…) czerwca 2008 r. i obecnie przetwarza‐
+ne są (…), w celach archiwalnych i oceny zdolności kredytowej i analizy ryzyka kre‐
+dytowego.
+2. Bank przekazał dane osobowe Skarżącego do bazy B. (w dniu (…) lipca 2008 r.) w
+zakresie imienia, nazwiska, serii i numeru dokumentu tożsamości, numeru PESEL,
+adresu zamieszkania oraz informacji dotyczących prowadzonego rachunku pożyczki
+(w tym daty otwarcia rachunku, terminowości i historii spłaty zadłużenia). Dane te
+zostały przekazane do powyższej bazy w oparciu o art. 105 ust. 4 w zw. z art. 105a
+ust. 3 Prawa bankowego, w związku z odnotowanym opóźnieniem spłaty zobowiąza‐
+nia z dnia (…) czerwca 2008 r. wynoszącym 60 dni. Bank w dniu (…) kwietnia 2010
+r. zainicjował w systemie informatycznym obsługującym rachunek pożyczki wysłanie
+Skarżącemu na wskazany przez niego adres korespondencyjny pisemnego powiado‐
+mienia o zamiarze przetwarzania jego danych osobowych w bazie B. po wygaśnięciu
+zobowiązania. Powiadomienie zostało wysłane przez Bank pocztą zwykłą na adres
+wskazany przez Skarżącego dnia (…) kwietnia 2010 r. Powyższe pismo nie zostało
+zwrócone do Banku, a zobowiązanie pozostało nadal nie spłacone.
+3. Na potwierdzenie wysłania w/w korespondencji do Skarżącego Bank przesłał wydruk
+z systemu obsługi klientów, dotyczący Skarżącego, obrazujący automatyczne zaini‐
+cjowanie w dniu (…) kwietnia 2010 r. pisma, którego treść odpowiada wymogom
+określonym w art. 105a ust. 3 Prawa bankowego oraz pismo z dnia (…) kwietnia
+2010 r. wygenerowane z systemu, które miało być wysłane do Skarżącego.
+4. Z uwagi na utrzymujące się zaległości w spłacie zobowiązania Bank wypowiedział
+Skarżącemu umowę w dniu (…) czerwca 2010 r.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_195/content
+
+2025-09-03 14:03
+
+Decyzja ZSPR.440.195.2018
+
+5.
+6.
+
+7.
+
+Strona 3 z 7
+
+Po bezskutecznej egzekucji komorniczej prowadzonej na rzecz Banku dnia (…) paź‐
+dziernika 2013 r. doszło do umorzenia postępowania komorniczego.
+Bank odsprzedał prawa własności przedmiotowego długu funduszowi sekurytyzacyj‐
+nemu, co zostało odnotowane w bazie B. jako (…), tj. (…) grudnia 2014 r. która jest
+jednoznaczna z datą wygaśnięcia zobowiązania.
+Dane Skarżącego są aktualnie przetwarzane w bazie B. na podstawie przesłanki
+określonej w art. 105a ust. 3 Prawa bankowego. Zaprzestanie przetwarzania danych
+osobowych Skarżącego w powyższym celu w B. nastąpi maksymalnie w terminie 5
+lat od daty wygaśnięcia zobowiązania tj. do dnia (…) grudnia 2019 r.
+
+W związku z powyższym, Generalny Inspektor Ochrony Danych Osobowych zważył, co
+następuje.
+Wskazać należy, że z dniem wejścia w życie ustawy z 10 maja 2018 r. o ochronie danych
+osobowych (Dz. U. z 2018 r. poz. 1000 ze zm.), tj. 25 maja 2018 r., Biuro Generalnego In‐
+spektora Ochrony Danych Osobowych stało się Urzędem Ochrony Danych Osobowych.
+Postępowania prowadzone przez Generalnego Inspektora Ochrony Danych Osobowych,
+wszczęte i niezakończone przed 25 maja 2018 r. prowadzone są przez Prezesa Urzędu
+Ochrony Danych Osobowych, na podstawie ustawy z 29 sierpnia 1997 r. o ochronie
+danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138), zwanej dalej usta‐
+wą, zgodnie z zasadami określonymi w ustawie z dnia 14 czerwca 1960 r. Kodeks
+postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096), zwanej dalej Kpa. Wszelkie
+czynności podejmowane przez Generalnego Inspektora Ochrony Danych Osobowych
+przed 25 maja 2018 r. pozostają skuteczne. Od 25 maja 2018 r. obowiązują przepisy Roz‐
+porządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r.
+w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w
+sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz.
+Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2), zwanego
+dalej RODO.
+Prezes Urzędu wydając decyzję administracyjną zobowiązany jest do rozstrzygania w
+oparciu o stan faktyczny istniejący w chwili wydania tej decyzji. Jak podnosi doktryna
+„organ administracji publicznej ocenia stan faktyczny sprawy według chwili wydania de‐
+cyzji administracyjnej. Reguła ta odnosi się także do oceny stanu prawnego sprawy, co
+oznacza, że organ administracji publicznej wydaje decyzję administracyjną na podstawie
+przepisów prawa obowiązujących w chwili jej wydania (…) Rozstrzyganie w postępowa‐
+niu administracyjnym polega na zastosowaniu obowiązującego prawa do ustalonego sta‐
+nu faktycznego sprawy administracyjnej. W ten sposób organ administracji publicznej re‐
+alizuje cel postępowania administracyjnego, jakim jest urzeczywistnienie obowiązującej
+normy prawnej w zakresie stosunków administracyjno-prawnych, gdy stosunki te tego
+wymagają” (Komentarz do ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania admi‐
+nistracyjnego (Dz. U. 00.98.1071) M. Jaśkowska, A. Wróbel, Lex., el/2012).
+RODO ustanawia przepisy o ochronie osób fizycznych w związku z przetwarzaniem da‐
+nych osobowych oraz przepisy o swobodnym przepływie danych osobowych oraz chroni
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_195/content
+
+2025-09-03 14:03
+
+Decyzja ZSPR.440.195.2018
+
+Strona 4 z 7
+
+podstawowe prawa i wolności osób fizycznych, w szczególności ich prawo do ochrony
+danych osobowych (art. 1 ust 1 i 2 RODO). Odpowiednio regulował tę kwestię art. 2 ust.
+1 ustawy. W świetle przepisów powołanego aktu prawnego, przetwarzanie danych oso‐
+bowych jest uprawnione, gdy spełniona zostanie którakolwiek z przesłanek wymienio‐
+nych w art. 6 ust. 1 RODO (uprzednio art. 23 ust. 1 ustawy). Przesłanki te odnoszą się do
+wszelkich form przetwarzania danych wymienionych w art. 4 pkt 2 RODO (art. 7 pkt 2
+ustawy), w tym w szczególności do ich udostępnienia. Są także względem siebie równo‐
+prawne, co oznacza, że dla legalności procesu przetwarzania danych wystarczające jest
+spełnienie jednej z nich. Zgodnie natomiast art. 6 ust. 1 RODO (uprzednio art. 23 ust. 1
+pkt 2 ustawy), przetwarzanie danych osobowych jest dopuszczalne wtedy, gdy jest nie‐
+zbędne do wypełnienia obowiązku prawnego ciążącego na administratorze. Tym samym,
+zgoda na przetwarzanie danych, o której mowa w art. 6 ust. 1 lit. a RODO (uprzednio art.
+23 ust. 1 pkt 1 ustawy), nie jest jedyną przesłanką legalizującą proces przetwarzania
+danych osobowych.
+Aktem prawnym zawierającym szczegółowe regulacje dotyczące procesu przetwarzania
+danych osobowych klientów banków jest przede wszystkim ustawa Prawo bankowe. Oce‐
+na legalności przetwarzania danych osobowych Skarżącego przez Bank, a także przez B.
+musi być zatem dokonywana w powiązaniu z przepisami Prawa bankowego. Podstawą
+prawną przetwarzania danych osobowych Skarżącego przez B. jest art. 6 ust. 1 lit. c)
+RODO, tj. przetwarzanie jest niezbędne do wypełnienia obowiązku prawnego ciążącego
+na administratorze.
+Odnosząc się do kwestii przetwarzania danych osobowych Skarżącego zarówno przez
+Bank, jak i B., wskazać należy że B. jest instytucją utworzoną na podstawie art. 105 ust.
+4 Prawa bankowego, który stanowi, że banki mogą, wspólnie z bankowymi izbami gospo‐
+darczymi, utworzyć instytucje upoważnione do gromadzenia, przetwarzania i udostęp‐
+niania: bankom informacji stanowiących tajemnicę bankową w zakresie, w jakim infor‐
+macje te są potrzebne w związku z wykonywaniem czynności bankowych oraz w związku
+ze stosowaniem metod wewnętrznych oraz innych metod i modeli, o których mowa w
+części trzeciej rozporządzenia nr 575/2013, innym instytucjom ustawowo upoważnionym
+do udzielania kredytów informacji stanowiących tajemnicę bankową w zakresie, w jakim
+informacje te są niezbędne w związku z udzielaniem kredytów, pożyczek pieniężnych,
+gwarancji bankowych i poręczeń (pkt 2), instytucjom kredytowym informacji stanowią‐
+cych tajemnicę bankową w zakresie niezbędnym do oceny zdolności kredytowej konsu‐
+menta, o której mowa w art. 9 ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim
+(pkt 3), instytucjom pożyczkowym i podmiotom, o których mowa w art. 59d ustawy z
+dnia 12 maja 2011 r. o kredycie konsumenckim na zasadzie wzajemności, informacji sta‐
+nowiących odpowiednio tajemnice bankową oraz informacje udostępnione przez instytu‐
+cje pożyczkowe oraz podmioty, o których mowa w art. 59d ustawy z dnia 12 maja 2011
+r. o kredycie konsumenckim, w zakresie niezbędnym do oceny zdolności kredytowej kon‐
+sumenta, o której mowa w art. 9 tej ustawy, i analizy ryzyka kredytowego (pkt 4).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_195/content
+
+2025-09-03 14:03
+
+Decyzja ZSPR.440.195.2018
+
+Strona 5 z 7
+
+Zgodnie z art. 105a ust. 1 Prawa bankowego, przetwarzanie przez banki, inne instytucje
+ustawowo upoważnione do udzielania kredytów, instytucje pożyczkowe oraz podmioty, o
+których mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, a
+także instytucje utworzone na podstawie art. 105 ust. 4 (np. B.), informacji stanowiących
+tajemnicę bankową i informacji udostępnionych przez instytucje pożyczkowe oraz pod‐
+mioty, o których mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenc‐
+kim, w zakresie dotyczącym osób fizycznych może być wykonywane, z zastrzeżeniem
+art. 104, 105 i art. 106 – 106d, w celu oceny zdolności kredytowej i analizy ryzyka kredy‐
+towego. Zgodnie zaś z art. 105a ust. 3 Prawa bankowego banki, instytucje oraz podmio‐
+ty, o których mowa w ust. 1, mogą przetwarzać informacje stanowiące tajemnicę banko‐
+wą i informacje udostępnione przez instytucje pożyczkowe oraz podmioty, o których
+mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, dotyczące
+osób fizycznych po wygaśnięciu zobowiązania wynikającego z umowy zawartej z ban‐
+kiem, inną instytucją ustawowo upoważnioną do udzielania kredytów, instytucją pożycz‐
+kową lub podmiotem, o którym mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredy‐
+cie konsumenckim, bez zgody osoby, której informacje dotyczą, gdy osoba ta nie wyko‐
+nała zobowiązania lub dopuściła się zwłoki powyżej 60 dni w spełnieniu świadczenia wy‐
+nikającego z umowy zawartej z bankiem, inną instytucją ustawowo upoważnioną do
+udzielania kredytów, instytucją pożyczkową lub podmiotem, o którym mowa w art. 59d
+ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, a po zaistnieniu tych okolicz‐
+ności upłynęło co najmniej 30 dni od poinformowania tej osoby przez bank, inną instytu‐
+cję ustawowo upoważnioną do udzielania kredytów, instytucję pożyczkową albo podmiot,
+o którym mowa w art. 59d ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim, o
+zamiarze przetwarzania dotyczących jej tych informacji, bez jej zgody.
+W świetle cytowanych przepisów ponownie należy podkreślić, że choć zobowiązanie
+Skarżącego, wynikające z umowy pożyczki gotówkowej zawartej w dniu (…) czerwca
+2008 r. wobec Banku wygasło, to jednak jak wynika ze zgromadzonego materiału dowo‐
+dowego odnośnie spłaty zadłużenia, Skarżący dopuścił się zwłoki trwającej dłużej niż 60
+dni w przypadku ww. zobowiązania. Istotnym, jednakże w powyższej sprawie jest, że
+Bank nie spełnił wobec niego obowiązku określonego w art. 105a pkt 3 Prawa bankowe‐
+go, tj. nie poinformował go skutecznie o zamiarze przetwarzania dotyczących jego infor‐
+macji stanowiących tajemnicę bankową, bez jego zgody po wygaśnięciu zobowiązania
+wynikającego z ww. umowy. Stwierdzić należy, że sam fakt, iż Skarżący nie wykonał zo‐
+bowiązania lub spóźnił się z jego wykonaniem co najmniej 60 dni, nie upoważnia Banku
+do przetwarzania jego danych na warunkach określonych w art. 105a ust. 3 Prawa ban‐
+kowego. Moment, od którego należy liczyć sześćdziesięciodniowy termin, w którym kon‐
+sument dopuszcza się zwłoki w wykonaniu zobowiązania, to termin wykonania zobowią‐
+zania. Dopiero po upływie 60 dni zaczyna biec trzydziestodniowy termin, w którym insty‐
+tucja jeszcze oczekuje na wykonanie zobowiązania klienta. Termin trzydziestodniowy nie
+biegnie jednak ex lege, a dopiero od momentu, w którym konsument zostanie skutecznie
+poinformowany przez instytucję o zamiarze przetwarzania. Ostatecznie to bezskuteczny
+upływ 30 dni od momentu poinformowania stanowi wypełnienie przesłanek z art. 105a
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_195/content
+
+2025-09-03 14:03
+
+Decyzja ZSPR.440.195.2018
+
+Strona 6 z 7
+
+ust. 3 Prawa bankowego. Z powyższego wynika zatem, iż Bank przetwarzając dane Skar‐
+żącego na warunkach określonych w ww. przepisie, musi wskazać, że Skarżący został po‐
+informowany o zamiarze przetwarzania ich bez jego zgody. Wskazać należy, że wpraw‐
+dzie nie ma obowiązku przesyłania listami poleconymi takiej korespondencji, niemniej
+jednak w niniejszym stanie faktycznym Bank nie dysponuje dowodem, iż korespondencja
+taka w zakresie ww. zobowiązania została Skarżącemu kiedykolwiek skutecznie doręczo‐
+na. Przepis art. 105a ust. 3 ustawy Prawo bankowe wyraźnie stawia wymóg „poinformo‐
+wania” osoby, której informacje dotyczą, „o zamiarze przetwarzania dotyczących jej in‐
+formacji stanowiących tajemnicę bankową, bez jej zgody”, co z kolei oznacza, że aby
+przetwarzać dane Klienta na warunkach określonych w ww. przepisie, Bank musi dyspo‐
+nować dowodem, że osoba, której dane dotyczą, została poinformowana o zamiarze
+przetwarzania ich bez jej zgody. Za taki dowód nie można uznać kopii pisma Banku z
+dnia (…) kwietnia 2010 r. o zamiarze przetwarzania danych osobowych Skarżącego w za‐
+kresie informacji stanowiących tajemnicę bankową, bez jego zgody, po wygaśnięciu zo‐
+bowiązania. Również za taki za dowód, organ nie może uznać wydruku z systemu
+bankowego, dotyczącego wysyłki korespondencji.
+Mając na względzie powyższe, raz jeszcze wskazać należy, że powyższe dowody przeka‐
+zane organowi przez Bank świadczą jedynie o przesłaniu Skarżącemu ww. pisma z dnia
+(…) kwietnia 2010 r., nie stanowią one natomiast dowodu na okoliczność, iż korespon‐
+dencja ta została Skarżącemu skutecznie doręczona. Podkreślenia wymaga, że to na
+Banku spoczywa ciężar udowodnienia, że poinformował Skarżącego o zamiarze przetwa‐
+rzania jego danych bez jego zgody. To w interesie Banku leżeć powinno, aby poinformo‐
+wanie o którym mowa w art. 105a ust. 3 Prawa bankowego odbyło się taki sposób, który
+umożliwi łatwe wykazanie skutecznego poinformowania w przypadku ewentualnego spo‐
+ru. Zdaniem Prezesa Urzędu Ochrony Danych Osobowych niedopuszczalna jest taka wy‐
+kładnia art. 105a ust. 3 Prawa bankowego, że to na osobie fizycznej (w niniejszej sprawie
+na Skarżącym) spoczywał ciężar udowodnienia, że nie został poinformowany o ww. za‐
+miarze przetwarzania danych osobowych. W ocenie organu nie można na podstawie ww.
+przedstawionych dokumentów uznać, że warunki, o których mowa w art. 105a ust. 3 Pra‐
+wa bankowego zostały spełnione. Bank nie dysponuje bowiem zwrotnym potwierdze‐
+niem odbioru ani innym dokumentem potwierdzającym odbiór ww. korespondencji przez
+Skarżącego. Przepis wyraźnie stanowi o „poinformowaniu” a nie o samym wysłaniu infor‐
+macji o zamiarze przetwarzania danych osobowych po wygaśnięciu zobowiązania. Pod‐
+kreślić też należy, że nie zawsze kiedy zachodzą okoliczności uniemożliwiające skutecz‐
+ne doręczenie listu do adresata jest on zwracany przez Pocztę Polską do Banku. Są bo‐
+wiem też okoliczności, które mogą spowodować zaginięcie takiego listu podczas wysła‐
+nia. Jest to bowiem list zwykły zatem nie jest on rejestrowany przez Pocztę Polską.
+Powyższe stanowisko organu znajduje swoje oparcie w wyroku Wojewódzkiego Sądu Ad‐
+ministracyjnego w Warszawie z dnia 15 marca 2017 r., sygn. akt II SA/Wa 1695/16. Zda‐
+niem Sądu cyt.: „(…) samo potwierdzenie komputerowe w prawym górnym rogu pism
+"PRZESYŁKA NIESTEMPLOWANA, Data nadania 2015-08-07", nie stanowi potwierdzenia
+wysłania pism. Także zrzut ekranu komputerowego ww. aplikacji, z uwagi na "zakodowa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_195/content
+
+2025-09-03 14:03
+
+Decyzja ZSPR.440.195.2018
+
+Strona 7 z 7
+
+ny" system zgromadzonych tam danych, bez głębszej analizy specjalistycznej (z zakresu
+informatyki), nie przedstawia wiarygodnego dowodu, iż poza wygenerowaniem przed‐
+miotowych pism w istocie doszło do ich wysłania skarżącej. (…) Słuszne jest wprawdzie
+twierdzenie, że żaden przepis ustawy Prawo bankowe nie wymaga aby obowiązek infor‐
+macyjny, o którym mowa w art. 105a ust. 3 tej ustawy, był realizowany przy pomocy
+przesyłek rejestrowanych - listów poleconych. Podkreślić jednak należy, iż w przypadku
+sporu ciężar dowodu doręczenia pisma spoczywa na stronie spełniającej obowiązek in‐
+formacyjny. (…) Wprawdzie w toku postępowania administracyjnego organ orzekający
+ocenił przedstawione przez Bank dokumenty, ale nie wynika z nich realizacja przez Bank
+(…) w stosunku do skarżącej obowiązku informacyjnego (wysłania, a nie tylko
+wygenerowania pism)”.
+Jeśli więc oświadczenie zostało posłane adresatowi listem albo innym sposobem porozu‐
+miewania się na odległość, składający powinien wykazać np. za pomocą zwrotnego po‐
+świadczenia odbioru, że list (telegram) został adresatowi doręczony. Powstały dowód
+nadania listu poleconego nie jest wprawdzie dowodem doręczenia go adresatowi, lecz
+jest dowodem prima facie (por. S. Rudnicki, S. Dmowski: Komentarz do Kodeksu Cywilne‐
+go. Księga pierwsza, Warszawa 2003 r.). Adresat oświadczania może obalić to domnie‐
+manie wskazując, iż nie miał możliwości zapoznania się z treścią oświadczenia. Podobnie
+wypowiedział się Sąd Najwyższy z wyroku z dnia 2 lutego 2005 r. IV CK 459/04, LEX nr
+142068, M. Prawn. 2005/4/181. Z kolei w wyroku z dnia 17 marca 2010 r. II CSK 454/09,
+OSNC 2010/10/142 Sąd ten stwierdził wprost, że domniemanie doręczenia przesyłki reje‐
+strowanej, wynikające z dowodu jej nadania, może być przez adresata obalone przez wy‐
+kazanie, że nie miał możliwości zapoznania się z zawartym w niej oświadczeniem woli,
+przerzucając tym samym ciężar dowodu w tym zakresie na jej adresata.
+Reasumując powyższe ustalenia w niniejszej sprawie, raz jeszcze należy podkreślić, iż
+nie zostały spełnione przesłanki z art. 105a ust 3 Prawa bankowego, zgodnie z którym
+Bank może przetwarzać informacje stanowiące tajemnicę bankową dotyczące osób fi‐
+zycznych po wygaśnięciu zobowiązania wynikającego z umowy bez ich zgody. Dlatego
+też należy nakazać Bankowi zaprzestanie przetwarzania danych osobowych Skarżącego
+w B. w celu oceny zdolności kredytowej i analizy ryzyka kredytowego. Stosownie do art.
+18 ust. 1 pkt 6 ustawy Prezes Urzędu Ochrony Danych Osobowych w przypadku narusze‐
+nia przepisów o ochronie danych osobowych z urzędu lub na wniosek osoby zaintereso‐
+wanej, w drodze decyzji administracyjnej, nakazuje przywrócenie stanu zgodnego z
+prawem, a w szczególności usunięcie danych osobowych.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_195/content
+
+2025-09-03 14:03
+

@@ -1,0 +1,1266 @@
+Warszawa, 29 kwietnia 2024
+NIEPRAWOMOCNA
+
+Decyzja
+DKN.5131.29.2023
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2023 r. poz. 775 ze zm.) w związku z art. 7, art. 60, art. 101 i
+art. 103 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r.
+poz. 1781) oraz art. 57 ust. 1 lit. a) i lit. h), art. 58 ust. 2 lit. d) i lit. i), art. 83 ust. 1 – 3,
+art. 83 ust. 4 lit. a) w związku z art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2, a także
+art. 83 ust. 5 lit. a) w związku z art. 5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia Parlamen‐
+tu Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób
+fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenia o
+ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 Dz. Urz. UE L 127 z 23.05.2018,
+str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35),
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w sprawie
+przetwarzania danych osobowych przez A. Sp. k. z siedzibą w T. (T., ul. (…)), Prezes
+Urzędu Ochrony Danych Osobowych,
+stwierdzając naruszenie przez A. Sp. k. z siedzibą w T. (T., ul. (…)) przepisów art. 24 ust.
+1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady
+UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz.
+UE L 119 z 04.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74
+z 4.03.2021, str. 35), zwanego dalej „rozporządzeniem 2016/679”, polegające na nieza‐
+stosowaniu przez A. Sp. k. z siedzibą w T.:
+a) odpowiednich środków technicznych i organizacyjnych zapewniających stopień bez‐
+pieczeństwa odpowiadający ryzyku przetwarzania danych przy użyciu zewnętrznych
+nośników danych, w celu ochrony zapisanych tam danych osobowych, w tym ich
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+b)
+
+Strona 2 z 25
+
+ochrony przed przypadkową utratą, zniszczeniem lub uszkodzeniem oraz
+ujawnieniem osobom nieuprawnionym;
+odpowiednich środków technicznych i organizacyjnych w celu zapewnienia regular‐
+nego testowania, mierzenia i oceniania skuteczności środków technicznych i organi‐
+zacyjnych mających zapewnić bezpieczeństwo przetwarzania,
+
+co skutkowało naruszeniem art. 5 ust. 1 lit. f) (zasady integralności i poufności) oraz art.
+5 ust. 2 rozporządzenia 2016/679 (zasady rozliczalności):
+1. nakłada na A. Sp. k. z siedzibą w T. (T., ul. (…)) za naruszenie art. 5 ust. 1 lit. f), art.
+5 ust. 2, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679 administracyj‐
+ną karę pieniężną w kwocie 238 345 zł (słownie: dwieście trzydzieści osiem tysięcy
+trzysta czterdzieści pięć złotych),
+2. nakazuje A. Sp. k. z siedzibą w T. (T., ul. (…)) dostosowanie operacji przetwarzania
+do przepisów rozporządzenia 2016/679 poprzez wdrożenie odpowiednich środków
+technicznych i organizacyjnych w celu zapewnienia regularnego testowania, mierze‐
+nia i oceniania skuteczności środków technicznych i organizacyjnych mających za‐
+pewnić bezpieczeństwo przetwarzania, w terminie 3 miesięcy od dnia doręczenia
+niniejszej decyzji.
+
+Uzasadnienie
+A. Sp. k. z siedzibą w T. (T., ul. (…)), zwana dalej również Administratorem, jest podmio‐
+tem, którego podstawowy charakter działalności skoncentrowany jest na prowadzeniu
+restauracji i innych placówek gastronomicznych (łącznie osiem restauracji). Administra‐
+tor w dniu 26 lipca 2023 roku (data nadania: 21 lipca 2023 roku) dokonał zgłoszenia
+Prezesowi Urzędu Ochrony Danych Osobowych (zwanemu dalej także „Prezesem UODO”
+lub „organem nadzorczym”) naruszenia ochrony danych osobowych, które zostało
+zarejestrowane pod sygnaturą DKN.5130.9144.2023. W zgłoszeniu naruszenia ochrony
+danych osobowych Administrator wskazał, że w dniu 19 lipca 2023 roku otrzymał zgło‐
+szenie od pracownika informujące go o zagubieniu zewnętrznego nośnika danych (służ‐
+bowy pendrive) zawierającego częściowo zaszyfrowane dane osobowe innego pracowni‐
+ka administratora. W związku z ww. zgłoszeniem naruszenia, pismem z dnia 27 lipca
+2023 roku Prezes Urzędu Ochrony Danych Osobowych zwrócił się do Administratora o
+złożenie dodatkowych wyjaśnień w zakresie:
+1) wskazania szczegółowych danych, bądź dokumentów, które znajdowały się na ww.
+nośniku danych (pendrive) oraz danych osobowych pracownika, które nie były za‐
+szyfrowane;
+2) wskazania, czy przedmiotowy nośnik danych (pendrive) był służbowy, czy był
+własnością pracownika;
+3)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+4)
+
+Strona 3 z 25
+
+przekazania informacji dotyczącej posiadanej procedury użytkowania zewnętrznych
+nośników danych, określającej zabezpieczenia tych nośników (w tym danych na nim
+się znajdujących) oraz sposób monitorowania przestrzegania ww. procedury przez
+pracowników;
+przekazania informacji, czy Administrator przeprowadził analizę ryzyka w zakresie
+przetwarzania danych osobowych za pomocą zewnętrznych nośników danych oraz
+przedłożenie wyników ww. analizy.
+
+W odpowiedzi na skierowane dopytanie, pismem z dnia 11 sierpnia 2023 roku (data
+wpływu: 21 sierpnia 2023 roku, data nadania: 16 sierpnia 2023 roku) Administrator
+wskazał, że na zagubionym zewnętrznym nośniku danych (pendrive) znajdowały się nie‐
+zaszyfrowane pliki z danymi osobowymi pracownika w zakresie imienia i nazwiska, adre‐
+su zamieszkania, obywatelstwa, płci, daty urodzenia, numeru PESEL, serii i numeru pasz‐
+portu, numeru telefonu, adresu e-mail, zdjęcia (wizerunek) oraz dane dotyczące wysoko‐
+ści zarobków. Dodatkowo na ww. nośniku danych znajdowały się również zaszyfrowane
+pliki z danymi finansowymi. Administrator podkreślił, że cyt. (…) „zagubiony nośnik da‐
+nych w postaci pendrive’a był służbowy i stanowił własność A. Sp. k.”. Ponadto wskazał,
+że sposób postępowania i zabezpieczania elektronicznych nośników danych w
+organizacji reguluje obowiązująca „Instrukcja (…)”. Jednocześnie Administrator, odno‐
+sząc się do pytania związanego ze sposobem monitorowania przestrzegania procedury
+związanej z użytkowaniem zewnętrznych nośników danych przez pracowników,
+przedłożył organowi nadzorczemu:
+–
+„Instrukcja (…)” (której ostatnia aktualizacja miała miejsce (…) kwietnia 2022 roku,
+zgodnie z załączonym skanem ww. dokumentu),
+–
+potwierdzenie przeprowadzenia monitoringu procedur z zakresu RODO z lat 2022 i
+2023 w postaci dokumentu pt. „Lista (…)” z roku 2022 oraz 2023,
+–
+rejestr (…),
+–
+zanonimizowaną wiadomość e-mail z dnia 16 czerwca 2023 roku (informującą o
+zasadach zabezpieczenia nośników danych),
+–
+analizę ryzyka.
+W związku ze zgłoszonym naruszeniem ochrony danych osobowych oraz wyjaśnieniami
+złożonymi przez Administratora w piśmie z dnia 11 sierpnia 2023 roku oraz przekazany‐
+mi dokumentami, Prezes UODO w dniu 26 września 2023 r. wszczął z urzędu postępowa‐
+nie administracyjne w zakresie możliwości naruszenia przez A. Sp. k. z siedzibą w T., jako
+administratora danych, obowiązków wynikających z art. 5 ust. 1 lit. f), art. 5 ust. 2, art.
+24 ust. 1, art. 25 ust. 1, art. 32 ust. 1 i 2 rozporządzenia 2016/679, w związku z narusze‐
+niem ochrony danych osobowych osoby, której dane znajdowały się na zagubionym ze‐
+wnętrznym nośniku danych (pendrive) (sygn. pisma DKN.5131.29.2023). Jednocześnie,
+ze względu na konieczność uzyskania dodatkowych i niezbędnych do przeprowadzenia
+prawidłowej analizy przedmiotowego postępowania informacji, Prezes UODO w dniu 26
+września 2023 roku zwrócił się do Administratora o przekazanie następujących wyja‐
+śnień:
+1)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+2)
+
+3)
+
+Strona 4 z 25
+
+czy Administrator oprócz Instrukcji (…) opracował oraz wdrożył odrębną procedurę
+określającą zasady szyfrowania plików / danych (w tym instrukcję, w jaki sposób
+prawidłowo zaszyfrować plik / dane lub jakiego programu do tej czynności użyć),
+gdyż w ww. dokumencie w sposób ogólnikowy wskazane zostały wytyczne
+dotyczące szyfrowania, cyt. „(…) w przypadku wynoszenia poza obszar organizacji
+nośników zawierających dane należy je uprzednio zaszyfrować”;
+czy pracownik, który zagubił przedmiotowy nośnik (pendrive) posiadał zgodę Admi‐
+nistratora na kopiowanie danych osobowych na ten nośnik. Zgodnie z pkt (…) In‐
+strukcji (…) do ww. czynności wymagane jest uzyskanie zgody Administratora;
+w jaki sposób Administrator weryfikuje i monitoruje przestrzeganie przez
+pracowników zapisów Instrukcji (…) w zakresie pkt (…) cyt. „(…)” oraz pkt (…) cyt.
+„(…)”.
+
+Administrator pismem z dnia 11 października 2023 roku (data wpływu: 17 października
+2023 roku, data nadania: 12 października 2023 roku) ustosunkował się do zagadnień uję‐
+tych w piśmie z dnia 26 września 2023 roku (sygn. DKN.5131.29.2023) i wskazał, że
+oprócz obowiązującej „Instrukcji (…)” wprowadzona została odrębna instrukcja w zakre‐
+sie sposobu szyfrowania plików na nośnikach danych. Przedmiotowa instrukcja sporzą‐
+dzona została w formie filmu instruktażowego, do którego w niniejszym piśmie został
+wskazany adres strony internetowej (adres URL). Ponadto Administrator zaznaczył, że
+cyt. „Każdy z pracowników, któremu był powierzany pendrive otrzymywał również zgodę
+na kopiowanie danych na pendrive, w tym również pracownik, który dopuścił się naru‐
+szenia taką zgodę otrzymał w dniu 4 lutego 2020 r. W treści zgody znajduje się informa‐
+cja na temat ww. linku do filmu instruktażowego w przedmiocie szyfrowania pendrive'ów.
+Dodatkowo o ww. instrukcji szyfrowania administrator powiadomił wszystkich pracowni‐
+ków, którzy otrzymali służbowe pendrive'y do korzystania w wiadomościach e-mail z
+dnia 14 czerwca 2018 r. oraz 27 lipca 2018 r. (…) O obowiązku szyfrowania pendrive'ów
+oraz instrukcji szyfrowania administrator regularnie przypominał pracownikom na
+szkoleniach i spotkaniach”. Do ww. pisma Administratora z dnia 11 października 2023
+roku załączono:
+–
+kopię upoważnienia do przetwarzania danych osobowych dla pracownika, który
+zagubił przedmiotowy nośnik danych (pendrive),
+–
+kopię zgody na kopiowanie danych na pendrive dla ww. pracownika.
+Po wszczęciu z urzędu postępowania administracyjnego w dniu 26 września 2023 roku
+organ nadzorczy, chcąc doprecyzować stan faktyczny w przedmiotowej sprawie, pisma‐
+mi z dnia 23 października 2023 roku oraz 1 grudnia 2023 roku zwrócił się do
+Administratora o:
+1) przekazanie szczegółowych wyjaśnień oraz stosownych dowodów dotyczących przy‐
+jętego przez Administratora stanowiska w piśmie z dnia 11 października 2023 roku,
+że przedmiotowy nośnik danych (tj. pendrive) cyt. „(…) pracownik ten zgubił nie w
+miejscu publicznym, lecz na terenie zakładu pracy w części, do której dostęp mają
+wyłącznie pracownicy administratora”.
+2)
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 5 z 25
+
+Udzielenie informacji dotyczących przeprowadzenia ponownej analizy ryzyka dla
+operacji przetwarzania danych osobowych po wystąpieniu przedmiotowego
+naruszenia ochrony danych osobowych.
+Administrator pismem z dnia 7 listopada 2023 roku wyjaśnił, że cyt. „Stanowisko Admini‐
+stratora, że przedmiotowy pendrive został zagubiony nie w miejscu publicznym, lecz na
+terenie zakładu pracy, w części, do której dostęp mają wyłącznie pracownicy administra‐
+tora, wynika z wyjaśnień pracownika, który dokonał naruszenia. Pracownik ten w dniu 20
+lipca 2023 r. dokonał szczegółowych ustnych wyjaśnień zaistniałej sytuacji, które
+następnie potwierdził na piśmie w dniu 3 listopada 2023 r.”. Administrator do wystoso‐
+wanego do organu nadzorczego pisma z dnia 7 listopada 2023 roku, jako załącznik
+dołączył kopię wyjaśnień pracownika z dnia 3 listopada 2023 roku, cyt. „(…) przedsta‐
+wiających przebieg i okoliczności zagubienia pendrive'a”. Z kolei pismem z dnia 18 grud‐
+nia 2023 roku Administrator przedłożył Prezesowi UODO zaktualizowaną analizę ryzyka
+przeprowadzoną w dniu 1 sierpnia 2023 roku oraz wskazał, że cyt. (…) „w działalności
+wewnętrznej administratora obecnie nie stosuje się już pendrive'ów”.
+W tym stanie faktycznym, po zapoznaniu się z całością zgromadzonego w sprawie mate‐
+riału dowodowego, Prezes Urzędu Ochrony Danych Osobowych zważył, co następuje:
+W myśl art. 34 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z
+2019 r. poz. 1781), zwanej dalej: ustawą z dnia 10 maja 2018 r., Prezes UODO jest orga‐
+nem właściwym w sprawie ochrony danych i organem nadzorczym w rozumieniu rozpo‐
+rządzenia 2016/679. Stosownie do art. 57 ust. 1 lit. a) i h) rozporządzenia 2016/679, bez
+uszczerbku dla innych zadań określonych na mocy tego rozporządzenia, każdy organ
+nadzorczy na swoim terytorium monitoruje i egzekwuje stosowanie niniejszego rozporzą‐
+dzenia oraz prowadzi postępowania w sprawie naruszenia niniejszego rozporządzenia, w
+tym na podstawie informacji otrzymanych od innego organu nadzorczego lub innego
+organu publicznego.
+Art. 5 rozporządzenia 2016/679 określa zasady dotyczące przetwarzania danych osobo‐
+wych, które muszą być respektowane przez wszystkich administratorów, tj. podmioty,
+które samodzielnie lub wspólnie z innymi ustalają cele i sposoby przetwarzania danych
+osobowych. Zgodnie z art. 5 ust. 1 lit. f) rozporządzenia 2016/679, dane osobowe muszą
+być przetwarzane w sposób zapewniający odpowiednie bezpieczeństwo danych osobo‐
+wych, w tym ochronę przed niedozwolonym lub niezgodnym z prawem przetwarzaniem
+oraz przypadkową utratą, zniszczeniem lub uszkodzeniem, za pomocą odpowiednich
+środków technicznych lub organizacyjnych („poufność i integralność”). Stosownie zaś do
+art. 5 ust. 2 rozporządzenia 2016/679, administrator jest odpowiedzialny za przestrzega‐
+nie przepisów ust. 1 i musi być w stanie wykazać ich przestrzeganie („rozliczalność”).
+Konkretyzację zasady poufności, o której mowa w art. 5 ust. 1 lit. f) rozporządzenia
+2016/679, stanowią dalsze przepisy niniejszego rozporządzenia, w tym art. 24 ust. 1 roz‐
+porządzenia 2016/679, który wskazuje, że uwzględniając charakter, zakres, kontekst i
+cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym
+prawdopodobieństwie i wadze, administrator wdraża odpowiednie środki techniczne i or‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 6 z 25
+
+ganizacyjne, aby przetwarzanie odbywało się zgodnie z rozporządzeniem 2016/679 i aby
+móc to wykazać. Środki te są w razie potrzeby poddawane przeglądom i uaktualniane.
+Jak wynika z art. 24 ust. 1 rozporządzenia 2016/679, charakter, zakres, kontekst i cele
+przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym praw‐
+dopodobieństwie i wadze są czynnikami, które administrator ma obowiązek uwzględniać
+w procesie budowania systemu ochrony danych, również w szczególności z punktu wi‐
+dzenia pozostałych obowiązków wskazanych w art. 25 ust. 1, art. 32 ust. 1 czy art. 32
+ust. 2 rozporządzenia 2016/679. Wskazane przepisy uszczegóławiają zasadę poufności
+określoną w art. 5 ust. 1 lit. f) rozporządzenia 2016/679, a przestrzeganie tej zasady jest
+konieczne dla prawidłowej realizacji zasady rozliczalności wynikającej z art. 5 ust. 2
+rozporządzenia 2016/679.
+W myśl z art. 25 ust. 1 rozporządzenia 2016/679, uwzględniając stan wiedzy technicznej,
+koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naru‐
+szenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpienia i
+wadze wynikające z przetwarzania, administrator – zarówno przy określaniu sposobów
+przetwarzania, jak i w czasie samego przetwarzania – wdraża odpowiednie środki tech‐
+niczne i organizacyjne, takie jak pseudonimizacja, zaprojektowane w celu skutecznej re‐
+alizacji zasad ochrony danych, takich jak minimalizacja danych, oraz w celu nadania
+przetwarzaniu niezbędnych zabezpieczeń, tak by spełnić wymogi niniejszego
+rozporządzenia oraz chronić prawa osób, których dane dotyczą.
+Z treści art. 32 ust. 1 rozporządzenia 2016/679 wynika, że administrator jest zobowiąza‐
+ny do zastosowania środków technicznych i organizacyjnych odpowiadających ryzyku
+naruszenia praw i wolności osób fizycznych o różnym prawdopodobieństwie wystąpienia
+i wadze zagrożenia. Przepis precyzuje, że decydując o środkach technicznych i organiza‐
+cyjnych należy wziąć pod uwagę stan wiedzy technicznej, koszt wdrażania, charakter,
+zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fi‐
+zycznych o różnym prawdopodobieństwie wystąpienia i wadze. Z przytoczonego przepi‐
+su wynika, że ustalenie odpowiednich środków technicznych i organizacyjnych jest pro‐
+cesem dwuetapowym. W pierwszej kolejności istotnym jest określenie poziomu ryzyka,
+jakie wiąże się z przetwarzaniem danych osobowych uwzględniając przy tym kryteria
+wskazane w art. 32 ust. 1 rozporządzenia 2016/679, a następnie należy ustalić, jakie
+środki techniczne i organizacyjne będą odpowiednie, aby zapewnić stopień bezpieczeń‐
+stwa odpowiadający temu ryzyku. Ustalenia te, w stosownym przypadku, powinny obej‐
+mować środki takie, jak pseudonimizację i szyfrowanie danych osobowych, zdolność do
+ciągłego zapewnienia poufności, integralności, dostępności i odporności systemów i
+usług przetwarzania, zdolność do szybkiego przywrócenia dostępności danych osobo‐
+wych i dostępu do nich w razie incydentu fizycznego lub technicznego oraz regularne te‐
+stowanie, mierzenie i ocenianie skuteczności środków technicznych i organizacyjnych
+mających zapewnić bezpieczeństwo przetwarzania. W myśl art. 32 ust. 2 rozporządzenia
+2016/679, administrator oceniając, czy stopień bezpieczeństwa jest odpowiedni,
+uwzględnia w szczególności ryzyko wiążące się z przetwarzaniem, w szczególności wyni‐
+kające z przypadkowego lub niezgodnego z prawem zniszczenia, utraty, modyfikacji, nie‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 7 z 25
+
+uprawnionego ujawnienia lub nieuprawnionego dostępu do danych osobowych przesyła‐
+nych, przechowywanych lub w inny sposób przetwarzanych.
+Biorąc pod uwagę w szczególności zakres przetwarzanych danych osobowych przez Ad‐
+ministratora, zawarty w pliku znajdującym się na zagubionym zewnętrznym nośniku da‐
+nych (tj. pendrive), w celu prawidłowego wywiązania się z obowiązków nałożonych ww.
+przepisami rozporządzenia 2016/679, Administrator był zobowiązany do podjęcia działań
+zapewniających właściwy poziom ochrony danych poprzez wdrożenie odpowiednich
+środków technicznych oraz organizacyjnych, mających zapewnić bezpieczeństwo prze‐
+twarzanych danych osobowych. Charakter i rodzaj tych działań powinien wynikać z prze‐
+prowadzonej analizy ryzyka, w której powinno się zidentyfikować podatności odnoszące
+się do wykorzystywanych zasobów oraz wynikające z nich zagrożenia, a następnie okre‐
+ślić adekwatne środki bezpieczeństwa. Błędne oszacowanie poziomu ryzyka uniemożli‐
+wia zastosowanie odpowiednich środków bezpieczeństwa dla danego zasobu oraz zwięk‐
+sza prawdopodobieństwo jego wystąpienia. Efektem powyższego była utrata kontroli nad
+danymi osobowymi osoby, której dane znajdowały się na zagubionym zewnętrznym
+nośniku danych.
+Wskazać należy, że rozporządzenie 2016/679 wprowadziło podejście, w którym zarzą‐
+dzanie ryzykiem stanowi fundament działań związanych z ochroną danych osobowych.
+Zarządzanie ryzykiem ma charakter ciągłego procesu wymuszającego na administrato‐
+rze danych nie tylko zapewnienie zgodności z przepisami rozporządzenia 2016/679 po‐
+przez jednorazowe wdrożenie organizacyjnych i technicznych środków bezpieczeństwa,
+ale także zapewnienie ciągłości monitorowania poziomu zagrożeń oraz zapewnienie roz‐
+liczalności w zakresie poziomu oraz adekwatności wprowadzonych zabezpieczeń. Wobec
+powyższego, koniecznością staje się możliwość udowodnienia przed organem nadzor‐
+czym, że wprowadzone rozwiązania, mające na celu zapewnienie bezpieczeństwa da‐
+nych osobowych, są adekwatne do poziomu ryzyka, jak również uwzględniają charakter
+danej organizacji oraz wykorzystywanych mechanizmów przetwarzania danych osobo‐
+wych. Administrator samodzielnie ma zatem przeprowadzić szczegółową analizę prowa‐
+dzonych procesów przetwarzania danych i dokonać oceny ryzyka, a następnie zastoso‐
+wać takie środki i procedury, które będą adekwatne do oszacowanego ryzyka. Konse‐
+kwencją takiego podejścia jest konieczność samodzielnego doboru zabezpieczeń w opar‐
+ciu o analizę zagrożeń. Administratorom nie są wskazywane konkretne środki i procedury
+w zakresie bezpieczeństwa. Przeprowadzenie szczegółowej analizy prowadzonych proce‐
+sów przetwarzania danych i dokonanie oceny ryzyka stanowi obowiązek Administratora,
+który następnie, na podstawie takiej analizy, powinien zastosować takie środki i
+procedury, które będą adekwatne do oszacowanego ryzyka.
+Wobec powyższego, to odpowiednio przeprowadzona ocena ryzyka zapewnia administra‐
+torowi możliwość określenia i wprowadzenia środków technicznych i organizacyjnych,
+które spowodują wyeliminowanie lub co najmniej znaczne obniżenie ustalonego poziomu
+ryzyka materializacji zidentyfikowanych zagrożeń dla przetwarzanych danych osobo‐
+wych. Ocena ryzyka przeprowadzona przez administratora powinna zostać udokumento‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 8 z 25
+
+wana oraz uzasadniona stanem faktycznym istniejącym w chwili jej przeprowadzania.
+Główne czynniki składające się na prawidłową ocenę, które powinny zostać wzięte pod
+uwagę podczas przeprowadzania analizy, to charakterystyka zachodzących procesów
+przetwarzania, aktywa, podatności, zagrożenia oraz aktualne zabezpieczenia. Należy pa‐
+miętać, że istotne przy ocenianiu ryzyka są również takie czynniki, jak zakres i charakter
+przetwarzanych przez administratora danych osobowych, gdyż to od nich zależeć będą
+ewentualne negatywne skutki dla osoby fizycznej występujące w momencie naruszenia
+ochrony jej danych osobowych.
+Przedstawiona przez Administratora analiza ryzyka w postaci dokumentu pt. „Rejestr
+(…)” (data wykonania: 15 kwietnia 2022 roku) zawiera czynności przetwarzania danych
+osobowych w związku z wykorzystywaniem zewnętrznych nośników danych. Analizując
+przedłożony dokument należy stwierdzić, że wśród wymienionych zagrożeń Administra‐
+tor nie wskazał możliwości wystąpienia zdarzenia polegającego na zagubieniu zewnętrz‐
+nego nośnika danych (tj. pendrive) przez pracownika, któremu został on powierzony. W
+przekazanej analizie zostało wskazane zagrożenie związane z włamaniem i kradzieżą,
+jednakże należy zaznaczyć, że są to zagrożenia związane z czynnym działaniem osób
+trzecich mających na celu wyjęcie rzeczy spod władztwa właściciela w celu przywłasz‐
+czenia, natomiast zgodnie z semantycznym znaczeniem słowa „zgubić” oznacza zosta‐
+wienie czegoś, gdzieś bezwiednie lub przez nieuwagę. W związku z powyższym, nie moż‐
+na przyjąć stanowiska, jakoby włamanie i kradzież nośnika danych było tożsame z jego
+zagubieniem. Reasumując, przyjąć należy, że Administrator w sposób nieadekwatny
+przeprowadził ww. analizę, nie uwzględniając tym samym wszystkich możliwych ryzyk
+związanych z użytkowaniem zewnętrznych nośników danych przez pracowników. Admini‐
+strator zaniechał zatem przeprowadzenia analizy ryzyka dla sytuacji, która spowodowała
+wystąpienie zgłoszonego Prezesowi UODO naruszenia ochrony danych osobowych, co
+należy uznać za niezgodne z przytoczonymi wyżej przepisami rozporządzenia 2016/679.
+Tymczasem, jak wskazał WSA w Warszawie w wyroku z dnia 13 maja 2021 r., sygn. akt II
+SA/Wa 2129/20, „Administrator danych powinien zatem przeprowadzić analizę ryzyka i
+ocenić, z jakimi zagrożeniami ma do czynienia”.
+Warto zwrócić uwagę również na fakt, że Administrator dla zidentyfikowanego zagroże‐
+nia polegającego na włamaniu i kradzieży sprzętu (w tym zewnętrznych nośników da‐
+nych), w celu jego wyeliminowania lub co najmniej ograniczenia, przewidział
+zabezpieczenia techniczne w postaci cyt. „(…)”. Podkreślić zatem należy, że prawidłowe
+i skuteczne zastosowanie tego środka bezpieczeństwa zabezpieczyłoby dane przetwa‐
+rzane przy użyciu zewnętrznych nośników danych przed dostępem osób nieuprawnio‐
+nych także w sytuacji zagubienia takiego nośnika. Administrator jednak, wbrew przepro‐
+wadzonej analizie ryzyka, nie wdrożył przyjętego środka technicznego, tj. nie wdrożył
+rozwiązań kryptograficznych dla ochrony danych osobowych przetwarzanych przy użyciu
+służbowych zewnętrznych nośników danych będących w dyspozycji jego pracowników.
+Nadmienić w tym miejscu należy również, że Administrator posiadał wdrożoną procedurę
+związaną z użytkowaniem zewnętrznych nośników danych. „Instrukcja (…)”, której ostat‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 9 z 25
+
+nia aktualizacja została wykonana w dniu 15 kwietnia 2022 roku (zgodnie z przedłożo‐
+nym dokumentem przez Administratora). W pkt (…) odnosi się ona do sposobu, miejsca i
+okresu przechowywania elektronicznych nośników informacji zawierających dane osobo‐
+we, w tym zewnętrznych nośników danych (pendrive). W ww. rozdziale unormowana zo‐
+stała między innymi kwestia form zabezpieczenia ww. nośników danych. Zgodnie z
+wprowadzonymi zasadami w A. Sp. k. z siedzibą w T. cyt. „(…) (…)”. Ponadto, warto
+zwrócić uwagę na pkt (…) i (…) przedmiotowego dokumentu, według których cyt. „(…)”,
+a także „(…)”. Pomimo powyższych postanowień „Instrukcji (…)” Administrator dopusz‐
+czał możliwość wynoszenia zewnętrznych nośników danych poza swoją siedzibę, ale przy
+zastosowaniu odpowiednich form zabezpieczenia, cyt. „W przypadku wynoszenia poza
+obszar organizacji nośników zawierających dane należy je uprzednio zaszyfrować”.
+Administrator w złożonych wyjaśnieniach poinformował organ nadzorczy, że cyt. „oprócz
+Instrukcji (…) przygotował odrębną instrukcję objaśniającą, w jaki sposób szyfrować pliki
+na pendrive oraz jakiego programu do tego celu użyć” i przekazał link, pod którym moż‐
+na zapoznać się z ww. instrukcją (sporządzoną w formie filmu instruktażowego). Przed‐
+miotowy film instruktażowy wyjaśnia, w jaki sposób, za pomocą programu (…) zaszyfro‐
+wać prezentowane w materiale pliki z danymi. Biorąc pod uwagę zastosowaną przez Ad‐
+ministratora formę (film instruktażowy) przekazania pracownikom kluczowych wytycz‐
+nych w zakresie należytego zabezpieczenia zewnętrznych nośników danych (pendrive)
+nie jest możliwe dokonanie jego rzetelnej oceny pod kątem skuteczności i realnie pozy‐
+skanej wiedzy i umiejętności pracowników w omawianym zakresie (brak następczych
+czynności sprawdzających zapoznanie się pracowników Administratora z materiałem).
+W ustalonym stanie faktycznym należy zatem przyjąć, że Administrator przerzucił na
+swoich pracowników wdrożenie środków bezpieczeństwa w postaci szyfrowania ze‐
+wnętrznych nośników danych (pendrive), a sam nie podjął w tym zakresie żadnych dzia‐
+łań mających na celu zastosowanie odpowiednich środków technicznych dla zapewnienia
+ochrony tym danym, pomimo iż w przeprowadzonej analizie ryzyka dla zagrożenia wła‐
+maniem i kradzieżą sprzętu, co należy ponownie podnieść, przewidział właśnie
+zabezpieczenie techniczne w postaci cyt. „(…)” i wbrew swoim obowiązkom wynikają‐
+cym z rozporządzenia 2016/679. Nie można bowiem uznać, że wprowadzenie w we‐
+wnętrznym dokumencie Administratora obowiązku szyfrowania zewnętrznych nośników
+danych (pendrive) oraz przekazanie pracownikom używającym tych nośników linku do
+filmu z instrukcją ich szyfrowania stanowi o prawidłowej realizacji tych obowiązków, sko‐
+ro finalnie i tak obowiązek zastosowania tego konkretnego środka bezpieczeństwa o cha‐
+rakterze technicznym spoczywał na pracowniku. W tym kontekście wskazać należy na
+wyrok Wojewódzkiego Sądu Administracyjnego w Warszawie z dnia 15 lutego 2022 roku,
+sygn. akt II SA/Wa 3309/21, w uzasadnieniu którego podkreślono, że „Pracownik nie
+może bowiem zastępować administratora danych w realizacji jego zadań wynikających z
+tych przepisów. Ponadto, pracownik może nie posiadać w tym zakresie odpowiedniej
+wiedzy, zignorować konieczność zabezpieczenia nośnika (tak jak miało to miejsce w ni‐
+niejszym przypadku) (…) lub wdrożyć zabezpieczenie nieadekwatne do zakresu i charak‐
+teru danych oraz ryzyk występujących w tym procesie przetwarzania danych. Trafne są
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 10 z 25
+
+wnioski organu, iż tak zorganizowany proces określania i wdrażania zabezpieczeń prze‐
+twarzanych danych osobowych, skutkuje wręcz pozbawieniem administratora danych
+podstawowych informacji niezbędnych do przeprowadzenia w sposób właściwy analizy
+ryzyka i na tej podstawie zbudowania skutecznego systemu ochrony danych, niezbędne‐
+go do ciągłego zapewniania poufności danych, zgodnie z wymogiem wynikającym w
+szczególności z art. 32 ust. 1 lit. b rozporządzenia 2016/679. Nie będzie on bowiem miał
+wiedzy co do tego, jakie zabezpieczenia w jego organizacji istnieją, na ile i w przypadku
+jakich zagrożeń będą skuteczne, a także zostaje pozbawiony informacji oraz możliwości
+zareagowania na wdrożenie zabezpieczenia nieadekwatnego do zagrożeń”.
+W tym miejscu należy odnieść się również do stanowiska Administratora dotyczącego
+potencjalnego miejsca zagubienia przedmiotowego nośnika danych (pendrive). Zgodnie
+z informacjami przekazanymi w pismach z dnia 11 sierpnia oraz 7 listopada 2023 roku,
+cyt. „przedmiotowy pendrive został zagubiony nie w miejscu publicznym, lecz na terenie
+zakładu pracy, w części, do której dostęp mają wyłącznie pracownicy administratora”.
+Powyższe twierdzenie Administratora wynika z wyjaśnień przekazanych przez pracowni‐
+ka, który zgubił zewnętrzny nośnik danych (pendrive). Z ww. wyjaśnień załączonych do
+pisma Administratora z dnia 7 listopada 2023 roku wynika, że przedmiotowy nośnik
+danych nie został odnaleziony, cyt. „Wychodząc do domu poprosiłam, aby Kierownik (…)
+i Kierownik (…) przy sprzątaniu restauracji jeszcze raz dokładnie wszystko sprawdzili i
+przeszukali te pomieszczenia, ale również nic nie znaleźli. Po bezowocnych poszukiwa‐
+niach, dnia 19.07.2023 zgłosiłam koordynatorce zagubienie pendriva”. W związku z po‐
+wyższym, nie można wykluczyć nie tylko możliwości zapoznania się z danymi znajdują‐
+cymi na zagubionym zewnętrznym nośniku danych (pendrive) przez osobę, bądź osoby
+nieuprawione, ale również, że został on wyniesiony poza organizację Administratora.
+Podkreślić również należy, że nawet gdyby przyjąć, że rzeczywiście ww. nośnik został za‐
+gubiony na terenie zakładu pracy, to i tak nie zmienia to oceny przedmiotowego zdarze‐
+nia. Zawierał on bowiem niezabezpieczone przed dostępem osób nieuprawnionych (np.
+poprzez zastosowanie mechanizmu szyfrowania) dane osobowe pracownika Administra‐
+tora, a zatem ryzyko naruszenia poufności tych danych istniało (i istnieje nadal) nieza‐
+leżnie od tego, kto (pracownik Administratora czy osoba postronna) odnalazł lub odnaj‐
+dzie ten nośnik. Nie każdy bowiem pracownik Administratora, co należy podkreślić, jest
+upoważniony do przetwarzania danych osobowych innych pracowników.
+Podkreślić zatem należy, że badanie prawdopodobieństwa wystąpienia danego zdarzenia
+nie powinno opierać się wyłącznie na podstawie częstotliwości występowania zdarzeń w
+danej organizacji, albowiem fakt nie wystąpienia danego zdarzenia w przeszłości wcale
+nie oznacza, że nie może ono zaistnieć w przyszłości. W tym kontekście należy wskazać,
+że Wojewódzki Sąd Administracyjny w Warszawie w wyroku z dnia 26 sierpnia 2020 r.,
+sygn. akt II SA/Wa 2826/19, podniósł, że „(…) czynności o charakterze techniczno – orga‐
+nizacyjnym leżą w gestii administratora danych osobowych, ale nie mogą być dobierane
+w sposób całkowicie swobodny i dobrowolny, bez uwzględnienia stopnia ryzyka oraz
+charakteru chronionych danych osobowych”. W przedmiotowej sprawie – wobec nie‐
+uwzględnienia przed wystąpieniem naruszenia ochrony danych osobowych w przeprowa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 11 z 25
+
+dzonej analizie ryzyka dla operacji przetwarzania danych osobowych przy użyciu ze‐
+wnętrznych nośników danych (pendrive) zagrożenia związanego z zagubieniem takiego
+nośnika – Administrator nie określił (i w konsekwencji nie zastosował) odpowiednich
+środków bezpieczeństwa mających sprowadzić ryzyko materializacji się tego zagrożenia
+do poziomu akceptowalnego. Podkreślić należy, że przeprowadzenie prawidłowej analizy
+ryzyka przed dopuszczeniem używania zewnętrznych nośników danych (pendrive) przez
+pracowników, a następnie monitorowanie przyjętych procedur bezpieczeństwa zminima‐
+lizowałoby ryzyko wystąpienia przedmiotowego naruszenia ochrony danych osobowych i
+czyniłoby zadość obowiązkowi rozliczalności, który został nałożony na Administratora w
+art. 5 ust. 2 rozporządzenia 2016/679.
+Podkreślić także należy, że nowe ryzyka lub zagrożenia mogą zmaterializować się lub zo‐
+stać ujawnione również samoistnie, w sposób całkowicie niezależny od administratora i
+jest to fakt, który również powinien być brany pod uwagę zarówno podczas konstruowa‐
+nia systemu ochrony danych osobowych, jak i w czasie jego realizowania. W związku z
+powyższym obowiązkiem Administratora jest cykliczne przeprowadzanie analizy ryzyka
+w celu zweryfikowania, czy nie pojawiły się nowe zagrożenia dla przetwarzanych danych
+osobowych, w tym przy użyciu zewnętrznych nośników danych (pendrive), oraz czy do‐
+tychczas stosowane środki bezpieczeństwa są odpowiednie, tzn. czy pozwalają na ich
+wyeliminowanie lub co najmniej ograniczenie do poziomu ryzyka akceptowalnego.
+Administrator przeprowadził ponowną analizę ryzyka po wystąpieniu przedmiotowego
+naruszenia ochrony danych osobowych, tj. w dniu 1 sierpnia 2023 roku, w której to
+uwzględnił zagrożenia dla przetwarzania danych osobowych w następstwie zagubienia
+zewnętrznego nośnika danych wykorzystywanego do ich przetwarzania. Ponadto, zgod‐
+nie z deklaracją przekazaną w piśmie z dnia 18 grudnia 2023 roku, Administrator
+zaprzestał używania ww. nośników danych w swojej działalności.
+Zarządzanie ryzykiem (przeprowadzenie analizy ryzyka i na tej podstawie wdrożenie od‐
+powiednich zabezpieczeń) jest jednym z podstawowych elementów systemu ochrony da‐
+nych osobowych i ma charakter ciągłego procesu. Winna więc następować okresowa we‐
+ryfikacja zarówno adekwatności, jak i skuteczności zastosowanych zabezpieczeń, sto‐
+sownie do wymogu przewidzianego w art. 32 ust. 1 lit. d) rozporządzenia 2016/679. Ad‐
+ministrator danych powinien zatem regularnie testować, mierzyć i oceniać skuteczność
+środków technicznych i organizacyjnych, mających zapewnić bezpieczeństwo przetwa‐
+rzania. Podkreślić należy, że wskazane testowanie, mierzenie i ocenianie, aby stanowiło
+realizację wymogu wynikającego z art. 32 ust. 1 lit. d) rozporządzenia 2016/679, musi
+być dokonywane w sposób regularny, co oznacza świadome zaplanowanie i zorganizo‐
+wanie, a także udokumentowanie (w związku z zasadą rozliczalności, o której mowa w
+art. 5 ust. 2 rozporządzenia 2016/679) tego typu działań w określonych przedziałach
+czasowych, niezależnie od zmian w organizacji i przebiegu procesów przetwarzania da‐
+nych. Jak wskazał Wojewódzki Sąd Administracyjny w Warszawie w wyroku z dnia 6
+czerwca 2023 roku, sygn. akt II SA/Wa 1939/22, „(…) powinność regularnego testowania
+środków technicznych i organizacyjnych, zabezpieczenia przetwarzania danych osobo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 12 z 25
+
+wych, aby zapewnić stopień bezpieczeństwa odpowiadający temu ryzyku, w rozumieniu
+art. 32 ust. 1 zd. wstępne RODO, wynika wprost z brzmienia lit. d wskazanego art. 32
+ust. 1, zaś powinność dokumentowania czynności w danym zakresie statuuje zasada
+rozliczalności (art. 5 ust. 2 RODO)”. Podobnie wypowiedział się Wojewódzki Sąd Admini‐
+stracyjny w Warszawie w wyroku z dnia 21 czerwca 2023 roku, sygn. akt II SA/Wa
+150/23, stwierdzając, że „Podkreślenia wymaga, że regularne testowanie, mierzenie i
+ocenianie skuteczności środków technicznych i organizacyjnych mających zapewnić bez‐
+pieczeństwo przetwarzania jest podstawowym obowiązkiem każdego administratora
+oraz podmiotu przetwarzającego wynikającym z art. 32 ust 1 lit. d) RODO. Administrator
+zobowiązany jest więc do weryfikacji zarówno doboru, jak i poziomu skuteczności stoso‐
+wanych środków technicznych na każdym etapie przetwarzania. Kompleksowość tej we‐
+ryfikacji powinna być oceniana przez pryzmat adekwatności do ryzyk oraz proporcjonal‐
+ności w stosunku do stanu wiedzy technicznej, kosztów wdrażania oraz charakteru,
+zakresu, kontekstu i celów przetwarzania”.
+Należy zatem wskazać, że opisywane testowanie, mierzenie i ocenianie musi dotyczyć
+nie tylko wprowadzonych środków o charakterze technicznym, ale również tych o cha‐
+rakterze organizacyjnym, a więc m.in. procedur określających zasady przetwarzania da‐
+nych osobowych, w tym przy użyciu zewnętrznych nośników danych (pendrive). Działa‐
+nie w tym zakresie polega przede wszystkim na ich przeglądzie pod kątem skuteczności,
+na co składa się nie tylko sprawdzanie, czy określona procedura jest stosowana przez
+pracowników, ale także na zbadaniu, czy wdrożone środki bezpieczeństwa przyczyniają
+się w sposób realny do obniżenia ryzyka. Natomiast w przedmiotowym stanie faktycz‐
+nym uznać należy, że Administrator nie wywiązywał się należycie z nałożonego na niego
+obowiązku dotyczącego regularnego testowania, mierzenia i oceniania skuteczności
+środków technicznych i organizacyjnych mających zapewnić bezpieczeństwo przetwarza‐
+nia danych osobowych. Analizując przekazaną w piśmie z dnia 11 sierpnia 2023 roku „Li‐
+stę (…)” za rok 2022 sporządzoną w dniu 7 marca 2022 roku należy zwrócić uwagę, że
+Administrator nie dokonał w niej kontroli przestrzegania postanowień w zakresie użytko‐
+wania zewnętrznych nośników danych (tj. pendrive) przez pracowników, określonych w
+„Instrukcji (…)”. Jedynymi sprawdzanymi obszarami w odniesieniu do zewnętrznych
+nośników danych były obszary opisane w pkt (…) cyt. „(…)”, pkt (…) cyt. „(…)” oraz w
+pkt (…) cyt. „(…)”. Natomiast w „Liście (…)” za rok 2023 sporządzonej w dniu 16 czerw‐
+ca 2023 roku zawarte są tożsame punkty kontrolne odpowiadające odpowiednio pkt nr
+(…) i (…). Istotną zmianą, która nie została ujęta w „Liście (…)” z dnia 7 marca 2022
+roku, a pojawiła się w dokumencie z dnia 16 czerwca 2023 roku, jest stwierdzenie, że
+cyt. „(…)”, przy którym pojawiła się negatywna odpowiedź i została wskazana informacja
+cyt. „(…)”. Warto w tym miejscu zwrócić uwagę, że zgodnie z zapisami pkt (…) „Instruk‐
+cji (…)” cyt. „(…)”. Ww. fakty pozostają zatem w opozycji do deklaracji Administratora
+wskazanej w piśmie z dnia 11 października 2023 roku, z której należy wywnioskować, że
+wynoszenie nośników danych poza siedzibę zakładu pracy nie miało miejsca, gdyż cyt.
+„do tej pory nie było przypadku, aby pracownik złożył wniosek o możliwość wyniesienia
+pendrive poza zakład pracy, a administrator takiej zgody nie udzielał”. Ponadto, w tym
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 13 z 25
+
+samym piśmie Administrator poinformował, że cyt. „obowiązuje generalny zakaz kopio‐
+wania na nośnik danych informacji zawierających jakiekolwiek dane osobowe lub poufne
+dotyczące administratora, jak również generalny zakaz wynoszenia poza zakład pracy
+nośników danych zawierających dane osobowe lub poufne dotyczące administratora”. W
+związku z powyższym należy uznać, że procedura związana z użytkowaniem
+zewnętrznych nośników danych (pendrive) wskazana w „Instrukcji (…)” w żaden sposób
+nie była egzekwowana przez Administratora, gdyż przedmiotowe naruszenie ochrony da‐
+nych osobowych polegało na zagubieniu przez pracownika zewnętrznego nośnika da‐
+nych (pendrive), na którym znajdowały się pliki z niezaszyfrowanymi danymi osobowymi
+pracownika oraz zaszyfrowane dane finansowe. Powyższe świadczy też o nieskuteczno‐
+ści tego środka bezpieczeństwa o charakterze organizacyjnym, skoro zakaz wynoszenia
+zewnętrznych nośników danych (pendrive) poza obszar organizacji Administratora bez
+jego zgody w praktyce był łamany przez pracowników. Przesądza to również o konieczno‐
+ści przyjęcia, że realizowane w ten sposób monitorowanie przestrzegania procedur doty‐
+czących użytkowania zewnętrznych nośników danych (pendrive) przez pracowników nie
+spełniało swojej funkcji, a w konsekwencji, że nie może zostać uznane za realizację
+obowiązku określonego w art. 32 ust. 1 lit. d) rozporządzenia 2016/679.
+Warto zwrócić uwagę również na fakt, że osoby, którym powierzono zewnętrzne nośniki
+danych (pendrive) dysponowały stosownym upoważnieniem do przetwarzania danych
+osobowych oraz kopiowania danych na ten właśnie nośnik. Zatem nie wszyscy pracowni‐
+cy Administratora mieli dostęp do danych osobowych pracowników. W związku z powyż‐
+szym, grupa osób, która powinna podlegać szczególnej kontroli przestrzegania przepi‐
+sów, jak należy przyjąć, nie była liczna, co zdecydowanie było ułatwieniem dla Admini‐
+stratora w zakresie rzetelnego wywiązywania się z wymogu wprowadzonego art. 32 ust.
+1 lit. d) rozporządzenia 2016/679. Administrator sam udzielał stosowanych upoważnień
+pracownikom w zakresie przetwarzania danych osobowych i ich kopiowania, tym samym
+miał wiedzę na temat konkretnych osób, które powinny zostać objęte dodatkowym i
+szerszym nadzorem w stosowaniu przyjętych procedur związanych z ochroną danych
+osobowych przetwarzanych z wykorzystaniem zewnętrznych nośników danych (pendri‐
+ve).
+W świetle dokonanych w toku niniejszego postępowania ustaleń wskazać należy, że Ad‐
+ministrator nie stosując środków technicznych i organizacyjnych zapewniających bezpie‐
+czeństwo przetwarzanych danych, rezultatem czego było naruszenie ochrony danych
+osobowych zgłoszone Prezesowi UODO, a także nie dokonując regularnego testowania,
+mierzenia i oceniania skuteczności zastosowanych środków bezpieczeństwa, naruszył
+art. 5 ust. 1 lit. f) rozporządzenia 2016/679, odzwierciedlony w postaci obowiązków okre‐
+ślonych w art. 24 ust. 1, art. 25 ust. 1, art. 32 ust. 1 i art. 32 ust. 2. Konsekwencją zaś
+naruszenia art. 5 ust. 1 lit. f) rozporządzenia 2016/679 jest naruszenie zasady rozliczal‐
+ności wyrażonej w art. 5 ust. 2 rozporządzenia 2016/679. Jak wynika z orzeczenia Woje‐
+wódzkiego Sądu Administracyjnego w Warszawie z dnia 10 lutego 2021 roku, sygn. akt II
+SA/Wa 2378/20, „Zasada rozliczalności bazuje więc na prawnej odpowiedzialności admi‐
+nistratora za właściwe wypełnianie obowiązków i nakłada na niego obowiązek wykazania
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 14 z 25
+
+zarówno przed organem nadzorczym, jak i przed podmiotem danych, dowodów na
+przestrzeganie wszystkich zasad przetwarzania danych”. Podobnie kwestię zasady rozli‐
+czalności interpretuje Wojewódzki Sąd Administracyjny w Warszawie w wyroku z dnia 26
+sierpnia 2020 roku, sygn. akt II SA/Wa 2826/19, „Biorąc pod uwagę całość norm rozpo‐
+rządzenia 2016/679, podkreślić należy, że administrator ma znaczną swobodę w zakre‐
+sie stosowanych zabezpieczeń, jednocześnie jednak ponosi odpowiedzialność za naru‐
+szenie przepisów o ochronie danych osobowych. Z zasady rozliczalności wprost wynika,
+że to administrator danych powinien wykazać, a zatem udowodnić, że przestrzega
+przepisów określonych w art. 5 ust. 1 rozporządzenia 2016/679”.
+Mając na uwadze powyższe nieprawidłowości, a także treść art. 58 ust. 2 lit. d) rozporzą‐
+dzenia 2016/679, Prezes UODO nakazał Administratorowi dostosowanie operacji prze‐
+twarzania do przepisów rozporządzenia 2016/679 poprzez wdrożenie odpowiednich środ‐
+ków technicznych i organizacyjnych w celu zapewnienia regularnego testowania, mierze‐
+nia i oceniania skuteczności środków technicznych i organizacyjnych mających zapewnić
+bezpieczeństwo przetwarzania.
+Oceniając okoliczności przedmiotowego naruszenia ochrony danych osobowych, należy
+podkreślić, że stosując przepisy rozporządzenia 2016/679 należy mieć na uwadze, iż ce‐
+lem tego rozporządzenia (wyrażonym w art. 1 ust. 2) jest ochrona podstawowych praw i
+wolności osób fizycznych, w szczególności ich prawa do ochrony danych osobowych oraz
+że ochrona osób fizycznych w związku z przetwarzaniem danych osobowych jest jednym
+z praw podstawowych (zdanie pierwsze motywu 1 preambuły). W przypadku jakichkol‐
+wiek wątpliwości np. co do wykonania obowiązków przez administratorów – nie tylko w
+sytuacji, gdy doszło do naruszenia ochrony danych osobowych, ale też przy opracowy‐
+waniu technicznych i organizacyjnych środków bezpieczeństwa mających im zapobiegać
+– należy w pierwszej kolejności brać pod uwagę te wartości.
+Biorąc pod uwagę powyższe ustalenia oraz stwierdzone naruszenia przepisów rozporzą‐
+dzenia 2016/679, Prezes UODO, korzystając z przysługującego mu uprawnienia określo‐
+nego w art. 58 ust. 2 lit. i) rozporządzenia 2016/679, zgodnie z którym każdemu organo‐
+wi nadzorczemu przysługuje uprawnienie do zastosowania, oprócz lub zamiast innych
+środków naprawczych przewidzianych w art. 58 ust. 2 lit. a)-h) oraz lit. j) tego rozporzą‐
+dzenia, administracyjnej kary pieniężnej na mocy art. 83 ust. 4 lit. a) i ust. 5 lit. a) rozpo‐
+rządzenia 2016/679, mając na względzie okoliczności ustalone w przedmiotowym postę‐
+powaniu stwierdził, że w rozpatrywanej sprawie zaistniały przesłanki uzasadniające
+nałożenie na Administratora administracyjnej kary pieniężnej.
+Zgodnie z art. 83 ust. 4 lit. a) rozporządzenia 2016/679, naruszenia przepisów dotyczą‐
+cych obowiązków administratora i podmiotu przetwarzającego, o których mowa w art. 8,
+11, 25-39 oraz 42 i 43 podlegają zgodnie z ust. 2 administracyjnej karze pieniężnej w
+wysokości do 10 000 000 EUR, a w przypadku przedsiębiorstwa - w wysokości do 2 %
+jego całkowitego rocznego światowego obrotu z poprzedniego roku obrotowego, przy
+czym zastosowanie ma kwota wyższa.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 15 z 25
+
+Zgodnie z art. 83 ust. 5 lit. a) rozporządzenia 2016/679, naruszenia przepisów dotyczą‐
+cych podstawowych zasad przetwarzania, w tym warunków zgody, o których to zasa‐
+dach i warunkach mowa w art. 5, 6, 7 oraz 9, podlegają zgodnie z ust. 2 administracyjnej
+karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa - w
+wysokości do 4 % jego całkowitego rocznego światowego obrotu z poprzedniego roku
+obrotowego, przy czym zastosowanie ma kwota wyższa.
+Art. 83 ust. 3 rozporządzenia 2016/679 natomiast stanowi, że jeżeli administrator lub
+podmiot przetwarzający narusza umyślnie lub nieumyślnie w ramach tych samych lub
+powiązanych operacji przetwarzania kilka przepisów niniejszego rozporządzenia, całko‐
+wita wysokość administracyjnej kary pieniężnej nie przekracza wysokości kary za
+najpoważniejsze naruszenie.
+W niniejszej sprawie administracyjna kara pieniężna wobec Administratora nałożona zo‐
+stała za naruszenie art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679 na pod‐
+stawie przytoczonego wyżej art. 83 ust. 4 lit. a) rozporządzenia 2016/679, natomiast za
+naruszenie art. 5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia 2016/679 – na podstawie art.
+83 ust. 5 lit. a) tego rozporządzenia. Jednocześnie administracyjna kara pieniężna w wy‐
+sokości 238 345 zł (słownie: dwieście trzydzieści osiem tysięcy trzysta czterdzieści pięć)
+nałożona na Administratora łącznie za naruszenie wszystkich powyższych przepisów –
+stosownie do przepisu art. 83 ust. 3 rozporządzenia 2016/679 – nie przekracza wysoko‐
+ści kary za najpoważniejsze stwierdzone w niniejszej sprawie naruszenie, tj. naruszenie
+art. 5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia 2016/679, które stosownie do art. 83 ust.
+5 lit. a) rozporządzenia 2016/679 podlega administracyjnej karze pieniężnej w wysokości
+do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 4 % jego całkowi‐
+tego rocznego światowego obrotu z poprzedniego roku obrotowego.
+Decydując o nałożeniu administracyjnej kary pieniężnej Prezes UODO – stosownie do tre‐
+ści art. 83 ust. 2 lit. a) - k) rozporządzenia 2016/679 – wziął pod uwagę następujące oko‐
+liczności sprawy, stanowiące o konieczności zastosowania w niniejszej sprawie tego ro‐
+dzaju sankcji oraz wpływające obciążająco na wymiar nałożonej administracyjnej kary
+pieniężnej:
+1. Charakter, wagę i czas trwania naruszenia przy uwzględnieniu charakteru, zakresu
+lub celu danego przetwarzania, liczby poszkodowanych osób, których dane dotyczą,
+oraz rozmiaru poniesionej przez nie szkody (art. 83 ust. 2 lit. a rozporządzenia
+2016/679).
+Stwierdzone w niniejszej sprawie naruszenie przepisów ochrony danych osobo‐
+wych, którego skutkiem była (i jest nadal) możliwość uzyskania nieuprawnione‐
+go dostępu do danych znajdujących się na niezabezpieczonym zewnętrznym
+nośniku danych (pendrive) przez osobę bądź osoby nieuprawnione (naruszenie
+zasady poufności), ma znaczną wagę i poważny charakter, stwarza bowiem wy‐
+sokie ryzyko negatywnych skutków dla osoby, której dane dotyczą. Naruszenie
+przez A. Sp. k. z siedzibą w T. obowiązków zastosowania środków zabezpieczają‐
+cych przetwarzane dane przed ich udostępnieniem osobom nieuprawnionym,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+2.
+
+Strona 16 z 25
+
+pociąga za sobą nie tylko potencjalną, ale również realną możliwość wykorzy‐
+stania tych danych przez podmioty trzecie bez wiedzy i wbrew woli osoby, któ‐
+rej dane dotyczą, niezgodnie z przepisami rozporządzenia 2016/679. Ponadto,
+do chwili wydania niniejszej decyzji zagubiony zewnętrzny nośnik danych nie
+został odnaleziony, więc w dalszym ciągu osoba lub osoby nieuprawnione mogą
+mieć dostęp do danych osobowych znajdujących się na tym nośniku. Jak wska‐
+zał Sąd Okręgowy w Warszawie w wyroku z dnia 6 sierpnia 2020 r. sygn. akt
+XXV C 2596/19, obawa, a więc utrata bezpieczeństwa stanowi realną szkodę
+niemajątkową wiążącą się z obowiązkiem jej naprawienia. Z kolei Trybunał Spra‐
+wiedliwości UE w orzeczeniu z dnia 14 grudnia 2023 r. w/s Natsionalna agentsia
+za prihodite (C-340/21) podkreślił, że „Art. 82 ust. 1 RODO należy interpretować
+w ten sposób, że obawa przed ewentualnym wykorzystaniem przez osoby trze‐
+cie w sposób stanowiący nadużycie danych osobowych, jaką żywi osoba, której
+dane dotyczą, w następstwie naruszenia tego rozporządzenia może sama w
+sobie stanowić "szkodę niemajątkową" w rozumieniu tego przepisu”.
+Podkreślić również należy długi czas trwania naruszenia przepisów o ochronie
+danych osobowych, tj. od dnia 15 kwietnia 2022 roku, kiedy to Administrator
+przeprowadził w sposób nieprawidłowy, jak wykazano wyżej, analizę ryzyka, w
+efekcie czego nie zastosował odpowiednich środków bezpieczeństwa w celu za‐
+pewnienia ochrony danym osobowym przetwarzanym przy użyciu zewnętrznych
+nośników danych (pendrive), do dnia 18 grudnia 2023 roku, tj. daty sporządze‐
+nia pisma, w którym Administrator poinformował o zaprzestaniu używania w
+jego organizacji zewnętrznych nośników danych (pendrive).
+W niniejszej sprawie naruszenie dotyczyło danych osobowych tylko jednej oso‐
+by. Taką liczbę osób dotkniętych naruszeniem należy uznać za niewielką, co nie‐
+wątpliwie przemawia na korzyść Administratora, lecz nie zmieniło to jednak ca‐
+łościowej oceny, tj. uznania w analizowanej sprawie przesłanki z art. 83 ust. 2
+lit. a) rozporządzenia 2016/679 za obciążającą.
+Nieumyślny charakter naruszenia (art. 83 ust. 2 lit. b rozporządzenia 2016/679).
+Utrata kontroli nad danymi osobowymi, osoby, której dane znajdują się na zagu‐
+bionym zewnętrznym nośniku danych (pendrive), stała się możliwa na skutek
+niedopełnienia przez A. Sp. k. z siedzibą w T. obowiązku zastosowania odpo‐
+wiednich środków bezpieczeństwa w celu zapewnienia ochrony tym danym. W
+ocenie organu nadzorczego stanowi to o nieumyślnym charakterze naruszenia,
+wynikającym z niedbalstwa Administratora, który w sposób nieprawidłowy prze‐
+prowadził analizę ryzyka dla operacji przetwarzania danych przy użyciu takich
+nośników, gdyż nie obejmowała ona zagrożenia będącego przyczyną naruszenia
+ochrony danych osobowych. Ponadto, Administrator posiadał wdrożoną proce‐
+durę w zakresie sposobu, miejsca i okresu przechowywania elektronicznych no‐
+śników informacji zawierających dane osobowe, określoną w dokumencie pt.
+„Instrukcja (…)”, ale nie była ona skutecznie egzekwowana, a pracownicy Admi‐
+nistratora nie stosowali się do jej postanowień regulujących działania, jakie na‐
+leży podjąć w celu zapewnienia bezpieczeństwa danych przetwarzanych na ze‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+3.
+
+Strona 17 z 25
+
+wnętrznym nośniku danych (pendrive). Administrator w zakresie szyfrowania
+plików stworzył również odrębną instrukcję w formie filmiku instruktażowego,
+który objaśniał cyt. (…) „w jaki sposób szyfrować pliku na pendrive oraz jakiego
+programu do tego celu użyć”. Organ po przeanalizowaniu niniejszego środka w
+postaci materiału instruktażowego dostępnego pod przekazanym przez Admini‐
+stratora linkiem stwierdził, że nie jest możliwe dokonanie jego rzetelnej oceny
+pod kątem skuteczności i realnie pozyskanej wiedzy i umiejętności pracowników
+w omawianym zakresie ze względu na brak następczych czynności sprawdzają‐
+cych zapoznanie się pracowników Administratora z materiałem. Reasumując po‐
+wyższe należy zatem przyjąć, że Administrator przerzucił na swoich pracowni‐
+ków wdrożenie środków bezpieczeństwa w postaci szyfrowania zewnętrznych
+nośników danych (pendrive), a sam nie podjął w tym zakresie żadnych działań
+mających na celu zastosowanie odpowiednich środków technicznych dla zapew‐
+nienia ochrony danym znajdującym się na takich nośnikach. Poddaje to w wąt‐
+pliwość skuteczność prowadzonych przez Administratora działań monitorują‐
+cych przestrzeganie przez pracowników wprowadzonych procedur oraz przepro‐
+wadzania szkoleń dla pracowników w zakresie ochrony danych osobowych.
+Kategorie danych osobowych, których dotyczyło naruszenie (art. 83 ust. 2 lit. g
+rozporządzenia 2016/679).
+Dane osobowe, znajdujące się na zagubionym zewnętrznym nośniku danych
+(pendrive), tj. imię i nazwisko, adres zamieszkania, obywatelstwo, płeć, data
+urodzenia, miejsce urodzenia, numer PESEL, seria i numer paszportu, numer te‐
+lefonu, adres e-mailowy, wizerunek (zdjęcie) oraz dane dotyczące zarobków nie
+obejmują danych podlegających szczególnej ochronie na gruncie art. 9 ust. 1
+oraz art. 10 rozporządzenia 2016/679. Numer ewidencyjny PESEL, czyli jedena‐
+stocyfrowy symbol numeryczny, jednoznacznie identyfikujący osobę fizyczną,
+zawierający m.in. datę urodzenia oraz podlegający również, jako krajowy numer
+identyfikacyjnym, wyjątkowej ochronie na gruncie art. 87 rozporządzenia
+2016/679, jest daną o szczególnym charakterze i takiej szczególnej ochrony wy‐
+maga.
+W tym kontekście warto przywołać wytyczne Europejskiej Rady Ochrony Danych
+(EROD) nr 04/2022 w sprawie obliczania administracyjnych kar pieniężnych na
+podstawie RODO przyjętych 24 maja 2023 r. (zwanych dalej: „Wytycznymi
+04/2022”), w których to wskazano: „Jeśli chodzi o wymóg uwzględnienia katego‐
+rii danych osobowych, których dotyczyło naruszenie (art. 83 ust 2 lit. g) [rozpo‐
+rządzenia 2016/679]), w [rozporządzeniu 2016/679] wyraźnie wskazano rodzaje
+danych, które podlegają szczególnej ochronie, a tym samym bardziej rygory‐
+stycznej reakcji przy nakładaniu kar pieniężnych. Dotyczy to co najmniej rodza‐
+jów danych objętych art. 9 i 10 [rozporządzenia 2016/679] oraz danych nieobję‐
+tych zakresem tych artykułów, których rozpowszechnianie natychmiast powodu‐
+je szkody lub dyskomfort osoby, której dane dotyczą (np. danych dotyczących
+lokalizacji, danych dotyczących komunikacji prywatnej, krajowych numerów
+identyfikacyjnych lub danych finansowych, takich jak zestawienia transakcji lub
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 18 z 25
+
+numery kart kredytowych). Ogólnie rzecz biorąc, im większej liczby takich kate‐
+gorii danych dotyczy naruszenie lub im bardziej wrażliwe są dane, tym większą
+wagę organ nadzorczy może przypisać takiemu czynnikowi. Znaczenie ma rów‐
+nież ilość danych dotyczących każdej osoby, której dane dotyczą, wzrasta skala
+naruszenia prawa do prywatności i ochrony danych osobowych”.
+Decydując o nałożeniu administracyjnej kary pieniężnej Prezes UODO wziął pod uwagę
+następujące okoliczności sprawy wpływające łagodząco na wymiar nałożonej
+administracyjnej kary pieniężnej:
+1. Stopień współpracy z organem nadzorczym w celu usunięcia naruszenia oraz złago‐
+dzenia jego ewentualnych negatywnych skutków (art. 83 ust. 2 lit. f) rozporządzenia
+2016/679).
+A. Sp. k. z siedzibą w T. prawidłowo wywiązywał się z ciążących na administrato‐
+rze obowiązków procesowych w trakcie postępowania administracyjnego, za‐
+kończonego wydaniem niniejszej decyzji. Warto wskazać również, że osoba, któ‐
+rej dane dotyczą, została zawiadomiona o zaistniałym naruszeniu w sposób od‐
+powiadający wymogom art. 34 rozporządzenia 2016/679. Administrator podjął
+również konkretne działania, których efektem było zaprzestanie korzystania
+przez pracowników z zewnętrznych nośników danych (pendrive), tym samym
+eliminując możliwość wystąpienia analogicznego naruszenia ochrony danych
+osobowych w przyszłości. Ponadto, Administrator przeprowadził, także ponowną
+analizę ryzyka po wystąpieniu przedmiotowego naruszenia ochrony danych oso‐
+bowych, tj. w dniu 1 sierpnia 2023 roku, w której to uwzględnił zagrożenia dla
+przetwarzania danych osobowych w następstwie zagubienia zewnętrznego
+nośnika danych wykorzystywanego do ich przetwarzania.
+2. Działania podjęte w celu zminimalizowania szkody poniesionej przez osoby, których
+dane dotyczą (art. 83 ust. 2 lit. c) rozporządzenia 2016/679).
+Administrator w dniu 21 lipca 2023 roku listem poleconym przekazał podmioto‐
+wi danych prawidłowe zawiadomienie o naruszeniu ochrony danych wraz ze
+wskazaniem, w jaki sposób może zabezpieczyć swoje dane osobowe przed dal‐
+szym ich wykorzystaniem oraz dokonał wykupienia dla ww. osoby raportu BIK
+zawierającego szczegółową historię kredytową tego podmiotu, zgodnie z dekla‐
+racją Administratora wyrażoną w piśmie z dnia 11 października 2023 roku cyt.
+(…) „A. Sp. k. wykupił, dla osoby, której dane dotyczą (…) raport BIK, na dowód
+czego załączam potwierdzenie wysłania wniosku pocztą w dniu 10 sierpnia 2023
+r. oraz potwierdzenie dokonania przelewu za raport BIK”.
+Inne, niżej wskazane okoliczności, o których mowa w art. 83 ust. 2 rozporządzenia
+2016/679, po dokonaniu oceny ich wpływu na stwierdzone w niniejszej sprawie narusze‐
+nie, zostały przez Prezesa UODO uznane za neutralne w jego ocenie, to znaczy nie mają‐
+ce ani obciążającego ani łagodzącego wpływu na wymiar orzeczonej administracyjnej
+kary pieniężnej.
+1.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+2.
+
+3.
+
+Strona 19 z 25
+
+Stopień odpowiedzialności administratora z uwzględnieniem środków technicznych i
+organizacyjnych wdrożonych przez niego na mocy art. 25 i 32 (art. 83 ust. 2 lit. d
+rozporządzenia 2016/679).
+Prezes UODO stwierdził w niniejszej sprawie naruszenie przez A. Sp. k. z siedzi‐
+bą w T. przepisów art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679.
+W jego ocenie na administratorze ciąży w wysokim stopniu odpowiedzialność za
+niewdrożenie odpowiednich środków technicznych i organizacyjnych, które za‐
+pobiegłyby naruszeniu ochrony danych osobowych. Oczywistym jest, że w roz‐
+ważanym kontekście charakteru, celu i zakresu przetwarzania danych
+osobowych Administrator nie „zrobił wszystkiego, czego można by było od
+niego oczekiwać”; nie wywiązał się tym samym z nałożonych na nią przepisami
+art. 25 i 32 rozporządzenia 2016/679 obowiązków.
+W niniejszej sprawie okoliczność ta stanowi jednak o istocie samego naruszenia;
+nie jest jedynie czynnikiem wpływającym – łagodząco lub obciążająco – na jego
+ocenę. Z tego też względu brak odpowiednich środków technicznych i organiza‐
+cyjnych, o których mowa w art. 25 i art. 32 rozporządzenia 2016/679, nie może
+zostać przez Prezesa UODO uznany w niniejszej sprawie za okoliczność mogącą
+dodatkowo wpłynąć na surowszą ocenę naruszenia i wymiar nałożonej na
+Administratora administracyjnej kary pieniężnej.
+Wszelkie stosowne wcześniejsze naruszenia ze strony administratora (art. 83 ust. 2
+lit. e) rozporządzenia 2016/679).
+Prezes UODO nie stwierdził po stronie Spółki jakichkolwiek wcześniejszych naru‐
+szeń przepisów o ochronie danych osobowych, w związku z czym brak jest pod‐
+staw do traktowania tej okoliczności jako obciążającej. Obowiązkiem każdego
+administratora jest przestrzeganie przepisów prawa, a zatem brak wcześniej‐
+szych naruszeń nie może być również okolicznością łagodzącą przy wymierzaniu
+sankcji.
+Sposób w jaki organ nadzorczy dowiedział się o naruszeniu (art. 83 ust. 2 lit. h
+rozporządzenia 2016/679).
+Prezes UODO stwierdził naruszenie w wyniku zgłoszenia naruszenia ochrony da‐
+nych osobowych dokonanego przez A. Sp. k. z siedzibą w T.. Administrator doko‐
+nując tego zgłoszenia zrealizował ciążący na nim obowiązek prawny, brak jest
+zatem podstaw do uznania, że okoliczność ta stanowi okoliczność łagodzącą.
+Zgodnie z Wytycznymi w sprawie stosowania i ustalania administracyjnych kar
+pieniężnych do celów rozporządzenia nr 2016/679 (Wp. 253) „Organ nadzorczy
+może dowiedzieć się o naruszeniu w wyniku postępowania, skarg, artykułów w
+prasie, anonimowych wskazówek lub powiadomienia przez administratora da‐
+nych. Zgodnie z rozporządzeniem administrator ma obowiązek zawiadomić or‐
+gan nadzorczy o naruszeniu ochrony danych osobowych. Zwykłe dopełnienie
+tego obowiązku przez administratora nie może być interpretowane jako czynnik
+osłabiający/łagodzący”. Podobnie EROD w Wytycznych 04/2022 wskazuje, że
+„gdy administrator podlega szczególnym obowiązkom w zakresie zgłaszania na‐
+ruszeń (np. obowiązkowi zgłaszania naruszenia ochrony danych osobowych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+4.
+
+5.
+
+6.
+
+Strona 20 z 25
+
+określonemu w art. 33 RODO). W takich przypadkach fakt dokonania zgłoszenia
+należy uznać za okoliczność neutralną”.
+Przestrzeganie wcześniej zastosowanych w tej samej sprawie środków, o których
+mowa w art. 58 ust. 2 rozporządzenia 2016/679 (art. 83 ust. 2 lit. i rozporządzenia
+2016/679).
+Przed wydaniem niniejszej decyzji Prezes UODO nie stosował w wobec admini‐
+stratora w rozpatrywanej sprawie żadnych środków wymienionych w art. 58 ust.
+2 rozporządzenia 2016/679, w związku z czym administrator nie miał obowiązku
+podejmowania żadnych działań związanych z ich stosowaniem, a które to dzia‐
+łania, poddane ocenie Prezesa UODO, mogłyby mieć obciążający lub łagodzący
+wpływ na ocenę stwierdzonego naruszenia.
+Stosowanie zatwierdzonych kodeksów postępowania na mocy art. 40 rozporządze‐
+nia 2016/679 lub zatwierdzonych mechanizmów certyfikacji na mocy art. 42 rozpo‐
+rządzenia 2016/679 (art. 83 ust. 2 lit. j rozporządzenia 2016/679).
+A. Sp. k. z siedzibą w T. nie stosuje zatwierdzonych kodeksów postępowania ani
+zatwierdzonych mechanizmów certyfikacji, o których mowa w przepisach rozpo‐
+rządzenia 2016/679. Ich przyjęcie, wdrożenie i stosowanie nie jest jednak – jak
+stanowią przepisy rozporządzenia 2016/679 – obowiązkowe dla administratorów
+i podmiotów przetwarzających w związku z czym okoliczność ich niestosowania
+nie może być w niniejszej sprawie poczytana na niekorzyść Administratora. Na
+korzyść Administratora natomiast mogłaby być uwzględniona okoliczność przy‐
+jęcia i stosowania tego rodzaju instrumentów jako środków gwarantujących wyż‐
+szy niż standardowy poziom ochrony przetwarzanych danych osobowych.
+Wszelkie inne obciążające lub łagodzące czynniki mające zastosowanie do okolicz‐
+ności sprawy, takie jak osiągnięte bezpośrednio lub pośrednio w związku z narusze‐
+niem korzyści finansowe lub uniknięte straty (art. 83 ust. 2 lit. k rozporządzenia
+2016/679).
+Prezes UODO nie stwierdził, żeby administrator w związku z naruszeniem od‐
+niósł jakiekolwiek korzyści finansowe lub uniknął tego rodzaju strat. Brak jest
+więc podstaw do traktowania tej okoliczności jako obciążającej administratora.
+Stwierdzenie zaistnienia wymiernych korzyści finansowych wynikających z naru‐
+szenia przepisów rozporządzenia 2016/679 należałoby ocenić zdecydowanie ne‐
+gatywnie. Natomiast nieosiągnięcie przez administratora takich korzyści, jako
+stan naturalny, niezależny od naruszenia i jego skutków, jest okolicznością, któ‐
+ra z istoty rzeczy nie może być łagodzącą dla Administratora. Potwierdza to
+samo sformułowanie przepisu art. 83 ust. 2 lit. k) rozporządzenia 2016/679,
+który nakazuje organowi nadzorczemu zwrócić należytą uwagę na korzyści
+„osiągnięte” – zaistniałe po stronie podmiotu dokonującego naruszenia.
+
+Prezes UODO wszechstronnie rozpatrując sprawę nie odnotował innych niż opisane po‐
+wyżej okoliczności mogących mieć wpływ na ocenę naruszenia i na wysokość orzeczonej
+administracyjnej kary pieniężnej, które powinny zostać ujęte w ramach rozpatrywania
+przesłanki z art. 83 ust. 2 lit. k) rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 21 z 25
+
+W ocenie Prezesa UODO, zastosowana administracyjna kara pieniężna spełnia w ustalo‐
+nych okolicznościach niniejszej sprawy funkcje, o których mowa w art. 83 ust. 1 rozpo‐
+rządzenia 2016/679, tzn. będzie w tym indywidualnym przypadku skuteczna, proporcjo‐
+nalna i odstraszająca. Zdaniem Prezesa UODO nałożona na A. Sp. k. z siedzibą w T. ad‐
+ministracyjna kara pieniężna będzie skuteczna, albowiem doprowadzi do stanu, w któ‐
+rym A. Sp. k. z siedzibą w T. stosował będzie takie środki techniczne i organizacyjne, któ‐
+re zapewnią przetwarzanym danym stopień bezpieczeństwa odpowiadający ryzyku naru‐
+szenia praw lub wolności osób, których dane dotyczą oraz wadze zagrożeń towarzyszą‐
+cym procesom przetwarzania tych danych osobowych. Skuteczność administracyjnej
+kary pieniężnej równoważna jest zatem gwarancji tego, iż A. Sp. k. z siedzibą w T. od mo‐
+mentu zakończenia niniejszego postępowania będzie z najwyższą starannością podcho‐
+dzić do wymogów stawianych przez przepisy o ochronie danych osobowych.
+Zastosowana administracyjna kara pieniężna jest również proporcjonalna do stwierdzo‐
+nego naruszenia, w tym zwłaszcza jego wagi, skutku, liczby dotkniętych nim osób fizycz‐
+nych oraz bardzo wysokiego ryzyka negatywnych konsekwencji, jakie w związku z naru‐
+szeniem ponoszą. Wysokość kary została bowiem określona na takim poziomie, aby z
+jednej strony stanowiła adekwatną reakcję organu nadzorczego na stopień naruszenia
+obowiązków administratora, z drugiej jednak strony nie powodowała sytuacji, w której
+konieczność jej uiszczenia pociągnie za sobą negatywne następstwa, w postaci istotnego
+pogorszenia sytuacji finansowej Administratora. Zdaniem Prezesa UODO, A. Sp. k. z sie‐
+dzibą w T. powinien i jest w stanie ponieść konsekwencje swoich zaniedbań w sferze
+ochrony danych, stąd nałożenie administracyjnej kary pieniężnej w wysokości 238 345 zł
+(słownie: dwieście trzydzieści osiem tysięcy trzysta czterdzieści pięć) jest w pełni uza‐
+sadnione.
+W ocenie Prezesa UODO, zastosowana administracyjna kara pieniężna w wysokości 238
+345 zł (słownie: dwieście trzydzieści osiem tysięcy trzysta czterdzieści pięć) spełnia w
+ustalonych okolicznościach niniejszej sprawy przesłanki, o których mowa w art. 83 ust. 1
+rozporządzenia 2016/679 ze względu na powagę stwierdzonego naruszenia w kontekście
+podstawowego celu rozporządzenia 2016/679 – ochrony podstawowych praw i wolności
+osób fizycznych, w szczególności prawa do ochrony danych osobowych.
+Odnosząc się do wysokości wymierzonej Administratorowi administracyjnej kary pienięż‐
+nej, Prezes UODO uznał, że jest ona proporcjonalna do sytuacji finansowej Administrato‐
+ra i nie będzie stanowiła dla niego nadmiernego obciążenia. Z przedłożonego przez Ad‐
+ministratora w dniu 30 października 2023 roku sprawozdania finansowego wynika, że
+przychody netto ze sprzedaży na dzień kończący rok obrotowy 2022 wyniosły (…) zł w
+związku z czym kwota nałożonej w niniejszej sprawie administracyjnej kary pieniężnej
+stanowi ok. 0,21% ww. kwoty. Jednocześnie warto podkreślić, że kwota nałożonej kary
+238 345zł to jedynie 0.27 % maksymalnej wysokości kary, którą Prezes UODO mógł –
+stosując zgodnie z art. 83 ust. 5 rozporządzenia 2016/679 statyczne maksimum kary (tj.
+20.000.000,- euro) – nałożyć na Administratora za stwierdzone w niniejszej sprawie
+naruszenie przepisów rozporządzenia 2016/679.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 22 z 25
+
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych, administracyjna kara pieniężna
+spełni w tych konkretnych okolicznościach funkcję represyjną, jako że stanowić będzie
+odpowiedź na naruszenie przez A. Sp. k. z siedzibą w T. przepisów rozporządzenia
+2016/679, ale i prewencyjną, bowiem przyczyni się do zapobiegania w przyszłości naru‐
+szania przez A. Sp. k. z siedzibą w T. obowiązków wynikających z przepisów o ochronie
+danych osobowych.
+W ocenie Prezesa UODO, zastosowana administracyjna kara pieniężna spełnia w ustalo‐
+nych okolicznościach niniejszej sprawy przesłanki, o których mowa w art. 83 ust. 1 roz‐
+porządzenia 2016/679, ze względu na wagę stwierdzonych naruszeń w kontekście pod‐
+stawowych wymogów i zasad rozporządzenia 2016/679 – zwłaszcza zasady poufności i
+integralności wyrażonej w art. 5 ust. 1 lit. f) rozporządzenia 2016/679 oraz zasady
+rozliczalności, o której mowa w art. 5 ust. 2 rozporządzenia 2016/679.
+Celem nałożonej kary jest doprowadzenie do przestrzegania w przyszłości przez Spółkę
+przepisów rozporządzenia 2016/679.
+Na koniec koniecznym jest wskazanie, że ustalając w niniejszej sprawie wysokość admi‐
+nistracyjnej kary pieniężnej Prezes UODO zastosował metodykę przyjętą przez EROD w
+Wytycznych 04/2022 Zgodnie z przedstawionymi w tym dokumencie wskazówkami:
+1. Prezes UODO dokonał kategoryzacji stwierdzonych w niniejszej sprawie naruszeń
+przepisów rozporządzenia 2016/679 (vide Rozdział 4.1 Wytycznych 04/2022). Wśród
+naruszonych przez Spółkę przepisów rozporządzenia 2016/679 znajdują się przepisy
+art. 5 ust. 1 lit. f) oraz art. 5 ust. 2 rozporządzenia 2016/679 określające podstawo‐
+we zasady przetwarzania. Naruszenia tych przepisów należą – zgodnie z art. 83 ust.
+5 lit. a) rozporządzenia 2016/679 – do kategorii naruszeń zagrożonych karą wyższą z
+dwóch przewidzianych w rozporządzeniu 2016/679 wymiarów kar (z maksymalną
+wysokością do 20 000 000 EUR lub do 4% całkowitego rocznego obrotu przedsię‐
+biorstwa z poprzedniego roku obrotowego). Są one więc in abstracto poważniejsze
+od innych (wskazanych w art. 83 ust. 4 rozporządzenia 2016/679) naruszeń.
+2. Prezes UODO ocenił stwierdzone w niniejszej sprawie naruszenia (w szczególności
+naruszenia podstawowych zasad przetwarzania) jako naruszenia o średnim
+poziomie powagi (vide Rozdział 4.2 Wytycznych 04/2022). W ramach tej oceny wzię‐
+te zostały pod uwagę te przesłanki spośród wymienionych w art. 83 ust. 2 rozporzą‐
+dzenia 2016/679, które tyczą się strony przedmiotowej naruszeń (składają się na
+„powagę” naruszenia), to jest: charakter, waga i czas trwania naruszeń (art. 83 ust.
+2 lit. a) rozporządzenia 2016/679), umyślny lub nieumyślny charakter naruszeń (art.
+83 ust. 2 lit. b) rozporządzenia 2016/679) oraz kategorie danych osobowych, któ‐
+rych dotyczyły naruszenia (art. 83 ust. 2 lit. g) rozporządzenia 2016/679). Szczegó‐
+łowa ocena tych okoliczności przedstawiona została powyżej. W tym miejscu wska‐
+zać należy, że rozważenie ich łącznego wpływu na ocenę stwierdzonego w niniejszej
+sprawie naruszenia traktowanego w całości prowadzi do wniosku, że poziom jego
+powagi (rozumianej zgodnie z Wytycznymi 04/2022) jest średni. Konsekwencją tego
+jest zaś przyjęcie – jako kwoty wyjściowej do obliczenia kary – wartości mieszczącej
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+3.
+
+4.
+
+5.
+
+Strona 23 z 25
+
+się w przedziale od 10 % do 20 % maksymalnej wysokości kary możliwej do orzecze‐
+nia wobec Spółki, to jest – zważywszy na limit określony w art. 83 ust. 5 rozporzą‐
+dzenia 2016/679 – od kwoty 2 000 000 EUR do kwoty 4 000 000 EUR (vide
+Podrozdział 4.2.4 Wytycznych 04/2022). Za adekwatną, uzasadnioną okolicznościa‐
+mi niniejszej sprawy, kwotę wyjściową Prezes UODO uznał kwotę 2 400 000, 00 EUR
+(równowartość 10 481 280 zł).
+Prezes UODO dostosował kwotę wyjściową odpowiadającą średniej powadze stwier‐
+dzonego naruszenia do obrotu Spółki, jako miernika jej wielkości siły gospodarczej
+(vide Rozdział 4.3Wytycznych 04/2022).Zgodnie z Wytycznymi 04/2022, w przypad‐
+ku przedsiębiorstw, których roczny obrót wynosi 10-50 mln EUR, organ nadzorczy
+może rozważyć dokonanie dalszych obliczeń wysokości kary na podstawie wartości
+mieszczącej się w przedziale od 1,5 % do 10 % kwoty wyjściowej. Zważywszy, że
+obrót Spółki w 2022 wyniósł (…) zł, to jest (…) EUR (wg. średniego kursu z dnia 30
+stycznia 2024 r.), Prezes UODO za stosowne uznał skorygowanie podlegającej obli‐
+czeniom kwoty kary do wartości odpowiadającej 5 % kwoty wyjściowej, to jest kwoty
+120 000,00 EUR (równowartość 523 836 zł).
+Prezes UODO dokonał oceny wpływu na stwierdzone naruszenie pozostałych (poza
+tymi uwzględnionymi wyżej w ocenie powagi naruszenia) okoliczności wskazanych w
+art. 83 ust. 2 rozporządzenia 2016/679 (vide Rozdział 5 Wytycznych 04/2022). Oko‐
+liczności te, mogące mieć obciążający lub łagodzący wpływ na ocenę naruszenia,
+odnoszą się – jak zakładają Wytyczne 04/2022 – do strony podmiotowej naruszenia,
+to jest do samego podmiotu będącego sprawcą naruszenia oraz do jego zachowania
+przed naruszeniem, w jego trakcie i po jego zaistnieniu. Szczegółowa ocena i uza‐
+sadnienie wpływu każdej z tych przesłanek na ocenę naruszenia przestawione zo‐
+stały powyżej. Prezes UODO uznał, że okolicznościami łagodzącymi w niniejszej
+sprawie jest stopień współpracy z organem nadzorczym w celu usunięcia naruszenia
+oraz złagodzenia jego ewentualnych negatywnych skutków (art. 83 ust. 2 lit. f) roz‐
+porządzenia 2016/679) oraz działania podjęte w celu zminimalizowania szkody po‐
+niesionej przez osoby, których dane dotyczą (art. 83 ust. 2 lit. c) rozporządzenia
+2016/679). Pozostałe przesłanki (z art. 83 ust. 2 lit. d), e), h), i), j), k) rozporządzenia
+2016/679) – jak wskazano wyżej – nie miały wpływu, ani łagodzącego ani obciążają‐
+cego, na ocenę naruszenia i w konsekwencji na wymiar kary. Ze względu na zaist‐
+nienie w sprawie dwóch okoliczności łagodzących zasadnym jest więc dalsze obniże‐
+nie kwoty kary ustalonej z uwzględnieniem obrotu Spółki (pkt 3 powyżej); adekwat‐
+nym do wpływu tych przesłanek na ocenę naruszenia jest w ocenie Prezesa UODO
+jej obniżenie o 35 % – do kwoty 78 000,00 EUR (równowartość 340 493,40 zł).
+Prezes UODO stwierdził, że ustalona w przedstawiony wyżej sposób kwota admini‐
+stracyjnej kary pieniężnej nie przekracza – stosownie do art. 83 ust. 3 rozporządze‐
+nia 2016/679 – prawnie określonej maksymalnej wysokości kary przewidzianej dla
+najpoważniejszego naruszenia (vide Rozdział 6 Wytycznych 04/2022). Jak wskazano
+powyżej najpoważniejszym naruszeniem jest w niniejszej sprawie naruszenie art. 5
+ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia 2016/679, zagrożone administracyjna karą
+pieniężną w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa – w wy‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+6.
+
+Strona 24 z 25
+
+sokości do 4 % jego całkowitego rocznego światowego obrotu z poprzedniego roku
+obrotowego, przy czym zastosowanie ma kwota wyższa. Prezes UODO ustalił, że
+„dynamiczna kwota maksymalna” dla tego naruszenia i dla tego sprawcy narusze‐
+nia wyrażona w procencie (4 %) jego obrotu wyniosłaby 1 033 069,23 EUR, w związ‐
+ku z czym zastosować należy w niniejszej sprawie – jako wyższą – „statyczną kwotę
+maksymalną” wynoszącą dla rozpatrywanego naruszenia 20 000 000 EUR. Wskaza‐
+na powyżej kwota 78 000,00 EUR w sposób oczywisty nie przekracza kwoty 20 000
+000 EUR.
+Pomimo tego, że ustalona zgodnie z powyższymi zasadami kwota kary nie przekra‐
+cza prawnie określonego maksimum kary Prezes UODO uznał, że wymaga ona do‐
+datkowej korekty ze względu na zasadę proporcjonalności wymienioną w art. 83 ust.
+1 rozporządzenia 2016/679 jako jedną z trzech dyrektyw wymiaru kary (vide
+Rozdział 7 Wytycznych 04/2022). Niewątpliwie kara pieniężna stanowiąca równowar‐
+tość 78 000,00 EUR byłaby karą skuteczną (przez swoją dolegliwość pozwoliłaby
+osiągnąć swój cel represyjny, którym jest ukaranie za bezprawne zachowanie) i od‐
+straszającą (pozwalającą skutecznie zniechęcić zarówno Spółkę, jak i innych admini‐
+stratorów do popełniania w przyszłości naruszeń przepisów rozporządzenia
+2016/679). Kara taka byłaby jednak – w ocenie Prezesa UODO – karą nieproporcjo‐
+nalną ze względu na swoją nadmierną dolegliwość. Zasada proporcjonalności wyma‐
+ga bowiem m. in., by przyjęte przez organ nadzorczy środki nie wykraczałyby poza
+to, co odpowiednie i konieczne do realizacji uzasadnionych celów (vide pkt 137 i pkt
+139 Wytycznych 04/2022). Innymi słowy: „Sankcja jest proporcjonalna, jeśli nie
+przekracza progu dolegliwości określonego przez uwzględnienie okoliczności
+konkretnego przypadku” (P. Litwiński (red.), Rozporządzenie Parlamentu Europej‐
+skiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. (…); Komentarz do art. 83
+[w] P. Litwiński (red.) Ogólne rozporządzenie o ochronie danych osobowych. Ustawa
+o ochronie danych osobowych. Wybrane przepisy sektorowe. Komentarz). Mając
+więc na uwadze wzgląd na proporcjonalność kary Prezes UODO dokonał dalszego
+obniżenia wysokości kary – do 70 % kwoty uzyskanej po uwzględnieniu okoliczności
+obciążających i łagodzących (vide pkt 4 powyżej), to jest do kwoty 54 600,00 EUR
+(równowartość 238 345 zł). W jego ocenie takie określenie ostatecznej wysokości
+orzeczonej kary nie wpłynie na obniżenie jej skuteczności i odstraszającego charak‐
+teru. Kwota ta bowiem stanowi próg, powyżej którego dalsze zwiększenie wysokości
+kary nie będzie wiązało się ze wzrostem jej skuteczności i odstraszającego charakte‐
+ru. Z drugiej strony natomiast strony obniżenie w większym stopniu wysokości kary
+mogłoby się odbyć kosztem jej skuteczności i odstraszającego charakteru, a także
+spójnego stosowania i egzekwowania rozporządzenia 2016/679 i zasady równego
+traktowania podmiotów na rynku wewnętrznym UE i EOG.
+
+Stosownie do treści art. 103 ustawy z dnia 10 maja 2018 r. o ochronie danych
+osobowych (Dz. U. z 2019 r. poz. 1781), równowartość wyrażonych w euro kwot, o któ‐
+rych mowa w art. 83 rozporządzenia 2016/679, oblicza się w złotych według średniego
+kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 28 stycz‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+
+Decyzja DKN.5131.29.2023
+
+Strona 25 z 25
+
+nia każdego roku, a w przypadku gdy w danym roku Narodowy Bank Polski nie ogłasza
+średniego kursu euro w dniu 28 stycznia – według średniego kursu euro ogłoszonego w
+najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego.
+Mając powyższe na uwadze, Prezes Urzędu Ochrony Danych Osobowych, na podstawie
+art. 83 ust. 4 lit. a) i art. 83 ust. 5 lit. a) w związku z art. 83 ust. 3 rozporządzenia
+2016/679 oraz w związku z art. 103 ustawy z dnia 10 maja 2018 r. o ochronie danych
+osobowych, za naruszenie opisane w sentencji niniejszej decyzji, nałożył na A. Sp. k. z
+siedzibą w T. – stosując średni kurs euro z dnia 29 stycznia 2024 r. (1 EUR= 4,3653 PLN)
+– administracyjną karę pieniężną w kwocie 238 345 PLN (co stanowi równowartość 54
+600 EUR).
+Celem nałożonej administracyjnej kary pieniężnej jest doprowadzenie do przestrzegania
+przez A. Sp. k. z siedzibą w T. w przyszłości przepisów rozporządzenia 2016/679, a w
+konsekwencji do prowadzenia procesów przetwarzania danych zgodnie z
+obowiązującymi przepisami prawa.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:dkn_5131_29/content
+
+2025-09-03 13:25
+

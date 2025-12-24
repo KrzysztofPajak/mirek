@@ -1,0 +1,413 @@
+Warszawa, 25 lipca 2019
+PRAWOMOCNA
+
+Decyzja
+ZSOŚS.440.71.2019
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r. poz. 2096) oraz art. 5 ust. 1 pkt 6 i art. 12 w związku
+z art. 13, 14 ust. 2 i 16 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych
+przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019
+r. poz. 125), a także art. 21nb w związku z art. 20 ust. 1, la, ld, 2b i 2c ustawy z dnia 6
+kwietnia 1990 r. o Policji (Dz. U. z 2019 r., poz. 161 z późn. zm.),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana A. W., zam.
+w K., na nieprawidłowości w przetwarzaniu jego danych osobowych przez Komendanta
+Głównego Policji (adres: Komenda Główna Policji, ul. (…), (…) Warszawa), polegające na
+przetwarzaniu danych osobowych Skarżącego w Krajowym Systemie Informacyjnym
+Policji (KSIP),
+odmawiam uwzględnienia wniosku
+
+Uzasadnienie
+W dniu (…) maja 2019 r. do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pana
+A. W., zam. w K. (dalej jako: Skarżący), na niezgodne z prawem gromadzenie i przetwa‐
+rzanie jego danych osobowych przez Komendanta Głównego Policji w Warszawie
+(zwanego dalej „Komendantem”), polegające na przetwarzaniu danych osobowych Skar‐
+żącego, w Krajowym Systemie Informacyjnym Policji (dalej: KSIP). Skarżący w skardze
+zawarł wniosek o nakazanie Komendantowi zaprzestania gromadzenia i przetwarzania
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_71/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.71.2019
+
+Strona 2 z 9
+
+jego danych osobowych w KSIP oraz usunięcie wszelkich danych osobowych Skarżącego
+znajdujących się w KSIP.
+Uzasadniając żądanie, Skarżący wskazał, że w 2018 r. podczas kontroli drogowej powziął
+wiedzę, iż w KSIP są gromadzone i przetwarzane przez Policję jego dane osobowe zwią‐
+zane z czynem sprzed 2004 r., co do którego zdaniem Skarżącego, nigdy nie doszło do
+skazania jego osoby. W ocenie Skarżącego mimo, że gromadzenie danych przez Admini‐
+stratora ma na celu ochronę interesu publicznego, to jednak jego interes indywidualny
+powinien być uwzględniony przed interesem publicznym. Ponadto, Skarżący wskazał, że
+od kilku lat pełni służbę jako żołnierz zawodowy, co dodatkowo powoduje, że musi legity‐
+mować się nieskazitelnym charakterem. Zdaniem skarżącego pozostawienie jego da‐
+nych w KSIP może w przyszłości spowodować utrudnienie, bądź wręcz uniemożliwienie
+osiągnięcia awansu zawodowego albo zmiany rodzaju pełnionej służby w innych służ‐
+bach mundurowych lub dane te, mogą być wzięte pod uwagę przy procesie rekrutacji.
+Skarżący wskazał również, iż uważa za skrajnie niesprawiedliwe i niezgodne z przepisami
+prawa gromadzenie i przetwarzanie przez okres 15 lat jego danych osobowych w KSIP, w
+sytuacji gdy brak jest podstaw (brak celu uzasadniającego ich gromadzenie i przetwarza‐
+nie), gdyż jego zachowania od kilkunastu lat są zgodne z obowiązującym porządkiem
+prawnym.
+W toku postępowania zainicjowanego skargą, Prezes Urzędu Ochrony Danych Osobo‐
+wych uzyskał wyjaśnienia odnośnie okoliczności sprawy, zapoznał się z materiałem
+dowodowym i dokonał następujących ustaleń.
+Pismem z (…) grudnia 2018 r. Skarżący zwrócił się do Komendanta Komendy Policji w K.
+o usunięcie jego danych osobowych z wszelkich rejestrów organów ścigania, w tym z
+Krajowego Systemu Informacji Policji z uwagi na upływ okresu niezbędnego do osiągnię‐
+cia celu przetwarzania. Skarżący podniósł, że praktyka bezterminowego przechowania
+danych jest niezgodna z Konstytucją Rzeczypospolitej Polskiej m.in. z arl. 7 Konstytucji
+RP oraz właściwymi przepisami obowiązującego Kodeksu karnego. Skarżący, powołując
+się na orzecznictwo Sądu Najwyższego wskazał, że Komendant nie ma prawa ujawniać
+informacji o osobach, wobec których toczyło się jakiekolwiek postępowanie, jeśli z mocy
+ustawy skazania za przedmiotowe czynu uległy zatarciu. Jako podstawę prawną swojego
+wniosku wskazał również art. 26 pkt 4 ustawy z dnia 29 sierpnia 1997 r. o ochronie
+danych osobowych (Dz. U. z 2016 r. poz. 922 ze zm.) w zw. z art. 175 ustawy z dnia 10
+maja 2018 r. o ochronie danych osobowych (Dz. U. z 2018 r. poz. 1000 ze zm., dalej jako:
+ustawa z 10 maja 201 8 r.) i art. 5 ust. 1 lit. e rozporządzenia Parlamentu Europejskiego i
+Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych i w
+sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (Dz.
+Urz. UE L 119 z 04.05.2016, str. 1, ze zmianą ogłoszoną w Dz. Urz. UE L 127 z
+23.05.2018, sir. 2, dalej jako: ogólne rozporządzenie o ochronie danych).
+Pismami z dnia (…) maja 2019 r. Prezes Urzędu Ochrony Danych Osobowych poinformo‐
+wał Skarżącego oraz Komendanta o wszczęciu postępowania wyjaśniającego w sprawie
+oraz zwrócił się do Komendanta o ustosunkowanie się do treści skargi oraz złożenie pi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_71/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.71.2019
+
+Strona 3 z 9
+
+semnych wyjaśnień. W dniu (…) czerwca do Urzędu Ochrony Danych Osobowych wpły‐
+nęło pismo Komendanta, (sygn.(…)), w którym wyjaśnił, że Skarżący pismem z dnia (…)
+grudnia, które wpłynęło (…) marca 2019 r. do Komendy Głównej Policji za pośrednictwem
+Komendy Wojewódzkiej Policji w Ł., zwrócił się o usunięcie jego danych osobowych z
+wszelkich rejestrów organów ścigania, w tym Krajowego Systemu Informacyjnego Policji.
+Jako podstawę prawną wskazując m.in. przepisy ustawy z 10 maja 2018 r. oraz przepisy
+ogólnego rozporządzenia o ochronie danych. Wraz z wyjaśnieniami Komendant załączył
+kopię pisma z dnia (…) marca 2019 r. - ((…)) (kopia pisma w aktach sprawy) Zastępcy
+Naczelnika Wydziału Obsługi Informacyjnej Biura Wywiadu i Informacji Kryminalnych Ko‐
+mendy Głównej Policji, w której udzielił odpowiedzi Skarżącemu, wskazując, że admini‐
+stratorem danych osobowych w odniesieniu do danych osobowych przetwarzanych w
+KSIP jest Komendant Główny Policji. Ponadto wskazał, że Policja przetwarza informacje i
+dane osobowe w Krajowym Systemie Informacyjnym Policji, stanowiącym zestaw zbio‐
+rów danych, w związku z realizacją zadań ustawowych, na podstawie art. 21nb w związ‐
+ku z art. 20 ust. 1-1d oraz ust. 2ad-2c ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z
+2019 r., poz. 161 z późn. zm., dalej jako: ustawa o Policji) w celu, o którym mowa w art. 1
+pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w
+związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125, dalej
+jako: ustawa z 14 grudnia 2018 r.). Uzasadniając odmowę usunięcia danych osobowych
+Skarżącego z KSIP, Komendant powołał się również na treść art. 16 ust. 1 ustawy z dnia
+14 grudnia 2018 r. dotyczącej weryfikacji danych dokonywanej w calu ustalenia, czy ist‐
+nieją dane, których dalsze przechowanie jest zbędne oraz poinformował Skarżącego, że
+nie przysługuje mu prawo dostępu do zweryfikowanych danych osobowych tj. do treści
+zweryfikowanych danych, w tym do otrzymania kopii lub wyciągu tych danych z uwagi
+na to, że przetwarzanie informacji, w tym danych osobowych, przez Policję w celu reali‐
+zacji jej zadań ustawowych określonych w art. 1 ust 2 ustawy o Policji odbywa się bez
+zgody i wiedzy osoby, której dane dotyczą oraz stosownie do spełnionych i istniejących
+w kontekście realizacji ustawowych zadań Policji przesłanek oraz podstaw odmowy do‐
+stępu do danych osobowych wymienionych w art. 26 ustawy z 14 grudnia 2018 r.
+W wyjaśnieniach skierowanych do Prezesa Urzędu Ochrony Danych Osobowych, Komen‐
+dant podniósł, że dane zgromadzone w KSIP są przetwarzane przez Policję dla realizacji
+jej zadań ustawowych zgodnie z obowiązującymi przepisami art. 21nb w związku z art.
+20 ust. 1-ld, ust. 2b-2c oraz art. 20 ust. 2ad i ust. 2ba ustawy o Policji, zgodnie z zasadą
+legalizmu określoną w art. 7 Konstytucji Rzeczypospolitej Polskiej oraz w granicach zasa‐
+dy proporcjonalności wynikającej z art. 31 ust. 3 w zw. z art. 51 ust. 2 Konstytucji Rze‐
+czypospolitej Polskiej, podlegają zaś weryfikacji i usunięciu na zasadach określonych w
+art. 16 ustawy z 14 grudnia 2018 r. i takiej weryfikacji dane Skarżącego zostały poddane.
+Ponadto wykazał, że Skarżący wyrokiem sądu był uznany za winnego popełnienia
+zarzucanych mu czynów.
+Prezes Urzędu Ochrony Danych poinformował pismami z (…) czerwca 2019 r. Skarżącego
+oraz Komendanta o przeprowadzeniu postępowania administracyjnego, w wyniku które‐
+go został zgromadzony materiał dowodowy wystarczający do wydania decyzji admini‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_71/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.71.2019
+
+Strona 4 z 9
+
+stracyjnej oraz o możliwości wypowiedzenia się co do zebranych dowodów i materiałów
+oraz zgłoszonych żądań zgodnie z treścią art. 10 § 1 ustawy z dnia 14 czerwca 1960 r.
+Kodeks postępowania administracyjnego (Dz. U. z 2018 poz. 2096 ze zm.), w terminie 7
+dni od dnia otrzymania ww. pism.
+W takim stanie faktycznym Prezes Urzędu Ochrony Danych Osobowych zważył, co nastę‐
+puje.
+W pierwszej kolejności należy wskazać, że dla rozstrzygnięcia niniejszej sprawy zastoso‐
+wanie będą miały przepisy ustawy z 14 grudnia 2018 r. o ochronie danych osobowych
+przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019
+r. poz. 125). Powołana ustawa, stwarza prawne podstawy stosowania ochrony państwo‐
+wej w sytuacjach niezgodnego z prawem przetwarzania danych osobowych obywateli,
+poprzez określenie zasad i warunków ochrony danych przetwarzanych przez właściwe
+organy, które dokonują przetwarzania danych osobowych w celu określonym w art. 1 ust
+1 ustawy z 14 grudnia 2018 r. tj. w celu rozpoznawania, zapobiegania, wykrywania i
+zwalczania czynów zabronionych, w tym zagrożeń dla bezpieczeństwa i porządku pu‐
+blicznego, a także wykonywania tymczasowego aresztowania, kar, kar porządkowych i
+środków przymusu skutkujących pozbawieniem wolności. Zgodnie z art. 21nb ust. 1
+ustawy o Policji, Komendant Główny Policji prowadzi Krajowy System Informacyjny Policji,
+będący zestawem zbiorów danych, w którym przetwarza się informacje, w tym dane oso‐
+bowe, w związku z realizacją zadań ustawowych. Do zadań ustawowych policji stosowa‐
+nie do art. 1 ust. 2 należy m.in. wykrywanie przestępstw i wykroczeń oraz ściganie ich
+sprawców. Wobec powyższego należy wskazać, że prowadzenie KSIP przez Komendanta
+jest obowiązkiem wykonywanym w ramach realizacji zadań ustawowych Policji, który
+mieści się w zakresie przedmiotowym stosowania ustawy z 14 grudnia 2018 r. i z tych
+też względów ustawa z 14 grudnia 2018 r. jest właściwa do rozpatrzenia przedmiotowej
+sprawy.
+Zgodnie z treścią art. 24 ust. 1 pkt 2 ustawy z 14 grudnia 2018 r. osoba, której dane do‐
+tyczą, może wystąpić z wnioskiem do administratora o niezwłoczne usunięcie danych
+osobowych w przypadku gdy dane te zostały zebrane lub są przetwarzane z narusze‐
+niem przepisów ustawy. Mając zatem na uwadze powyższe, stosując przepisy tej ustawy,
+należy za każdym razem ustalić czy przetwarzanie danych odbywa się z naruszeniem
+przepisów tejże ustawy. Organ ochrony danych osobowych, w celu realizacji ochrony
+państwowej obywateli w sytuacjach niezgodnego z prawem przetwarzania danych oso‐
+bowych, został wyposażony w kompetencje władcze, umożliwiające sankcjonowanie
+stwierdzanych nieprawidłowości w procesie przetwarzania danych osobowych. Oznacza
+to, iż organ ochrony danych osobowych, oceniając stan sprawy i dokonując subsumpcji,
+stwierdza, czy kwestionowane przetwarzanie danych osobowych znajduje oparcie choć
+w jednej z przesłanek legalizujących przetwarzanie danych osobowych wskazanych w
+art. 13 ustawy z 14 grudnia 2018 r. zgodnie, z którym właściwe organy przetwarzają
+dane osobowe wyłącznie w zakresie niezbędnym dla zrealizowania uprawnienia lub speł‐
+nienia obowiązku wynikającego z przepisu prawa oraz w przypadku przetwarzania da‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_71/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.71.2019
+
+Strona 5 z 9
+
+nych wrażliwych w przesłankach legalizujących przetwarzanie określonych w art. 14 ust.
+2 ustawy z 14 grudnia 2018 r. W zależności od występujących w sprawie ustaleń, organ
+ochrony danych - albo wydaje nakaz lub zakaz, albo odmawia uwzględnienie wniosku,
+ewentualnie umarza postępowania. Wydanie nakazu usunięcia uchybień w procesie
+przetwarzania danych osobowych następuje wówczas, gdy organ ochrony danych osobo‐
+wych stwierdza naruszenie norm prawnych w zakresie przetwarzania danych osobo‐
+wych. Natomiast wystąpienie wyżej wskazanych przesłanek legalizujących przetwarza‐
+nie, warunkuje uznanie kwestionowanych czynności przetwarzania za zgodne z prawem.
+Z tych też względów w przedmiotowej sprawie należy ustalić czy organy policji posiadają
+odpowiednia podstawę prawną legalizującą przetwarzanie danych osobowych Skarżące‐
+go, wypełniająca dyspozycje art. 13 i 14 ustawy z 14 grudnia 2018 r.
+Podstawę prawną do przetwarzania danych osobowych osób, wobec których były prowa‐
+dzone postępowania przez organy Policji stanowi art. 20 ustawy o Policji, zgodnie z któ‐
+rym Policja w celu realizacji zadań ustawowych z zachowaniem ograniczeń wynikających
+z art. 19 jest uprawniona do przetwarzania informacji w tym danych osobowych (art. 20
+ust. 1 ustawy o Policji). Przetwarzanie oraz wymiana informacji, w tym danych osobo‐
+wych, może dotyczyć również danych osobowych, o których mowa w art. 14 ust. 1 usta‐
+wy z dnia 14 grudnia 2018 r. a więc danych wrażliwych ujawniających pochodzenie raso‐
+we, etniczne, poglądy polityczne, przekonania religijne, światopoglądowe, przynależność
+do związków zawodowych, danych genetycznych, danych biometrycznych w celu jedno‐
+znacznego zidentyfikowania osoby fizycznej, danych dotyczących zdrowia, danych doty‐
+czących seksualności i orientacji seksualnej osoby fizycznej. Przy czym dane dotyczące
+wyników analizy kwasu deoksyrybonukleinowego (DNA) obejmują informacje wyłącznie o
+niekodującej części DNA (art. 20 ust. 1a ustawy o Policji). W świetle art. 20 ust. 2b usta‐
+wy o Policji gromadzone informacje, mogą obejmować: dane osobowe, o których mowa
+w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r., z tym, że dane dotyczące kodu gene‐
+tycznego obejmują wyłącznie informacje o niekodującej części DNA, mogą obejmować
+odciski linii papilarnych zdjęcia, szkice i opisy wizerunku, cechy i znaki szczególne pseu‐
+donimy, a także informacje o: miejscu zamieszkania lub pobytu, wykształceniu, zawo‐
+dzie, miejscu i stanowisku pracy, oraz sytuacji materialnej i stanie majątku, dokumen‐
+tach i przedmiotach, którymi się posługują, sposobie działania sprawcy, jego środowisku
+i kontaktach, sposobie zachowania się sprawców wobec osób pokrzywdzonych. Wspo‐
+mnianych informacji, o których mowa w art. 14 ust. 1 ustawy z dnia 14 grudnia 2018 r,
+stosownie do treści art. 20 ust. 2c ustawy o Policji, nie pobiera się w przypadku, gdy nic
+mają one przydatności wykrywczęj, dowodowej lub identyfikacyjnej w prowadzonym po‐
+stępowaniu. Ponadto, zgodnie art. 20 ust 1 d ustawy o Policji, Policja w zakresie swojej
+właściwości przetwarza informacje, w tym dane osobowe, uzyskane zc zbiorów danych
+prowadzonych przez inne służby, instytucje państwowe oraz organy władzy publicznej.
+Przetwarzanie informacji, w tym danych osobowych, przez Policję może mieć charakter
+niejawny, odbywać się bez zgody i wiedzy, osoby której dane dotyczą, oraz z
+wykorzystaniem środków technicznych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_71/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.71.2019
+
+Strona 6 z 9
+
+Jak już wskazano powyżej zgodnie z art. 20 ustawy o Policji, Policja może przetwarzać
+dane osobowe w celu realizacji ustawowych zadań. Podstawowymi zadaniami, które po‐
+wierzono Policji w art. 1 ust. 2 ustawy o policji są między innymi: ochrona życia i zdrowia
+ludzi oraz mienia przed bezprawnymi zamachami naruszającymi te dobra, ochrona bez‐
+pieczeństwa i porządku publicznego, inicjowanie i organizowanie działań mających na
+celu zapobieganie popełnianiu przestępstw i wykroczeń oraz zjawiskom kryminogennym,
+wykrywanie przestępstw i wykroczeń oraz ściganie sprawców, przetwarzanie informacji
+kryminalnych w tym danych osobowych. Ponadto, stosownie do treści art. 14 ust. 1 i 4
+przywołanej ustawy w granicach swych zadań Policja wykonuje czynności: operacyjnorozpoznawcze, dochodzeniowo śledcze i administracyjno-porządkowe między innymi w
+celu: rozpoznawania, zapobiegania i wykrywania przestępstw, przestępstw skarbowych i
+wykroczeń, poszukiwania osób ukrywających się przed organami ścigania lub wymiaru
+sprawiedliwości. Również w celu realizacji ustawowych zadań policja może korzystać z
+danych o osobie, w tym w formie zapisu elektronicznego, uzyskanych przez inne organy,
+służby i instytucje państwowe w wyniku wykonywania czynności operacyjno-rozpoznaw‐
+czych oraz przetwarzać je w rozumieniu ustawy z dnia 14 grudnia 2018 r. bez wiedzy i
+zgody osoby, której dane te dotyczą, (art. 14 ust. 4 ustawy o Policji).
+W tym miejscu, odnosząc się do treści żądania skargi, dotyczącej usunięcia danych Skar‐
+żącego z KSIP należy szczególną uwagę zwrócić, na kwestie okresu przechowania da‐
+nych i możliwości ich usunięcia; zgodnie z art. 16 ust. 1 ustawy z 14 grudnia 2018 r. ad‐
+ministrator dokonuje weryfikacji danych osobowych w terminach określonych przez prze‐
+pisy szczególne, regulujące działania właściwego organu, a jeżeli przepisy te nie określa‐
+ją terminu - nie rzadziej nić co 10 lat od dnia zebrania, uzyskania, pobrania lub aktualiza‐
+cji danych. Przy czym weryfikacja dokonywana jest w celu ustalenia, czy istnieją dane,
+których dalsze przechowywanie jest zbędne, (art. 16 ust. 2 ustawy z 14 grudnia). Nato‐
+miast dane osobowe uznane za zbędne usuwa się lub można je przekształcić w sposób
+uniemożliwiający przyporządkowanie poszczególnych informacji osobistych lub rzeczo‐
+wych do określonej lub możliwej do zidentyfikowania osoby fizycznej albo w taki sposób,
+że przyporządkowanie takie wymagałoby niewspółmiernych kosztów, czasu lub działań.
+W kontekście powyższego wskazać należy, iż stosownej weryfikacji zgromadzonych da‐
+nych Skarżącego organy Policji dokonały w 2004 r. po zakończeniu sprawy a następnie w
+związku ze złożonym wnioskiem o usunięcie danych z KSIP, a także w związku ze złożoną
+skargą do Prezesa Urzędu Ochrony Danych Osobowych w przedmiocie usunięcia danych
+z KSIP. Jak wynika z treści § 29 ust. 1 rozporządzenia Ministra Spraw Wewnętrznych i Ad‐
+ministracji z dnia 23 sierpnia 2018 r. w sprawie przetwarzania informacji przez Policję
+(Dz.U z 2018 r. poz. 1636 z późń. zm., dalej jako: rozporządzenie z 23 sierpnia 2018 r.),
+przy weryfikacji danych osobowych pod kątem ich przydatności w prowadzonych postę‐
+powaniach uwzględnia się tn.in.: rodzaj i charakter popełnionego przestępstwa; rodzaj i
+charakter naruszonego dobra chronionego prawem, formy sprawstwa, postać zamiaru,
+czas, który upłyną od momentu wprowadzenia danych do zbioru, aktualności przesłanek
+legalności oraz niezbędność dalszego przetwarzania danych do wykonania zadań usta‐
+wowych. Jak wynika z wyjaśnień Komendanta weryfikacji dokonano, w szczególności pod
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_71/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.71.2019
+
+Strona 7 z 9
+
+kątem przesłanek z art. 51 ust. 4 Konstytucji Rzeczypospolitej Polskiej oraz pod kątem
+legalności, w tym w zakresie przesłanek z art. 16 ustawy z 18 grudnia 2018 r. Przeprowa‐
+dzona weryfikacja nie wykazała aby zaszły ustawowe przesłanki do usunięcia danych
+Skarżącego z KSIP. Ponadto, Komendant wykazał, że wobec Skarżącego prowadzone było
+postępowanie karne w sprawie o czyn z art. 159 ustawy z dnia 1997 r. Kodeks kamy (Dz.
+U. z 2018 r. poz. 1600 z późn. zm.) w wyniku, którego Skarżący został uznany za winne‐
+go popełnienia zarzucanych mu czynów, (kopia wyroku w aktach sprawy), co w szczegól‐
+ności - jak wskazał Komendant i z czym należy się zgodzić - biorąc pod uwagę okoliczno‐
+ści popełnionego czynu, możliwość dokonania prognoz kryminologicznych, czynności
+analitycznych, uniemożliwienie ponownego popełnienie takiego czynu a także w możli‐
+wości realizowania ustawowych zadań Policji stanowi o zasadności przetwarzania przez
+Policję danych osobowych Skarżącego.
+Wobec powyższego należy podkreślić, że zgodnie z art. 21nb ust. 1 ustawy o Policji, Ko‐
+mendant Główny Policji prowadzi Krajowy System Informacyjny Policji, będący zestawem
+zbiorów danych, w którym przetwarza się informacje w tym dane osobowe, w związku z
+realizacją zadań ustawowych. Jak już zostało wskazane powyżej, Prezes Urzędu Ochrony
+Danych Osobowych w toku prowadzonego postępowania ustalił, że w 2004 r. wobec
+Skarżącego prowadzone było postępowanie karne w sprawie o czyn z art. 159 ustawy z
+dnia 6 czerwca 1997 r. Kodeks kamy (Dz. U. z 2018 r. poz. 1600 z późn. zm.). Na zasa‐
+dach określonych w ówcześnie obowiązującym art. 20 ust. 2a ustawy o Policji, w związku
+z przedstawieniem Skarżącemu zarzutów, właściwe organy Policji dokonały wprowadze‐
+nia danych osobowych Skarżącego do zbioru danych KSIP jako o osobie podejrzanej o
+popełnienie przestępstwa ściganego z oskarżenia publicznego. Tym samym organy Policji
+zgromadziły i wprowadziły do systemu KSIP dane Skarżącego w ramach wykonywania
+zadań ustawowych. Ponadto, przetwarzanie danych skarżącego odbywa się w związku z
+uprawnieniem Policji do przetwarzania informacji w tym danych osobowych wobec osób,
+co do których było prowadzone postępowanie przez organy Policji wynikającym z art. 20
+ust. 1 ustawy o Policji. Natomiast kwestia przydatności danych Skarżącego przetwarza‐
+nych do celów realizacji ustawowych zadań Policji, ustalana jest na zasadach określo‐
+nych w art. 16 ust. 1 i 2 ustawy z 14 grudnia 2018 r i jak ustalił Prezes Urzędu Ochrony
+danych Osobowych w toku prowadzonego postępowania wyjaśniającego, organy Policji
+dokonały stosownej weryfikacji danych Skarżącego. Tym samym, podstawę prawną prze‐
+twarzania danych Skarżącego przez Komendanta stanowi art. 21nb i art. 20 ust. 1, la, ld,
+2b i 2c ustawy o Policji w związku z art. 16 ustawy z 14 grudnia 2018 r. w związku z roz‐
+porządzeniem z 23 sierpnia 2018 r., które to przepisy wypełniają dyspozycję art. 13 i 14
+ustawy z 14 grudnia 2018 r., co do przetwarzania danych Skarżącego w zakresie nie‐
+zbędnym do spełnienia ustawowych obowiązków i realizacji ustawowych uprawnień
+przez Administratora. Wobec powyższego, przepisy te stanowią o legalności przetwarza‐
+nia danych osobowych Skarżącego w KSIP przez Komendanta, którego dokonuje w ra‐
+mach wykonywania ustawowych zadań, o których mowa w art. 1 ust. 2 i art. 14 ust. 1 i 4
+ustawy o Policji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_71/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.71.2019
+
+Strona 8 z 9
+
+Natomiast ustosunkowując się do twierdzeń Skarżącego, w których wskazuję, że: „pozo‐
+stawienie jego danych w KSIP może w przyszłości spowodować utrudnienie bądź wręcz
+uniemożliwienie osiągnięcia awansu zawodowego albo zmiany rodzaju pełnionej służby
+w innych służbach mundurowych”, „dane mogą być wzięte pod uwagę przy procesie re‐
+krutacji” oraz, że jest „skrajnie niesprawiedliwe i niezgodne z przepisami prawa
+przetwarzanie prze okres ponad 15 lat” jego danych osobowych w KSIP, należy podkre‐
+ślić, że informacje, jakimi dysponuje Krajowy System Informacji Policji nie stanowią źró‐
+dła wiedzy powszechnie dostępnej, gdyż służą wyłącznie realizacji zadań Policji, o któ‐
+rych mowa w art. 1 ust. 2 ustawy o policji. O ile bowiem dostęp do informacji o karalno‐
+ści osoby z Krajowego Rejestru Karnego ma charakter powszechny i jak wykazał Skarżą‐
+cy - nie figuruje on w kartotekach tego rejestru - to informacje pozyskane i wytworzone
+przez organy Policji w KSIP są zamkniętym, ogólnie niedostępnym zbiorem informacji i
+danych, służącym jedynie organom Policji dla zrealizowania ich ustawowych zadań zwią‐
+zanych z zapewnieniem bezpieczeństwa i porządku publicznego. Z tych też względów
+należy zgodzić się ze stanowiskiem Komendanta, który ustosunkowując się do treści
+skargi wskazał, że „KSIP nie stanowi rejestru (zbioru danych osobowych) osób skazanych
+czy też ukaranych — bowiem taką funkcję pełni Krajowy Rejestr Karny a tym samym fakt
+ewentualnego przetwarzania danych osobowych w KSIP nie stygmatyzuje Skarżącego
+czy też innych osób, bowiem w świetle prawa Skarżący pozostaje — w przypadku
+zatarcia skazania — osobą niekaraną”, ponadto „KSIP ma charakter "dyskrecjonalny" a
+udostępnienie danych osobowych z tego zbioru danych następuje tylko gdy taki obowią‐
+zek wynika z innych przepisów szczególnych, które określają także zakres i cel udostęp‐
+nienia.” Przytaczając powyższe argumenty trudno zgodzić się ze Skarżącym, że przetwa‐
+rzanie jego danych w KSIP jest skrajnie niesprawiedliwe i jego interes indywidualny powi‐
+nien być uwzględniony przed interesem publicznym, zwłaszcza w kontekście popełnione‐
+go przez Skarżącego czynu, wykonywanego zawodu, niejawnego charakteru KSIP i
+stwierdzenia w odpowiednim trybie przydatności danych Skarżącego do wykonywania
+ustawowych zadań policji.
+Powyższa argumentacja znajduje również uzasadnienie w wyroku Naczelnego Sądu Ad‐
+ministracyjnego z dnia 21 kwietnia 2017 r. (1 OSK 2426/15 ) oraz w wyroku Trybunału
+Konstytucyjnego z dnia 12 grudnia 2005 r. o sygn. akt K 32/04 (publ. OTK-A
+2005/11/132), w którym stwierdzono, że przepis ówczesnego art. 20 ust. 17 ustawy o Po‐
+licji nie przewiduje usuwania ze zbiorów danych zebranych o osobach podejrzanych o
+popełnienie przestępstw ściganych z oskarżenia publicznego, które zostały prawomocnie
+uniewinnione bądź wobec których postępowanie karne zostało prawomocnie bezwarun‐
+kowo umorzone, niezwłocznie po uprawomocnieniu się stosownego orzeczenia. Prawo‐
+mocne uniewinnienie konkretnej osoby lub bezwarunkowe umorzenie postępowania kar‐
+nego wobec konkretnej osoby nie przesądza o tym, czy zgromadzone dane mogą zawie‐
+rać informacje przydatne dla realizacji ustawowych zadań Policji wobec innych osób.
+Ponadto Trybunał Konstytucyjny wskazuje, iż przyczyną, dla której prawa jednostki mogą
+być ograniczone, jest ochrona dobra wspólnego, a w szczególności - wzgląd na potrzeby
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_71/content
+
+2025-09-03 13:56
+
+Decyzja ZSOŚS.440.71.2019
+
+Strona 9 z 9
+
+bezpieczeństwa i obronności kraju. Ochrona bezpieczeństwa państwa jest zatem szcze‐
+gólna wartością, w zderzeniu z którą prawa jednostki, nawet prawa podstawowe, mogą
+być w niezbędnym zakresie ograniczone. Dopuszczalność ograniczeń podyktowanych ta‐
+kimi względami jest zaś powszechnie przyjęta w państwach demokratycznych (wyrok TK
+z 16 lutego 1999 r. w sprawie SK 11/98, OTK z 1999 r. cz. 1, poz. 5).
+W tym miejscu należy wskazać, że ocena dokonywana przez Prezesa Urzędu Ochrony
+Danych Osobowych w każdym przypadku służy zbadaniu zasadności skierowania pod ad‐
+resem określonego podmiotu nakazu, odpowiadającego dyspozycji art. 8 ust. 2 ustawy z
+14 grudnia 2018 r., służącego przywróceniu stanu zgodnego z prawem, w procesie prze‐
+twarzania danych - jest więc ona uzasadniona i potrzebna tylko o tyle, o ile nieprawidło‐
+wości w procesie przetwarzania danych osobowych istnieją. W ocenie Prezesa Urzędu
+Ochrony Danych Osobowych nic ma podstaw do stwierdzenia, iż dane osobowe Skarżą‐
+cego są przetwarzane przez Administratora w sposób niezgodny ustawą z 14 grudnia
+2018 r. Przetwarzanie danych osobowych Skarżącego znajduje bowiem oparcie w prze‐
+słance określonej w art. 13 ustawy z 14 grudnia 2018 r. w zakresie tzw. zwykłych danych
+oraz w art. 14 ust. 2 ustawy z 14 grudnia 2018 r. w zakresie danych wrażliwych Skarżą‐
+cego. Natomiast odnośnie żądania skarżącego w przedmiocie usunięcia jego danych
+przez Administratora z KSIP, to należy stwierdzić, że sposób postępowania Policji w oma‐
+wianym zakresie nic budzi wątpliwości. Dane osobowe Skarżącego zostały bowiem,
+zgodnie z przepisami, poddane stosownej weryfikacji i ocenie, co do ich przydatności.
+Mając powyższe na względzie w tym stanie faktycznym i prawnym Prezes Urzędu
+Ochrony Danych rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2019:zsoss_440_71/content
+
+2025-09-03 13:56
+

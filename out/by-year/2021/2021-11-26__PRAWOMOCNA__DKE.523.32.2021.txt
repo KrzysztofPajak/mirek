@@ -1,0 +1,255 @@
+Warszawa, 26 listopada 2021
+PRAWOMOCNA
+
+Decyzja
+DKE.523.32.2021
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2020 r. poz. 256 ze zm.) oraz na podstawie art. 160 ust. 1 i 2
+ustawy o ochronie danych osobowych z dnia 10 maja 2018 r. (Dz. U. z 2019 r. poz. 1781)
+oraz art. 12 pkt 2, art. 22, art. 23 ust. l pkt 2 ustawy z dnia 29 sierpnia 1997 r. o ochronie
+danych osobowych (Dz. U. z 2016 r. poz. 922 ze zm.), w związku z art. 6 ust. 1 lit. a) oraz
+lit. f) rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia
+2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobo‐
+wych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/
+WE (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana P. Z., na
+przetwarzanie jego danych osobowych w celu marketingowym przez A. S.A. oraz ich
+udostępnienie H. Sp. z o.o., Prezes Urzędu Ochrony Danych Osobowych
+odmawia uwzględnienia wniosku
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_32/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.32.2021
+
+Strona 2 z 6
+
+Uzasadnienie
+
+Stan faktyczny
+Do Biura Generalnego Inspektora Ochrony Danych Osobowych (obecnie: Urzędu
+Ochrony Danych Osobowych) wpłynęła skarga Pana P. Z., zwanego dalej „Skarżącym”,
+na bezprawne wykorzystanie jego danych osobowych przez A. Bank S.A. (zwany dalej
+„Bankiem”) poprzez ich udostępnienie podmiotowi działającemu na zlecenie Banku do
+celów marketingu produktów Bankowych.
+Skarżący w treści swojej skargi wskazał, że nie wyrażał Bankowi zgody na przetwarzanie
+swoich danych osobowych w celach marketingowych. W dniu (…) września 2014 r. Skar‐
+żący zawarł z Bankiem umowę o pożyczkę nr (…) i w tej umowie odnotowane zostało, że
+nie wyraża on zgody na przetwarzanie swoich danych osobowych w celach marketingo‐
+wych. Jednakże od (…) października 2014 r. Skarżący zaczął otrzymywać telefony z nu‐
+meru (…) z ofertami handlowymi. Osoby dzwoniące informowały Skarżącego, że dzwonią
+na zlecenie A. Banku S.A. w celach handlowych i marketingowych. Skarżący jednak nie
+wiedział, komu Bank udostępnił jego dane osobowe.
+W związku z powyższym, Skarżący w treści skargi wniósł o nakazanie Bankowi przywró‐
+cenie stanu zgodnego z prawem, poprzez zaprzestanie przetwarzania jego danych oso‐
+bowych zarówno przez Bank, jak i podmiot, który w imieniu Banku przetwarza jego dane
+osobowe w celach marketingowych.
+W toku przeprowadzonego postępowania wyjaśniającego w niniejszej sprawie Prezes
+Urzędu Ochrony Danych Osobowych ustalił następujący stan faktyczny:
+1. Bank pozyskał dane osobowe Skarżącego w związku z zawarciem z nim umowy o
+pożyczkę z (…) września 2014 r. nr (…). Umowa ta zawierała zapis o następującej
+treści: „Nie wyrażam zgody na przetwarzanie danych w celach marketingowych
+przez A. Bank S.A.”; „Nie wyrażam zgody na otrzymywanie za pośrednictwem środ‐
+ków komunikacji elektronicznej informacji handlowych w rozumieniu ustawy z dnia
+18.07.2002 r. o świadczeniu usług drogą elektroniczną o produktach i usługach ofe‐
+rowanych przez A. Bank S.A. w trakcie trwania Umowy, a także w przypadku nie za‐
+warcia Umowy albo po jej rozwiązaniu, wygaśnięciu lub odstąpieniu od niej”.
+2. Dane osobowe Skarżącego są przetwarzane przez Bank w zakresie wskazanym w
+ww. umowie, to jest: imię, nazwisko, adres zamieszkania, adres zameldowania, PE‐
+SEL, nr dokumentu tożsamości, stan cywilny, płeć, adres e-mail, numer telefonu.
+3.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_32/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.32.2021
+
+4.
+
+5.
+
+6.
+
+7.
+
+Strona 3 z 6
+
+Bank na podstawie art. 31 ust. 1 ustawy dnia 29 sierpnia 1997 r. o ochronie danych
+osobowych (Dz. U. z 2016 r. poz. 922 ze zm.), zwanej dalej „ustawą o ochronie da‐
+nych osobowych z 1997 r.” powierzył firmie H. Sp. z o.o. (dalej, jako Spółka) prze‐
+twarzanie danych osobowych swoich klientów.
+Wyjaśnienia Banku wykazały, że w wyniku usterki technicznej podczas zaczytywania
+danych do systemu Banku, w kartotece Skarżącego została zaznaczona zgoda na
+przetwarzanie jego danych w celach marketingowych, pomimo, że Skarżący takiej
+zgody nie wyraził. Usterka ta została wyeliminowana niezwłocznie po jej
+zauważeniu, tj. (…) października 2014 r.
+Jednakże w związku z błędnie zaznaczoną zgodą na przetwarzanie danych do celów
+marketingowych, dane osobowe Skarżącego przed odznaczeniem braku zgody w
+kartotece, zostały przekazane (…) października 2014 r. współpracującej z Bankiem,
+na podstawie art. 31 ust. 1 ustawy o ochronie danych osobowych z 1997 r. firmie H.
+Sp. z o.o. Ponadto, Bank wyjaśnił, że o tym fakcie Skarżący został poinformowany w
+piśmie z (…) listopada 2014 r. znak: (…) z (…) listopada 2014 r. (pismo w aktach
+sprawy).
+W systemie informatycznym Banku (…) października 2014 r. odnotowany został
+sprzeciw wobec przetwarzania danych osobowych Skarżącego w celu marketingo‐
+wym i od tego dnia nie były kierowane do Skarżącego oferty marketingowe zarówno
+przez Bank, jak i przez podmiot, któremu Bank na podstawie umowy powierzył prze‐
+twarzanie danych osobowych klientów w celu marketingowym, tj. H. Sp. z o.o.
+Bank – zgodnie z jego wyjaśnieniami złożonymi w niniejszym postępowaniu zapew‐
+nia, że obecnie dane osobowe skarżącego nie są przetwarzane ani przez Bank ani
+przez H. Sp. z.o.o. w celach marketingowych.
+
+Uzasadnienie prawne
+Po przeanalizowaniu zgromadzonego w sprawie materiału dowodowego, Prezes Urzędu
+Ochrony Danych Osobowych stwierdza, co następuje.
+Z dniem 25 maja 2018 r. w życie weszły przepisy ustawy z dnia 10 maja 2018 r. o
+ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781), zwanej dalej także: „ustawą o
+ochronie danych osobowych z 2018 r.”.
+W myśl art. 160 ust. 1-3 ustawy o ochronie danych osobowych z 2018 r., postępowania
+prowadzone przez Generalnego Inspektora Ochrony Danych Osobowych, wszczęte i nie‐
+zakończone przed dniem wejścia w życie niniejszej ustawy, prowadzone są przez Prezesa
+Urzędu Ochrony Danych Osobowych na podstawie ustawy o ochronie danych osobowych
+z 1997 r., zgodnie z zasadami określonymi w ustawie z dnia 14 czerwca 1960 r. Kodeks
+postępowania administracyjnego (Dz. U. z 2020 r. poz. 256 ze zm.). Jednocześnie, czyn‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_32/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.32.2021
+
+Strona 4 z 6
+
+ności dokonane w postępowaniach, wszczętych i niezakończonych przed dniem wejścia
+w życie przepisów ustawy o ochronie danych osobowych z 2018 r., pozostają skuteczne.
+Od dnia 25 maja 2018 r. zastosowanie ma również rozporządzenie 2016/679.
+Stosownie do art. 57 ust. 1 rozporządzenia 2016/679, bez uszczerbku dla innych zadań
+określonych na mocy niniejszego rozporządzenia każdy organ nadzorczy na swoim tery‐
+torium monitoruje i egzekwuje stosowanie niniejszego rozporządzenia (lit. a) oraz rozpa‐
+truje skargi wniesione przez osobę, której dane dotyczą, lub przez podmiot, organizację
+lub zrzeszenie zgodnie z art. 80, w odpowiednim zakresie prowadzi postępowania w
+przedmiocie tych skarg i w rozsądnym terminie informuje skarżącego o postępach i wy‐
+nikach tych postępowań, w szczególności, jeżeli niezbędne jest dalsze prowadzenie
+postępowań lub koordynacja działań z innym organem nadzorczym (lit. f).
+W tym miejscu wskazać należy, że Prezes Urzędu Ochrony Danych Osobowych wydając
+decyzję administracyjną zobowiązany jest do rozstrzygania w oparciu o stan faktyczny
+istniejący w chwili wydania tej decyzji. Jak podnosi doktryna „organ administracji pu‐
+blicznej ocenia stan faktyczny sprawy według chwili wydania decyzji administracyjnej.
+Reguła ta odnosi się także do oceny stanu prawnego sprawy, co oznacza, że organ admi‐
+nistracji publicznej wydaje decyzję administracyjną na podstawie przepisów prawa obo‐
+wiązujących w chwili jej wydania (…). Rozstrzyganie w postępowaniu administracyjnym
+polega na zastosowaniu obowiązującego prawa do ustalonego stanu faktycznego sprawy
+administracyjnej. W ten sposób organ administracji publicznej realizuje cel postępowania
+administracyjnego, jakim jest urzeczywistnienie obowiązującej normy prawnej w zakre‐
+sie stosunków administracyjno-prawnych, gdy stosunki te tego wymagają” (Komentarz
+do ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, M. Jaś‐
+kowska, A. Wróbel, Lex., el/2012). Również Naczelny Sąd Administracyjny – w wyroku z
+dnia 7 maja 2008 r. w sprawie o sygn. akt I OSK 761/07 stwierdził, iż cyt.: „badając, bo‐
+wiem legalność przetwarzania danych osobowych, GIODO ma obowiązek ustalenia, czy
+na datę wydawania rozstrzygnięcia w sprawie dane konkretnego podmiotu są przetwa‐
+rzane oraz czy czynione to jest w sposób zgodny z prawem”.
+Zatem, decydujące znaczenie dla rozstrzygnięcia, jakie musi być wydane w przedmioto‐
+wej sprawie, ma okoliczność, że przetwarzanie danych osobowych Skarżącego rozpoczę‐
+ło się w okresie obowiązywania ustawy o ochronie danych osobowych z 1997 r. i obecnie
+jest kontynuowane. Stwierdzić zatem należy, że właściwe w przedmiotowej sprawie jest
+zastosowanie przepisów obowiązujących w czasie wydawania rozstrzygnięcia sprawy tj.
+rozporządzenia 2016/679, ponieważ Prezes Urzędu musi ocenić czy kwestionowany pro‐
+ces przetwarzania danych osobowych na dzień wydania decyzji administracyjnej jest
+zgodny z prawem.
+Rozporządzenie 2016/679 stanowi przepisy o ochronie osób fizycznych w związku z prze‐
+twarzaniem danych osobowych oraz przepisy o swobodnym przepływie danych osobo‐
+wych oraz chroni podstawowe prawa i wolności osób fizycznych, w szczególności ich pra‐
+wo do ochrony danych osobowych (art. 1 ust 1 i 2 rozporządzenia 2016/679). Odpowied‐
+nio regulował tę kwestię art. 2 ust. 1 ustawy o ochronie danych osobowych z 1997 r. W
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_32/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.32.2021
+
+Strona 5 z 6
+
+świetle przepisów powołanego aktu prawnego, przetwarzanie danych osobowych jest
+uprawnione, gdy spełniona zostanie którakolwiek z przesłanek wymienionych w art. 6
+ust. 1 rozporządzenia 2016/679 (uprzednio art. 23 ust. 1 ustawy o ochronie danych oso‐
+bowych z 1997 r.). Przesłanki te odnoszą się do wszelkich form przetwarzania danych
+wymienionych w art. 4 pkt 2 rozporządzenia 2016/679 (uprzednio art. 7 pkt 2 ustawy o
+ochronie danych osobowych z 1997 r.). Ponadto, przesłanki te są względem siebie rów‐
+noprawne, co oznacza, że dla legalności procesu przetwarzania danych wystarczające
+jest spełnienie jednej z nich.
+Zgodnie z brzmieniem przepisu art. 23 ust. 1 ustawy o ochronie danych osobowych z
+1997 r., obowiązującej w okresie, którego dotyczyła skarga Skarżącego, przetwarzanie
+danych osobowych było dopuszczalne, gdy: osoba, której dane dotyczą, wyrazi na to
+zgodę, chyba że chodzi o usunięcie dotyczących jej danych (pkt 1), jest to niezbędne dla
+zrealizowania uprawnienia lub spełnienia obowiązku wynikającego z przepisu prawa (pkt
+2), jest to konieczne do realizacji umowy, gdy osoba, której dane dotyczą, jest jej stroną
+lub gdy jest to niezbędne do podjęcia działań przed zawarciem umowy na żądanie oso‐
+by, której dane dotyczą (pkt 3), jest niezbędne do wykonania określonych prawem zadań
+realizowanych dla dobra publicznego (pkt 4), jest to niezbędne dla wypełnienia prawnie
+usprawiedliwionych celów realizowanych przez administratorów danych albo odbiorców
+danych, a przetwarzanie nie narusza praw i wolności osoby, której dane dotyczą (pkt 5).
+Art. 32 ust. 1 pkt 8 ustawy o ochronie danych osobowych z 1997 r. przyznawał osobie,
+której dane dotyczą, uprawnienie do wniesienia sprzeciwu wobec przetwarzania jej da‐
+nych osobowych w przypadkach wymienionych w art. 23 ust. 1 pkt 4 i 5. Oznacza to, że
+osoba, której dane dotyczą, mogła wnieść do administratora danych sprzeciw wobec
+przetwarzania jej danych osobowych w celu marketingowym. Jednocześnie z dyspozycji
+art. 32 ust. 3 ustawy o ochronie danych osobowych z 1997 r. wynikało, że po odnotowa‐
+niu takiego sprzeciwu dalsze przetwarzanie kwestionowanych danych było niedopusz‐
+czalne.
+W ustalonym stanie faktycznym, bezsprzecznym jest, że Bank już w dniu zawarcia ze
+Skarżącym umowy o pożyczkę, tj. (…) września 2014 r. nie miał podstaw kierowania do
+Skarżącego ofert marketingowych. Do zaistniałej sytuacji doszło w wyniku błędnie zazna‐
+czonej w systemie (kartotece) zgody na przetwarzanie danych osobowych w celach mar‐
+ketingowych. Jak wyżej wykazano już (…) października 2014 r. w systemie Banku odnoto‐
+wany został sprzeciw wobec przetwarzania danych osobowych Skarżącego w celach
+marketingowych i od tego dnia dane osobowe Skarżącego nie były już przetwarzane w
+tym celu zarówno przez Bank, jak i podmiot przetwarzający, któremu Bank na podstawie
+art. 31 ustawy o ochronie danych osobowych z 1997 r. powierzył przetwarzanie danych
+osobowych, to jest przez H. Sp. z o.o.
+Stwierdzając w niniejszej sprawie naruszenie przez Bank przepisów o ochronie danych
+osobowych, Prezes UODO zobligowany jest jednak, zważywszy na jej okoliczności, odmó‐
+wić uwzględnienia wniosku Skarżącemu. Zdarzenie stanowiące podstawę skargi uznać
+należy bowiem za incydentalne i mające miejsce w 2014 r., nie było powtarzane w póź‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_32/content
+
+2025-09-03 13:42
+
+Decyzja DKE.523.32.2021
+
+Strona 6 z 6
+
+niejszym okresie, i – co najistotniejsze - nie jest kontynuowane w dacie wydania niniej‐
+szej decyzji. Wobec tego, że – jak zostało to wskazane na wstępie uzasadnienia niniejszej
+decyzji – Prezes UODO orzeka w niniejszej sprawie na podstawie ustawy o ochronie da‐
+nych osobowych z 1997 r. (mając do dyspozycji jedynie środki wskazane w art. 18 ust 1
+tej ustawy), organ ochrony danych osobowych nie ma podstaw do rozstrzygnięcia zgod‐
+nego z żądaniami Skarżącej. Jak wskazał Naczelny Sąd Administracyjny w wyroku z dnia
+17 lipca 2015 r., I OSK 2464/13 (LEX nr 2091094): „Zgodnie z tym przepisem [art. 18
+ust. 1 ustawy o ochronie danych osobowych z 1997 r.], w sytuacji, gdy dochodzi do naru‐
+szenia przepisów ustawy o ochronie danych osobowych Generalny Inspektor, w razie
+stwierdzenia tego naruszenia, w drodze decyzji administracyjnej, nakazuje przywrócenie
+stanu zgodnego z prawem, poprzez wydanie określonych nakazów wymienionych w tym
+przepisie. W literaturze przedmiotu podkreśla się, że decyzja Generalnego Inspektora
+wydawana na podstawie powyższego przepisu ma służyć przywróceniu stanu zgodnego
+z prawem. (…) Przesłanką wydania nakazu jest stwierdzenie naruszenia przepisów o
+ochronie danych osobowych, tj. z zebranego w postępowaniu materiału dowodowego
+musi wynikać, że swoim działaniem lub zaniechaniem administrator naruszył przepisy
+prawa. Co ważne, stwierdzony przez organ stan naruszenia przepisów o ochronie danych
+osobowych powinien istnieć w dacie wydania decyzji”.
+W związku z poczynionymi ustaleniami wskazać należy, że dalsze prowadzenie przez
+Prezesa Ochrony Danych Osobowych postępowania administracyjnego, zainicjowanego
+skargą na nieprawidłowości w przetwarzaniu danych osobowych Skarżącego przez Bank,
+ukierunkowanego na wydanie decyzji administracyjnej na podstawie art. 18 ust. 1
+ustawy 1997 jest niezasadne.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_523_32/content
+
+2025-09-03 13:42
+

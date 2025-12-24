@@ -1,0 +1,1509 @@
+Warszawa, 4 lipca 2025
+NIEPRAWOMOCNA
+
+Decyzja
+DKN.5131.17.2022
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2024 r. poz. 572) w związku z art. 7, art. 60, art. 101 i art.
+103 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz.
+1781), art. 57 ust. 1 lit. a) i h) oraz art. 58 ust. 2 lit. i), a także art. 83 ust. 1 – 3, art. 83
+ust. 4 lit. a) w związku z art. 24 ust. 1, art. 25 ust. 1 i art. 32 ust. 1 i 2 oraz art. 83 ust. 5
+lit. a) w związku z art. 5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia Parlamentu Europej‐
+skiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych
+w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu ta‐
+kich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenia o ochronie
+danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz
+Dz. Urz. UE L 74 z 4.03.2021, str. 35), zwanego dalej „rozporządzeniem 2016/679”,
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w sprawie
+naruszenia przepisów o ochronie danych osobowych przez Niepubliczny Zakład Opieki
+Zdrowotnej (…) H. Sp. z o.o. z siedzibą w R. przy ul. (…), Prezes Urzędu Ochrony Danych
+Osobowych,
+stwierdzając naruszenie przez Niepubliczny Zakład Opieki Zdrowotnej (…) H. Sp. z o.o. z
+siedzibą w R. przy ul. (…) przepisów art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2
+rozporządzenia 2016/679, polegające na:
+1) nieprzeprowadzeniu analizy ryzyka dla operacji przetwarzania danych osobowych
+pacjentów związanych z udzielaniem świadczeń zdrowotnych w formie „wizyt domo‐
+wych”, która uwzględnia:
+a) stan wiedzy technicznej, koszt wdrożenia, charakter, zakres, kontekst, cele
+przetwarzania oraz ryzyko naruszenia praw lub wolności pacjentów o różnym
+prawdopodobieństwie wystąpienia i wadze zagrożenia w postaci kradzieży
+dokumentacji medycznej w formie papierowej;
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 2 z 31
+
+b)
+
+2)
+
+ryzyko wiążące się z przetwarzaniem danych osobowych pacjentów zawartych
+w dokumentacji medycznej podczas realizacji wizyt domowych, w szczególności
+wynikające z przypadkowego lub niezgodnego z prawem zniszczenia, utraty,
+modyfikacji, nieuprawnionego ujawnienia lub nieuprawnionego dostępu do da‐
+nych osobowych przesyłanych, przechowywanych lub w inny sposób przetwa‐
+rzanych;
+niewdrożeniu odpowiednich środków technicznych i organizacyjnych, zapewniają‐
+cych bezpieczeństwo przetwarzania danych osobowych pacjentów zawartych w do‐
+kumentacji medycznej podczas realizacji wizyt domowych, co skutkowało narusze‐
+niem art. 5 ust. 1 lit. f) (zasady integralności i poufności) oraz art. 5 ust. 2
+rozporządzenia 2016/679 (zasady rozliczalności),
+
+nakłada na Niepubliczny Zakład Opieki Zdrowotnej (…) H. Sp. z o.o. z siedzibą w R. przy
+ul. (…) za naruszenie art. 5 ust. 1 lit. f), art. 5 ust. 2, art. 25 ust. oraz art. 32 ust. 1 i 2
+rozporządzenia 2016/679 administracyjną karę pieniężną w wysokości 32 832 zł (słow‐
+nie: trzydziestu dwóch tysięcy ośmiuset trzydziestu dwóch złotych).
+
+Uzasadnienie
+Niepubliczny Zakład Opieki Zdrowotnej (…) H. Sp. z o.o. z siedzibą w R., zwany dalej rów‐
+nież „Administratorem”, 6 sierpnia 2021 r. dokonał zgłoszenia Prezesowi Urzędu Ochrony
+Danych Osobowych, zwanemu dalej także „Prezesem UODO”, naruszenia ochrony da‐
+nych osobowych. Zgłoszenie zostało zarejestrowane przez Prezesa UODO pod sygn. (…).
+Przedmiotowe zgłoszenie naruszenia ochrony danych osobowych stało się dla Prezesa
+UODO impulsem do dokonania oceny realizacji przez Administratora spoczywających na
+nim obowiązków wynikających z przepisów rozporządzenia 2016/679 dotyczących wła‐
+ściwego zabezpieczenia danych oraz organizacji systemu ochrony danych osobowych.
+Wobec powyższego, pismami z 16 grudnia 2021 r. oraz 11 stycznia 2022 r. Prezes UODO
+zwrócił się do Administratora o udzielenie dodatkowych wyjaśnień oraz przedstawienie
+dowodów na ich potwierdzenie. Administrator udzielił wyjaśnień pismami z 3 i 19 stycz‐
+nia 2022 r. W związku ze złożonymi wyjaśnieniami, 30 marca 2022 r. Prezes UODO wsz‐
+czął postępowanie administracyjne w zakresie możliwości naruszenia przez Niepubliczny
+Zakład Opieki Zdrowotnej (…) H. Spółka Jawna (na dzień wydania decyzji Niepubliczny
+Zakład Opieki Zdrowotnej (…) H. Sp. z o.o.), jako administratora danych, obowiązków
+wynikających z art. 5 ust. 1 lit. f), art. 5 ust. 2, art. 24 ust. 1, art. 25 ust. 1 oraz art. 32
+ust. 1 i 2 rozporządzenia 2016/679 (sygn. pisma DKN.5131.17.2022). W odpowiedzi Ad‐
+ministrator pismem z 4 maja 2022 r. udzielił dodatkowych wyjaśnień oraz przedstawił
+dowody na ich potwierdzenie. Ponadto, Prezes UODO pismami z 5 stycznia 2023 r., 22
+października 2024 r., 13 lutego 2025 r. oraz 14 kwietnia 2025 r. wezwał Administratora
+do złożenia dodatkowych wyjaśnień i dowodów na ich potwierdzenie. Administrator pi‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 3 z 31
+
+smami z 18 stycznia 2023 r., 5 listopada 2024 r., 24 lutego 2025 r., 23 kwietnia 2025 r.
+oraz 13 maja 2025 r. udzielił takich wyjaśnień. Na podstawie ww. pism oraz załączonych
+do nich dowodów Prezes UODO ustalił stan faktyczny przedmiotowej sprawy.
+
+I. Stan faktyczny
+Administrator jako niepubliczny zakład opieki zdrowotnej udzielał świadczeń zdrowot‐
+nych swoim pacjentom. Przy realizacji tych świadczeń w ramach wizyt domowych wyko‐
+rzystywał prywatne auta swoich pracowników. Osoby posiadające takie auta podpisywa‐
+ły z Administratorem umowy w sprawie używania prywatnego samochodu do celów służ‐
+bowych. Administrator w okresie od 25 maja 2018 r. do 18 lutego 2022 r. udzielał
+świadczeń zdrowotnych w formie „wizyt domowych” dla około (…) pacjentów.
+Powołany u Administratora (…) 13 lipca 2017 r. przeprowadził sprawdzenie (kopia spra‐
+wozdania z tego sprawdzenia stanowi załącznik do pisma Administratora z 19 stycznia
+2021 r.). W przedmiotowym dokumencie zostały opisane stwierdzone nieprawidłowości
+w ramach „Wizyt domowych” – „W przypadku wizyty domowej lekarz zabiera ze sobą
+kartotekę pacjenta (adnotacja w systemie (…)). Najczęściej odnosi ją z powrotem do
+przychodni tego samego dnia. W toku audytu uzyskano informację, że jeden z lekarzy
+regularnie zabiera kartoteki po pracy do domu.” Powyższa okoliczność została opatrzona
+następującymi uwagami: „Ewentualne sytuacje, w których w związku z odbywaniem wi‐
+zyt domowych dokumentacja nie jest po wizycie domowej zwracana bezpośrednio do
+placówki medycznej, powinny być ograniczone do minimum i stanowić wyjątek od regu‐
+ły. W trakcie przewożenia dokumentacji medycznej powinna ona być przechowywana w
+taki sposób, aby zminimalizować ryzyko jej utracenia, np. w wyniku kradzieży. Dokumen‐
+tacja nie powinna być przewożona luzem. Transport środkami transportu publicznego
+jest bardziej ryzykowny niż transport samochodowy z uwagi niebezpieczeństwo kradzie‐
+ży lub zagubienia, dlatego też ta pierwsza forma transportu powinna zostać ograniczona
+do minimum. Dokumentacja powinna przez cały czas znajdować się pod opieką osoby
+przewożącej, tj. nie powinna być pozostawiana w samochodzie. 2) Powyższe uwagi znaj‐
+dują zastosowanie także wobec lekarza, który zabiera po pracy dokumentację do domu.
+Osoba ta musi być świadoma konsekwencji, jakie może przynieść jej postępowanie.”
+15 maja 2018 r. zostało przeprowadzone kolejne sprawdzenie (kopia sprawozdania z
+tego sprawdzenia stanowi załącznik do pisma Administratora z 19 stycznia 2021 r.). Jak
+wynika z przedstawionego dokumentu, w ramach weryfikacji „Wizyt domowych” wskaza‐
+no, że „Rekomendacje przedstawione w raporcie przygotowanym na podstawie audytu
+przeprowadzonego w dniu 13.07.2017 r. pozostają aktualne. 2. Dokumentacja medycz‐
+na, po zakończeniu wizyty domowej, powinna być niezwłocznie przekazywana przez le‐
+karza do Przychodni. Sytuacje, w których dokumentacja nie jest po wizycie domowej
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 4 z 31
+
+zwracana bezpośrednio do placówki powinny być ograniczone do minimum i stanowić
+wyjątek od reguły.”
+Od 15 marca 2021 r. u Administratora obowiązywała „Polityka bezpieczeństwa”, której
+rozdział zatytułowany „(…)” stanowiący załącznik nr (…) do „Polityki bezpieczeństwa”,
+został przesłany pismem Administratora z 19 stycznia 2022 r. Zgodnie z pkt (…) „(…)”,
+ust. (…): „Papierowe dokumenty zawierające dane osobowe są przechowywane: 1) w za‐
+pewnionych przez ADO szafkach, szafach lub szufladach na klucz, 2) na innych,
+uzgodnionych z ADO i IOD zasadach.” Natomiast zgodnie z ust. (…) – „Papierowe doku‐
+menty zawierające dane osobowe nie mogą być przechowywane na stałe lub tymczaso‐
+wo w miejscach, gdzie mogą uzyskać do nich dostęp osoby nieupoważnione (np. przy
+przezroczystym oknie na parterze lub w niezamykanym regale na publicznie dostępnym
+korytarzu).”
+18 maja 2021 r. Administrator opracował obowiązujący pracowników dokument pod tytu‐
+łem „Zasady ochrony danych osobowych”, przesłany wraz z pismem Administratora z 19
+stycznia 2022 r. Zgodnie z pkt (…) powyższego dokumentu, „Zabrania się pozostawiania
+dokumentacji w ogólnodostępnych miejscach bez nadzoru (np. korytarze, pomieszczenia
+niezamykane na klucz).”
+Prezes UODO zwrócił się do Administratora z pytaniem „Czy obowiązujące u administra‐
+tora procedury dopuszczały przewożenie dokumentacji zawierającej dane osobowe pry‐
+watnym autem pracownika, a jeżeli tak, to czy określały one sposób postępowania z tą
+dokumentacją, w tym sposób jej zabezpieczenia.” W odpowiedzi pismem z 19 stycznia
+2022 r. Administrator powołał się na w/w pkt (…) ust. (…) „Polityki bezpieczeństwa” oraz
+pkt (…) „Zasady ochrony danych osobowych” (wskazane w pkt 6 i 7 ustaleń stanu fak‐
+tycznego). Z powyższych procedur nie wynika, aby dopuszczały, czy też w sposób szcze‐
+gólny odnosiły się do okoliczności przewożenia dokumentacji zawierającej dane osobowe
+prywatnym autem pracownika, a tym bardziej, do sposobów postępowania z tą doku‐
+mentacja, w tym jej zabezpieczenia w ramach przewożenia jej prywatnym autem. Po‐
+nadto, Administrator udzielając odpowiedzi na pytanie nie był w stanie wykazać, że
+uzgodnił zasady przechowywania dokumentacji w ramach przewożenia ich autem,
+stosowanie do ww. pkt (…) ust. (…) Polityki bezpieczeństwa.
+Ze zgromadzonego materiału dowodowego nie wynika także, aby Administrator prywat‐
+ne auta pracowników zidentyfikował jako obszar przetwarzania danych osobowych, do
+których odnoszą się postanowienia procedur dotyczących zabezpieczania danych osobo‐
+wych. Wreszcie Administrator po wystąpieniu naruszenia ochrony danych osobowych,
+pismem z 19 stycznia 2022 r., poinformował, że podjął „decyzję o aktualizacji załącznika
+nr (…) do polityki bezpieczeństwa Administratora (zasady zabezpieczeń fizycznych) po‐
+przez konkretne wskazanie zasad bezpieczeństwa, obowiązujących w razie konieczności
+transportu dokumentacji medycznej poza siedzibą placówki medycznej (w szczególności
+w trakcie wizyt środowiskowych)”, przy czym z materiału dowodowego wynika, że za‐
+łącznik ten został oznaczony numer (…), a po aktualizacji nadano mu numer (…).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 5 z 31
+
+Mając na uwadze powyższe Prezes UODO ustalił, że obowiązujące u Administratora pro‐
+cedury nie odnosiły się do przewożenia dokumentacji zawierającej dane osobowe pry‐
+watnym autem pracownika, w tym nie określały sposobu postępowania z tą dokumenta‐
+cją oraz sposobów jej zabezpieczenia. Ponadto, w oparciu o powyższe oraz okoliczności
+opisane w pkt 11 i 12, Prezes UODO ustalił, że przed wystąpieniem naruszenia ochrony
+danych osobowych i przynajmniej do dnia 18 lutego 2022 r. (dzień zmiany procedur) re‐
+komendacje zawarte w audytach przeprowadzonych w 2017 r. i 2018 r. nie przybrały
+formy procedur i nie zostały ogłoszone pracownikom Administratora.
+Pismem z 19 stycznia 2022 r. Administrator poinformował, że w 2021 r. „przeprowadził
+analizę ryzyka, dotyczącą czynności przetwarzania (…)”. Natomiast pismem z 18 stycz‐
+nia 2023 r. wskazał, że przedmiotowa analiza ryzyka zastała przeprowadzona przed wy‐
+stąpieniem naruszenia ochrony danych osobowych. W ramach tej analizy Administrator
+ustalił, że osoby zatrudnione mogą przetwarzać dane osobowe poza placówką
+medyczną, jako dowód wskazując „Analizę ryzyka – (…) [H. (R.) (pytanie 6.2.4., s.7.)”.
+Jak wynika z przedstawionej „Analizy ryzyka”, czynności przetwarzania danych osobo‐
+wych związane z realizacją wizyt domowych zostały przez Administratora ocenione w pkt
+„(…)” w ten sposób, że Administrator formułując pytanie „Czy osoby zatrudnione mogą
+przetwarzać dane osobowe poza placówką medyczną?” udzielił odpowiedzi twierdzącej,
+jednocześnie opatrując ją następującym komentarzem: „Takie przetwarzanie jest dozwo‐
+lone w zakresie związanym z ochroną zdrowia, np. w formie wizyt domowych. Osoby
+przetwarzające dane w ten sposób zobowiązane są do zachowania adekwatnych
+środków bezpieczeństwa”. Końcowa ocena odnosi się do całości pkt „Procedury przetwa‐
+rzania danych osobowych” i „ocena poziomu ryzyka związanego z zagrożeniami” ustalo‐
+na została na poziomie „średnim”. Zgodnie z metodyką przedstawionej analizy, ww.
+„ocena poziomu ryzyka związanego z zagrożeniami” jest wynikiem cząstkowym, mają‐
+cym wpływ na wynik oceny ryzyka, dla którego uwzględnia się również poziom
+negatywnych skutków, który dla atrybutu „poufności” został oceniony przez Administra‐
+tora jako wysoki (pkt (…) ww. analizy).
+W powyższej analizie ryzyka w oparciu o końcową ocenę z pkt „(…)” i pkt „(…)” ww. ana‐
+lizy ryzyka oraz w oparciu o matryce z pkt „(…)” poziom ryzyka został ustalony jako wy‐
+soki i odnosił się do bardzo ogólnej czynności przetwarzania (…), na którą zgodnie z
+przyjętą metodyką (pkt (…)) składały się czynności podejmowane w celu udzielania
+świadczeń zdrowotnych, prowadzenie dokumentacji medycznej, realizacja praw
+pacjentów, w papierowej dokumentacji medycznej oraz systemach IT.
+6 sierpnia 2021 r. Administrator dokonał Prezesowi UODO zgłoszenia naruszenia ochrony
+danych osobowych, polegającego na kradzieży samochodu, w którym znajdowała się do‐
+kumentacja medyczna zawierająca dane osobowe (…) pacjentów, w tym dzieci (nowo‐
+rodki), w postaci: nazwisk, imion, dat urodzenia, adresów zamieszkania, numerów ewi‐
+dencyjnych PESEL, nazwisk rodowych matki oraz danych dotyczących zdrowia, czym zo‐
+stał naruszony atrybut poufności oraz dostępności danych osobowych tych osób. Doku‐
+mentacja została pozostawiona w prywatnym samochodzie pracownika Administratora,
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 6 z 31
+
+który realizował wizyty domowe u pacjentek objętych ww. naruszeniem. Do naruszenia
+ochrony danych osobowych doszło w nocy z 4 na 5 sierpnia 2021 r. Administrator doko‐
+nał zgłoszenia na policję kradzieży dokumentacji medycznej oraz zadeklarował wycia‐
+gnięcie konsekwencji dyscyplinarnych wobec pracownika odpowiedzialnego za
+naruszenie ochrony danych osobowych.
+Postępowanie w sprawie kradzieży samochodu wraz z dokumentacją medyczną zawiera‐
+jąca dane osobowe było prowadzone przez Komendę Miejską Policji w G.. Postanowie‐
+niem z 13 września 2021 r., wobec niewykrycia sprawców przestępstwa, dochodzenie
+zostało umorzone. Ponadto, jak wyjaśnił Administrator, „skradzionej dokumentacji me‐
+dycznej nie odnaleziono”. Administrator „nie posiada wiedzy na temat powstałych szkód
+majątkowy lub niemajątkowych wśród 8 pacjentów, których dokumentacja została skra‐
+dziona”, a „Osoby pokrzywdzone, nie sygnalizowały roszczenia do Spółki w związku z
+naruszeniem ochrony ich danych osobowych”.
+8 września 2021 r., po naruszeniu ochrony danych osobowych, w celu podniesienia po‐
+ziomu bezpieczeństwa transportu danych osobowych zawartych w dokumentacji me‐
+dycznej wykorzystywanej w trakcie realizacji wizyt domowych, Administrator przekazał
+pracownikom teczki zabezpieczone zamkiem szyfrowym.
+Po wystąpieniu ww. naruszenia ochrony danych osobowych, 17 lutego 2022 r., została
+przeprowadzona analiza ryzyka dla procesu przetwarzania danych osobowych – trans‐
+port papierowej dokumentacji medycznej. W przeprowadzonej analizie ryzyka ustalono,
+że transport papierowej dokumentacji medycznej jest obciążony wysokim ryzykiem naru‐
+szenia praw lub wolności osób, których dane dotyczą, wobec powyższego dodatkowo
+przeprowadzono ocenę skutków dla ochrony danych, zgodnie z art. 35 rozporządzenia
+2016/679. W wyniku oceny skutków zarekomendowano, w pierwszej kolejności, przepro‐
+wadzenie szkoleń dla personelu Administratora, ze szczególnym uwzględnieniem kwestii
+bezpiecznego transportu papierowej dokumentacji medycznej oraz aktualizację polityki
+ochrony danych osobowych, „aby jeszcze mocniej zaadresować zagadnienie związane z
+transportem dokumentacji medycznej. W marcu 2022 r. przeprowadzono (…) szkoleń
+łącznie dla (…) zatrudnionych u Administratora pracowników. Zagadnienia szkoleń obej‐
+mowały także treść zaktualizowanego w dniu 18 lutego 2022 r. załącznika nr (…) do Poli‐
+tyki bezpieczeństwa (dodano rozdział poświęcony transportowi papierowej dokumentacji
+medycznej)”.
+Do zaktualizowanego załącznika nr (…) polityki bezpieczeństwa dodano pkt (…) o
+następującej treści: „Transport dokumentów w postaci papierowej poza obszar przetwa‐
+rzania danych osobowych, w szczególności dokumentów zawierających dane osobowe,
+odbywa się z zachowaniem następujących zasad: (…)”.
+Administrator 19 czerwca 2023 r. przystąpił do „Kodeksu postępowania dotyczącym
+ochrony danych osobowych przetwarzanych w małych placówkach medycznych”.
+Na podstawie uchwały wspólników nr 1 z 18 lipca 2024 r. Administrator (Spółka) – Niepu‐
+bliczny Zakład Opieki Zdrowotnej (…) H. Spółka jawna z siedzibą w R. – została prze‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 7 z 31
+
+kształcona w spółkę z ograniczoną odpowiedzialnością pod firmą: Niepubliczny Zakład
+Opieki Zdrowotnej (…) H. Spółka z ograniczoną odpowiedzialnością z siedzibą w R. przy
+ul. (…) R., i zarejestrowana w Krajowym Rejestrze Sądowym z dniem 16 sierpnia 2024 r.
+W tym stanie faktycznym, po zapoznaniu się z całością zgromadzonego w sprawie
+materiału dowodowego, Prezes Urzędu Ochrony Danych Osobowych zważył, co na‐
+stępuje:
+
+II. Naruszenie przepisów art. 5 ust. 1 lit. f), art. 5 ust. 2,
+art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2
+rozporządzenia 2016/679.
+Zgodnie z art. 34 u.o.d.o.[1], Prezes UODO jest organem właściwym w sprawie ochrony
+danych i organem nadzorczym w rozumieniu rozporządzenia 2016/679. Stosownie do
+art. 57 ust. 1 lit. a) i h) rozporządzenia 2016/679, bez uszczerbku dla innych zadań okre‐
+ślonych na mocy tego rozporządzenia, każdy organ nadzorczy na swoim terytorium mo‐
+nitoruje i egzekwuje stosowanie niniejszego rozporządzenia oraz prowadzi postępowania
+w sprawie naruszenia niniejszego rozporządzenia, w tym na podstawie informacji otrzy‐
+manych od innego organu nadzorczego lub innego organu publicznego.
+Art. 5 rozporządzenia 2016/679 formułuje zasady dotyczące przetwarzania danych oso‐
+bowych, które muszą być respektowane przez wszystkich administratorów, tj. podmioty,
+które samodzielnie lub wspólnie z innymi ustalają cele i sposoby przetwarzania danych
+osobowych. Zgodnie z art. 5 ust. 1 lit. f) rozporządzenia 2016/679, dane osobowe muszą
+być przetwarzane w sposób zapewniający odpowiednie bezpieczeństwo danych osobo‐
+wych, w tym ochronę przed niedozwolonym lub niezgodnym z prawem przetwarzaniem
+oraz przypadkową utratą, zniszczeniem lub uszkodzeniem, za pomocą odpowiednich
+środków technicznych lub organizacyjnych („poufność i integralność”). Stosownie zaś do
+art. 5 ust. 2 rozporządzenia 2016/679, administrator jest odpowiedzialny za przestrzega‐
+nie przepisów ust. 1 i musi być w stanie wykazać ich przestrzeganie („rozliczalność”).
+Konkretyzację zasady poufności, o której mowa w art. 5 ust. 1 lit. f) rozporządzenia
+2016/679, stanowią dalsze przepisy tego aktu prawnego. Zgodnie z art. 24 ust. 1 rozpo‐
+rządzenia 2016/679, uwzględniając charakter, zakres, kontekst i cele przetwarzania oraz
+ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie i
+wadze, administrator wdraża odpowiednie środki techniczne i organizacyjne, aby prze‐
+twarzanie odbywało się zgodnie z niniejszym rozporządzeniem i aby móc to wykazać.
+Środki te są w razie potrzeby poddawane przeglądom i uaktualniane.
+W myśl z art. 25 ust. 1 rozporządzenia 2016/679, uwzględniając stan wiedzy technicznej,
+koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naru‐
+szenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpienia i
+wadze wynikające z przetwarzania, administrator – zarówno przy określaniu sposobów
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 8 z 31
+
+przetwarzania, jak i w czasie samego przetwarzania – wdraża odpowiednie środki tech‐
+niczne i organizacyjne, takie jak pseudonimizacja, zaprojektowane w celu skutecznej re‐
+alizacji zasad ochrony danych, takich jak minimalizacja danych, oraz w celu nadania
+przetwarzaniu niezbędnych zabezpieczeń, tak by spełnić wymogi niniejszego
+rozporządzenia oraz chronić prawa osób, których dane dotyczą.
+Z treści art. 32 ust. 1 rozporządzenia 2016/679 wynika, że administrator jest zobowiąza‐
+ny do zastosowania środków technicznych i organizacyjnych odpowiadających ryzyku
+naruszenia praw i wolności osób fizycznych o różnym prawdopodobieństwie wystąpienia
+i wadze zagrożenia. Przepis precyzuje, że decydując o środkach technicznych i organiza‐
+cyjnych należy wziąć pod uwagę stan wiedzy technicznej, koszt wdrażania, charakter,
+zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fi‐
+zycznych o różnym prawdopodobieństwie wystąpienia i wadze. Z przytoczonego przepi‐
+su wynika, że ustalenie odpowiednich środków technicznych i organizacyjnych jest pro‐
+cesem dwuetapowym. W pierwszej kolejności istotnym jest określenie poziomu ryzyka,
+jakie wiąże się z przetwarzaniem danych osobowych uwzględniając przy tym kryteria
+wskazane w art. 32 ust. 1 rozporządzenia 2016/679, a następnie należy ustalić, jakie
+środki techniczne i organizacyjne będą odpowiednie, aby zapewnić stopień bezpieczeń‐
+stwa odpowiadający temu ryzyku. Ustalenia te, w stosownym przypadku, powinny obej‐
+mować środki takie, jak pseudonimizację i szyfrowanie danych osobowych, zdolność do
+ciągłego zapewnienia poufności, integralności, dostępności i odporności systemów i
+usług przetwarzania, zdolność do szybkiego przywrócenia dostępności danych osobo‐
+wych i dostępu do nich w razie incydentu fizycznego lub technicznego oraz regularne te‐
+stowanie, mierzenie i ocenianie skuteczności środków technicznych i organizacyjnych
+mających zapewnić bezpieczeństwo przetwarzania. W myśl art. 32 ust. 2 rozporządzenia
+2016/679, administrator oceniając, czy stopień bezpieczeństwa jest odpowiedni,
+uwzględnia w szczególności ryzyko wiążące się z przetwarzaniem, w szczególności wyni‐
+kające z przypadkowego lub niezgodnego z prawem zniszczenia, utraty, modyfikacji, nie‐
+uprawnionego ujawnienia lub nieuprawnionego dostępu do danych osobowych przesyła‐
+nych, przechowywanych lub w inny sposób przetwarzanych.
+Jak wskazuje art. 24 ust. 1 rozporządzenia 2016/679, charakter, zakres, kontekst i cele
+przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym praw‐
+dopodobieństwie i wadze są czynnikami, które administrator ma obowiązek uwzględniać
+w procesie budowania systemu ochrony danych, również w szczególności z punktu wi‐
+dzenia pozostałych obowiązków wskazanych w art. 25 ust. 1, art. 32 ust. 1 czy art. 32
+ust. 2 rozporządzenia 2016/679. Wskazane przepisy uszczegóławiają zasadę poufności
+określoną w art. 5 ust. 1 lit. f) rozporządzenia 2016/679, a przestrzeganie tej zasady jest
+konieczne dla prawidłowej realizacji zasady rozliczalności wynikającej z art. 5 ust. 2
+rozporządzenia 2016/679.
+Jedną z podstaw prawnej ochrony danych osobowych wprowadzoną rozporządzeniem
+2016/679 jest obowiązek zapewnienia bezpieczeństwa przetwarzanych danych, określo‐
+ny między innymi w art. 32 ust. 1 rozporządzenia 2016/679. Przepis ten wprowadza po‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 9 z 31
+
+dejście oparte na ryzyku, wskazując jednocześnie kryteria, w oparciu o które administra‐
+tor powinien dokonać wyboru odpowiednich środków technicznych i organizacyjnych,
+aby zapewnić stopień bezpieczeństwa odpowiadający temu ryzyku. Obok ryzyka naru‐
+szenia praw lub wolności osób fizycznych należy zatem uwzględnić stan wiedzy tech‐
+nicznej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania.
+Rozporządzenie 2016/679 wprowadziło podejście, w którym zarządzanie ryzykiem jest
+fundamentem działań związanych z ochroną danych osobowych i ma charakter ciągłego
+procesu. Podmioty przetwarzające dane osobowe zobligowane są nie tylko do zapewnie‐
+nia zgodności z wytycznymi ww. rozporządzenia poprzez jednorazowe wdrożenie organi‐
+zacyjnych i technicznych środków bezpieczeństwa, ale również do zapewnienia ciągłości
+monitorowania poziomu zagrożeń oraz zapewnienia rozliczalności w zakresie poziomu
+oraz adekwatności wprowadzonych zabezpieczeń. Oznacza to, że koniecznością staje się
+możliwość udowodnienia przed organem nadzorczym, że wprowadzone rozwiązania, ma‐
+jące na celu zapewnienie bezpieczeństwa danych osobowych, są adekwatne do poziomu
+ryzyka, jak również uwzględniają charakter danej organizacji oraz wykorzystywanych
+mechanizmów przetwarzania danych osobowych. Administrator samodzielnie ma prze‐
+prowadzić szczegółową analizę prowadzonych procesów przetwarzania danych i dokonać
+oceny ryzyka, a następnie zastosować takie środki i procedury, które będą adekwatne
+do oszacowanego ryzyka. Konsekwencją takiej orientacji jest rezygnacja z list wymagań,
+w zakresie bezpieczeństwa narzuconych przez prawodawcę, na rzecz samodzielnego do‐
+boru zabezpieczeń w oparciu o analizę zagrożeń. Administratorom nie wskazuje się
+konkretnych środków i procedur w zakresie bezpieczeństwa.
+W świetle powyższego wskazać należy, że analiza ryzyka przeprowadzana przez admini‐
+stratora danych powinna zostać udokumentowana oraz uzasadniona na podstawie
+przede wszystkim określenia stanu faktycznego istniejącego w momencie jej przeprowa‐
+dzania. Należy wziąć pod uwagę w szczególności charakterystykę zachodzących proce‐
+sów, aktywa, podatności, zagrożenia oraz istniejące zabezpieczenia, w ramach zacho‐
+dzących procesów przetwarzania danych osobowych. Nie można również w trakcie tego
+procesu pominąć zakresu oraz charakteru danych osobowych przetwarzanych w toku
+czynności realizowanych przez administratora danych, albowiem w zależności właśnie
+od zakresu oraz charakteru ujawnionych danych zależeć będą potencjalne negatywne
+skutki dla osoby fizycznej w przypadku wystąpienia naruszenia ochrony jej danych oso‐
+bowych.
+Aby analiza ryzyka została przeprowadzona w sposób właściwy, winny być zdefiniowane
+dla każdego z aktywów zagrożenia, mogące wystąpić w procesach przetwarzania da‐
+nych. Określenie aktywa używane jest dla wskazania wszystkiego, co stanowi wartość
+dla administratora danych. Pewne aktywa stanowić będą wartość wyższą od innych, i
+również z tej perspektywy winny być oceniane i zabezpieczane. Bardzo istotne są rów‐
+nież wzajemne powiązania występujących aktywów, np. poufność aktywów (danych oso‐
+bowych) zależna będzie od rodzaju i sposobu przetwarzania tych danych. Ustalenie war‐
+tości aktywów jest konieczne do oszacowania skutków ewentualnego incydentu (naru‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 10 z 31
+
+szenia ochrony danych osobowych). Jest oczywistym, że szeroki zakres danych osobo‐
+wych lub przetwarzanie danych osobowych, o których mowa w art. 9 lub art. 10 rozpo‐
+rządzenia 2016/679, może spowodować (w przypadku wystąpienia naruszenia ochrony
+danych osobowych) daleko idące negatywne skutki dla osób, których dane dotyczą, więc
+winny one być oceniane jako aktywa o wysokiej wartości, a co za tym idzie stopień ich
+ochrony powinien być odpowiednio wysoki.
+Określenie istniejących lub stosowanych zabezpieczeń jest konieczne, między innymi w
+tym celu, aby ich nie powielać. Należy również bezwzględnie sprawdzić skuteczność
+funkcjonowania tych zabezpieczeń, ponieważ istnienie zabezpieczenia niesprawdzonego
+po pierwsze może wyeliminować jego wartość, po drugie zaś może dać fałszywe poczu‐
+cie bezpieczeństwa oraz może skutkować pominięciem (niewykryciem) krytycznej podat‐
+ności, która wykorzystana spowoduje bardzo negatywne skutki, w tym w szczególności
+może doprowadzić do naruszenia ochrony danych osobowych.
+Podatność jest określana powszechnie jako słabość bądź luka w zabezpieczeniach, która
+wykorzystana przez dane zagrożenie może zakłócać funkcjonowanie, a także może pro‐
+wadzić do naruszeń ochrony danych osobowych. Identyfikowanie zagrożeń polega na
+określaniu, jakie zagrożenia i z jakiego kierunku (powodu) mogą się pojawić.
+Metodą przeprowadzenia analizy ryzyka jest np. zdefiniowanie poziomu ryzyka jako ilo‐
+czynu prawdopodobieństwa i skutków wystąpienia danego incydentu. Zazwyczaj wyko‐
+rzystuje się macierz ryzyka, która pozwala zobrazować poziomy ryzyka w sposób wizual‐
+ny, przedstawiając poziomy ryzyka, dla których organizacja definiuje odpowiednie dzia‐
+łania.
+Konieczność przeprowadzenia analizy ryzyka podkreślona jest także w orzecznictwie. W
+tym przedmiocie wypowiedział Wojewódzki Sąd Administracyjny (zwany dalej „WSA”) w
+W. w wyroku z 5 października 2023 r., sygn. akt II SA/Wa 502/23, gdzie podniósł, że „Ad‐
+ministrator danych powinien zatem przeprowadzić analizę ryzyka i ocenić, z jakimi
+zagrożeniami ma do czynienia”.
+WSA w Warszawie w uzasadnieniu wyroku z 26 sierpnia 2020 r., sygn. akt II SA/Wa
+2826/19 (utrzymanym przez NSA wyrokiem z 28 lutego 2024 r., sygn. akt III OSK
+3839/21), wskazał, że „(…) Przepis ten [art. 32 rozporządzenia 2016/679] nie wymaga
+od administratora danych wdrożenia jakichkolwiek środków technicznych i organizacyj‐
+nych, które mają stanowić środki ochrony danych osobowych, ale wymaga wdrożenia
+środków adekwatnych. Taką adekwatność oceniać należy pod kątem sposobu i celu, w
+jakim dane osobowe są przetwarzane, ale też należy brać pod uwagę ryzyko związane z
+przetwarzaniem tych danych osobowych, które to ryzyko charakteryzować się może róż‐
+ną wysokością. Przyjęte środki mają mieć charakter skuteczny, w konkretnych przypad‐
+kach niektóre środki będą musiały być środkami o charakterze niwelującym niskie ryzy‐
+ko, inne – muszą niwelować ryzyko wysokie, ważne jednak jest, aby wszystkie środki (a
+także każdy z osobna) były adekwatne i proporcjonalne do stopnia ryzyka (…) czynności
+o charakterze techniczno-organizacyjnym leżą w gestii administratora danych osobo‐
+wych, ale nie mogą być dobierane w sposób całkowicie swobodny i dobrowolny, bez
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 11 z 31
+
+uwzględnienia stopnia ryzyka oraz charakteru chronionych danych osobowych (…)”. Po‐
+nadto, w wyroku z 5 października 2023 r., sygn. akt II SA/Wa 502/23, WSA w Warszawie
+podniósł, że „organ nadzorczy nie jest zobowiązany do wskazywania Administratorowi
+rozwiązań technicznych i organizacyjnych, które powinien on wdrożyć, aby przetwarza‐
+nie danych osobowych odbywało się zgodnie z prawem. To zadaniem Administratora jest
+wprowadzenie tych środków, a następnie - jeżeli pojawi się taka konieczność - wykaza‐
+nie, że przestrzega on zasad przetwarzania danych osobowych określonych w rozporzą‐
+dzeniu 2016/679, zgodnie z zasadą rozliczalności (art. 5 ust. 2 ww. rozporządzenia)”. Po‐
+dobnie wypowiedział się WSA w Warszawie w wyroku z 27 listopada 2024 r., sygn. II SA/
+Wa 251/24, dodatkowo wskazując, że „Zadaniem Prezesa UODO jest natomiast weryfika‐
+cja adekwatności tych środków, którą organ przeprowadza w oparciu o przedłożone
+przez administratora dokumenty, takie jak między innymi analiza ryzyka, polityka
+bezpieczeństwa, czy umowa powierzenia przetwarzania danych”.
+Odnosząc powyższe rozważenia do stanu faktycznego przedmiotowej sprawy wskazać
+należy, że Administrator biorąc pod uwagę charakter przetwarzania danych osobowych
+związany z celem w postaci udzielania świadczeń zdrowotnych, jak również dużą liczbę
+pacjentów (około (…)), którym od 25 maja 2018 r. do 18 lutego 2022 r. były udzielane
+świadczenia zdrowotne w formie „wizyt domowych” i szeroki zakres danych osobowych
+(nazwiska, imiona, daty urodzenia, adresy zamieszkania, numery ewidencyjne PESEL,
+nazwiska rodowe matki, dane dotyczące zdrowia) przetwarzanych w ramach czynności
+„wizyty domowe”, których ujawnienie lub utrata dostępności może powodować wysokie
+ryzyko dla praw lub wolności osób fizycznych, w celu prawidłowego wywiązania się z
+obowiązków nałożonych ww. przepisami rozporządzenia 2016/679, był zobowiązany do
+podjęcia działań zapewniających właściwy poziom ochrony danych osobowych poprzez
+wdrożenie odpowiednich środków technicznych i organizacyjnych. Charakter i rodzaj
+tych działań powinien wynikać z przeprowadzonej analizy ryzyka, w której w oparciu o
+kryteria wskazane w art. 32 ust. 1 i 2 rozporządzenia 2016/679 w ramach zachodzących
+procesów przetwarzania danych osobowych, w tym procesu „wizyt domowych”, w szcze‐
+gólności powinno się zinwentaryzować zasoby biorące udział w procesach przetwarza‐
+nia, zidentyfikować podatności odnoszące się do wykorzystywanych zasobów, wynikają‐
+ce z nich zagrożenia oraz istniejące zabezpieczenia, a następnie określić adekwatne
+środki bezpieczeństwa (zarówno te o charakterze technicznym, jak i te o charakterze or‐
+ganizacyjnym).
+Jak wynika z ustaleń stanu faktycznego (pkt 11-13), Administrator przed naruszeniem
+ochrony danych osobowych przeprowadził analizę ryzyka mającą na celu dobór odpo‐
+wiednich do ryzyka środków bezpieczeństwa. Jednak w ocenie Prezesa UODO analiza ta
+została przeprowadzona w sposób dowolny i nieprawidłowy. Mając na uwadze powyższe
+należy wyjaśnić, że Administrator w pkt (…) analizy ryzyka, zatytułowanym „(…)”, w któ‐
+rej określił potencjalne negatywne skutki przetwarzania danych osobowych, naruszenie
+atrybutów danych osobowych podlegających ochronie w postaci poufności, dostępności i
+integralności ocenił na najwyższy możliwy poziom, jako „wysoki”. Uzasadniając taką oce‐
+nę Administrator wskazał m.in., że „naruszenie dostępności danych osobowych (np.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 12 z 31
+
+przez kradzież papierowej dokumentacji medycznej […]) może mieć konsekwencje nie
+tylko dla bezpieczeństwa danych osobowych ale w skrajnych sytuacjach także dla
+zdrowia i życia pacjenta” oraz, że „naruszenie poufności dokumentacji medycznej bądź
+informacji medycznych może wywołać następujące negatywne skutki: naruszenie dobre‐
+go imienia osoby, której dane dotyczą (podmiotu danych), utrata poufności danych chro‐
+nionych tajemnicą zawodową, utrata kontroli nad danymi osobowymi, kradzież tożsamo‐
+ści. Ze względu na to, że gros danych osobowych stanowią w tej sytuacji szczególne ka‐
+tegorie danych (informacje o stanie zdrowia), poziom należy ocenić jako wysoki”.
+Przechodząc do szczegółowej oceny analizy ryzyka w pierwszej kolejności wyjaśnić nale‐
+ży, że istotą analizy ryzyka jest zrozumienie ryzyka. Jako podstawowy punkt wyjścia dla
+zrozumienia ryzyka administrator powinien uwzględnić obiektywne okoliczności, które
+mają realny wpływ na bezpieczeństwo przetwarzania danych osobowych. Zrozumienie
+ryzyka umożliwi administratorowi ustalenie i wdrożenie odpowiednich do tego ryzyka
+środków bezpieczeństwa.
+W przedmiotowej sprawie nie można uznać, aby Administrator takie obiektywne i zara‐
+zem oczywiste (jako wynikające z przeprowadzonych audytów) okoliczności uwzględnił
+przy przeprowadzeniu analizy ryzyka. Administrator nie uwzględnił bowiem wniosków z
+przeprowadzonych audytów, w których zostały opisane nieprawidłowości dotyczące po‐
+stępowania z dokumentacją zawierającą dane osobowe pacjentów, na które należało
+odpowiednio zareagować.
+Administrator ma swobodę w doborze metody przeprowadzenia analizy ryzyka, przy
+czym ta swoboda jest ograniczona m.in. kryteriami wskazanymi w art. 32 rozporządzenia
+2016/679. Prezes UODO nie jest zobowiązany do wskazywania administratorowi oczeki‐
+wanego modelu przeprowadzenia analizy ryzyka, jest natomiast uprawniony w szczegól‐
+ności do weryfikacji tej analizy pod względem jej prawidłowości i uwzględnienia
+kryteriów określonych w ww. przepisie rozporządzenia 2016/679.
+Mając na uwadze szczególną troskę o realizację zasady przekonywania strony do słusz‐
+ności decyzji administracyjnej oraz przeprowadzenie przez Administratora analizy ryzyka
+o dużym stopniu dowolności, w ocenie Prezesa UODO nie byłoby wystarczające wskaza‐
+nie Administratorowi, że z powodów opisanych w pkt 38 decyzji uczynił to w sposób nie‐
+prawidłowy, świadczący o braku zrozumienia ryzyka dla operacji przetwarzania danych
+osobowych, a w konsekwencji nie ustalił i nie wdrożył odpowiednich do ryzyka
+technicznych i organizacyjnych środków bezpieczeństwa.
+Należy zatem w pierwszej kolejności odnieść się do przeprowadzonej przez Administrato‐
+ra analizy ryzyka, w tym jej podstawowych błędów przy uwzględnieniu zarazem okolicz‐
+ności faktycznych i kryteriów wskazanych w art. 32 rozporządzenia 2016/679, a w szcze‐
+gólności najbardziej podstawowych, takich jak prawdopodobieństwo i waga zagrożenia.
+W ocenie Prezesa UODO nie ulega wątpliwości, że na podstawie przeprowadzonych au‐
+dytów Administrator stwierdził, że wystąpiła możliwość utraty danych osobowych, a więc
+jest prawdopodobne, że dane mogą zostać skradzione. Nie budzi również wątpliwości, co
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 13 z 31
+
+zostało już wyżej wyjaśnione, że ze względu na zakres danych osobowych waga zagroże‐
+nia była znaczna. Już sam fakt stwierdzenia takiej wysokiej wagi powinien determinować
+działania na rzecz zaradzenia ryzyku, chociażby poprzez wyeliminowanie lub obniżenie
+poziomu prawdopodobieństwa.
+Mając na uwadze powyższe wskazać należy, że Administrator dla ustalenia wagi poten‐
+cjalnych negatywnych skutków zidentyfikował takie zagrożenie jak „kradzież papierowej
+dokumentacji medycznej”, a następnie przyjął, że w przypadku materializacji tego
+zagrożenia skutek dla osób fizycznych będzie „wysoki”. Jednak zgodnie z art. 32 ust. 1
+rozporządzenia 2016/679 Administrator powinien dokonać łącznej oceny różnego praw‐
+dopodobieństwa wystąpienia i wagi zagrożenia. Zatem Administrator, aby ustalić środki
+bezpieczeństwa odpowiednie do ryzyka, powinien zagrożenie w postaci „kradzieży pa‐
+pierowej dokumentacji medycznej” odnieść także do prawdopodobieństwa jego wystą‐
+pienia, czego nie uczynił. Dokonanie oceny w tym zakresie pozwoliłoby mu na ustalenie,
+czy materializacja takiego zagrożenia jest możliwa, a jeśli tak, to dlaczego. Administrator
+jednak, pomimo tego, że w analizie ryzyka przewidział punkt poświęcony analizie zagro‐
+żeń, w ogóle nie zbadał, na ile prawdopodobne są zdarzenia naruszające atrybuty
+danych osobowych podlegających ochronie, w tym na ile prawdopodobna jest „kradzież
+papierowej dokumentacji medycznej”. Podkreślić należy, że ustalenie prawdopodobień‐
+stwa wystąpienia oraz wagi potencjalnych skutków możliwego zdarzenia pozwala na
+przyjęcie, że prawidłowo zostały zidentyfikowane zagrożenia dla przetwarzanych danych
+osobowych, co w konsekwencji dopiero umożliwia określenie adekwatnych technicznych
+i organizacyjnych środków bezpieczeństwa.
+Pomimo że Administrator dokonał (w pkt (…) „(…)”) „oceny poziomu ryzyka związanego
+z zagrożeniami” na poziomie średnim, to następnie w końcowej ocenie (pkt (…) „(…)”) w
+istocie poziom ten zrównał z prawdopodobieństwem, co jednak nie wynikało z okoliczno‐
+ści faktycznych. W okolicznościach przedmiotowej sprawy przy ocenie prawdopodobień‐
+stwa należało bowiem w szczególności uwzględnić wnioski z przeprowadzonych audytów
+z 13 lipca 2017 r. i 15 maja 2018 r., w których ustalono konkretne podatności i możliwo‐
+ści wystąpienia zagrożenia, a więc zdarzenia naruszającego atrybuty danych osobowych
+podlegających ochronie.
+W trakcie audytu przeprowadzonego przez Administratora 13 lipca 2017 r. ustalono, że
+„w przypadku wizyty domowej lekarz zabiera ze sobą kartotekę pacjenta (adnotacja w
+systemie (…)). Najczęściej odnosi ją z powrotem do przychodni tego samego dnia. W
+toku audytu uzyskano informację, że jeden z lekarzy regularnie zabiera kartoteki po
+pracy do domu”. Powyższa okoliczność została opatrzona następującymi rekomendacja‐
+mi: „Ewentualne sytuacje, w których w związku z odbywaniem wizyt domowych doku‐
+mentacja nie jest po wizycie domowej zwracana bezpośrednio do placówki medycznej,
+powinny być ograniczone do minimum i stanowić wyjątek od reguły. W trakcie przewoże‐
+nia dokumentacji medycznej powinna ona być przechowywana w taki sposób, aby
+zminimalizować ryzyko jej utracenia, np. w wyniku kradzieży” oraz „Dokumentacja po‐
+winna przez cały czas znajdować się pod opieką osoby przewożącej, tj. nie powinna być
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 14 z 31
+
+pozostawiana w samochodzie. 2) Powyższe uwagi znajdują zastosowanie także wobec le‐
+karza, który zabiera po pracy dokumentację do domu. Osoba ta musi być świadoma
+konsekwencji, jakie może przynieść jej postępowanie”. Powyższe rekomendacje pozosta‐
+ły aktualne również w oparciu o przeprowadzony przez Administratora audyt z 15 maja
+2018 r.
+W tym miejscu należy wyjaśnić, że art. 32 ust. 1 rozporządzenia 2016/679 wprowadza
+wymóg dostosowania środków bezpieczeństwa do ryzyka oraz zapewnienie ich efektyw‐
+ności (skuteczności), co obejmuje także przeszłe działania. Świadomość Administratora
+na dzień 25 maja 2018 r. została ukształtowana przed stosowaniem rozporządzenia
+2016/679 i oceniona retrospektywnie. Rozpoczęcie stosowania rozporządzenia 2016/679
+nie spowodowało jednak, że charakter zidentyfikowanych w audycie zagrożeń się
+zmienił, czy też zdezaktualizował.
+Biorąc pod uwagę ustalenia ww. audytów wskazać należy, że Administrator dysponował
+wiedzą, że w związku z „wizytami domowymi” występują podatności mogące zmateriali‐
+zować się w zagrożenia utraty danych, np. „w postaci kradzieży”. Jednocześnie zostały
+wskazane rekomendacje co do sposobu postępowania dla zapewnienia bezpieczeństwa
+przetwarzania danych.
+Tymczasem Administrator powyższe zupełnie pominął w przeprowadzonej analizie ryzy‐
+ka. Pomimo wiedzy wynikającej z ww. audytów nie uwzględnił w sposób prawidłowy
+(patrz pkt 36) ryzyka jej utracenia, np. w wyniku kradzieży, a w konsekwencji w analizie
+ryzyka nie wskazał na zagrożenia i podatności związane „z wizytami domowymi”, pole‐
+gające na braku zabezpieczenia dokumentów zawierających dane osobowe pacjentów,
+wykorzystywania prywatnych pojazdów do ich przewożenia oraz braku zwrócenia tych
+dokumentów do siedziby Administratora po zakończeniu pracy. W konsekwencji, pomimo
+powyższych rekomendacji Administrator nie tylko nie ustalił w analizie ryzyka odpowied‐
+nich środków bezpieczeństwa, ale, co jest oczywistą konsekwencją braku takiego
+działania, również takich środków nie wdrożył.
+W tym miejscu należy odnieść się do końcowej oceny poziomu ryzyka oszacowanej w pkt
+7 „Ocena ryzyka podsumowanie”, w której Administrator w sposób bardzo ogólny i odno‐
+szący się do wszystkich czynności przetwarzania objętych analizą ryzyka ustalił końcowy
+poziom ryzyka jako „wysoki”. Skoro Administrator ustalił poziom ryzyka jako wysoki, to
+powinien również do tej oceny określić adekwatne środki bezpieczeństwa, które pozwoli‐
+łyby na zminimalizowanie ryzyka ich materializacji. Tymczasem w przeprowadzonej ana‐
+lizie ryzyka, co należy ponownie podkreślić, brakuje wskazania metod postępowania z ry‐
+zykiem, w tym wskazania odpowiednich do ryzyka środków technicznych i organizacyj‐
+nych mających na celu zapewnienie bezpieczeństwa przetwarzanym danym osobowym.
+W ocenie Prezesa UODO, w okolicznościach przedmiotowej sprawy, w tak przeprowadzo‐
+nej analizie ryzyka nie było możliwe dobranie odpowiednich do ryzyka środków bezpie‐
+czeństwa jedynie w oparciu o wskazanie, że z przetwarzaniem danych osobowych wiąże
+się wysokie ryzyko. Takie oszacowanie ryzyka, wobec braku wskazania jakiegokolwiek
+konkretnego zagrożenia i odniesienie tej oceny do wszystkich czynności przetwarzania
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 15 z 31
+
+danych, stanowi z jednej strony o jej dowolności, a z drugiej o jej nieprawidłowym prze‐
+prowadzeniu.
+Wobec powyższego wskazać należy, że przyjęte na podstawie analizy ryzyka organiza‐
+cyjne i techniczne środki bezpieczeństwa powinny wpływać na prawdopodobieństwo
+możliwej materializacji ustalonych zagrożeń, które pomimo stwierdzenia w audytach, w
+analizie ryzyka zostały pominięte. Jak wskazał WSA w Warszawie w wyroku z 27 lutego
+2024 r., sygn. akt II SA/Wa 1404/23 „(…) nie ulega wątpliwości to, że aby analiza ryzyka
+została w ogóle przeprowadzona w sposób właściwy, winny być przez administratora
+prawidłowo zdefiniowane zagrożenia, mogące wystąpić w procesie przetwarzania da‐
+nych”. Podobnie wyjaśnił WSA w Warszawie w wyroku z 13 maja 2021 r., sygn. akt II SA/
+Wa 2129/20, wskazując, że „Administrator danych powinien zatem przeprowadzić anali‐
+zę ryzyka i ocenić, z jakimi zagrożeniami ma do czynienia”.
+Administrator z przeprowadzonej analizy ryzyka (w odniesieniu do przedmiotu postępo‐
+wania) wyciągnął jedyny wniosek, na który powołuje się w przesłanych wyjaśnieniach (w
+pkt (…) „(…)” (…)), że przetwarzanie danych osobowych „jest dozwolone w zakresie
+związanym z ochroną zdrowia, np. w formie wizyt domowych. Osoby przetwarzające
+dane w ten sposób zobowiązane są do zachowania adekwatnych środków bezpieczeń‐
+stwa”. Choć Administrator nie dokonał sprecyzowanej oceny stosowanych technicznych i
+organizacyjnych środków bezpieczeństwa, to w oparciu o powyższe twierdzenie wobec
+dużej dowolności w przeprowadzeniu analizy ryzyka można wysnuć wniosek, że Admini‐
+strator uznał dotychczasowe środki bezpieczeństwa za adekwatne, skoro wskazał, że
+„Osoby przetwarzające dane w ten sposób zobowiązane są do zachowania adekwatnych
+środków bezpieczeństwa”. Z tym jednak nie można się zgodzić, choćby dlatego, że koń‐
+cowa ocena ryzyka została ustalona na najwyższym poziomie („wysoki”). Logicznym jest
+natomiast, że gdyby środki te były adekwatne, to poziom ryzyka byłby na poziomie ak‐
+ceptowalnym.
+Ponadto, jak wynika z ustaleń stanu faktycznego (pkt 6-10) w organizacji Administratora
+obowiązywały procedury dotyczące zabezpieczenia danych osobowych (Polityka
+bezpieczeństwa z 15 marca 2021 r. wraz z załącznikiem nr (…) „(…)” oraz opracowane
+18 maja 2021 r. „Zasady ochrony danych osobowych”), jednak nie odnosiły się one do
+przewożenia dokumentacji zawierającej dane osobowe prywatnym autem pracownika re‐
+alizującego wizyty domowe, w tym nie określały sposobu postępowania z tą dokumenta‐
+cją oraz sposobów jej zabezpieczenia. Procedury te jedynie w sposób bardzo ogólny
+odnosiły się do ogólnodostępnych miejsc („Papierowe dokumenty zawierające dane oso‐
+bowe nie mogą być przechowywane na stałe lub tymczasowo w miejscach, gdzie mogą
+uzyskać do nich dostęp osoby nieupoważnione (np. przy przezroczystym oknie na
+parterze lub w niezamykanym regale na publicznie dostępnym korytarzu)”, „Zabrania
+się pozostawiania dokumentacji w ogólnodostępnych miejscach bez nadzoru (np.
+korytarze, pomieszczenia niezamykane na klucz).”) i nie mogły zostać uznane za ade‐
+kwatne do ryzyk, w szczególności, że nie odpowiadały na konkretne zidentyfikowane
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 16 z 31
+
+zagrożenia. Potwierdzeniem, że te procedury w odniesieniu do „wizyt domowych” nie
+były odpowiednie, są wnioski wynikające z przywołanych wyżej audytów.
+W tym miejscu należy również podkreślić, że wyżej opisane (pkt 52 uzasadnienia decyzji)
+zobowiązanie pracowników „do zachowania adekwatnych środków bezpieczeństwa” było
+jedynym określeniem w przeprowadzonej przed naruszeniem ochrony danych osobo‐
+wych analizie ryzyka, które można próbować odnieść do środków bezpieczeństwa. Tym
+niemniej powyższe twierdzenie może jednak sugerować, że Administrator przeniósł od‐
+powiedzialność za wdrożenie środków technicznych i organizacyjnych mających zapew‐
+nić bezpieczeństwo przetwarzania odpowiednie do ryzyka na swoich pracowników. Choć
+rolą organu nadzorczego nie powinno być domyślanie się intencji Administratora w
+związku z przeprowadzoną analizą ryzyka, zwłaszcza w kontekście zasady rozliczalności,
+o której mowa w art. 5 ust. 2 rozporządzenia 2016/679, to jednak z uwagi na duży sto‐
+pień dobrowolności w jej przeprowadzeniu, w ocenie Prezesa UODO, należy również do
+tego się odnieść.
+Takie działanie jest z oczywistych przyczyn niedopuszczalne. Administrator nie może bo‐
+wiem przerzucić obowiązku zapewnienia odpowiedniego do ryzyka poziomu bezpieczeń‐
+stwa przetwarzanym danym osobowym na pracowników. Przepisy rozporządzenia
+2016/679 wyraźnie wskazują, że jest to obowiązek administratora. Jak wskazał WSA w
+Warszawie w wyroku z 15 lutego 2022 r., sygn. akt II SA/Wa 3309/21, utrzymanym w
+mocy przez NSA wyrokiem z 5 lipca 2024 r., sygn. akt III OSK 2654/22, „(…) stosownie do
+art. 24 ust. 1, art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679 to admini‐
+strator danych, nie zaś pracownik lub osoba wykonująca zadania służbowe, jest zobowią‐
+zany do wdrożenia odpowiednich środków technicznych i organizacyjnych, aby przetwa‐
+rzania danych odbywało się zgodnie z wymaganiami wskazanego rozporządzenia” oraz
+„(…) pracownik nie może bowiem zastępować administratora danych w realizacji jego
+zadań wynikających z tych przepisów. Ponadto, pracownik może nie posiadać w tym za‐
+kresie odpowiedniej wiedzy, zignorować konieczność zabezpieczenia nośnika (…) lub
+wdrożyć zabezpieczenie nieadekwatne do zakresu i charakteru danych oraz ryzyk
+występujących w tym procesie przetwarzania danych”. Brak określenia adekwatnych
+środków bezpieczeństwa dla danych osobowych przetwarzanych w procesie wizyt domo‐
+wych (i przerzucenie ich dobrania na pracowników Administratora) jest także niezrozu‐
+miałe z uwagi na wnioski zawarte w audytach zrealizowanych 13 lipca 2017 r. i 15 maja
+2018 r.
+Administrator dopiero po wystąpieniu naruszenia ochrony danych osobowych zdecydo‐
+wał się na wprowadzenie organizacyjnych i technicznych środków bezpieczeństwa w po‐
+staci: zmiany procedur na wskazanie konkretnych zasad bezpieczeństwa, obowiązują‐
+cych w razie konieczności transportu dokumentacji medycznej poza siedzibą Administra‐
+tora (w szczególności w trakcie wizyt domowych), przeszkolenia pracowników z nowych
+obowiązujących procedur oraz zakup teczek zabezpieczonych zamkiem szyfrowym. Po‐
+wyższe znalazło swoje odzwierciedlenie w przeprowadzonej 17 lutego 2022 r. ocenie
+skutków dla ochrony danych (przeprowadzonej wraz z analizą ryzyka z 17 lutego 2022
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 17 z 31
+
+r.), gdzie w celu zminimalizowania ryzyka utraty kontroli nad danymi osobowymi i utraty
+poufności danych osobowych chronionych tajemnicą zawodową, zarekomendowano:
+przeszkolenie personelu i przypomnienie zasad dotyczących bezpieczeństwa danych, ze
+szczególnym uwzględnieniem aktualizacji polityki ochrony danych osobowych, obejmują‐
+cej teraz zagadnienie związane z transportem dokumentacji medycznej.
+Prezes UODO nie jest zobowiązany do wskazywania Administratorowi rozwiązań tech‐
+nicznych i organizacyjnych, które powinien on wdrożyć, aby przetwarzanie danych oso‐
+bowych odbywało się zgodnie z prawem (zob. wyrok WSA w Warszawie z 5 października
+2023 r., sygn. akt II SA/Wa 502/23). Należy jednak dostrzec podjęte przez Administratora
+działania w postaci wprowadzenia do stosowania teczek zamykanych szyfrowo. Choć
+środek ten nie zapewnia pełnej ochrony przed nieuprawnionym dostępem do danych
+osobowych znajdujących się w takiej teczce, to jednak w niektórych sytuacjach, np. w
+wyniku jej zgubienia, może realnie przyczynić się do obniżenia możliwości wystąpienia
+ryzyka naruszenia praw lub wolności osób fizycznych. Można bowiem rozsądnie oczeki‐
+wać, że osoba postronna, która np. znajdzie taką teczkę, nie przełamie jej zabezpiecze‐
+nia, tylko podejmie próbę jej zwrotu w stanie nienaruszonym. Takie zabezpieczenie w
+konsekwencji obniża prawdopodobieństwo możliwości zapoznania się z danymi przez
+osoby nieuprawnione.
+Jednak jak ustalono, Administrator pomimo tego, że 8 września 2021 r. wydał pracowni‐
+kom teczki zamykane szyfrowo, to dopiero 18 lutego 2022 r. wprowadził konkretne zasa‐
+dy transportu dokumentacji medycznej poza siedzibę jego organizacji (nakazujące m.in.
+niezwłoczne zwracanie dokumentów do miejsca ich pobrania oraz przewidujące np. pro‐
+wadzenie rejestru pobieranej dokumentacji), a następnie w marcu 2022 r. przeprowadził
+(…) szkoleń dla pracowników, ze szczególnym uwzględnieniem kwestii bezpiecznego
+transportu papierowej dokumentacji medycznej, w tym ww. procedury z 18 lutego 2022
+r. Zatem dopiero od tego momentu można uznać, że administrator zastosował środki
+bezpieczeństwa odpowiednie do ryzyka, w oparciu o prawidłowo przeprowadzoną ocenę.
+Na koniec należy odnieść się do działań Administratora wskazanych w przesłanym zgło‐
+szeniu naruszenia ochrony danych osobowych. Administrator w pkt (…) formularza
+zgłoszenia naruszenia ochrony danych osobowych zatytułowanym „(…)” wskazał m.in.
+na „wyciągnięcie konsekwencji dyscyplinarnych wobec pracownika odpowiedzialnego za
+naruszenie”.
+W ocenie Prezesa UODO takie działanie w okolicznościach przedmiotowej sprawy nie
+było prawidłowe. Podatności polegały na braku sprecyzowania i zakomunikowania pra‐
+cownikom: zasad postępowania, sposobów zabezpieczenia danych, czy też określeniu
+przez Administratora konkretnych środków bezpieczeństwa przetwarzanych danych w
+ramach wizyt domowych przy wykorzystywaniu prywatnego samochodu pracownika. W
+sytuacji, w której Administrator dopełniłby powyższych działań, to rzeczywiście mógłby
+egzekwować ich stosowanie. Wówczas naruszenie przez pracownika obowiązujących pro‐
+cedur mogłoby stanowić pewne uzasadnienie dla wyciągnięcia wobec niego
+konsekwencji dyscyplinarnych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 18 z 31
+
+Działanie, w którym to Administrator przerzuca na pracownika obowiązki zapewnienia
+odpowiedniego do ryzyka bezpieczeństwa przetwarzania danych, a następnie wyciąga
+negatywne konsekwencje wobec pracownika za naruszenie obowiązków, które należą do
+Administratora, nie znajduje swojego oparcia w przepisach rozporządzenia 2016/679.
+Wobec braku ustalenia i wdrożenia przez Administratora na podstawie przeprowadzonej
+analizy ryzyka, adekwatnych środków technicznych i organizacyjnych mających na celu
+zminimalizowanie ryzyka naruszenia bezpieczeństwa danych przetwarzanych poza orga‐
+nizacją Administratora, w ramach wizyt domowych z wykorzystaniem prywatnych samo‐
+chodów pracowników, stwierdzić należy, że Administrator nie zapewnił odpowiedniego
+do ryzyka poziomu zabezpieczenia danych. Tym samym nie można uznać, aby Admini‐
+strator, uwzględniając stan wiedzy technicznej, koszt wdrażania oraz charakter, zakres,
+kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych
+o różnym prawdopodobieństwie wystąpienia i wadze zagrożenia, wdrożył odpowiednie
+środki techniczne i organizacyjne, aby zapewnić stopień bezpieczeństwa odpowiadający
+temu ryzyku, co stanowi o naruszeniu przez Administratora art. 32 ust. 1 rozporządzenia
+2016/679. Powyższe okoliczności przesądzają również o niewdrożeniu przez Administra‐
+tora odpowiednich środków technicznych zarówno przy określaniu sposobów przetwarza‐
+nia, jak i w czasie przetwarzania danych osobowych, aby przetwarzanie to odbywało się
+zgodnie z rozporządzeniem 2016/679 i w celu nadania przetwarzaniu niezbędnych za‐
+bezpieczeń, oraz braku uaktualnienia środków bezpieczeństwa do czego był on zobowią‐
+zany zgodnie z art. 24 ust. 1 i art. 25 ust. 1 rozporządzenia 2016/679, jak również o nie‐
+zastosowaniu środków technicznych i organizacyjnych zapewniających stopień bezpie‐
+czeństwa odpowiadający ryzyku naruszenia praw lub wolności osób fizycznych poprzez
+zapewnienie zdolności do ciągłego zapewnienia poufności, integralności, dostępności i
+odporności systemów i usług przetwarzania, do czego zobowiązuje administratora da‐
+nych art. 32 ust. 1 lit. b) rozporządzenia 2016/679, oraz przy uwzględnieniu ryzyka wią‐
+żącego się z przetwarzaniem danych osobowych, o którym mowa w art. 32 ust. 2 rozpo‐
+rządzenia 2016/679, a w konsekwencji również o naruszeniu zasady poufności wyrażonej
+w art. 5 ust. 1 lit. f) rozporządzenia 2016/679, której ww. przepisy są uszczegółowieniem.
+Jak bowiem wskazał WSA w Warszawie w wyroku z 26 sierpnia 2020 r., sygn. II SA/Wa
+2826/19, „(…) czynności o charakterze techniczno–organizacyjnym leżą w gestii admini‐
+stratora danych osobowych, ale nie mogą być dobierane w sposób całkowicie swobodny
+i dobrowolny, bez uwzględnienia stopnia ryzyka oraz charakteru chronionych danych
+osobowych”.
+Następstwem naruszenia przez Administratora zasady poufności jest naruszenie zasady
+rozliczalności, o której mowa w art. 5 ust. 2 rozporządzenia 2016/679. Jak wynika z
+orzeczenia WSA w Warszawie z 10 lutego 2021 r., sygn. II SA/Wa 2378/20, „Zasada rozli‐
+czalności bazuje więc na prawnej odpowiedzialności administratora za właściwe wypeł‐
+nianie obowiązków i nakłada na niego obowiązek wykazania zarówno przed organem
+nadzorczym, jak i przed podmiotem danych, dowodów na przestrzeganie wszystkich
+zasad przetwarzania danych”. Podobnie kwestię zasady rozliczalności interpretuje WSA
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 19 z 31
+
+w Warszawie w wyroku z 26 sierpnia 2020 r., sygn. akt II SA/Wa 2826/19, „Biorąc pod
+uwagę całość norm rozporządzenia 2016/679, podkreślić należy, że administrator ma
+znaczną swobodę w zakresie stosowanych zabezpieczeń, jednocześnie jednak ponosi od‐
+powiedzialność za naruszenie przepisów o ochronie danych osobowych. Z zasady rozli‐
+czalności wprost wynika, że to administrator danych powinien wykazać, a zatem udo‐
+wodnić, że przestrzega przepisów określonych w art. 5 ust. 1 rozporządzenia 2016/679”.
+
+III. Uzasadnienie nałożenia i ustalenia wysokości
+administracyjnej kary pieniężnej.
+Na podstawie art. 58 ust. 2 lit. i) rozporządzenia 2016/679, każdemu organowi nadzor‐
+czemu przysługuje uprawnienie do zastosowania, oprócz lub zamiast innych środków na‐
+prawczych przewidzianych w art. 58 ust. 2 lit. a)-h) oraz lit. j) tego rozporządzenia, admi‐
+nistracyjnej kary pieniężnej na mocy art. 83 rozporządzenia 2016/679, zależnie od oko‐
+liczności konkretnej sprawy. Mając na uwadze ustalenia stanu faktycznego Prezes Urzędu
+Ochrony Danych Osobowych, korzystając z przysługującego mu uprawnienia określone‐
+go we wskazanym wyżej przepisie rozporządzenia 2016/679, stwierdził, że w rozpatry‐
+wanej sprawie zaistniały przesłanki uzasadniające nałożenie na Administratora
+administracyjnej kary pieniężnej.
+Wedle art. 83 ust. 4 lit. a) rozporządzenia 2016/679 naruszenia przepisów kształtujących
+obowiązki administratora i podmiotu przetwarzającego, o których mowa w art. 8, 11,
+25-39 oraz 42 i 43, podlegają zgodnie z ust. 2 administracyjnej karze pieniężnej w wyso‐
+kości do 10 000 000 EUR, a w przypadku przedsiębiorstwa – w wysokości do 2% jego cał‐
+kowitego rocznego światowego obrotu z poprzedniego roku obrotowego, przy czym
+zastosowanie ma kwota wyższa.
+Stosownie do art. 83 ust. 5 lit. a) rozporządzenia 2016/679 naruszenia przepisów doty‐
+czących podstawowych zasad przetwarzania, w tym warunków zgody, o których to zasa‐
+dach i warunkach mowa w art. 5, 6, 7, oraz 9, podlegają zgodnie z ust. 2 administracyj‐
+nej karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębiorstwa –
+w wysokości 4% jego całkowitego rocznego światowego obrotu z poprzedniego roku
+obrotowego, przy czym zastosowanie ma kwota wyższa.
+Z kolei art. 83 ust. 3 rozporządzenia 2016/679 stanowi, iż jeżeli administrator lub pod‐
+miot przetwarzający narusza umyślnie lub nieumyślnie w ramach tych samych lub po‐
+wiązanych operacji przetwarzania kilka przepisów rozporządzenia 2016/679, całkowita
+wysokość administracyjnej kary pieniężnej nie przekroczy wysokości kary za
+najpoważniejsze naruszenie.
+Nakładając na Administratora administracyjną karę pieniężną, Prezes UODO skorzystał
+ze wskazówek zawartych w Wytycznych Europejskiej Rady Ochrony Danych (zwanej da‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 20 z 31
+
+lej „EROD”) w sprawie obliczania administracyjnych kar pieniężnych na podstawie RODO
+(wersja 2.1), przyjętych 24 maja 2023 r (zwanych dalej „Wytycznymi 04/2022”)[2] i na
+ich podstawie dokonał analizy zachowania Administratora, które doprowadziło do naru‐
+szenia art. 25 ust. 1, art. 32 ust. 1 i 2, art. 5 ust. 1 lit. f) oraz art. 5 ust. 2 rozporządzenia
+2016/679. Zachowanie to polegało na niezapewnieniu właściwego poziomu ochrony
+danych pacjentów, wobec których Administrator realizował „wizyty domowe”, przy okre‐
+ślaniu sposobów przetwarzania (naruszenie art. 25 ust. 1 rozporządzenia 2016/679). W
+szczególności Administrator nie przeprowadził oceny ryzyka dla ochrony wyżej wskaza‐
+nych danych pacjentów, która uwzględniałaby zagrożenie polegające na nieuprawnio‐
+nym dostępie do danych pacjentów przetwarzanych w dokumentacji medycznej podczas
+realizacji „wizyt domowych”, i dzięki której mógłby określić i wdrożyć adekwatne środki
+bezpieczeństwa dla tego procesu przetwarzania danych (naruszenie art. 32 ust. 1 i 2
+rozporządzenia 2016/679). To zachowanie Administratora (stanowiące jednocześnie na‐
+ruszenie art. 5 ust. 1 lit. f) oraz art. 5 ust. 2 rozporządzenia 2016/679) jest w ocenie Pre‐
+zesa UODO efektem jednego aktu woli Administratora, który nie podjął działań wdrażają‐
+cych i egzekwujących stosowanie środków ochrony danych osobowych pacjentów,
+wobec których udzielał świadczeń zdrowotnych w formie „wizyt domowych”. Następ‐
+stwem tego zachowania była materializacja zagrożenia utraty danych osobowych (…)
+pacjentów (zawartych w dokumentacji medycznej), u których pracownik przeprowadził
+„wizyty domowe”. Biorąc również pod uwagę kontekst tego zachowania, w szczególno‐
+ści, że dotyczyło ono jednej, określonej grupy pacjentów Administratora – tych, wobec
+których Administrator w ramach prowadzonej działalności od 25 maja 2018 r. do 18
+lutego 2022 r. udzielał świadczeń zdrowotnych w formie „wizyt domowych” – należy
+uznać, że stanowi ono „jedno spójne zachowanie” (zob. pkt 28 Wytycznych 04/2022).
+Jednym zachowaniem (opisanym w pkt 68 uzasadnienia niniejszej decyzji) Administrator
+dokonał naruszenia kilku przepisów rozporządzenia 2016/679 (art. 25 ust. 1 oraz art. 32
+ust. 1 i 2 oraz – w konsekwencji – art. 5 ust. 1 lit. f) i art. 5 ust. 2 rozporządzenia
+2016/679). W stosunku do wszystkich tych naruszeń zastosowany został przepis art. 83
+ust. 3 rozporządzenia 2016/679, przy czym naruszenia art. 25 ust. 1 oraz art. 32 ust. 1 i
+2 rozporządzenia 2016/679 zagrożone są karą wynikającą z art. 83 ust. 4 rozporządzenia
+2016/679 (do 10 000 000 euro lub do 2% rocznego obrotu Administratora), natomiast
+naruszenia art. 5 ust. 1 lit. f) oraz art. 5 ust. 2 rozporządzenia 2016/679 (będące wyni‐
+kiem naruszenia przepisów art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679)
+zagrożone są karą wynikającą z art. 83 ust. 5 rozporządzenia 2016/679 (do 20 000 000
+euro lub do 4% rocznego obrotu Administratora). Za najpoważniejsze naruszenie Prezes
+UODO uznał naruszenie art. 5 ust. 1 lit. f) oraz art. 5 ust. 2 rozporządzenia 2016/679. Za
+taką oceną przemawia fakt, że powyższe przepisy rozporządzenia 2016/679 regulują za‐
+sady (zasadę integralności i poufności oraz zasadę rozliczalności) stanowiące normy
+nadrzędne nad pozostałymi normami określonymi w przepisach rozporządzenia
+2016/679. Nadrzędność ta przejawia się m.in. koniecznością odczytywania norm zawar‐
+tych w przepisach o ochronie danych w sposób zgodny z tymi zasadami[3]. Stąd naru‐
+szenie zasad można uznać za konsekwencję naruszenia przepisów szczegółowych okre‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 21 z 31
+
+ślonych w art. 25 ust. 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679. Ponadto już
+samo objęcie naruszeń zasad, o których mowa w art. 5 rozporządzenia 2016/679, zagro‐
+żeniem karą wyższą z dwóch przewidzianych tych aktem prawnym świadczy o tym, że
+sam prawodawca unijny uznał je in abstracto za poważniejsze od naruszeń wskazanych
+w art. 83 ust. 4 rozporządzenia 2016/679, i w praktyce najpoważniejsze, gdyż brak w
+tym rozporządzeniu naruszeń zagrożonych surowszymi sankcjami.
+Administracyjna kara pieniężna w wysokości 32 832 zł (słownie: trzydziestu dwóch tysię‐
+cy ośmiuset trzydziestu dwóch złotych) nałożona na Administratora łącznie za narusze‐
+nie wszystkich powyższych przepisów rozporządzenia 2016/679, nie przekracza wysoko‐
+ści kary za najpoważniejsze stwierdzone w toku postępowania naruszenie, tj. naruszenie
+art. 5 ust. 1 lit. f) oraz art. 5 ust. 2 rozporządzenia 2016/679, które zgodnie z art. 83 ust.
+5 lit. a) rozporządzenia 2016/679 podlega administracyjnej karze pieniężnej w wysokości
+do 20 000 000 euro lub w wysokości do 4% całkowitego światowego obrotu przedsiębior‐
+stwa z poprzedniego roku obrotowego (zob. pkt 65-66 i 67 uzasadnienia niniejszej decy‐
+zji).
+Decydując o nałożeniu administracyjnej kary pieniężnej Prezes UODO – stosownie do tre‐
+ści art. 83 ust. 2 lit. a)-k) rozporządzenia 2016/679 – wziął pod uwagę następujące oko‐
+liczności sprawy, stanowiące o konieczności zastosowania w sprawie tego rodzaju sank‐
+cji oraz jednocześnie wpływające obciążająco na wymiar nałożonej administracyjnej kary
+pieniężnej:
+Charakter, waga i czas trwania naruszenia przy uwzględnieniu charakteru, zakresu lub
+celu danego przetwarzania, liczby poszkodowanych osób, których dane dotyczą, oraz
+rozmiaru poniesionej przez nie szkody (art. 83 ust. 2 lit. a) rozporządzenia 2016/679).
+Stwierdzone w niniejszej sprawie naruszenie przepisów o ochronie danych osobo‐
+wych, którego skutkiem było uzyskanie przez osoby trzecie nieuprawnionego dostę‐
+pu do przetwarzanych danych przez Administratora, ma poważny charakter i znacz‐
+ną wagę, stwarza bowiem wysokie ryzyko negatywnych skutków prawnych dla osób
+dotkniętych naruszeniem ochrony danych osobowych. Niewywiązanie się przez Ad‐
+ministratora z obowiązku zastosowania odpowiednich środków zabezpieczających
+przetwarzane dane przed nieuprawnionym ujawnieniem pociąga za sobą nie tylko
+potencjalną, ale również realną możliwość wykorzystania ich przez podmioty trzecie
+niezgodnie z przepisami rozporządzenia 2016/679 bez wiedzy i wbrew woli osób,
+których dane dotyczą, np. w celu nawiązania stosunków prawnych lub zaciągnięcia
+zobowiązań w ich imieniu.
+Nie bez znaczenia jest charakter prowadzonej działalności Administratora polegają‐
+cej na udzielaniu świadczeń zdrowotnych, gdzie zapewnienie poufności przetwarza‐
+nych danych osobowych zostało podniesione do rangi tajemnicy lekarskiej, a sama
+utrata dostępu do danych osobowych może powodować ryzyka związane z brakiem
+możliwości lub utrudnieniem udzielenia świadczenia zdrowotnego, w wymagany nie‐
+zwłoczny sposób. Są to kryteria, które wpływają na powagę naruszenia przepisów
+dotyczących zabezpieczenia danych.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 22 z 31
+
+Ponadto stwierdzić należy, że naruszenie poufności danych osobowych osób, któ‐
+rych naruszenie dotyczy, stanowi dla nich niewątpliwie szkodę niemajątkową
+(krzywdę). Osoby fizyczne, których dane pozyskano w sposób nieuprawniony, mogą
+bowiem co najmniej odczuwać obawę przed utratą kontroli nad swoimi danymi oso‐
+bowymi, kradzieżą tożsamości lub oszustwem dotyczącym tożsamości, czy wreszcie
+– stratą finansową. Jak wskazał Sąd Okręgowy w Warszawie w wyroku z 6 sierpnia
+2020 r. sygn. akt XXV C 2596/19, obawa, a więc utrata bezpieczeństwa stanowi real‐
+ną szkodę niemajątkową wiążącą się z obowiązkiem jej naprawienia. Z kolei Trybu‐
+nał Sprawiedliwości UE w orzeczeniu z 14 grudnia 2023 r. w/s Natsionalna agentsia
+za prihodite (C-340/21) podkreślił, że „Art. 82 ust. 1 RODO należy interpretować w
+ten sposób, że obawa przed ewentualnym wykorzystaniem przez osoby trzecie w
+sposób stanowiący nadużycie danych osobowych, jaką żywi osoba, której dane do‐
+tyczą, w następstwie naruszenia tego rozporządzenia może sama w sobie stanowić
+"szkodę niemajątkową" w rozumieniu tego przepisu”.
+Czas trwania naruszenia przepisów o ochronie danych osobowych, to jest okres od
+25 maja 2018 r. (data rozpoczęcia stosowania rozporządzenia 2016/679) do 18 lute‐
+go 2022 r. (zatwierdzenie procedury wskazującej zasady bezpieczeństwa, obowiązu‐
+jące w razie konieczności transportu dokumentacji medycznej poza siedzibą Admini‐
+stratora – w szczególności w trakcie wizyt domowych) uznać należy niewątpliwie za
+długi. Zaś im dłużej trwa naruszenie przepisów rozporządzenia 2016/679 związane z
+ryzykiem naruszenia praw lub wolności osób, których dane dotyczą, tym ryzyko za‐
+istnienia oraz skala negatywnych dla tych osób konsekwencji naruszenia niewątpli‐
+wie się zwiększa. Dlatego też stwierdzony w niniejszej sprawie czas trwania
+naruszenia wpływa obciążająco na jego ocenę. EROD w Wytycznych 04/2022 wyja‐
+śnia, że „organ nadzorczy może zasadniczo przypisać większą wagę naruszeniu o
+dłuższym czasie trwania. Im dłuższy czas trwania naruszenia, tym większą wagę
+organ nadzorczy może przypisać temu czynnikowi” (zob. pkt 53 lit. c) Wytycznych
+04/2022). Ponadto Grupa Robocza ds. Ochrony Danych Art. 29 w Wytycznych w
+sprawie stosowania i ustalania administracyjnych kar pieniężnych do celów
+rozporządzenia nr 2016/679 (zwanych dalej „Wytycznymi WP253”), wskazała, że
+„czas trwania naruszenia może przykładowo świadczyć o: a) celowym działaniu ad‐
+ministratora danych; b) braku podjęcia odpowiednich środków zapobiegawczych; c)
+niemożności wprowadzenia wymaganych środków technicznych i organizacyjnych”
+(zob. str. 11). W niniejszej sprawie można mówić w ocenie Prezesa UODO o świado‐
+mym działaniu Administratora i braku podjęcia przez niego adekwatnych środków
+zapobiegawczych. Nie wchodzi natomiast w grę niemożność wprowadzenia odpo‐
+wiednich środków technicznych i organizacyjnych, skoro ich wdrożenie było możliwe
+po stwierdzeniu przez Administratora zaistnienia naruszenia ochrony danych osobo‐
+wych.
+Naruszenie przepisów dotyczących ochrony danych osobowych dotyczyło potencjal‐
+nie wszystkich osób, wobec których administrator udzielał świadczeń zdrowotnych
+w formie „wizyt domowych”. Administrator zobowiązany był bowiem zapewnić odpo‐
+wiednie do ryzyka bezpieczeństwo przetwarzania danych osobowych wszystkim pa‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 23 z 31
+
+cjentom, wobec których realizowane były takie wizyty. Z ustaleń stanu faktycznego
+sprawy wynika, że w okresie trwania naruszenia przepisów rozporządzenia
+2016/679, to jest od 25 maja 2018 r. do 18 lutego 2022 r. szacowana liczba osób,
+wobec których administrator udzielał świadczeń zdrowotnych w formie „wizyt domo‐
+wych”, to (…) osób. Jest to w ocenie Prezesa UODO duża liczba osób, i jako taka
+wpływa obciążająco na wymiar orzeczonej administracyjnej kary pieniężnej.
+Umyślny charakter naruszenia (art. 83 ust. 2 lit. b) rozporządzenia 2016/679).
+W organizacji Administratora zostały przeprowadzone dwa audyty, w których zostały
+wskazane nieprawidłowości związane z przetwarzaniem danych poza jego siedzibą.
+Jednak wskazane rekomendacje nie znalazły swojego praktycznego odzwierciedlenia
+w ramach stosowanych środków technicznych i organizacyjnych, w szczególności w
+ramach obowiązujących procedur. Administrator wobec stwierdzonej praktyki zwrotu
+do siedziby Administratora dokumentacji medycznej po przeprowadzeniu wizyty do‐
+mowej oraz ustalenia braku stosowania się do tej praktyki przez jednego z pracowni‐
+ków, nie podjął żadnych działań mających na celu zmianę tego stanu rzeczy. Zmiana
+podejścia w tym zakresie nastąpiła dopiero po naruszeniu ochrony danych osobo‐
+wych, a więc po upływie ponad 4 lat od otrzymania przez Administratora
+rekomendacji zawartych w audycie z 13 lipca 2017 r.
+Wobec powyższego Administrator był świadomy, w jaki sposób powinien przetwa‐
+rzać dane osobowe w ramach realizacji wizyt domowych przez pracowników, aby za‐
+pewnić im odpowiednie bezpieczeństwo, w tym ochronę przed nieuprawnionym do‐
+stępem, za pomocą odpowiednich środków technicznych i organizacyjnych, a więc w
+jaki sposób zapewnić faktyczne poszanowanie zasady „integralności i poufności”
+wyrażonej w art. 5 ust. 1 lit. f) rozporządzenia 2016/679. Tym samym Administrator
+umyślnie naruszył art. 25 ust 1 oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679, co
+poskutkowało wystąpieniem naruszenia poufności i dostępności danych licznych pa‐
+cjentów, którym Administrator udzielał świadczeń zdrowotnych w formie „wizyt do‐
+mowych”, czyli naruszeniem art. 5 ust. 1 lit. f) oraz art. 5 ust. 2 rozporządzenia
+2016/679.
+Kategorie danych osobowych, których dotyczyło naruszenie (art. 83 ust. 2 lit. g)
+rozporządzenia 2016/679).
+W Wytycznych 04/2022 EROD wskazała, że „[j]eśli chodzi o wymóg uwzględnienia
+kategorii danych osobowych, których dotyczyło naruszenie (art. 83 ust. 2 lit. g)
+RODO), w RODO wyraźnie wskazano rodzaje danych, które podlegają szczególnej
+ochronie, a tym samym bardziej rygorystycznej reakcji przy nakładaniu kar pienięż‐
+nych. Dotyczy to co najmniej rodzajów danych objętych art. 9 i 10 RODO oraz da‐
+nych nieobjętych zakresem tych artykułów, których rozpowszechnianie natychmiast
+powoduje szkody lub dyskomfort osoby, której dane dotyczą (np. danych dotyczą‐
+cych lokalizacji, danych dotyczących komunikacji prywatnej, krajowych numerów
+identyfikacyjnych lub danych finansowych, takich jak zestawienia transakcji lub nu‐
+mery kart kredytowych). Ogólnie rzecz biorąc, im większej liczby takich kategorii da‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 24 z 31
+
+nych dotyczy naruszenie lub im bardziej wrażliwe są dane, tym większą wagę organ
+nadzorczy może przypisać temu czynnikowi” (zob. pkt 57 Wytycznych 04/2022).
+W okolicznościach niniejszej sprawy dane osobowe pacjentów, którym Administrator
+powinien zapewnić odpowiednie bezpieczeństwo dotyczyły zdrowia tych pacjentów,
+a więc należały do danych szczególnej kategorii (wymienionej w art. 9 ust. 1 rozpo‐
+rządzenia 2016/679). W tym miejscu należy zauważyć, że definicja „danych doty‐
+czących zdrowia” zawarta w art. 4 pkt 15 rozporządzenia 2016/679 „[…] obejmuje
+nie tylko informacje odnoszące się do zdrowia fizycznego lub psychicznego osoby
+(np. informacja, na jakie schorzenie cierpi osoba), ale obejmują również informacje o
+korzystaniu z usług opieki zdrowotnej (np. wizyt u lekarza, świadczeń medycznych,
+przepisanych lekarstw itp.)”[4]. Oznacza to, że ilość danych dotyczących zdrowia pa‐
+cjentów, która znajdowała się w przetwarzanej przez Administratora dokumentacji
+medycznej była znaczna. Ponadto, oprócz danych dotyczących zdrowia, na wysokie
+ryzyko naruszenia praw lub wolności pacjentów dotkniętych niniejszym naruszeniem
+przepisów rozporządzenia 2016/679 wpływ miał również szeroki zakres przetwarza‐
+nych przez Administratora danych pacjentów, który obejmował: imię i nazwisko,
+datę urodzenia, adres zamieszkania lub pobytu, imiona rodziców, nazwisko rodowe
+matki oraz numer ewidencyjny PESEL. Należy podkreślić, iż w szczególności nie‐
+uprawnione ujawnienie takiego rodzaju danych jak numer ewidencyjny PESEL, który
+wraz z imieniem i nazwiskiem jednoznacznie identyfikuje osobę fizyczną, może real‐
+nie i negatywnie wpływać na ochronę praw lub wolności tej osoby. Jak wskazał WSA
+w Warszawie w wyroku z 1 lipca 2022 r. o sygn. akt II SA/Wa 4143.21 „W przypadku
+naruszenia takich danych, jak imię, nazwisko oraz numer PESEL, możliwa jest bo‐
+wiem kradzież lub sfałszowanie tożsamości skutkująca negatywnymi
+konsekwencjami dla osób, których dane dotyczą”.
+Spośród przesłanek wymienionych w art. 83 ust. 2 rozporządzenia 2016/679 Prezes
+UODO uwzględnił następujące okoliczności wpływające łagodząco na wymiar orzeczonej
+administracyjnej kary pieniężnej:
+Stopień współpracy Administratora z organem nadzorczym w celu usunięcia naruszenia
+oraz złagodzenia jego ewentualnych negatywnych skutków (art. 83 ust. 2 lit. f)
+rozporządzenia 2016/679).
+Administrator przeprowadził ponowną analizę ryzyka, na podstawie której określił
+odpowiednie środki w celu zapewnienia bezpieczeństwa danym przetwarzanym w
+ramach wizyt domowych. W szczególności dokonał zmiany procedury polegających
+na wprowadzeniu konkretnych zasad bezpieczeństwa obowiązujących w razie ko‐
+nieczności transportu dokumentacji medycznej poza siedzibą placówki medycznej,
+w tym w trakcie wizyt domowych. Następnie przeprowadził szkolenia pracowników
+obejmujące aktualizacje przedmiotowej procedury. W ocenie Prezesa UODO działa‐
+nia te należy uznać za okoliczność łagodzącą – wpływającą w sposób wyraźny na
+obniżenie wysokości wymierzonej kary.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 25 z 31
+
+Wszelkie inne łagodzące czynniki mające zastosowanie do okoliczności sprawy (art. 83
+ust. 2 lit. k) rozporządzenia 2016/679).
+Administrator po ustaniu stanu naruszenia przepisów o ochronie danych osobowych
+(zob. pkt 72 uzasadnienia niniejszej decyzji) i w trakcie trwania niniejszego
+postępowania przystąpił do „Kodeksu postępowania dotyczącego ochrony danych
+osobowych przetwarzanych w małych placówkach medycznych” (zob. pkt 18 uza‐
+sadnienia niniejszej decyzji). Okoliczności tej Prezes UODO nie może poczytać na ko‐
+rzyść Administratora w ramach przesłanki określonej w art. 83 ust. 2 lit. j) rozporzą‐
+dzenia 2016/679 (stosowanie przez administratora zatwierdzonych kodeksów postę‐
+powania na mocy art. 40 rozporządzenia 2016/679), ponieważ Administrator przy‐
+stąpił do kodeksu dopiero po ustaniu stanu naruszenia przepisów rozporządzenia
+2016/679. Jednakże mając na uwadze okoliczności niniejszej sprawy należy
+potraktować takie działanie Administratora jako „inny łagodzący czynnik”, o którym
+mowa w art. 83 ust. 2 lit. k) rozporządzenia 2016/679. Stosowanie kodeksu postępo‐
+wania zatwierdzonego na mocy art. 40 rozporządzenia 2016/679 świadczy bowiem
+co do zasady o zapewnieniu przez administratora adekwatnego poziomu ochrony
+danych, która to ochrona uwzględnia specyfikę branży danego podmiotu (w tym
+przypadku branży medycznej) i potwierdza wywiązywanie się z obowiązków, które
+zostały nałożone na administratora rozporządzeniem 2016/679. Oznacza to, że sto‐
+sując kodeks postępowania określony w art. 40 rozporządzenia 2016/679, Admini‐
+strator podjął decyzję o podwyższeniu standardu ochrony danych osobowych w
+swojej organizacji, co należy ocenić pozytywnie.
+Inne, niżej wskazane okoliczności wskazane w art. 83 ust. 2 rozporządzenia 2016/679, po
+dokonaniu oceny ich wpływu na stwierdzone w niniejszej sprawie naruszenie przepisów
+rozporządzenia 2016/679, zostały przez Prezesa UODO uznane za neutralne, to znaczy
+nie mające ani obciążającego ani łagodzącego wpływu na wymiar orzeczonej
+administracyjnej kary pieniężnej. Są to:
+Działania podjęte w celu zminimalizowania szkody poniesionej przez osoby, których
+dane dotyczą (art. 83 ust. 2 lit. c) rozporządzenia 2016/679).
+Działania Administratora ograniczyły się w tym zakresie wyłącznie do zawiadomie‐
+nia osób, których dane dotyczą, o naruszeniu ochrony danych osobowych. Zawiado‐
+mienie to stanowi jednak jedynie wypełnienie prawnego obowiązku wynikającego z
+art. 34 ust. 2 rozporządzenia 2016/679, a jak stanowią Wytyczne WP253 „[z]wykłe
+dopełnienie […] obowiązku przez administratora nie może być interpretowane jako
+czynnik osłabiający/łagodzący” (zob. str. 16 Wytycznych WP253). W taki sam sposób
+(jako wypełnienie obowiązku prawnego) należy rozpatrywać również powiadomienie
+przez Administratora policji o kradzieży dokumentacji zawierającej dane osobowe
+pacjentów. Zatem powyższe działania Administratora nie mogą być ocenione
+łagodząco w kontekście niniejszej przesłanki.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 26 z 31
+
+Stopień odpowiedzialności administratora z uwzględnieniem środków technicznych i or‐
+ganizacyjnych wdrożonych przez niego na mocy art. 25 i 32 (art. 83 ust. 2 lit. d)
+rozporządzenia 2016/679).
+W Wytycznych 04/2022 EROD wskazuje, że – rozpatrując tę przesłankę – „organ
+nadzorczy musi odpowiedzieć na pytanie, w jakim stopniu administrator «zrobił
+wszystko, czego można by było oczekiwać», zważywszy na charakter, cele lub za‐
+kres przetwarzania oraz w świetle obowiązków nałożonych na niego przez rozporzą‐
+dzenie” (zob. pkt 77 Wytycznych 04/2022).
+Prezes UODO stwierdził w niniejszej sprawie naruszenie przez Administratora przepi‐
+su art. 25 i 32 ust. 1 i 2 rozporządzenia 2016/679. W jego ocenie na administratorze
+ciąży w wysokim stopniu odpowiedzialność za niewdrożenie odpowiednich środków
+technicznych i organizacyjnych, które zapobiegłyby naruszeniu ochrony danych oso‐
+bowych. Oczywistym jest, że w rozważanym kontekście charakteru, celu i zakresu
+przetwarzania danych osobowych Administrator nie „zrobił wszystkiego, czego moż‐
+na by było od niego oczekiwać”; nie wywiązał się tym samym z nałożonych na niego
+przepisem art. 25 i 32 rozporządzenia 2016/679 obowiązków. W niniejszej sprawie
+okoliczność ta stanowi jednak o istocie samego naruszenia; nie jest jedynie czynni‐
+kiem wpływającym – łagodząco lub obciążająco – na jego ocenę. Z tego też względu
+brak odpowiednich środków technicznych i organizacyjnych, o których mowa w art.
+25 i 32 rozporządzenia 2016/679, nie może zostać przez Prezesa UODO uznany w
+niniejszej sprawie za okoliczność mogącą dodatkowo wpłynąć na surowszą ocenę
+naruszenia i wymiar nałożonej na Administratora administracyjnej kary pieniężnej
+Wszelkie stosowne wcześniejsze naruszenia ze strony administratora lub podmiotu prze‐
+twarzającego (art. 83 ust. 2 lit. e) rozporządzenia 2016/679).
+Prezes UODO nie stwierdził jakichkolwiek, dokonanych przez Administratora, wcze‐
+śniejszych naruszeń przepisów o ochronie danych osobowych, w związku z czym
+brak jest podstaw do traktowania tej okoliczności jako obciążającej. Obowiązkiem
+każdego administratora jest przestrzeganie przepisów prawa (w tym o ochronie da‐
+nych osobowych), więc brak wcześniejszych naruszeń nie może być okolicznością
+łagodzącą przy wymierzaniu sankcji.
+Sposób w jaki organ nadzorczy dowiedział się o naruszeniu (art. 83 ust. 2 lit. h)
+rozporządzenia 2016/679).
+Prezes UODO stwierdził naruszenie przepisów rozporządzenia 2016/679 w wyniku
+zgłoszenia naruszenia ochrony danych osobowych dokonanego przez Administrato‐
+ra.
+Administrator dokonując tego zgłoszenia realizował jedynie ciążący na nim obowią‐
+zek prawny, brak jest więc podstaw do uznania, że okoliczność ta stanowi
+okoliczność łagodzącą. Zgodnie z Wytycznymi 04/2022 „(…) przy ocenie tego aspek‐
+tu szczególną wagę można przypisać kwestii, czy administrator lub podmiot prze‐
+twarzający powiadomił o naruszeniu z własnej inicjatywy, a jeśli tak, to w jakim za‐
+kresie, zanim organ nadzorczy został poinformowany o naruszeniu w drodze – na
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 27 z 31
+
+przykład – skargi lub dochodzenia. Okoliczność ta nie ma znaczenia, gdy administra‐
+tor podlega szczególnym obowiązkom w zakresie zgłaszania naruszeń (jak np. obo‐
+wiązkowi zgłaszania naruszenia ochrony danych osobowych określonemu w art. 33).
+W takich przypadkach fakt dokonania zgłoszenia należy uznać za okoliczność
+neutralną (…)” (zob. pkt 98 Wytycznych 04/2022).
+Przestrzeganie wcześniej zastosowanych w tej samej sprawie środków, o których mowa
+w art. 58 ust. 2 rozporządzenia 2016/679 (art. 83 ust. 2 lit. i) rozporządzenia 2016/679).
+Przed wydaniem niniejszej decyzji Prezes UODO nie stosował wobec Administratora
+w rozpatrywanej sprawie żadnych środków wymienionych w art. 58 ust. 2 rozporzą‐
+dzenia 2016/679, w związku z czym Administrator nie miał obowiązku podejmowa‐
+nia żadnych działań związanych z ich stosowaniem, a które to działania, poddane
+ocenie Prezesa UODO, mogłyby mieć obciążający lub łagodzący wpływ na ocenę
+stwierdzonego naruszenia.
+Stosowanie zatwierdzonych kodeksów postępowania na mocy art. 40 rozporządzenia
+2016/679 lub zatwierdzonych mechanizmów certyfikacji na mocy art. 42 rozporządzenia
+2016/679 (art. 83 ust. 2 lit. j) rozporządzenia 2016/679).
+W okresie trwania rozpatrywanego w niniejszej sprawie naruszenia Administrator nie
+stosował zatwierdzonych kodeksów postępowania ani zatwierdzonych mechani‐
+zmów certyfikacji, o których mowa w przepisach rozporządzenia 2016/679. Zatem
+nie może być uwzględniona na korzyść Administratora okoliczność późniejszego
+przyjęcia i stosowania tego rodzaju instrumentów jako środków gwarantujących
+wyższy niż standardowy poziom ochrony przetwarzanych danych osobowych.
+Zwłaszcza w sytuacji, w której Administrator przystąpił do „Kodeksu postępowania
+dotyczącego ochrony danych osobowych przetwarzanych w małych placówkach me‐
+dycznych” już po ustaniu stanu naruszenia przepisów rozporządzenia 2016/679 (19
+czerwca 2023 r.).
+Osiągnięte bezpośrednio lub pośrednio w związku z naruszeniem korzyści finansowe lub
+uniknięte straty (art. 83 ust. 2 lit. k) rozporządzenia 2016/679).
+Prezes UODO nie stwierdził, żeby Administrator w związku z naruszeniem odniósł ja‐
+kiekolwiek korzyści finansowe lub uniknął tego rodzaju strat. Brak jest więc podstaw
+do traktowania tej okoliczności jako obciążającej Administratora. Stwierdzenie zaist‐
+nienia wymiernych korzyści finansowych wynikających z naruszenia przepisów roz‐
+porządzenia 2016/679 należałoby ocenić zdecydowanie negatywnie. Nieosiągnięcie
+zaś przez Administratora takich korzyści, jako stan naturalny, niezależny od naru‐
+szenia i jego skutków, jest okolicznością, która z istoty rzeczy nie może być łagodzą‐
+ca dla Administratora. Interpretację tę potwierdza już samo sformułowanie przepisu
+art. 83 ust. 2 lit. k) rozporządzenia 2016/679, który nakazuje organowi nadzorczemu
+zwrócić należytą uwagę na korzyści „osiągnięte” – zaistniałe po stronie podmiotu
+dokonującego naruszenia.
+Prezes UODO wszechstronnie rozpatrując sprawę nie odnotował innych niż opisane
+powyżej okoliczności mogących mieć wpływ na ocenę naruszenia i na wysokość
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 28 z 31
+
+orzeczonej administracyjnej kary pieniężnej, które powinny zostać ujęte w ramach
+rozpatrywania przesłanki z art. 83 ust. 2 lit. k) rozporządzenia 2016/679.
+Ustalając w niniejszej sprawie wysokość nałożonej na Administratora administracyjnej
+kary pieniężnej Prezes UODO zastosował metodykę przyjętą przez EROD w Wytycznych
+04/2022. Zgodnie z przedstawionymi w tym dokumencie wskazówkami Prezes UODO
+przeprowadził niżej przedstawiony (w pkt 87-92 uzasadnienia niniejszej decyzji) proces
+kalkulacji kary.
+Jako podstawę obliczenia administracyjnej kary pieniężnej Prezes UODO przyjął wartość
+obrotu Administratora za rok 2024 przedstawioną przez niego w sprawozdaniach finan‐
+sowych załączonych do pisma z 13 maja 2025 r., to jest w sprawozdaniu finansowym
+NZOZ (…) H. Sp. j. za okres od 01.01.2024 r. do 15.08.2024 r. oraz w sprawozdaniu fi‐
+nansowym NZOZ (…) H. Sp. z o.o. za okres od 16.08.2024 r. do 31.12.2024 r. Zgodnie z
+tymi dokumentami łączny obrót Administratora w roku 2024 wyniósł (…) zł, co w przeli‐
+czeniu na euro (wg. średniego kursu euro z 28 stycznia 2025 r. – 1 euro = 4,2092 zł –
+przyjętego dla tego oraz dla wszelkich innych poniższych przeliczeń walutowych zgodnie
+z art. 103 u.o.d.o. – stanowi równowartość kwoty (…) euro.
+Prezes UODO dokonał kategoryzacji stwierdzonego w niniejszej sprawie naruszenia
+przepisów rozporządzenia 2016/679 (vide Rozdział 4.1 Wytycznych 04/2022). Wśród na‐
+ruszonych przez Administratora przepisów rozporządzenia 2016/679 znajdują się przepi‐
+sy art. 5 ust. 1 lit. f) oraz art. 5 ust. 2 rozporządzenia 2016/679 określające podstawowe
+zasady przetwarzania danych osobowych. Naruszenia tych przepisów należą – zgodnie z
+art. 83 ust. 5 lit. a) rozporządzenia 2016/679 – do kategorii naruszeń zagrożonych karą
+wyższą z dwóch przewidzianych w rozporządzeniu 2016/679 wymiarów kar (z maksymal‐
+ną wysokością do 20 000 000 euro lub do 4% całkowitego rocznego obrotu przedsiębior‐
+stwa z poprzedniego roku obrotowego). Są one więc in abstracto poważniejsze od dru‐
+giej grupy naruszeń podlegających administracyjnym karom pieniężnym (wskazanych w
+art. 83 ust. 4 rozporządzenia 2016/679).
+Prezes UODO ocenił stwierdzone w niniejszej sprawie naruszenie (w szczególności naru‐
+szenie podstawowych zasad przetwarzania) jako naruszenie o średnim poziomie powagi
+(vide Rozdział 4.2 Wytycznych 04/2022). W ramach tej oceny wzięte zostały pod uwagę
+te przesłanki spośród wymienionych w art. 83 ust. 2 rozporządzenia 2016/679, które
+tyczą się strony przedmiotowej naruszenia (składają się na „powagę” naruszenia), to
+jest: charakter, waga i czas trwania naruszenia (art. 83 ust. 2 lit. a) rozporządzenia
+2016/679), umyślny lub nieumyślny charakter naruszenia (art. 83 ust. 2 lit. b) rozporzą‐
+dzenia 2016/679) oraz kategorie danych osobowych, których dotyczyło naruszenie (art.
+83 ust. 2 lit. g) rozporządzenia 2016/679). Szczegółowa ocena tych okoliczności przed‐
+stawiona została powyżej (zob. pkt 72-74 uzasadnienia niniejszej decyzji). W tym miej‐
+scu wskazać należy, że rozważenie ich łącznego wpływu na ocenę stwierdzonego w ni‐
+niejszej sprawie naruszenia traktowanego w całości prowadzi do wniosku, że poziom
+jego powagi (rozumianej zgodnie z Wytycznymi 04/2022) jest średni. Konsekwencją tego
+jest zaś przyjęcie – jako kwoty wyjściowej do obliczenia kary – wartości mieszczącej się w
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 29 z 31
+
+przedziale od 10% do 20% maksymalnej wysokości kary możliwej do orzeczenia wobec
+Administratora, to jest – zważywszy na limit określony w art. 83 ust. 5 rozporządzenia
+2016/679 – od kwoty 2 000 000 euro do kwoty 4 000 000 euro (vide Podrozdział 4.2.4
+Wytycznych 04/2022). Za adekwatną, uzasadnioną okolicznościami niniejszej sprawy,
+kwotę wyjściową Prezes UODO uznał kwotę 3 000 000 euro (równowartość 12 627 600
+zł).
+Prezes UODO dostosował kwotę wyjściową odpowiadającą średniej powadze stwierdzo‐
+nego naruszenia do obrotu Administratora jako miernika jego wielkości i siły
+gospodarczej (vide Rozdział 4.3 Wytycznych 04/2022). Zgodnie z Wytycznymi 04/2022,
+w przypadku przedsiębiorstw, których roczny obrót wynosi od 2 do 10 mln euro, organ
+nadzorczy może rozważyć dokonanie dalszych obliczeń wysokości kary na podstawie
+wartości mieszczącej się w przedziale od 0,3% do 2% kwoty wyjściowej. Zważywszy na
+przychód Administratora osiągnięty przez niego w roku 2024 (zob. pkt 87 uzasadnienia
+niniejszej decyzji) Prezes UODO za stosowne uznał skorygowanie podlegającej oblicze‐
+niom kwoty kary do wartości odpowiadającej (…)% kwoty wyjściowej, to jest do kwoty
+(…) euro (równowartość (…) zł).
+Prezes UODO dokonał oceny wpływu na stwierdzone naruszenie pozostałych (poza tymi
+uwzględnionymi wyżej w ocenie powagi naruszenia) okoliczności wskazanych w art. 83
+ust. 2 rozporządzenia 2016/679 (vide Rozdział 5 Wytycznych 04/2022). Okoliczności te,
+mogące mieć obciążający lub łagodzący wpływ na ocenę naruszenia, odnoszą się – jak
+zakładają Wytyczne 04/2022 – do strony podmiotowej naruszenia, to jest do samego
+podmiotu będącego sprawcą naruszenia oraz do jego zachowania przed naruszeniem, w
+jego trakcie, i po jego zaistnieniu. Szczegółowa ocena i uzasadnienie wpływu każdej z
+tych przesłanek na ocenę naruszenia przedstawione zostały powyżej (zob. pkt 76-85
+uzasadnienia niniejszej decyzji). Prezes UODO w niniejszej sprawie za okoliczności łago‐
+dzące uznał stopień współpracy Administratora w celu usunięcia naruszenia (art. 83 ust.
+2 lit. f) rozporządzenia 2016/679) oraz – jako „inny czynnik łagodzący” – przystąpienie
+przez Administratora do „Kodeksu postępowania dotyczącego ochrony danych osobo‐
+wych przetwarzanych w małych placówkach medycznych” (art. 83 ust. 2 lit. k) rozporzą‐
+dzenia 2016/679). Pozostałe przesłanki odnoszące się do strony podmiotowej naruszenia
+– jak wskazano wyżej – nie miały wpływu, ani łagodzącego ani obciążającego, na ocenę
+naruszenia i w konsekwencji na wymiar kary. Ze względu więc na zaistnienie w sprawie
+dodatkowych okoliczności łagodzących, Prezes UODO, oceniając ich wpływ na stwierdzo‐
+ne naruszenie, uznał za zasadne zmniejszenie o 60% ustalonej wyżej kwoty kary (zob.
+pkt 90 uzasadnienia niniejszej decyzji) – do kwoty 7 800 euro (równowartość 32 832 zł).
+Prezes UODO uznał, że ustalona zgodnie z powyższymi zasadami wysokość kary nie wy‐
+maga dodatkowej korekty ze względu na zasady skuteczności, proporcjonalności i od‐
+straszającego charakteru kary (art. 83 ust. 1 rozporządzenia 2016/679). W jego ocenie
+administracyjna kara pieniężna w wysokości 32 832 zł będzie w okolicznościach niniej‐
+szej sprawy skuteczna (przez swoją dolegliwość pozwoli osiągnąć swój cel represyjny, ja‐
+kim jest ukaranie za bezprawne zachowanie), odstraszająca (pozwoli skutecznie zniechę‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 30 z 31
+
+cić zarówno Administratora, jak i innych administratorów do popełniania w przyszłości
+naruszeń przepisów rozporządzenia 2016/679) oraz proporcjonalna (będzie adekwatna
+do stwierdzonej wagi naruszenia, nie będzie wykraczać poza możliwości finansowe Ad‐
+ministratora, pozwalając jednocześnie na osiągnięcie zakładanych celów). Kwota 32 832
+zł (równowartość 7 800 euro) stanowi w ocenie Prezesa UODO próg, powyżej którego
+dalsze zwiększanie wysokości kary nie będzie już wiązało się ze wzrostem jej skuteczno‐
+ści i odstraszającego charakteru (Administrator już trakcie trwania niniejszego postępo‐
+wania wykazał się wyższą niż standardowa odpowiedzialnością za bezpieczeństwo prze‐
+twarzanych przez siebie danych osobowych i ochronę praw i wolności osób, których te
+dane dotyczą). Z drugiej natomiast strony obniżenie w większym stopniu wysokości kary
+mogłoby się odbyć kosztem jej skuteczności i odstraszającego charakteru, a także spój‐
+nego stosowania i egzekwowania rozporządzenia 2016/679 oraz zasady równego
+traktowania podmiotów na rynku wewnętrznym UE i EOG.
+Stosownie do treści art. 103 u.o.d.o. równowartość wyrażonych w euro kwot, o których
+mowa w art. 83 rozporządzenia 2016/679, oblicza się w złotych według średniego kursu
+euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 28 stycznia każ‐
+dego roku, a w przypadku gdy w danym roku Narodowy Bank Polski nie ogłasza średnie‐
+go kursu euro w dniu 28 stycznia – według średniego kursu euro ogłoszonego w najbliż‐
+szej po tej dacie tabeli kursów Narodowego Banku Polskiego. W 2025 r. średni kurs euro
+został ogłoszony przez Narodowy Bank Polski na dzień 28 stycznia 2025 r. w wysokości 1
+euro = 4,2092 zł. Stosując ten kurs euro do kary określonej na kwotę 7 800 euro Prezes
+UODO, na podstawie art. 83 ust. 5 lit. a) rozporządzenia 2016/679 w związku z art. 103
+u.o.d.o., nałożył na Administratora – za naruszenie opisane w sentencji niniejszej decyzji
+– administracyjną karę pieniężną w ostatecznej wysokości 32 832 zł (słownie: trzydzieści
+dwa tysiące osiemset trzydzieści dwa złote).
+W ocenie Prezesa UODO, zastosowana administracyjna kara pieniężna spełnia w ustalo‐
+nych okolicznościach niniejszej sprawy funkcje, o których mowa w art. 83 ust. 1 rozpo‐
+rządzenia 2016/679, tzn. będzie w tym indywidualnym przypadku skuteczna, proporcjo‐
+nalna i odstraszająca. W ocenie Prezesa UODO nałożona na Administratora administra‐
+cyjna kara pieniężna jest proporcjonalna zarówno do powagi naruszenia (wynikającej z
+podstawowych zasad dotyczących przetwarzania danych osobowych), jak i do wielkości
+administratora, którą to wielkość – mierzoną jego obrotem – należy rozpatrywać w niero‐
+zerwalnym związku ze skutecznością kary i jej odstraszającym charakterem. Stwierdzić
+w tym miejscu należy, że zastosowanie wobec Administratora jakiegokolwiek innego
+środka naprawczego przewidzianego w art. 58 ust. 2 rozporządzenia 2016/679, w szcze‐
+gólności zaś poprzestanie na upomnieniu (art. 58 ust. 2 lit. b) rozporządzenia 2016/679),
+nie byłoby proporcjonalne do wagi stwierdzonych nieprawidłowości w procesie
+przetwarzania danych osobowych.
+Nałożona na Administratora administracyjna kara pieniężna stanowi ok. (…) % całkowite‐
+go obrotu Administratora za 2024 r. Jednocześnie warto podkreślić, że kwota nałożonej
+administracyjnej kary pieniężnej to jedynie 0,039 % maksymalnej wysokości kary, którą
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+
+Decyzja DKN.5131.17.2022
+
+Strona 31 z 31
+
+Prezes UODO mógł, zgodnie z art. 83 ust. 5 rozporządzenia 2016/679, nałożyć na Admi‐
+nistratora za stwierdzone w niniejszej sprawie naruszenie. Zważywszy na przedstawione
+wyniki finansowe (w tym na osiągnięty przez Administratora w roku 2024 łączny zysk
+netto w kwocie ok. (…) zł), stwierdzić należy, że orzeczona administracyjna kara pienięż‐
+na nie będzie dla Administratora nadmiernie dotkliwa. Jednocześnie kara będzie skutecz‐
+na (osiągnie cel jakim jest ukaranie administratora za najpoważniejsze naruszenie o da‐
+leko idących skutkach) i odstraszająca na przyszłość. W ocenie Prezesa UODO orzeczona
+kara spełni w tych konkretnych okolicznościach również funkcję represyjną, jako że sta‐
+nowić będzie adekwatną odpowiedź na naruszenie przez Administratora przepisów roz‐
+porządzenia 2016/679, a także funkcję prewencyjną – wskaże bowiem zarówno Admini‐
+stratorowi, jak i innym administratorom na naganność takich jak stwierdzone w niniej‐
+szej sprawie, lub podobnych naruszeń przepisów rozporządzenia 2016/679.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+[1] Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz.
+1781), dalej jako u.o.d.o.
+[2] Wytyczne w języku polskim pod adresem: https://www.edpb.europa.eu/system/fi‐
+les/2024-01/edpb_guidelines_042022_calculationofadministrativefines_pl_0.pdf.
+[3] P. Fajgielski [w:] Komentarz do rozporządzenia nr 2016/679 w sprawie ochrony osób
+fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego
+przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie
+o ochronie danych) [w:] Ogólne rozporządzenie o ochronie danych. Ustawa o ochronie
+danych osobowych. Komentarz, wyd. II, W. 2022, art. 5.
+[4] P. Fajgielski [w:] Komentarz do rozporządzenia nr 2016/679 w sprawie ochrony…,
+art. 4.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5131_17/content
+
+2025-09-03 13:16
+

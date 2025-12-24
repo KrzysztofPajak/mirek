@@ -1,0 +1,331 @@
+Warszawa, 26 czerwca 2019
+PRAWOMOCNA
+
+Decyzja
+ZSPR.440.1026.2018
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2018 r. poz. 2096 ze zm.) oraz na podstawie art. 160 ust. 1 i
+2 ustawy z 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2018 r. poz. 1000 ze
+zm.), art. 18 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz.
+U. 2016 r. poz. 922 ze zm.) oraz art. 6 ust. 1 lit f) rozporządzenia Parlamentu Europej‐
+skiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycz‐
+nych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepły‐
+wu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie
+danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1 oraz Dz. Urz. UE L 127 z 23.05.2018, str.
+2),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana R. G., zam.
+w Cz., na Pana K. Ch., prowadzącego działalność gospodarczą pod firmą [….] z siedzibą
+w O. przy ul. (…) dotyczącej odmowy udostępnienia adresu IP osoby, która w dniu (…)
+stycznia 2017 r. o godzinie (…), używając pseudonimu „(…) zamieściła na łamach porta‐
+lu internetowego www.(…).pl wpis o treści: (…)”, Prezes Urzędu Ochrony Danych Osobo‐
+wych
+nakazuje Panu K.Ch., prowadzącemu działalność gospodarczą pod firmą (…) z siedzibą w
+O. udostępnienie na rzecz Pana R.G, zam. w Cz., danych osobowych w zakresie numeru
+IP komputera użytkownika, który w dniu (…) stycznia 2017 r. o godzinie (…) zamieścił,
+używając pseudonimu „(…)”, komentarz na łamach portalu internetowego www.(…)pl o
+treści: „(…)”
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_1026/content
+
+2025-09-03 13:57
+
+Decyzja ZSPR.440.1026.2018
+
+Strona 2 z 7
+
+Uzasadnienie
+Do Biura Generalnego Inspektora Ochrony Danych Osobowych (obecnie Urząd Ochrony
+Danych Osobowych) w dniu 23 maja 2018 r. wpłynęła skarga Pana R.G, zam. w Cz.
+(zwanego dalej: „Skarżącym”), na Pana K.Ch, prowadzącego działalność gospodarczą
+pod firmą „(…).”, z siedzibą w O. (dalej jako: „Przedsiębiorca”), dotycząca odmowy udo‐
+stępnienia adresu IP osoby, która w dniu (…) stycznia 2017 r. o godzinie (…) używając
+pseudonimu „(…)”, zamieściła na łamach portalu internetowego www.(…).pl wpis o tre‐
+ści: „(…)”.
+Skarżący w treści swojego wniosku wskazał, że wnosi o nakazanie administratorowi da‐
+nych tj. Przedsiębiorcy przywrócenia stanu zgodnego z prawem przez udostępnienie da‐
+nych osobowych w postaci pełnego adresu IP osoby, która w dniu 28 stycznia 2017 r. o
+godzinie (…), używając pseudonimu „(…)” umieściła na łamach portalu www.(…).pl ww.
+wpis. Skarżący podkreślił, że autor wpisu dopuścił się zniesławienia, pomawiając Skarżą‐
+cego o postępowanie i właściwości, które mogą poniżyć go w oczach opinii publicznej
+oraz narazić na utratę zaufania potrzebnego do sprawowania urzędu (…). Z tego powodu
+Skarżący zdecydował się skierować prywatny akt oskarżenia oraz zawiadomił Policję o
+podejrzeniu popełnienia przestępstwa przez autora wpisu. Do skutecznego skierowania
+prywatnego aktu oskarżenia niezbędne jest zaś posiadanie adresu IP, stąd też Skarżący
+wniósł o nakazanie udostępnienia adresu IP autora przedmiotowego wpisu,
+posługującego się nickiem „(…)”.
+W toku przeprowadzonego postępowania wyjaśniającego w niniejszej sprawie Prezes
+Urzędu Ochrony Danych Osobowych ustalił następujący stan faktyczny:
+1. Pismem z dnia (…) stycznia 2017 r. Skarżący zwrócił się do Przedsiębiorcy z wnio‐
+skiem o przekazanie pełnego adresu IP osoby posługującej się nickiem „(…)”. Przed‐
+siębiorca odmówił uwzględnienia wniosku pismem z dnia (…) lutego 2017 r. Ponad‐
+to, pismem z dnia (…) kwietnia 2018 r. Skarżący wezwał Przedsiębiorcę do
+przekazania pełnego adresu IP osoby posługującej się nickiem „(…)”, która zamie‐
+ściła przedmiotowy wpis z dnia (…) stycznia 2017 r. W dniu (…) maja 2018 r. Przed‐
+siębiorca odmówił wydania adresu IP, nie przedstawiając żadnego uzasadnienia dla
+swojej decyzji.
+2. Przedsiębiorca wskazał, że odmówił udostępnienia adresu IP, podkreślając, że ww.
+komentarz osoby posługującej się nickiem „(…)” nie był wulgarny czy też obraźliwy.
+3. Skarżący skierował przeciwko osobie posługującej się nickiem „(…)” prywatny akt
+oskarżenia o przestępstwo zniesławienia [art. 212 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2018 r., 1600 tj.; dalej jako: „kk”)] do Sądu Rejonowego w
+(…). Akt oskarżenia został zwrócony z powodu braku danych osobowych sprawcy
+czynu. Sąd Okręgowy w (…) podtrzymał stanowisko Sądu Rejonowego. Skarżący zło‐
+żył również do ww. Sądu wniosek o zlecenie Policji dokonania czynności dowodo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_1026/content
+
+2025-09-03 13:57
+
+Decyzja ZSPR.440.1026.2018
+
+4.
+5.
+
+Strona 3 z 7
+
+wych polegających na ustaleniu imienia, nazwiska oraz adresu korespondencyjnego
+autora komentarza. Sąd odmówił wydania takiego postanowienia.
+Skarżący wskazał, że przekaże organom ścigania dane osobowe osoby posługującej
+się nickiem „(…)”, która zamieściła kwestionowany wpis na portalu (…).pl.
+Przedsiębiorca poinformował, że dysponuje adresem IP komputera, z którego
+wysłano cytowany wpis.
+
+W tym stanie faktycznym, Prezes Urzędu Ochrony Danych Osobowych zważył, co nastę‐
+puje.
+Z dniem wejścia w życie ustawy z 10 maja 2018 r. o ochronie danych osobowych (Dz. U.
+2018 r. poz. 1000 ze zm.), tj. 25 maja 2018 r. Biuro Generalnego Inspektora Ochrony Da‐
+nych Osobowych stało się Urzędem Ochrony Danych Osobowych. Postępowania prowa‐
+dzone przez Generalnego Inspektora Ochrony Danych Osobowych, wszczęte i niezakoń‐
+czone przed 25 maja 2018 r. prowadzone są przez Prezesa Urzędu Ochrony Danych Oso‐
+bowych, na podstawie ustawy z 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U.
+2016 r. poz. 922 ze zm.) zgodnie z zasadami określonymi w ustawie z dnia 14 czerwca
+1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096 ze zm.),
+zwanej dalej: Kpa. Wszelkie czynności podejmowane przez Generalnego Inspektora
+Ochrony Danych Osobowych przed 25 maja 2018 r. pozostają skuteczne.
+Od dnia 25 maja 2018 r. w krajowym porządku prawnym rozpoczęto stosowanie przepi‐
+sów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia
+2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobo‐
+wych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/
+WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1
+oraz Dz. Urz. UE L 127 z 23.05.2018, str. 2; zwane dalej: „rozporządzeniem 2016/679”),
+którego przepisy regulują kwestie związane z przetwarzaniem danych osobowych osób
+fizycznych. Od tego dnia Prezes Urzędu zobowiązany jest stosować przepisy rozporzą‐
+dzenia 2016/679 do wszystkich postępowań administracyjnych, które prowadzi. Prezes
+Urzędu wydając rozstrzygnięcie w danej sprawie uwzględnia bowiem stan prawny obo‐
+wiązujący w chwili wydawania tego rozstrzygnięcia. Natomiast ze względu na to, że ni‐
+niejsza sprawa wpłynęła do Urzędu Ochrony Danych Osobowych 23 maja 2018 r., tj.
+przed dniem wejścia w życie rozporządzenia 2016/679, proceduralnie należy stosować
+przepisy rozporządzenia 2016/679. Zgodnie z art. 18 ust. 1 pkt 2 ustawy z dnia 29
+sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 ze zm.; zwana
+dalej: „ustawą”) w przypadku naruszenia przepisów o ochronie danych osobowych Gene‐
+ralny Inspektor z urzędu lub na wniosek osoby zainteresowanej, w drodze decyzji admi‐
+nistracyjnej, nakazuje przywrócenie stanu zgodnego z prawem, a w szczególności uzu‐
+pełnienie, uaktualnienie, sprostowanie, udostępnienie lub nieudostępnienie danych oso‐
+bowych.
+Zgodnie z art. 6 ust. 1 lit. f rozporządzenia 2016/679 przetwarzanie jest zgodne z pra‐
+wem wyłącznie w przypadkach, gdy przetwarzanie jest niezbędne do celów wynikają‐
+cych z prawnie uzasadnionych interesów realizowanych przez administratora lub przez
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_1026/content
+
+2025-09-03 13:57
+
+Decyzja ZSPR.440.1026.2018
+
+Strona 4 z 7
+
+stronę trzecią, z wyjątkiem sytuacji, w których nadrzędny charakter wobec tych intere‐
+sów mają interesy lub podstawowe prawa i wolności osoby, której dane dotyczą, wyma‐
+gające ochrony danych osobowych, w szczególności gdy osoba, której dane dotyczą, jest
+dzieckiem. Jak ustalił Prezes Urzędu Ochrony Danych Osobowych w toku przeprowadzo‐
+nego postępowania administracyjnego, Skarżący ma podstawy do uzyskania danych w
+zakresie numeru IP komputera użytkownika posługującego się nickiem „(…)”. W przed‐
+miotowej sprawie podstawą taką jest ochrona prawa Skarżącego, w tym szczególnie jego
+dobrego imienia, której zamierza dochodzić przed sądem. Skarżący poczynił bowiem
+działania w tej sprawie, wnosząc prywatny akt oskarżenia w sprawie o przestępstwo z
+art. 212 kk.
+Stosownie do brzmienia przepisu art. 18 ust. 6 ustawy z dnia 18 lipca 2002 r. o
+świadczeniu usług drogą elektroniczną (Dz.U. 2019 poz. 123 t.j.), usługodawca udziela
+informacji o danych, o których mowa w ust. 1-5, organom państwa na potrzeby prowa‐
+dzonych przez nie postępowań. Powyższy przepis istotnie kształtuje po stronie usługo‐
+dawcy świadczącego usługi drogą elektroniczną obowiązek udostępnienia danych osobo‐
+wych osób korzystających z tych usług organom państwa, na potrzeby prowadzonych
+przez nie postępowań. Tym samym art. 18 ust. 6 ustawy o świadczeniu usług drogą elek‐
+troniczną stanowi przepis prawa, o którym mowa w art. 23 ust. 1 pkt 2 ustawy (obecnie
+art. 6 ust. 1 lit. c) rozporządzenia 2016/679), nakładający wprost na określone podmioty
+określone prawa i obowiązki w zakresie przetwarzania danych osobowych usługobiorców
+usług świadczonych drogą elektroniczną. Organy państwa powołujące się na potrzeby
+prowadzonych postępowań, są zatem uprawnione do pozyskania niezbędnych dla tych
+celów danych osobowych osób korzystających z usług świadczonych drogą elektronicz‐
+ną, a przetwarzanych przez podmioty świadczące te usługi – legitymują się bowiem
+przesłanką zezwalającą na takie ich przetwarzanie określoną w art. 23 ust. 1 pkt 2 usta‐
+wy (obecnie art. 6 lit. c) rozporządzenia 2016/679). Istnienie omawianego art. 18 ust. 6
+ustawy o świadczeniu usług drogą elektroniczną w żadnym razie nie wyklucza jednak
+przetwarzania danych osobowych użytkowników usług świadczonych drogą elektronicz‐
+ną w sytuacji, gdy spełnione zostaną inne przesłanki przetwarzania tych danych określo‐
+ne przepisami ustawy, samodzielne i niezależne od przesłanki z art. 23 ust. 1 pkt 2 usta‐
+wy (obecnie art. 6 lit. c) rozporządzenia 2016/679 – np. przesłanka z art. 23 ust. 1 pkt 5
+ustawy (obecnie odpowiednikiem ww. przesłanki jest art. 6 ust. 1 lit. f) rozporządzenia
+2016/679).
+Odnosząc powyższe do okoliczności rozpatrywanej sprawy wskazać należy, że w ocenie
+Prezesa Urzędu Ochrony Danych Osobowych wniosek Skarżącego o udostępnienie
+danych osobowych użytkownika o nicku „(…)”, w tym numeru jego adresu IP, znajdował
+uzasadnienie prawne w art. 23 ust. 1 pkt 5 ustawy, a obecnie ma uzasadnienie w art. 6
+lit. f rozporządzenia 2016/679, i jako taki powinien zostać przez Przedsiębiorcę uwzględ‐
+niony. Skarżący bowiem uzasadnił wniosek zamiarem wystąpienia przeciwko autorowi
+tego wpisu na drogę sądową i niezbędnością żądanych danych z punktu widzenia możli‐
+wości dochodzenia wobec tej osoby roszczeń na drodze sądowej o zniesławienie. W myśl
+art. 212 § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2018 r., 1600 tj.;
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_1026/content
+
+2025-09-03 13:57
+
+Decyzja ZSPR.440.1026.2018
+
+Strona 5 z 7
+
+dalej jako: „kk”) kto pomawia inną osobę, grupę osób, instytucję, osobę prawną lub jed‐
+nostkę organizacyjną niemającą osobowości prawnej o takie postępowanie lub właściwo‐
+ści, które mogą poniżyć ją w opinii publicznej lub narazić na utratę zaufania potrzebnego
+dla danego stanowiska, zawodu lub rodzaju działalności, podlega grzywnie albo karze
+ograniczenia wolności. Zgodnie z § 2 powołanego wyżej art. 212 kk, jeżeli sprawca do‐
+puszcza się czynu określonego w § 1 za pomocą środków masowego komunikowania,
+podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku. Po‐
+nadto Skarżący podjął już kroki prawne zmierzające do realizacji swoich praw – złożył bo‐
+wiem do Sądu Rejonowego w (…) wniosek o zlecenie Policji dokonania czynności dowo‐
+dowych polegających na ustaleniu imienia, nazwiska oraz adres autora przedmiotowego
+wpisu. Sąd Rejonowy uznał, że Skarżący powinien we własnym zakresie ustalić dane oso‐
+bowe niezbędne do skierowania prywatnego aktu oskarżenia przeciwko autorowi komen‐
+tarza. Skarżący złożył również oświadczenie, że przekaże organom ścigania dane
+osobowe autora ww. wpisu zamieszczonego na łamach portalu www.(…).pl.
+Zindywidualizowanie autora kwestionowanego wpisu stanowi niezbędny warunek docho‐
+dzenia przeciwko niemu prywatnego aktu oskarżenia. Zgodnie bowiem z art. 332 § 2 pkt
+1 ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2018 r., poz.
+1987 ze zm.; dalej jako: „kpk”): „Akt oskarżenia powinien zawierać: 1) imię i nazwisko
+oskarżonego, inne dane o jego osobie, dane o zastosowaniu środka zapobiegawczego
+oraz zabezpieczenia majątkowego”.
+Odnosząc się do tego, czym jest adres IP i czy stanowi on daną osobową w rozumieniu
+rozporządzenia 2016/679, stwierdzić należy, że zgodnie z art. 4 pkt. 1 rozporządzenia
+2016/679 "dane osobowe" oznaczają wszelkie informacje o zidentyfikowanej lub
+możliwej do zidentyfikowania osobie fizycznej ("osobie, której dane dotyczą"); możliwa
+do zidentyfikowania osoba fizyczna to osoba, którą można bezpośrednio lub pośrednio
+zidentyfikować, w szczególności na podstawie identyfikatora takiego jak imię i nazwisko,
+numer identyfikacyjny, dane o lokalizacji, identyfikator internetowy lub jeden bądź kilka
+szczególnych czynników określających fizyczną, fizjologiczną, genetyczną, psychiczną,
+ekonomiczną, kulturową lub społeczną tożsamość osoby fizycznej.
+Informacje, które wiążą się z określoną osobą – choćby pośrednio – niosą pewien komu‐
+nikat o niej. Dlatego też informacją dotyczącą osoby jest zarówno informacja odnosząca
+się do niej wprost, jak i taka, która odnosi się bezpośrednio do przedmiotów czy urzą‐
+dzeń, ale poprzez możliwość powiązania tych przedmiotów czy urządzeń z określoną
+osobą pośrednio stanowi informację także o niej samej. Adres IP (Internet Protocol Ad‐
+dress) jest unikatowym numerem przyporządkowanym urządzeniom sieci komputero‐
+wych. Jest zatem informacją dotyczącą komputera a nie konkretnej osoby fizycznej,
+zwłaszcza wtedy gdy możliwe jest współużyczenie jednego adresu IP przez wielu użyt‐
+kowników w ramach sieci lokalnej. Adres IP nie zawsze wobec tego może być traktowany
+jako dane osobowe w rozumieniu rozporządzenia 2016/679. Jednak tam gdzie adres IP
+jest na dłuższy okres czasu lub na stałe przypisany do konkretnego urządzenia, a urzą‐
+dzenie to przypisane jest konkretnemu użytkownikowi, należy uznać, że stanowi on daną
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_1026/content
+
+2025-09-03 13:57
+
+Decyzja ZSPR.440.1026.2018
+
+Strona 6 z 7
+
+osobową, jest to bowiem informacja umożliwiająca identyfikację konkretnej osoby fizycz‐
+nej [wyrok Naczelnego Sądu Administracyjnego z dnia 19 maja 2011 r., sygn. akt I OSK
+1079/10].
+Mając na uwadze powyższe, nie budzi wątpliwości niezbędność dysponowania przez
+Skarżącego informacjami indywidualizującymi osobę, przeciwko której zamierza skiero‐
+wać prywatny akt oskarżenia. W sytuacji, gdy Skarżący nie dysponuje zasadniczo
+żadnymi informacjami o osobie, która posługując się nazwą użytkownika „(…)” zamieści‐
+ła na stronie internetowej www.(…).pl wpis uznany przez Skarżącego za zniesławiający
+go, wyłącznie poza tymi, które wynikały z ich opublikowania (tj. – oprócz daty, godziny,
+treści publikacji), którymi posłużyła się ta osoba w celu ukrycia swojej tożsamości, za‐
+sadnym jest przyjęcie, że podejmowanie przez Skarżącego działania służą ustaleniu toż‐
+samości tej osoby, w celu pociągnięcia jej do odpowiedzialności karnej w związku z tre‐
+ścią publikacji i mieszczą się w pojęciu prawnie usprawiedliwionego celu. Oczywistym
+jest, że pozyskanie (przetwarzanie) danych osobowych w ww. celu w każdym przypadku
+zostanie uznane przez osobę, której dane te dotyczą, za sprzeczne z jej interesem. Oko‐
+liczność ta – zwłaszcza mając na uwadze prawne gwarancje obrony przed roszczeniami
+strony przeciwnej – nie świadczy jednak o naruszeniu jej praw i wolności. Przyjęcie prze‐
+ciwnego stanowiska skutkowałoby bezzasadną ochroną tego, kto mógł dopuścić się bez‐
+prawnej ingerencji w sferę prawnie chronionych interesów innej osoby (zwłaszcza prze‐
+konany o anonimowości, jaką gwarantuje mu sieć Internet) przed ewentualną
+odpowiedzialnością za jego działania.
+W ocenie Prezesa Urzędu Ochrony Danych Osobowych Przedsiębiorca bezpodstawnie od‐
+mówił Skarżącemu udostępnienia wnioskowanych danych w zakresie numeru IP urządze‐
+nia, za pomocą którego dokonano wpisu, pomimo kilkukrotnie ponawianych wniosków
+Skarżącego, uniemożliwiając mu tym samym dochodzenie swoich praw przed sądem.
+Dla potwierdzenia słuszności prezentowanego w niniejszej sprawie stanowiska raz jesz‐
+cze powołać warto wyrok Wojewódzkiego Sądu Administracyjnego w Warszawie z dnia 3
+lutego 2010 r. (sygn. akt II SA/Wa 1598/09), w którym wskazano w szczególności cyt.:
+„(…) prawo do swobodnej, anonimowej wypowiedzi, nie może chronić osób, które naru‐
+szają prawa innych osób, od odpowiedzialności za wypowiedziane słowa. W sieci nikt nie
+jest i nie może być anonimowy. Wprawdzie ustalenie tożsamości danej osoby może być
+utrudnione, jednak z uwagi na to, że każdy komputer zostawia w Internecie ślad – adres
+IP, za pomocą którego można ustalić komputer, z którego dokonano wpisu, stwarza to
+możliwość pośredniego ustalenia tożsamości osoby, która dokonała tego wpisu (…)
+uczestnik postępowania posiada informacje o dacie logowania, pseudonimach osób do‐
+konujących tej czynności i treści dokonanych wpisów. W ocenie Sądu, powyższe informa‐
+cje, zestawione z numerami IP umożliwiają jednoznaczne określenie tożsamości osób,
+które naruszyły dobra osobiste uczestnika postępowania. (…) żądane przez uczestnika
+postępowania adresy IP stanowią w niniejszej sprawie dane osobowe w rozumieniu art. 6
+ust. 1 ustawy o ochronie danych osobowych, a nakazanie ich udostępnienia stanowi re‐
+alizację dyspozycji ust. 2 tego przepisu, tzn. stworzy możliwość zidentyfikowania osoby,
+bądź osób, których tożsamość można określić pośrednio. (…) sam adres IP komputera
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_1026/content
+
+2025-09-03 13:57
+
+Decyzja ZSPR.440.1026.2018
+
+Strona 7 z 7
+
+nie wystarcza do wskazania osoby, która z niego korzystała, ale w zestawieniu z innymi
+informacjami pozwala przypuszczać, że jej tożsamość można ustalić. W ocenie Sądu,
+identyfikacja tej osoby nie musi być związana z nadmiernymi kosztami, czasem lub
+działaniami (…)”.
+Ponadto, Naczelny Sąd Administracyjny w wyroku z dnia 21 sierpnia 2013 r. podkreślił,
+że „(…) osoba dokonująca tych naruszeń musi mieć świadomość, że nie może naduży‐
+wać swoich praw naruszając prawa innych. Nie ma to nic wspólnego z ograniczaniem za‐
+sady wolności słowa. Wolność wyrażania swoich poglądów związana jest z ponoszeniem
+za poglądy te odpowiedzialności. Każdy kto wypowiada się publicznie, poza Internetem,
+ma świadomość co do ewentualnych konsekwencji wypowiedzi, które naruszają podsta‐
+wowe, ustawowo chronione prawa innych osób. Nieuzasadnione niczym jest natomiast
+twierdzenie, że ktoś wypowiadający się anonimowo, w sposób naruszający dobra innych
+podmiotów ma podlegać szczególnej ochronie i to jego dane osobowe są dobrem, które
+ustawodawca miał zamiar chronić w pierwszej kolejności”.
+Należy wskazać, że to nie wydawca dziennika internetowego, jakim jest Przedsiębiorca,
+ani organ ochrony danych osobowych ocenia, czy przedmiotowy wpis miał charakter
+zniesławiający. Oceny w tym zakresie dokonuje bowiem właściwy sąd, a Skarżący ma
+prawo korzystać z ochrony przed sądem, o ile czuje się zniesławiony.
+Okoliczności sprawy przemawiają za tym, że udostępnienie na rzecz Skarżącego danych
+osobowych osoby posługującej się nickiem „(…)” jest niezbędne w celu skierowania do
+sądu prywatnego aktu oskarżenia w trybie art. 212 kk. W tym celu Skarżący podjął sze‐
+reg czynności, w tym zwracał się do Przedsiębiorcy o udostępnienie danych osobowych
+ww. osoby, które nie doprowadziły jednak do spełnienia żądań Skarżącego.
+Reasumując, Prezes Urzędu Ochrony Danych Osobowych stoi na stanowisku, że Przed‐
+siębiorca bezpodstawnie odmówił Skarżącemu udostępnienia numeru IP autora wpisu o
+nicku „(…)”, uniemożliwiając tym samym Skarżącemu podjęcie dalszych działań, które
+pozwolą na skuteczne zainicjowanie przeciwko tej osobie postępowania sądowego – sku‐
+tecznego skierowania do Sądu Rejonowego w (…) prywatnego aktu oskarżenia.
+Stosownie do art. 18 ust. 1 pkt 2 ustawy w przypadku naruszenia przepisów o ochronie
+danych osobowych Prezes Urzędu Ochrony Danych Osobowych z urzędu lub na wniosek
+osoby zainteresowanej, w drodze decyzji administracyjnej, nakazuje udostępnienie wnio‐
+skowanych danych osobowych. Mając na uwadze okoliczności przedmiotowej sprawy,
+Prezes Urzędu Ochrony Danych Osobowych, upoważniony jest do nakazania Przedsię‐
+biorcy udostępnienia na rzecz Skarżącego danych osobowych autorów kwestionowanych
+wpisów w zakresie, w jakim podmiot tymi danymi dysponuje - tj. informacji o numerze IP
+urządzenia, z którego osoba o nicku „(…)” wysłała kwestionowany komentarz.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2018:zspr_440_1026/content
+
+2025-09-03 13:57
+

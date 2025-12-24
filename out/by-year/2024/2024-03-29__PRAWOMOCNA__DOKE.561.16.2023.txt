@@ -1,0 +1,389 @@
+Warszawa, 29 marca 2024
+PRAWOMOCNA
+
+Decyzja
+DOKE.561.16.2023
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2023 r., poz. 775 ze zm.) w związku z art. 7 ust. 1 i 2, art. 60
+ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781
+t.j.) oraz na podstawie art. 57 ust. 1 lit. a) i h), art. 58 ust. 2 lit. b) w związku z art. 31
+oraz art. 58 ust. 1 lit. a) i e) Rozporządzenia Parlamentu Europejskiego i Rady UE
+2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych
+oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz.
+UE L 119 z 4 maja 2016, str. 1, ze zmianami ogłoszonymi w Dz. Urz. UE L 127 z 23 maja
+2018, str. 2, oraz w Dz. Urz. UE L 74 z 4 marca 2021, str. 35), zwanego dalej „Rozporzą‐
+dzeniem 2016/679”,
+po przeprowadzeniu wszczętego z urzędu postępowania administracyjnego w przedmio‐
+cie nałożenia administracyjnej kary pieniężnej na Pana A. K. prowadzącego działalność
+gospodarczą pod firmą E. z siedzibą w S. przy ul. (…), Prezes Urzędu Ochrony Danych
+Osobowych
+udziela upomnienia Panu A. K. prowadzącemu działalność gospodarczą pod firmą E. z
+siedzibą w S. przy ul. (…) za naruszenie przepisów art. 31 oraz art. 58 ust. 1 lit. a) i e)
+Rozporządzenia 2016/679, polegające na braku współpracy z Prezesem Urzędu Ochrony
+Danych Osobowych w ramach wykonywania przez niego jego zadań oraz na niezapew‐
+nieniu Prezesowi Urzędu Ochrony Danych Osobowych dostępu do danych osobowych i
+informacji niezbędnych do realizacji jego zadań w postępowaniu o sygn. (…).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:doke_561_16/content
+
+2025-09-03 13:26
+
+Decyzja DOKE.561.16.2023
+
+Strona 2 z 9
+
+Uzasadnienie
+
+Stan faktyczny
+Do Prezesa Urzędu Ochrony Danych Osobowych (zwanego dalej „Prezesem UODO”, „Or‐
+ganem”) w dniu 24 lutego 2021 r. wpłynęło zgłoszenie naruszenia ochrony danych oso‐
+bowych Pana A. K. prowadzącego działalność gospodarczą pod firmą E. z siedzibą w S.
+przy ul. (…) (zwanego dalej „Przedsiębiorcą”). Naruszenie to polegało na zaszyfrowaniu
+za pomocą oprogramowania ransomware serwera Przedsiębiorcy. W związku z koniecz‐
+nością pozyskania informacji, które są niezbędne Prezesowi UODO do oceny okoliczności
+związanych z naruszeniem ochrony danych osobowych u Przedsiębiorcy, Prezes UODO
+wszczął postępowanie wyjaśniające o sygn. (…).
+W ramach wyżej wskazanego postępowania – działając na podstawie art. 58 ust. 1 lit. a)
+i e) Rozporządzenia 2016/679 – Prezes UODO pismem z 5 marca 2021 r. wezwał
+Przedsiębiorcą do wskazania:
+1) Czy przeprowadził analizę ryzyka dla procesu przetwarzania danych osobowych w
+oparciu o zakres pozyskiwanych danych, które lokował w elektronicznej bazie da‐
+nych?
+2) Czy przeprowadził analizę ryzyka dla procesu przetwarzania danych osobowych za
+pośrednictwem aplikacji działającej w oparciu o infrastrukturę objętą naruszeniem,
+uwzględniającą również ryzyko zdarzenia wystąpienia luki umożliwiającej nieupraw‐
+nione pobranie plików z przestrzeni dyskowej serwera zarządzanego przez Przedsię‐
+biorcę?
+3) Czy przeprowadził analizę ryzyka dla:
+a) założeń przyjętej konfiguracji węzłów sieci lokalnej,
+b) warunków konfiguracji sieciowej oraz konfiguracji usług sieciowych realizowa‐
+nych przez serwer lub serwery danych, na którym lub których stwierdzono
+wystąpienie incydentu,
+c) wpływu dostępności sieci zewnętrznej i wewnętrznej dla funkcjonowania
+uruchomionych usług serwera danych,
+d) wpływu dostępności sieci zewnętrznej i wewnętrznej dla funkcjonowania stacji
+roboczych sieci lokalnej, które miały dostęp do danych osobowych?
+4) Czy i jakie środki podjął w celu zabezpieczenia danych osobowych swoich pracowni‐
+ków oraz klientów przetwarzanych w infrastrukturze, w której stwierdzono ingeren‐
+cję polegającą na nieuprawnionym przeniesieniu bazy danych poza obszar dostępny
+dla Przedsiębiorcy? W szczególności, jakie przyjęto środki zabezpieczenia technicz‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:doke_561_16/content
+
+2025-09-03 13:26
+
+Decyzja DOKE.561.16.2023
+
+Strona 3 z 9
+
+nego i organizacyjnego wymagane przepisami art. 24 i art. 32 Rozporządzenia
+2016/679?
+5) Czy, a jeśli tak, to w jaki sposób dokonywał regularnego testowania, mierzenia i oce‐
+niania skuteczności środków technicznych i organizacyjnych mających zapewnić
+bezpieczeństwo przetwarzanych danych osobowych w systemach informatycznych
+objętych naruszeniem, w szczególności w zakresie podatności, błędów oraz ich moż‐
+liwych skutków dla tych systemów oraz podjętych działań minimalizujących ryzyko
+ich wystąpienia?
+6) Czy na bieżąco dokonywał aktualizacji systemu operacyjnego serwerów, stanowisk
+komputerowych oraz czy na bieżąco aktualizował oprogramowanie antywirusowe i
+zabezpieczające infrastrukturę sieciową?
+7) Czy ustalił element infrastruktury IT, który odpowiada za powstanie naruszenia?
+8) Czy ustalił podatność, którą użyto aby dokonać zdalnego wyeksportowania plików
+danych z serwera?
+9) Które kategorie danych wskazanych w pkt 6A formularza zgłoszenia naruszenia
+ochrony danych odnoszą się do pracowników Przedsiębiorcy, a które do klientów
+oraz, czy dane osobowe pracowników Przedsiębiorcy oraz dane klientów
+współistniały w jednej bazie danych?
+10) Metodyki, według której uzyskano niską wartość ryzyka naruszenia praw i wolności
+osób fizycznych.
+11) Jak była zabezpieczona zawartość plików przed odczytaniem informacji przez osoby
+nieuprawnione, które pobrały pliki na własne serwery, aby zapewnić niską wartość
+ryzyka naruszenia praw i wolności osób fizycznych, których dane Przedsiębiorca
+utracił.
+12) Przedłożenie zanonimizowanego zawiadomienia o naruszeniu do osób, których
+dane dotyczą.
+Wezwanie to skierowane zostało drogą elektroniczną za pośrednictwem Elektronicz‐
+nej Platformy Usług Administracji Publicznej (zwanej dalej „ePUAP”) i zostało dorę‐
+czone Przedsiębiorcy w dniu 9 marca 2021 r., lecz pozostało bez odpowiedzi.
+W celu ustalenia przyczyn braku odpowiedzi na pismo Prezesa UODO, pracownik Depar‐
+tamentu (…) Urzędu Ochrony Danych Osobowych w dniu 26 marca 2021 r. skontaktował
+się z Przedsiębiorcą. Podczas rozmowy telefonicznej Przedsiębiorca wskazał, że na jego
+koncie ePUAP nie ma przedmiotowej korespondencji, co poskutkowało doręczeniem ni‐
+niejszej korespondencji w dniu 30 marca 2021 r. w trybie określonym w art. 39 ustawy z
+dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r., poz.
+775 ze zm.)(zwanej dalej „k.p.a.”) na adres stałego miejsca wykonywania przez Przed‐
+siębiorcę działalności gospodarczej, tj. ul. (…) S. Niniejsze nie doprowadziło do złożenia
+wyjaśnień przez Przedsiębiorcę w wymaganym przez organ nadzorczy zakresie.
+Wobec powyższego, Prezes UODO w dniu 11 czerwca 2021 r. ponownie wezwał Przedsię‐
+biorcę do złożenia wyjaśnień w postaci udzielenia odpowiedzi na pytania zadane w kore‐
+spondencji z 5 marca 2021 r. i 26 marca 2021 r. (zob. pkt 2 – 3 uzasadnienia niniejszej
+decyzji) w terminie 14 dni od dnia doręczenia przedmiotowej korespondencji. Pismo to
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:doke_561_16/content
+
+2025-09-03 13:26
+
+Decyzja DOKE.561.16.2023
+
+Strona 4 z 9
+
+zostało Przedsiębiorcy doręczone w dniu 16 czerwca 2021 r. pod adresem jego stałego
+miejsca wykonywania działalności gospodarczej (zob. pkt 3 uzasadnienia niniejszej decy‐
+zji), lecz tak jak w przypadku wezwania z 26 marca 2021 r. pozostało bez odpowiedzi
+(zob. pkt 3 uzasadnienia niniejszej decyzji).
+W związku z brakiem odpowiedzi Przedsiębiorcy na wezwania organu nadzorczego z 5
+marca 2021 r., 26 marca 2021 r. oraz 11 czerwca 2021 r., Prezes UODO w dniu 18 lutego
+2022 r. ponownie wezwał Przedsiębiorcę do złożenia wyjaśnień w sprawie o sygn. (…)
+poprzez udzielenie odpowiedzi na pytania zadane w ww. korespondencji (zob. pkt 2 – 4
+uzasadnienia niniejszej decyzji), a także do przesłania kopii dokumentacji określonej w
+art. 33 ust. 5 Rozporządzenia 2016/679. Niniejsze pismo doręczono Przedsiębiorcy w
+dniu 23 lutego 2022 r. pod adresem jego stałego miejsca wykonywania działalności go‐
+spodarczej (zob. pkt 3 uzasadnienia niniejszej decyzji) i analogicznie jak w przypadku ko‐
+respondencji z 5 marca 2021 r., 26 marca 2021 r. oraz 11 czerwca 2021 r., Przedsiębior‐
+ca nie udzielił odpowiedzi na zadane przez organ nadzorczy pytania.
+Wezwania kierowane do Przedsiębiorcy w postępowaniu o sygn. (…), tj. pismo z 5 marca
+2021 r., 26 marca 2021 r., 11 czerwca 2021 r. oraz pismo z 18 lutego 2022 r., zawierały
+pouczenie wskazujące, że brak złożenia wyjaśnień w sprawie skutkować może nałoże‐
+niem na Przedsiębiorcę administracyjnej kary pieniężnej zgodnie z art. 83 ust. 5 lit. e)
+Rozporządzenia 2016/679.
+Okoliczności stanu faktycznego Prezes UODO ustalił na podstawie całokształtu korespon‐
+dencji urzędowej, wystosowanej przez Prezesa UODO do Przedsiębiorcy, która znajduje
+się w aktach sprawy o sygn. (…). Korespondencja ta odzwierciedla w sposób pełny i wy‐
+czerpujący całokształt prób uzyskania przez Prezesa UODO dostępu do danych osobo‐
+wych i informacji potrzebnych do realizacji swoich zadań – w tym przypadku do rozpa‐
+trzenia sprawy o sygn. (…), a z drugiej strony odzwierciedla brak reakcji Przedsiębiorcy
+na żądania Prezesa UODO w tym postępowaniu administracyjnym.
+
+Postępowanie
+W związku z nieudzieleniem przez Przedsiębiorcę informacji niezbędnych do rozstrzy‐
+gnięcia sprawy o sygn. (…), Prezes UODO wszczął wobec niego z urzędu – na podstawie
+art. 83 ust. 4 lit. a) oraz 83 ust. 5 lit. e) Rozporządzenia 2016/679 – niniejsze postępowa‐
+nie administracyjne o sygn. DOKE.561.16.2023 w przedmiocie nałożenia na niego admi‐
+nistracyjnej kary pieniężnej za naruszenie art. 31 oraz art. 58 ust. 1 lit. a) i e) Rozporzą‐
+dzenia 2016/679. O wszczęciu postępowania Przedsiębiorca został poinformowany pi‐
+smem z 8 września 2023 r. (znak: DOKE.561.16.2023). Korespondencja ta, skierowana
+na adres stałego miejsca wykonywania przez Przedsiębiorcę działalności gospodarczej,
+awizowana dwukrotnie w dniach: 12 września 2023 r. oraz 20 września 2023 r., nie zo‐
+stała przez Przedsiębiorcę odebrana. W związku z powyższym Prezes UODO – stosownie
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:doke_561_16/content
+
+2025-09-03 13:26
+
+Decyzja DOKE.561.16.2023
+
+Strona 5 z 9
+
+do brzmienia art. 44 § 4 w związku z art. 42 § 1 k.p.a. – uznał ją za doręczoną Przedsię‐
+biorcy z dniem 26 września 2023 r. Pismem tym Przedsiębiorca został wezwany, celem
+ustalenia podstawy wymiaru administracyjnej kary pieniężnej w oparciu o art. 101a ust.
+1 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz.
+1781 t.j., zwanej dalej „u.o.d.o.”), do przedstawienia informacji o osiągniętych przez nie‐
+go dochodach w 2022 roku. Przedsiębiorca został poinformowany na czym polega zarzu‐
+cane mu naruszenie; został również pouczony o sankcjach grożących za to naruszenie, a
+także o istniejącej nadal możliwości złożenia wyjaśnień, których żądał od niego Prezes
+UODO w postępowaniu o sygn. (…), co mogłoby wpłynąć łagodząco na wymiar admini‐
+stracyjnej kary pieniężnej orzeczonej w niniejszej sprawie. Ponadto poinformowany zo‐
+stał o możliwości wypowiedzenia się – przed wydaniem decyzji administracyjnej, co do
+zebranych dowodów i materiałów oraz zgłoszonych żądań.
+Wobec braku odpowiedzi Przedsiębiorcy na informację o wszczęciu postępowania i o
+zgromadzeniu materiału dowodowego z 8 września 2023 r. o sygn. DOKE.561.16.2023
+pracownik Departamentu (…) Urzędu Ochrony Danych Osobowych w dniu 17 stycznia
+2024 r. skierował – za pośrednictwem poczty elektronicznej na adres: (…) – wiadomość
+do Przedsiębiorcy z prośbą o pilny kontakt w sprawie o sygn. DOKE.561.16.2023. Powyż‐
+sza czynność doprowadziła do kontaktu Przedsiębiorcy z Urzędem Ochrony Danych Oso‐
+bowych, w ramach której Przedsiębiorca zobowiązał się do odpowiedzi na niniejszą kore‐
+spondencję w postępowaniu o sygn. (…). W dniu 1 lutego 2024 r. Przedsiębiorca
+skierował do Organu pismo z prośbą o „(…) przedłużenie terminu dla udzielenia odpo‐
+wiedzi na pytania z pisma DOKE.561.16.2023 (…)”. W jego treści wskazał, że z powodów
+osobistych nie mógł wywiązać się z obowiązków na nim ciążących w terminie zakreślo‐
+nym przez organ nadzorczy. Powyższa prośba została przez Prezesa UODO uwzględnio‐
+na, w związku z czym, Przedsiębiorca w dniu 21 lutego 2024 r. złożył wyjaśnienia.
+W piśmie z 21 lutego 2024 r. Przedsiębiorca złożył odpowiedź na zadane przez organ
+nadzorczy pytania w postępowaniu o sygn. (…) (zob. pkt 2 i 5 uzasadnienia niniejszej de‐
+cyzji), w szczególności wskazał, w jaki sposób przechowywał kopię danych, czyje dane
+osobowe przetwarza w ramach prowadzonej działalności gospodarczej, jaki jest zakres
+przetwarzanych przez niego danych osobowych, informacje o przeprowadzonych aktuali‐
+zacjach programu antywirusowego i systemu operacyjnego, informacje dotyczące plików
+zapisanych na serwerze oraz podstawowe dane dotyczące serwera. Ponadto poinformo‐
+wał organ nadzorczy o nieprzeprowadzonej analizie ryzyka oraz o nieustalonej podatno‐
+ści, którą użyto do zdalnego wyeksportowania plików danych z serwera. Pismem tym
+Przedsiębiorca podjął próbę usprawiedliwienia braku odpowiedzi na wezwania organu
+nadzorczego swoją trudną sytuacją rodzinną. Stąd wskazał, że jego zachowanie nie było
+działaniem celowym, a tym samym wyraził wolę współpracy z Prezesem UODO.
+Po rozpatrzeniu całości materiału dowodowego zebranego w sprawie, Prezes Urzędu
+Ochrony Danych Osobowych zważył, co następuje.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:doke_561_16/content
+
+2025-09-03 13:26
+
+Decyzja DOKE.561.16.2023
+
+Strona 6 z 9
+
+Przepisy prawne
+Zgodnie z art. 57 ust. 1 lit. a) Rozporządzenia 2016/679, Prezes UODO, jako organ nad‐
+zorczy w rozumieniu art. 51 Rozporządzenia 2016/679 na swoim terytorium monitoruje i
+egzekwuje stosowanie tego rozporządzenia. W ramach swoich kompetencji Prezes UODO
+m.in. rozpatruje skargi wniesione przez osobę, której dane dotyczą, lub przez podmiot,
+organizację lub zrzeszenie zgodnie z art. 80, w odpowiednim zakresie prowadzi postępo‐
+wania w przedmiocie tych skarg i w rozsądnym terminie informuje skarżącego o postę‐
+pach i wynikach tych postępowań (art. 57 ust. 1 lit. f) Rozporządzenia 2016/679) oraz
+prowadzi postępowania w sprawie stosowania niniejszego rozporządzenia, w tym na
+podstawie informacji otrzymanych od innego organu nadzorczego lub innego organu
+publicznego (art. 57 ust. 1 lit. h) Rozporządzenia 2016/679).
+Dla umożliwienia realizacji tak określonych zadań, Prezesowi UODO przysługuje szereg
+określonych w art. 58 ust. 1 Rozporządzenia 2016/679 uprawnień w zakresie prowadzo‐
+nych postępowań, w tym uprawnienie do nakazania administratorowi i podmiotowi prze‐
+twarzającemu dostarczenia wszelkich informacji potrzebnych do realizacji swoich zadań
+(art. 58 ust. 1 lit. a) Rozporządzenia 2016/679) oraz uprawnienie do uzyskania od admi‐
+nistratora i podmiotu przetwarzającego dostępu do wszelkich danych osobowych i infor‐
+macji niezbędnych do realizacji swoich zadań (art. 58 ust. 1 lit. e) Rozporządzenia
+2016/679).
+Naruszenie przepisów Rozporządzenia 2016/679 polegające na niezapewnieniu przez ad‐
+ministratora lub podmiot przetwarzający dostępu do danych osobowych i informacji
+skutkujące naruszeniem uprawnień organu określonych w art. 58 ust. 1 tego aktu praw‐
+nego, podlega – zgodnie z art. 83 ust. 5 lit. e) in fine Rozporządzenia 2016/679 – admini‐
+stracyjnej karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku przedsiębior‐
+stwa – w wysokości do 4% jego całkowitego rocznego światowego obrotu z poprzedniego
+roku obrotowego, przy czym zastosowanie ma kwota wyższa.
+Dodatkowo zarówno administrator jak i podmiot przetwarzający obowiązani są na żąda‐
+nie organu nadzorczego współpracować z nim w ramach wykonywania przez niego jego
+zadań, o czym stanowi art. 31 Rozporządzenia 2016/679. Niewywiązanie się z tego obo‐
+wiązku zagrożone jest – zgodnie z art. 83 ust. 4 lit. a) Rozporządzenia 2016/679 – admi‐
+nistracyjną karą pieniężną w wysokości do 10 000 000 EUR, a w przypadku przedsiębior‐
+stwa – w wysokości do 2% jego całkowitego rocznego światowego obrotu z poprzedniego
+roku obrotowego, przy czym zastosowanie ma kwota wyższa.
+Prezesowi UODO przysługuje ponadto szereg określonych w art. 58 ust. 2 Rozporządze‐
+nia 2016/679 uprawnień naprawczych, w tym prawo udzielenia upomnienia administra‐
+torowi lub podmiotowi przetwarzającemu w przypadku naruszenia przepisów Rozporzą‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:doke_561_16/content
+
+2025-09-03 13:26
+
+Decyzja DOKE.561.16.2023
+
+Strona 7 z 9
+
+dzenia 2016/679 przez operacje przetwarzania. Zgodnie z motywem 148 Rozporządze‐
+nia 2016/679, aby egzekwowanie przepisów Rozporządzenia 2016/679 było skuteczniej‐
+sze, należy za jego naruszenie nakładać sankcje, w tym administracyjne kary pieniężne –
+oprócz lub zamiast odpowiednich środków nakładanych na mocy Rozporządzenia
+2016/679 przez organ nadzorczy. Jeżeli naruszenie jest niewielkie, karę pieniężną można
+zastąpić upomnieniem. Powinno się jednak zwrócić uwagę na charakter, wagę oraz czas
+trwania naruszenia, na to, czy naruszenie nie było umyślne, na działania podjęte przez
+administratora dla zminimalizowania szkody, na stopień odpowiedzialności lub wszelkie
+mające znaczenie wcześniejsze naruszenia, na sposób, w jaki organ nadzorczy dowie‐
+dział się o naruszeniu, na przestrzeganie środków nałożonych na administratora lub pod‐
+miot przetwarzający, na stosowanie kodeksów postępowania oraz wszelkie inne czynniki
+obciążające lub łagodzące.
+Stosowanie do art. 60 u.o.d.o. postępowanie w sprawie naruszenia przepisów o ochronie
+danych osobowych jest prowadzone przez Prezesa UODO. Z kolei art. 7 ust. 1 u.o.d.o.
+stanowi, że w sprawach nieuregulowanych w tej ustawie do postępowań administracyj‐
+nych przed Prezesem UODO (w tym w postępowaniach w przedmiocie nałożenia admini‐
+stracyjnej kary pieniężnej, o których mowa w Rozdziale 11 u.o.d.o.) stosuje się przepisy
+ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z
+2023 r. poz. 775 ze zm.). Zgodnie z art. 7 ust. 2 u.o.d.o. postępowania te są
+postępowaniami jednoinstancyjnymi.
+Zgodnie z brzmieniem art. 44 § 4 k.p.a. w związku z art. 44 § 1 k.p.a., fikcja doręczenia
+zachodzi z upływem ostatniego dnia okresu, to jest 14 dni, w przypadku doręczenia pi‐
+sma osobie fizycznej w jej mieszkaniu lub miejscu pracy przez operatora pocztowego, a
+pismo pozostawia się w aktach sprawy.
+
+Ocena prawna
+Odnosząc przytoczone powyżej przepisy Rozporządzenia 2016/679 do ustalonego w ni‐
+niejszej sprawie stanu faktycznego rozważyć należy w pierwszej kolejności czy Przedsię‐
+biorca jest adresatem obowiązków, o których mowa w art. 31 oraz art. 58 ust. 1 lit. a) i
+e) Rozporządzenia 2016/679, naruszenie których podlega administracyjnej karze pie‐
+niężnej na podstawie art. 83 ust. 4 lit. a) i ust. 5 lit. e) Rozporządzenia 2016/679. Oba
+wskazane wyżej przepisy Rozporządzenia 2016/679 nakładają obowiązki procesowe – w
+ramach prowadzonych przez Prezesa UODO postępowań – na administratorów i na pod‐
+mioty przetwarzające. W związku z tym, że postępowanie o sygn. (…) zainicjowane zo‐
+stało przekazanym przez Przedsiębiorcę zgłoszeniem naruszenia ochrony danych osobo‐
+wych polegającym na zaszyfrowaniu za pomocą oprogramowania ransomware serwera
+Przedsiębiorcy, stwierdzić należy, że Przedsiębiorca w niniejszym postępowaniu wystę‐
+puje w roli administratora (zob. pkt 1 uzasadnienia niniejszej decyzji).
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:doke_561_16/content
+
+2025-09-03 13:26
+
+Decyzja DOKE.561.16.2023
+
+Strona 8 z 9
+
+W postępowaniu o sygn. (…) w celu uzyskania informacji niezbędnych do oceny niniej‐
+szego naruszenia ochrony danych osobowych, w oparciu o art. 58 ust. 1 lit. a) i e) Rozpo‐
+rządzenia 2016/679 Prezes UODO uprawniony był do nakazania Przedsiębiorcy przedsta‐
+wienia takich informacji, natomiast Przedsiębiorca w niniejszej sprawie był zobowiązany
+do ich udzielenia. W związku z powyższym, w postępowaniu o sygn. (…), Prezes UODO
+kilkakrotnie – pismami z 5 marca 2021 r, 26 marca 2021 r., 11 czerwca 2021 r. oraz 18
+lutego 2022 r. – zwracał się do Przedsiębiorcy z wezwaniem do złożenia wyjaśnień po‐
+przez udzielenie odpowiedzi na szczegółowe pytania dotyczące sprawy. Niniejsze wezwa‐
+nia zostały skutecznie doręczone Przedsiębiorcy, lecz Przedsiębiorca nie udzielił na zada‐
+ne przez organ nadzorczy pytania odpowiedzi. Powyższe doprowadziło do wszczęcia po‐
+stępowania w przedmiocie nałożenia na Przedsiębiorcę administracyjnej kary pieniężnej
+za naruszenie art. 31 oraz art. 58 ust. 1 lit. a) i e) Rozporządzenia 2016/679, lecz z uwagi
+na fakt, że Przedsiębiorca nie odebrał informacji o wszczęciu postępowania i o zgroma‐
+dzeniu materiału dowodowego z 8 września 2023 r. o sygn. (…), dopiero kontakt pracow‐
+nika Departamentu (…) Urzędu Ochrony Danych Osobowych doprowadził do złożenia
+przez Przedsiębiorcę wyjaśnień w sprawie.
+Po wszczęciu przez Organ postępowania administracyjnego w przedmiocie nałożenia na
+Przedsiębiorcę administracyjnej kary pieniężnej rozpoznawanego pod sygn. DOKE.
+561.16.2023, Przedsiębiorca w wyjaśnieniach datowanych na 21 lutego 2024 r. uzasad‐
+niał brak odpowiedzi na wezwania organu nadzorczego, swoją trudną sytuacją rodzinną
+(zob. pkt 10 uzasadnienia niniejszej decyzji). W tym miejscu należy zauważyć, że Przed‐
+siębiorca powinien być świadomy, że czynność zgłoszenia naruszenia ochrony danych
+osobowych może zainicjować podjęcie działań Prezesa UODO, które są przewidziane
+przepisami Rozporządzenia 2016/679 i które będą wymagać kontaktu z nim. Przedsię‐
+biorca podejmował kierowaną do niego korespondencję, więc miał wiedzę na temat tre‐
+ści żądań organu nadzorczego oraz konsekwencji niezłożenia w terminie zakreślonym
+przez Prezesa UODO wyjaśnień w sprawie o sygn. (…). Jakkolwiek wiarygodne jest uza‐
+sadnienie Przedsiębiorcy w przedmiocie braku odpowiedzi, nie zwalnia go z obowiązku
+dostarczenia Prezesowi UODO, na jego żądanie, wszelkich informacji niezbędnych do re‐
+alizacji jego zadań. W przypadku napotkanych przez Przedsiębiorcę trudności w wywią‐
+zywaniu się z ciążących na nim obowiązków, powinien rozważyć zasadność ustanowienia
+pełnomocnika, który reprezentowałby go w postępowaniu administracyjnym powadzo‐
+nym przez organ nadzorczy. Przedsiębiorca decydując się na samodzielne prowadzenie
+swoich spraw, powinien godzić się z ryzykiem z tego wynikającym oraz możliwymi jego
+skutkami – w tym wypadku z uznaniem przez Prezesa UODO, że brak odpowiedzi Przed‐
+siębiorcy na wezwania organu nadzorczego stanowić będzie naruszenie art. 31 oraz art.
+58 ust. 1 lit. a) i e) Rozporządzenia 2016/679.
+Uwzględniając wyjaśnienia Przedsiębiorcy złożone w niniejszym postępowaniu, Prezes
+UODO stanął na stanowisku, że stwierdzone naruszenie polegające na braku współpracy
+z Prezesem UODO w ramach wykonywanych przez niego jego zadań oraz niezapewnie‐
+niu organowi nadzorczemu dostępu do danych osobowych i informacji niezbędnych do
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:doke_561_16/content
+
+2025-09-03 13:26
+
+Decyzja DOKE.561.16.2023
+
+Strona 9 z 9
+
+realizacji jego zadań, nie miało charakteru umyślnego, lecz wynikało z sytuacji osobistej
+Przedsiębiorcy. Jednocześnie naruszenie to zostało przez Przedsiębiorcę usunięte po po‐
+wzięciu informacji o toczącym się postępowaniu w przedmiocie nałożenia na niego admi‐
+nistracyjnej kary pieniężnej, tj. z chwilą wpłynięcia do Urzędu Ochrony Danych
+Osobowych w dniu 1 marca 2024 r. jego wyjaśnień.
+Mając na uwadze powyższe, Prezes UODO uznał za uzasadnione udzielenie Przedsiębior‐
+cy upomnienia w zakresie stwierdzonego naruszenia art. 58 ust. 1 lit. a) i e) oraz art. 31
+Rozporządzenia 2016/679, przyjmując jednocześnie, że w świetle kryteriów określonych
+w art. 83 ust. 2 Rozporządzenia 2016/679 będzie ono skuteczne i wystarczające. Należy
+jednak zauważyć, że w przypadku zaistnienia podobnego zdarzenia w przyszłości, każde
+upomnienie wydane przez Prezesa UODO wobec Przedsiębiorcy będzie uwzględnione
+przy ocenie przesłanek warunkujących zasadność wymierzenia kary administracyjnej,
+zgodnie z zasadami określonymi w art. 83 ust. 2 Rozporządzenia 2016/679 i
+poczytywane będzie na jego niekorzyść.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął jak w sentencji niniejszej
+decyzji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2023:doke_561_16/content
+
+2025-09-03 13:26
+

@@ -1,0 +1,223 @@
+Warszawa, 19 stycznia 2022
+PRAWOMOCNA
+
+Decyzja
+DKE.561.14.2021
+
+Na podstawie art. 104 § l ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r., poz. 735 ze zm.) w związku z art. 7 i art. 60 ustawy
+z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r., poz. 1781) oraz
+na podstawie art. 58 ust. 1 lit. a) i lit. e) oraz art. 58 ust. 2 lit. b) rozporządzenia Parla‐
+mentu Europejskiego i Rady UE 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony
+osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodne‐
+go przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie
+o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, ze zmianami ogłoszonymi w
+Dz. Urz. UE L 127 z 23.05.2018, str.2, oraz w Dz. Urz. UE L 74 z 04.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w przedmiocie nałożenia admini‐
+stracyjnej kary pieniężnej na T. Sp. z o.o. z siedzibą przy ul. (…) w W., Prezes Urzędu
+Ochrony Danych Osobowych,
+udziela upomnienia T. Sp. z o.o. z siedzibą w W. przy ul. (…), za naruszenie przepisów
+art. 58 ust. 1 lit. a) i lit. e) Rozporządzenia Parlamentu Europejskiego i Rady UE 2016/679
+z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarza‐
+niem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchyle‐
+nia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z
+04.05.2016, str. 1, ze zmianami ogłoszonymi w Dz. Urz. UE L 127 z 23.05.2018, str. 2,
+oraz w Dz. Urz. UE L 74 z 04.03.2021, str. 35), polegające na niezapewnieniu Prezesowi
+Urzędu Ochrony Danych Osobowych dostępu do danych osobowych i informacji
+niezbędnych do realizacji jego zadań.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_14/content
+
+2025-09-03 13:41
+
+Decyzja DKE.561.14.2021
+
+Strona 2 z 5
+
+Uzasadnienie
+W dniu 12.06.2020 r. do Urzędu Ochrony Danych Osobowych wpłynęło zgłoszenie T. Sp.
+z o.o. (dalej: „Spółka”) z siedzibą w W. przy ul. (…) dotyczące naruszenia ochrony da‐
+nych osobowych polegającego na przeprowadzeniu ataku pishingowego w wyniku które‐
+go osoba nieuprawniona uzyskała dane logowania do konta pocztowego pracownika
+księgowości.
+Wobec konieczności pozyskania informacji dodatkowych niezbędnych do oceny okolicz‐
+ności związanych z prawdopodobnym naruszeniem ochrony danych osobowych, Prezes
+Urzędu Ochrony Danych Osobowych (dalej także: „Prezes UODO”) w ramach wszczętego
+postępowania administracyjnego o sygnaturze DKN.5130.3402.2020 zwrócił się do Spół‐
+ki pismem z 17 listopada 2020 r. aby w terminie 7 dni od dnia doręczenia przedmiotowej
+korespondencji złożyła następujące wyjaśnienia:
+1) czy Spółka posiada wdrożoną procedurę dotyczącą retencji danych przetwarzanych
+za pośrednictwem poczty elektronicznej;
+2) czy wdrożona została procedura określająca zasady dostępu pracowników do
+poszczególnych kont poczty elektronicznej Spółki;
+3) jakie są zabezpieczenia techniczne oraz organizacyjne na wypadek utraty dostępno‐
+ści odnoszących do skrzynek poczty elektronicznej w zakresie archiwizacji oraz
+wykonywania kopii zapasowych;
+4) czy pracownicy odbyli szkolenia w zakresie bezpiecznego korzystania z poczty elek‐
+tronicznej uświadamiające ich w tematyce potencjalnych ataków socjotechnicznych
+oraz informatycznych oraz metod ochrony przed nimi;
+5) czy o zaistniałym naruszeniu zostały powiadomione organy ścigania.
+Wzmiankowane pismo, przesłane za pośrednictwem polskiego operatora pocztowego na
+ujawniony w Krajowym Rejestrze Sądowym (KRS) adres siedziby Spółki, zostało odebra‐
+ne 19.11.2020 r. Wobec braku odpowiedzi Prezes UODO ponownie pismem z 8 kwietnia
+2021 r. zwrócił się do Spółki o złożenie wyjaśnień wyznaczając 7 dniowy termin na usto‐
+sunkowanie się do tak sformułowanego żądania. Jednocześnie Spółkę pouczono o tym,
+że brak udzielenia wyczerpującej odpowiedzi na wezwanie skutkować może nałożeniem
+administracyjnej kary pieniężnej, o której mowa w art. 83 ust. 5 lit. e) Rozporządzenia
+2016/679. Pismo zostało odebrane 12 kwietnia 2021 r. Na żadne z obu wymienionych
+pism, Spółka nie udzieliła odpowiedzi.
+W związku z brakiem informacji niezbędnych do rozstrzygnięcia sprawy o sygnaturze
+DKN.5130.3402.2020, Prezes UODO wszczął wobec Spółki z urzędu – na podstawie art.
+83 ust. 5 lit. e) Rozporządzenia 2016/679 – postępowanie administracyjne w przedmiocie
+nałożenia administracyjnej kary pieniężnej w związku z naruszeniem art. 58 ust. 1 lit. a) i
+e) Rozporządzenia 2016/679. Prezes UODO pouczył Spółkę, że nie wywiązuje się z obo‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_14/content
+
+2025-09-03 13:41
+
+Decyzja DKE.561.14.2021
+
+Strona 3 z 5
+
+wiązku zapewnienia informacji niezbędnych do realizacji zadań urzędu, co może skutko‐
+wać nałożeniem administracyjnej kary pieniężnej. Zobowiązał Spółkę do przedstawienia
+sprawozdania finansowego w przeciągu 7 dni od dnia doręczenia pisma. Ponadto poin‐
+formował, że dostarczenie wyjaśnień w powyższym terminie może wpłynąć łagodząco na
+wymiar administracyjnej kary pieniężnej lub też może spowodować od jej odstąpienia. O
+wszczęciu postępowania Spółkę poinformowano pismem z 19 lipca 2021 r. o sygnaturze
+DKE.561.14.2021, a korespondencję skierowaną za pośrednictwem Poczty Polskiej
+Spółka odebrała 23 lipca 2021 r.
+W odpowiedzi na pismo informujące o wszczęciu postępowania administracyjnego, Spół‐
+ka pismem z 30 lipca 2021 r. złożyła wyjaśnienia pozwalające na dalsze prowadzenie
+postępowania w sprawie o sygnaturze DKN.5130.3402.2020. Oświadczyła przy tym, iż
+bardzo poważanie podchodzi do ochrony danych osobowych, a brak odbioru korespon‐
+dencji wynikał ze względów organizacyjnych związanych z pandemią w wyniku których
+doszło do zagubienia przesyłki. Spółka dołączyła też sprawozdanie finansowe za 2020 r.
+Po zapoznaniu się z całością materiału dowodowego zebranego w sprawie Prezes Urzędu
+Ochrony Danych Osobowych zważył, co następuje.
+Zgodnie z art. 57 ust. 1 lit. a) Rozporządzenia 2016/679, Prezes UODO, jako organ nad‐
+zorczy w rozumieniu art. 51 Rozporządzenia 2016/679, na swoim terytorium monitoruje i
+egzekwuje stosowanie tego rozporządzenia. W ramach swoich kompetencji Prezes UODO
+uprawniony jest m. in. do prowadzenia postępowań w sprawie stosowania przepisów
+omawianego aktu prawnego (art. 57 ust. 1 lit. h)), w tym postępowań związanych z oce‐
+ną naruszeń ochrony danych osobowych, zgłaszanych Prezesowi UODO przez admini‐
+stratorów stosownie do treści art. 33 Rozporządzenia 2016/679. Dla umożliwienia reali‐
+zacji tak określonych zadań, Prezesowi UODO przysługuje szereg określonych w art. 58
+ust. 1 Rozporządzenia 2016/679 uprawnień w zakresie prowadzonych postępowań, w
+tym uprawnienie do nakazania administratorowi i podmiotowi przetwarzającemu dostar‐
+czenia wszelkich informacji potrzebnych do realizacji jego zadań (art. 58 ust. 1 lit. a))
+oraz uprawnienie do uzyskania od administratora i podmiotu przetwarzającego dostępu
+do wszelkich danych osobowych i informacji niezbędnych do realizacji jego zadań (art.
+58 ust. 1 lit. e)). Naruszenie przepisów Rozporządzenia 2016/679, polegające na nieza‐
+pewnieniu przez administratora lub podmiot przetwarzający dostępu do danych i infor‐
+macji, o których mowa powyżej, skutkujące naruszeniem uprawnień organu określonych
+w art. 58 ust. 1, podlega – zgodnie z art. 83 ust. 5 lit. e) in fine Rozporządzenia 2016/679
+– administracyjnej karze pieniężnej w wysokości do 20 000 000 EUR, a w przypadku
+przedsiębiorstwa – w wysokości do 4 % jego całkowitego rocznego światowego obrotu z
+poprzedniego roku obrotowego, przy czym zastosowanie ma kwota wyższa.
+Ponadto Prezesowi UODO przysługuje szereg określonych w art. 58 ust. 2 uprawnień na‐
+prawczych, w tym udzielanie upomnień administratorowi lub podmiotowi przetwarzają‐
+cemu w przypadku naruszenia przepisów Rozporządzenia 2016/679 przez operacje prze‐
+twarzania. Prezes UODO, działając na podstawie art. 58 ust. 2 lit. b) Rozporządzenia
+2016/679, może uznać za uzasadnione udzielenie administratorowi upomnienia w zakre‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_14/content
+
+2025-09-03 13:41
+
+Decyzja DKE.561.14.2021
+
+Strona 4 z 5
+
+sie stwierdzonego naruszenia przepisów art. 58 ust. 1 lit. a) i e) Rozporządzenia
+2016/679. Zgodnie z motywem 148 Rozporządzenia 2016/679, aby egzekwowanie prze‐
+pisów rozporządzenia było skuteczniejsze należy za jego naruszenie nakładać sankcje, w
+tym administracyjne kary pieniężne – oprócz lub zamiast odpowiednich środków nakła‐
+danych na mocy niniejszego rozporządzenia przez organ nadzorczy. Jeżeli naruszenie
+jest niewielkie, karę pieniężną można zastąpić upomnieniem. Powinno się jednak zwrócić
+należytą uwagę na charakter, wagę oraz czas trwania naruszenia, na to czy naruszenie
+nie było umyślne, na działania podjęte przez administratora dla zminimalizowania szko‐
+dy, na stopień odpowiedzialności lub wszelkie mające znaczenie wcześniejsze narusze‐
+nia, na sposób w jaki organ nadzorczy dowiedział się o naruszeniu, na przestrzeganie
+środków nałożonych na administratora lub podmiot przetwarzający, na stosowanie ko‐
+deksów postępowania oraz wszelkie inne czynniki obciążające lub łagodzące.
+Odnosząc przytoczone powyżej przepisy Rozporządzenia 2016/679 do ustalonego w ni‐
+niejszej sprawie stanu faktycznego stwierdzić należy, że Spółka jako strona
+postępowania o sygnaturze DKN.5130.3402.2020, poprzez brak udzielenia merytorycz‐
+nej odpowiedzi na wezwania organu nadzorczego do złożenia wyjaśnień, naruszyła obo‐
+wiązek zapewnienia Prezesowi UODO dostępu do informacji i danych osobowych nie‐
+zbędnych do realizacji jego zadań, wynikający z art. 58 ust. 1. lit. a) i lit. e) Rozporządze‐
+nia 2016/679. W tym przypadku informacją istotną dla dalszego kierunku postępowania
+było ustalenie czy Spółka posiada wdrożoną procedurę dotyczącą retencji danych prze‐
+twarzanych za pośrednictwem poczty elektronicznej, czy wdrożona została procedura
+określająca zasady dostępu pracowników do poszczególnych kont poczty elektronicznej
+Spółki, jakie są zabezpieczenia techniczne oraz organizacyjne na wypadek utraty do‐
+stępności odnoszących do skrzynek poczty elektronicznej w zakresie archiwizacji oraz
+wykonywania kopii zapasowych, czy pracownicy odbyli szkolenia w zakresie bezpieczne‐
+go korzystania z poczty elektronicznej uświadamiające ich w tematyce potencjalnych
+ataków socjotechnicznych oraz informatycznych oraz metod ochrony przed nimi, czy o
+zaistniałym naruszeniu zostały powiadomione organy ścigania.
+Uniemożliwianie uzyskania dostępu do informacji, których Prezes UODO żądał od Spółki
+stało na przeszkodzie wnikliwemu rozpatrzeniu sprawy i skutkowało przedłużaniem po‐
+stępowania, co stoi w sprzeczności z podstawowymi zasadami rządzącymi postępowa‐
+niem administracyjnym – określonymi w art. 12 ust. 1 ustawy z dnia 14 czerwca 1960 r.
+Kodeks postępowania administracyjnego (Dz. U. z 2021 r., poz. 735 ze zm.) zasadami
+wnikliwości i szybkości postępowania.
+Prezes UODO, celem ustalenia stanu faktycznego sprawy o sygnaturze DKN.
+5130.3402.2020 dwukrotnie zwrócił się do Spółki z żądaniem nadesłania wyjaśnień. Na
+żadne z wystosowanych pism datowanych na 17 listopada 2020 r. oraz 8 kwietnia 2021
+r., nie otrzymał odpowiedzi. Powyższe spowodowało konieczność wszczęcia niniejszego
+postępowania w przedmiocie nałożenia administracyjnej kary pieniężnej w rezultacie
+czego, Spółka podjęła współpracę z Prezesem UODO poprzez przesłanie szczegółowych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_14/content
+
+2025-09-03 13:41
+
+Decyzja DKE.561.14.2021
+
+Strona 5 z 5
+
+wyjaśnień w postępowaniu o sygnaturze DKN.5130.3402.2020, co pozwoliło Prezesowi
+UODO na dalsze prowadzenie czynności w ww. sprawie.
+Uwzględniając powyższe ustalenia, nie budzi wątpliwości fakt, że Spółka swoim zacho‐
+waniem dopuściła się naruszenia przepisów Rozporządzenia 2016/679. Przedstawione
+przez Spółkę uzasadnienie braku odpowiedzi na wezwania Prezesa UODO nie zdejmuje z
+niej odpowiedzialności za stwierdzone zaniechanie. Równolegle jednak, wskazane przez
+Spółkę przyczyny początkowego braku współpracy z organem nadzorczym należało
+uwzględnić jako wiarygodne oraz mające istotny wpływ na ocenę zachowania Spółki w
+kontekście wyboru zastosowanej wobec niej w niniejszym postępowaniu sankcji. W oce‐
+nie Prezesa UODO, brak reakcji Spółki na kierowane do niej wezwania do złożenia wyja‐
+śnień wynikał z zaniedbania Spółki sprowadzającego się do zagubienia przesyłki.
+W przedmiotowym stanie faktycznym, oprócz braku odpowiedzi na wezwania do złożenia
+wyjaśnień – który to brak został uzupełniony przez Spółkę w rezultacie wszczęcia niniej‐
+szego postępowania – nie stwierdzono innych przesłanek wskazujących na brak woli
+współpracy Spółki z Prezesem UODO. Okoliczności sprawy, a w szczególności późniejsza
+postawa Spółki pozwalają wnioskować, że jej początkowa opieszałość nie wynikała ze
+złej woli, ani nie miała na celu świadomego utrudnienia postępowania. Przeciwnie – na‐
+stępcza, aktywna postawa Spółki wskazuje na gotowość do dalszego współdziałania z
+Prezesem UODO. W ocenie organu nadzorczego, samo już wszczęcie postępowania w
+przedmiocie nałożenia administracyjnej kary pieniężnej oraz realna perspektywa wymie‐
+rzenia kary finansowej stały się dla Spółki wyraźnym sygnałem tego, iż dalsze uchylanie
+się od obowiązków nałożonych przepisami Rozporządzenia 2016/679, nieuchronnie pro‐
+wadziło będzie do zastosowania wobec niego najsurowszych, przewidzianych tymi
+przepisami sankcji.
+Mając powyższe na uwadze, działając na podstawie art. 58 ust. 2 lit. b) Rozporządzenia
+2016/679, zgodnie z którym każdemu organowi nadzorczemu przysługuje w zakresie
+prowadzonych postępowań uprawnienie do udzielania upomnienia administratorowi lub
+podmiotowi przetwarzającemu, w przypadku naruszenia przepisów niniejszego rozporzą‐
+dzenia przez operacje przetwarzania, Prezes UODO uznał za uzasadnione udzielenie
+Spółce upomnienia w zakresie stwierdzonego naruszenia przepisów art. 58 ust. 1 lit. a) i
+lit. e) Rozporządzenia 2016/679 przyjmując, że w świetle kryteriów określonych w art. 83
+ust. 2 Rozporządzenia 2016/679 będzie ono skuteczne i wystarczające. Należy jednakże
+zauważyć, że w przypadku zaistnienia podobnego zdarzenia w przyszłości, każde upo‐
+mnienie wydane przez Prezesa UODO wobec Spółki będzie brane pod uwagę przy ocenie
+przesłanek ewentualnego wymierzenia kary administracyjnej, zgodnie z zasadami
+określonymi w art. 83 ust. 2 Rozporządzenia 2016/679.
+W tym stanie faktycznym i prawnym Prezes UODO rozstrzygnął jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:dke_561_14/content
+
+2025-09-03 13:41
+

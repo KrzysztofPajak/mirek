@@ -1,0 +1,252 @@
+Warszawa, 5 lipca 2022
+PRAWOMOCNA
+
+Decyzja
+DS.523.4158.2020
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r. poz. 735) w zw. z art. 7 ust. 1 i 2 ustawy z dnia 10
+maja 2018 r. (Dz. U. z 2019 r., poz. 1781), art. 6 ust. 1 oraz art. 58 ust. 2 lit. c rozporzą‐
+dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w
+sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w
+sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+(ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz.
+Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35)
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana TY, zam. w
+A., os. (…), na nieprawidłowości w procesie przetwarzania jego danych osobowych przez
+(…) S.A. z siedzibą w A. przy ul. (…), polegające na przetwarzaniu danych osobowych
+Skarżącego bez podstawy prawnej oraz odmowie usunięcia tych danych, Prezes Urzędu
+Ochrony Danych Osobowych:
+nakazuje (…) S.A. z siedzibą w A. przy ul. (…), usunięcie danych osobowych Pana TY,
+zam. w A., os. (…).
+
+Uzasadnienie
+Do Prezesa Urzędu Ochrony Danych Osobowych wpłynęła skarga Pana TY, zam. w A., os.
+(…), zwanego dalej Skarżącym, na nieprawidłowości w procesie przetwarzania jego da‐
+nych osobowych przez (…) S.A. z siedzibą w A. przy ul. (…), zwaną dalej Bankiem, pole‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:ds_523_4158/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.4158.2020
+
+Strona 2 z 6
+
+gające na przetwarzaniu danych osobowych Skarżącego bez podstawy prawnej oraz
+odmowie usunięcia tych danych.
+W toku prowadzonego postępowania administracyjnego Prezes Urzędu Ochrony Danych
+Osobowych, zwany dalej również Prezesem UODO, ustalił następujący stan faktyczny:
+1. W skardze inicjującej niniejsze postępowanie Skarżący wskazał, że podjął próbę za‐
+łożenia konta w Banku poprzez jego system bankowości elektronicznej. Skarżący
+wskazał, że w związku z wymuszaniem udzielenia zgody na przesyłanie treści mar‐
+ketingowych w trakcie procesu zakładania konta, odstąpił od jego założenia. Skarżą‐
+cy wskazał, że złożył reklamację w Banku, a po bezskutecznym zakończeniu postę‐
+powania reklamacyjnego Bank nadal przetwarza jego dane osobowe, nie mając do
+tego podstaw. Wobec powyższego Skarżący złożył do Prezesa UODO skargę, wno‐
+sząc o nakazanie Bankowi usunięcie jego danych osobowych. (dowód: skarga z dnia
+13 sierpnia 2020 r. z załącznikami);
+2. W złożonych wyjaśnieniach Bank wskazał, że pozyskał cyt.: „(…) dane osobowe
+Skarżącego bezpośrednio od osoby, której dane dotyczą w dniu 16 marca 2020 r. w
+związku z działaniami zmierzającymi do zawarcia Umowy o prowadzenie rachunków
+bankowych oraz usług płatniczych dla Klientów indywidualnych pomiędzy Skarżą‐
+cym a Bankiem (złożenie przez Skarżącego 2 wniosków o zawarcie umowy za po‐
+średnictwem strony internetowej Banku). Podstawą prawną był w tej sytuacji art. 6
+ust. 1 lit. b Ogólnego Rozporządzenia o Ochronie Danych Osobowych (RODO).” Bank
+wskazał, że w związku z powyższym pozyskał dane Skarżącego w zakresie: imię, na‐
+zwisko, PESEL, seria i numer dokumentu tożsamości, numer telefonu, adres poczty
+elektronicznej, adres zamieszkania. Bank wskazał również, że w związku z tym, że
+złożone przez Skarżącego wnioski nie zakończyły się zawarciem umowy, ich treść
+została przez Bank trwale usunięta. (dowód: wyjaśnienia Spółki z dnia 27
+października 2020 r.);
+3. Bank wskazał, że obecnie przetwarza dane Skarżącego w celu rozpatrywania zgło‐
+szeń oraz roszczeń na podstawie przepisów ustawy z dnia 5 sierpnia 2015 r. o rozpa‐
+trywaniu reklamacji przez podmioty rynku finansowego i o Rzeczniku Finansowym,
+zwanej dalej ustawą o rozpatrywaniu reklamacji, a w szczególności w oparciu o art.
+3 - 10 tej ustawy, a także na potrzeby związane z przeciwdziałaniem nadużyciom i
+przestępstwom gospodarczym, co stanowi prawnie uzasadniony interes Banku, na
+podstawie art. 6 ust. 1 lit. f rozporządzenia Parlamentu Europejskiego i Rady (UE)
+2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z
+przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich da‐
+nych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie
+danych) (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2
+oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35), zwanego dalej RODO. Bank wskazał rów‐
+nież, że Skarżący nie wystąpił wobec Banku z żadnym roszczeniem, i Bank również
+nie wystąpił z roszczeniami wobec Skarżącego. (dowód: wyjaśnienia Banku z dnia 27
+października 2020 r. z załącznikami oraz wyjaśnienia Banku z dnia 19 kwietnia 2021
+r. z załącznikami);
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:ds_523_4158/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.4158.2020
+
+4.
+
+5.
+
+Strona 3 z 6
+
+Bank wyjaśnił również, że Skarżący zwrócił się do Banku w dniu 2 czerwca 2020 r. z
+żądaniem usunięcia jego danych osobowych, ale Bank odmówił spełnienia tego żą‐
+dania powołując się na przesłanki legalizujące dalsze przetwarzanie. (dowód: wyja‐
+śnienia Banku z dnia 27 października 2020 r. wraz z załącznikami);
+Pismem z dnia 15 kwietnia 2021 r. Prezes UODO zwrócił się do Banku m.in. o wska‐
+zanie przesłanek i przepisu prawa, który jest podstawą do przetwarzania danych
+osobowych Skarżącego na potrzeby związane z przeciwdziałaniem nadużyciom i
+przestępstwom gospodarczym. W udzielonej odpowiedzi z dnia 19 kwietnia 2020 r.,
+ani w żadnym innym piśmie, Bank nie odniósł się do powyższej kwestii. (dowód: pi‐
+smo Prezesa UODO z dnia 15 kwietnia 2021 r. oraz wyjaśnienia Banku z dnia 19
+kwietnia 2021 r. z załącznikami).
+
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego, Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+Przepisem uprawniającym administratorów danych do przetwarzania zwykłych danych
+osób fizycznych jest art. 6 ust. 1 RODO, zgodnie z którym, przetwarzanie danych jest do‐
+puszczalne tylko wtedy, gdy spełniona jest jedna z przesłanek wskazanych w tym przepi‐
+sie. Katalog przesłanek wymienionych w art. 6 ust. 1 RODO, jest zamknięty. Każda z
+przesłanek legalizujących proces przetwarzania danych osobowych ma charakter auto‐
+nomiczny i niezależny. Oznacza to, że przesłanki te co do zasady są równoprawne, a wo‐
+bec tego spełnienie co najmniej jednej z nich stanowi o zgodnym z prawem przetwarza‐
+niu danych osobowych. W konsekwencji Spółka może przetwarzać dane osobowe Skar‐
+żącej wykazując spełnienie przynajmniej jednej enumeratywnie wskazanej przesłanki.
+Zgoda osoby, której dane dotyczą (art. 6 ust. 1 lit. a) nie będzie jedyną podstawą zgod‐
+ności z prawem przetwarzania danych osobowych. Na mocy przepisu RODO przetwarza‐
+nie danych jest dopuszczalne m.in. gdy jest niezbędne do celów wynikających z prawnie
+uzasadnionych interesów realizowanych przez administratora lub przez stronę trzecią, z
+wyjątkiem sytuacji, w których nadrzędny charakter wobec tych interesów mają interesy
+lub podstawowe prawa i wolności osoby, której dane dotyczą, wymagające ochrony da‐
+nych osobowych, w szczególności gdy osoba, której dane dotyczą, jest dzieckiem (art. 6
+ust. 1 lit. f ).
+Przytaczając motyw 47 RODO należy wskazać, że podstawą prawną przetwarzania mogą
+być prawnie uzasadnione interesy administratora, w tym administratora, któremu mogą
+zostać ujawnione dane osobowe, lub strony trzeciej, o ile w świetle rozsądnych oczeki‐
+wań osób, których dane dotyczą, opartych na ich powiązaniach z administratorem nad‐
+rzędne nie są interesy lub podstawowe prawa i wolności osoby, której dane dotyczą. Taki
+prawnie uzasadniony interes może istnieć na przykład w przypadkach, gdy zachodzi
+istotny i odpowiedni rodzaj powiązania między osobą, której dane dotyczą, a administra‐
+torem, na przykład gdy osoba, której dane dotyczą, jest klientem administratora lub
+działa na jego rzecz. Należy uznać, że dochodzenie przez podmiot roszczeń finansowych
+jest prawnie uzasadnionym interesem i w tym sensie nadrzędnym nad prawami i wolno‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:ds_523_4158/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.4158.2020
+
+Strona 4 z 6
+
+ściami osoby, której dane dotyczą, bowiem dochodzenie roszczeń nie stanowi
+nieproporcjonalnego ograniczenia tych praw i wolności.
+Dodatkowo, proces przetwarzania danych osobowych musi być zgodny z zasadami wyra‐
+żonymi w art. 5 ust. 1 RODO. Jedną z zasad wyrażoną w art. 5 ust. 1 lit. b jest zasada
+ograniczonego celu, zgodnie z którą dane mogą być zbierane w konkretnych, wyraźnych
+i prawnie uzasadnionych celach i nieprzetwarzane dalej w sposób niezgodny z tymi cela‐
+mi. Natomiast w myśl zasady ograniczenia przechowywania, wyrażonej w art. 5 ust. 1 lit.
+e RODO, dane osobowe powinny być przechowywane w formie umożliwiającej identyfi‐
+kację osoby, której dane dotyczą, przez okres nie dłuższy, niż jest to niezbędne do ce‐
+lów, w których dane te są przetwarzane; dane osobowe można przechowywać przez
+okres dłuższy, o ile będą one przetwarzane wyłącznie do celów archiwalnych w interesie
+publicznym, do celów badań naukowych lub historycznych lub do celów statystycznych
+na mocy art. 89 ust. 1, z zastrzeżeniem że wdrożone zostaną odpowiednie środki tech‐
+niczne i organizacyjne wymagane na mocy niniejszego rozporządzenia w celu ochrony
+praw i wolności osób, których dane dotyczą.
+Z ustalonego w niniejszej sprawie stanu faktycznego wynika, że Bank pozyskał dane oso‐
+bowe Skarżącego bezpośrednio od niego. Podstawą prawną pozyskania i przetwarzania
+tych danych był art. 6 ust. 1 lit. b RODO, w związku z podejmowaniem czynności przed
+zawarciem umowy. Skarżący przekazał Bankowi swoje dane osobowe podczas zakładania
+konta w systemie bankowości elektronicznej Banku, jednakże ostatecznie do założenia
+konta i zawarcia umowy nie doszło. Wskazać należy, że między stronami nie zawiązał się
+żaden stosunek prawny, w związku z tym, odpadła przesłanka legalizująca przetwarzanie
+danych osobowych Skarżącego przez Bank w oparciu o ww. podstawę. Mimo to Bank
+kontynuuje przetwarzanie danych Skarżącego, wskazując jako podstawę tego przetwa‐
+rzania przepisy ustawy o rozpatrywaniu reklamacji, w szczególności art. 3 - 10 tej usta‐
+wy, a także potrzeby związane z przeciwdziałaniem nadużyciom i przestępstwom gospo‐
+darczym, co w ocenie Banku stanowi jego prawnie uzasadniony interes zgodnie z art. 6
+ust. 1 lit. f RODO.
+Odnosząc się do wskazanych przez Bank podstaw przetwarzania danych osobowych
+Skarżącego w oparciu o przepisy ustawy o rozpatrywaniu reklamacji, podkreślić należy,
+że Skarżący złożył do Banku reklamację dotyczącą procesu zakładania konta w Banku.
+Reklamacja ta została przez Bank rozpatrzona, Bank nie dopatrzył się błędów w stosowa‐
+nej procedurze i postępowanie reklamacyjne zostało zakończone. Wobec powyższego, w
+ocenie Prezesa UODO, Bank nie posiada obecnie podstaw do dalszego przetwarzania da‐
+nych Skarżącego w celu rozpatrywania reklamacji, w oparciu o ww. przesłankę z art. 6
+ust. 1 RODO. Zebrany w sprawie materiał dowodowy nie wykazał również, by Skarżący
+wystąpił z roszczeniem wobec Banku, które uzasadniałyby jego uprawnie do zachowania
+i przetwarzania danych osobowych Skarżącego w związku z ich zabezpieczeniem i do‐
+chodzeniem przez Skarżącego. W ocenie Prezesa UODO, brak jest spełnienia wskazywa‐
+nej przez Bank przesłanki niezbędności do celów wynikających z prawnie usprawiedliwio‐
+nych interesów realizowanych przez administratora odnośnie przetwarzania danych oso‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:ds_523_4158/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.4158.2020
+
+Strona 5 z 6
+
+bowych Skarżącego w ww. zakresie. Przesłanka z art. 6 ust. 1 lit. f RODO dotyczy sytuacji
+już istniejącej, w której celem wynikającym z prawnie uzasadnionych interesów realizo‐
+wanych przez administratora jest konieczność udowodnienia, potrzeba dochodzenia lub
+obrony przed roszczeniem istniejącym, nie zaś sytuacji, gdy dane są przetwarzane w
+celu zabezpieczenia się przed ewentualnym roszczeniem. W niniejszej sprawie Skarżący
+co prawda skierował do Banku reklamację, jednakże została ona przez Bank rozpoznana
+i postępowanie reklamacyjne zakończyło się. W związku z tym, w chwili obecnej Bank
+przetwarza dane Skarżącego w ww. celu wyłącznie „na zapas”, aby zabezpieczyć się
+przed ewentualnym przyszłymi i niepewnymi roszczeniami Skarżącego. Prezes Urzędu
+Ochrony Danych Osobowych podziela ponadto stanowisko Naczelnego Sądu Administra‐
+cyjnego w Warszawie, wyrażone w wyroku z dnia 6 marca 2019 r. (sygn. I OSK 994/17),
+w którym NSA stwierdził: „zdaniem Naczelnego Sądu Administracyjnego przetwarzanie
+danych osobowych W. L., który cofnął zgodę na ich przetwarzanie, nie jest niezbędne dla
+wypełnienia prawnie usprawiedliwionych celów realizowanych przez E. S.A., a którym
+jest prawo do podjęcia obrony przed ewentualnymi roszczeniami lub zarzutami dotyczą‐
+cymi przetwarzania danych W. L. (…) Prawidłowe jest stanowisko Sądu pierwszej instan‐
+cji, że niedopuszczalne jest przetwarzanie danych osobowych niejako "na zapas" z
+założeniem, że mogą być one ewentualnie przydatne w przyszłości.”
+Z uwagi na to, że Bank nie wskazał roszczenia, którego zaspokojenia domaga się od
+Skarżącego, jak również brak jest sporu toczącego się miedzy Skarżącym, a Bankiem, w
+ocenie Prezesa Urzędu Ochrony Danych Osobowych brak jest celu uzasadniającego prze‐
+twarzanie ww. danych osobowych Skarżącego, w rozumieniu art. 6 ust. 1 lit. f RODO. Wo‐
+bec powyższego, kontynuowanie do chwili obecnej przetwarzania danych osobowych
+Skarżącego w celu rozpatrywania ewentualnych reklamacji, należy uznać za zbędne i
+niezgodne z obowiązującymi przepisami o ochronie danych osobowych.
+Ponadto wskazać należy, że pomimo wyraźnego wezwania Banku przez Prezesa UODO
+do wskazania przesłanek i konkretnych przepisów prawa, które są podstawą do przetwa‐
+rzania danych osobowych Skarżącego na wskazane przez Bank potrzeby związane z
+przeciwdziałaniem nadużyciom i przestępstwom gospodarczym, Bank w udzielonej odpo‐
+wiedzi nie wskazał tych informacji. Wobec powyższego w ocenie Prezesa UODO Bank nie
+wykazał podstaw do przetwarzania danych Skarżącego również w celu przeciwdziała‐
+niem nadużyciom i przestępstwom gospodarczym. Bank jedynie w sposób ogólny wska‐
+zał, że powyższy proces następuje w oparciu o art. 6 ust 1 lit. f RODO, nie wykazał jed‐
+nak, że proces ten jest niezbędny do celów wynikających z prawnie uzasadnionych inte‐
+resów realizowanych przez administratora, które są nadrzędne wobec podstawowych
+praw i wolności osoby, której dane dotyczą, wymagających ochrony danych osobowych.
+Bank nie wykazał także, aby ww. proces znajdował oparcie w jakiejkolwiek innej prze‐
+słance legalizującej, spośród określonych w art. 6 ust. 1 RODO. Wskazać należy, że po‐
+stępowanie administracyjne prowadzone przez Prezesa UODO służy kontroli zgodności
+przetwarzania danych z przepisami o ochronie danych osobowych i jest ukierunkowane
+na wydanie decyzji administracyjnej. Decyzje Prezesa UODO służą przywróceniu stanu
+zgodnego z prawem na podstawie art. 58 ust. 2 RODO. Bank nie wykazał podstawy
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:ds_523_4158/content
+
+2025-09-03 13:38
+
+Decyzja DS.523.4158.2020
+
+Strona 6 z 6
+
+prawnej, która legalizowałaby proces przetwarzania danych osobowych Skarżącego, wo‐
+bec powyższego, korzystając z uprawnienia przewidzianego w art. 58 ust. 2 lit. c RODO,
+Prezes Urzędu Ochrony Danych Osobowych nakazał Bankowi usunięcie wszystkich
+danych osobowych Skarżącego.
+W tym stanie faktycznym oraz prawnym Prezes Urzędu Ochrony Danych Osobowych
+orzekł, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2020:ds_523_4158/content
+
+2025-09-03 13:38
+

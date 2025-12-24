@@ -1,0 +1,302 @@
+Warszawa, 30 maja 2022
+PRAWOMOCNA
+
+Decyzja
+DS.523.399.2021
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz. U. z 2021 r. poz. 735 ze zm.) w zw. z art. 7 ust 1 ustawy o ochro‐
+nie danych osobowych z dnia 10 maja 2018 roku (Dz. U. z 2019 r. poz. 1781) oraz w zw.
+art. 6 ust. 1, art. 13 ust. 1-2, art. 58 ust. 2 lit. b oraz d rozporządzenia Parlamentu Euro‐
+pejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fi‐
+zycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego prze‐
+pływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o
+ochronie danych) (Dz. Urz. UE L 119 z 4 maja 2016 r., str. 1, Dz. Urz. UE L 127 z 23 maja
+2018 r., str. 2 oraz Dz. Urz. UE L 74 z 4 marca 2021 r., str. 35) [zwanego dalej: rozporzą‐
+dzeniem 2016/679],
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pana R. M. oraz
+Pani A. M., zam. w R., na nieprawidłowości w procesie przetwarzania ich danych osobo‐
+wych przez Panią Ż. J. oraz Pana J. J., zam. w R., reprezentowanych przez adw. D. J. B.,
+polegające na przetwarzaniu danych osobowych Skarżących bez podstawy prawnej za
+pomocą monitoringu wizyjnego oraz niewypełnieniu wobec Skarżących obowiązku infor‐
+macyjnego, o którym mowa w art. 13 ust. 1 i 2 ww. aktu prawnego, Prezes Urzędu
+Ochrony Danych Osobowych
+1) nakazuje Pani Ż. J. oraz Panu J. J., zam. w R., zaprzestanie przetwarzania danych
+osobowych Pana R. M. oraz Pani A. M., zam. w R., pochodzących z nagrań z monito‐
+ringu wizyjnego wykraczającego poza granice należącej do nich nieruchomości, tj.
+drogi publicznej oraz ich usunięcie z dotychczas utrwalonych nagrań;
+2) udziela Pani Ż. J. oraz Panu J. J., zam. w R., upomnienia za naruszenie art. 13 ust. 1
+lit. c, d, e oraz ust. 2 lit. a, b, d rozporządzenia 2016/679, polegającego na niespeł‐
+nieniu wobec Pana R. M. oraz Pani A. M., zam. w R., obowiązku informacyjnego w
+przypadku zbierania danych od osoby, której dane dotyczą.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_399/content
+
+2025-09-03 13:39
+
+Decyzja DS.523.399.2021
+
+Strona 2 z 7
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych (zwanego dalej: UODO) wpłynęła skarga Pana R.
+M. oraz Pani A. M., zam. w R. (zwanych dalej: Skarżącymi), na nieprawidłowości w proce‐
+sie przetwarzania ich danych osobowych przez Panią Ż. J. oraz Pana J. J., zam. w R. (zwa‐
+nych dalej: Skarżącymi), reprezentowanych przez Pana adw. D. J. B., polegające na prze‐
+twarzaniu danych osobowych Skarżących bez podstawy prawnej za pomocą monitoringu
+wizyjnego oraz niewypełnieniu wobec Skarżących obowiązku informacyjnego, o którym
+mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679.
+W toku przeprowadzonego postępowania wyjaśniającego w niniejszej sprawie Prezes
+Urzędu Ochrony Danych Osobowych (zwany dalej także: Prezesem UODO) ustalono
+następujący stan faktyczny:
+1. Skarżeni wskazali, że zainstalowane na ich nieruchomości kamery obejmują swoim
+zasięgiem wyłącznie obszar ich posesji, wobec czego monitoring sprowadza się do
+przetwarzania danych w ramach czynności o czysto osobistym lub domowym cha‐
+rakterze. Do tego zaś przetwarzania rozporządzenie 2016/679 nie ma zastosowania.
+Ponadto podnieśli, że urządzenia rejestrujące obszar ich posesji nie ingerują w sferę
+prywatności Skarżących (dowód: wyjaśnienia Skarżonych z (…) lipca 2021 r.).
+2. Skarżeni podnieśli również, że do miejsc objętych monitoringiem wykraczających
+poza teren ich nieruchomości została zastosowana tzw. maska prywatności (dowód:
+wyjaśniania Skarżonych z (…) lipca 2021 r.).
+3. Skarżeni wskazali, że monitoring został zainstalowany wyłącznie w celu zwiększenia
+bezpieczeństwa ich mienia. Ponadto wspomnieli, że od ok. 3 lat toczy się postępo‐
+wanie w Sądzie Rejonowym w C. (sygn. akt (…)) dotyczące zachowań Pana R. M.
+(dowód: wyjaśniania Skarżonych z (…) lipca 2021 r.).
+4. Do wyjaśnień z (…) stycznia 2022 r. (data wpływu do UODO) Skarżeni załączyli ma‐
+teriał dowodowy w postaci wydruków obrazu z trzech kamer zainstalowanych na ich
+posesji. Kamera nr 1 nagrywa teren znajdujący się przed posesją tj. podjazd wraz z
+bramą nr 1 (w prawej części obrazu zastosowana jest maska prywatności ogranicza‐
+jąca zasięg stosowanego monitoringu), kamera nr 2 nagrywa teren znajdujący się
+przed posesją tj. podjazd, bramę nr 1, ogród Skarżonych oraz fragment drogi pu‐
+blicznej znajdujący się za ogrodzeniem Skarżonych (w prawej części obrazu zastoso‐
+wana jest maska prywatności ograniczająca zasięg stosowanego monitoringu, zaś w
+lewej części widoczny jest fragment drogi publicznej znajdującej się za ogrodzeniem
+nieruchomości), kamera nr 3 nagrywa teren posesji Skarżonych wraz z bramą nr 2
+(dowód: wyjaśnienia Skarżonych z (…) stycznia 2022 r.).
+5. Na bramie garażu Skarżonych został zamontowany znak informacyjny „obiekt moni‐
+torowany” (dowód: wyjaśnienia Skarżonych z (…) stycznia 2022 r.).
+6.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_399/content
+
+2025-09-03 13:39
+
+Decyzja DS.523.399.2021
+
+Strona 3 z 7
+
+Skarżący nie zwracali się do Skarżonych z wnioskiem o usunięcie ich danych osobo‐
+wych pozyskanych za pomocą stosowanego monitoringu wizyjnego (dowód:
+wyjaśnienia Skarżonej z (…) stycznia 2022 r.).
+Na podstawie zgromadzonego w przedmiotowej sprawie materiału dowodowego Prezes
+UODO zważył, co następuje.
+Sprawa dotyczy danych z zakresu tzw. „danych zwykłych”, których przetwarzanie regu‐
+lowane jest w art. 6 ust. 1 rozporządzenia 2016/679, zgodnie z którym przetwarzanie da‐
+nych osobowych jest dopuszczalne tylko wtedy, gdy spełniona jest jedna z przesłanek
+wskazanych w tym przepisie. Katalog przesłanek wymienionych w art. 6 ust. 1 rozporzą‐
+dzenia 2016/679 jest zamknięty. Każda z przesłanek legalizujących proces przetwarzania
+danych osobowych ma charakter autonomiczny i niezależny. Oznacza to, że przesłanki
+te co do zasady są równoprawne, a wobec tego spełnienie co najmniej jednej z nich
+stanowi o zgodnym z prawem przetwarzaniu danych osobowych.
+Poza legitymowaniem się przesłanką legalizującą przetwarzanie danych osobowych ad‐
+ministrator jest zobowiązany m.in. do postępowania zgodnie z zasadami określonymi w
+art. 5 ust. 1 rozporządzenia 2016/679, przy czym musi być w stanie wykazać ich prze‐
+strzeganie (art. 5 ust. 2 rozporządzenia 2016/679). Wśród zasad tych mieści się m.in. za‐
+sada zgodności z prawem, rzetelności i przejrzystości (lit. a) czy zasada minimalizacji da‐
+nych (lit. c), która wymaga, by proces przetwarzania danych osobowych był adekwatny,
+stosowny oraz ograniczony do tego, co niezbędne do celów, w których dane osobowe są
+przetwarzane.
+W art. 2 rozporządzenia 2016/679 wskazany został materialny zakres stosowania ogól‐
+nego rozporządzenia o ochronie danych. Zgodnie z treścią art. 2 ust. 2 lit. c rozporządze‐
+nia 2016/679 nie ma ono zastosowania do przetwarzania danych osobowych przez oso‐
+bę fizyczną w ramach czynności o czysto osobistym lub domowym charakterze. Motyw
+18 wyjaśnia pojęcie „działalności czysto osobistej lub domowej” wskazując, że jest to
+działalność bez związku z działalnością zawodową lub handlową. Działalność osobista lub
+domowa może między innymi polegać na korespondencji i przechowywaniu adresów,
+podtrzymywaniu więzi społecznych oraz działalności internetowej podejmowanej w
+ramach takiej działalności.
+Europejska Rada Ochrony Danych (zwana dalej: EROD) w Wytycznych 3/2019 w sprawie
+przetwarzania danych osobowych przez urządzenia wideo zajęła stanowisko, że jeżeli
+chodzi o urządzenia wideo działające na prywatnej posiadłości danej osoby, mogą one
+być objęte wyjątkiem dla gospodarstw domowych. Jednocześnie odwołując się do wyroku
+Trybunału Sprawiedliwości Unii Europejskiej z dnia 6 listopada 2003 r., C-101/01, wyda‐
+nego w sprawie LINDQVIST, pkt 47, EROD wskazała, że należy przyjąć wąską interpreta‐
+cję art. 2 ust. 2 lit. c rozporządzenia 2016/679, tzw. wyjątku dla gospodarstw domowych.
+W kontekście monitoringu wizyjnego tzw. „wyjątek dla gospodarstw domowych” powi‐
+nien być „interpretowany jako obejmujący wyłącznie działania wchodzące w zakres życia
+prywatnego lub rodzinnego jednostki”. Z kolei za wyrokiem z 11 grudnia 2014 r. w spra‐
+wie C-212/13 František Ryneš przeciwko Úřad pro ochranu osobnych údajů, pkt 33, wy‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_399/content
+
+2025-09-03 13:39
+
+Decyzja DS.523.399.2021
+
+Strona 4 z 7
+
+danym przez Trybunał Sprawiedliwości UE, Europejska Rada Ochrony Danych powtórzy‐
+ła, że jeżeli system monitoringu wizyjnego, o ile obejmuje on ciągłe nagrywanie i
+przechowywanie danych osobowych i rozciąga się „choćby częściowo na przestrzeń pu‐
+bliczną i tym samym jest skierowany poza sferę prywatną osoby dokonującej w ten spo‐
+sób przetwarzania danych, o tyle nie powinien on być rozumiany jako czynność o czysto
+«osobistym lub domowym charakterze» w rozumieniu art. 3 ust. 2 tiret drugie dyrektywy
+95/46”.
+Zgromadzony materiał dowodowy wykazał, że monitoring zainstalowany przez Skarżo‐
+nych obejmuje – poza obszarem należącej do nich nieruchomości – drogę publiczną znaj‐
+dującą się za ogrodzeniem Skarżonych (k. 27 akt sprawy). Zasięg zainstalowanego moni‐
+toringu wizyjnego znajdującego się naprzeciwko posesji Skarżących jest ograniczony po‐
+przez zastosowanie tzw. strefy prywatności, tj. elektronicznego ograniczenia rejestrowa‐
+nego obrazu przestrzeni wykraczającej poza nieruchomość Skarżonych, przy czym nie
+jest on zastosowany do pełnego obszaru wykraczającego poza granicę ich działki.
+W ocenie organu nadzorczego, przetwarzanie danych osobowych pochodzących z na‐
+grań monitoringu wizyjnego przez osobę fizyczną w celu opisanym w art. 2 ust. 2 lit. c
+rozporządzenia 2016/679 może odbywać się wyłącznie, gdy zasięg monitoringu, z które‐
+go pochodzą nagrania, obejmuje jedynie nieruchomość stanowiącą jej własność. Stoso‐
+wany przez Skarżonych monitoring obejmuje swoim zasięgiem ogólnie dostępną drogę
+publiczną znajdującą się za ogrodzeniem Skarżonych do usytuowanych przy niej nieru‐
+chomości (w tym nieruchomości Skarżących), po której każdy może się swobodnie prze‐
+mieszczać. Rozciąga się więc na przestrzeń, w której znajdować się mogą osoby niema‐
+jące żadnego związku z rodziną Skarżonych, mające prawo do zachowania swojej anoni‐
+mowości, w tym też Skarżący. Skierowanie kamer na drogę publiczną (przestrzeń pu‐
+bliczną) powoduje, że dochodzi do ciągłej obserwacji tego terenu, czego skutkiem jest
+przetwarzanie danych osobowych osób przemieszczających się po tym terenie. Tym sa‐
+mym stosowanie przez Skarżonych systemu monitoringu w wykazanym zakresie nie
+może być rozumiane jako działalność o czysto osobistym lub domowym charakterze (na
+którą w toku niniejszego postępowania wskazywali Skarżeni), do której nie mają
+zastosowania przepisy rozporządzenia 2016/679.
+W tym miejscu należy podkreślić, że proces konfigurowania sfery prywatności – tzw. ma‐
+skowania obszaru obrazu, który jest wyłączony z monitoringu – jest procesem odwracal‐
+nym i może być w każdym czasie zmieniony przez użytkownika systemu monitoringu.
+Możliwość wielokrotnej zmiany ustawień pola widzenia kamery, a tym samym modyfiko‐
+wania nałożonej tzw. strefy prywatności na dowolne obszary, nie może być uznana za
+skuteczne narzędzie, które w sposób trwały zapewni wyłączenie danego obszaru z moni‐
+toringu. W konsekwencji możliwość taka powoduje, że nie jest zapewniona ochrona
+prywatności osób mogących znaleźć się w zasięgu kamery.
+W kontekście zaś oceny działań Skarżonych jako niemających charakteru wyłącznie pry‐
+watnego/domowego okoliczność stosowania tzw. strefy prywatności jest pozbawiona
+prawnej doniosłości; tym bardziej, że w przedmiotowej sprawie maskowanie zostało za‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_399/content
+
+2025-09-03 13:39
+
+Decyzja DS.523.399.2021
+
+Strona 5 z 7
+
+stosowane do niepełnego obszaru objętego monitoringiem wizyjnym. Ocena taka jest
+uzasadniona w obliczu możliwości takiego skonfigurowania systemu monitoringu, aby w
+dowolnym momencie pozwalał on na stałą lub czasową obserwację przestrzeni publicz‐
+nej, a tym samym przetwarzanie danych osobowych Skarżących jako osób regularnie ko‐
+rzystających z tego obszaru. Stosowanie tego rozwiązania w ogóle (niezależnie od tego,
+czy maski są faktycznie stosowane czy nie), jak i sposób korzystania z niego (jaki obszar
+zostanie ewentualnie zamaskowany, czy z jakiego obszaru maska zostanie zdjęta)
+pozostaje bowiem w wyłącznej dyspozycji właściciela systemu.
+Biorąc pod uwagę usytuowanie urządzeń monitoringu i ich zasięg oraz okoliczność, że
+Skarżący poruszają się po terenie objętym monitoringiem, należy uznać, że funkcjono‐
+wanie systemu wiąże się z przetwarzaniem ich danych osobowych – i to niezależnie od
+stosowanych stref prywatności, których stosowanie może być w każdej chwili wyłączone.
+W przedmiotowej sprawie, w ocenie Prezesa UODO, przetwarzanie przez Skarżonych da‐
+nych osobowych Skarżących w zakresie wizerunku pochodzącego z monitoringu wizyjne‐
+go obejmującego swoim zasięgiem obszar znajdujący się za ogrodzeniem Skarżonych
+nie znajduje uzasadnienia w przepisach rozporządzenia 2016/679. Skarżeni nie wykazali
+żadnej podstawy prawnej, która uzasadniałaby przetwarzanie takich danych osobowych.
+Wskazana przez Skarżonych potrzeba zapewnienia bezpieczeństwa mienia na terenie ich
+posesji, jak wskazano powyżej, jest uzasadnieniem dla wykonywania monitoringu wizyj‐
+nego mieszczącego się swoim zasięgiem w granicach ich działek. Okoliczność ta nie
+może uzasadniać wykonywania monitoringu w szerszym zakresie, tj. obejmującym drogę
+publiczną.
+Tym samym przetwarzanie przez Skarżonych danych osobowych Skarżących pochodzą‐
+cych z monitoringu wizyjnego wykraczającego poza granice nieruchomości należącej do
+Skarżonych stanowi naruszenie przepisu art. 6 ust. 1 rozporządzenia 2016/679.
+W odniesieniu zaś do zrealizowania wobec Skarżących obowiązku informacyjnego wyni‐
+kającego z art. 13 ust. 1 i 2 rozporządzenia 2016/679 wskazać należy, że powinien on
+zostać spełniony przez administratora w przypadku, jeżeli dane osobowe pozyskano od
+osoby, której dane dotyczą. Administrator zobowiązany jest w takiej sytuacji podać na‐
+stępujące informacje: swoją tożsamość i dane kontaktowe oraz, gdy ma to zastosowanie,
+tożsamość i dane kontaktowe swojego przedstawiciela (ust. 1 lit. a), gdy ma to zastoso‐
+wanie – dane kontaktowe inspektora ochrony danych (ust. 1 lit. b), cele przetwarzania
+danych osobowych, oraz podstawę prawną przetwarzania (ust. 1 lit. c), jeżeli przetwa‐
+rzanie odbywa się na podstawie art. 6 ust. 1 lit. f – prawnie uzasadnione interesy realizo‐
+wane przez administratora lub przez stronę trzecią (ust. 1 lit. d), informacje o odbiorcach
+danych osobowych lub o kategoriach odbiorców, jeżeli istnieją (ust. 1 lit. e), gdy ma to
+zastosowanie – informacje o zamiarze przekazania danych osobowych do państwa trze‐
+ciego lub organizacji międzynarodowej oraz o stwierdzeniu lub braku stwierdzenia przez
+Komisję odpowiedniego stopnia ochrony lub w przypadku przekazania, o którym mowa w
+art. 46, art. 47 lub art. 49 ust. 1 akapit drugi, wzmiankę o odpowiednich lub właściwych
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_399/content
+
+2025-09-03 13:39
+
+Decyzja DS.523.399.2021
+
+Strona 6 z 7
+
+zabezpieczeniach oraz o możliwościach uzyskania kopii danych lub o miejscu
+udostępnienia danych (ust. 1 lit. f).
+Dodatkowo, zgodnie z art. 13 ust. 2 rozporządzenia 2016/679, poza informacjami o któ‐
+rych mowa w ust. 1, podczas pozyskiwania danych osobowych administrator podaje oso‐
+bie, której dane dotyczą, następujące inne informacje niezbędne do zapewnienia rzetel‐
+ności i przejrzystości przetwarzania: okres, przez który dane osobowe będą przechowy‐
+wane, a gdy nie jest to możliwe, kryteria ustalania tego okresu (ust. 2 lit. a), informacje
+o prawie do żądania od administratora dostępu do danych osobowych dotyczących oso‐
+by, której dane dotyczą, ich sprostowania, usunięcia lub ograniczenia przetwarzania lub
+o prawie do wniesienia sprzeciwu wobec przetwarzania, a także o prawie do przenosze‐
+nia danych (ust. 2 lit. b), jeżeli przetwarzanie odbywa się na podstawie art. 6 ust. 1 lit. a
+lub art. 9 ust. 2 lit. a – informacje o prawie do cofnięcia zgody w dowolnym momencie
+bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgo‐
+dy przed jej cofnięciem (ust. 2 lit. c), informacje o prawie wniesienia skargi do organu
+nadzorczego (ust. 2 lit. d), informację, czy podanie danych osobowych jest wymogiem
+ustawowym lub umownym lub warunkiem zawarcia umowy oraz czy osoba, której dane
+dotyczą, jest zobowiązana do ich podania i jakie są ewentualne konsekwencje niepoda‐
+nia danych (ust. 2 lit. e), informacje o zautomatyzowanym podejmowaniu decyzji, w tym
+o profilowaniu, o którym mowa w art. 22 ust. 1 i 4, oraz – przynajmniej w tych przypad‐
+kach – istotne informacje o zasadach ich podejmowania, a także o znaczeniu i przewidy‐
+wanych konsekwencjach takiego przetwarzania dla osoby, której dane dotyczą (ust. 2 lit.
+f).
+W wyjaśnieniach złożonych przed Prezesem UODO Skarżeni przedłożyli zdjęcie tablicy in‐
+formacyjnej „obiekt monitorowany”. Powyższe nie potwierdza jednak spełnienia wobec
+Skarżących obowiązku informacyjnego, o którym mowa w art. 13 ust. 1 i 2 rozporządze‐
+nia 2016/679. Spełnienie obowiązku informacyjnego ma m.in. funkcję poinformowania o
+prawach osoby, której dane osobowe są przetwarzane. Skarżeni, jako administratorzy
+danych osobowych przetwarzanych za pomocą monitoringu wizyjnego, nie wykonując
+ww. obowiązku, pozbawili Skarżących tego prawa. Skarżeni nie spełnili obowiązku infor‐
+macyjnego wobec Skarżących wynikającego z art. 13 ust. 1 i 2 rozporządzenia 2016/679,
+naruszając przy tym przepisy o ochronie danych osobowych. Zauważyć też należy, że
+zgodnie z art. 13 ust. 4 rozporządzenia 2016/679, ust. 1, 2 i 3 nie mają zastosowania,
+gdy – i w zakresie, w jakim – osoba, której dane dotyczą, dysponuje już tymi informacja‐
+mi. Skarżący dysponują zaś informacjami, o których mowa w art. 13 ust. 1 lit a ww. aktu
+prawnego, zaś materiał dowodowy zgromadzony w tej sprawie wykazał, że Skarżonych
+nie dotyczy obowiązek określony w art. 13 ust. 1 lit. b i f oraz w art. 13 ust. 2 lit. c, e
+oraz f rozporządzenia 2016/679.
+Mając na uwadze powyższe ustalenia należy stwierdzić, że zaistniała przesłanka do za‐
+stosowania przez organ nadzorczy uprawnień, o których mowa w art. 58 ust. 2 lit. d roz‐
+porządzenia 2016/679, i nakazania Skarżonym zaprzestania przetwarzania danych oso‐
+bowych Skarżących oraz ich usunięcia z dotychczas zebranych nagrań pochodzących z
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_399/content
+
+2025-09-03 13:39
+
+Decyzja DS.523.399.2021
+
+Strona 7 z 7
+
+monitoringu wizyjnego obejmującego swoim zasięgiem drogę publiczną. Wskazać przy
+tym należy, że w ocenie Prezesa UODO jednoznacznym dowodem na nieprzetwarzanie
+danych za pomocą monitoringu wizyjnego będzie zdemontowanie takich urządzeń,
+względnie skierowanie ich w sposób trwały poza sporny obszar monitorowania.
+Ponadto zebrany materiał dowodowy wykazał również, że Skarżeni nie wypełnili wobec
+Skarżących obowiązku informacyjnego, o którym mowa w art. 13 ust. 1 lit. c, d, e oraz
+ust. 2 lit. a, b, d rozporządzenia 2016/679. Wobec powyższego Prezes UODO, korzystając
+z przysługującego mu uprawnienia określonego w art. 58 ust. 2 lit. b rozporządzenia
+2016/679, udzielił Skarżonym upomnienia we wskazanym zakresie.
+W tym stanie faktycznym i prawnym Prezes Urzędu Ochrony Danych Osobowych
+rozstrzygnął, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2021:ds_523_399/content
+
+2025-09-03 13:39
+

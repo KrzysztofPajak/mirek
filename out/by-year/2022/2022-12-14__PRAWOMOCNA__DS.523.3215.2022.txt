@@ -1,0 +1,228 @@
+Warszawa, 14 grudnia 2022
+PRAWOMOCNA
+
+Decyzja
+DS.523.3215.2022
+
+Na podstawie art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania
+administracyjnego (Dz.U. z 2022 r. poz. 2000) oraz art. 5 ust. 1 lit. c, art. 6 ust. 1 i art. 58
+ust. 2 lit. b rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27
+kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych
+osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy
+95/46/WE (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2
+oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35),
+po przeprowadzeniu postępowania administracyjnego w sprawie skargi Pani M. W. za‐
+mieszkałej we W., na nieprawidłowości w procesie przetwarzania jej danych osobowych
+przez K. P.-F."P…." Sp. z o.o. z siedzibą we W., polegające na przetwarzaniu po ustaniu
+zlecenia jej danych osobowych przypisanych do pracowniczej skrzynki e-mail, tj.: imie‐
+nia, nazwiska, wizerunku, oraz wykorzystaniu ich w kontaktach z kontrahentami, Prezes
+Urzędu Ochrony Danych Osobowych
+udziela K. P.-F. "P…." Sp. z o.o. z siedzibą we W., upomnienia za naruszenie art. 5 ust. 1
+lit. c oraz art. 6 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z
+dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem
+danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia
+dyrektywy 95/46/WE (Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z
+23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 4.03.2021, str. 35), polegające na przetwarza‐
+niu po ustaniu zlecenia danych osobowych Pani M. W. zamieszkałej we W., przypisanych
+do imiennej skrzynki e-mail, oraz wykorzystaniu jej danych osobowych w zakresie
+imienia, nazwiska i wizerunku w kontaktach z kontrahentami drogą e-mail.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:ds_523_3215/content
+
+2025-09-03 13:35
+
+Decyzja DS.523.3215.2022
+
+Strona 2 z 5
+
+Uzasadnienie
+Do Urzędu Ochrony Danych Osobowych wpłynęła skarga Pani M W. zamieszkałej we W
+(…), dalej: Skarżąca, na nieprawidłowości w procesie przetwarzania jej danych
+osobowych przez K. P.-F. "P…" Sp. z o.o. z siedzibą we W. dalej: Spółka, polegające na
+przetwarzaniu po ustaniu zlecenia jej danych osobowych przypisanych do pracowniczej
+skrzynki e-mail, tj.: imienia, nazwiska, wizerunku, oraz wykorzystaniu ich w kontaktach z
+kontrahentami.
+W toku prowadzonego postępowania administracyjnego, Prezes Urzędu Ochrony Danych
+Osobowych ustalił następujący stan faktyczny.
+1. Skarżąca współpracowała ze Spółką w okresie od (…).03.2021 r. do dn. (…).06.2021
+r. na podstawie umowy zlecenia (dowód: pismo Skarżącej z (…).05.2022 r. wraz z
+załącznikami; pismo Spółki z (…).07.2022 r. wraz z załącznikami).
+2. W trakcie współpracy, Skarżącej została przydzielona indywidualna skrzynka e-mail
+do kontaktów z kontrahentami Spółki. W stopce szablonu wiadomości e-mail znajdo‐
+wały się dane osobowe Skarżącej, tj.: imię, nazwisko, stanowisko służbowe oraz
+zdjęcie z jej wizerunkiem (dowód: pismo Skarżącej z (…).05.2022 r. wraz z załączni‐
+kami; pismo Spółki z (…).07.2022 r. wraz z załącznikami).
+3. Skarżąca, po zakończeniu współpracy ze Spółką, pozyskała informacje, iż jej indywi‐
+dualny adres e-mail z danymi osobowymi wskazanymi w stopce wiadomości e-mail
+jest aktywnie wykorzystywany przez Spółkę do kontaktów z kontrahentami, m.in. z
+K. D. P. A. Ł. świadczącego usługi kadrowo-księgowe oraz z klientem Panem S. P.
+(dowód: pismo Skarżącej z (…).05.2022 r. wraz z załącznikami; pismo Spółki z (…).
+07.2022 r. wraz z załącznikami).
+4. Spółka wskazała, iż podstawą przetwarzania danych osobowych Skarżącej po zakoń‐
+czeniu współpracy w kwestionowanym zakresie jest prawnie uzasadniony interes
+Spółki. Spółka wyjaśniła, iż z uwagi na nagłą rezygnację Skarżącej ze zlecenia zmu‐
+szona była do natychmiastowego zastąpienia zleceniobiorcy. Spółka wykorzystała in‐
+dywidualną skrzynkę e-mail zawierającą dane osobowe Skarżącej, aby nie tracić
+możliwości nawiązania kontaktu z kontrahentami i dotychczasowymi klientami oraz
+zachować płynność komunikacji. Spółka poinformowała, że klient Spółki Pan S. P.
+kontaktował się bezpośrednio ze Skarżącą w celu uzyskania rozliczenia prowadzonej
+jednorazowej sprawy przez Spółkę, dlatego też zasadnym było, aby to właśnie z jej
+poczty e-mali zostało wysłane żądane rozliczenie. Podobnie K. D. P. A. Ł., zgodnie z
+polityką bezpieczeństwa Spółki, posiadała informacje o osobach, które wyłącznie
+mogą kontaktować się z Panem A. Ł. w sprawach finansowych. K. D. P. A. Ł. posiada‐
+ła w owym czasie informacje, że to Skarżąca odpowiedzialna jest za kontakt w imie‐
+niu Spółki. Spółka podkreśliła, że proces przetwarzania był ukierunkowany na kon‐
+kretny, wyraźny i prawnie uzasadniony cel, a indywidualna skrzynka e-mail zawiera‐
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:ds_523_3215/content
+
+2025-09-03 13:35
+
+Decyzja DS.523.3215.2022
+
+5.
+
+6.
+
+Strona 3 z 5
+
+jącą dane osobowe Skarżącej nie była wykorzystywana do pozyskiwania nowych
+klientów (dowód: pismo Spółki z (…).07.2022 r. wraz z załącznikami).
+Spółka wyjaśniła, że indywidualna skrzynka e-mail zawierającą dane osobowe Skar‐
+żącej była wykorzystywana przez Spółkę przez okres około 2 tygodni po zakończeniu
+współpracy ze Skarżącą, tj. do czasu wyznaczenia i przekazania niezbędnych infor‐
+macji osobie przejmującej obowiązki Skarżącej (dowód: pismo Spółki z (…).07.2022
+r. wraz z załącznikami).
+Spółka oświadczyła, iż indywidualna skrzynka e-mail zawierająca dane osobowe
+Skarżącej została zdezaktywowana i nie jest już wykorzystywana przez Spółkę.
+Obecnie Spółka nie przetwarza danych osobowych Skarżącej przypisanych do pra‐
+cowniczej skrzynki e-mail (dowód: pismo Spółki z (…).07.2022 r. wraz z załącznika‐
+mi).
+
+Po zapoznaniu się z całością zgromadzonego w sprawie materiału dowodowego Prezes
+Urzędu Ochrony Danych Osobowych zważył, co następuje.
+Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016
+r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i
+w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE
+(Dz. Urz. UE L 119 z 4.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz.
+UE L 74 z 4.03.2021, str. 35), dalej: RODO, określa obowiązki administratora, do których
+należy przetwarzanie danych osobowych z zachowaniem przesłanek określonych w tym
+rozporządzeniu. Przepisem uprawniającym administratorów do przetwarzania danych
+osób fizycznych jest art. 6 ust. 1 RODO, zgodnie z którym przetwarzanie danych jest do‐
+puszczalne tylko wtedy, gdy spełniona jest jedna z przesłanek wskazanych w tym przepi‐
+sie. Katalog przesłanek wymienionych w art. 6 ust. 1 RODO jest zamknięty. Każda z prze‐
+słanek legalizujących proces przetwarzania danych osobowych ma charakter autono‐
+miczny i niezależny. Oznacza to, że przesłanki te, co do zasady, są równoprawne, a wo‐
+bec tego spełnienie co najmniej jednej z nich stanowi o zgodnym z prawem
+przetwarzaniu danych osobowych.
+Spółka wskazała, iż przetwarzała dane osobowe Skarżącej w kwestionowany przez nią
+sposób na podstawie art. 6 ust. 1 lit. f RODO.
+Zgodnie z art. 6 ust. 1 lit. f RODOD, przetwarzanie danych jest zgodne z prawem w sytu‐
+acji, gdy jest to niezbędne do celów wynikających z prawnie uzasadnionych interesów
+realizowanych przez administratora lub przez stronę trzecią, z wyjątkiem sytuacji, w któ‐
+rych nadrzędny charakter wobec tych interesów mają interesy lub podstawowe prawa i
+wolności osoby, której dane dotyczą, wymagające ochrony danych osobowych, w
+szczególności gdy osoba, której dane dotyczą, jest dzieckiem.
+W celu legalizacji procesu przetwarzania danych w oparciu o art. 6 ust. 1 lit. f RODO, w
+pierwszym etapie koniecznym jest kumulatywne spełnienia dwóch przesłanek, tj. istnie‐
+nia po stronie administratora lub strony trzeciej prawne uzasadnionego interesu oraz
+niezbędności przetwarzania do realizacji celu wynikającego z powyższego interesu. W
+drugim etapie trzeba natomiast ocenić, czy nie jest spełniona przesłanka o charakterze
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:ds_523_3215/content
+
+2025-09-03 13:35
+
+Decyzja DS.523.3215.2022
+
+Strona 4 z 5
+
+negatywnym w postaci występowania w danym stanie faktycznym interesów lub podsta‐
+wowych praw i wolności podmiotu danych, które mają charakter nadrzędny wobec praw‐
+nie uzasadnionych interesów administratora lub strony trzeciej (D. Lubasz, W. Chomi‐
+czewski [w:] RODO. Ogólne rozporządzenie o ochronie danych. Komentarz, red. E. BielakJomaa, Warszawa 2018, art. 6.).
+Ustanawiając omawianą przesłankę dopuszczalności przetwarzania danych, prawodawca
+unijny posłużył się zwrotem niedookreślonym „prawnie uzasadniony interes”, nie definiu‐
+jąc tego pojęcia. Jak przyjmuje się w doktrynie, prawnie uzasadniony interes nie powi‐
+nien być rozumiany wąsko, jedynie jako interes wprost wynikający z przepisu prawa
+(przyznającego podmiotowi określone uprawnienie), należy interpretować go szerzej,
+jako różnego rodzaju interes, który znajduje swoje uzasadnienie w przepisach (Fajgielski
+Paweł, Test ważenia interesów i praw przy stosowaniu klauzuli prawnie uzasadnionych
+interesów, LEX). Może być to zatem interes faktyczny, gospodarczy lub prawny, ale taki,
+który jest zgodny z prawem. Prawodawca unijny w motywie 47 i 49, jako przykłady tego
+typu interesów wskazał: marketing bezpośredni, zapobieganie oszustwom, czy zapew‐
+nienie bezpieczeństwa usług oferowanych lub udostępnianych poprzez sieci i systemy.
+Następnie, konieczne jest wykazanie przez administratora, iż przetwarzanie jest niezbęd‐
+ne dla realizacji prawnie uzasadnionych interesów. Nie wystarczy zatem samo występo‐
+wanie tych interesów, lecz dodatkowo ich urzeczywistnienie musi wymagać przetwarza‐
+nia danych osobowych. Podobnie jak na gruncie przepisu art. 6 ust. 1 lit. b RODO, rów‐
+nież tutaj musi występować bezpośredni związek pomiędzy realizacją prawnie uzasad‐
+nionego interesu a potrzebą przetwarzania danych osobowych (D. Lubasz, W. Chomi‐
+czewski [w:] RODO. Ogólne rozporządzenie o ochronie danych. Komentarz, red. E. BielakJomaa, Warszawa 2018, art. 6.).
+Jednocześnie należy również zwrócić uwagę, że okoliczność istnienia prawnie uzasadnio‐
+nego interesu nie jest wystarczająca dla możliwości zastosowania tego przepisu, nie‐
+zbędne jest bowiem również wyważenie dwóch dóbr chronionych prawem, tj. prawnie
+uzasadnionego interesu administratora lub strony trzeciej z jednej strony i interesów,
+podstawowych praw oraz wolności podmiotu danych z drugiej. Należy zatem ocenić czy
+realizacja celu wynikającego z prawnie uzasadnionego interesu administratora lub strony
+trzeciej może naruszać interesy, podstawowe prawa lub wolności podmiotu danych, któ‐
+re wymagają ochrony danych osobowych. Interesy podmiotu danych są kategorią su‐
+biektywną dotyczącą konkretnego człowieka. Natomiast, podstawowych praw i wolności
+należy poszukiwać w Konstytucji RP, Karcie Praw Podstawowych Unii Europejskiej oraz
+Europejskiej Konwencji Praw Człowieka. Takim prawem będzie w szczególności prawo do
+dobrego imienia, godności czy reputacji.
+W przedmiotowej sprawie Spółka wskazała, iż przetwarzała dane osobowe Skarżącej w
+celu zapobiegnięcia utracie możliwości nawiązania kontaktu z kontrahentami Spółki oraz
+konieczności zachowania płynności kontaktu. O ile Spóła wskazała na istnienie po swojej
+stronie interesu gospodarczego, to jednak w sposób zupełny zaniechała wykazania nie‐
+zbędności przetwarzania danych osobowych Skarżącej w celu realizacji tego interesu.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:ds_523_3215/content
+
+2025-09-03 13:35
+
+Decyzja DS.523.3215.2022
+
+Strona 5 z 5
+
+Zauważyć należy, że zakończenie współpracy ze Skarżącą jako zleceniobiorcą Spółki,
+choćby nagłe, w żaden sposób nie wpływa na prawne funkcjonowanie Spółki w zakresie
+prowadzenia jej spraw i reprezentacji na zewnątrz. Spółka posiada organy, w tym zarząd,
+którego skład jest ujawniony w Krajowym Rejestrze Sądowym, wobec czego każdy z kon‐
+trahentów z łatwością może zweryfikować uprawnienia osoby kontaktującej się w imieniu
+Spółki. Nie uszło również uwadze organu przy rozpatrywaniu niniejszej sprawy, iż Spółka
+miała dostęp do listy kontaktów, z którymi korespondencję e-mail prowadziła Skarżąca, a
+także pełną treść tej korespondencji, co w zupełności było wystarczające do płynnego
+kontynuowania kontaktów z kontrahentami Spółki.
+Wobec powyższego, w ocenie Prezesa UODO, Spółka nie spełniła przesłanek wskazanych
+w art. 6 ust. 1 lit. f RODO uprawniających ją do przetwarzania danych Skarżącej w kwe‐
+stionowanym zakresie. Jednocześnie należy zauważyć, że Spółka nie wykazała, a organ
+nie stwierdził także zaistnienia innej z przesłanek wymienionych w art. 6 ust. 1 RODO, w
+oparciu o którą Spółka mogłaby w sposób zgodny z obowiązującymi przepisami przetwa‐
+rzać dane osobowe Skarżącego przypisane do jej indywidualnej skrzynki e-mail.
+Nadto wskazać trzeba, że wszelkie formy przetwarzania danych osobowych muszą odby‐
+wać się zgodnie z zasadami wymienionymi w art. 5 ust. 1 RODO. Dane osobowe powinny
+być przetwarzane m.in. zgodnie z prawem, w jasno określonym celu, adekwatne, sto‐
+sowne oraz ograniczone do tego, co niezbędne do celów, w których są przetwarzane
+(„minimalizacja danych”). W tym zakresie Prezes Urzędu Ochrony Danych Osobowych
+podziela stanowisko, zgodnie z którym nawet wówczas, gdy określone dane odpowiadają
+celowi, dla którego są zbierane i są dla tego celu adekwatne, to nie wynika z tego, iż
+mogą być one przetwarzane, w tym też udostępniane innym podmiotom (tak również: J.
+Barta, P. Fajgielski, R. Markiewicz, Ochrona danych osobowych, Komentarz, Kraków 2007,
+wyd. 4, s. 510).
+Ocena dokonywana przez Prezesa UODO w każdym przypadku służy zbadaniu zasadno‐
+ści skierowania pod adresem określonego podmiotu nakazu odpowiadającego dyspozycji
+art. 58 ust. 2 RODO służącego przywróceniu stanu zgodnego z prawem w procesie prze‐
+twarzania danych - jest więc ona uzasadniona i potrzebna tylko o tyle, o ile nieprawidło‐
+wości w procesie przetwarzania danych osobowych istnieją. W przedmiotowej sprawie
+udostępnienie danych osobowych Skarżącej nie miało oparcia w przesłankach określo‐
+nych w art. 6 ust. 1 RODO oraz nie było zgodne z zasadami określonymi w art. 5 ust. 1
+lit. c RODO, co stanowi naruszenie tych przepisów o ochronie danych osobowych, wobec
+czego Prezes UODO udziela upomnienia Spółce.
+W tym stanie faktycznym oraz prawnym Prezes Urzędu Ochrony Danych Osobowych
+orzekł, jak w sentencji.
+
+https://uodo.neurodoc.pl/document/urn:ndoc:gov:pl:uodo:2022:ds_523_3215/content
+
+2025-09-03 13:35
+
