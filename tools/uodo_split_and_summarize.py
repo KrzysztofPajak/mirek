@@ -305,6 +305,41 @@ def normalize_snippet(text: str) -> str:
     return text.strip()
 
 
+GDPR_TITLE_BOILERPLATE_RE = re.compile(
+    r"(?i)\b(rozporz\u0105dzen\w*|Rozporz\u0105dzen\w*)\s+Parlamentu\s+Europejskiego\s+i\s+Rady\s*(\(?(UE\)?\s*)?)?2016/679\b[^\.;]{0,350}",
+    re.UNICODE,
+)
+
+
+def shorten_violation_text(text: str) -> str:
+    """Make a 1-sentence, human-friendly violation snippet.
+
+    Keeps the core clause (e.g. 'naruszenie art. 6 ust. 1 RODO'),
+    removes long legal title boilerplate.
+    """
+    text = normalize_snippet(text)
+    if not text:
+        return text
+
+    # Remove common GDPR title boilerplate.
+    text = GDPR_TITLE_BOILERPLATE_RE.sub("RODO", text)
+
+    # Reduce repeated mentions.
+    text = re.sub(r"(?i)\b(UE\s*)?2016/679\b", "RODO", text)
+    text = re.sub(r"(?i)\bRozporz\u0105dzen\w*\b", "RODO", text)
+    text = re.sub(r"\s+", " ", text).strip()
+
+    # Keep only the first sentence-like chunk.
+    for sep in [".", ";"]:
+        if sep in text:
+            text = text.split(sep, 1)[0]
+            break
+
+    # Final cleanup: avoid trailing hyphenated cut-offs.
+    text = text.rstrip("- ")
+    return text
+
+
 def extract_violation_clause(decision_text: str) -> Optional[str]:
     sentencja = extract_sentencja_text(decision_text)
     lines = [ln.strip() for ln in sentencja.splitlines()]
@@ -502,7 +537,7 @@ def build_summary(dec: Decision) -> str:
 
     parts.append(f"{head}: {normalize_snippet(resolution)}.")
     if violation_clause:
-        parts.append(f"Naruszenie: {normalize_snippet(violation_clause)}.")
+        parts.append(f"Naruszenie: {shorten_violation_text(violation_clause)}.")
     if requirement:
         parts.append(f"Naruszony wym\u00f3g: {requirement}.")
     if fine:
@@ -616,7 +651,7 @@ def main(argv: Optional[List[str]] = None) -> int:
                     "signature": dec.signature or "",
                     "has_rodo_violation": "1" if has_violation else "0",
                     "resolution": normalize_snippet(resolution) if resolution else "",
-                    "violation": normalize_snippet(violation_clause) if violation_clause else ("" if has_violation else "brak stwierdzenia naruszenia"),
+                    "violation": shorten_violation_text(violation_clause) if violation_clause else ("" if has_violation else "brak stwierdzenia naruszenia"),
                     "violated_requirement": (requirement or "") if has_violation else "",
                     "fine": fine,
                     "rodo_articles": ";".join(articles),
@@ -634,7 +669,7 @@ def main(argv: Optional[List[str]] = None) -> int:
                         "status": dec.status or "",
                         "signature": dec.signature or "",
                         "resolution": normalize_snippet(resolution) if resolution else "",
-                        "violation": normalize_snippet(violation_clause) if violation_clause else "",
+                        "violation": shorten_violation_text(violation_clause) if violation_clause else "",
                         "violated_requirement": requirement or "",
                         "fine": fine,
                         "rodo_articles": ";".join(articles),
